@@ -1,33 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 define config.name = _("Outland Wanderer")
-
-
-
-
-
 define gui.show_name = True
-
-
-
-
 define config.version = "0.0.29"
-
-
-
-
 
 define gui.about = _p("""
 
@@ -67,150 +40,32 @@ Font: Adobe Garamond Pro
 
 """)
 
-
-
-
-
-
 define build.name = "Outland-Wanderer"
-
-
-
-
-
-
 
 define config.has_sound = True
 define config.has_music = True
 define config.has_voice = True
 
-
-
-
-
-
-
-
-
-
-
-
-
 define config.main_menu_music = "audio/Forest_Ambience.mp3"
-
-
-
-
-
-
-
-
-
 
 define config.enter_transition = dissolve
 define config.exit_transition = dissolve
-
-
-
-
 define config.intra_transition = dissolve
-
-
-
-
 define config.after_load_transition = None
-
-
-
-
 define config.end_game_transition = None
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 define config.window = "auto"
-
-
-
-
 define config.window_show_transition = Dissolve(.2)
 define config.window_hide_transition = Dissolve(.2)
 
-
-
-
-
-
-
 default preferences.text_cps = 40
-
-
-
-
-
 default preferences.afm_time = 15
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 define config.save_directory = "Test1-1648890977"
-
-
-
-
-
-
 define config.window_icon = "gui/window_icon.png"
 
-
-
-
-
-
 init python:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    import os
 
     build.archive("scripts", "all")
     build.archive("images", "all")
@@ -225,13 +80,6 @@ init python:
     build.classify('**LICENSE', None)
     build.classify('**.rpy', None)
     build.classify('**.md', None)
-    # Local audit/model/build artifacts and signing material must never enter
-    # a distributable package when the project is built from this checkout.
-    build.classify('_staging/**', None)
-    build.classify('game/saves/**', None)
-    build.classify('**.keystore', None)
-
-
 
     build.classify('game/**.rpyc', 'scripts')
     build.classify('game/**.png', 'images')
@@ -244,28 +92,71 @@ init python:
     build.classify('game/**.ttf', 'fonts')
     build.classify('game/**.otf', 'fonts')
 
+    def _gitignore_patterns(filename):
+        """Read Git-style ignore patterns and map them to build globs."""
+        try:
+            with open(filename, "rb") as ignore_file:
+                lines = ignore_file.read().splitlines()
+        except (IOError, OSError):
+            return []
 
+        result = []
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
 
+            literal = line.startswith("\\#") or line.startswith("\\!")
+            include = False
+            if literal:
+                line = line[1:]
+            elif line.startswith("#"):
+                continue
+            elif line.startswith("!"):
+                include = True
+                line = line[1:]
+
+            line = line.replace("\\ ", " ")
+            directory = line.endswith("/")
+            anchored = line.startswith("/")
+            line = line.strip("/")
+            if not line:
+                continue
+
+            if not anchored and "/" not in line and not line.startswith("**"):
+                line = "**" + line
+
+            if directory:
+                line += "/"
+
+            result.append((line, "all" if include else None))
+
+        # Git uses the last matching pattern in one ignore file, while
+        # Ren'Py uses the first matching build.classify rule.
+        return result[::-1]
+
+    def _classify_git_ignored_files():
+        """Apply repository-local ignore rules to Ren'Py build output."""
+        project_root = getattr(config, "basedir", None) or os.getcwd()
+        project_root = os.path.abspath(project_root)
+        ignore_files = [
+            os.path.join(project_root, ".gitignore"),
+            os.path.join(project_root, ".git", "info", "exclude"),
+        ]
+
+        # This runs after the required script and asset classifiers. Ren'Py's
+        # first matching build rule therefore still packages generated .rpyc
+        # files even though Git ignores those local bytecode files.
+        for ignore_file in ignore_files:
+            for pattern, file_list in _gitignore_patterns(ignore_file):
+                build.classify(pattern, file_list)
+
+    _classify_git_ignored_files()
 
     build.documentation('*.html')
     build.documentation('*.txt')
 
-
-
-
-
-
-
-
-
-
-
 define build.itch_project = "f1shsticker/outland-wanderer"
-
-
-
-
-
-
 define config.check_conflicting_properties = True
+
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
