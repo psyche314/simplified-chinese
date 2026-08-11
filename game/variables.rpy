@@ -318,7 +318,7 @@ default hide_table = True
 
 default selected_recipee = None
 default hovered_item_num = None
-default stat_names = ["STR", "AGI", "INT", "TEN", "CHA", "PUR", "HP", "MAX HP", "MP", "MAX MP", "LUST", "MAX LUST", "DEFENSE", "LUST DEFENSE", "DODGE", "LUST DODGE", "DAMAGE", "LUST DAMAGE", "ACCURACY", "CRIT CHANCE", "CRIT DAMAGE"]
+default stat_names = [_("STR"), _("AGI"), _("INT"), _("TEN"), _("CHA"), _("PUR"), _("HP"), _("MAX HP"), _("MP"), _("MAX MP"), _("LUST"), _("MAX LUST"), _("DEFENSE"), _("LUST DEFENSE"), _("DODGE"), _("LUST DODGE"), _("DAMAGE"), _("LUST DAMAGE"), _("ACCURACY"), _("CRIT CHANCE"), _("CRIT DAMAGE")]
 
 default sebas_restock = 0
 default gwyddyon_restock = 0
@@ -925,13 +925,13 @@ default quest_dictionary = [quest01, quest02, quest03, quest04, quest05, quest06
 
 
 
-default task01 = Task(_("Potion Order"), _("King's Pawn"), _("Ole"), _("Ole wants me to take up the potion order and get some potions from Haskell."), 1, '50 gold')
-default task02 = Task(_("Ale for Sale"), _("Nocturnal Trunk"), _("Cane"), _("Cane wants me to gather 3 rosemarys and use the scythe to harvest 3 barleys for his Ale."), 1, '50 gold')
+default task01 = Task(_("Potion Order"), _("King's Pawn"), _("Ole"), _("Ole wants me to take up the potion order and get some potions from Haskell."), 1, _("50 gold"))
+default task02 = Task(_("Ale for Sale"), _("Nocturnal Trunk"), _("Cane"), _("Cane wants me to gather 3 rosemarys and use the scythe to harvest 3 barleys for his Ale."), 1, _("50 gold"))
 default task03 = Task(_("Dangerous Ground"), _("Lusterfield"), _("Amble"), _("Amble wants me to defeat 3 landsharks to protect the farm."), 1)
 default task04 = Task(_("The Tailor's Yarn"), _("Rahim's House"), _("Rahim"), _("Rahim wants me to make clothes for him, maybe I'll get to know him more after this."), 1)
-default task05 = Task(_("Miner Amendment"), _("Ardent Cauldron"), _("Gwyddyon"), _("Gwyddyon wants me to collect 10 ores of his choosing, in the Chelforte Cavern."), 1, '75 gold')
-default task06 = Task(_("Herbs and Harvests"), _("Haskell's Hut"), _("Haskell"), _("Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."), 1, "75 gold {p}Potion Recipe")
-default task07 = Task(_("Food for thought"), _("Moonlit Wolf Den"), _("Tart"), _("Tart is hungry, I should bring him 5 pieces of meat."), 1, "Tart's Toy")
+default task05 = Task(_("Miner Amendment"), _("Ardent Cauldron"), _("Gwyddyon"), _("Gwyddyon wants me to collect 10 ores of his choosing, in the Chelforte Cavern."), 1, _("75 gold"))
+default task06 = Task(_("Herbs and Harvests"), _("Haskell's Hut"), _("Haskell"), _("Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."), 1, _("75 gold {p}Potion Recipe"))
+default task07 = Task(_("Food for thought"), _("Moonlit Wolf Den"), _("Tart"), _("Tart is hungry, I should bring him 5 pieces of meat."), 1, _("Tart's Toy"))
 
 default task_dictionary = [task01, task02, task03, task04, task05, task06, task07]
 

@@ -203,7 +203,7 @@ translate schinese_rewrite Battle_Kari_1aa8b32d:
 
 translate schinese_rewrite Battle_ASF_43d8069b:
 
-    "你消耗了周围所有的光谱球 并治愈了自己 RENPX0HP。[heal_amount]。"
+    "你消耗了周围所有的光谱球 并治愈了自己 [heal_amount]HP。"
 
 translate schinese_rewrite Battle_ASF_28c0b179:
 
@@ -299,11 +299,11 @@ translate schinese_rewrite goat_guard_battle_loop_e02a18ea:
 
 translate schinese_rewrite goat_guard_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite goat_guard_battle_loop_18302ba4:
 
-    "看来你打中山羊了 卖[oa[4]HP!"
+    "看来你打中山羊了 卖[oa[4]]HP!"
 
 translate schinese_rewrite goat_guard_battle_loop_697ea8f5:
 
@@ -755,11 +755,11 @@ translate schinese_rewrite goat_general_battle_loop_6a910eef:
 
 translate schinese_rewrite goat_general_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite goat_general_battle_loop_805ef890:
 
-    "看来你打中将军了 发[oa[4]HP！"
+    "看来你打中了将军 卖[oa[4]]HP!"
 
 translate schinese_rewrite goat_general_battle_loop_700af80c:
 
@@ -1439,11 +1439,11 @@ translate schinese_rewrite lothar_battle_loop_3981c466:
 
 translate schinese_rewrite lothar_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite lothar_battle_loop_5c706250:
 
-    "看来你打中了洛特哈尔 卖[oa[4]HP!"
+    "看来你打中了洛特哈尔 卖[oa[4]]HP!"
 
 translate schinese_rewrite lothar_battle_loop_e29bcb4d:
 

@@ -3,7 +3,7 @@
 translate schinese_rewrite strings:
 
     old "\n\nOutland Wanderer is a Visual Novel RPG created by f1shsticker.\n\nPlayer plays an outsider stumbling upon the continent of Mokken. In his attempt to travel back to his own Tribe, he bonds and form different relationship with the locals, tackles on unknown forces, and discover shocking yet compelling secret among them. But be ware, your decision will change their lives, forever.\n\nThis is a prototype, aims for laying foundations and systems, storytelling and other elements are not refined yet. A lot of bugs might also exists so there is a very high possibility your save would not be able to transfer to future build.\n\n==================================================================\n\n{a=https://discord.gg/QnbJMGhZhV}Official Discord Server{/a}\n\nCredit:\n\nCode/Art/Script: f1shsticker {a=https://twitter.com/OutlandWanderer}Twitter{/a}\n\nCode: 逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}\n\nScript: Nyarlothotep {a=https://twitter.com/LoveCountry45}Twitter{/a} {p}\n\nLonelyTree {a=https://discordapp.com/users/273928084388839425}Discord{/a}\n\nMagnolia\n\nMusic: Will o Wisp {a=https://soundcloud.com/willowispproductions}Twitter{/a}\n\nPinewood Jerry {a=https://twitter.com/Pinewood_Jerry}Twitter{/a}\n\nFrench Translation: Sannom(Paul) {a=https://twitter.com/SannomTigris}Twitter{/a}\n\nPortuguese Translation: Fábio.T {a=https://twitter.com/Fabio120938}Twitter{/a}\n\nSimplified Chinese Translation: 逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}, Dcl5, Robotic-Panda\n\nFont: Adobe Garamond Pro\n\n"
-    new "0RRNT5T:F1SDXXXTRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRNSRRRRRRRRRRRRRRRRRRRNRRRRRNSNSRRRRRRRRRNRRRNRRRRRRRNRRRRRRNRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRNTSRRRRRRRRRNTSRRRRRRRRRRRRNRRRRRRRRRNRRRRRRRRRRRRRRRRRRR\n\n\n\n\n\n\n\n\n\n{a=https://discord.gg/QnbJMGhZhV}{/a}\n\n\n\n{a=https://twitter.com/OutlandWanderer}{/a}\n\n{a=https://twitter.com/COPtimer_1974}{/a}\n\n{a=https://twitter.com/LoveCountry45}{/a}{p}\n\n{a=https://discordapp.com/users/273928084388839425}{/a}\n\n\n\n{a=https://soundcloud.com/willowispproductions}{/a}\n\n{a=https://twitter.com/Pinewood_Jerry}{/a}\n\n{a=https://twitter.com/SannomTigris}{/a}\n\n{a=https://twitter.com/Fabio120938}{/a}\n\n{a=https://twitter.com/COPtimer_1974}{/a}\n\n\n\n"
+    new "0\nT:F1SDXXXTRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRNSRRRRRRRRRRRRRRRRRRRNRRRRRNSNSRRRRRRRRRNRRRNRRRRRRRNRRRRRRNRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRNTSRRRRRRRRRNTSRRRRRRRRRRRRNRRRRRRRRRNRRRRRRRRRRRRRRRRRRR\n\n\n\n\n\n\n\n\n{a=https://discord.gg/QnbJMGhZhV}{/a}\n\n\n\n{a=https://twitter.com/OutlandWanderer}{/a}\n\n{a=https://twitter.com/COPtimer_1974}{/a}\n\n{a=https://twitter.com/LoveCountry45}{/a}{p}\n\n{a=https://discordapp.com/users/273928084388839425}{/a}\n\n\n\n{a=https://soundcloud.com/willowispproductions}{/a}\n\n{a=https://twitter.com/Pinewood_Jerry}{/a}\n\n{a=https://twitter.com/SannomTigris}{/a}\n\n{a=https://twitter.com/Fabio120938}{/a}\n\n{a=https://twitter.com/COPtimer_1974}{/a}\n\n\n\n"
 
     old "\nExpires in [status_expire_day] days and [status_expire_hour] hours."
     new "在\n天和[status_expire_day]小时的脱产。[status_expire_hour]"
@@ -42,7 +42,7 @@ translate schinese_rewrite strings:
     new "100 Gold"
 
     old "30-Gold\nAdult Only!"
-    new "30- GoldRNPNPX0Adult only!\n"
+    new "30- Gold\nAdult only!"
 
     old "50 Gold"
     new "50 Gold"
@@ -537,10 +537,10 @@ translate schinese_rewrite strings:
     new "一种躲避狼,可能是狼人 你希望它不会直接来自狼人。"
 
     old "ACCEPT"
-    new "AcceptePT"
+    new "接受"
 
     old "ACCEPTED"
-    new "ACCEPTED"
+    new "已接受"
 
     old "AGI: [pc.agi]"
     new "AGI:[pc.agi]"
@@ -1554,19 +1554,19 @@ translate schinese_rewrite strings:
     new "购买价值:[buy_value]"
 
     old "Buy one [trunk_merchant_items[0][0].name!t] for [trunk_merchant_items[0][0].value] Gold"
-    new "为[trunk_merchant_items[0][0]. 价值购买一台[trunk_merchant_items[0][0]name!t] 金"
+    new "Buy one [trunk_merchant_items[0][0].name!t] 为了 [trunk_merchant_items[0][0].value] Gold"
 
     old "Buy one [trunk_merchant_items[1][0].name!t] for [trunk_merchant_items[1][0].value] Gold"
-    new "为[trunk_merchant_items[1][0]. 价值购买一台[trunk_merchant_items[1][0]name!t] 金"
+    new "Buy one [trunk_merchant_items[1][0].name!t] 为了 [trunk_merchant_items[1][0].value] Gold"
 
     old "Buy one [trunk_merchant_items[2][0].name!t] for [trunk_merchant_items[2][0].value] Gold"
-    new "为[trunk_merchant_items[2][0]. 价值购买一台[trunk_merchant_items[2][0]name!t] 金"
+    new "Buy one [trunk_merchant_items[2][0].name!t] 为了 [trunk_merchant_items[2][0].value] Gold"
 
     old "Buy one [trunk_merchant_items[3][0].name!t] for [trunk_merchant_items[3][0].value] Gold"
-    new "为[trunk_merchant_items[3][0]. 价值购买一台[trunk_merchant_items[3][0]name!t] 金"
+    new "Buy one [trunk_merchant_items[3][0].name!t] 为了 [trunk_merchant_items[3][0].value] Gold"
 
     old "Buy one [trunk_merchant_items[4][0].name!t] for [trunk_merchant_items[4][0].value] Gold"
-    new "为[trunk_merchant_items[4][0]. 价值购买一台[trunk_merchant_items[4][0]name!t] 金"
+    new "Buy one [trunk_merchant_items[4][0].name!t] 为了 [trunk_merchant_items[4][0].value] Gold"
 
     old "Buy the scroll"
     new "购买滚动"
@@ -1965,7 +1965,7 @@ translate schinese_rewrite strings:
     new "黑暗森林"
 
     old "Day [timenow.day], [timenow.dayofweek], [timenow.hours]:[timenow.minutes]"
-    new "每日[timenow.day]、[timenow.dayofweek]、、[timenow.hours]:[timenow.minutes]"
+    new "每日[timenow.day]、[timenow.dayofweek]、[timenow.hours]、[timenow.minutes]:"
 
     old "Day: [timenow.day]"
     new "Day: [timenow.day]"
@@ -2214,7 +2214,7 @@ translate schinese_rewrite strings:
     new "窃听他们的谈话"
 
     old "Elapsed: [ribba_dialogues['Controller Time']] / 120 min"
-    new "折叠:RNNNX0 / 120分钟[ribba_dialogues['Controller Time']"
+    new "折叠: [ribba_dialogues['Controller Time']] / 120 分钟"
 
     old "Elderwood"
     new "Elderwood"
@@ -2307,10 +2307,10 @@ translate schinese_rewrite strings:
     new "让你的身体平静,你的坚韧度增强。"
 
     old "Feral"
-    new "Feral"
+    new "狂暴"
 
     old "Feral Werewolf"
-    new "Feral Welalwolff"
+    new "狂暴狼人"
 
     old "Fetch some herbs for Haskell"
     new "为 哈斯克尔 获取一些草药"
@@ -3594,7 +3594,7 @@ translate schinese_rewrite strings:
     new "鼠标向下滚"
 
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "滑鼠轮向上RNPNPX0Cllick 回滚边\n"
+    new "滑鼠轮向上\nCllick 回滚边"
 
     old "Move away from the creature"
     new "远离生物"
@@ -3657,7 +3657,7 @@ translate schinese_rewrite strings:
     new "既然他说了,你还是评论一下吧。"
 
     old "Now, the crux of the matter: I gleaned from the scholars that they were in pursuit of him, motive is still unknown, unless we fall back on their own curiosity. While they proved to be nothing but a chore, they are not my primary concern. What troubles me is that the passage towards our tribe may have been known from outside. I fear that the next time someone traverses that passage, I might not have caught them in time.\n\nRegardless, those on the other side should make a better effort to ensure that does not happen again, I should not have been the only one taking care of the mess. The potential consequences could be catastrophic to them if a malicious outsider somehow made contact"
-    new "现在,问题的关键在于:我从学者们那里了解到,他们正在追逐他,动机仍然不明,除非我们回到他们自己的好奇心。虽然他们证明只是杂事,但他们不是我的首要关切。我最担心的是,通往我们部落的通道可能从外部得知。我担心下次有人穿过我们的部落,我可能不会及时抓住他们。\n尽管是另一边的人应该作出更好的努力,确保不再发生这种情况,但不应该只有我一个人来照顾混乱。如果一个恶意的外来者以某种方式接触,其潜在后果可能是灾难性的。\n"
+    new "现在,问题的关键在于:我从学者们那里了解到,他们正在追逐他,动机仍然不明,除非我们回到他们自己的好奇心。虽然他们证明只是杂事,但他们不是我的首要关切。我最担心的是,通往我们部落的通道可能从外部得知。我担心下次有人穿过我们的部落,我可能不会及时抓住他们。\n\n尽管是另一边的人应该作出更好的努力,确保不再发生这种情况,但不应该只有我一个人来照顾混乱。如果一个恶意的外来者以某种方式接触,其潜在后果可能是灾难性的。"
 
     old "No{#LeaveViscid}"
     new "否{#LeaveViscid}"
@@ -4278,7 +4278,7 @@ translate schinese_rewrite strings:
     new "保持原地"
 
     old "Remind me, the spritebinder, or refer it as the collective consciousness of eight spectral entities. These individuals, a rather inquisitive bunch, seemed to be quite the genius scholars, or whatever such pursuits are called on the other side, who somehow brought themselves to this land.\n\nThe incident is unlikely to repeat itself. As far as the land is concerned, no one aside from Chime has laid eyes on them. I suspect he followed me into the heart of the forest, where I first encountered these peculiar intruders. However, the actual event transpired within the crypt, and I made sure that no one could access there."
-    new "提醒我,这个发光者,或者说它就是八个光谱实体的集体意识。这些人,一个相当好奇的团体,似乎是相当天才的学者,或者说,不管这种追求是什么,他们不知何故来到了这片土地。\n 事件不大可能重演。就土地而言,除了奇姆之外,没有人看到他们。我猜想他跟踪我到森林的心脏,我第一次见到了这些奇怪的入侵者。然而,在密室里发生的实际事件,我保证没有人能进入那里。\n"
+    new "提醒我,这个发光者,或者说它就是八个光谱实体的集体意识。这些人,一个相当好奇的团体,似乎是相当天才的学者,或者说,不管这种追求是什么,他们不知何故来到了这片土地。\n\n 事件不大可能重演。就土地而言,除了奇姆之外,没有人看到他们。我猜想他跟踪我到森林的心脏,我第一次见到了这些奇怪的入侵者。然而,在密室里发生的实际事件,我保证没有人能进入那里。"
 
     old "Remove some rocks with Amble"
     new "删除一些有安布尔的岩石"
@@ -4476,7 +4476,7 @@ translate schinese_rewrite strings:
     new "右肩"
 
     old "Right Trigger\nA/Bottom Button"
-    new "右触发RNPNPX0A/Bottom按钮\n"
+    new "右触发\nA/Bottom按钮"
 
     old "Ring the bell"
     new "按铃"
@@ -6333,13 +6333,13 @@ translate schinese_rewrite strings:
     new "[k.description] [k.rounds]回合的过期。"
 
     old "[ribba_dialogues['Hype']] / 100"
-    new "[ribba_dialogues['Hype']/ 100"
+    new "[ribba_dialogues['Hype']] / 100"
 
     old "[ribba_dialogues['Lust']] / 100"
-    new "[ribba_dialogues['Lust']/ 100"
+    new "[ribba_dialogues['Lust']] / 100"
 
     old "[ribba_dialogues['Willpower']] / 100"
-    new "[ribba_dialogues['Willpower']/ 100"
+    new "[ribba_dialogues['Willpower']] / 100"
 
     old "bear"
     new "熊"
@@ -6351,13 +6351,13 @@ translate schinese_rewrite strings:
     new "山羊"
 
     old "with our tribe.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPekoe"
-    new "RNP4\nRNP6\nRNP7RNNPX8\nRNP9\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    new "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPekoe"
 
     old "{#auto_page}A"
     new "{#auto_page}A"
 
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}% A,% B % d% Y,% H:% M"
 
     old "{#quick_page}Q"
     new "{#quick_page}Q"
@@ -6558,7 +6558,7 @@ translate schinese_rewrite strings:
     new "{size=20}{p}{p} {p} 进步{p}:{/size=20}{size=32}{/size=32}"
 
     old "{size=80}R{/size}ibba's Ribald\nMagic Show"
-    new "{size=80}RRRNPNPX1ibba的Ribald{/size} 显微显示\n"
+    new "{size=80}{/size}ibba的Ribald\n 显微显示"
 
     old "{s}100 Gold{/s}"
     new "{s}100 Gold{/s}"

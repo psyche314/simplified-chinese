@@ -2021,7 +2021,7 @@ label Ribba_Prop_Quest_Report_Carrot:
         "Decline":
 
             $ quest46.status = 3
-            $ quest46.qComp("Return to Ribba")
+            $ quest46.qComp(_("Return to Ribba"))
             e "I think I'll pass, Ribba. I'm not really cut out for performing."
             show ribba sus
             rb "Oh... I see. Well, maybe some other time then."

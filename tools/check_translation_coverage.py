@@ -17,7 +17,6 @@ from collections import Counter
 from pathlib import Path
 
 
-MARKUP = re.compile(r"(\[[^\]\r\n]*\]|\{[^}\r\n]*\}|\\n|\r?\n)")
 BLOCK = re.compile(
     r"(?ms)^translate (?P<language>\w+) (?P<header>[^\r\n]+):\r?\n"
     r"(?P<body>.*?)(?=^translate \w+ |\Z)"
@@ -31,6 +30,83 @@ DYNAMIC = re.compile(
     r"'(?:\\.|[^'\\])*')",
     re.S,
 )
+PAGE_CALL = re.compile(r"(?<![A-Za-z0-9_])Page\((?P<arguments>.*)\)")
+COURIER_DESCRIPTION = re.compile(
+    r'"description"\s*:\s*(?P<value>"(?:\\.|[^"\\])*")'
+)
+COURIER_JOB = re.compile(r'^\s{8}"(?P<value>[^"]+)":\s*\{\s*$')
+ALLY_CALL = re.compile(r"\bAlly\((?P<arguments>.*)\)")
+MODEL_MARKER = re.compile(
+    r"\bRNPX[A-Za-z0-9]*|\bR(?:N|E|P|X)[A-Za-z0-9]*\d",
+    re.IGNORECASE,
+)
+
+
+def markup_tokens(text: str) -> list[str]:
+    """Return Ren'Py markup while respecting nested Python expressions.
+
+    Interpolation such as ``[items[0].name!t]`` contains nested brackets.
+    A flat regular expression stops at the inner bracket and can therefore
+    report a damaged translation as valid.  Scan bracketed expressions with
+    quote and escape awareness so the source/translation contract is exact.
+    """
+    tokens: list[str] = []
+    index = 0
+    while index < len(text):
+        if text.startswith("\\n", index):
+            tokens.append("\\n")
+            index += 2
+            continue
+        if text[index] in "\r\n":
+            if text.startswith("\r\n", index):
+                tokens.append("\r\n")
+                index += 2
+            else:
+                tokens.append(text[index])
+                index += 1
+            continue
+        opener = text[index]
+        if opener not in "[{":
+            index += 1
+            continue
+
+        closer = "]" if opener == "[" else "}"
+        depth = 0
+        quote = None
+        escaped = False
+        end = index
+        while end < len(text):
+            character = text[end]
+            if quote is not None:
+                if escaped:
+                    escaped = False
+                elif character == "\\":
+                    escaped = True
+                elif character == quote:
+                    quote = None
+            elif character in "'\"":
+                quote = character
+            elif character == opener:
+                depth += 1
+            elif character == closer:
+                depth -= 1
+                if depth == 0:
+                    tokens.append(text[index : end + 1])
+                    index = end + 1
+                    break
+            end += 1
+        else:
+            index += 1
+    return tokens
+
+
+def literal_arguments(arguments: str) -> list[str]:
+    """Return literal string arguments from a one-line Ren'Py/Python call."""
+    try:
+        expression = ast.parse("f(" + arguments + ")", mode="eval").body
+    except SyntaxError:
+        return []
+    return [argument.value for argument in expression.args if isinstance(argument, ast.Constant) and isinstance(argument.value, str)]
 
 
 def quoted(pattern: re.Pattern[str], line: str) -> str | None:
@@ -52,6 +128,38 @@ def dynamic_strings(source_root: Path) -> set[str]:
             if isinstance(value, str) and value:
                 values.add(value)
     return values
+
+
+def runtime_strings(source_root: Path) -> set[str]:
+    """Collect literal strings displayed through runtime data structures.
+
+    Ren'Py's generated translation blocks do not include page objects, courier
+    board data, or ally action labels because those values are later passed to
+    a screen as expressions. Keep these paths in the same completeness report
+    as ordinary ``_()`` strings.
+    """
+    values: set[str] = set()
+    for path in sorted(source_root.glob("*.rpy")):
+        text = path.read_text(encoding="utf-8-sig")
+        for line in text.splitlines():
+            page = PAGE_CALL.search(line)
+            if page:
+                values.update(literal_arguments(page.group("arguments")))
+
+            if path.name == "main_courier.rpy":
+                if match := COURIER_DESCRIPTION.search(line):
+                    try:
+                        values.add(ast.literal_eval(match.group("value")))
+                    except (SyntaxError, ValueError):
+                        pass
+                if match := COURIER_JOB.match(line):
+                    values.add(match.group("value"))
+
+            if path.name == "variables.rpy":
+                if match := ALLY_CALL.search(line):
+                    literals = literal_arguments(match.group("arguments"))
+                    values.update(literals[-3:])
+    return {value for value in values if value}
 
 
 def package_entries(package: Path, language: str):
@@ -109,6 +217,7 @@ def main() -> int:
     source_root = args.source_root or args.package.parents[1]
     source_strings = {entry["old"] for entry in catalog["menu_strings"]}
     source_strings.update(dynamic_strings(source_root))
+    source_strings.update(runtime_strings(source_root))
     dialogue, strings, passes, duplicate_dialogue, duplicate_strings = package_entries(
         args.package, args.language
     )
@@ -124,15 +233,25 @@ def main() -> int:
         if not value.strip() and source_dialogue.get(key, "").strip()
     )
     empty_strings = sorted(key for key, value in strings.items() if not value.strip())
-    placeholder_mismatch = {
-        key: {"source": MARKUP.findall(source), "translated": MARKUP.findall(dialogue[key])}
-        for key, source in source_dialogue.items()
-        if key in dialogue and MARKUP.findall(source) != MARKUP.findall(dialogue[key])
-    }
     string_placeholder_mismatch = {
-        key: {"source": MARKUP.findall(key), "translated": MARKUP.findall(strings[key])}
+        key: {"source": markup_tokens(key), "translated": markup_tokens(strings[key])}
         for key in source_strings
-        if key in strings and MARKUP.findall(key) != MARKUP.findall(strings[key])
+        if key in strings and markup_tokens(key) != markup_tokens(strings[key])
+    }
+    dialogue_artifacts = {
+        key: dialogue[key]
+        for key in source_dialogue
+        if key in dialogue and MODEL_MARKER.search(dialogue[key])
+    }
+    string_artifacts = {
+        key: strings[key]
+        for key in source_strings
+        if key in strings and MODEL_MARKER.search(strings[key])
+    }
+    placeholder_mismatch = {
+        key: {"source": markup_tokens(source), "translated": markup_tokens(dialogue[key])}
+        for key, source in source_dialogue.items()
+        if key in dialogue and markup_tokens(source) != markup_tokens(dialogue[key])
     }
     report = {
         "source_dialogue": len(source_dialogue),
@@ -147,6 +266,8 @@ def main() -> int:
         "pass_blocks": sorted(passes),
         "placeholder_mismatch": placeholder_mismatch,
         "menu_placeholder_mismatch": string_placeholder_mismatch,
+        "dialogue_model_markers": dialogue_artifacts,
+        "menu_model_markers": string_artifacts,
         "duplicate_dialogue_ids": sorted(k for k, v in duplicate_dialogue.items() if v > 1),
         "duplicate_menu_strings": sorted(k for k, v in duplicate_strings.items() if v > 1),
     }

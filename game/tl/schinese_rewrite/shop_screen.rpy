@@ -147,7 +147,7 @@ translate schinese_rewrite Gwyddyon_Shopping_Loop_5f0c8525:
 
 translate schinese_rewrite Gwyddyon_Shopping_Loop_fb4526d8:
 
-    g "What's more impressive than a staff which can restore 5 MP every round? {size=20}没什么。{/size} And, you don't even need to recharge, who would've thought!{size=20} Totally not me.{/size} {p}[mmm] gold, and this last one is yours."
+    g "What's more impressive than a staff which can {size=20} MP every round? {/size}没什么。{size=20} And, you don't even need to recharge, who would've thought!{/size} Totally not me.{p} [mmm] gold, and this last one is yours."
 
 translate schinese_rewrite Gwyddyon_Shopping_Loop_2a750d15:
 

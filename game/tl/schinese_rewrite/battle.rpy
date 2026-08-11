@@ -531,15 +531,15 @@ translate schinese_rewrite mossgolem_battle_loop_ef6f4b5b:
 
 translate schinese_rewrite mossgolem_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite mossgolem_battle_loop_292fc3a5:
 
-    "看来你打到谷歌了 发[oa[4]HP!"
+    "看来你打到谷歌了 卖[oa[4]]HP!"
 
 translate schinese_rewrite mossgolem_battle_loop_7c6f4f33:
 
-    "你努力反抗咒语,试图打破自由。你处理过[oa[4]在过程中对谷歌的破坏。他的控制也放松了。"
+    "你努力反抗咒语,试图打破自由。你处理[oa[4]]在过程中对谷歌的破坏。他的控制也放松了。"
 
 translate schinese_rewrite mossgolem_battle_loop_8e418f5c:
 

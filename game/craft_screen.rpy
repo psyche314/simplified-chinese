@@ -185,7 +185,7 @@ screen craft_screen():
                 for i in range(len(selected_recipe.product.stat)):
                     $ j = selected_recipe.product.stat[i]
                     if j > 0:
-                        $ csgo += "{p} - " + stat_names[i] +": " + str(j)
+                        $ csgo += "{p} - " + _(stat_names[i]) + ": " + str(j)
                 label "[csgo!t]" text_color "#3b2a25" text_size 25
 
         frame:
@@ -259,7 +259,7 @@ screen craft_screen():
                 for i in range(len(hovered_item.stat)):
                     $ j = hovered_item.stat[i]
                     if j > 0:
-                        $ csgo += "{p} - " + stat_names[i] +": " + str(j)
+                        $ csgo += "{p} - " + _(stat_names[i]) + ": " + str(j)
                 label "[csgo!t]" text_color "#eeeeee" text_size 25
 
 label Cauldron_Screen:
@@ -458,7 +458,7 @@ screen cauldron_screen():
                     if j > 0:
                         $ poggy = selected_recipe.recipe.multiplier[0] * selected_recipe.recipe.multiplier[1]
                         $ poggy = j + int(poggy)
-                        $ csgo += "{p} - " +stat_names[i] +": " + str(j) + " -> " + str(poggy)
+                        $ csgo += "{p} - " + _(stat_names[i]) + ": " + str(j) + " -> " + str(poggy)
                 label "[csgo!t]" text_color "#eeeeee"
     frame:
         xalign 0.9

@@ -359,7 +359,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_1:
 
 translate schinese_rewrite Whispering_Hollow_Loop_ebf519a8:
 
-    "{i}I是一种可以甜或苦的饮料,一种来自木制分裂器的液体。 {w}I 让你忘记你的麻烦和争斗,并在寒冬之夜将温暖带给你的骨头。 {p}{p}I 是什么? {w}{/i}"
+    "{i}I是一种可以甜或苦的饮料,一种来自木制分裂器的液体。 {w}{p}I 让你忘记你的麻烦和争斗,并在寒冬之夜将温暖带给你的骨头。 {p}{w}I 是什么? {/i}"
 
 translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_2:
 
@@ -367,7 +367,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_2:
 
 translate schinese_rewrite Whispering_Hollow_Loop_8866c5d2:
 
-    "{i}BItter和粗糙, 我的叶子是成群的, 一种魔法的药草, 既迷了又被找到。 {w}X2 我的气味在夜野兽身上翻转, 但是,对于咳嗽, 我带来了解脱。 {p}{p} 什么是I? {w}?{/i}"
+    "{i}BItter和粗糙, 我的叶子是成群的, 一种魔法的药草, 既迷了又被找到。 {w}{p} 我的气味在夜野兽身上翻转, 但是,对于咳嗽, 我带来了解脱。 {p}{w} 什么是I? {/i}?"
 
 translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_3:
 
@@ -375,7 +375,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_3:
 
 translate schinese_rewrite Whispering_Hollow_Loop_bbe8d806:
 
-    "{i}I是一个轻轻的耳语,可以刷刷空气, 一种微妙的事物, 既可以在这里,也可以在那里。{w} 我的触摸是温柔的, 我的摇摆是轻的, 我与风共舞, 从眼前消失。 {p}{p} 什么是 I?{w}?{/i}"
+    "{i}I是一个轻轻的耳语,可以刷刷空气, 一种微妙的事物, 既可以在这里,也可以在那里。{w}{p} 我的触摸是温柔的, 我的摇摆是轻的, 我与风共舞, 从眼前消失。 {p}{w} 什么是 I?{/i}?"
 
 translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_4:
 

@@ -367,7 +367,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_9bdb2eeb:
 
 translate schinese_rewrite Puro_Watch_Post_Loop_a08eae45:
 
-    msg "提示: 尝试使用 {i}ERNSPX1 或屏幕上的手键来接收或丢弃对象。{/i}。"
+    msg "提示: 尝试使用 {i}E{/i} 或屏幕上的手键来接收或丢弃对象。。"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_ea8664ea:
 

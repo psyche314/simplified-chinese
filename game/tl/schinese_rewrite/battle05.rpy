@@ -51,11 +51,11 @@ translate schinese_rewrite caproot_battle_loop_8b766b9e:
 
 translate schinese_rewrite caproot_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite caproot_battle_loop_7fb5ff0e:
 
-    "你严重地撞到树顶根 卖[oa[4]HP!"
+    "你严重撞到树顶根 卖[oa[4]]HP!"
 
 translate schinese_rewrite caproot_battle_loop_bda635d4:
 
@@ -243,11 +243,11 @@ translate schinese_rewrite feral_battle_loop_f39c848d:
 
 translate schinese_rewrite feral_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite feral_battle_loop_a124f1fb:
 
-    "你对狼人大打出手 卖[oa[4]HP!"
+    "你对狼人大打出手 卖[oa[4]]HP!"
 
 translate schinese_rewrite feral_battle_loop_498fc07c:
 
@@ -559,11 +559,11 @@ translate schinese_rewrite goatranger_battle_loop_e02a18ea:
 
 translate schinese_rewrite goatranger_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite goatranger_battle_loop_3a298caa:
 
-    "你严重打击了护林员, 交易[oa[4]HP!"
+    "你严重打击了护林员 卖[oa[4]]HP!"
 
 translate schinese_rewrite goatranger_battle_loop_68b5c068:
 
@@ -967,11 +967,11 @@ translate schinese_rewrite nosferat_battle_loop_c5ea30ae:
 
 translate schinese_rewrite nosferat_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite nosferat_battle_loop_f7d01aa3:
 
-    "看来你打中鼻喉了 发[oa[4]HP!"
+    "看来你打中鼻喉了 卖[oa[4]]HP!"
 
 translate schinese_rewrite nosferat_battle_loop_c535ed1e:
 
@@ -983,7 +983,7 @@ translate schinese_rewrite nosferat_battle_loop_a5012852:
 
 translate schinese_rewrite nosferat_battle_loop_af0efd91:
 
-    "你努力反抗鼻涕虫,试图打破自由。你处理[oa[4]在过程的模仿中造成的破坏,他的控制也松了下来。"
+    "你努力反抗鼻涕虫,试图打破自由。你处理[oa[4]]在过程的模拟中造成的破坏,他的控制也松了。"
 
 translate schinese_rewrite nosferat_battle_loop_dcd7ef85:
 
@@ -1183,11 +1183,11 @@ translate schinese_rewrite werewolf_tetto_battle_loop_8a3d2c44:
 
 translate schinese_rewrite werewolf_tetto_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_260590ef:
 
-    "狼人受到重击, 他的健康下降[oa[4]+HP!"
+    "狼人受到重击,他的健康因[oa[4]] HP而下降!"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_cf32bdd4:
 
@@ -1223,7 +1223,7 @@ translate schinese_rewrite werewolf_tetto_battle_loop_c9e8bcae:
 
 translate schinese_rewrite werewolf_tetto_battle_loop_39dfd204:
 
-    "泰托对狼人大打出手 卖[oa[4]HP!"
+    "泰托对狼人大打出手 卖[oa[4]]HP!"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_8e14f488:
 

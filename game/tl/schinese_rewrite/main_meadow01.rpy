@@ -359,7 +359,7 @@ translate schinese_rewrite Pirkka_First_Meet_7f4b036a:
 
 translate schinese_rewrite Pirkka_First_Meet_acd97be3:
 
-    my "OH,我的冠军, 我该如何弥补我的可耻的梅子。 {i}{/i}"
+    my ",我的冠军, 我该如何弥补我的可耻的梅子。 {i}{/i}"
 
 translate schinese_rewrite Pirkka_First_Meet_060f37dc:
 
@@ -1163,7 +1163,7 @@ translate schinese_rewrite Pirkka_Show_95566cf6:
 
 translate schinese_rewrite Pirkka_Show_489481e8:
 
-    p "YT 怪物是狡猾的, 并且做了欺骗,{i} 它玩弄于英雄的信仰感。 {p}{/i}"
+    p " 怪物是狡猾的, 并且做了欺骗,{i} 它玩弄于英雄的信仰感。 {p}{/i}"
 
 translate schinese_rewrite Pirkka_Show_7ada0079:
 

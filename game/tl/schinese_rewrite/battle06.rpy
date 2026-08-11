@@ -703,7 +703,7 @@ translate schinese_rewrite spriteling_battle_7a79ee62:
 
 translate schinese_rewrite spriteling_battle_loop_634cb2bf:
 
-    "螺旋状环绕着他的光谱形式,试图绑住你。你的健康状况下降 RENPX0 HP。[enemy_damage]。"
+    "螺旋状环绕着他的光谱形式,试图绑住你。你的健康状况下降 [enemy_damage] HP。"
 
 translate schinese_rewrite spriteling_battle_loop_fc52b4aa:
 
@@ -1791,11 +1791,11 @@ translate schinese_rewrite slushy_daggi_battle_loop_d42d56d6:
 
 translate schinese_rewrite slushy_daggi_battle_loop_1a09823d:
 
-    "Daggi将他的鱼叉打入[target.name]的中部, 处理[oa[4]1HP 并刮断其框架的一块石头。"
+    "Daggi将他的鱼叉打入[target.name]的中部, 处理[oa[4]] HP 并刮断其框架的一块石头。"
 
 translate schinese_rewrite slushy_daggi_battle_loop_4b9fc1a7:
 
-    "牛群用断断的棍子冲出来 并打破[target.name]的手臂, 交易[oa[4]HP。"
+    "牛群与断裂的棍子冲出来 并打破它 穿过[target.name]的手臂, 交易[oa[4]]HP。"
 
 translate schinese_rewrite slushy_daggi_battle_loop_daf843f1:
 
@@ -1831,7 +1831,7 @@ translate schinese_rewrite slushy_daggi_battle_loop_84ba6667:
 
 translate schinese_rewrite slushy_daggi_battle_loop_bfa73047:
 
-    "Daggi在你的靴子周围的冰层里黑客, 释放你,当他流泪 沟沟穿过大水沟的尸体,[oa[4]HP。"
+    "Daggi在你的靴子周围的冰层里黑客, 释放你,当他流泪 沟沟穿透大水沟 身体[oa[4]]HP。"
 
 translate schinese_rewrite slushy_daggi_battle_loop_c88dd7dc:
 
@@ -1839,7 +1839,7 @@ translate schinese_rewrite slushy_daggi_battle_loop_c88dd7dc:
 
 translate schinese_rewrite slushy_daggi_battle_loop_f62f4de8:
 
-    "Daggi将鱼叉的侧面撕开,穿过大水流,处理[oa[4]HP,并将伤口通过冰冻的块块扩大。"
+    "Daggi将鱼叉的侧面撕开,穿过大水流,处理[oa[4]] HP,并将伤口通过冰冻的块块扩大。"
 
 translate schinese_rewrite slushy_daggi_battle_loop_dd03af6b:
 
@@ -2031,11 +2031,11 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_97988f5f:
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_1a09823d:
 
-    "Daggi将他的鱼叉打入[target.name]的中部, 处理[oa[4]1HP 并刮断其框架的一块石头。"
+    "Daggi将他的鱼叉打入[target.name]的中部, 处理[oa[4]] HP 并刮断其框架的一块石头。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_4b9fc1a7:
 
-    "牛群用断断的棍子冲出来 并打破[target.name]的手臂, 交易[oa[4]HP。"
+    "牛群与断裂的棍子冲出来 并打破它 穿过[target.name]的手臂, 交易[oa[4]]HP。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_e2085c70:
 
@@ -2095,7 +2095,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_c054002b:
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_7d035640:
 
-    "Daggi将他的鱼叉的屁股撞成一个旧骨折,并扩大了骨折,将[oa[4]HP卖给[target.name]。"
+    "Daggi将他的鱼叉的屁股撞成一个旧骨折,并扩大其范围,将[oa[4]] HP卖给[target.name]。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_19db1ead:
 

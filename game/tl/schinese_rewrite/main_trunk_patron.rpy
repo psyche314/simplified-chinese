@@ -855,23 +855,23 @@ translate schinese_rewrite Trunk_Merchant_Loop_7bf76a81:
 
 translate schinese_rewrite Trunk_Merchant_Loop_c326254e:
 
-    e "我要一个[trunk_merchant_items[0][0]name!]。"
+    e "我要一辆[trunk_merchant_items[0][0].name!t]。"
 
 translate schinese_rewrite Trunk_Merchant_Loop_00619f40:
 
-    e "我要一个[trunk_merchant_items[1][0]name!]。"
+    e "我要一辆[trunk_merchant_items[1][0].name!t]。"
 
 translate schinese_rewrite Trunk_Merchant_Loop_00931cd0:
 
-    e "我要一个[trunk_merchant_items[2][0]name!]。"
+    e "我要一辆[trunk_merchant_items[2][0].name!t]。"
 
 translate schinese_rewrite Trunk_Merchant_Loop_b47f448d:
 
-    e "我要一个[trunk_merchant_items[3][0]name!]。"
+    e "我要一辆[trunk_merchant_items[3][0].name!t]。"
 
 translate schinese_rewrite Trunk_Merchant_Loop_68ec7586:
 
-    e "我要一个[trunk_merchant_items[4][0]name!]。"
+    e "我要一辆[trunk_merchant_items[4][0].name!t]。"
 
 translate schinese_rewrite Trunk_Merchant_Loop_0ec9f167:
 

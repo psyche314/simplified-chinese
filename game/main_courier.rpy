@@ -262,10 +262,10 @@ init python:
                     seen_jobs.add(task_job_name)
 
     def update_delivery_task(task, job, outcome = None):
-        task.title = job["job"]
+        task.title = _(job["job"])
         task.location = _("Lusterfield")
-        task.questgiver = job["client"]
-        task.description = job["description"]
+        task.questgiver = _(job["client"])
+        task.description = _(job["description"])
         task.reward = format_job_reward(job)
         task.delivery = job
         task.progress = []
@@ -354,25 +354,25 @@ init python:
     def format_job_description(job):
         package_items = ""
         for item, number in job["package"].items():
-            package_items += "   - " + item 
+            package_items += "   - " + _(item)
             package_items += " x"
             package_items += str(number)
             package_items += "\n"
         
         return _("Deliver the following goods from {client} to {recipient}.\n{items}").format(
-            client=job["client"],
-            recipient=job["recipient"],
+            client=_(job["client"]),
+            recipient=_(job["recipient"]),
             items=package_items
         )
 
     def format_job_reward(job, on_board = False):
         reward_items = ""
         if on_board:
-            return ", ".join("{} {}".format(v, k) for k, v in job["reward"].items())
+            return ", ".join("{} {}".format(v, _(k)) for k, v in job["reward"].items())
         else:
             for item, number in job["reward"].items():
                 reward_items += "   - " 
-                reward_items += item
+                reward_items += _(item)
                 reward_items += " x"
                 reward_items += str(number)
                 reward_items += "\n"
@@ -387,7 +387,7 @@ init python:
             active_deliveries.append(job)
         new_task = look_for_delivery_task(job["job"])
         if new_task == None:
-            new_task = Task(job["job"], _("Lusterfield"), job["client"], job["description"], 1, format_job_reward(job), delivery = job)
+            new_task = Task(_(job["job"]), _("Lusterfield"), _(job["client"]), _(job["description"]), 1, format_job_reward(job), delivery = job)
         update_delivery_task(new_task, job)
         remove_duplicate_delivery_tasks(job["job"], new_task)
         TaskBegin(new_task)
@@ -432,7 +432,7 @@ init python:
         job["status"] = 5
         task = look_for_delivery_task(job["job"])
         if task == None:
-            task = Task(job["job"], _("Lusterfield"), job["client"], job["description"], 1, format_job_reward(job), delivery = job)
+            task = Task(_(job["job"]), _("Lusterfield"), _(job["client"]), _(job["description"]), 1, format_job_reward(job), delivery = job)
         update_delivery_task(task, job, "failed")
         remove_duplicate_delivery_tasks(job["job"], task)
         if task in activetasks:
@@ -463,7 +463,7 @@ init python:
         job["status"] = 6
         task = look_for_delivery_task(job["job"])
         if task == None:
-            task = Task(job["job"], _("Lusterfield"), job["client"], job["description"], 1, format_job_reward(job), delivery = job)
+            task = Task(_(job["job"]), _("Lusterfield"), _(job["client"]), _(job["description"]), 1, format_job_reward(job), delivery = job)
         update_delivery_task(task, job, "expired")
         remove_duplicate_delivery_tasks(job["job"], task)
         if task in activetasks:
@@ -568,28 +568,28 @@ init python:
         
         
         if not reward:
-            return "Max Rank Reached"
+            return _("Max Rank Reached")
         
         
-        info = "Next Rewards:\n"
+        info = _("Next Rewards:\n")
         
         if next_rank % 2 == 0:
-            info += "- +1 Task Gold Reward\n"
+            info += _("- +1 Task Gold Reward\n")
         
         if "Gold" in reward:
-            info += "- {} Gold\n".format(reward["Gold"])
+            info += _("- {} Gold\n").format(reward["Gold"])
         
         if "Experience" in reward:
-            info += "- {} Experience\n".format(reward["Experience"])
+            info += _("- {} Experience\n").format(reward["Experience"])
         
         if "New Job Slot" in reward:
-            info += "- {} New Job Slot\n".format(reward["New Job Slot"])
+            info += _("- {} New Job Slot\n").format(reward["New Job Slot"])
         
         if "New Trinket Slot" in reward:
-            info += "- {} New Trinket Slot\n".format(reward["New Trinket Slot"])
+            info += _("- {} New Trinket Slot\n").format(reward["New Trinket Slot"])
         
         if "Level Up Point" in reward:
-            info += "- {} Level Up Point\n".format(reward["Level Up Point"])
+            info += _("- {} Level Up Point\n").format(reward["Level Up Point"])
         return info.strip()
 
 screen courier_board_screen():
@@ -610,7 +610,7 @@ screen courier_board_screen():
             button:
                 background None
                 action NullAction()
-                tooltip "Reward"
+                tooltip _("Reward")
                 bar:
                     value AnimatedValue(pc.rep, pc.get_next_rep_req(), 1)
                     left_bar Frame("left_yellow", 6, 6)
@@ -635,10 +635,10 @@ screen courier_board_screen():
                 for job in courier_board:
 
 
-                    $ job_client = job["client"]
-                    $ job_recipient = job["recipient"]
+                    $ job_client = _(job["client"])
+                    $ job_recipient = _(job["recipient"])
                     $ job_reward = format_job_reward(job, True)
-                    $ job_description = job["description"]
+                    $ job_description = _(job["description"])
                     $ job_status = job["status"]
 
                     frame:
@@ -664,8 +664,8 @@ screen courier_board_screen():
                                     text "[number]" style "invnumber_label"
                         vbox:
                             text "[job_description]" size 22 font "kingthing.ttf" bold True color "#2c221e" xmaximum 400
-                            text "From: [job_client] -> To: [job_recipient]" font "kingthing.ttf" size 20 color "#805f55"
-                            text "Reward: [job_reward]" size 20 font "kingthing.ttf" color "#ad7638"
+                            text _("From: [job_client] -> To: [job_recipient]") font "kingthing.ttf" size 20 color "#805f55"
+                            text _("Reward: [job_reward]") size 20 font "kingthing.ttf" color "#ad7638"
 
                         vbox:
                             xalign 1.0

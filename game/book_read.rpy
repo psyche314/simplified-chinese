@@ -20,14 +20,14 @@ screen book_read(book):
         yalign 0.17
         xmaximum 500
         ymaximum 200
-        text book.content[book_page].bodyL style "book_style"
+        text "[book.content[book_page].bodyL!t]" style "book_style"
 
     fixed:
         xalign 0.7
         yalign 0.17
         xmaximum 500
         ymaximum 200
-        text book.content[book_page].bodyR style "book_style"
+        text "[book.content[book_page].bodyR!t]" style "book_style"
 
     if book_page > 0:
         imagebutton:

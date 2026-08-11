@@ -184,14 +184,14 @@ label Rat_Patron_Continue_Grab:
 label Rat_Patron_Fail:
     "Cursing under his breath, the rat scrambles off into the shadows of the tavern, leaving you empty-handed."
     "You glance around, the rat is now nowhere to be seen. You have to hope he would come back, or you'd have to deliever the bad news to Cane."
-    $ quest45.qProgress("Wait for the rat patron to reappear, or tell Cane about the rat...")
+    $ quest45.qProgress(_("Wait for the rat patron to reappear, or tell Cane about the rat..."))
     $ cane_dialogues["Rat Patron Escaped"] = True
     jump main_nocturnaltrunk
 
 label Rat_Patron_Fail2:
     "A wild punch sends you reeling for a moment, and in the confusion the rat escapes amid mocking laughter."
     "You glance around, the rat is now nowhere to be seen. You have to hope he would come back, or you'd have to deliever the bad news to Cane."
-    $ quest45.qProgress("Wait for the rat patron to reappear, or tell Cane about the rat...")
+    $ quest45.qProgress(_("Wait for the rat patron to reappear, or tell Cane about the rat..."))
     $ cane_dialogues["Rat Patron Escaped"] = True
     jump main_nocturnaltrunk
 
@@ -557,7 +557,7 @@ label Cane_Voting_Quest_Stew_Route:
     c "Sounds like a bloody waste of time and coin to me, but... Alright, I'll go along with this."
     "He says with a sigh."
     c "Ya better get ready by then, I'll be waiting with everything else."
-    $ quest45.qComp("Report to Cane at late night")
+    $ quest45.qComp(_("Report to Cane at late night"))
     jump main_nocturnaltrunk
 
 label Cane_Voting_Quest_Beer_Route:
@@ -570,7 +570,7 @@ label Cane_Voting_Quest_Beer_Route:
     e "Should I be drinking the beer... or you?"
     c "Heh, of course it's you, lad. If I'm drunk, ya ain't gonna carry my burly arse upstairs, even if yer life depends on it."
     "You nod, perparing to drink a beer before heading to the storage room."
-    $ quest45.qComp("Drink a Beer then report to Cane")
+    $ quest45.qComp(_("Drink a Beer then report to Cane"))
     jump main_nocturnaltrunk
 
 label Cane_Voting_Quest_Stew_Route_Meet:
@@ -737,7 +737,7 @@ label Cane_Voting_Quest_Draft_Beer_Menu:
             $ quest45.status = 5
             $ discoveredrecipe.append(topusbeerrecipe)
             $ discoveredrecipe.append(topusgruitrecipe)
-            $ quest45.qComp("Craft and drink Topu's Beer, then report to Cane")
+            $ quest45.qComp(_("Craft and drink Topu's Beer, then report to Cane"))
             jump main_nocturnaltrunk
         "I'll think about it later":
             e "Cane, I think I still have something else to do before drinking it..."

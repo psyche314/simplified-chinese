@@ -3,7 +3,7 @@
 
 translate schinese_rewrite battle_attack_script_9f89fa4c:
 
-    "你努力反抗咒语,试图打破自由。你处理[oa[4]在过程中对监护人的伤害,他的控制也松了下来。"
+    "你努力反抗咒语,试图打破自由。你在这个过程中处理了[oa[4]]对监护人的伤害,他的控制也放松了。"
 
 translate schinese_rewrite battle_attack_script_a0b503c2:
 
@@ -435,7 +435,7 @@ translate schinese_rewrite battle_attack_script_3b02969e:
 
 translate schinese_rewrite battle_attack_script_4e276e03:
 
-    "你在[pc.weapon.name!t]号上切开[target.name!t]型型火箭,因为你的刀片擦过[target.name!t]型火箭的叶子和藤叶,而一小块的叶子随意地从他身上掉下来。"
+    "你在[pc.weapon.name!t]号上切开[target.name!t]型[target.name!t]型火箭,因为你的刀片擦过型火箭的叶子和藤叶,而一小块的叶子随意地从他身上掉下来。"
 
 translate schinese_rewrite battle_attack_script_4791ced8:
 
@@ -531,11 +531,11 @@ translate schinese_rewrite battle_attack_script_f237f06f:
 
 translate schinese_rewrite battle_attack_script_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite battle_attack_script_6b4f73d0:
 
-    "[target.name!t]的健康状况现在下降[oa[4]HP!"
+    "[target.name!t]现在的健康状况 下降[oa[4]]HP!"
 
 translate schinese_rewrite battle_attack_script_8d723584:
 
@@ -1203,15 +1203,15 @@ translate schinese_rewrite mimic_battle_loop_b4e63e0a:
 
 translate schinese_rewrite mimic_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite mimic_battle_loop_8b6fd26f:
 
-    "你严重打中了模仿胸腔 卖[oa[4]HP!"
+    "你严重打中了模仿胸膛 卖[oa[4]]HP!"
 
 translate schinese_rewrite mimic_battle_loop_cd0c87b2:
 
-    "你和模仿者抗争,试图打破自由。你处理过[oa[4]的破坏 过程的模拟,他的控制也放松了。"
+    "你和模仿者抗争,试图打破自由。你处理[oa[4]]在过程中对模仿者造成的破坏,他的控制也松了下来。"
 
 translate schinese_rewrite mimic_battle_loop_55a9d34b:
 
@@ -1339,11 +1339,11 @@ translate schinese_rewrite stoneward_battle_loop_d3633215:
 
 translate schinese_rewrite stoneward_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite stoneward_battle_loop_232d37cb:
 
-    "你严重撞到石房 卖[oa[4]HP!"
+    "你严重打击石房 卖[oa[4]]HP!"
 
 translate schinese_rewrite stoneward_battle_loop_43633e63:
 
@@ -2619,15 +2619,15 @@ translate schinese_rewrite mino_battle_loop_6c4c87d5_2:
 
 translate schinese_rewrite mino_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite mino_battle_loop_aafc665e:
 
-    "你严重地击中了水牛, 交易[oa[4]HP!"
+    "你严重打击了牛头牛 卖[oa[4]]HP!"
 
 translate schinese_rewrite mino_battle_loop_241c58ed:
 
-    "你和牛头牛的手臂抗争,试图打破自由。你在这个过程中对牛头牛进行了[oa[4]的破坏,他的控制也放松了。"
+    "你和牛头牛的手臂抗争,试图打破自由。你在这个过程中对牛头牛进行了[oa[4]]的破坏,他的控制也放松了。"
 
 translate schinese_rewrite mino_battle_loop_c9974a20:
 

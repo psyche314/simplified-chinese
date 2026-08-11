@@ -1191,7 +1191,7 @@ translate schinese_rewrite Arthur_Second_Scene_Yes_3ea5662a:
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_4374a13a:
 
-    ar "我会给你你赚来的奖赏 但你会永远的 always{i} 尊重我{/i}。"
+    ar "我会给你你赚来的奖赏 但你会永远的 {i} 尊重我{/i}。"
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_911261df:
 

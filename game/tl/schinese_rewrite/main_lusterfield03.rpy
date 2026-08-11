@@ -4439,7 +4439,7 @@ translate schinese_rewrite Amble_Patrol_Quest_02da319d:
 
 translate schinese_rewrite Amble_Patrol_Quest_8a21b579:
 
-    a "我为什么不只是show{i} 你做什么,我在那里做!{/i}！"
+    a "我为什么不直接{i}展示{/i}给你看我在外面做什么！"
 
 translate schinese_rewrite Amble_Patrol_Quest_608b27c1:
 

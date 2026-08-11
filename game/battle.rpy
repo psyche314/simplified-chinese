@@ -310,11 +310,11 @@ screen battle_buttons():
                     hbox:
                         spacing 10
                         imagebutton:
-                            action Notify("You are still Bound. You cannot use any abilities.")
+                            action Notify(_("You are still Bound. You cannot use any abilities."))
                             idle "battle_ability"
                         button:
                             yalign 0.5
-                            action Notify("You are still Bound. You cannot use any abilities.")
+                            action Notify(_("You are still Bound. You cannot use any abilities."))
                             text _("Ability") style "button_text2"
                 else:
                     hbox:
@@ -352,11 +352,11 @@ screen battle_buttons():
                     hbox:
                         spacing 10
                         imagebutton:
-                            action Notify("You cannot flirt with the enemy while wearing Idol of Virtue.")
+                            action Notify(_("You cannot flirt with the enemy while wearing Idol of Virtue."))
                             idle "battle_flirt"
                         button:
                             yalign 0.5
-                            action Notify("You cannot flirt with the enemy while wearing Idol of Virtue.")
+                            action Notify(_("You cannot flirt with the enemy while wearing Idol of Virtue."))
                             text _("Flirt") style "button_text2"
                 else:
                     hbox:
@@ -614,7 +614,7 @@ screen battle_buttons():
                             button:
                                 yalign 0.5
                                 action Return(ally.ext1)
-                                text ally.ext1 style "button_text2"
+                                text "[ally.ext1!t]" style "button_text2"
                         hbox:
                             spacing 10
                             imagebutton:
@@ -623,7 +623,7 @@ screen battle_buttons():
                             button:
                                 yalign 0.5
                                 action Return(ally.ext2)
-                                text ally.ext2 style "button_text2"
+                                text "[ally.ext2!t]" style "button_text2"
                         hbox:
                             spacing 10
                             imagebutton:
@@ -632,7 +632,7 @@ screen battle_buttons():
                             button:
                                 yalign 0.5
                                 action Return(ally.ext3)
-                                text ally.ext3 style "button_text2"
+                                text "[ally.ext3!t]" style "button_text2"
                     else:
                         hbox:
                             spacing 10
@@ -642,7 +642,7 @@ screen battle_buttons():
                             button:
                                 yalign 0.5
                                 action NullAction()
-                                text ally.ext1 style "button_text3"
+                                text "[ally.ext1!t]" style "button_text3"
                         hbox:
                             spacing 10
                             imagebutton:
@@ -651,7 +651,7 @@ screen battle_buttons():
                             button:
                                 yalign 0.5
                                 action NullAction()
-                                text ally.ext2 style "button_text3"
+                                text "[ally.ext2!t]" style "button_text3"
                         hbox:
                             spacing 10
                             imagebutton:
@@ -660,7 +660,7 @@ screen battle_buttons():
                             button:
                                 yalign 0.5
                                 action NullAction()
-                                text ally.ext3 style "button_text3"
+                                text "[ally.ext3!t]" style "button_text3"
 
                 else:
                     hbox:
@@ -680,7 +680,7 @@ screen battle_buttons():
                         button:
                             yalign 0.5
                             action NullAction()
-                            text ally.ext1 style "button_text3"
+                            text "[ally.ext1!t]" style "button_text3"
                     hbox:
                         spacing 10
                         imagebutton:
@@ -689,7 +689,7 @@ screen battle_buttons():
                         button:
                             yalign 0.5
                             action NullAction()
-                            text ally.ext2 style "button_text3"
+                            text "[ally.ext2!t]" style "button_text3"
                     hbox:
                         spacing 10
                         imagebutton:
@@ -698,7 +698,7 @@ screen battle_buttons():
                         button:
                             yalign 0.5
                             action NullAction()
-                            text ally.ext3 style "button_text3"
+                            text "[ally.ext3!t]" style "button_text3"
 
 
             frame:

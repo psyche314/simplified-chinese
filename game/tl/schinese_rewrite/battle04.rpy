@@ -215,11 +215,11 @@ translate schinese_rewrite scarecrow_battle_loop_92fd1b69:
 
 translate schinese_rewrite scarecrow_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite scarecrow_battle_loop_8a05b807:
 
-    "你严重打击稻草人, 卖[oa[4]HP!"
+    "你严重打击稻草人, 卖[oa[4]]HP!"
 
 translate schinese_rewrite scarecrow_battle_loop_cbfee0de:
 
@@ -387,11 +387,11 @@ translate schinese_rewrite landshark_battle_loop_23f52874:
 
 translate schinese_rewrite landshark_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite landshark_battle_loop_5cb0b35b:
 
-    "你严重打击了陆地码头, 交易[oa[4]HP!"
+    "你严重打击了陆地码头, 交易[oa[4]]HP!"
 
 translate schinese_rewrite landshark_battle_loop_d0d78559:
 
@@ -551,11 +551,11 @@ translate schinese_rewrite ratbandit_battle_loop_5fc11c2d:
 
 translate schinese_rewrite ratbandit_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite ratbandit_battle_loop_17a649f0:
 
-    "你严重地打中了强盗, 交易[oa[4]HP!"
+    "你严重地打中了强盗, 交易[oa[4]]HP!"
 
 translate schinese_rewrite ratbandit_battle_loop_f58127ce:
 
@@ -1119,11 +1119,11 @@ translate schinese_rewrite sharkbandit_battle_loop_ea49aba5:
 
 translate schinese_rewrite sharkbandit_battle_loop_24bcc736:
 
-    "他的健康下降 RENPX0HP。[oa[4]。"
+    "他的健康下降 [oa[4]] HP。"
 
 translate schinese_rewrite sharkbandit_battle_loop_17a649f0:
 
-    "你严重地打中了强盗, 交易[oa[4]HP!"
+    "你严重地打中了强盗, 交易[oa[4]]HP!"
 
 translate schinese_rewrite sharkbandit_battle_loop_a3975f77:
 

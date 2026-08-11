@@ -15319,7 +15319,7 @@ translate schinese_rewrite Amble_Voting_Construction_Work_284018a6:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_33b62fb3:
 
-    a "ISTER!!{size=50}{/size}"
+    a "!!{size=50}{/size}"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_f9926e55:
 
@@ -16923,7 +16923,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_71c9509b:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_395d28dc:
 
-    p "嗯,我{i}harp-pen 了解一些关于制作这些精密仪器的理论, 但是{/i}string{i}我跟着, 这个竖琴的故事会是什么。{/i}。"
+    p "嗯,我{i}harp-pen{/i} 了解一些关于制作这些精密仪器的理论, 但是{i}string{/i}我跟着, 这个竖琴的故事会是什么。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_a1364fe4:
 

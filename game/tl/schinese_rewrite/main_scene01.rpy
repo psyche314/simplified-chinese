@@ -487,7 +487,7 @@ translate schinese_rewrite Scene_Sebas_Under_Counter_23ccdae6:
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_29ea94b5:
 
-    s3 "RENPX0 你真的很擅长这个...[e]。"
+    s3 "[e] 你真的很擅长这个..."
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_1c88cffa:
 

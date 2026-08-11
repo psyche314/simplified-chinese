@@ -2293,7 +2293,7 @@ label Haskell_Oolong_Quest_Begin_Menu:
             "The two of you stare at the other for a second, neither of you moving. You only dare to clutch at the cloak, feeling the warmth of the leather hide."
             $ addItem("Winterworn Coat", inventory)
             $ QuestBegin(quest44)
-            $ quest44.qProgress("Trek to Snowbound Summit, near the Frosted Taiga in the snow area")
+            $ quest44.qProgress(_("Trek to Snowbound Summit, near the Frosted Taiga in the snow area"))
             e "Thank you. I guess I'll be off then."
             h "Off you go, kiddo. Don't get lost up there."
             "You turn around, the cloak dragging behind you as you walk out of the hut."
@@ -2350,7 +2350,7 @@ label Haskell_Oolong_Quest_Back:
     h "And, oh... don't forget to come back in a few days. I promise you, it'll be worth it."
     $ quest44.status = 4
     $ haskell_dialogues["Oolong Finish Day"] = timenow.day + 2
-    $ quest44.qComp("Wait for 3 days")
+    $ quest44.qComp(_("Wait for 3 days"))
     jump main_haskell_hut
 
 label Haskell_Oolong_Quest_Waiting:

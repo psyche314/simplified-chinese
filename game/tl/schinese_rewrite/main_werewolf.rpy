@@ -4419,7 +4419,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_640d4750:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_31af851f:
 
-    "他就是really{i} 讨厌读那本日记{/i}。"
+    "他真的{i}很{/i}讨厌读那本日记。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_0e71d511:
 
@@ -9495,7 +9495,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_4d67f0a8:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_a017da02:
 
-    e "不,我是HRRR{i}{/i}。"
+    e "不，我是——{i}HRRK{/i}。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_d81dea2f:
 
@@ -9859,7 +9859,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_c2bed032:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_0d84cfb0:
 
-    v "杀害乌菲和lyt{i} 乌菲的必要性使我们的工作更加困难。 我们战斗的其他狼人没有一个会永远受伤或死亡。{/i}。"
+    v "杀害乌菲和{i}仅仅{/i}乌菲的必要性使我们的工作更加困难。我们战斗的其他狼人没有一个会永久受伤或死亡。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_86ff8f59:
 

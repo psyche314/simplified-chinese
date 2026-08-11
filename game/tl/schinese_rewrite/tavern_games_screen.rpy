@@ -403,7 +403,7 @@ translate schinese_rewrite Card_Game_Turn_0e011a26:
 
 translate schinese_rewrite Card_Game_Turn_a4b55580:
 
-    coit "M'女士的运气今天在[cdg_winner[0]的一边, 并不意味着我会成为一个 输音机的失败者'ere。"
+    coit "M'女士的运气今天是[cdg_winner[0]]的一面, 并不意味着我会成为一个 输音机的失败者'ere。"
 
 translate schinese_rewrite Card_Game_Turn_4f05e0d7:
 

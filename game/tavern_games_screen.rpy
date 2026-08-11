@@ -525,7 +525,7 @@ screen card_game():
                 hovered SetVariable("cdg_hover1", True)
                 unhovered SetVariable("cdg_hover1", False)
                 action SetVariable("cdg_peeking", False), SetVariable("cdg_swapping", cdg_c1)
-            text "Swap?" xpos 200 ypos 540 style "button_text2"
+            text _("Swap?") xpos 200 ypos 540 style "button_text2"
         elif cdg_swapping == cdg_c1:
             imagebutton:
                 xpos 100
@@ -563,7 +563,7 @@ screen card_game():
                 hovered SetVariable("cdg_hover2", True)
                 unhovered SetVariable("cdg_hover2", False)
                 action SetVariable("cdg_peeking", False), SetVariable("cdg_swapping", cdg_c2)
-            text "Swap?" xpos 960 ypos 150 style "button_text2"
+            text _("Swap?") xpos 960 ypos 150 style "button_text2"
         elif cdg_swapping == cdg_c2:
             imagebutton:
                 xpos cardxposition
@@ -656,7 +656,7 @@ screen card_game():
                 hovered SetVariable("cdg_hover3", True)
                 unhovered SetVariable("cdg_hover3", False)
                 action SetVariable("cdg_peeking", False), SetVariable("cdg_swapping", cdg_c3)
-            text "Swap?" xpos 1600 ypos 540 style "button_text2"
+            text _("Swap?") xpos 1600 ypos 540 style "button_text2"
         elif cdg_swapping == cdg_c3:
             imagebutton:
                 xpos 1700
@@ -781,14 +781,14 @@ screen card_game():
             xpadding 15
             ypadding 15
             style "coolframe"
-            textbutton "Swap" style "button_text2" action Return("Swap")
+            textbutton _("Swap") style "button_text2" action Return("Swap")
         frame:
             xpos 1300
             ypos 540
             xpadding 15
             ypadding 15
             style "coolframe"
-            textbutton "Keep" style "button_text2" action Return("Ok")
+            textbutton _("Keep") style "button_text2" action Return("Ok")
 
 label Card_Game_Begin:
     scene cardgame_table with dissolve

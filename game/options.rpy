@@ -225,6 +225,11 @@ init python:
     build.classify('**LICENSE', None)
     build.classify('**.rpy', None)
     build.classify('**.md', None)
+    # Local audit/model/build artifacts and signing material must never enter
+    # a distributable package when the project is built from this checkout.
+    build.classify('_staging/**', None)
+    build.classify('game/saves/**', None)
+    build.classify('**.keystore', None)
 
 
 
