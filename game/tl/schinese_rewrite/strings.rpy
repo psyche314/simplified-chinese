@@ -1,46 +1,34 @@
-# Generated from developer English menu strings.
-
 translate schinese_rewrite strings:
 
     old "\n\nOutland Wanderer is a Visual Novel RPG created by f1shsticker.\n\nPlayer plays an outsider stumbling upon the continent of Mokken. In his attempt to travel back to his own Tribe, he bonds and form different relationship with the locals, tackles on unknown forces, and discover shocking yet compelling secret among them. But be ware, your decision will change their lives, forever.\n\nThis is a prototype, aims for laying foundations and systems, storytelling and other elements are not refined yet. A lot of bugs might also exists so there is a very high possibility your save would not be able to transfer to future build.\n\n==================================================================\n\n{a=https://discord.gg/QnbJMGhZhV}Official Discord Server{/a}\n\nCredit:\n\nCode/Art/Script: f1shsticker {a=https://twitter.com/OutlandWanderer}Twitter{/a}\n\nCode: 逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}\n\nScript: Nyarlothotep {a=https://twitter.com/LoveCountry45}Twitter{/a} {p}\n\nLonelyTree {a=https://discordapp.com/users/273928084388839425}Discord{/a}\n\nMagnolia\n\nMusic: Will o Wisp {a=https://soundcloud.com/willowispproductions}Twitter{/a}\n\nPinewood Jerry {a=https://twitter.com/Pinewood_Jerry}Twitter{/a}\n\nFrench Translation: Sannom(Paul) {a=https://twitter.com/SannomTigris}Twitter{/a}\n\nPortuguese Translation: Fábio.T {a=https://twitter.com/Fabio120938}Twitter{/a}\n\nSimplified Chinese Translation: 逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}, Dcl5, Robotic-Panda\n\nFont: Adobe Garamond Pro\n\n"
     new "\n\n《异乡漫游客》是一款由 f1shsticker 制作的视觉小说 RPG。\n\n玩家将扮演一名意外来到莫肯大陆的外乡人。为了回到自己的部落，你会与当地人建立各种关系，面对未知的力量，揭开他们身上令人震惊却又引人入胜的秘密。但请小心：你的决定将永远改变他们的人生。\n\n这是一个原型版本，旨在搭建基础系统、叙事和其他要素；它们目前还不完善。游戏也可能存在许多漏洞，因此你的存档很可能无法转移到未来版本。\n\n==================================================================\n\n{a=https://discord.gg/QnbJMGhZhV}官方 Discord 服务器{/a}\n\n制作人员：\n\n代码/美术/剧本：f1shsticker {a=https://twitter.com/OutlandWanderer}Twitter{/a}\n\n代码：逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}\n\n剧本：Nyarlothotep {a=https://twitter.com/LoveCountry45}Twitter{/a} {p}\n\nLonelyTree {a=https://discordapp.com/users/273928084388839425}Discord{/a}\n\nMagnolia\n\n音乐：Will o Wisp {a=https://soundcloud.com/willowispproductions}Twitter{/a}\n\nPinewood Jerry {a=https://twitter.com/Pinewood_Jerry}Twitter{/a}\n\n法语翻译：Sannom(Paul) {a=https://twitter.com/SannomTigris}Twitter{/a}\n\n葡萄牙语翻译：Fábio.T {a=https://twitter.com/Fabio120938}Twitter{/a}\n\n简体中文翻译：逆戟鲸COPtimer {a=https://twitter.com/COPtimer_1974}Twitter{/a}、Dcl5、Robotic-Panda\n\n字体：Adobe Garamond Pro\n\n"
 
-
     old " HP to the freezing cold in the snow region."
     new " 在雪地区域，你每小时都会因严寒损失 HP。"
-
-
 
     old "'Bet' with drunk Sebas"
     new "和醉酒的塞巴斯“赌一把”"
 
-
-
-
     old "100 Gold"
     new "100金币"
+
     old "30-Gold\nAdult Only!"
     new "30金币\n仅限成人！"
+
     old "50 Gold"
     new "50金币"
+
     old "500 Gold"
     new "500金币"
 
-
-
-
     old "A Cabin that is located in the middle of a flower grove. {p} The Cabin inhabits an alchemist who produces potion for neighbouring tribes."
     new "一间坐落在花林中央的小屋。{p}屋里住着一位为邻近部落制作药剂的炼金术师。"
+
     old "A Carved Stone discovered by Lothar, it seems to be a hand... from the Mossy Golem."
     new "洛萨尔发现的一块雕刻石，看起来像是……苔藓石魔像的手。"
 
     old "A Cave near the Sparkling Lagoon. {p} It inhabits different types of magical enemies due to the vitality of the flowing water."
     new "苍耀湖附近的一座山洞。{p}流动的水源充满活力，吸引了各种魔法生物在此栖息。"
-
-
-
-
-
 
     old "A Potion that can increase drinker's Accuracy by 20 for 2 rounds."
     new "一种能在2回合内使饮用者的命中率提高20点的药剂。"
@@ -54,7 +42,6 @@ translate schinese_rewrite strings:
     old "A Potion that can increase drinker's both defenses by 40 for 2 rounds. Drinking it off battle with increase Tenacity temporarily instead."
     new "一种能在2回合内使饮用者的两项防御各提高40点的药剂。战斗外饮用时，则会暂时提高坚韧。"
 
-
     old "A Strength Potion that temporarily increases drinker's Damage. Drinking it off battle with increase Strength temporarily instead."
     new "一种能暂时提高饮用者伤害的力量药水。战斗外饮用时，则会暂时提高力量。"
 
@@ -63,13 +50,9 @@ translate schinese_rewrite strings:
 
     old "A Time with Oolong"
     new "与乌龙相处的时光"
+
     old "A Trinket that causes your normal attack to deal extra damage with your flirt, but your max lust is decreased by 15."
     new "一种饰品：让普通攻击通过调情造成额外伤害，但最大欲望降低15点。"
-
-
-
-
-
 
     old "A Trinket that increases normal attack by the percentage of enemy's lust, and increases your flirt by the amount of enemy's missing health."
     new "一种饰品：普通攻击伤害会随敌人的欲望百分比提高；敌人损失的生命值越多，你的调情效果就越强。"
@@ -80,26 +63,20 @@ translate schinese_rewrite strings:
     old "A badge given by Ole, as a symbol of the courier of lusterfield."
     new "奥利颁发的徽章 象征着白种人场的使者。"
 
-
     old "A base structure of a hat made from metal wires, and loosely put together by Rahim."
     new "用金属铁丝制成的帽子基体结构 由雷希姆松散地组装。"
 
     old "A blue berry I collected from the forest area, it can recover 10 MP."
     new "我在森林地区采集的蓝莓，可以恢复10点魔力。"
+
     old "A blue berry collected from the forest area, it can recover 10 MP."
     new "从森林地区采集的蓝莓，可以恢复10点魔力。"
 
-
-
-
     old "A cheap pillow made with reed, it is difficult to fall asleep on these pillow but it looks alright."
     new "用芦苇制成的廉价枕头。靠它入睡并不容易，不过看起来还算不错。"
+
     old "A chunk of ice that never melts, even if it's removed from the frigid homeland. It's said to carry a history older than any exising culture on Mokken."
     new "冰块从不融化, 即使它从寒冷的家园移走。 据说它的历史比莫肯的任何文化都古老。"
-
-
-
-
 
     old "A durable plain-woven fabric used for making sturdy bags or clothings in Mokken, its recipe seems to be in the damp cave."
     new "在莫肯制造坚固袋或衣服的耐久的普通织物,其配方似乎在潮湿的洞穴中。"
@@ -107,41 +84,17 @@ translate schinese_rewrite strings:
     old "A fabric that can be easily made into clothing and equipment in Lusterfield."
     new "在乐斯民菲尔德很容易成为服装和设备的织物。"
 
-
-
-
-
     old "A flower that is small but colourful, usually placed in grave to honour the dead, or an ingredient for a tea with bamboo water."
     new "一种小巧却色彩鲜艳的花，通常放在坟墓上缅怀逝者，也可作为用竹水泡茶的原料。"
-
-
-
-
-
-
-
-
-
-
-
 
     old "A humble village in Mokken. {p} A village that is best known for its beer from the Nocturnal Trunk tavern. {p} And an all-time merchant-favourite pawn shop named King's Pawn."
     new "在莫肯的一个卑微的村庄。{p}是一个以新夜特伦特酒馆啤酒闻名的村庄。{p}和一个全时商人喜爱的当铺,名为国王的当铺。"
 
-
-
-
     old "A kind of wool collected from goat huntsman in a legal, non-harmful way. It is the main materials for most clothes in Lusterfield."
     new "一种从猎羊者那里以合法、无害的方式收集的羊毛,是乐斯民菲尔德大部分服装的主要材料。"
 
-
-
-
-
-
     old "A leather strap from a Buggbear, presumably stolen from the goat. It's used to hold something together."
     new "熊地精身上的皮带，想必是从山羊那里偷来的。用来把东西捆在一起。"
-
 
     old "A letter written by Furkan to Rahim, to negotiate for a deal to reopen the gate of both parties."
     new "弗坎给雷希姆的一封信,要求谈判一项重新开放双方大门的协议。"
@@ -149,62 +102,29 @@ translate schinese_rewrite strings:
     old "A letter written by Rahim to Furkan, to arrange for a meeting to discuss the alliance pact."
     new "雷希姆写了一封信给弗坎 安排开会讨论联盟条约。"
 
-
-
     old "A long spear crafted by a tribe, the magical power within gives its user an unusual boost."
     new "部落打造的长矛，内部蕴含的魔力会给使用者带来非同寻常的强化。"
-
-
-
-
-
-
-
-
 
     old "A new server, in the tavern of Lusterfield, {p}he restores not only the duty, but the passion of service."
     new "乐斯民菲尔德酒馆来了一位新侍者。{p}他不仅接下了工作，也重新点燃了服务的热情。"
 
-
-
-
-
-
     old "A piece of cloth from Rahim, it is made with wool from somewhere."
     new "雷希姆的一块布 是用羊毛从某处制成的。"
 
-
-
-
-
-
-
-
-
     old "A quest from the farm, {p}reveals the swindler from the plains, and the plums he tore."
     new "一项来自农场的任务。{p}它会揭露来自平原的骗子，以及被他糟蹋的李子。"
+
     old "A red berry I collected from the forest area, it can recover 10 HP."
     new "我在森林地区采集的红莓，可以恢复10点生命。"
+
     old "A red berry collected from the forest area, it can recover 10 HP."
     new "从森林地区采集的红莓，可以恢复10点生命。"
-
-
-
-
-
 
     old "A sedative for buggbears only. Used when the target has lower than 50% health, or higher than 50% lust. Target will quickly fall asleep and produce extra saliva."
     new "仅对熊地精有效的镇静剂。目标生命值低于50%或欲望高于50%时使用。目标会迅速入睡，并分泌更多唾液。"
 
-
-
     old "A sizeable mountain away from the main mountain range in the snow village, now guarded by the willful snowmen. Legend says the primordial Ookko was last seen residing in the mountain."
     new "雪村主山脉之外的一座大山，如今由任性的雪人看守。传说原初的奥科最后一次现身就是在这座山里。"
-
-
-
-
-
 
     old "A small bell dropped from the goat huntsman. Its size is much smaller and duller compared to Furkan's necklace."
     new "山羊猎手的一只小铃 大小比弗坎的项链小得多 更枯燥。"
@@ -212,15 +132,11 @@ translate schinese_rewrite strings:
     old "A small blue potion that replenishes the user's MP for a small amount."
     new "一种小型蓝色药水，可以少量恢复使用者的魔力。"
 
-
     old "A small hand tool most used for digging in a garden, smoothing or spreading mortar."
     new "一种小型手工具，常用于在花园中挖土，以及抹平或铺开砂浆。"
 
-
-
     old "A small red potion that replenishes the user's HP for a small amount."
     new "一种小型红色药水，可以少量恢复使用者的生命。"
-
 
     old "A special beer brewed by the former tavern server, Topu. Drinking it may cause the drinker to experience an odd vision."
     new "前酒馆侍者托普酿造的特殊啤酒。饮用后可能会看见奇异的幻象。"
@@ -228,35 +144,17 @@ translate schinese_rewrite strings:
     old "A stone that is found by Lothar from where the caravan crashed."
     new "洛萨尔发现一块石头 是从大篷车坠毁的地方找到的。"
 
-
     old "A strong and durable leather armor custom-made and stitched together by tailor Rahim. It had been a rarity and often fetched a great price during the time when he was the King's appointed Tailor."
     new "由裁缝雷希姆定制和缝合的坚固和耐久的皮革盔甲,是一个罕见的现象,在国王任命他为裁缝工期间,往往付出了高昂的代价。"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "A water bucket crafted from Rahim's Workstation, it can be used to get flowing water from the Sparkling Lagoon."
     new "用雷希姆工作台制作的水桶，可以从苍耀湖汲取流动之水。"
 
-
     old "A white berry collected from the snow region, its densely sweet taste and rich nutrition is a rarity in the harsh winter weather. Consuming it can recover a significant amount of HP and MP."
     new "从雪地区域采集的白莓。它甜得浓郁、营养丰富，在严酷的冬日里十分珍贵。食用后可以大量恢复生命和魔力。"
+
     old "A white berry collected from the snow region, the fact that it survives through the hard winter proves its high nutrition value. Consuming it can recover a significant amount of HP and MP."
     new "从雪地区域采集的白莓。它能熬过严冬，足以证明营养价值极高。食用后可以大量恢复生命和魔力。"
-
-
-
 
     old "ACCEPT"
     new "接受"
@@ -267,30 +165,11 @@ translate schinese_rewrite strings:
     old "AGI: [pc.agi]"
     new "敏捷：[pc.agi]"
 
-
-
-
-
-
-
     old "Accept Amble's Offer"
     new "接受安布的提议"
 
-
-
-
     old "Accept Ribba's Prop Quest"
     new "接受里巴的道具任务"
-
-
-
-
-
-
-
-
-
-
 
     old "Accuracy Potion"
     new "精准药水"
@@ -298,42 +177,30 @@ translate schinese_rewrite strings:
     old "Accuracy: [pc.accuracy]"
     new "命中：[pc.accuracy]"
 
-
-
-
-
     old "Adorned"
     new "装饰"
 
-
-
     old "Advances dialogue without selecting choices."
     new "推进对话，不选择选项。"
-
-
-
-
-
-
-
-
 
     old "After the vote is settled, Rahim asked me to deliver Furkan a letter about the proceeding vote."
     new "表决结束后,雷希姆让我给弗坎送一封信,介绍表决情况。"
 
     old "Agile"
     new "敏捷"
+
     old "Agility (AGI) determines [e]'s speed, including Hit Rate, Critical Damage, Critical Chance and Dodge Chance."
     new "敏捷（AGI）决定[e]的速度，包括命中率、暴击伤害、暴击率和闪避率。"
 
-
-
     old "Ale"
     new "麦酒"
+
     old "Ale for Sale"
     new "出售麦酒"
+
     old "Alluring Lust"
     new "魅惑之欲"
+
     old "Alluring Lust: {p} You can increase the effectiveness of your Flirt for 3 rounds, scaling with your INT and CHA."
     new "魅惑之欲：{p}接下来3回合内，你的调情效果提高，提升幅度取决于智力和魅力。"
 
@@ -345,51 +212,39 @@ translate schinese_rewrite strings:
 
     old "An HP Potion that recovers 40 HP."
     new "一种可以恢复40点生命的生命药水。"
+
     old "An MP Potion that recovers 40 MP."
     new "一种可以恢复40点魔力的魔力药水。"
+
     old "An Ointment with recipe created by Ole, it can cleanse all negative effect during battle."
     new "以奥利创造的食谱为食谱, 它可以在战斗中清除所有负面效应。"
 
     old "An Ointment with recipe created by Ole, it can recover 80 HP and MP each, reduces 30 Lust, and cleanse all negative effect during battle."
     new "奥利制作的药膏。它各恢复80点生命和魔力，降低30点欲望，并清除战斗中的所有负面效果。"
+
     old "An abandoned bridge that has been destroyed by the Goat Tribe as they waged war against Lusterfield, it was the main transport path as countless carriages and wagons strolled across this bridge daily."
     new "一座废弃的桥 被戈特部落摧毁 当他们向乐斯民菲尔德宣战时。"
 
     old "An accessory that blesses the true warrior, it converts all Charisma of the wearer into pure Strength during battle. However, the wearer cannot cast Flirt on the enemy while it is worn."
     new "一件祝福真正战士的饰品。战斗中，它会把穿戴者的全部魅力转化为纯粹的力量；但穿戴期间无法对敌人使用调情。"
 
-
-
-
-
-
-
-
-
-
-
-
     old "An old recipe of a mixture of herbs used as beer ingredients, it seems to be adopted and improved by the former tavern server, Topu."
     new "一种用作啤酒原料的古老混合药草配方，似乎被前酒馆侍者托普采用并改良了。"
+
     old "An opening in a pine and fir forest at the edge of the snow region created by a wild fire long ago. Its name derives from the beautiful ursinia flowers where local visitors often use for celebratory purposes."
     new "雪地区域边缘的松柏林中有一片空地，很多年前曾被野火烧出。它因美丽的乌尔西妮娅花而得名，当地人常来此庆祝。"
 
     old "Analyse Lothar's emotion"
     new "分析洛萨尔的情绪"
 
-
-
-
-
-
-
     old "Ardent Cauldron"
     new "烈焰坩埚"
+
     old "Ardent Cauldron?"
     new "烈焰坩埚？"
+
     old "Are there any new products for sales?"
     new "有没有什么新产品可供出售？"
-
 
     old "Are you Lothar?"
     new "你是洛萨尔吗？"
@@ -397,34 +252,24 @@ translate schinese_rewrite strings:
     old "Are you Rahim?"
     new "你是雷希姆吗？"
 
-
-
-
-
-
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to report back to Ole for the 30 strength potion."
     new "作为快递任务，奥利告诉我需要帮他从一位老朋友那里取药。{p}我得带着30点力量药水回去向奥利报告。"
 
     old "As my courier job, Ole told me about helping him get potion from an old friend. {p} I need to sedate two Buggbears with the powder Haskell gave me."
     new "作为快递任务，奥利告诉我需要帮他从一位老朋友那里取药。{p}我得用哈斯凯尔给我的药粉麻醉两只熊地精。"
 
-
-
     old "Ask Amble and Jog for training"
     new "询问 安布 和 乔格 训练"
 
-
     old "Ask Furkan what he has to say"
     new "问弗坎他要说什么"
-
-
-
 
     old "Ask Kari what he has to say"
     new "问卡里他要说什么"
 
     old "Ask Lothar about Trainings from Ole"
     new "向洛萨尔询问奥利的训练"
+
     old "Ask Lothar for Permission"
     new "询问 洛萨尔 请求权限"
 
@@ -449,17 +294,15 @@ translate schinese_rewrite strings:
     old "Ask about Fixing with the Apron"
     new "询问修补围裙的事"
 
-
-
     old "Ask about Gwyddyon"
     new "询问格威迪恩的事"
-
 
     old "Ask about Herd the architect"
     new "询问建筑师赫德的事"
 
     old "Ask about Lothar"
     new "询问洛萨尔的事"
+
     old "Ask about Lusterfield{#AmbleAAL}"
     new "询问 乐斯民菲尔德{#AmbleAAL} 的情况"
 
@@ -484,10 +327,9 @@ translate schinese_rewrite strings:
     old "Ask about Lusterfield{#SebAAL}"
     new "询问 乐斯民菲尔德{#SebAAL} 的情况"
 
-
-
     old "Ask about Ookko"
     new "询问奥科的事"
+
     old "Ask about Pirkka's Prose"
     new "询问皮尔卡的诗文"
 
@@ -500,135 +342,41 @@ translate schinese_rewrite strings:
     old "Ask about Training from Lothar"
     new "询问洛萨尔的训练"
 
-
-
-
     old "Ask about his Loot"
     new "询问他的战利品"
-
-
-
-
-
-
 
     old "Ask about his night with Cane"
     new "询问他和凯恩的夜晚"
 
-
-
-
-
-
-
-
-
-
-
-
-
     old "Ask about his talk with Furkan"
     new "询问他与弗坎的谈话情况"
-
-
 
     old "Ask about ingredient for Cane's Apron"
     new "询问制作凯恩围裙的材料"
 
-
-
-
-
-
-
-
-
     old "Ask about the Gnolls"
     new "询问豺狼人的事"
 
-
-
     old "Ask about the Oolong Tasting"
     new "询问乌龙茶品鉴"
+
     old "Ask about the Plum Plunderer"
     new "询问偷李子的贼"
+
     old "Ask about the Plum Thief"
     new "询问李子窃贼"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Ask about the meeting with Gwyddyon"
     new "询问与格威迪恩会面的情况"
 
-
-
-
-
     old "Ask about the people in Lusterfield"
     new "问乐斯民菲尔德人的情况"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Ask around Lusterfield to find the prose' buyer."
     new "找乐斯民菲尔德找普罗斯的买家。"
 
-
-
-
     old "Ask for a small Talk with Lothar"
     new "要求和洛萨尔聊一会儿"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Ask to follow Amble's Patrol"
     new "要求跟随安布的巡逻"
@@ -636,34 +384,17 @@ translate schinese_rewrite strings:
     old "Ask to help Rahim"
     new "要求帮助雷希姆"
 
-
-
-
-
-
-
-
-
     old "Assistant Costume"
     new "助手服装"
-
-
-
-
-
-
 
     old "Axe of Ookko"
     new "奥科之斧"
 
-
-
-
     old "Backyard Barn"
     new "后院谷仓"
+
     old "Bandana"
     new "头巾"
-
 
     old "Bandit Hood"
     new "强盗兜帽"
@@ -671,13 +402,11 @@ translate schinese_rewrite strings:
     old "Bandit's Hideout"
     new "强盗藏身处"
 
-
     old "Barley"
     new "大麦"
+
     old "Battle of Lusterfield"
     new "乐斯民菲尔德之战"
-
-
 
     old "Bear Chief"
     new "熊族首领"
@@ -688,31 +417,21 @@ translate schinese_rewrite strings:
     old "Bear Fur"
     new "熊毛"
 
-
     old "Bear Tribe Harpoon"
     new "熊族鱼叉"
-
-
-
-
-
-
 
     old "Berate him"
     new "斥责他"
 
-
     old "Binge Eater"
     new "暴食者"
-
-
-
 
     old "Book of Fiery Charge"
     new "烈焰冲锋技能书"
 
     old "Book of Immolation"
     new "焚灭技能书"
+
     old "Book of Spectral Orb"
     new "幽灵光球技能书"
 
@@ -724,19 +443,16 @@ translate schinese_rewrite strings:
 
     old "Bound"
     new "受缚"
+
     old "Bound: {p} Target is unable to attack or use abilities. Struggle to deal reduced damage and break free."
     new "受缚：{p} 目标无法攻击或使用技能。尝试挣扎，造成较低伤害并挣脱束缚。"
-
-
 
     old "Bridgeroot"
     new "桥根"
 
-
-
-
     old "Bruised"
     new "挫伤"
+
     old "Bruised: {p} All Target's healing is reduced by a significant amount."
     new "淤青：{p}所有目标受到的治疗效果大幅降低。"
 
@@ -748,14 +464,15 @@ translate schinese_rewrite strings:
 
     old "Buggbear Saliva"
     new "熊地精唾液"
+
     old "Buggbear Sedative"
     new "熊地精镇静剂"
 
     old "Bull Wrestler"
     new "公牛摔跤手"
+
     old "Bulwark Statue"
     new "壁垒石像"
-
 
     old "Buy 10 pieces of Crystal String"
     new "购买10根水晶线"
@@ -766,32 +483,38 @@ translate schinese_rewrite strings:
     old "Buy 2 pieces of chestnut for 3 carrots"
     new "用3根胡萝卜购买2颗栗子"
 
-
     old "Buy one [trunk_merchant_items[0][0].name!t] for [trunk_merchant_items[0][0].value] Gold"
     new "购买一件[trunk_merchant_items[0][0].name!t]，价格为[trunk_merchant_items[0][0].value]金币"
+
     old "Buy one [trunk_merchant_items[1][0].name!t] for [trunk_merchant_items[1][0].value] Gold"
     new "购买一件[trunk_merchant_items[1][0].name!t]，价格为[trunk_merchant_items[1][0].value]金币"
+
     old "Buy one [trunk_merchant_items[2][0].name!t] for [trunk_merchant_items[2][0].value] Gold"
     new "购买一件[trunk_merchant_items[2][0].name!t]，价格为[trunk_merchant_items[2][0].value]金币"
+
     old "Buy one [trunk_merchant_items[3][0].name!t] for [trunk_merchant_items[3][0].value] Gold"
     new "购买一件[trunk_merchant_items[3][0].name!t]，价格为[trunk_merchant_items[3][0].value]金币"
+
     old "Buy one [trunk_merchant_items[4][0].name!t] for [trunk_merchant_items[4][0].value] Gold"
     new "购买一件[trunk_merchant_items[4][0].name!t]，价格为[trunk_merchant_items[4][0].value]金币"
+
     old "Buy the scroll"
     new "购买卷轴"
 
     old "Buzzing"
     new "嗡鸣"
+
     old "CHA: [pc.cha]"
     new "魅力：[pc.cha]"
 
     old "Camouflage"
     new "伪装"
+
     old "Camouflage: {p} Increases your dodge rate scaling with your INT and AGI."
     new "伪装：{p}提高闪避率，提升幅度取决于智力和敏捷。"
+
     old "Cana"
     new "卡娜"
-
 
     old "Cane asked me if I want to further my relationship with my patrons. He asked me to prepare... 2 pillows for the private room."
     new "凯恩问我是否想进一步发展与客人的关系。他让我准备……两只枕头，放进包间。"
@@ -804,36 +527,42 @@ translate schinese_rewrite strings:
 
     old "Canvas"
     new "帆布"
+
     old "Caproot"
     new "萝卜怪"
+
     old "Caretaker"
     new "看守者"
 
-
     old "Cashmere"
     new "山羊绒"
+
     old "Castor"
     new "蓖麻"
 
-
     old "Cement"
     new "水泥"
+
     old "Cena"
     new "塞娜"
+
     old "Ceno"
     new "塞诺"
+
     old "Chamomile"
     new "洋甘菊"
+
     old "Charisma (CHA) determines [e]'s appeal to other characters, including Flirt effectiveness."
     new "魅力决定[e]对其他角色的吸引力，也会影响调情效果。"
+
     old "Charmed"
     new "魅惑"
+
     old "Charmed: {p} Target's lust increases by multiple of each effective round. Stackable."
     new "魅惑：{p} 目标每回合都会增加一定量的欲望。可叠加。"
 
     old "Chase after"
     new "追上去"
-
 
     old "Cheap Pillow"
     new "廉价枕头"
@@ -846,10 +575,13 @@ translate schinese_rewrite strings:
 
     old "Check out the shop"
     new "查看商店"
+
     old "Chelforte Cavern"
     new "切尔福特山洞"
+
     old "Chestnut"
     new "栗子"
+
     old "Chime"
     new "齐门"
 
@@ -859,27 +591,30 @@ translate schinese_rewrite strings:
     old "Choose a prop device"
     new "选择道具装置"
 
-
     old "Chop"
     new "砍伐"
+
     old "Chrysanthemum"
     new "菊花"
+
     old "Clawridge Ascent"
     new "爪岭登山道"
+
     old "Clay"
     new "黏土"
+
     old "Clear Quest Progress"
     new "清除任务进度"
 
-
-
-
     old "Coit"
     new "科伊特"
+
     old "Coit: [cdg_lc3]"
     new "科伊特：[cdg_lc3]"
+
     old "Collect 3 Barley from the Farm"
     new "从农场收集3份大麦"
+
     old "Collect 3 Chrysanthemums"
     new "收集3朵菊花"
 
@@ -892,13 +627,11 @@ translate schinese_rewrite strings:
     old "Collect 4 chrysanthemums from the Outpost"
     new "从前哨收集4朵菊花"
 
-
     old "Collect information about a secret product from Gwyddyon"
     new "收集格威迪恩秘密产品的信息"
 
     old "Collect slimy materials from the Slime Country"
     new "从史莱姆之国收集黏液材料"
-
 
     old "Collectable materials:"
     new "可收集材料："
@@ -911,9 +644,9 @@ translate schinese_rewrite strings:
 
     old "Complete task from Lothar"
     new "完成洛萨尔交代的任务"
+
     old "Complete task from Rahim"
     new "完成雷希姆的任务"
-
 
     old "Complete the quest before Ole meets with Gwyddyon on "
     new "在奥利和格维迪顿见面前完成搜索"
@@ -930,31 +663,26 @@ translate schinese_rewrite strings:
     old "Completion Date: Day [selected_quest.completed_date]"
     new "完成日期：第[selected_quest.completed_date]天"
 
-
     old "Comply"
     new "照办"
 
     old "Cona"
     new "科娜"
+
     old "Conceal your knowledge"
     new "隐瞒你知道的事"
-
 
     old "Cone"
     new "科恩"
 
-
-
     old "Confused"
     new "困惑"
+
     old "Confused: {p} Target becomes disoriented, causing them to attack themselves half of the time. Upon the fifth stack, target becomes hypnotized and loses the battle."
     new "困惑：{p}目标神志不清，有一半概率会攻击自己。叠加到5层时，目标会被催眠并输掉战斗。"
 
-
-
     old "Continue on your hauling work with Amble"
     new "继续与安布一起搬运货物"
-
 
     old "Continue with crafting Topu's Beer"
     new "继续酿造托普的啤酒"
@@ -965,25 +693,23 @@ translate schinese_rewrite strings:
     old "Continue with your work"
     new "继续工作"
 
-
-
     old "Copper Pickaxe"
     new "铜镐"
-
 
     old "Core Strike: {p} Deal an increased amount of damage based on your INT and TEN, and stuns enemy for 1 round."
     new "核心打击：{p}根据智力和坚韧造成额外伤害，并使敌人眩晕1回合。"
 
     old "Courier Badge"
     new "信使徽章"
+
     old "Courier Board"
     new "信使公告板"
+
     old "Courier Rank: [pc.rank]"
     new "信使等级：[pc.rank]"
 
     old "Courier Training...?"
     new "信使训练……？"
-
 
     old "Craft 2 cheap pillows"
     new "制作2个廉价枕头"
@@ -991,34 +717,36 @@ translate schinese_rewrite strings:
     old "Craft 5 Strength Potions"
     new "制作5瓶力量药剂"
 
-
-
     old "Craft a Harp"
     new "制作一把竖琴"
 
     old "Craft a Tunic"
     new "制作一件长袍"
+
     old "Craft the Bondage Box"
     new "制作束缚箱"
 
     old "Craft the Command Controller"
     new "制作指挥控制器"
 
-
     old "Craft the Portal Ring"
     new "制作传送门戒指"
 
     old "Creek Thicket"
     new "溪边灌木丛"
+
     old "Crew"
     new "同伴"
+
     old "Crit Chance: [pc.crit_chance]"
     new "暴击率：[pc.crit_chance]"
+
     old "Crit: [crit_damage]"
     new "暴击：[crit_damage]"
 
     old "Crystal Gem"
     new "水晶宝石"
+
     old "Crystal Staff"
     new "水晶法杖"
 
@@ -1027,22 +755,25 @@ translate schinese_rewrite strings:
 
     old "Ctrl"
     new "控制"
+
     old "Cult Acolyte"
     new "邪教侍从"
+
     old "Cultist"
     new "邪教徒"
-
-
 
     old "Cut all grasses in the Whispering Hollow"
     new "割掉低语空洞里的所有杂草"
 
     old "D-Pad, Sticks"
     new "方向键、摇杆"
+
     old "DELIVERING"
     new "运送中"
+
     old "Daggi"
     new "达吉"
+
     old "Damage: [pc.damage]"
     new "伤害：[pc.damage]"
 
@@ -1061,19 +792,11 @@ translate schinese_rewrite strings:
     old "Day: [timenow.day]"
     new "第[timenow.day]天"
 
-
     old "Decline Pirkka's request"
     new "拒绝皮尔卡的请求"
 
-
-
-
-
     old "Defeat 3 Landsharks in the Farmland"
     new "在骄阳农场击败3只陆鲨"
-
-
-
 
     old "Defense: [pc.defense]"
     new "防御：[pc.defense]"
@@ -1090,13 +813,8 @@ translate schinese_rewrite strings:
     old "Deliver the following goods from {client} to {recipient}.\n{items}"
     new "将以下货物从{client}送往{recipient}。\n{items}"
 
-
-
-
     old "Devil's Snare"
     new "魔鬼网"
-
-
 
     old "Discovered Trinkets:"
     new "已发现的饰品："
@@ -1110,24 +828,17 @@ translate schinese_rewrite strings:
     old "Do not let him kick Lothar"
     new "不要让他踢洛萨尔"
 
-
-
-
     old "Do you open the chest?"
     new "你要打开箱子吗？"
 
     old "Do you sniff Wuldon's loincloth?"
     new "你要闻伍尔顿的兜裆布吗？"
 
-
-
-
     old "Do you want to fight the stone ward?"
     new "你想和石魔像战斗吗？"
 
     old "Do you want to fight with the minotaur?"
     new "你想和弥诺陶洛斯战斗吗？"
-
 
     old "Do you want to have fun with the bear guard?"
     new "你想和熊护卫玩玩吗？"
@@ -1138,43 +849,14 @@ translate schinese_rewrite strings:
     old "Do you want to help Vurro?"
     new "您想要帮助 伏罗吗？"
 
-
     old "Do you want to leave the dungeon? Progress will be reset when you return."
     new "你要离开地牢吗？返回时进度会重置。"
-
 
     old "Do you want to play the lose scene?"
     new "你要播放失败场景吗？"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Drink beer with Jog, Lothar and Cane"
     new "和乔格,洛萨尔和凯恩一起喝啤酒"
-
-
-
 
     old "Drunkard"
     new "酒鬼"
@@ -1190,15 +872,19 @@ translate schinese_rewrite strings:
 
     old "Elderwood"
     new "古木"
+
     old "Empathise with the patron"
     new "体谅这位客人"
+
     old "Empowered"
     new "强化"
+
     old "Empowered: {p} Target's damage is boosted by some amount."
     new "强化：{p}目标造成的伤害提高。"
 
     old "Enchanted Chaperon"
     new "附魔风帽"
+
     old "Enchanted Kirtle"
     new "附魔外衣"
 
@@ -1220,22 +906,17 @@ translate schinese_rewrite strings:
     old "Enter the door"
     new "进入门内"
 
-
     old "Equipped Skills:"
     new "已装备技能："
 
     old "Escape with Agility"
     new "以敏捷逃脱"
 
-
     old "Eversprout"
     new "永生芽"
 
     old "Excuse yourself"
     new "告辞"
-
-
-
 
     old "FINISH"
     new "完成"
@@ -1258,23 +939,21 @@ translate schinese_rewrite strings:
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT."
     new "烈焰冲锋：{p}根据智力造成伤害，并灼烧所有敌人3回合。"
 
-
-
-
-
     old "Finish with his Strength Potion Request"
     new "完成他关于力量药剂的请求"
-
 
     old "Fix/Complete Whispering Hollow's Quest (v0.0.16 up)"
     new "修复/完成低语空洞任务（v0.0.16以上）"
 
     old "Fixing Player Stats (v0.0.16 up)"
     new "修正玩家属性（v0.0.16及以上）"
+
     old "Flagitious Ooze"
     new "邪恶黏液"
+
     old "Flat Bonnet"
     new "平顶软帽"
+
     old "Flax"
     new "亚麻"
 
@@ -1286,28 +965,24 @@ translate schinese_rewrite strings:
 
     old "Fluff and Tuff"
     new "软毛硬派"
+
     old "Fokk"
     new "福克"
+
     old "Fokk : [cdg_lc1]"
     new "福克：[cdg_lc1]"
+
     old "Follow Amble's Patrol"
     new "跟随安布的巡逻"
 
     old "Follow Rahim"
     new "跟随雷希姆"
 
-
-
-
-
-
     old "For the second meeting, Rahim invited the chief of the Goat Tribe to the mayor's longhouse."
     new "在第二次会议上,雷希姆邀请戈特部落首领到市长的长屋。"
 
-
     old "Forest Skewers\nSweet Pie\nHoney Mead"
     new "森林烤串\n甜馅饼\n蜂蜜酒"
-
 
     old "Fortify"
     new "强化"
@@ -1344,9 +1019,9 @@ translate schinese_rewrite strings:
 
     old "Found on the peak of a mountain away from the snow village, the Oolong is said to be a spawn derived from the Primordial Ookko. A skilled tea master was once said to use the tea to cleanse the drinker, increasing their purity by 10 points."
     new "乌龙生长在远离雪村的山峰之巅，据说是原初奥科的后代。一位技艺高超的茶师曾用它净化饮用者，使其纯洁提高10点。"
+
     old "Fragments of the Jotunn's skull mask, which regenerates over time, and is one of the hardest materials in the continent."
     new "霜巨人鹿首面具的碎片，会随时间再生，是这片大陆上最坚硬的材料之一。"
-
 
     old "Fri"
     new "周五"
@@ -1356,7 +1031,6 @@ translate schinese_rewrite strings:
 
     old "Frozen: {p} Each Stack adds 1 percent chance that the target is stunned each round. 30 stacks max. At max stacks, target also receives minor frostbite damage each round."
     new "冻结：{p} 每层使目标每回合陷入眩晕的概率提高1%。最多叠加30层。达到最大层数后，目标每回合还会受到少量冻伤伤害。"
-
 
     old "Furkan"
     new "弗坎"
@@ -1373,15 +1047,12 @@ translate schinese_rewrite strings:
     old "Furkan's just overly cautious"
     new "弗坎只是过于谨慎"
 
-
-
-
     old "Gather 4 Gingers"
     new "收集4块姜"
 
-
     old "Gato: [cdg_lc2]"
     new "加托：[cdg_lc2]"
+
     old "Get a Hint (Int > 5)"
     new "获取提示（智力 > 5）"
 
@@ -1391,15 +1062,14 @@ translate schinese_rewrite strings:
     old "Get another Tasting Session"
     new "再来一次品尝"
 
-
     old "Get into Rahim's House"
     new "进入雷希姆的家"
+
     old "Get on top of the watchtower"
     new "登上瞭望塔顶"
 
     old "Get on with the surprise"
     new "继续准备惊喜"
-
 
     old "Get ready with Ole"
     new "和奥利准备好"
@@ -1407,16 +1077,14 @@ translate schinese_rewrite strings:
     old "Get the monster"
     new "去消灭怪物"
 
-
     old "Ghost of the Trunk"
     new "椿木幽灵"
 
-
     old "Give Cane the Fixed Apron"
     new "把修好的围裙交给凯恩"
+
     old "Give Lothar a beer to drink"
     new "给洛萨尔喝啤酒"
-
 
     old "Give him the Letter from Rahim"
     new "把雷希姆的信给他"
@@ -1424,12 +1092,11 @@ translate schinese_rewrite strings:
     old "Give the letter to Rahim"
     new "把信件交给雷希姆"
 
-
     old "Glaive Statue"
     new "长戟石像"
+
     old "Gloomy Mountainside"
     new "阴郁山腹"
-
 
     old "Go Defeat the Flower with Lothar"
     new "与洛萨尔一起消灭花怪"
@@ -1437,18 +1104,14 @@ translate schinese_rewrite strings:
     old "Go Patrol with Amble"
     new "去与安布巡逻"
 
-
     old "Go back down to Herd"
     new "回到赫德身边"
-
 
     old "Go down into the crypt"
     new "进入地窖"
 
-
     old "Go to Tavern with Sebas and Ole tonight"
     new "今晚和塞巴斯、奥利一起去酒馆"
-
 
     old "Go to the river with Sebas and Lothar"
     new "与塞巴斯和洛萨尔一起到河边去。"
@@ -1456,18 +1119,11 @@ translate schinese_rewrite strings:
     old "Go with Lothar"
     new "和洛萨尔一起去"
 
-
     old "Goat Guard"
     new "山羊卫兵"
 
-
-
-
-
-
     old "Gold: [pc.gold]"
     new "金币：[pc.gold]"
-
 
     old "Gossip with the Guard"
     new "和卫兵闲聊"
@@ -1484,36 +1140,35 @@ translate schinese_rewrite strings:
     old "Grope Lothar like he did with Amble"
     new "像他对安布那样摸洛萨尔"
 
-
-
-
-
-
     old "Gwyddyon"
     new "格威迪恩"
+
     old "Gwyddyon wants me to collect 10 ores of his choosing, in the Chelforte Cavern."
     new "格威迪恩要我在切尔福特山洞收集10块他指定的矿石。"
+
     old "HP: [ally.hp] / [ally.max_hp]"
     new "生命：[ally.hp] / [ally.max_hp]"
+
     old "HP: [enemy.hp] / [enemy.max_hp]"
     new "生命：[enemy.hp] / [enemy.max_hp]"
+
     old "HP: [enemy2.hp] / [enemy2.max_hp]"
     new "生命：[enemy2.hp] / [enemy2.max_hp]"
+
     old "HP: [pc.hp] / [pc.max_hp]"
     new "生命：[pc.hp] / [pc.max_hp]"
+
     old "HP: [pc.hp]/[pc.max_hp]"
     new "生命：[pc.hp]/[pc.max_hp]"
+
     old "Haggler's Amulet"
     new "讨价还价者的护符"
+
     old "Haimo"
     new "海莫"
 
-
-
     old "Harp"
     new "竖琴"
-
-
 
     old "Haskell asked me to fetch some herbs for his garden, I should get 10 of those herbs and bring them to him."
     new "哈斯克尔要我为他的花园采些草药。我该收集10种带给他。"
@@ -1530,72 +1185,51 @@ translate schinese_rewrite strings:
     old "Hawthorn"
     new "山楂"
 
-
-
-
-
-
-
-
-
-
     old "Hefty Slime"
     new "巨型史莱姆"
 
     old "Help Lothar"
     new "帮助洛萨尔"
 
-
-
     old "Help Vurro"
     new "帮助 伏罗"
 
-
-
     old "Hemp"
     new "大麻"
-
-
 
     old "Herd"
     new "赫德"
 
     old "Hexroot"
     new "巫木根"
+
     old "Hezzong"
     new "赫宗"
-
 
     old "Hide under the window"
     new "躲到窗户下面"
 
-
-
-
     old "Hold on tight"
     new "抓牢"
-
 
     old "Horehound"
     new "苦薄荷"
 
-
     old "How did you meet Tevfik"
     new "你是怎么认识泰夫菲克的？"
 
-
-
-
-
     old "Hunter Hat"
     new "猎人帽"
+
     old "Hunter Trousers"
     new "猎人裤"
 
     old "Hydrangea"
     new "绣球花"
+
     old "Hyena Wrestler"
     new "鬣狗摔跤手"
+
     old "Hype"
     new "炒热度"
 
@@ -1608,27 +1242,14 @@ translate schinese_rewrite strings:
     old "I do not trust Furkan"
     new "我不相信弗坎"
 
-
-
-
     old "I enjoyed the job"
     new "我喜欢这份工作"
-
-
-
 
     old "I need to prepare"
     new "我需要准备一下"
 
-
-
-
-
-
     old "I was forced to do it"
     new "我是被迫这么做的"
-
-
 
     old "I'll get into it"
     new "我来办这件事"
@@ -1639,62 +1260,30 @@ translate schinese_rewrite strings:
     old "I'll make the potion for Ole"
     new "我给奥利做药水"
 
-
-
-
-
-
     old "I'm here for Cane"
     new "我是来找凯恩的"
-
-
-
-
 
     old "INT: [pc.itg]"
     new "智力：[pc.itg]"
 
-
     old "Immolation"
     new "焚灭"
+
     old "Immolation: {p} Deal explosive damage to all enemies. Deal extra damage to Scorched enemies and enhance their scorch effect."
     new "焚灭：{p} 对所有敌人造成爆炸伤害。对处于灼伤状态的敌人造成额外伤害，并强化其灼伤效果。"
 
     old "In order to train with Lothar, I need to fight against the strong dummy."
     new "为了训练洛萨尔 我需要对抗强健的假人。"
 
-
-
-
-
-
-
-
-
-
-
-
-
     old "Iron Ingot"
     new "铁锭"
-
-
-
-
-
-
-
-
-
-
 
     old "Jog and Amble"
     new "乔格和安布"
 
-
-
     old "Jotunn"
     new "约顿"
+
     old "Jotunn Bones"
     new "约顿骨"
 
@@ -1704,89 +1293,56 @@ translate schinese_rewrite strings:
     old "Kari asked me to help save Furkan. He told me the chief went to the Damp Cave for the lost guardian."
     new "卡里请我帮忙救出弗坎。他说酋长去了潮湿山洞，寻找失踪的守护者。"
 
-
     old "Kaurhu"
     new "卡乌胡"
+
     old "Keen for building, he meets a logger bear, {p}an endeavor to mend the tie of two factions."
     new "他热衷于建造，遇上了一头伐木熊。{p}这是一场修复两个阵营关系的努力。"
-
-
-
-
-
 
     old "Kindler: Burn the entire pile"
     new "点火者：烧掉整堆"
 
     old "Knight Breastplate"
     new "骑士胸甲"
+
     old "Knight Cuisses"
     new "骑士腿甲"
+
     old "Knight Helmet"
     new "骑士头盔"
+
     old "Knight Longsword"
     new "骑士长剑"
 
     old "Known colloquially as mortar, the substance used in most buildings in Mokken, is a blend of natural elements and delicate magical properties that ensures structural integrity."
     new "俗称砂浆，是莫肯大多数建筑所用的材料，由天然元素与精妙的魔法性质混合而成，能够确保结构稳固。"
 
-
-
-
     old "LUST: [pc.lust] / [pc.max_lust]"
     new "欲望：[pc.lust] / [pc.max_lust]"
-
-
-
-
-
-
-
-
-
-
-
 
     old "Leave it for now"
     new "暂且搁置"
 
-
-
-
-
-
-
     old "Left Trigger\nLeft Shoulder"
     new "左扳机\n左肩键"
+
     old "Let Amble continue himself"
     new "让安布继续"
 
     old "Let Amble start working by himself"
     new "让安布自己开始工作吧"
 
-
     old "Let Sebas kick Lothar in the balls"
     new "让塞巴斯踢洛萨尔的蛋"
-
-
-
-
 
     old "Let's begin the preparation"
     new "开始准备吧"
 
-
-
-
-
-
-
-
     old "Level [pc.level] (Max)"
     new "等级[pc.level]（最高）"
+
     old "Lie about a Truce between Lusterfield and the Goats"
     new "关于乐斯民菲尔德和山羊之间休战的谎言"
-
 
     old "Lie to Furkan"
     new "对 弗坎 撒谎"
@@ -1796,10 +1352,13 @@ translate schinese_rewrite strings:
 
     old "Limestone"
     new "石灰岩"
+
     old "Lindbloom"
     new "椴花"
+
     old "Linen"
     new "亚麻布"
+
     old "Linen Braies"
     new "亚麻短裤"
 
@@ -1809,19 +1368,11 @@ translate schinese_rewrite strings:
     old "Listen to Ole and Jog at the corner"
     new "听奥利和乔格在角落"
 
-
-
-
     old "Lodestone"
     new "磁石"
+
     old "Logger and Scout"
     new "伐木工与斥候"
-
-
-
-
-
-
 
     old "Lothar"
     new "洛萨尔"
@@ -1853,11 +1404,8 @@ translate schinese_rewrite strings:
     old "Lothar's Battle Basics"
     new "洛萨尔的战斗基础"
 
-
     old "Lust"
     new "欲望"
-
-
 
     old "Lusterfield"
     new "乐斯民菲尔德"
@@ -1870,48 +1418,43 @@ translate schinese_rewrite strings:
 
     old "MP: [ally.mp] / [ally.max_mp]"
     new "魔力：[ally.mp] / [ally.max_mp]"
+
     old "MP: [pc.mp] / [pc.max_mp]"
     new "魔力：[pc.mp] / [pc.max_mp]"
+
     old "MP: [pc.mp]/[pc.max_mp]"
     new "魔力：[pc.mp]/[pc.max_mp]"
+
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
     new "使用{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n[renpy.license!t]"
+
     old "Mage"
     new "法师"
+
     old "Magic Show Pamphlet"
     new "魔术表演传单"
 
-
-
-
     old "Malignant Slime"
     new "恶性史莱姆"
+
     old "Masonry Mix"
     new "砌筑砂浆"
-
-
 
     old "Maybe Later"
     new "改天再说"
 
-
-
-
     old "Maybe later"
     new "也许再等等"
 
-
-
-
-
     old "Mayor Stadfel's Journal"
     new "市长斯塔德费尔的日记"
+
     old "Mayor of Lusterfield"
     new "乐斯民菲尔德市长"
 
-
     old "Medicinal Botany, by ???"
     new "《药用植物学》，作者：？？？"
+
     old "Meet Furkan and Rahim again at Lusterfield's longhouse."
     new "在乐斯民菲尔德的长屋 再次见到弗坎和雷希姆。"
 
@@ -1921,20 +1464,17 @@ translate schinese_rewrite strings:
     old "Meet Sebas and Rahim again at Lusterfield's longhouse."
     new "在乐斯民菲尔德的长屋 再次见到塞巴斯和雷希姆。"
 
-
     old "Mended"
     new "已修复"
+
     old "Mended: {p} Target is healed for each round."
     new "治愈：{p} 目标每回合都会恢复生命值。"
-
 
     old "Merchant"
     new "商人"
 
     old "Methis"
     new "梅西斯"
-
-
 
     old "Mimic"
     new "宝箱怪"
@@ -1945,24 +1485,20 @@ translate schinese_rewrite strings:
     old "Minotaur Essence"
     new "弥诺陶洛斯精华"
 
-
     old "Moine"
     new "莫因"
+
     old "Mon"
     new "周一"
 
-
-
-
-
     old "Moss Golem"
     new "苔藓石魔像"
+
     old "Mossy Artifact"
     new "苔藓遗物"
 
     old "Mothman"
     new "飞蛾人"
-
 
     old "Mouse Wheel Up\nClick Rollback Side"
     new "鼠标滚轮向上\n点击回滚侧"
@@ -1970,117 +1506,32 @@ translate schinese_rewrite strings:
     old "Mugwort"
     new "艾草"
 
-
-
-
-
     old "New Outfit"
     new "新服装"
 
-
-
-
-
-
-
-
     old "Nosferat"
     new "诺斯费拉特"
+
     old "Not to be confused with another liquid, it is a powerful substance enchanted with arcane magic that is capable of binding together even the most repelling materials, when used in construction, cement bestows architectural structure with extraordinary stability and its ability to rsist the ravages of time."
     new "别把它和另一种液体混为一谈。这是一种受奥术魔法加持的强力物质，能把哪怕最难结合的材料粘在一起。用于建筑时，水泥能赋予建筑结构非凡的稳定性，使其抵御岁月的侵蚀。"
-
-
 
     old "Now, the crux of the matter: I gleaned from the scholars that they were in pursuit of him, motive is still unknown, unless we fall back on their own curiosity. While they proved to be nothing but a chore, they are not my primary concern. What troubles me is that the passage towards our tribe may have been known from outside. I fear that the next time someone traverses that passage, I might not have caught them in time.\n\nRegardless, those on the other side should make a better effort to ensure that does not happen again, I should not have been the only one taking care of the mess. The potential consequences could be catastrophic to them if a malicious outsider somehow made contact"
     new "现在,问题的关键在于:我从学者们那里了解到,他们正在追逐他,动机仍然不明,除非我们回到他们自己的好奇心。虽然他们证明只是杂事,但他们不是我的首要关切。我最担心的是,通往我们部落的通道可能从外部得知。我担心下次有人穿过我们的部落,我可能不会及时抓住他们。\n\n尽管是另一边的人应该作出更好的努力,确保不再发生这种情况,但不应该只有我一个人来照顾混乱。如果一个恶意的外来者以某种方式接触,其潜在后果可能是灾难性的。"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "No{#lotharhavebadge}"
     new "没有{#lotharhavebadge}"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Nylon"
     new "尼龙"
 
-
-
-
-
-
     old "Okay"
     new "好"
-
 
     old "Ole and Sebas asked me to... pick up some stone? I should return once I get enough of them. Whatever the number is..."
     new "奥利和塞巴斯要我..."
 
     old "Ole has gotten sick, I need to ask Haskell and gather some materials to tend to his illness..."
     new "奥利病了 我得去问哈斯凯尔 收集一些治疗他疾病的材料。"
-
 
     old "Ole told me to train with Amble and Jog, I might need to ask Lothar first about this..."
     new "奥利叫我和安布和约格一起训练 我可能得先问洛萨尔。"
@@ -2097,12 +1548,9 @@ translate schinese_rewrite strings:
     old "Ole wants me to take up the potion order and get some potions from Haskell."
     new "奥利要我接受药剂订单 从哈斯凯尔那里拿些药剂。"
 
-
-
-
-
     old "One of the ore most common in caves around Kesi Alps. It is used in most appliances and tools. Sometimes appears in the miners around the forgotten quarry"
     new "凯西阿尔卑斯山附近山洞中最常见的矿石之一。它用于大多数器具和工具，有时也能在被遗忘采石场附近的矿工手中发现。"
+
     old "One of the outfit from Rahim, a collection of straps designed for those who frequent adventures."
     new "其中一件来自雷希姆的服装 一套带子 是为那些经常冒险的人设计的。"
 
@@ -2115,17 +1563,15 @@ translate schinese_rewrite strings:
     old "One of the outfit from Rahim...? A piece of Cloth, for cleaning purposes in the Tavern."
     new "雷希姆的一件衣服..."
 
-
     old "Oolong Leaves"
     new "乌龙茶叶"
-
-
 
     old "Oppose the accord"
     new "反对协定"
 
     old "Optional: Clear all moss"
     new "可选：清除所有苔藓"
+
     old "Optional: Deal with the whispers in the Chilly Ice Cave"
     new "可选：调查奇利冰洞中的低语"
 
@@ -2134,36 +1580,27 @@ translate schinese_rewrite strings:
 
     old "Orbs"
     new "光球"
+
     old "Order something"
     new "点些东西"
+
     old "Otsovaara"
     new "奥察瓦拉"
 
     old "PUR: [pc.cor]"
     new "纯洁：[pc.cor]"
 
-
-
     old "Patch"
     new "修补"
+
     old "Patron"
     new "客人"
-
-
-
-
 
     old "Pelt"
     new "兽皮"
 
-
     old "Pick around the leaves"
     new "在叶间翻找"
-
-
-
-
-
 
     old "Piercing Blow"
     new "穿刺打击"
@@ -2171,17 +1608,14 @@ translate schinese_rewrite strings:
     old "Piercing Blow: {p} At next round, you are guaranteed to hit, and critically hit your enemy with normal attack, critical damage increased based on your AGI."
     new "穿刺打击：{p} 下一回合，普通攻击必定命中并造成暴击；暴击伤害随敏捷提高。"
 
-
-
     old "Plain Tunic"
     new "朴素长袍"
+
     old "Plates by plates, he delivered, {p}patron's favourites are he and his practice."
     new "他一盘接一盘地端上来。{p}客人最喜欢的，正是他和他这套手艺。"
 
-
     old "Pleasure yourself"
     new "自慰"
-
 
     old "Pocket Bell"
     new "袖珍铃铛"
@@ -2192,42 +1626,23 @@ translate schinese_rewrite strings:
     old "Prattlefell Meadow"
     new "碎语草甸"
 
-
     old "Prepare 20 Wooden logs for Amble"
     new "为安布准备20根原木"
 
     old "Prepare 3 Masonry Mix for Amble"
     new "为安布准备3份砌筑砂浆"
 
-
     old "Pretend to Faint"
     new "假装昏倒"
+
     old "Pretend to be Ookko"
     new "假装成奥科"
-
 
     old "Prose and Cons"
     new "诗文与利弊"
 
-
-
-
     old "Purity (PUR) determines [e]'s sexual innocence, and interaction with characters."
     new "纯洁决定[e]的性纯真程度，以及与角色互动的方式。"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Rahim"
     new "雷希姆"
@@ -2252,38 +1667,27 @@ translate schinese_rewrite strings:
 
     old "Rahim's House"
     new "雷希姆的家"
+
     old "Rahim's house"
     new "雷希姆家"
-
-
 
     old "Rat Patron"
     new "老鼠客人"
 
     old "Rebalancing Elixir"
     new "平衡药剂"
+
     old "Rebuild the bridge with Amble"
     new "重建安布的桥梁"
-
-
-
-
-
 
     old "Recoup"
     new "恢复"
 
-
-
     old "Reed"
     new "芦苇"
 
-
     old "Reject Vurro"
     new "拒绝 伏罗"
-
-
-
 
     old "Remind me, the spritebinder, or refer it as the collective consciousness of eight spectral entities. These individuals, a rather inquisitive bunch, seemed to be quite the genius scholars, or whatever such pursuits are called on the other side, who somehow brought themselves to this land.\n\nThe incident is unlikely to repeat itself. As far as the land is concerned, no one aside from Chime has laid eyes on them. I suspect he followed me into the heart of the forest, where I first encountered these peculiar intruders. However, the actual event transpired within the crypt, and I made sure that no one could access there."
     new "提醒我,这个发光者,或者说它就是八个光谱实体的集体意识。这些人,一个相当好奇的团体,似乎是相当天才的学者,或者说,不管这种追求是什么,他们不知何故来到了这片土地。\n\n 事件不大可能重演。就土地而言,除了齐门之外,没有人看到他们。我猜想他跟踪我到森林的心脏,我第一次见到了这些奇怪的入侵者。然而,在密室里发生的实际事件,我保证没有人能进入那里。"
@@ -2291,29 +1695,14 @@ translate schinese_rewrite strings:
     old "Remove some rocks with Amble"
     new "删除一些有安布的岩石"
 
-
-
     old "Report about Amble and Jog's Training"
     new "关于安布和乔格训练的报告"
 
     old "Report about Gwyddyon's secret with the supplier"
     new "报告格威迪恩与供应商之间的秘密"
 
-
-
     old "Report about the Oolong Leaves"
     new "报告乌龙茶叶的情况"
-
-
-
-
-
-
-
-
-
-
-
 
     old "Report back to Daggi"
     new "向达吉报告"
@@ -2321,20 +1710,14 @@ translate schinese_rewrite strings:
     old "Report for Amble and Jog's Training"
     new "汇报安布和乔格的训练情况"
 
-
-
-
     old "Report that you have drunk Topu's Beer"
     new "报告你喝过托普的啤酒"
-
 
     old "Report to Furkan"
     new "向弗坎报告"
 
-
     old "Report to Lothar"
     new "向洛萨尔汇报"
-
 
     old "Report to Rahim about the clothing"
     new "向雷希姆报告衣着情况"
@@ -2345,101 +1728,71 @@ translate schinese_rewrite strings:
     old "Report to Rahim{#OutfitReport}"
     new "向雷希姆{#OutfitReport}报告"
 
-
-
     old "Report to Wuldon and Cure Vurro"
     new "向伍尔顿报告，并治疗伏罗"
-
-
 
     old "Resolution"
     new "决意"
 
     old "Resolution: {p} Reduce your Lust based on your INT."
     new "决意：{p}根据智力降低你的欲望。"
+
     old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
     new "决意：{p}根据智力降低你的欲望。消耗25点魔力。"
+
     old "Resonator Gem"
     new "共鸣宝石"
-
-
-
-
-
-
-
 
     old "Return to Cane with the new information"
     new "带新信息返回凯恩"
 
-
-
-
-
-
-
-
-
     old "Right Trigger\nA/Bottom Button"
     new "右扳机\nA/底部按钮"
 
-
-
-
-
-
-
-
     old "Rune Guardian"
     new "符文守卫"
+
     old "Ruttish Flute"
     new "淫乐笛"
+
     old "STR: [pc.stg]"
     new "力量：[pc.stg]"
+
     old "Sage"
     new "鼠尾草"
+
     old "Saliva sample collected from the buggbear's mouth cavity. It stinks with extremely pungent breath that can be made to camouflage one's smell."
     new "从熊地精口腔采集的唾液样本。气味极其刺鼻，可以用来掩盖自身气味。"
 
     old "Sat"
     new "周六"
 
-
-
-
     old "Scorched"
     new "灼伤"
+
     old "Scorched: {p} Target's Health decreased by the same amount for each round. Additional application extends the effect duration instead."
     new "灼伤：{p} 目标每回合持续损失相同数值的生命值。再次施加时只会延长效果持续时间。"
 
-
     old "Scroll of Bruiser's Bite"
     new "《重击者之咬》卷轴"
+
     old "Scroll of Eversprout"
     new "《永生芽》卷轴"
+
     old "Scroll of Shivering Shard"
     new "《寒颤碎片》卷轴"
+
     old "Scroll of Spirespike"
     new "《尖塔刺》卷轴"
+
     old "Search around"
     new "四处搜寻"
-
-
-
 
     old "Search the crypt for Herd's missing astrolabe"
     new "在地下墓室中寻找赫德遗失的星盘"
 
-
-
-
-
     old "Sebas invited me to have dinner in the tavern with Ole today, I should meet them there at night."
     new "塞巴斯邀请我今天和奥利在酒馆共进晚餐 我晚上应该在那里见他们。"
-
-
-
-
 
     old "Self Heal: {p} You can heal back a portion of your health scaling with your INT."
     new "自我治愈：{p}根据智力恢复部分生命。"
@@ -2450,12 +1803,8 @@ translate schinese_rewrite strings:
     old "Send the Guards to Lusterfield"
     new "向乐斯民菲尔德派出警卫"
 
-
-
-
     old "Shivering Shard"
     new "寒颤碎片"
-
 
     old "Should Lusterfield form an alliance with Goat Tribe?"
     new "乐斯民菲尔德应该和山羊部落结盟吗?"
@@ -2463,143 +1812,104 @@ translate schinese_rewrite strings:
     old "Should you attack the Stone Ward?"
     new "你该攻击石魔像吗？"
 
-
-
     old "Should you go in, or continue to eavasdrop from outside?"
     new "你要进去，还是继续在屋外偷听？"
 
     old "Should you let Amble check on you?"
     new "你该让安布检查一下吗?"
 
-
-
-
-
     old "Should you... take off your apron for the enthusiatic patrons?"
     new "你要为这些热情的客人脱下围裙吗？"
 
-
     old "Show Charisma"
     new "展示魅力"
+
     old "Show him the Golem Hand"
     new "给他看魔像之手"
-
-
-
-
-
 
     old "Sit with Amble, Rahim, Sebas and Ole"
     new "安布、雷希姆、塞巴斯和奥利,坐在那里,"
 
-
-
-
     old "Skip Lose Scene"
     new "跳过失败场景"
 
-
-
     old "Skullstrewn Pass"
     new "骸骨遍野的山口"
+
     old "Slate Rock"
     new "板岩"
-
-
-
 
     old "Slime Ball"
     new "史莱姆球"
 
     old "Slime Crystal"
     new "史莱姆水晶"
+
     old "Slime Grancrystal"
     new "史莱姆大水晶"
+
     old "Slime Necklace"
     new "史莱姆项链"
+
     old "Slimy Bone"
     new "黏液骨"
+
     old "Slip Away!"
     new "溜走！"
-
-
 
     old "Slushy"
     new "泥泞"
 
-
-
     old "Small HP Potion"
     new "小型生命药水"
+
     old "Small MP Potion"
     new "小型魔力药水"
-
-
 
     old "Sneaky Patron"
     new "鬼祟的客人"
 
-
-
-
     old "Soft Fur"
     new "柔软毛皮"
 
-
-
-
-
-
-
-
-
-
-
-
     old "Spar with Kari's warriors"
     new "与卡里的勇士们切磋"
+
     old "Spar with Lothar"
     new "与洛萨尔切磋"
+
     old "Spar with Vurro"
     new "与伏罗切磋"
+
     old "Sparkling Lagoon"
     new "苍耀湖"
-
-
 
     old "Spearmint"
     new "留兰香"
 
     old "Spectral Orb"
     new "幽灵光球"
+
     old "Spectral Orb: {p} Each cast increases the power of the orb by 5, then deals damage to all enemies. The next attack consumes all charges to heal you based on your INT."
     new "幽灵光球：{p}每次施放都会让光球威力提高5点，然后对所有敌人造成伤害。下一次攻击会消耗全部充能，并根据智力为你治疗。"
+
     old "Spectral Orbs: {p} Target's next attack will heal based on the number of orbs."
     new "幽灵光球：{p} 目标的下一次攻击会根据光球数量恢复生命值。"
 
-
     old "Spirespike"
     new "尖塔刺"
+
     old "Split Trails"
     new "岔路口"
+
     old "Spritebinder"
     new "八臂鬼"
+
     old "Spriteling"
     new "幽魂"
+
     old "Stained Scroll"
     new "污渍卷轴"
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Stay put"
     new "待在原地"
@@ -2607,35 +1917,39 @@ translate schinese_rewrite strings:
     old "Stay with Lothar"
     new "和洛萨尔待在一起"
 
-
     old "Still Whispers"
     new "静谧低语"
+
     old "Stirring Roots"
     new "搅动的根须"
+
     old "Stone"
     new "石块"
+
     old "Stone Ward"
     new "石魔像"
+
     old "Stop Daggi"
     new "阻止达吉"
-
 
     old "Strap"
     new "皮带"
 
     old "Strength (STR) determines [e]'s physical power, including Attack Damage, and small amount of HP and Defense."
     new "力量决定[e]的身体强度，包括攻击伤害，以及少量生命和防御。"
+
     old "Strength Potion"
     new "力量药水"
 
-
-
     old "Struggle away"
     new "挣扎脱身"
+
     old "Stuffed"
     new "填充"
+
     old "Stunned"
     new "眩晕"
+
     old "Stunned: {p} Target cannot perform anything while stunned"
     new "眩晕：{p} 目标处于眩晕状态时无法行动。"
 
@@ -2645,21 +1959,20 @@ translate schinese_rewrite strings:
     old "Submit silently"
     new "默默屈服"
 
-
-
     old "Sundering Surge"
     new "碎裂冲击"
+
     old "Sundering Surge: {p} Deal STR damage to targetted enemy while inflicting wounded damage and decreasing enemy's heal amount based on your INT."
     new "碎裂冲击：{p}对目标敌人造成力量伤害，使其受伤，并根据智力降低其治疗量。"
+
     old "Sundersilk Cascades"
     new "剪绸瀑布"
+
     old "Support Furkan's Decision"
     new "支持 弗坎 的决定"
 
     old "Support the accord"
     new "支持协定"
-
-
 
     old "Sweater"
     new "毛衣"
@@ -2670,21 +1983,11 @@ translate schinese_rewrite strings:
     old "Take Rahim's Commission"
     new "拿雷希姆的委员会"
 
-
-
-
     old "Take off your Apron"
     new "脱下围裙"
 
-
-
-
-
     old "Take the letter to Furkan"
     new "将信件带给 弗坎"
-
-
-
 
     old "Talk about Furkan and Kari from the Goat Tribe"
     new "说到山羊部落的弗坎和卡里"
@@ -2698,48 +2001,44 @@ translate schinese_rewrite strings:
     old "Talk about learning from Lothar"
     new "谈谈向洛萨尔学习的事"
 
-
     old "Talk to Lothar"
     new "和洛萨尔交谈"
+
     old "Talk to Lothar after... the incident"
     new "事件结束后与洛萨尔交谈"
 
     old "Talk with Lothar"
     new "与洛萨尔交谈"
 
-
-
-
     old "Tart"
     new "塔特"
-
-
 
     old "Tavern Apron"
     new "酒馆围裙"
 
     old "Tavern Cloth"
     new "酒馆布料"
+
     old "Tavern Outfit"
     new "酒馆服装"
 
     old "Tease him a little"
     new "逗他一下"
+
     old "Tell Chime about the other world"
     new "告诉齐门另一个世界"
 
     old "Tell Furkan about Rahim's flower"
     new "告诉弗坎雷希姆花朵的事"
+
     old "Tell Furkan to Listen to Kari"
     new "让弗坎听卡里的游戏"
 
-
-
     old "Tell Ole about Gwyd's secret"
     new "告诉奥利格威的秘密"
+
     old "Tell Ole about Lothar's plan"
     new "告诉奥利洛萨尔的计划"
-
 
     old "Tell Rahim you are ready for the vote"
     new "告诉雷希姆你准备好投票了"
@@ -2750,53 +2049,38 @@ translate schinese_rewrite strings:
     old "Tell him to go to Rahim's House"
     new "告诉他去雷希姆之家"
 
-
-
-
     old "Tenacity Potion"
     new "坚韧药水"
 
     old "Tenki"
     new "坦奇"
+
     old "Teratoid Mucus"
     new "瘤状黏液"
 
     old "Tetto"
     new "泰托"
+
     old "Tevfik"
     new "泰夫菲克"
 
     old "Thank you...?"
     new "谢谢……？"
 
-
-
-
-
-
-
-
-
     old "The Apron that Cane gifts his first server. It has been patched up. I should put it on whenever I work in the Tavern."
     new "凯恩送给第一位侍者的围裙，已经修补好了。我在酒馆工作时应该穿上它。"
+
     old "The Apron that Cane gifts his first server. It's torn currently. I should put it on whenever I work in the Tavern."
     new "凯恩送给第一位侍者的围裙，现在已经撕破了。我在酒馆工作时应该穿上它。"
+
     old "The Ardent Cauldron"
     new "烈焰坩埚"
-
-
 
     old "The Book grants you a spell that deals explosive damage to burned enemies."
     new "这本书赋予你一种能对灼伤敌人造成爆炸伤害的法术。"
 
-
-
-
     old "The Buried Shimmer"
     new "埋藏的微光"
-
-
-
 
     old "The Famous Beer from Nocturnal Trunk, it recovers 15 HP, but increases Lust by 20 as well."
     new "夜夜椿的著名啤酒，恢复15点生命，但也会使欲望提高20点。"
@@ -2804,86 +2088,38 @@ translate schinese_rewrite strings:
     old "The Farm area on the north side of Lusterfield, it is currently guarded by a mysterious figure..."
     new "乐斯民菲尔德北面的农场地区 目前由神秘人物守卫。"
 
-
-
-
     old "The Minotaur Riddle"
     new "弥诺陶洛斯之谜"
-
 
     old "The Prop Prepper"
     new "道具筹备者"
 
-
-
-
-
-
-
-
-
-
-
     old "The area connected to the Viscid Stream, it is filled with different kinds of Slime and Herbs suitable for research."
     new "与黏皮溪相连的区域，遍布适合研究的各种史莱姆和草药。"
-
-
-
 
     old "The book describes the events transpired during the goat tribe's attack on Lusterfield, the village, as recorded by stories and legends told by the locals."
     new "该书描述了山羊部落袭击村庄乐斯民菲尔德期间发生的事件,当地人讲述的故事和传说记录了这些事件。"
 
-
-
     old "The bustling carnival that sets up camp around the plains from time to time, at the centerstage stands a great magic show that attracts many visitors, even those from the city."
     new "一支不时在平原周围扎营的热闹马戏团。中央舞台上有精彩的魔术表演，吸引着许多访客，甚至包括来自城市的人。"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "The largest tribe in Mokken located on the Kesi Alps, the residents calls the place Kechioeren. {p} The tribe is famous for its fascination of spellcraft and magic reserves located on top of the mountain."
     new "莫肯最大的部落坐落在凯西阿尔卑斯山，居民称其为凯奇奥伦。{p}这个部落以精通法术，以及山顶储藏的魔力而闻名。"
 
-
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
     new "夜夜椿新推出的啤酒，恢复40点生命和40点魔力，但也会使欲望提高20点。"
-
 
     old "The oldest surviving tree in Mokken. {p} The mysterious secret trapped within the tree is a part of the goat tribe mythology, where most of their festivals take place."
     new "莫肯最古老的存活树。{p} 树中神秘的秘密是山羊部落神话的一部分, 大部分的节日都在那里举行。"
 
-
-
-
-
-
-
-
     old "The village of the bears, who refers the place as {i}Otsovaara{/i}. It is abundant of many natural resources, and often utilizes structures to extract and survive through the eternal winter. The bears are known to be secluded from the south, and rarely accepts visitors."
     new "熊族的村庄，他们称这里为{i}奥察瓦拉{/i}。这里自然资源丰富，居民常利用各种设施采集资源，在永冬中求生。熊族与南方隔绝，很少接待访客。"
-
 
     old "There's a small spot right under the window, if you have enough agility, maybe you can hide undetected."
     new "窗户下方有个小地方；如果你的敏捷够高，也许能躲在那里不被发现。"
 
-
     old "Think about the golem"
     new "想想魔像"
-
-
-
 
     old "Thorned"
     new "带刺"
@@ -2897,81 +2133,75 @@ translate schinese_rewrite strings:
     old "To help Cane make his decision to vote, he suggested that we should chase down a mysterious ghost that's been haunting the tavern."
     new "为了帮助凯恩做出投票决定 他建议我们应该追捕一个神秘的鬼魂 一直缠绕着酒馆。"
 
-
     old "To help Ole make his decision to vote, he suggested that we should strike a better trade deal with Gwyddyon through getting to know a secret supplier."
     new "为了帮助奥利决定如何投票，他建议我们先认识一位秘密供应商，以便与格威迪恩达成更好的贸易协议。"
+
     old "To know more about his routine patrol. Amble leads me for a walk around the farm..."
     new "来了解他例行巡逻的更多情况 安布带我去农场散步..."
 
-
-
-
     old "Topu's Beer"
     new "托普的啤酒"
+
     old "Topu's Gruit"
     new "托普的格鲁特酒"
+
     old "Torn Tavern Apron"
     new "撕破的酒馆围裙"
-
-
-
 
     old "Train with Amble and Jog"
     new "与安布和乔格分别训练"
 
     old "Tranquil Mend"
     new "宁静疗愈"
+
     old "Tranquil Mend: {p} For the next 3 rounds, all allies are healed for an increased amount based on your TEN and INT."
     new "宁静疗愈：{p}接下来3回合内，所有盟友都会根据你的坚韧和智力获得额外治疗。"
+
     old "Transitions"
     new "转场"
+
     old "Trapped"
     new "受困"
 
     old "Travelling Carousal"
     new "巡回旋转木马"
+
     old "Travelling citizens, attacked by a flowerless plant, {p}He followed Lothar, a challenge to the nature's wrath."
     new "旅行者遭到无花植物袭击。{p}他跟随洛萨尔，向大自然的怒火发起挑战。"
+
     old "Tribal Spear"
     new "部落长矛"
+
     old "Tribe Loincloth"
     new "部落遮裆布"
+
     old "Tribe Necklace"
     new "部落项链"
+
     old "Trinket"
     new "饰品"
+
     old "Trinkets"
     new "饰品"
-
-
 
     old "Try to harvest the Oolong"
     new "尝试采集乌龙茶叶"
 
-
-
     old "Tue"
     new "周二"
-
-
-
-
-
-
-
-
 
     old "Unseen Text"
     new "隐藏文字"
 
     old "Ursinia Glade"
     new "乌尔西妮娅林地"
+
     old "Value: [item.value] Gold"
     new "价值：[item.value]金币"
 
-
     old "Vine"
     new "藤蔓"
+
     old "Viscid Stream"
     new "黏皮溪"
 
@@ -2984,17 +2214,12 @@ translate schinese_rewrite strings:
     old "Visit the Goat Tribe"
     new "前往山羊部落"
 
-
-
-
-
-
-
     old "Visit werewolves in the Dark Forest. (WIP: This Quest will be finished by finishing the werewolf quests)"
     new "拜访幽暗森林中的狼人。（进行中：完成狼人任务后本任务才会结束）"
 
     old "Volunteered to his Essence Extraction"
     new "自愿接受他的精华提取"
+
     old "Vote for the future of Lusterfield on next "
     new "下一张投下乐斯民菲尔德未来的选票"
 
@@ -3004,30 +2229,17 @@ translate schinese_rewrite strings:
     old "Vurro and Wuldon are preparing a plan to take revenge on the werewolf alpha, and restore peace in the Dark Forest."
     new "伏罗和伍尔顿正在准备一个计划 对狼人阿尔法复仇 恢复黑暗森林的和平。"
 
-
-
     old "Wait a day and report to Jog and Amble"
     new "等待一天,向乔格和安布报告"
-
 
     old "Wait for Ole to finish his research"
     new "等待奥利完成研究"
 
-
     old "Wait for a day and Report to Lothar"
     new "等待一天,向洛萨尔报到"
 
-
-
-
-
     old "Warn of Lothar's Hunt"
     new "警告洛萨尔的猎杀"
-
-
-
-
-
 
     old "Wed"
     new "周三"
@@ -3035,51 +2247,14 @@ translate schinese_rewrite strings:
     old "Weeping Willow"
     new "垂柳"
 
-
-
-
-
-
     old "What do you ask Daggi?"
     new "你要问达吉什么？"
-
-
-
-
-
-
-
-
 
     old "What is the relationship between him and Furkan"
     new "他和弗坎之间有什么关系?"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Who are you?"
     new "你是谁？"
-
-
-
 
     old "Wild Buggbear"
     new "野生熊地精"
@@ -3087,24 +2262,20 @@ translate schinese_rewrite strings:
     old "Willpower"
     new "意志"
 
-
-
-
-
-
     old "Wolf Patron"
     new "狼族客人"
+
     old "Wooden Bow"
     new "木弓"
+
     old "Wooden Bucket"
     new "木桶"
+
     old "Wooden Log"
     new "原木"
+
     old "Woodland Outpost"
     new "林地前哨站"
-
-
-
 
     old "Wounded: {p} Target's health is additionally decreased for each round, effect decreases until it runs out. Stackable."
     new "受伤：{p} 目标每回合额外损失生命值；效果会逐渐减弱，直至耗尽。可叠加。"
@@ -3112,125 +2283,20 @@ translate schinese_rewrite strings:
     old "Woven Tunic"
     new "编织长袍"
 
-
-
-
     old "Y/Top Button"
     new "Y/顶部按钮"
+
     old "Yarn"
     new "毛线"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     old "Yes{#lotharhavebadge}"
     new "有{#lotharhavebadge}"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "You feel like you need to say something..."
     new "你觉得自己应该先开口……"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     old "Your body is freezing from the coldness of the snow region, dealing 10 HP damage every hour you spent here."
     new "你的身体正被雪地区域的严寒冻僵，在这里每待一小时就会受到10点生命伤害。"
-
-
-
-
-
 
     old "[item_num] x Accuracy Potion"
     new "[item_num]×精准药水"
@@ -3243,14 +2309,15 @@ translate schinese_rewrite strings:
 
     old "[item_num] x Small HP Potion"
     new "[item_num]×小型生命药水"
+
     old "[item_num] x Small MP Potion"
     new "[item_num]×小型魔力药水"
+
     old "[item_num] x Strength Potion"
     new "[item_num]×力量药水"
 
     old "[item_num] x Tenacity Potion"
     new "[item_num]×坚韧药水"
-
 
     old "[ribba_dialogues['Hype']] / 100"
     new "[ribba_dialogues['Hype']] / 100"
@@ -3261,46 +2328,29 @@ translate schinese_rewrite strings:
     old "[ribba_dialogues['Willpower']] / 100"
     new "[ribba_dialogues['Willpower']] / 100"
 
-
-
-
     old "with our tribe.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPekoe"
     new "和我们的部落。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n佩克欧"
-
-
-
-
-
-
-
-
 
     old "{color=#000} Losing to a Lustful Jotunn{/color}"
     new "{color=#000}输给淫欲约顿{/color}"
 
-
-
     old "{color=#000} Lothar ambushed by Gnolls{/color}"
     new "{color=#000}洛萨尔遭豺狼人伏击{/color}"
+
     old "{color=#000} Meeting of Furkan and Kari{/color}"
     new "弗坎和卡里{color=#000}会议{/color}"
-
-
-
-
-
 
     old "{color=#000} Winning and Topping the Gnoll{/color}"
     new "{color=#000}战胜并压制豺狼人{/color}"
 
-
     old "{color=#000}Asking Cane about his Favour{/color}"
     new "{color=#000}询问凯恩的请求{/color}"
+
     old "{color=#000}Being rebellious with Arthur{/color}"
     new "{color=#000}与亚瑟一起反叛{/color}"
+
     old "{color=#000}Being submissive with Arthur{/color}"
     new "{color=#000}向亚瑟屈服{/color}"
-
 
     old "{color=#000}Caught by the buggbear after failed sedation{/color}"
     new "{color=#000}麻醉失败后被熊地精抓住{/color}"
@@ -3308,25 +2358,17 @@ translate schinese_rewrite strings:
     old "{color=#000}Consuming Aphrodisiac with Lothar{/color}"
     new "{color=#000} 用洛萨尔{/color} 吸食春药"
 
-
     old "{color=#000}Giving Sebas at work a blowjob{/color}"
     new "{color=#000}在工作时为塞巴斯口交{/color}"
+
     old "{color=#000}Groping Lothar after Sparring{/color}"
     new "{color=#000}切磋后抚摸洛萨尔{/color}"
 
     old "{color=#000}Learning Skill from Amble{/color}"
     new "来自安布{color=#000}的{/color}学习技能"
 
-
     old "{color=#000}Losing in Buggbear Battle{/color}"
     new "{color=#000}在熊地精战斗中落败{/color}"
-
-
-
-
-
-
-
 
     old "{color=#000}Losing to Bandit Boss{/color}"
     new "{color=#000}输给强盗首领{/color}"
@@ -3337,63 +2379,72 @@ translate schinese_rewrite strings:
     old "{color=#000}Losing to a Lustful Jotunn with 65 Purity{/color}"
     new "{color=#000}以65点纯洁输给淫欲约顿{/color}"
 
-
-
-
-
     old "{color=#000}Snooping on Sebas and Cane{/color}"
     new "在塞巴斯和凯恩{color=#000}上进行探查{/color}"
 
     old "{color=#000}Winning in Buggbear Battle{/color}"
     new "{color=#000}赢得熊地精战斗{/color}"
+
     old "{color=#000}Winning in Goat Battle{/color}"
     new "{color=#000}赢得山羊战斗{/color}"
+
     old "{color=#000}Winning in Minotaur Battle{/color}"
     new "{color=#000}赢得弥诺陶洛斯战斗{/color}"
 
-
     old "{i}Loots and Lays{/i}"
     new "{i}战利品与缠绵{/i}"
+
     old "{i}Mayor Stadfel's Journal{/i}"
     new "{i}市长斯塔德费尔的日记{/i}"
+
     old "{i}Pekoe's Note{/i}"
     new "{i}佩克欧的便笺{/i}"
+
     old "{i}Seb's Accounts{/i}"
     new "{i}塞巴斯的账本{/i}"
+
     old "{i}The Battle of Lusterfield{/i}"
     new "{i} 乐斯民菲尔德的战斗{/i}"
 
-
-
     old "{size=80}R{/size}ibba's Ribald\nMagic Show"
     new "{size=80}R{/size}里巴的艳俗\n魔术表演"
+
     old "{s}100 Gold{/s}"
     new "{s}100金币{/s}"
+
     old "{s}Apple{/s}"
     new "{s}苹果{/s}"
+
     old "{s}Blue Berry{/s}"
     new "{s}蓝莓{/s}"
+
     old "{s}Buy 2 pieces of chestnut for 3 carrots{/s}"
     new "{s}用3根胡萝卜购买2颗栗子{/s}"
+
     old "{s}Cashmere{/s}"
     new "{s}山羊绒{/s}"
+
     old "{s}Dig out the Oolong{/s}"
     new "{s}挖出乌龙茶叶{/s}"
+
     old "{s}Hezzong{/s}"
     new "{s}赫宗{/s}"
+
     old "{s}Iron{/s}"
     new "{s}铁{/s}"
 
-
     old "{s}Raw Meat{/s}"
     new "{s}生肉{/s}"
+
     old "{s}Red Rose{/s}"
     new "{s}红玫瑰{/s}"
+
     old "{s}Remove some rocks with Amble{/s}"
     new "{s} 用安布{/s}拆除一些岩石"
 
     old "{s}Show him the Golem Hand{/s}"
     new "{s}给他看魔像之手{/s}"
+
     old "Moonstone Amulet"
     new "月石护符"
 
@@ -5472,6 +4523,7 @@ translate schinese_rewrite strings:
 
     old "{s}Yes, I have a vial of essence.{/s}"
     new "{s}是的，我有一瓶精华。{/s}"
+
     old "\nExpires in [status_expire_day] days and [status_expire_hour] hours."
     new "\n将在 [status_expire_day] 天 [status_expire_hour] 小时后失效。"
 
