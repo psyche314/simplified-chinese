@@ -91,10 +91,4 @@ define plap = [
 
 ]
 
-define cum = [
-    "audio/nsfw/cum000.ogg",
-    "audio/nsfw/cum001.ogg",
-    "audio/nsfw/cum002.ogg",
-    "audio/nsfw/cum003.ogg",
-]
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

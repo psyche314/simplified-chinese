@@ -1547,7 +1547,7 @@ translate schinese_rewrite scene_ambleskill_4aee912e:
 
 translate schinese_rewrite scene_ambleskill_e241683e:
 
-    "然而,即使如此,你只能达到75%的路程。"
+    "然而,即使如此,你只能达到75%%的路程。"
 
 translate schinese_rewrite scene_ambleskill_6239d298:
 

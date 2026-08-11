@@ -3195,7 +3195,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_eaaa5867:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e899f233:
 
-    e "我100%理解。"
+    e "我100%%理解。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2c3c765d:
 

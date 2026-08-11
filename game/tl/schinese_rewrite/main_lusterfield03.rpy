@@ -2659,7 +2659,7 @@ translate schinese_rewrite Jog_Amble_Outfit_01_c6f7b61f:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_2cc9d4bc:
 
-    j "100%。"
+    j "100%%。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_cd723d4d:
 

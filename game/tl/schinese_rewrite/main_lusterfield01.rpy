@@ -5299,7 +5299,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_75894e31:
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_6423db19:
 
-    s "当然了 上次他给我50%的报价 就在我看到我巨大的魅力两个小时后。"
+    s "当然了 上次他给我50%%的报价 就在我看到我巨大的魅力两个小时后。"
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_2a474349:
 

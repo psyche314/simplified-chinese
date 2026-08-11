@@ -6357,7 +6357,7 @@ translate schinese_rewrite strings:
     new "{#auto_page}A"
 
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}% A,% B % d% Y,% H:% M"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     old "{#quick_page}Q"
     new "{#quick_page}Q"
