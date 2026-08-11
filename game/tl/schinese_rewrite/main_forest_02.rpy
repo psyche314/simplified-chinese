@@ -23,7 +23,7 @@ translate schinese_rewrite dark_forest_loop_1765b6a0:
 
 translate schinese_rewrite dark_forest_loop_28cfe685:
 
-    msg "学习新食堂 查查拉希姆的工作站。"
+    msg "学习新食堂 查查雷希姆的工作站。"
 
 translate schinese_rewrite dark_forest_loop_e91ba75d:
 
@@ -99,7 +99,7 @@ translate schinese_rewrite Dark_Forest_Map_9369ba61:
 
 translate schinese_rewrite moonlit_wolf_den_enter_cebc3d91:
 
-    "你跟着地图上卡莉所标的痕迹走。"
+    "你跟着地图上卡里所标的痕迹走。"
 
 translate schinese_rewrite moonlit_wolf_den_enter_14d19a75:
 
@@ -167,7 +167,7 @@ translate schinese_rewrite moonlit_wolf_den_enter_76ce4b30:
 
 translate schinese_rewrite moonlit_wolf_den_enter_e5bdb668:
 
-    e "我是[e] 来自卢斯特菲尔德 你叫什么名字?"
+    e "我是[e] 来自乐斯民菲尔德 你叫什么名字?"
 
 translate schinese_rewrite moonlit_wolf_den_enter_cb780766:
 
@@ -347,7 +347,7 @@ translate schinese_rewrite Uffe_Territory_Quest_7d2dd048:
 
 translate schinese_rewrite Uffe_Territory_Quest_ca997112:
 
-    "伍罗已经死了 你现在没什么好讨论的。"
+    "伏罗已经死了 你现在没什么好讨论的。"
 
 translate schinese_rewrite Uffe_Territory_Quest_14b648e0:
 

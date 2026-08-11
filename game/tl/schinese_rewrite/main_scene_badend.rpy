@@ -699,8 +699,7 @@ translate schinese_rewrite BadEnd_Werewolf_Capture_965b5442:
 
 translate schinese_rewrite BadEnd_Werewolf_Capture_59ad9f45:
 
-    ww3 "Take that fucking cock."
-
+    ww3 "接下这根鸡巴。"
 translate schinese_rewrite BadEnd_Werewolf_Capture_ab867de5:
 
     "另一个说,你不知道哪个是哪个。"
@@ -1795,7 +1794,7 @@ translate schinese_rewrite BadEnd_Bandit_Bondage_3d3f790e:
 
 translate schinese_rewrite BadEnd_Bandit_Bondage_318a1caa:
 
-    "一些土匪告诉你卢斯特菲尔德发生的事 一些朋友到处找你 他们说在附近树上会发现你脸上的柱子。"
+    "一些土匪告诉你乐斯民菲尔德发生的事 一些朋友到处找你 他们说在附近树上会发现你脸上的柱子。"
 
 translate schinese_rewrite BadEnd_Bandit_Bondage_3600eb66:
 

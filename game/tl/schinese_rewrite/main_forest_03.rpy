@@ -155,7 +155,7 @@ translate schinese_rewrite prattlefell_meadow_loop_27f83d51:
 
 translate schinese_rewrite prattlefell_meadow_loop_a526b1eb:
 
-    e "他们把它卖给了村子里其他人 我猜是卢斯特菲尔德?"
+    e "他们把它卖给了村子里其他人 我猜是乐斯民菲尔德?"
 
 translate schinese_rewrite prattlefell_meadow_loop_e91ba75d:
 

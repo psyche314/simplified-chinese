@@ -3,11 +3,11 @@
 
 translate schinese_rewrite scene_lothargrope_d4e872c0:
 
-    "洛萨很快地脱掉上盔甲..."
+    "洛萨尔很快地脱掉上盔甲..."
 
 translate schinese_rewrite scene_lothargrope_92f92143:
 
-    e "你胸口很性感,洛萨。"
+    e "你胸口很性感,洛萨尔。"
 
 translate schinese_rewrite scene_lothargrope_2de52653:
 
@@ -23,7 +23,7 @@ translate schinese_rewrite scene_lothargrope_1ab627ea:
 
 translate schinese_rewrite scene_lothargrope_4e8968d0:
 
-    "你犹豫不决地回答说 不知道你是否该碰洛塔尔的胸口。"
+    "你犹豫不决地回答说 不知道你是否该碰洛萨尔的胸口。"
 
 translate schinese_rewrite scene_lothargrope_f284b898:
 
@@ -39,7 +39,7 @@ translate schinese_rewrite scene_lothargrope_69f8087a:
 
 translate schinese_rewrite scene_lothargrope_8e8f241d:
 
-    "你走到洛特哈尔 手伸在他的身上 犹豫不决地 摸他的胸前。"
+    "你走到洛萨尔 手伸在他的身上 犹豫不决地 摸他的胸前。"
 
 translate schinese_rewrite scene_lothargrope_6b0a3a6c:
 
@@ -55,7 +55,7 @@ translate schinese_rewrite scene_lothargrope_48350399:
 
 translate schinese_rewrite scene_lothargrope_98eef071:
 
-    "洛塔尔保持安静,但让你继续 感觉他的胸腔。"
+    "洛萨尔保持安静,但让你继续 感觉他的胸腔。"
 
 translate schinese_rewrite scene_lothargrope_c3f52127:
 
@@ -67,7 +67,7 @@ translate schinese_rewrite scene_lothargrope_8a3f1015:
 
 translate schinese_rewrite scene_lothargrope_f6f482ca:
 
-    "洛萨轻轻地呻吟着,该死的你擅长这个... 可能有点太好。"
+    "洛萨尔轻轻地呻吟着,该死的你擅长这个... 可能有点太好。"
 
 translate schinese_rewrite scene_lothargrope_a20c2fac:
 
@@ -87,7 +87,7 @@ translate schinese_rewrite scene_lothargrope_edb9553d:
 
 translate schinese_rewrite scene_lothargrope_c540fe37:
 
-    "洛塔尔在把你的手推开之前发牢骚 似乎所有那些探险都让他兴奋了。"
+    "洛萨尔在把你的手推开之前发牢骚 似乎所有那些探险都让他兴奋了。"
 
 translate schinese_rewrite scene_lothargrope_b6dcb160:
 
@@ -111,7 +111,7 @@ translate schinese_rewrite scene_lothargrope_4ddb1c7a:
 
 translate schinese_rewrite scene_lothargrope_7e1d32be:
 
-    e "你胸口这么性感,洛萨"
+    e "你胸口这么性感,洛萨尔"
 
 translate schinese_rewrite scene_lothargrope_fd3b5e06:
 
@@ -131,7 +131,7 @@ translate schinese_rewrite scene_lothargrope_baef52ef:
 
 translate schinese_rewrite scene_lothargrope_89f66356:
 
-    e "我真的很抱歉 洛塔尔 我发誓我不是故意要那么远的。"
+    e "我真的很抱歉 洛萨尔 我发誓我不是故意要那么远的。"
 
 translate schinese_rewrite scene_lothargrope_1ba0fb8c:
 
@@ -243,8 +243,7 @@ translate schinese_rewrite scene_mimiclose_b06f66f8:
 
 translate schinese_rewrite scene_mimiclose_fa5342ef:
 
-    e "I- uh... no- o-o-obey..."
-
+    e "我——呃……不——我、我服从……"
 translate schinese_rewrite scene_mimiclose_e3735f8c:
 
     "现在世界上没有什么比这更重要的了 你想取悦这生物。"
@@ -275,8 +274,7 @@ translate schinese_rewrite scene_mimiclose_d1b98fe3:
 
 translate schinese_rewrite scene_mimiclose_0b764ddc:
 
-    e "AhhhHHHHH- F-fuck..."
-
+    e "啊啊啊——操……"
 translate schinese_rewrite scene_mimiclose_cb5f847e:
 
     "你从来没有过这种感觉,你曾经有过性生活。"
@@ -1359,7 +1357,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_fdba5601:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_699b93c5:
 
-    "肯恩的阴茎完全埋在塞布的屁股里。"
+    "凯恩的阴茎完全埋在塞布的屁股里。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_1c3ea15a:
 
@@ -1367,11 +1365,11 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_1c3ea15a:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_b6c6b5d2:
 
-    "你刚才听到的吱吱声 是从沙巴骑着肯恩的老二 躺在床上的吱吱声里传来的。"
+    "你刚才听到的吱吱声 是从沙巴骑着凯恩的老二 躺在床上的吱吱声里传来的。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_b85c7351:
 
-    "从你的有利之处看,你看不到多少 但你可以看到塞布把他的头往后扔 坎恩把他打成碎片。"
+    "从你的有利之处看,你看不到多少 但你可以看到塞布把他的头往后扔 凯恩把他打成碎片。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_0ba2b576:
 
@@ -1387,7 +1385,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_7f769d0c:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_2cd3906c:
 
-    "你不知道发生了什么, 但根据那大声的呻吟, 它听起来像肯恩 已经击中了塞布的甜点之一。"
+    "你不知道发生了什么, 但根据那大声的呻吟, 它听起来像凯恩 已经击中了塞布的甜点之一。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_7fd7ca30:
 
@@ -1407,7 +1405,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_a268ad76:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_73699a4d:
 
-    "这种猛击持续了一段时间 直到你听到肯恩的欢乐声响起。"
+    "这种猛击持续了一段时间 直到你听到凯恩的欢乐声响起。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_9aeac03f:
 
@@ -1431,7 +1429,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_e07a94a5:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_91539bb9:
 
-    "肯恩咕噜声。"
+    "凯恩咕噜声。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_422c7e60:
 
@@ -1447,15 +1445,15 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_68d8ea5a:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_722c6ba9:
 
-    "幸好,还有声音响起的呻吟 声音同时从房间里出来 否则塞布或肯恩就会发现你。"
+    "幸好,还有声音响起的呻吟 声音同时从房间里出来 否则塞布或凯恩就会发现你。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_748c0a5b:
 
-    "你回过头来发现肯恩脸上的伤痕,这是痛苦和快乐的混合体。"
+    "你回过头来发现凯恩脸上的伤痕,这是痛苦和快乐的混合体。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_f40efff8:
 
-    "你不认为这是可能的 但看来塞布已经吞下了更多的肯恩的棍子 他的屁股。"
+    "你不认为这是可能的 但看来塞布已经吞下了更多的凯恩的棍子 他的屁股。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_651aee83:
 
@@ -1471,7 +1469,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_161fe14c:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_68f04664:
 
-    "塞伯抬起他的屁股 肯恩的老二慢慢地从你室友的洞里松开。"
+    "塞伯抬起他的屁股 凯恩的老二慢慢地从你室友的洞里松开。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_0e416fc4:
 
@@ -1479,7 +1477,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_0e416fc4:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_0cb11a0d:
 
-    "抓住肯恩暂时的安逸时刻 塞布猛地撞向肯恩的井 肯恩的老二瞬间就消失在塞布的洞里。"
+    "抓住凯恩暂时的安逸时刻 塞布猛地撞向凯恩的井 凯恩的老二瞬间就消失在塞布的洞里。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_6c35a0f1:
 
@@ -1495,11 +1493,11 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_8731d14b:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_7e6044c4:
 
-    "肯恩设法通过坚固的牙齿呼吸出来。"
+    "凯恩设法通过坚固的牙齿呼吸出来。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_5a34b64f:
 
-    "塞布用肯恩的老二磨屁股 给蝙蝠没有多少呼吸空间。"
+    "塞布用凯恩的老二磨屁股 给蝙蝠没有多少呼吸空间。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_200e75ea:
 
@@ -1507,7 +1505,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_200e75ea:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_231d0071:
 
-    "肯恩似乎习惯了新的节奏。"
+    "凯恩似乎习惯了新的节奏。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_289165cb:
 
@@ -1523,11 +1521,11 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_65bb7540:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_72215971:
 
-    "塞布的屁股紧紧,他的洞挤压着肯恩的老二。"
+    "塞布的屁股紧紧,他的洞挤压着凯恩的老二。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_d12ecb7d:
 
-    "这通过肯恩和塞布 发出一个甜蜜的感觉。"
+    "这通过凯恩和塞布 发出一个甜蜜的感觉。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_68a78c65:
 
@@ -1535,7 +1533,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_68a78c65:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_6dbc0ad9:
 
-    "肯恩嘲笑而不回答。"
+    "凯恩嘲笑而不回答。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_58a33924:
 
@@ -1547,7 +1545,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_9659f86e:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_28209049:
 
-    "坎恩的笑容流逝。"
+    "凯恩的笑容流逝。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_ffbbf5c2:
 
@@ -1555,7 +1553,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_ffbbf5c2:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_6e2b264e:
 
-    "肯恩给他的屁股打赌 塞巴洞里塞得更远。"
+    "凯恩给他的屁股打赌 塞巴洞里塞得更远。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_e963ac1e:
 
@@ -1575,7 +1573,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_0d884ac9:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_0112876e:
 
-    "肯恩定义的腹肌上 到处都是热臭虫。"
+    "凯恩定义的腹肌上 到处都是热臭虫。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_eb22538d:
 
@@ -1587,7 +1585,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_9c9381ff:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_464a7236:
 
-    "肯恩抓住塞伯的臀部 把狮子的饥饿洞 放在他硬硬的鸡巴上。"
+    "凯恩抓住塞伯的臀部 把狮子的饥饿洞 放在他硬硬的鸡巴上。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_d94e763d:
 
@@ -1611,15 +1609,15 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_839c8817:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_974083a7:
 
-    "耗尽和耗尽后,塞巴人在肯恩岛崩溃了。"
+    "耗尽和耗尽后,塞巴人在凯恩岛崩溃了。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_1f4c9574:
 
-    "他身上的毛皮是他的精液, 他之前在肯恩的胸口上沉了下来。"
+    "他身上的毛皮是他的精液, 他之前在凯恩的胸口上沉了下来。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_b02455e1:
 
-    "肯恩的老二开始从塞伯洞里滑出来。"
+    "凯恩的老二开始从塞伯洞里滑出来。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_491d1266:
 
@@ -1627,7 +1625,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_491d1266:
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_d16d9384:
 
-    "肯恩的液体继续从塞布的脆弱洞里滴出 肯恩拥抱塞布。"
+    "凯恩的液体继续从塞布的脆弱洞里滴出 凯恩拥抱塞布。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_bb147946:
 
@@ -2279,8 +2277,7 @@ translate schinese_rewrite scene_werewolf_lose_42f09b7f:
 
 translate schinese_rewrite scene_werewolf_lose_195d4118:
 
-    e "A-ah...ahh...ha-...ah..."
-
+    e "啊……啊啊……哈……啊……"
 translate schinese_rewrite scene_werewolf_lose_e5df0656:
 
     ww "Hhmmph..."

@@ -1323,8 +1323,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_fa6aefbc:
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b00c6c35:
 
-    "Fine. Point taken."
-
+    "好吧，我明白了。"
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3a64795a:
 
     e "所以它应该就在这里?"

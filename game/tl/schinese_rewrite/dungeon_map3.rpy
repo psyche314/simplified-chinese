@@ -395,8 +395,7 @@ translate schinese_rewrite Moonlit_Wolf_Den_Loop_38ed7a29:
 
 translate schinese_rewrite Moonlit_Wolf_Den_Loop_72a3960c:
 
-    tart "Alpha说他们有用 所以Tart看守了Tetto和Rumma。"
-
+    tart "阿尔法说他们还有用，所以塔特负责看守泰托和鲁玛。"
 translate schinese_rewrite Moonlit_Wolf_Den_Loop_a4d5004e:
 
     "灰狼静静地盯着你。"

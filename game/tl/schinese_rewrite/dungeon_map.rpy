@@ -403,7 +403,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_4b2d830a:
 
 translate schinese_rewrite Puro_Watch_Post_Loop_db25bbe3:
 
-    yu "好吧,但如果我再看到奇姆的灯光呢?"
+    yu "好吧,但如果我再看到齐门的灯光呢?"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_1fa8258c:
 
@@ -531,7 +531,7 @@ translate schinese_rewrite Damp_Cave_Enter_6d7f824b:
 
 translate schinese_rewrite Damp_Cave_Enter_6ab0a3b3:
 
-    e "我们可以一起救富肯,好吗?"
+    e "我们可以一起救弗坎,好吗?"
 
 translate schinese_rewrite Damp_Cave_Enter_9373df6d:
 
@@ -551,7 +551,7 @@ translate schinese_rewrite Damp_Cave_Enter_ba6fd067:
 
 translate schinese_rewrite Damp_Cave_Enter_0010b313:
 
-    k "福坎,这个地方是一个古老的研究站 研究流水的来源。"
+    k "弗坎,这个地方是一个古老的研究站 研究流水的来源。"
 
 translate schinese_rewrite Damp_Cave_Enter_f6c42fbb:
 
@@ -595,7 +595,7 @@ translate schinese_rewrite Damp_Cave_Enter_bf0a4e1a:
 
 translate schinese_rewrite Damp_Cave_Loop_f78acfe3:
 
-    e "福坎?"
+    e "弗坎?"
 
 translate schinese_rewrite Damp_Cave_Loop_959a8787:
 
@@ -611,7 +611,7 @@ translate schinese_rewrite Damp_Cave_Loop_afa99a7b:
 
 translate schinese_rewrite Damp_Cave_Loop_ed7b2a19:
 
-    "福坎似乎昏迷不醒。"
+    "弗坎似乎昏迷不醒。"
 
 translate schinese_rewrite Damp_Cave_Loop_67435228:
 
@@ -619,7 +619,7 @@ translate schinese_rewrite Damp_Cave_Loop_67435228:
 
 translate schinese_rewrite Damp_Cave_Loop_2c2f1fc4:
 
-    e "嗯?我看见富肯了。"
+    e "嗯?我看见弗坎了。"
 
 translate schinese_rewrite Damp_Cave_Loop_e9859b0e:
 
@@ -635,7 +635,7 @@ translate schinese_rewrite Damp_Cave_Loop_ceb7bdd4:
 
 translate schinese_rewrite Damp_Cave_Loop_e499e5e0:
 
-    "福坎在他身后 昏迷不醒..."
+    "弗坎在他身后 昏迷不醒..."
 
 translate schinese_rewrite Damp_Cave_Loop_3575c89a:
 
@@ -847,7 +847,7 @@ translate schinese_rewrite Damp_Cave_Shelf_92f16cc0:
 
 translate schinese_rewrite Damp_Cave_Shelf_5baea47a:
 
-    k "Goekdemir是福坎的曾祖父 至少他们做得对。"
+    k "Goekdemir是弗坎的曾祖父 至少他们做得对。"
 
 translate schinese_rewrite Damp_Cave_Shelf_a0961606:
 
@@ -891,7 +891,7 @@ translate schinese_rewrite Damp_Cave_Chest_9f2e69f7:
 
 translate schinese_rewrite Damp_Cave_Chest_2b03842f:
 
-    e "卡莉 你要胸口里的东西吗？"
+    e "卡里 你要胸口里的东西吗？"
 
 translate schinese_rewrite Damp_Cave_Chest_39c62512:
 

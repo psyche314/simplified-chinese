@@ -87,8 +87,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_b243fae6:
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_d8286d79:
 
-    drunk_patron "Fine... whatever..."
-
+    drunk_patron "好吧……随便。"
 translate schinese_rewrite Trunk_Drunk_Dialogue_94243f03:
 
     "他从你身上拿走了啤酒, 在他的呼吸中哭泣。"
@@ -139,7 +138,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_47c45f3a:
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_43c5223f:
 
-    e "你得付钱 否则我不得不让肯恩知道这件事 他不会高兴的。"
+    e "你得付钱 否则我不得不让凯恩知道这件事 他不会高兴的。"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_401d1cd2:
 
@@ -287,7 +286,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_bc4ed519:
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_01471800:
 
-    drunk_patron "肯恩不会这样对我 我是..."
+    drunk_patron "凯恩不会这样对我 我是..."
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_9c5effcf:
 
@@ -395,7 +394,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_f37b9066:
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_e465c2bb:
 
-    e "好吧,我下班了 所以我会直接从肯恩那里买回来 但你也要为我的那份还钱。"
+    e "好吧,我下班了 所以我会直接从凯恩那里买回来 但你也要为我的那份还钱。"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_3a3b1abe:
 
@@ -715,7 +714,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_95f37def:
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_e465c2bb_1:
 
-    e "好吧,我下班了 所以我会直接从肯恩那里买回来 但你也要为我的那份还钱。"
+    e "好吧,我下班了 所以我会直接从凯恩那里买回来 但你也要为我的那份还钱。"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_95831e41:
 
@@ -799,7 +798,7 @@ translate schinese_rewrite Trunk_Eater_Dialogue_ce562c6f:
 
 translate schinese_rewrite Trunk_Eater_Dialogue_eb9fccc3:
 
-    eater_patron "肯恩有秘方,这是秘密 但我可以告诉你,它里面有东西。"
+    eater_patron "凯恩有秘方,这是秘密 但我可以告诉你,它里面有东西。"
 
 translate schinese_rewrite Trunk_Eater_Dialogue_8b944041:
 
@@ -1195,7 +1194,7 @@ translate schinese_rewrite Trunk_Pair_Dialogue_d51a5fed:
 
 translate schinese_rewrite Trunk_Pair_Dialogue_0342560a:
 
-    pair_patron1 "你会认为肯恩会改名 但我猜它有一个很好的{i}ring{/i}。"
+    pair_patron1 "你会认为凯恩会改名 但我猜它有一个很好的{i}ring{/i}。"
 
 translate schinese_rewrite Trunk_Pair_Dialogue_51acabad:
 

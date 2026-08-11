@@ -91,7 +91,7 @@ translate schinese_rewrite main_kingspawn_7d29a2be:
 
 translate schinese_rewrite main_kingspawn_b60a5264:
 
-    s "哦,那是我最喜欢的涂鸦,它很旧,说实话,我们邀请了拉希姆的... 合伙人来画我们,当店刚开张的时候。"
+    s "哦,那是我最喜欢的涂鸦,它很旧,说实话,我们邀请了雷希姆的... 合伙人来画我们,当店刚开张的时候。"
 
 translate schinese_rewrite main_kingspawn_b75b8db1:
 
@@ -107,7 +107,7 @@ translate schinese_rewrite main_kingspawn_9e1e5e15:
 
 translate schinese_rewrite main_kingspawn_de9561c6:
 
-    "你在柜子顶部发现了一本书 翻翻了页面 它似乎是卢斯特菲尔德的简史。"
+    "你在柜子顶部发现了一本书 翻翻了页面 它似乎是乐斯民菲尔德的简史。"
 
 translate schinese_rewrite main_kingspawn_cd51d499:
 
@@ -127,7 +127,7 @@ translate schinese_rewrite main_kingspawn_e79c8597:
 
 translate schinese_rewrite main_kingspawn_8b67e040:
 
-    e "这是你吗,欧莱?"
+    e "这是你吗,奥利?"
 
 translate schinese_rewrite main_kingspawn_a06a6743:
 
@@ -207,7 +207,7 @@ translate schinese_rewrite main_kingspawn_c918c57c:
 
 translate schinese_rewrite main_lusterfield02_ad070029:
 
-    "就在你走进主广场时 在肯恩酒馆前 你听到从右边喊叫 在那里你通常会见到乔格和安布尔。"
+    "就在你走进主广场时 在凯恩酒馆前 你听到从右边喊叫 在那里你通常会见到乔格和安布。"
 
 translate schinese_rewrite main_lusterfield02_5254a42f:
 
@@ -219,7 +219,7 @@ translate schinese_rewrite main_lusterfield02_1db6d93e:
 
 translate schinese_rewrite main_rahimshop_9ba1f33d:
 
-    "房子周围散布着一连串的图画, 但你注意到两个截然不同的风格, 一个看起来像是无辜的涂鸦, 而其他的几乎完全是 详细描绘一个年轻的拉希姆。"
+    "房子周围散布着一连串的图画, 但你注意到两个截然不同的风格, 一个看起来像是无辜的涂鸦, 而其他的几乎完全是 详细描绘一个年轻的雷希姆。"
 
 translate schinese_rewrite main_rahimshop_56d3db03:
 
@@ -227,11 +227,11 @@ translate schinese_rewrite main_rahimshop_56d3db03:
 
 translate schinese_rewrite main_rahimshop_79f5dfb0:
 
-    e "嘿,拉希姆,谁画的这些画?"
+    e "嘿,雷希姆,谁画的这些画?"
 
 translate schinese_rewrite main_rahimshop_834458c7:
 
-    "拉希姆半心半意地朝墙转过头来,然后又转过头来盯着你看。"
+    "雷希姆半心半意地朝墙转过头来,然后又转过头来盯着你看。"
 
 translate schinese_rewrite main_rahimshop_822bb17c:
 
@@ -255,7 +255,7 @@ translate schinese_rewrite main_rahimshop_415a28a3:
 
 translate schinese_rewrite main_rahimshop_f0992fe6:
 
-    "你去找拉希姆,等待回应 但他似乎已经回去工作了。"
+    "你去找雷希姆,等待回应 但他似乎已经回去工作了。"
 
 translate schinese_rewrite main_rahimshop_2b7aa352:
 
@@ -271,7 +271,7 @@ translate schinese_rewrite main_rahimshop_119e0f75:
 
 translate schinese_rewrite main_rahimshop_83feca6d:
 
-    e "拉希姆,这篮子有什么用?"
+    e "雷希姆,这篮子有什么用?"
 
 translate schinese_rewrite main_rahimshop_df17f211:
 
@@ -295,7 +295,7 @@ translate schinese_rewrite main_lusterfield_range_df2eb2eb:
 
 translate schinese_rewrite main_lusterfield_range_08311910:
 
-    "鲁斯特菲尔德的善良的百姓啊!我们敬爱的冠军,勇士洛特哈再次证明了为什么他的名字在鲁斯特夫人们的心中回响。"
+    "乐斯民菲尔德的善良的百姓啊!我们敬爱的冠军,勇士洛特哈再次证明了为什么他的名字在鲁斯特夫人们的心中回响。"
 
 translate schinese_rewrite main_lusterfield_range_fc3052ab:
 
@@ -303,11 +303,11 @@ translate schinese_rewrite main_lusterfield_range_fc3052ab:
 
 translate schinese_rewrite main_lusterfield_range_a7667f76:
 
-    "以一个山羊猎手洛特哈尔的勇气 冲出去击败小偷"
+    "以一个山羊猎手洛萨尔的勇气 冲出去击败小偷"
 
 translate schinese_rewrite main_lusterfield_range_eeac9941:
 
-    "\"这就像闪电 洛塔尔用一击一击把那家伙推到地上!\""
+    "\"这就像闪电 洛萨尔用一击一击把那家伙推到地上!\""
 
 translate schinese_rewrite main_lusterfield_range_5a1ad5c2:
 
@@ -407,7 +407,7 @@ translate schinese_rewrite main_lusterfield_mayors_longhouse_loop_b08e9c4b:
 
 translate schinese_rewrite main_lusterfield_mayors_longhouse_loop_99b32fe0:
 
-    "拉希姆轻轻地拍你的背 让你摇摇欲坠 至少你从他脸上 买了一个微弱的笑容。"
+    "雷希姆轻轻地拍你的背 让你摇摇欲坠 至少你从他脸上 买了一个微弱的笑容。"
 
 translate schinese_rewrite Sebas_dialogue_e789f8e5:
 
@@ -439,7 +439,7 @@ translate schinese_rewrite Sebas_dialogue_a962fd4e:
 
 translate schinese_rewrite Sebas_dialogue_7f2fab40:
 
-    o "肯恩和他的兄弟们 和塞布赌博..."
+    o "凯恩和他的兄弟们 和塞布赌博..."
 
 translate schinese_rewrite Sebas_dialogue_e0c18404:
 
@@ -467,7 +467,7 @@ translate schinese_rewrite Sebas_dialogue_3fae2a78:
 
 translate schinese_rewrite Sebas_dialogue_caacd74c:
 
-    o "大概五点吧 我告诉他不要和肯恩赌 但是他输了。"
+    o "大概五点吧 我告诉他不要和凯恩赌 但是他输了。"
 
 translate schinese_rewrite Sebas_dialogue_7115ea73_1:
 
@@ -675,7 +675,7 @@ translate schinese_rewrite Sebas_Drunk_Bet_Cane_fb0b1bfb:
 
 translate schinese_rewrite Sebas_Drunk_Bet_Cane_7bbc8c49:
 
-    e "好吧,欧莱。"
+    e "好吧,奥利。"
 
 translate schinese_rewrite Sebas_Drunk_End_6d967733:
 
@@ -743,8 +743,7 @@ translate schinese_rewrite Sebas_Drunk_How_Doing_f1ce3b14:
 
 translate schinese_rewrite Sebas_Drunk_How_Doing_6ae689f9:
 
-    e "Hey... Slow down, Seb."
-
+    e "嘿……慢点，塞巴斯。"
 translate schinese_rewrite Sebas_Drunk_How_Doing_5969b824:
 
     "狮子继续像鲸鱼一样喝着酒精,看着他,无法决定你是否被迷惑或受创。"
@@ -823,7 +822,7 @@ translate schinese_rewrite Sebas_Ask_Under_Counter_d5d770c9:
 
 translate schinese_rewrite Sebas_Ask_Under_Counter_fc5e0951:
 
-    s "是的。欧勒知道。"
+    s "是的。奥利知道。"
 
 translate schinese_rewrite Sebas_Ask_Under_Counter_87da52ee:
 
@@ -847,7 +846,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_03_28070df6:
 
 translate schinese_rewrite Sebas_Ole_Outfit_03_cfc35ea0:
 
-    e "拉希姆为日常穿戴做了新衣服 他要我做模特,问问你的意见。"
+    e "雷希姆为日常穿戴做了新衣服 他要我做模特,问问你的意见。"
 
 translate schinese_rewrite Sebas_Ole_Outfit_03_6df11e5b:
 
@@ -983,7 +982,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_01_60fcff58:
 
 translate schinese_rewrite Sebas_Ole_Outfit_01_b535c0d4:
 
-    o "是拉希姆答应给你的皮革盔甲吗?"
+    o "是雷希姆答应给你的皮革盔甲吗?"
 
 translate schinese_rewrite Sebas_Ole_Outfit_01_0300c526:
 
@@ -1023,7 +1022,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_02_c27bc186:
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_3e9f1d09:
 
-    o "正如我们所知,拉希姆永远是 永远的神仙。"
+    o "正如我们所知,雷希姆永远是 永远的神仙。"
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_16b1c1fd:
 
@@ -1059,7 +1058,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_02_7f7694b8:
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_0b585708:
 
-    "软手软脚的,欧勒扭动他的头。"
+    "软手软脚的,奥利扭动他的头。"
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_aa3bc605:
 
@@ -1075,7 +1074,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_02_35d67419:
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_2bf070a9:
 
-    "他可能真的摧毁了拉希姆的衣服,但那种精神形象让你兴奋。"
+    "他可能真的摧毁了雷希姆的衣服,但那种精神形象让你兴奋。"
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_3eff1d6d:
 
@@ -1127,7 +1126,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_02_2b9dc704:
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_f70df261:
 
-    e "谢谢各位的评论 我会告诉拉希姆他们的事。"
+    e "谢谢各位的评论 我会告诉雷希姆他们的事。"
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_182f343d:
 
@@ -1135,7 +1134,7 @@ translate schinese_rewrite Sebas_Ole_Outfit_02_182f343d:
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_dc289130:
 
-    o "但如果[e]要向拉希姆报告 为什么他要跑去他的房间?"
+    o "但如果[e]要向雷希姆报告 为什么他要跑去他的房间?"
 
 translate schinese_rewrite Sebas_Ole_Outfit_02_7e6deed6:
 
@@ -1163,16 +1162,14 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_fb0f889c:
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_2fc7ddfc:
 
-    e "Gooood Morning Seb!"
-
+    e "早上好——塞巴斯！"
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_a9005d6d:
 
     s "今天有时间吗?"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_9854705d:
 
-    e "Ehem... W-what do you mean?"
-
+    e "咳……你、你什么意思？"
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_1ac2e746:
 
     s "我想我们该去酒馆喝一杯 你和我 当然还有奥勒。"
@@ -1183,7 +1180,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_0dfb3255:
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_fe5df01e:
 
-    s "嘿,欧莱,我们要去那边,对吗?"
+    s "嘿,奥利,我们要去那边,对吗?"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_ce42a2fa:
 
@@ -1263,7 +1260,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_5cfad1f0:
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_c736099d:
 
-    o "别带太多东西 反正会输给肯恩的。"
+    o "别带太多东西 反正会输给凯恩的。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_b656cdae:
 
@@ -1271,7 +1268,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_b656cdae:
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_430e4bc0:
 
-    "你从未见过欧勒这样..."
+    "你从未见过奥利这样..."
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_7bd8df44:
 
@@ -1291,7 +1288,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_27dcabc5:
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_dd99fd32:
 
-    "欧莱站起来,回去工作。"
+    "奥利站起来,回去工作。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_6ce79733:
 
@@ -1571,7 +1568,7 @@ translate schinese_rewrite Sebas_Night_Out_In_Tavern_a44e2294:
 
 translate schinese_rewrite Sebas_Night_Out_In_Tavern_a8687385:
 
-    "你 們要 留意 酒馆 中 的 两个 熟人、 一 是 西巴、 一 是 欧勒。 你 們向 他 們挥手、 心心地 向 那 二 家 店主 行走。"
+    "你 們要 留意 酒馆 中 的 两个 熟人、 一 是 西巴、 一 是 奥利。 你 們向 他 們挥手、 心心地 向 那 二 家 店主 行走。"
 
 translate schinese_rewrite Sebas_Night_Out_In_Tavern_da63231b:
 
@@ -1619,7 +1616,7 @@ translate schinese_rewrite Sebas_Night_Out_c8291b9a:
 
 translate schinese_rewrite Sebas_Night_Out_3ff5b22f:
 
-    s "欧莱和我在周末来这里。"
+    s "奥利和我在周末来这里。"
 
 translate schinese_rewrite Sebas_Night_Out_789821da:
 
@@ -1643,7 +1640,7 @@ translate schinese_rewrite Sebas_Night_Out_43f62810:
 
 translate schinese_rewrite Sebas_Night_Out_dd823823:
 
-    s "是的,但我可以让肯恩在这里 设置这些小游戏"
+    s "是的,但我可以让凯恩在这里 设置这些小游戏"
 
 translate schinese_rewrite Sebas_Night_Out_4a2e9e09:
 
@@ -1651,7 +1648,7 @@ translate schinese_rewrite Sebas_Night_Out_4a2e9e09:
 
 translate schinese_rewrite Sebas_Night_Out_328bca85:
 
-    "这是肯恩,你可以闻到他的气味 从远处,甚至不看他。"
+    "这是凯恩,你可以闻到他的气味 从远处,甚至不看他。"
 
 translate schinese_rewrite Sebas_Night_Out_42a4f1c6:
 
@@ -1699,7 +1696,7 @@ translate schinese_rewrite Sebas_Night_Out_1b77bffb:
 
 translate schinese_rewrite Sebas_Night_Out_26c33441:
 
-    "奥利环顾四周, 在勉强返回肯恩之前。"
+    "奥利环顾四周, 在勉强返回凯恩之前。"
 
 translate schinese_rewrite Sebas_Night_Out_fab51459:
 
@@ -1715,7 +1712,7 @@ translate schinese_rewrite Sebas_Night_Out_380e1b70:
 
 translate schinese_rewrite Sebas_Night_Out_e23e59a8:
 
-    "肯恩稍稍提高他的眉毛。"
+    "凯恩稍稍提高他的眉毛。"
 
 translate schinese_rewrite Sebas_Night_Out_cfb5d9ba:
 
@@ -1759,7 +1756,7 @@ translate schinese_rewrite Sebas_Night_Out_50ec86c1:
 
 translate schinese_rewrite Sebas_Night_Out_b934df3b:
 
-    s "今天不行,肯恩 我最好的朋友[e]在这里,对吗?"
+    s "今天不行,凯恩 我最好的朋友[e]在这里,对吗?"
 
 translate schinese_rewrite Sebas_Night_Out_b1600753:
 
@@ -1771,7 +1768,7 @@ translate schinese_rewrite Sebas_Night_Out_920aaa73:
 
 translate schinese_rewrite Sebas_Night_Out_f6d29648:
 
-    "肯恩转过身去他的柜台 准备餐具和饮料。"
+    "凯恩转过身去他的柜台 准备餐具和饮料。"
 
 translate schinese_rewrite Sebas_Night_Out_b6a4e718:
 
@@ -1783,7 +1780,7 @@ translate schinese_rewrite Sebas_Night_Out_4eeb26c6:
 
 translate schinese_rewrite Sebas_Night_Out_d0ed9dcc:
 
-    e "我又不是在厨房工作 也不是肯恩让我在这里吃饭。"
+    e "我又不是在厨房工作 也不是凯恩让我在这里吃饭。"
 
 translate schinese_rewrite Sebas_Night_Out_3552fea9:
 
@@ -1843,7 +1840,7 @@ translate schinese_rewrite Sebas_Night_Out_10e77e86:
 
 translate schinese_rewrite Sebas_Night_Out_0c0b5748:
 
-    s "谢谢,肯恩。"
+    s "谢谢,凯恩。"
 
 translate schinese_rewrite Sebas_Night_Out_bdfd99e4:
 
@@ -1891,7 +1888,7 @@ translate schinese_rewrite Sebas_Night_Out_bd926702:
 
 translate schinese_rewrite Sebas_Night_Out_83e07547:
 
-    "你从欧勒那里拿一碗炖菜 稍微点头谢他。"
+    "你从奥利那里拿一碗炖菜 稍微点头谢他。"
 
 translate schinese_rewrite Sebas_Night_Out_70fd2ab2:
 
@@ -1935,7 +1932,7 @@ translate schinese_rewrite Sebas_Night_Out_977ef296:
 
 translate schinese_rewrite Sebas_Night_Out_cfc3cca9:
 
-    "欧莱继续说话时塞巴斯·伯普斯(塞巴斯 burps)。"
+    "奥利继续说话时塞巴斯·伯普斯(塞巴斯 burps)。"
 
 translate schinese_rewrite Sebas_Night_Out_da20e945:
 
@@ -1963,8 +1960,7 @@ translate schinese_rewrite Sebas_Night_Out_23ac7fee:
 
 translate schinese_rewrite Sebas_Night_Out_54d346c1:
 
-    s "叶... 尔,他甚至对我说 草药T -EHE是 -sh mak -ching,wha'a a shel -bishjer -ksh。"
-
+    s "是啊，他甚至都没让我尝他调的草药茶，真是个自私的混蛋。"
 translate schinese_rewrite Sebas_Night_Out_3f7741bc:
 
     s "我... 我... 我... 我... 我... 我..."
@@ -1995,7 +1991,7 @@ translate schinese_rewrite Sebas_Night_Out_64b43af2:
 
 translate schinese_rewrite Sebas_Night_Out_e2a6e272:
 
-    "一种新想法出现在你的脑海中, 它可能实际上帮助 欧勒和哈斯凯尔。"
+    "一种新想法出现在你的脑海中, 它可能实际上帮助 奥利和哈斯凯尔。"
 
 translate schinese_rewrite Sebas_Night_Out_1bfef146:
 
@@ -2159,7 +2155,7 @@ translate schinese_rewrite Sebas_Night_Out_7235e8d8:
 
 translate schinese_rewrite Sebas_Night_Out_e9bf51d8:
 
-    s "总之,我们两个都安顿在卢斯特菲尔德 之后他的事情, 和事情是, 我们已经住在一起 10年了, 我看见他就像一个家庭一样。"
+    s "总之,我们两个都安顿在乐斯民菲尔德 之后他的事情, 和事情是, 我们已经住在一起 10年了, 我看见他就像一个家庭一样。"
 
 translate schinese_rewrite Sebas_Night_Out_60d8a7c4:
 
@@ -2259,7 +2255,7 @@ translate schinese_rewrite Sebas_Night_Out_5900b8f6:
 
 translate schinese_rewrite Sebas_Night_Out_5c2e3c26:
 
-    e "晚上好,洛特哈尔,很高兴在酒馆见到你 你想加入我们吗?"
+    e "晚上好,洛萨尔,很高兴在酒馆见到你 你想加入我们吗?"
 
 translate schinese_rewrite Sebas_Night_Out_f55f4763:
 
@@ -2267,7 +2263,7 @@ translate schinese_rewrite Sebas_Night_Out_f55f4763:
 
 translate schinese_rewrite Sebas_Night_Out_cf610db7:
 
-    l "我不得不说,除了是卢斯特菲尔德的英雄,我也是酒馆游戏的大师。"
+    l "我不得不说,除了是乐斯民菲尔德的英雄,我也是酒馆游戏的大师。"
 
 translate schinese_rewrite Sebas_Night_Out_3a54cc08:
 
@@ -2275,11 +2271,11 @@ translate schinese_rewrite Sebas_Night_Out_3a54cc08:
 
 translate schinese_rewrite Sebas_Night_Out_afd579d2:
 
-    s "从肯恩租来的磁盘只够我们三个人用。"
+    s "从凯恩租来的磁盘只够我们三个人用。"
 
 translate schinese_rewrite Sebas_Night_Out_36b5b3ad:
 
-    o "我们可以从肯恩那里多买几条 很便宜的"
+    o "我们可以从凯恩那里多买几条 很便宜的"
 
 translate schinese_rewrite Sebas_Night_Out_853fc61d:
 
@@ -2307,7 +2303,7 @@ translate schinese_rewrite Sebas_Night_Out_93e5e115:
 
 translate schinese_rewrite Sebas_Night_Out_2a86b4c3:
 
-    s "我不是在玩你的蠢游戏,洛萨。"
+    s "我不是在玩你的蠢游戏,洛萨尔。"
 
 translate schinese_rewrite Sebas_Night_Out_1729c931:
 
@@ -2331,7 +2327,7 @@ translate schinese_rewrite Sebas_Night_Out_da69e409:
 
 translate schinese_rewrite Sebas_Night_Out_7423e89c:
 
-    e "洛塔尔 他目标准准 可能吧。"
+    e "洛萨尔 他目标准准 可能吧。"
 
 translate schinese_rewrite Sebas_Night_Out_31773f76:
 
@@ -2343,7 +2339,7 @@ translate schinese_rewrite Sebas_Night_Out_d59b127a:
 
 translate schinese_rewrite Sebas_Night_Out_641aad9c:
 
-    "塞巴斯在步行到肯恩并带着一些磁盘返回时离开。"
+    "塞巴斯在步行到凯恩并带着一些磁盘返回时离开。"
 
 translate schinese_rewrite Sebas_Night_Out_94de00ed:
 
@@ -2379,7 +2375,7 @@ translate schinese_rewrite Sebas_Night_Out_78d52e56:
 
 translate schinese_rewrite Sebas_Night_Out_3a2d9eb5:
 
-    "洛塔尔看起来不像你想的那么生气,相反他看起来..."
+    "洛萨尔看起来不像你想的那么生气,相反他看起来..."
 
 translate schinese_rewrite Sebas_Night_Out_affd37a6:
 
@@ -2387,7 +2383,7 @@ translate schinese_rewrite Sebas_Night_Out_affd37a6:
 
 translate schinese_rewrite Sebas_Night_Out_071b8a71:
 
-    o "待在这里,洛萨,我给你你的磁盘。"
+    o "待在这里,洛萨尔,我给你你的磁盘。"
 
 translate schinese_rewrite Sebas_Night_Out_32233a39:
 
@@ -2399,11 +2395,11 @@ translate schinese_rewrite Sebas_Night_Out_7ad3dd54:
 
 translate schinese_rewrite Sebas_Night_Out_93bdcb28:
 
-    "当奥勒走向柜台时 洛塔尔站在你和塞巴斯之间的一个怪姿势上。"
+    "当奥勒走向柜台时 洛萨尔站在你和塞巴斯之间的一个怪姿势上。"
 
 translate schinese_rewrite Sebas_Night_Out_94f33275:
 
-    "塞巴斯看着你,洛特哈尔只是默默地盯着你看 你甚至不知道你是如何进入这个位置的。"
+    "塞巴斯看着你,洛萨尔只是默默地盯着你看 你甚至不知道你是如何进入这个位置的。"
 
 translate schinese_rewrite Sebas_Night_Out_cfebc4df:
 
@@ -2411,7 +2407,7 @@ translate schinese_rewrite Sebas_Night_Out_cfebc4df:
 
 translate schinese_rewrite Sebas_Night_Out_ebe08bff:
 
-    "欧勒带了几张彩色的盘子来的时候,你以为停了一下吗?他先拿一些给狼,然后再拿一些给自己。"
+    "奥利带了几张彩色的盘子来的时候,你以为停了一下吗?他先拿一些给狼,然后再拿一些给自己。"
 
 translate schinese_rewrite Sebas_Night_Out_3a4dc32e:
 
@@ -2431,7 +2427,7 @@ translate schinese_rewrite Sebas_Night_Out_3ac6429a:
 
 translate schinese_rewrite Sebas_Night_Out_f9d1612d:
 
-    "你站在对争吵的对对之间, 尴尬地站了起来, 欧勒手你 和塞巴斯每三个磁盘。"
+    "你站在对争吵的对对之间, 尴尬地站了起来, 奥利手你 和塞巴斯每三个磁盘。"
 
 translate schinese_rewrite Sebas_Night_Out_f4e43177:
 
@@ -2447,8 +2443,7 @@ translate schinese_rewrite Sebas_Night_Out_83592bdf:
 
 translate schinese_rewrite Sebas_Night_Out_dde4f362:
 
-    o "除了目标之外,你还需要有足够的{color=#d1e431}Strength{/color}来击倒它们。 当然,{color=#d1e431}Alivious{/color}肯定能帮助你更好地瞄准目标。"
-
+    o "嗯，除了瞄准，你还需要足够的{color=#d1e431}力量{/color}才能把它们击倒。当然，{color=#d1e431}敏捷{/color}也肯定能让你瞄得更准。"
 translate schinese_rewrite Sebas_Night_Out_5d1560c0:
 
     o "从任何位置开始 扔掉磁盘 看看能不能靠近公牛的眼睛。"
@@ -2463,7 +2458,7 @@ translate schinese_rewrite Sebas_Night_Out_5e402f5e:
 
 translate schinese_rewrite Sebas_Night_Out_d7f3f7b5:
 
-    o "我先走,下一个是洛萨,[e]是第三个,塞巴斯是最后一个。"
+    o "我先走,下一个是洛萨尔,[e]是第三个,塞巴斯是最后一个。"
 
 translate schinese_rewrite Sebas_Night_Out_8d288ac4:
 
@@ -2471,7 +2466,7 @@ translate schinese_rewrite Sebas_Night_Out_8d288ac4:
 
 translate schinese_rewrite Sebas_Night_Out_fef43b66:
 
-    "比赛结束了 塞巴斯和洛特哈尔喝完最后一口啤酒。"
+    "比赛结束了 塞巴斯和洛萨尔喝完最后一口啤酒。"
 
 translate schinese_rewrite Sebas_Night_Out_239da954:
 
@@ -2491,7 +2486,7 @@ translate schinese_rewrite Sebas_Night_Out_f3ae1574:
 
 translate schinese_rewrite Sebas_Night_Out_63329c07:
 
-    o "Ehrem,你说的对,[winnerScore]分的洛萨赢了比赛。"
+    o "Ehrem,你说的对,[winnerScore]分的洛萨尔赢了比赛。"
 
 translate schinese_rewrite Sebas_Night_Out_31835e28:
 
@@ -2559,7 +2554,7 @@ translate schinese_rewrite Sebas_Night_Out_d554f216:
 
 translate schinese_rewrite Sebas_Night_Out_ed0637d0:
 
-    "洛塔尔动摇了塞巴斯的肩膀, 他仍然在舔 啤酒泡沫 从显然空的杯子。"
+    "洛萨尔动摇了塞巴斯的肩膀, 他仍然在舔 啤酒泡沫 从显然空的杯子。"
 
 translate schinese_rewrite Sebas_Night_Out_b8ec32b7:
 
@@ -2567,8 +2562,7 @@ translate schinese_rewrite Sebas_Night_Out_b8ec32b7:
 
 translate schinese_rewrite Sebas_Night_Out_ba837cd5:
 
-    o "The second place is [fstrunner] 和 [fstrunnerScore] score."
-
+    o "第二名是[fstrunner]，得分[fstrunnerScore]。"
 translate schinese_rewrite Sebas_Night_Out_eefa8452:
 
     l "至少我比这只蠢狮子还厉害。"
@@ -2583,7 +2577,7 @@ translate schinese_rewrite Sebas_Night_Out_6188cf18:
 
 translate schinese_rewrite Sebas_Night_Out_4e9d0473:
 
-    "洛特哈尔再次转向醉狮 当他倒塌时 晕倒在地上。"
+    "洛萨尔再次转向醉狮 当他倒塌时 晕倒在地上。"
 
 translate schinese_rewrite Sebas_Night_Out_0dee1666:
 
@@ -2615,7 +2609,7 @@ translate schinese_rewrite Sebas_Night_Out_18f985a3:
 
 translate schinese_rewrite Sebas_Night_Out_046062c3:
 
-    e "你在干什么,洛萨?"
+    e "你在干什么,洛萨尔?"
 
 translate schinese_rewrite Sebas_Night_Out_aecaf94c:
 
@@ -2623,11 +2617,11 @@ translate schinese_rewrite Sebas_Night_Out_aecaf94c:
 
 translate schinese_rewrite Sebas_Night_Out_22d875df:
 
-    "洛塔尔从奥勒手里拿了笔 他坐在塞巴斯胸前 离塞巴斯的脸非常近。"
+    "洛萨尔从奥勒手里拿了笔 他坐在塞巴斯胸前 离塞巴斯的脸非常近。"
 
 translate schinese_rewrite Sebas_Night_Out_cb164bd2:
 
-    "他没有狡猾 他也不害怕塞巴斯醒来 洛塔尔开始用黑墨墨涂抹塞巴斯的橙色毛。"
+    "他没有狡猾 他也不害怕塞巴斯醒来 洛萨尔开始用黑墨墨涂抹塞巴斯的橙色毛。"
 
 translate schinese_rewrite Sebas_Night_Out_09c75d17:
 
@@ -2635,15 +2629,15 @@ translate schinese_rewrite Sebas_Night_Out_09c75d17:
 
 translate schinese_rewrite Sebas_Night_Out_b64cb21c:
 
-    "从洛特哈尔后面看,你可以看到 一只鸡鸡形的涂鸦 被危险地拉到狮子嘴边。"
+    "从洛萨尔后面看,你可以看到 一只鸡鸡形的涂鸦 被危险地拉到狮子嘴边。"
 
 translate schinese_rewrite Sebas_Night_Out_794da077:
 
-    "从远处看,欧勒似乎和你和奥勒一起笑,因为他盯着洛塔尔的书写。"
+    "从远处看,奥利似乎和你和奥勒一起笑,因为他盯着洛萨尔的书写。"
 
 translate schinese_rewrite Sebas_Night_Out_f216c6f4:
 
-    "洛萨在井底打结。"
+    "洛萨尔在井底打结。"
 
 translate schinese_rewrite Sebas_Night_Out_48ca783a:
 
@@ -2659,7 +2653,7 @@ translate schinese_rewrite Sebas_Night_Out_04ac6c56:
 
 translate schinese_rewrite Sebas_Night_Out_45659dcd:
 
-    "洛塔尔站起来,把笔还给奥勒,他看着你们俩,不知道你们都盯着他裤带的轻微肿胀。"
+    "洛萨尔站起来,把笔还给奥勒,他看着你们俩,不知道你们都盯着他裤带的轻微肿胀。"
 
 translate schinese_rewrite Sebas_Night_Out_20cf17cc:
 
@@ -2675,7 +2669,7 @@ translate schinese_rewrite Sebas_Night_Out_a4d3a316:
 
 translate schinese_rewrite Sebas_Night_Out_fc590117:
 
-    "塞巴斯翻转和拖着洛萨的腿,流口水在他的皮鞋上。"
+    "塞巴斯翻转和拖着洛萨尔的腿,流口水在他的皮鞋上。"
 
 translate schinese_rewrite Sebas_Night_Out_934e1724:
 
@@ -2683,7 +2677,7 @@ translate schinese_rewrite Sebas_Night_Out_934e1724:
 
 translate schinese_rewrite Sebas_Night_Out_43528d6f:
 
-    "洛塔尔把他的注意力转向你。"
+    "洛萨尔把他的注意力转向你。"
 
 translate schinese_rewrite Sebas_Night_Out_2d87b042:
 
@@ -2691,7 +2685,7 @@ translate schinese_rewrite Sebas_Night_Out_2d87b042:
 
 translate schinese_rewrite Sebas_Night_Out_95b4b8f4:
 
-    e "你的脸脸还是红的,洛萨。"
+    e "你的脸脸还是红的,洛萨尔。"
 
 translate schinese_rewrite Sebas_Night_Out_ddab4664:
 
@@ -2703,7 +2697,7 @@ translate schinese_rewrite Sebas_Night_Out_13be631e:
 
 translate schinese_rewrite Sebas_Night_Out_fe390d70:
 
-    "洛萨奇迪斯,他指向你的方向。"
+    "洛萨尔奇迪斯,他指向你的方向。"
 
 translate schinese_rewrite Sebas_Night_Out_904e3637:
 
@@ -2723,11 +2717,11 @@ translate schinese_rewrite Sebas_Night_Out_e2d8abfa:
 
 translate schinese_rewrite Sebas_Night_Out_1be2aaff:
 
-    "你们和欧勒点头对着对方,欧勒就开始在塞巴斯拉拖船。"
+    "你们和奥利点头对着对方,奥利就开始在塞巴斯拉拖船。"
 
 translate schinese_rewrite Sebas_Night_Out_1431c8b4:
 
-    "洛塔尔带你到柜台 在酒馆的保管人面前。"
+    "洛萨尔带你到柜台 在酒馆的保管人面前。"
 
 translate schinese_rewrite Sebas_Night_Out_2ebbdd22:
 
@@ -2735,7 +2729,7 @@ translate schinese_rewrite Sebas_Night_Out_2ebbdd22:
 
 translate schinese_rewrite Sebas_Night_Out_c3bb79f4:
 
-    e "欧莱要带塞布回家 他喝醉了。"
+    e "奥利要带塞布回家 他喝醉了。"
 
 translate schinese_rewrite Sebas_Night_Out_348142a4:
 
@@ -2751,7 +2745,7 @@ translate schinese_rewrite Sebas_Night_Out_acbbb770:
 
 translate schinese_rewrite Sebas_Night_Out_7976d7a7:
 
-    "肯恩很快让你们俩单独待着 喝几杯啤酒。"
+    "凯恩很快让你们俩单独待着 喝几杯啤酒。"
 
 translate schinese_rewrite Sebas_Night_Out_259f3a9f:
 
@@ -2771,7 +2765,7 @@ translate schinese_rewrite Sebas_Night_Out_f2409aac:
 
 translate schinese_rewrite Sebas_Night_Out_17475449:
 
-    l "安布尔和乔格今天把我丢下去农场巡逻。"
+    l "安布和乔格今天把我丢下去农场巡逻。"
 
 translate schinese_rewrite Sebas_Night_Out_410cdcaf:
 
@@ -2787,11 +2781,11 @@ translate schinese_rewrite Sebas_Night_Out_621e532c:
 
 translate schinese_rewrite Sebas_Night_Out_0ad0c196:
 
-    "不管怎么说,洛塔尔又开始和你说话了,告诉你他今天或昨天做了什么。它很快地变成了一个不停的谈话。"
+    "不管怎么说,洛萨尔又开始和你说话了,告诉你他今天或昨天做了什么。它很快地变成了一个不停的谈话。"
 
 translate schinese_rewrite Sebas_Night_Out_acd041da:
 
-    "通常,你们在互相回应之前先暂停几秒钟。 但与以往不同,洛塔尔听起来从来不过于自信,也不自信心。"
+    "通常,你们在互相回应之前先暂停几秒钟。 但与以往不同,洛萨尔听起来从来不过于自信,也不自信心。"
 
 translate schinese_rewrite Sebas_Night_Out_22600c37:
 
@@ -2807,7 +2801,7 @@ translate schinese_rewrite Sebas_Night_Out_0063f949:
 
 translate schinese_rewrite Sebas_Night_Out_067c9e6d:
 
-    "有时你笑他和乔格 如何在他不注意的情况下 和安布尔乱搞。"
+    "有时你笑他和乔格 如何在他不注意的情况下 和安布乱搞。"
 
 translate schinese_rewrite Sebas_Night_Out_0f4a76f9:
 
@@ -2815,11 +2809,11 @@ translate schinese_rewrite Sebas_Night_Out_0f4a76f9:
 
 translate schinese_rewrite Sebas_Night_Out_05fb091f:
 
-    "最重要的是,你知道洛塔尔是谁。"
+    "最重要的是,你知道洛萨尔是谁。"
 
 translate schinese_rewrite Sebas_Night_Out_69212834:
 
-    "你想和洛特哈尔谈一整晚,但有时你会感觉到眼皮下垂。你靠在柜台上,头躺在你的手臂上。"
+    "你想和洛萨尔谈一整晚,但有时你会感觉到眼皮下垂。你靠在柜台上,头躺在你的手臂上。"
 
 translate schinese_rewrite Sebas_Night_Out_a5d7011c:
 
@@ -2835,7 +2829,7 @@ translate schinese_rewrite Sebas_Night_Out_8382d080:
 
 translate schinese_rewrite Sebas_Night_Out_ca02055e:
 
-    "看来洛塔尔跟你不近..."
+    "看来洛萨尔跟你不近..."
 
 translate schinese_rewrite Sebas_Night_Out_25df6518:
 
@@ -2859,7 +2853,7 @@ translate schinese_rewrite Sebas_Night_Out_6c439456:
 
 translate schinese_rewrite Sebas_Night_Out_e6cb3461:
 
-    "你们两个点头对着洛特哈尔 当他去柜台的时候。"
+    "你们两个点头对着洛萨尔 当他去柜台的时候。"
 
 translate schinese_rewrite Sebas_Night_Out_f459ebf9:
 
@@ -2907,11 +2901,11 @@ translate schinese_rewrite Sebas_Night_Out_2f3e3f28:
 
 translate schinese_rewrite Sebas_Night_Out_25f8e876:
 
-    e "我喜欢和你们一起度过时光 还有洛萨。"
+    e "我喜欢和你们一起度过时光 还有洛萨尔。"
 
 translate schinese_rewrite Sebas_Night_Out_12b903b4:
 
-    o "如果洛萨和Seb不总是吵架的话 更有趣了。"
+    o "如果洛萨尔和Seb不总是吵架的话 更有趣了。"
 
 translate schinese_rewrite Sebas_Night_Out_9de8cfee:
 
@@ -3095,7 +3089,7 @@ translate schinese_rewrite Sebas_Night_Out_975cb6cc:
 
 translate schinese_rewrite Ole_Night_Out_Chat_7801eb24:
 
-    e "我从洛萨学的,就像... 很多。"
+    e "我从洛萨尔学的,就像... 很多。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_52b3be0f:
 
@@ -3115,8 +3109,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_53abd1cc:
 
 translate schinese_rewrite Ole_Night_Out_Chat_b5455bdc:
 
-    s "我的 [e] here knows he's a fucking ass hat."
-
+    s "我身边的[e]知道他就是个混蛋。"
 translate schinese_rewrite Ole_Night_Out_Chat_ee6f5945:
 
     o "我还是不明白为什么你们两个这么迷恋你的坚果 如果你们两个..."
@@ -3155,11 +3148,11 @@ translate schinese_rewrite Ole_Night_Out_Chat_584030bd:
 
 translate schinese_rewrite Ole_Night_Out_Chat_d55a6a46:
 
-    "塞巴斯喝一小口啤酒 而欧勒四处看看。"
+    "塞巴斯喝一小口啤酒 而奥利四处看看。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_fa558e93:
 
-    e "我参加了乔格和安布尔的战斗训练... 很不错。"
+    e "我参加了乔格和安布的战斗训练... 很不错。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_b9c887e4:
 
@@ -3287,11 +3280,11 @@ translate schinese_rewrite Ole_Night_Out_Chat_cdb5c912:
 
 translate schinese_rewrite Ole_Night_Out_Chat_f3041ca8:
 
-    e "我开始给拉希姆缝些衣服。"
+    e "我开始给雷希姆缝些衣服。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_699027b5:
 
-    s "拉希姆让你处理他的委托人的命令 他甚至不让我碰他的东西。"
+    s "雷希姆让你处理他的委托人的命令 他甚至不让我碰他的东西。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_2e07906c:
 
@@ -3303,7 +3296,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_5ea21f5d:
 
 translate schinese_rewrite Ole_Night_Out_Chat_76d50a5d:
 
-    e "拉希姆知道Seb干的吗?"
+    e "雷希姆知道Seb干的吗?"
 
 translate schinese_rewrite Ole_Night_Out_Chat_1243c960:
 
@@ -3327,7 +3320,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_57f879b3:
 
 translate schinese_rewrite Ole_Night_Out_Chat_7e07b567:
 
-    s "[e]也和拉希姆联系了很久 你从那头暴躁的老公牛那里学到什么?"
+    s "[e]也和雷希姆联系了很久 你从那头暴躁的老公牛那里学到什么?"
 
 translate schinese_rewrite Ole_Night_Out_Chat_6368ac9a:
 
@@ -3343,7 +3336,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_32d71e63:
 
 translate schinese_rewrite Ole_Night_Out_Chat_a458edaf:
 
-    e "有时候我一直听他说话,只是随便讲故事 和拉希姆聊天很好。"
+    e "有时候我一直听他说话,只是随便讲故事 和雷希姆聊天很好。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_ac708b8f:
 
@@ -3351,7 +3344,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_ac708b8f:
 
 translate schinese_rewrite Ole_Night_Out_Chat_b6182e0e:
 
-    s "哦,是的,拉希姆不是那种 工作时说话的类型。"
+    s "哦,是的,雷希姆不是那种 工作时说话的类型。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_4765445e:
 
@@ -3363,11 +3356,11 @@ translate schinese_rewrite Ole_Night_Out_Chat_6888622b:
 
 translate schinese_rewrite Ole_Night_Out_Chat_ff82b56b:
 
-    o "他和肯恩相处得怎么样 我没抓到他们互相说话。"
+    o "他和凯恩相处得怎么样 我没抓到他们互相说话。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_286621e5:
 
-    e "我不知道,肯恩是道歉, 但拉希姆似乎反应不好。"
+    e "我不知道,凯恩是道歉, 但雷希姆似乎反应不好。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_3295847d:
 
@@ -3379,11 +3372,11 @@ translate schinese_rewrite Ole_Night_Out_Chat_828ebaa0:
 
 translate schinese_rewrite Ole_Night_Out_Chat_64eafa22:
 
-    "你突然记得他和肯恩上床时 是怎么表现的。"
+    "你突然记得他和凯恩上床时 是怎么表现的。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_cfdafb8a:
 
-    "塞巴斯这样谈论肯恩很奇怪 也许他们联系过很多?"
+    "塞巴斯这样谈论凯恩很奇怪 也许他们联系过很多?"
 
 translate schinese_rewrite Ole_Night_Out_Chat_2a2c1acf:
 
@@ -3415,7 +3408,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_78a329b8:
 
 translate schinese_rewrite Ole_Night_Out_Chat_29feb3b3:
 
-    "欧莱雅抬起他的眉毛,他们俩都在看着你,他们耐心地等你说话。"
+    "奥利雅抬起他的眉毛,他们俩都在看着你,他们耐心地等你说话。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_96acaba7:
 
@@ -3427,7 +3420,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_f543b8ae:
 
 translate schinese_rewrite Ole_Night_Out_Chat_b6ebbe1a:
 
-    e "我们拯救了他们的头领福坎 回到洞穴里。"
+    e "我们拯救了他们的头领弗坎 回到洞穴里。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_decac57e:
 
@@ -3439,7 +3432,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_c91a48c4:
 
 translate schinese_rewrite Ole_Night_Out_Chat_af18d600:
 
-    o "对于山羊头来说 福坎并不是最谨慎的类型。"
+    o "对于山羊头来说 弗坎并不是最谨慎的类型。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_dc3375fc:
 
@@ -3459,15 +3452,15 @@ translate schinese_rewrite Ole_Night_Out_Chat_72425165:
 
 translate schinese_rewrite Ole_Night_Out_Chat_54a2445f:
 
-    e "他们一直问我他们的领袖的事 卡莉威胁要把我压下去。"
+    e "他们一直问我他们的领袖的事 卡里威胁要把我压下去。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_e7b9a3df:
 
-    e "洛塔尔让我假装昏倒 但我得在他们抓住我之前反击。"
+    e "洛萨尔让我假装昏倒 但我得在他们抓住我之前反击。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_d4dba864:
 
-    o "洛塔尔?"
+    o "洛萨尔?"
 
 translate schinese_rewrite Ole_Night_Out_Chat_64eeacbb:
 
@@ -3495,7 +3488,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_65d12ab9:
 
 translate schinese_rewrite Ole_Night_Out_Chat_cb23ec1e:
 
-    e "我很抱歉我没有告诉奥利关于洛萨计划的真相。"
+    e "我很抱歉我没有告诉奥利关于洛萨尔计划的真相。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_a7485c07:
 
@@ -3515,7 +3508,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_b8602f24:
 
 translate schinese_rewrite Ole_Night_Out_Chat_be5a4843:
 
-    e "我在森林里遇到了将军 他在找富肯。"
+    e "我在森林里遇到了将军 他在找弗坎。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_059296d0:
 
@@ -3531,7 +3524,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_9b16b686:
 
 translate schinese_rewrite Ole_Night_Out_Chat_e9e10270:
 
-    s "福坎告诉你发生了什么吗?"
+    s "弗坎告诉你发生了什么吗?"
 
 translate schinese_rewrite Ole_Night_Out_Chat_fb2bc21f:
 
@@ -3539,11 +3532,11 @@ translate schinese_rewrite Ole_Night_Out_Chat_fb2bc21f:
 
 translate schinese_rewrite Ole_Night_Out_Chat_22607b19:
 
-    o "这已经是一个奇迹 富坎信任一个陌生人, 没有提到你住在卢斯特菲尔德。"
+    o "这已经是一个奇迹 富坎信任一个陌生人, 没有提到你住在乐斯民菲尔德。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_ea519abc:
 
-    o "洛塔尔确实告诉你 偷偷溜进部落 如果我记错的话。"
+    o "洛萨尔确实告诉你 偷偷溜进部落 如果我记错的话。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_014817f4:
 
@@ -3575,7 +3568,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_6479f1ee:
 
 translate schinese_rewrite Ole_Night_Out_Chat_5641ec6c:
 
-    e "我相信洛塔尔只是认为他们很危险 当他知道更多的时候 他会清醒过来的。"
+    e "我相信洛萨尔只是认为他们很危险 当他知道更多的时候 他会清醒过来的。"
 
 translate schinese_rewrite Ole_Night_Out_Chat_83a20941:
 
@@ -3727,7 +3720,7 @@ translate schinese_rewrite Sebas_Ask_Goat_Tribe_c95a4a5a:
 
 translate schinese_rewrite Sebas_Ask_Goat_Tribe_1801f85c:
 
-    s "哦,是的,我听说过 关于那封信, 我想拉希姆来 并问我们之后。"
+    s "哦,是的,我听说过 关于那封信, 我想雷希姆来 并问我们之后。"
 
 translate schinese_rewrite Sebas_Ask_Goat_Tribe_7e9688db:
 
@@ -3991,7 +3984,7 @@ translate schinese_rewrite Sebas_Postal_Report_9622e0b7:
 
 translate schinese_rewrite Sebas_Postal_Report_316a7cee:
 
-    s "不客气 现在我得让欧勒知道这些石头。"
+    s "不客气 现在我得让奥利知道这些石头。"
 
 translate schinese_rewrite Sebas_Postal_Report_5a9e5564:
 
@@ -4079,7 +4072,7 @@ translate schinese_rewrite Sebas_Postal_Training_a75d477d:
 
 translate schinese_rewrite Sebas_Postal_Training_213c17c3:
 
-    s "欧莱要我教你远征,我会很简短的。"
+    s "奥利要我教你远征,我会很简短的。"
 
 translate schinese_rewrite Sebas_Postal_Training_ff381eab:
 
@@ -4107,7 +4100,7 @@ translate schinese_rewrite Sebas_Postal_Training_82f041a2:
 
 translate schinese_rewrite Sebas_Postal_Training_581d6ffb:
 
-    s "它会显示你目前探索过的位置 如果你没有偷偷离开村子 现在它只会显示卢斯特菲尔德和绿林。"
+    s "它会显示你目前探索过的位置 如果你没有偷偷离开村子 现在它只会显示乐斯民菲尔德和绿林。"
 
 translate schinese_rewrite Sebas_Postal_Training_fe80cd9f:
 
@@ -4279,7 +4272,7 @@ translate schinese_rewrite Sebas_Expedition_e69bb7e0:
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_54885e9f:
 
-    e "你能告诉我更多关于卢斯特菲尔德的事吗?"
+    e "你能告诉我更多关于乐斯民菲尔德的事吗?"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_43680178:
 
@@ -4307,7 +4300,7 @@ translate schinese_rewrite Sebas_Ask_Lusterfield_People_92a4cff3:
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_e9650e99:
 
-    s "如果你坚持的话 你可以去拉希姆的店里看看 我敢肯定他一定会很高兴和你谈谈 只要你不违反他的任何规则。"
+    s "如果你坚持的话 你可以去雷希姆的店里看看 我敢肯定他一定会很高兴和你谈谈 只要你不违反他的任何规则。"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_6055333d:
 
@@ -4335,11 +4328,11 @@ translate schinese_rewrite Sebas_Ask_Lusterfield_People_5b03cff7:
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_2073e362:
 
-    s "如果你以后再见到他 告诉他塞巴斯是卢斯特菲尔德最厉害的拳头 他应该小心自己的坚果。"
+    s "如果你以后再见到他 告诉他塞巴斯是乐斯民菲尔德最厉害的拳头 他应该小心自己的坚果。"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_85e86bb4:
 
-    s "你可以去拉希姆家附近的客栈。"
+    s "你可以去雷希姆家附近的客栈。"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_People_81551c7a:
 
@@ -4419,7 +4412,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_e2a30109:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_40910768:
 
-    s "哈哈,我欠好老欧莱一个大忙 所以,我来了,和我最喜欢的室友出去。"
+    s "哈哈,我欠好老奥利一个大忙 所以,我来了,和我最喜欢的室友出去。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_ed8ed017:
 
@@ -4435,7 +4428,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_9c2694db:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_fa3626e6:
 
-    s "我认为洛萨... 是的,他就在那里。"
+    s "我认为洛萨尔... 是的,他就在那里。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_a0d76f46:
 
@@ -4447,7 +4440,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_c281f71b:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_7c53f79d:
 
-    e "Lottar,你感觉好吗?"
+    e "洛萨尔,你感觉好吗?"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_2143477d:
 
@@ -4475,11 +4468,11 @@ translate schinese_rewrite Sebas_Lothar_Adventure_d64ded9d:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_fa3626e6_1:
 
-    s "我认为洛萨... 是的,他就在那里。"
+    s "我认为洛萨尔... 是的,他就在那里。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_4cfbfdfa:
 
-    l "我在这里,卢斯特菲尔德的英雄,神话,勒奇..."
+    l "我在这里,乐斯民菲尔德的英雄,神话,勒奇..."
 
 translate schinese_rewrite Sebas_Lothar_Adventure_7fdbb1b2:
 
@@ -4487,7 +4480,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_7fdbb1b2:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_f34f5654:
 
-    e "呃,你怎么样洛萨?"
+    e "呃,你怎么样洛萨尔?"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_732d2508:
 
@@ -4499,7 +4492,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_86ca7079:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_bc738f13:
 
-    s "仔细看,洛萨,你不知道什么时候会报答,也许不是昨天,但是如果你继续说的话,今天肯定不会。"
+    s "仔细看,洛萨尔,你不知道什么时候会报答,也许不是昨天,但是如果你继续说的话,今天肯定不会。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_d64ded9d_1:
 
@@ -4519,7 +4512,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_6bfa80dd:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_687a2434:
 
-    e "嘿,洛萨,你在哪里找到那块石头的?"
+    e "嘿,洛萨尔,你在哪里找到那块石头的?"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_f07dfb58:
 
@@ -4603,7 +4596,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_ca49f6c2:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_c9891949:
 
-    "塞巴斯和洛塔尔继续争论一段时间。"
+    "塞巴斯和洛萨尔继续争论一段时间。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_04c95e82:
 
@@ -4615,7 +4608,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_fa1173b2:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_7ddafa91:
 
-    s "我会收集水样和洛特哈尔 如果有类似岩石的话。"
+    s "我会收集水样和洛萨尔 如果有类似岩石的话。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_ee6de3bd:
 
@@ -4639,15 +4632,15 @@ translate schinese_rewrite Sebas_Lothar_Adventure_4c43ac1b:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_b35ddf5a:
 
-    "塞巴斯和洛塔尔走相反的方向, 你看着他们的背 之前,他们消失 从你的视野领域。"
+    "塞巴斯和洛萨尔走相反的方向, 你看着他们的背 之前,他们消失 从你的视野领域。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_72cd4c94:
 
-    "你坐在那里,等着塞巴斯和洛塔尔回来。"
+    "你坐在那里,等着塞巴斯和洛萨尔回来。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_26c05388:
 
-    "为了消磨时间,你开始做白日梦 说和塞巴斯或者洛特哈尔在房间里。"
+    "为了消磨时间,你开始做白日梦 说和塞巴斯或者洛萨尔在房间里。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_aa67a1da:
 
@@ -4667,7 +4660,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_5696f3ed:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_2e70013c:
 
-    e "我应该... 进一步调查,还是留下来 直到塞巴斯和洛塔尔回来?" nointeract
+    e "我应该... 进一步调查,还是留下来 直到塞巴斯和洛萨尔回来?" nointeract
 
 translate schinese_rewrite Sebas_Lothar_Adventure_a99a1ed7:
 
@@ -4695,7 +4688,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_6401572a:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_c66fb423:
 
-    e "我真的该回去了 塞巴斯和洛塔尔可能已经回来了。"
+    e "我真的该回去了 塞巴斯和洛萨尔可能已经回来了。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_1691befa:
 
@@ -4707,11 +4700,11 @@ translate schinese_rewrite Sebas_Lothar_Adventure_6a38af3b:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_6b932964:
 
-    "你爬回山上,等待塞巴斯和洛塔尔回来。"
+    "你爬回山上,等待塞巴斯和洛萨尔回来。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_2bb27b5f:
 
-    "你让自己相信 一定是风把你吹过来了 所以你就等着塞巴斯和洛塔尔回来。"
+    "你让自己相信 一定是风把你吹过来了 所以你就等着塞巴斯和洛萨尔回来。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_a20cefa7_1:
 
@@ -4735,7 +4728,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_2689c632:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_8285af27:
 
-    e "谢谢你的帮助,洛萨 但我想我能处理好自己。"
+    e "谢谢你的帮助,洛萨尔 但我想我能处理好自己。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_bf3d80d2:
 
@@ -4743,7 +4736,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_bf3d80d2:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_03691e81:
 
-    e "你说得对 洛萨 谢谢你救了我一命。"
+    e "你说得对 洛萨尔 谢谢你救了我一命。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_8db3fb9f:
 
@@ -4763,11 +4756,11 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_576265f8:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_bb959436:
 
-    e "你吓死我了,洛萨。"
+    e "你吓死我了,洛萨尔。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_7ed598ae:
 
-    "洛特哈尔出现在谷歌站的位置后面 看着落下的谷歌。"
+    "洛萨尔出现在谷歌站的位置后面 看着落下的谷歌。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_3a0ca304:
 
@@ -4799,7 +4792,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_d5e7b16d:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_4546f89d:
 
-    "你和洛萨等几分钟 塞巴斯回来。"
+    "你和洛萨尔等几分钟 塞巴斯回来。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_4b0c7302:
 
@@ -4815,7 +4808,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_0c8c311f:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_7d8d5ca6:
 
-    e "嘿,洛萨也帮了忙。"
+    e "嘿,洛萨尔也帮了忙。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_b51d8e01:
 
@@ -4887,7 +4880,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_b8a57d04:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_3ea0d516:
 
-    "你们三个回卢斯特菲尔德 塞巴斯和洛塔尔和往常一样在争吵。"
+    "你们三个回乐斯民菲尔德 塞巴斯和洛萨尔和往常一样在争吵。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_532527bf:
 
@@ -4935,7 +4928,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_a0a9af2e:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_c804e434:
 
-    "塞巴斯把金子拿给洛特哈尔 趁他把石头拿走 放在一个珍贵的盒子里。"
+    "塞巴斯把金子拿给洛萨尔 趁他把石头拿走 放在一个珍贵的盒子里。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_23a2ad3b:
 
@@ -4967,7 +4960,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_d7ad2fbf:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_a5beefa5:
 
-    s "是的,我待会见你,洛萨。"
+    s "是的,我待会见你,洛萨尔。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_dd9aa13f:
 
@@ -4975,7 +4968,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_dd9aa13f:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_39385698:
 
-    "洛萨点头 你们两个离开店铺。"
+    "洛萨尔点头 你们两个离开店铺。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_5e133033:
 
@@ -5011,7 +5004,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_96e6bfdd:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_f66377fb:
 
-    s "我的意思是,我今天大部分时间都很忙。我已经用我一年中唯一一天的休息时间 和你和洛萨约会了。"
+    s "我的意思是,我今天大部分时间都很忙。我已经用我一年中唯一一天的休息时间 和你和洛萨尔约会了。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_d80b560d:
 
@@ -5027,7 +5020,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_34609ea0:
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_77059830:
 
-    s "抱歉,伙计,我在店里太忙了 我用一年中唯一一天的假期跟你和洛萨约会。"
+    s "抱歉,伙计,我在店里太忙了 我用一年中唯一一天的假期跟你和洛萨尔约会。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_2805b6d9:
 
@@ -5071,7 +5064,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_e62911c6:
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_11916a45:
 
-    e "嘿,我看见你在这里的时候,我和洛塔尔... 在外面聊天。"
+    e "嘿,我看见你在这里的时候,我和洛萨尔... 在外面聊天。"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_6a8feff3:
 
@@ -5083,7 +5076,7 @@ translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_7e5be565:
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_0eecf8dd:
 
-    s "好吧,我当时在场,洛萨是个怪人 别误会我,他脑子不对劲。"
+    s "好吧,我当时在场,洛萨尔是个怪人 别误会我,他脑子不对劲。"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_aedfda95:
 
@@ -5115,7 +5108,7 @@ translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_9251c495:
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_ee9bf62a:
 
-    s "听着,我只是告诉你,那个洛塔尔人是个大恶霸 我只是不想让他给你惹麻烦。"
+    s "听着,我只是告诉你,那个洛萨尔人是个大恶霸 我只是不想让他给你惹麻烦。"
 
 translate schinese_rewrite Sebas_Ask_Lusterfield_Lothar_35005525:
 
@@ -5271,7 +5264,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_94acff4a:
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_c73d7c9d:
 
-    s "所以,拿着我的箱子, 把它们交给富肯。"
+    s "所以,拿着我的箱子, 把它们交给弗坎。"
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_a8bcbaf5:
 
@@ -5287,7 +5280,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_b0a7646d:
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_aab6b701:
 
-    e "那拉希姆呢 他似乎不欢迎山羊..."
+    e "那雷希姆呢 他似乎不欢迎山羊..."
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_1fcfa1ff:
 
@@ -5295,8 +5288,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_1fcfa1ff:
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_75894e31:
 
-    e "...Is he that easily charmed."
-
+    e "……他这么容易就被魅惑了吗。"
 translate schinese_rewrite Sebas_Ask_Transport_Task_6423db19:
 
     s "当然了 上次他给我50%%的报价 就在我看到我巨大的魅力两个小时后。"
@@ -5323,7 +5315,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_7115ea73:
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_8c2697f2:
 
-    s "不管怎么说,箱子,富肯跟我们有协议,所以..."
+    s "不管怎么说,箱子,弗坎跟我们有协议,所以..."
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_83461b27:
 
@@ -5335,7 +5327,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_73bf2586:
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_b767d2ed:
 
-    s "像拉希姆一样,但很无聊。"
+    s "像雷希姆一样,但很无聊。"
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_e955bf51:
 
@@ -5387,7 +5379,7 @@ translate schinese_rewrite Ole_dialogue_e0dbc7b6:
 
 translate schinese_rewrite Ole_dialogue_71de36ec:
 
-    e "哦,欧莱,我没想到你会在这里闲逛。"
+    e "哦,奥利,我没想到你会在这里闲逛。"
 
 translate schinese_rewrite Ole_dialogue_188d1815:
 
@@ -5399,7 +5391,7 @@ translate schinese_rewrite Ole_dialogue_eb1f2d15:
 
 translate schinese_rewrite Ole_dialogue_1fd3cab6:
 
-    e "你对肯恩感觉没问题吗?"
+    e "你对凯恩感觉没问题吗?"
 
 translate schinese_rewrite Ole_dialogue_03dc518a:
 
@@ -5407,7 +5399,7 @@ translate schinese_rewrite Ole_dialogue_03dc518a:
 
 translate schinese_rewrite Ole_dialogue_59f084c6:
 
-    o "我真的不知道为什么我... 不喜欢他,但拉希姆真的恨他一段时间。"
+    o "我真的不知道为什么我... 不喜欢他,但雷希姆真的恨他一段时间。"
 
 translate schinese_rewrite Ole_dialogue_a2389219:
 
@@ -5415,7 +5407,7 @@ translate schinese_rewrite Ole_dialogue_a2389219:
 
 translate schinese_rewrite Ole_dialogue_6c17abdb:
 
-    o "当然,如果拉希姆现在变了 也许我也应该变。"
+    o "当然,如果雷希姆现在变了 也许我也应该变。"
 
 translate schinese_rewrite Ole_dialogue_21a2846f:
 
@@ -5435,7 +5427,7 @@ translate schinese_rewrite Ole_dialogue_3388a208:
 
 translate schinese_rewrite Ole_dialogue_de6d4da4:
 
-    o "我将始终支持拉希姆的观点 我相信他的判断。"
+    o "我将始终支持雷希姆的观点 我相信他的判断。"
 
 translate schinese_rewrite Ole_dialogue_dbc31872:
 
@@ -5443,7 +5435,7 @@ translate schinese_rewrite Ole_dialogue_dbc31872:
 
 translate schinese_rewrite Ole_dialogue_2e4695c3:
 
-    e "奥利 你似乎很依赖拉希姆。"
+    e "奥利 你似乎很依赖雷希姆。"
 
 translate schinese_rewrite Ole_dialogue_bf0026fd:
 
@@ -5491,7 +5483,7 @@ translate schinese_rewrite Ole_dialogue_0842c711:
 
 translate schinese_rewrite Ole_dialogue_82c29b38:
 
-    o "肯恩应该真的考虑开个面包店 做个副行。"
+    o "凯恩应该真的考虑开个面包店 做个副行。"
 
 translate schinese_rewrite Ole_dialogue_750bd25d:
 
@@ -5503,7 +5495,7 @@ translate schinese_rewrite Ole_dialogue_0bfcf9a5:
 
 translate schinese_rewrite Ole_dialogue_5cbfc025:
 
-    o "他一进肯恩家就醉了 你会习惯他的胡言乱语。"
+    o "他一进凯恩家就醉了 你会习惯他的胡言乱语。"
 
 translate schinese_rewrite Ole_dialogue_92ed5e9b:
 
@@ -5583,7 +5575,7 @@ translate schinese_rewrite Ole_dialogue_64c2c56a:
 
 translate schinese_rewrite Ole_dialogue_620e4fc1:
 
-    e "愈合得很快,欧莱 多亏了你和塞巴斯。"
+    e "愈合得很快,奥利 多亏了你和塞巴斯。"
 
 translate schinese_rewrite Ole_dialogue_ddbec255:
 
@@ -5603,7 +5595,7 @@ translate schinese_rewrite Ole_dialogue_e4038ae9_1:
 
 translate schinese_rewrite Ole_dialogue_794f2559:
 
-    e "你好,欧莱!"
+    e "你好,奥利!"
 
 translate schinese_rewrite Ole_Normal_Talk_fe5fcc14:
 
@@ -5619,7 +5611,7 @@ translate schinese_rewrite Ole_Potion_Task_Start_86d35d30:
 
 translate schinese_rewrite Ole_Potion_Task_Start_4a31109a:
 
-    e "这次是什么,欧莱?"
+    e "这次是什么,奥利?"
 
 translate schinese_rewrite Ole_Potion_Task_Start_88a9b8cf:
 
@@ -5827,7 +5819,7 @@ translate schinese_rewrite Ole_Potion_Task_Start_a4dbfaef:
 
 translate schinese_rewrite Ole_Potion_Task_Start_c19126a0:
 
-    e "总之,我晚点再给你买新药剂,欧莱!"
+    e "总之,我晚点再给你买新药剂,奥利!"
 
 translate schinese_rewrite Ole_Potion_Task_Start_1139a388:
 
@@ -5839,7 +5831,7 @@ translate schinese_rewrite Ole_Potion_Task_Finish_48e35e9c:
 
 translate schinese_rewrite Ole_Potion_Task_Finish_e61503e2:
 
-    e "这是药剂,欧莱!"
+    e "这是药剂,奥利!"
 
 translate schinese_rewrite Ole_Potion_Task_Finish_b0a908f6:
 
@@ -5911,7 +5903,7 @@ translate schinese_rewrite Ole_Potion_Task_Finish_5603941c:
 
 translate schinese_rewrite Ole_Potion_Task_Finish_5e88ffdc:
 
-    e "问问洛塔尔吧 他会告诉你我最近训练有多辛苦。"
+    e "问问洛萨尔吧 他会告诉你我最近训练有多辛苦。"
 
 translate schinese_rewrite Ole_Potion_Task_Finish_4435e139:
 
@@ -6023,7 +6015,7 @@ translate schinese_rewrite Ole_Potion_Task_Finish_b7b451f0:
 
 translate schinese_rewrite Ole_Potion_Task_Finish_a8fd7b6b:
 
-    "很明显,这是一个临时地点,以便欧勒日后能够处理。"
+    "很明显,这是一个临时地点,以便奥利日后能够处理。"
 
 translate schinese_rewrite Ole_Potion_Task_Finish_e26dd0a4:
 
@@ -6051,7 +6043,7 @@ translate schinese_rewrite Ole_Potion_Task_Finish_fa074284:
 
 translate schinese_rewrite Ole_Report_Courier_Quest_2ff75fe8:
 
-    e "我回来了,从安布尔和约格回来的。"
+    e "我回来了,从安布和约格回来的。"
 
 translate schinese_rewrite Ole_Report_Courier_Quest_91ce38e2:
 
@@ -6151,11 +6143,11 @@ translate schinese_rewrite Ole_Ask_Courier_Quest_891842ed:
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_1009f460:
 
-    "当你转身离开,欧勒阻止你。"
+    "当你转身离开,奥利阻止你。"
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_673b6317:
 
-    o "等等 最终你必须冒险远离卢斯特菲尔德 完成你的快递工作。"
+    o "等等 最终你必须冒险远离乐斯民菲尔德 完成你的快递工作。"
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_6b69c486:
 
@@ -6175,7 +6167,7 @@ translate schinese_rewrite Ole_Ask_Courier_Quest_701bc39c:
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_a609a4e3:
 
-    o "你知道乔格和安布尔和你一样吗?"
+    o "你知道乔格和安布和你一样吗?"
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_6186867a:
 
@@ -6191,7 +6183,7 @@ translate schinese_rewrite Ole_Ask_Courier_Quest_991359e0:
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_489710b8:
 
-    o "至少,我敢肯定安布尔能帮上忙。"
+    o "至少,我敢肯定安布能帮上忙。"
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_747e8663:
 
@@ -6199,7 +6191,7 @@ translate schinese_rewrite Ole_Ask_Courier_Quest_747e8663:
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_52ec5b08:
 
-    o "你为什么不先问安布尔呢?"
+    o "你为什么不先问安布呢?"
 
 translate schinese_rewrite Ole_Ask_Courier_Quest_e889f33c:
 
@@ -6415,7 +6407,7 @@ translate schinese_rewrite Ole_Party_Quest_15986046:
 
 translate schinese_rewrite Ole_Party_Quest_793d2a58:
 
-    s "室友,到肯恩酒馆来见我们,我们到那里找你..."
+    s "室友,到凯恩酒馆来见我们,我们到那里找你..."
 
 translate schinese_rewrite Ole_Party_Quest_77071a39:
 
@@ -6447,7 +6439,7 @@ translate schinese_rewrite Ole_Ask_Ointment_Quest_340f6913:
 
 translate schinese_rewrite Ole_Ask_Ointment_Quest_22a27393:
 
-    o "当然,我根据拉希姆的建议设计了徽章 他肯定是一个很好的导师。"
+    o "当然,我根据雷希姆的建议设计了徽章 他肯定是一个很好的导师。"
 
 translate schinese_rewrite Ole_Ask_Ointment_Quest_51760586:
 
@@ -6671,7 +6663,7 @@ translate schinese_rewrite Ole_Ask_Cleaning_fea00386:
 
 translate schinese_rewrite Ole_Ask_Cleaning_eda85b29:
 
-    e "你真好,欧莱。"
+    e "你真好,奥利。"
 
 translate schinese_rewrite Ole_Ask_Cleaning_82f47773:
 
@@ -6711,8 +6703,7 @@ translate schinese_rewrite Ole_Ask_Under_Counter_ca730175:
 
 translate schinese_rewrite Ole_Ask_Under_Counter_24a72e17:
 
-    e "Did you happen to see-"
-
+    e "你有没有看见——"
 translate schinese_rewrite Ole_Ask_Under_Counter_354cf749:
 
     o "你和Seb?"
@@ -6779,7 +6770,7 @@ translate schinese_rewrite Ole_Ask_Goat_Tribe_a58e4d30:
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_628e0372:
 
-    o "拉希姆跟我说了你从福坎寄来的信 他不太满意。"
+    o "雷希姆跟我说了你从弗坎寄来的信 他不太满意。"
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_f82bd775:
 
@@ -6787,11 +6778,11 @@ translate schinese_rewrite Ole_Ask_Goat_Tribe_f82bd775:
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_cc5836ed:
 
-    o "我喜欢富肯 但我觉得我们不应该改变 一直以来为我们做的。"
+    o "我喜欢弗坎 但我觉得我们不应该改变 一直以来为我们做的。"
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_526eaa49:
 
-    o "我认为富肯在隐瞒什么 他们不会和我们和解 只是为了... 和我们和解。"
+    o "我认为弗坎在隐瞒什么 他们不会和我们和解 只是为了... 和我们和解。"
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_c78821a5:
 
@@ -6819,7 +6810,7 @@ translate schinese_rewrite Ole_Ask_Goat_Tribe_4ec69cf7:
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_85b3f143:
 
-    e "好吧,谢谢你这么多 跟我说话,欧莱。"
+    e "好吧,谢谢你这么多 跟我说话,奥利。"
 
 translate schinese_rewrite Ole_Ask_Goat_Tribe_e3b1e728:
 
@@ -6835,11 +6826,11 @@ translate schinese_rewrite Ole_Apron_Quest_1c0bba33:
 
 translate schinese_rewrite Ole_Apron_Quest_abddad47:
 
-    e "绿色戴伊,给肯恩的阿普隆。"
+    e "绿色戴伊,给凯恩的阿普隆。"
 
 translate schinese_rewrite Ole_Apron_Quest_d2accc70:
 
-    o "他的围裙,拉希姆告诉你食谱了吗?"
+    o "他的围裙,雷希姆告诉你食谱了吗?"
 
 translate schinese_rewrite Ole_Apron_Quest_63d1afe6:
 
@@ -6847,7 +6838,7 @@ translate schinese_rewrite Ole_Apron_Quest_63d1afe6:
 
 translate schinese_rewrite Ole_Apron_Quest_aaa75e4e:
 
-    o "真奇怪,我不记得拉希姆曾原谅过酒馆老板..."
+    o "真奇怪,我不记得雷希姆曾原谅过酒馆老板..."
 
 translate schinese_rewrite Ole_Apron_Quest_46e8b7c7:
 
@@ -6863,7 +6854,7 @@ translate schinese_rewrite Ole_Apron_Quest_832c0dec:
 
 translate schinese_rewrite Ole_Apron_Quest_b52c58ff:
 
-    o "嘿 拉希姆 我带了快递员。"
+    o "嘿 雷希姆 我带了快递员。"
 
 translate schinese_rewrite Ole_Apron_Quest_6318dac8:
 
@@ -6871,7 +6862,7 @@ translate schinese_rewrite Ole_Apron_Quest_6318dac8:
 
 translate schinese_rewrite Ole_Apron_Quest_45228c3c:
 
-    e "嗨,拉希姆,我刚刚告诉奥利 关于围裙..."
+    e "嗨,雷希姆,我刚刚告诉奥利 关于围裙..."
 
 translate schinese_rewrite Ole_Apron_Quest_aab08703:
 
@@ -6883,7 +6874,7 @@ translate schinese_rewrite Ole_Apron_Quest_3f7e6078:
 
 translate schinese_rewrite Ole_Apron_Quest_25b92775:
 
-    o "不,我只是问 为什么你突然帮肯恩?"
+    o "不,我只是问 为什么你突然帮凯恩?"
 
 translate schinese_rewrite Ole_Apron_Quest_ece37e0f:
 
@@ -6907,15 +6898,15 @@ translate schinese_rewrite Ole_Apron_Quest_4ebbc277:
 
 translate schinese_rewrite Ole_Apron_Quest_a1ac7451:
 
-    o "好吧 我现在明白了 我不会问太多问题 拉希姆 待会见。"
+    o "好吧 我现在明白了 我不会问太多问题 雷希姆 待会见。"
 
 translate schinese_rewrite Ole_Apron_Quest_739472a3:
 
-    r "小心欧勒,你就是[e]。"
+    r "小心奥利,你就是[e]。"
 
 translate schinese_rewrite Ole_Apron_Quest_de871dc5:
 
-    e "哦,再见,拉希姆。"
+    e "哦,再见,雷希姆。"
 
 translate schinese_rewrite Ole_Apron_Quest_fe8b913c:
 
@@ -6931,7 +6922,7 @@ translate schinese_rewrite Ole_Apron_Quest_c376806c:
 
 translate schinese_rewrite Ole_Apron_Quest_00b73ef3:
 
-    o "我相信拉希姆的判断,你一定是他最好的访客。"
+    o "我相信雷希姆的判断,你一定是他最好的访客。"
 
 translate schinese_rewrite Ole_Apron_Quest_f4817427:
 
@@ -6943,7 +6934,7 @@ translate schinese_rewrite Ole_Apron_Quest_510c0c91:
 
 translate schinese_rewrite Ole_Apron_Quest_03fdcfcf:
 
-    o "总之,我对肯恩没有强烈的意见,只是想确定拉希姆的决定。"
+    o "总之,我对凯恩没有强烈的意见,只是想确定雷希姆的决定。"
 
 translate schinese_rewrite Ole_Apron_Quest_09acb7f9:
 
@@ -6963,11 +6954,11 @@ translate schinese_rewrite Ole_Apron_Quest_1d0e5d7c:
 
 translate schinese_rewrite Ole_Apron_Quest_5c962a8a:
 
-    o "肯恩,酒馆老板。"
+    o "凯恩,酒馆老板。"
 
 translate schinese_rewrite Ole_Apron_Quest_ba1c90de:
 
-    o "你觉得我应该相信肯恩吗?"
+    o "你觉得我应该相信凯恩吗?"
 
 translate schinese_rewrite Ole_Apron_Quest_975eb737:
 
@@ -6979,11 +6970,11 @@ translate schinese_rewrite Ole_Apron_Quest_07f8aa5a:
 
 translate schinese_rewrite Ole_Apron_Quest_29253fb1:
 
-    o "很显然,我无法代表拉希姆说话,但是他现在够体面了吗?" nointeract
+    o "很显然,我无法代表雷希姆说话,但是他现在够体面了吗?" nointeract
 
 translate schinese_rewrite Ole_Apron_Quest_066f0381:
 
-    e "当然,肯恩不是坏人 我相信。"
+    e "当然,凯恩不是坏人 我相信。"
 
 translate schinese_rewrite Ole_Apron_Quest_78e45ebf:
 
@@ -7023,7 +7014,7 @@ translate schinese_rewrite Ole_Apron_Quest_839a80ec:
 
 translate schinese_rewrite Ole_Apron_Quest_7b25b8bd:
 
-    o "我不知道,但我知道你是怎么让拉希姆说话的,室友。"
+    o "我不知道,但我知道你是怎么让雷希姆说话的,室友。"
 
 translate schinese_rewrite Ole_Apron_Quest_00f995b4:
 
@@ -7035,7 +7026,7 @@ translate schinese_rewrite Ole_Apron_Quest_622571fc:
 
 translate schinese_rewrite Ole_Apron_Quest_26d5dce1:
 
-    e "多谢,欧莱。"
+    e "多谢,奥利。"
 
 translate schinese_rewrite Ole_Apron_Quest_ba31ebcc:
 
@@ -7251,7 +7242,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_c5411806:
 
 translate schinese_rewrite Ole_Sick_Quest_End_e13d19e3:
 
-    h "基本上,欧勒的肝脏系统已经断裂 所以他的体温太低了。"
+    h "基本上,奥利的肝脏系统已经断裂 所以他的体温太低了。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_f5cc532e:
 
@@ -7367,7 +7358,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_0f053794:
 
 translate schinese_rewrite Ole_Sick_Quest_End_a953052a:
 
-    h "药水会加热欧勒的身体 他会游荡。"
+    h "药水会加热奥利的身体 他会游荡。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_1a056d13:
 
@@ -7463,7 +7454,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_3645d750:
 
 translate schinese_rewrite Ole_Sick_Quest_End_1c1f3be3:
 
-    "突然间,欧勒呻吟声变得温和。"
+    "突然间,奥利呻吟声变得温和。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_15cca833:
 
@@ -7495,7 +7486,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_84d65944:
 
 translate schinese_rewrite Ole_Sick_Quest_End_cc843634:
 
-    "欧勒的胸肌表面是柔和的,但你可以感觉到下面的电动肌肉。"
+    "奥利的胸肌表面是柔和的,但你可以感觉到下面的电动肌肉。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_5b5cbdc2:
 
@@ -7619,7 +7610,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_d69e839b:
 
 translate schinese_rewrite Ole_Sick_Quest_End_0469a82e:
 
-    "你明白欧莱仍然是病人 不需要这种刺激。"
+    "你明白奥利仍然是病人 不需要这种刺激。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_0f121d59:
 
@@ -7631,11 +7622,11 @@ translate schinese_rewrite Ole_Sick_Quest_End_2ae92006:
 
 translate schinese_rewrite Ole_Sick_Quest_End_ca741f3b:
 
-    "你转过身来 看着欧莱 睁开眼睛看着你。"
+    "你转过身来 看着奥利 睁开眼睛看着你。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_3dd5f4e2:
 
-    e "欧莱,你醒了,感觉好点了吗?"
+    e "奥利,你醒了,感觉好点了吗?"
 
 translate schinese_rewrite Ole_Sick_Quest_End_7bd47cc4:
 
@@ -7851,7 +7842,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_d7bf05f9:
 
 translate schinese_rewrite Ole_Sick_Quest_End_d13f2f75:
 
-    "欧勒肯定不会经常说这些话 但话要花很长时间才能从他嘴里说出来。"
+    "奥利肯定不会经常说这些话 但话要花很长时间才能从他嘴里说出来。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_ece7d620:
 
@@ -7895,7 +7886,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_0f149ea1:
 
 translate schinese_rewrite Ole_Sick_Quest_End_498a6587:
 
-    "你抬头看,欧勒脸红得要命。"
+    "你抬头看,奥利脸红得要命。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_6d957eb3:
 
@@ -7999,7 +7990,7 @@ translate schinese_rewrite Ole_Sick_Quest_End_d60f1d6b:
 
 translate schinese_rewrite Ole_Sick_Quest_End_b5daebaf:
 
-    "那时,欧勒已经从施压中消失。"
+    "那时,奥利已经从施压中消失。"
 
 translate schinese_rewrite Ole_Sick_Quest_End_7546b0a6:
 
@@ -8023,7 +8014,7 @@ translate schinese_rewrite Ole_After_Sick_Quest_d80a28d2:
 
 translate schinese_rewrite Ole_After_Sick_Quest_41d55519:
 
-    e "别提了,欧莱。"
+    e "别提了,奥利。"
 
 translate schinese_rewrite Ole_After_Sick_Quest_cd2c52fd:
 
@@ -8155,7 +8146,7 @@ translate schinese_rewrite Ole_Ointment_Finish_d31652d0:
 
 translate schinese_rewrite Ole_Ointment_Finish_a68a1e17:
 
-    e "我明白了。非常感谢你,欧莱。"
+    e "我明白了。非常感谢你,奥利。"
 
 translate schinese_rewrite Ole_Ointment_Finish_bc6cac7c:
 
@@ -8187,11 +8178,11 @@ translate schinese_rewrite Ole_Postal_Finish_208e5430:
 
 translate schinese_rewrite Ole_Postal_Finish_c81b1808:
 
-    e "谢谢欧莱,你的训练很有用,我现在能应付一些冒险!"
+    e "谢谢奥利,你的训练很有用,我现在能应付一些冒险!"
 
 translate schinese_rewrite Ole_Postal_Finish_3c2f0ade:
 
-    o "告诉塞布、洛塔尔和拉希姆,他们很有帮助,不是吗?"
+    o "告诉塞布、洛萨尔和雷希姆,他们很有帮助,不是吗?"
 
 translate schinese_rewrite Ole_Postal_Finish_b7dae17b:
 
@@ -8207,7 +8198,7 @@ translate schinese_rewrite Ole_Postal_Finish_0701ac3f:
 
 translate schinese_rewrite Ole_Postal_Finish_a1889f96:
 
-    o "太好了,现在我给你一张荣誉徽章 鲁斯特菲尔德的骑士。"
+    o "太好了,现在我给你一张荣誉徽章 乐斯民菲尔德的骑士。"
 
 translate schinese_rewrite Ole_Postal_Finish_d68218ee:
 
@@ -8219,7 +8210,7 @@ translate schinese_rewrite Ole_Postal_Finish_0cfb9682:
 
 translate schinese_rewrite Ole_Postal_Finish_671750a5:
 
-    o "足够让人们知道你是卢斯特菲尔德的信使了。"
+    o "足够让人们知道你是乐斯民菲尔德的信使了。"
 
 translate schinese_rewrite Ole_Postal_Finish_5869fd5c:
 
@@ -8259,7 +8250,7 @@ translate schinese_rewrite Ole_Postal_Finish_e2808404:
 
 translate schinese_rewrite Ole_Ask_Kingspawn_0cb532a7:
 
-    e "嘿,欧莱,你和塞巴斯是怎么建造这间店的?"
+    e "嘿,奥利,你和塞巴斯是怎么建造这间店的?"
 
 translate schinese_rewrite Ole_Ask_Kingspawn_cd8d8401:
 
@@ -8311,7 +8302,7 @@ translate schinese_rewrite Ole_Postal_Training_771f7415:
 
 translate schinese_rewrite Ole_Postal_Training_5c96ca2c:
 
-    o "首先,我和洛塔尔谈过你 我想他可以给你一些基本的想法。"
+    o "首先,我和洛萨尔谈过你 我想他可以给你一些基本的想法。"
 
 translate schinese_rewrite Ole_Postal_Training_06092a45:
 
@@ -8319,7 +8310,7 @@ translate schinese_rewrite Ole_Postal_Training_06092a45:
 
 translate schinese_rewrite Ole_Postal_Training_7ac2cc18:
 
-    o "第三,只是拉希姆在谈论你的设备, 物品和自己做衣服。"
+    o "第三,只是雷希姆在谈论你的设备, 物品和自己做衣服。"
 
 translate schinese_rewrite Ole_Postal_Training_e58826b7:
 
@@ -8339,7 +8330,7 @@ translate schinese_rewrite Ole_Postal_Training_e6f1fc98:
 
 translate schinese_rewrite Ole_Postal_Training_6926132c:
 
-    o "两周后,他在去卢斯特菲尔德的路上 死在怪物身上。"
+    o "两周后,他在去乐斯民菲尔德的路上 死在怪物身上。"
 
 translate schinese_rewrite Ole_Postal_Training_2ffbd802:
 
@@ -8359,7 +8350,7 @@ translate schinese_rewrite Ole_Postal_Training_4c86e27f:
 
 translate schinese_rewrite Ole_Postal_Training_286af918:
 
-    e "我会的,欧莱。"
+    e "我会的,奥利。"
 
 translate schinese_rewrite Ole_Postal_Training_b729b5c2:
 
@@ -8367,7 +8358,7 @@ translate schinese_rewrite Ole_Postal_Training_b729b5c2:
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_69aa160d:
 
-    e "欧利,卢斯特菲尔德的人怎么样了?"
+    e "欧利,乐斯民菲尔德的人怎么样了?"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_888a705c:
 
@@ -8383,15 +8374,15 @@ translate schinese_rewrite Ole_Ask_Lusterfield_People_d6a721f9:
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_64a0a113:
 
-    o "如果你需要其他的非正式训练, 洛萨也在这里, 我相信你可以从他那里学到更多。"
+    o "如果你需要其他的非正式训练, 洛萨尔也在这里, 我相信你可以从他那里学到更多。"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_98da93a6:
 
-    o "我们有拉希姆,当然,我想他正在给你做皮革盔甲 用于旅行目的, 记得去拜访他,然后你开始你的小冒险。"
+    o "我们有雷希姆,当然,我想他正在给你做皮革盔甲 用于旅行目的, 记得去拜访他,然后你开始你的小冒险。"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_6dfb661e:
 
-    o "也许当你想喝点酒的时候 你总是可以从肯恩家买到。"
+    o "也许当你想喝点酒的时候 你总是可以从凯恩家买到。"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_8cdefce8:
 
@@ -8415,7 +8406,7 @@ translate schinese_rewrite Ole_Ask_Lusterfield_People_4ecf0254:
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_02158783:
 
-    o "问题是,如果你真的去肯恩家, 当你欠他们啤酒的钱的时候要小心。"
+    o "问题是,如果你真的去凯恩家, 当你欠他们啤酒的钱的时候要小心。"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_People_bdb05bc5:
 
@@ -8431,7 +8422,7 @@ translate schinese_rewrite Ole_Ask_Lusterfield_People_535d9ef0:
 
 translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_8d3ae7eb:
 
-    e "嘿,欧莱。"
+    e "嘿,奥利。"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_9c2edee2:
 
@@ -8439,7 +8430,7 @@ translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_9c2edee2:
 
 translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_77b81c63:
 
-    e "我真的需要去洛哈尔训练吗?"
+    e "我真的需要去洛萨尔训练吗?"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_3bce4d29:
 
@@ -8451,7 +8442,7 @@ translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_24d1cd83:
 
 translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_b36bbcc5:
 
-    o "内心深处,洛塔尔是个好人 他只是对新来者有某种怨恨。"
+    o "内心深处,洛萨尔是个好人 他只是对新来者有某种怨恨。"
 
 translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_5c9313d2:
 
@@ -8487,7 +8478,7 @@ translate schinese_rewrite Ole_Ask_Lusterfield_Lothar_5e33dede:
 
 translate schinese_rewrite Ole_Ask_Himself_e3545a54:
 
-    e "你好吗,欧莱?"
+    e "你好吗,奥利?"
 
 translate schinese_rewrite Ole_Ask_Himself_6e84c8b1:
 
@@ -8543,7 +8534,7 @@ translate schinese_rewrite Ole_Ask_Himself_f10698bf:
 
 translate schinese_rewrite Ole_Ask_Himself_d3bf9e72:
 
-    e "嘿,欧莱,你在干嘛?"
+    e "嘿,奥利,你在干嘛?"
 
 translate schinese_rewrite Ole_Ask_Himself_70019732:
 
@@ -8655,7 +8646,7 @@ translate schinese_rewrite Rahim_Dialogue_8217d26a:
 
 translate schinese_rewrite Rahim_Dialogue_a084cd8a:
 
-    e "我忘了穿上,拉希姆。"
+    e "我忘了穿上,雷希姆。"
 
 translate schinese_rewrite Rahim_Dialogue_20ec10e3:
 
@@ -8683,7 +8674,7 @@ translate schinese_rewrite Rahim_Dialogue_35fbbd56:
 
 translate schinese_rewrite Rahim_Dialogue_bd4531fa:
 
-    e "我很抱歉,拉希姆。"
+    e "我很抱歉,雷希姆。"
 
 translate schinese_rewrite Rahim_Dialogue_b9b755e5_1:
 
@@ -8703,7 +8694,7 @@ translate schinese_rewrite Rahim_Dialogue_6b86d57b:
 
 translate schinese_rewrite Rahim_Dialogue_1c86f3fc:
 
-    e "拉希姆,我们现在去市长家吗?"
+    e "雷希姆,我们现在去市长家吗?"
 
 translate schinese_rewrite Rahim_Dialogue_f4da4931:
 
@@ -8715,7 +8706,7 @@ translate schinese_rewrite Rahim_Dialogue_e43364e3:
 
 translate schinese_rewrite Rahim_Dialogue_4137825e:
 
-    e "是的。很高兴见到你,拉希姆。"
+    e "是的。很高兴见到你,雷希姆。"
 
 translate schinese_rewrite Rahim_Dialogue_982e3ddf:
 
@@ -8727,7 +8718,7 @@ translate schinese_rewrite Rahim_Dialogue_4d565392:
 
 translate schinese_rewrite Rahim_Dialogue_b3dcb561:
 
-    e "我很好,谢谢拉希姆。"
+    e "我很好,谢谢雷希姆。"
 
 translate schinese_rewrite Rahim_Normal_Talk_46758535:
 
@@ -8743,11 +8734,11 @@ translate schinese_rewrite Rahim_Ask_Lusterfield_6d945238:
 
 translate schinese_rewrite Rahim_Leather_Armor_a7079f96:
 
-    e "你好,拉希姆。"
+    e "你好,雷希姆。"
 
 translate schinese_rewrite Rahim_Leather_Armor_389fd835:
 
-    "拉希姆还在缝针 直到你的声音让他分心。"
+    "雷希姆还在缝针 直到你的声音让他分心。"
 
 translate schinese_rewrite Rahim_Leather_Armor_cc41dfbc:
 
@@ -8763,7 +8754,7 @@ translate schinese_rewrite Rahim_Leather_Armor_f5605e3d:
 
 translate schinese_rewrite Rahim_Leather_Armor_396aaabe:
 
-    e "非常感谢 拉希姆 是你量我的腰后做的吗?"
+    e "非常感谢 雷希姆 是你量我的腰后做的吗?"
 
 translate schinese_rewrite Rahim_Leather_Armor_bec3b4af:
 
@@ -8783,7 +8774,7 @@ translate schinese_rewrite Rahim_Leather_Armor_30ad8122:
 
 translate schinese_rewrite Rahim_Leather_Armor_91425277:
 
-    "拉希姆低头 眼睛盯着桌子上的衣物。"
+    "雷希姆低头 眼睛盯着桌子上的衣物。"
 
 translate schinese_rewrite Rahim_Leather_Armor_a2e55ebf:
 
@@ -8791,7 +8782,7 @@ translate schinese_rewrite Rahim_Leather_Armor_a2e55ebf:
 
 translate schinese_rewrite Rahim_Leather_Armor_1dbba092:
 
-    e "拉希姆?"
+    e "雷希姆?"
 
 translate schinese_rewrite Rahim_Leather_Armor_6b233620:
 
@@ -8811,7 +8802,7 @@ translate schinese_rewrite Rahim_Leather_Armor_8c2590b1:
 
 translate schinese_rewrite Rahim_Leather_Armor_dd4775af:
 
-    r "欢迎来到卢斯特菲尔德,[e]。"
+    r "欢迎来到乐斯民菲尔德,[e]。"
 
 translate schinese_rewrite Rahim_Leather_Armor_5ec8f54f:
 
@@ -8819,11 +8810,11 @@ translate schinese_rewrite Rahim_Leather_Armor_5ec8f54f:
 
 translate schinese_rewrite Rahim_Leather_Armor_b8536fa8:
 
-    "你拍着拉希姆的肩膀,让他有点颤抖。拉希姆一直盯着你,直到你终于离开他。"
+    "你拍着雷希姆的肩膀,让他有点颤抖。雷希姆一直盯着你,直到你终于离开他。"
 
 translate schinese_rewrite Rahim_Leather_Armor_d1f01bcf:
 
-    e "再见,拉希姆!"
+    e "再见,雷希姆!"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_c51008b6:
 
@@ -8831,7 +8822,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_c51008b6:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_ad1c0c07:
 
-    "拉希姆仰望着缝纫, 看着你, 看着你似乎 令人痛心的愤怒。"
+    "雷希姆仰望着缝纫, 看着你, 看着你似乎 令人痛心的愤怒。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_dbae1bc5:
 
@@ -8867,7 +8858,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_79a9feb1:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_eb42fce2:
 
-    "拉希姆给你一个弯曲点头,然后取出几根多彩布的螺栓。"
+    "雷希姆给你一个弯曲点头,然后取出几根多彩布的螺栓。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_48ed5ed2:
 
@@ -8919,7 +8910,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_277ce017:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_0e956ef6:
 
-    "拉希姆轻轻地打呼噜,闭上眼睛嘲笑他缺乏耐心。"
+    "雷希姆轻轻地打呼噜,闭上眼睛嘲笑他缺乏耐心。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_5cb2e20b:
 
@@ -8939,11 +8930,11 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_ed42017b:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_2fc36f0f:
 
-    e "不,我想我会转达的,谢谢你,拉希姆!"
+    e "不,我想我会转达的,谢谢你,雷希姆!"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_163aa3b9:
 
-    "尽管你在拉希姆找到狼之前 尽力溜出去 但当大喊大叫时 你就会停下来。"
+    "尽管你在雷希姆找到狼之前 尽力溜出去 但当大喊大叫时 你就会停下来。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_3d58e845:
 
@@ -8959,11 +8950,11 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_8f0dfdd8:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_24cb31ff:
 
-    e "对不起,拉希姆,我不是故意冲出去的。"
+    e "对不起,雷希姆,我不是故意冲出去的。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_540178a6:
 
-    "拉希姆又叹了口气 他脸上的表情令人痛心。"
+    "雷希姆又叹了口气 他脸上的表情令人痛心。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_b9907288:
 
@@ -8979,7 +8970,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_96e6bfdd:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_02146332:
 
-    "你只需要拉希姆脸上的细微表情 作为答案。"
+    "你只需要雷希姆脸上的细微表情 作为答案。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_5150d635:
 
@@ -8999,7 +8990,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_fb4e7776:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_92d2074b:
 
-    "拉希姆在说话的时候 掉了他拿给你的布的螺栓。"
+    "雷希姆在说话的时候 掉了他拿给你的布的螺栓。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_fba4a75a:
 
@@ -9007,15 +8998,15 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_fba4a75a:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_7fb54799:
 
-    "被拉希姆的严厉责备所折磨 你低头承认和道歉。"
+    "被雷希姆的严厉责备所折磨 你低头承认和道歉。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_795e0333:
 
-    e "你说得对 我很抱歉 拉希姆。"
+    e "你说得对 我很抱歉 雷希姆。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_4e9cab5d:
 
-    "再说一遍,拉希姆 深深的叹息。虽然他看起来不气愤,但你无法判断这是否更好。 娱乐和沮丧的复杂组合是不能轻易分类或理解的。"
+    "再说一遍,雷希姆 深深的叹息。虽然他看起来不气愤,但你无法判断这是否更好。 娱乐和沮丧的复杂组合是不能轻易分类或理解的。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_7e9e0ea1:
 
@@ -9043,7 +9034,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_a5caf3e5:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_7ed8ec50:
 
-    "拉希姆张开嘴发表令人恼火的评论,。"
+    "雷希姆张开嘴发表令人恼火的评论,。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_3ac3a3c0:
 
@@ -9059,11 +9050,11 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_c1217428:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_568e476f:
 
-    "你所期望的拉希姆 带来的一切事物中, 痛苦不是其中之一。"
+    "你所期望的雷希姆 带来的一切事物中, 痛苦不是其中之一。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_1e844e30:
 
-    "尽管如此,拉希姆看起来就像一个男人 刚刚告诉他的宠物死了。"
+    "尽管如此,雷希姆看起来就像一个男人 刚刚告诉他的宠物死了。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_13fed9d8:
 
@@ -9087,11 +9078,11 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_86af871c:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_b27fcc59:
 
-    "拉希姆对你的话没有反应。"
+    "雷希姆对你的话没有反应。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_bfeda9a1:
 
-    e "我希望一切顺利 拉希姆。"
+    e "我希望一切顺利 雷希姆。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_eb98bf66:
 
@@ -9119,7 +9110,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_2553650d:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_2dd00ae2:
 
-    "拉希姆给了你一个水平的光亮。"
+    "雷希姆给了你一个水平的光亮。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_a4de76e6:
 
@@ -9131,7 +9122,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_211c085a:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_002c20d5:
 
-    "拉希姆给你一份你需要的成分清单。"
+    "雷希姆给你一份你需要的成分清单。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_084e70f4:
 
@@ -9139,7 +9130,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_03_084e70f4:
 
 translate schinese_rewrite Rahim_Yarn_Quest_03_687c1f58:
 
-    "拉希姆又专注于工作,。"
+    "雷希姆又专注于工作,。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_c047809b:
 
@@ -9151,7 +9142,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_20c22a10:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_0eebe24b:
 
-    "拉希姆从他的项目上看 令人愉快的惊喜。"
+    "雷希姆从他的项目上看 令人愉快的惊喜。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_787363f7:
 
@@ -9163,7 +9154,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_89d977ec:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_8a8f56b3:
 
-    "拉希姆首先给围巾一个光亮的外观 任何不寻常的东西。"
+    "雷希姆首先给围巾一个光亮的外观 任何不寻常的东西。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_4bf2414c:
 
@@ -9187,7 +9178,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_33d69971:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e9b3ed21:
 
-    "拉希姆在娱乐中抽泣。"
+    "雷希姆在娱乐中抽泣。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_0418501a:
 
@@ -9199,7 +9190,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_c359918e:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a5fc2b24:
 
-    "拉希姆的表情再次从他脸上消失, 在那里是一个很小的笑容。"
+    "雷希姆的表情再次从他脸上消失, 在那里是一个很小的笑容。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_5935e35b:
 
@@ -9211,7 +9202,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_ec73797b:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_f5ca7235:
 
-    "拉希姆让你一眼看一眼 轻轻的刺激和欢乐。"
+    "雷希姆让你一眼看一眼 轻轻的刺激和欢乐。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9f986fa1:
 
@@ -9223,7 +9214,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_300ac853:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_58b33c95:
 
-    "拉希姆看到你的失望感,考虑到你隐瞒的差劲工作,他并不难。之后他看起来有点内疚。"
+    "雷希姆看到你的失望感,考虑到你隐瞒的差劲工作,他并不难。之后他看起来有点内疚。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_051066c1:
 
@@ -9239,7 +9230,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_887b1c2c:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9cde316a:
 
-    "拉希姆放出一个批准的人。"
+    "雷希姆放出一个批准的人。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a86b1f26:
 
@@ -9275,7 +9266,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_8bcd21ed:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_14d66ed1:
 
-    "拉希姆轻视地吸鼻。"
+    "雷希姆轻视地吸鼻。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6bad7d37:
 
@@ -9287,11 +9278,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_2dea5083:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_5deb0471:
 
-    e "你知道,如果你有 开始一个特别大的项目什么的, 你可以告诉我, 我会给你带食物,并确保你睡觉,拉希姆。"
+    e "你知道,如果你有 开始一个特别大的项目什么的, 你可以告诉我, 我会给你带食物,并确保你睡觉,雷希姆。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_b92428dd:
 
-    "拉希姆突然对你眨眼 你相信他会因为你说的话而咬死你。"
+    "雷希姆突然对你眨眼 你相信他会因为你说的话而咬死你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_2917b322:
 
@@ -9343,7 +9334,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_ffeebf4a:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_3a6bc443:
 
-    "拉希姆缩小了眼睛。"
+    "雷希姆缩小了眼睛。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_df17da61:
 
@@ -9355,7 +9346,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_0c89d68a:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_544928cf:
 
-    e "我只是在开玩笑,请怜悯,拉希姆。"
+    e "我只是在开玩笑,请怜悯,雷希姆。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_1e574865:
 
@@ -9363,7 +9354,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_1e574865:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_38b832c5:
 
-    "拉希姆 snots持怀疑态度。"
+    "雷希姆 snots持怀疑态度。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_536c07ce:
 
@@ -9375,7 +9366,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_f1e97100:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9fe77b71:
 
-    "拉希姆的笑话方式是说一些残酷的话 并且比平常更没劲。"
+    "雷希姆的笑话方式是说一些残酷的话 并且比平常更没劲。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e0e578f6:
 
@@ -9387,7 +9378,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_15dc84fe:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_3753cbcf:
 
-    "拉希姆对你对他的笑话的反应似乎很惊讶。"
+    "雷希姆对你对他的笑话的反应似乎很惊讶。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_f7d5892b:
 
@@ -9403,11 +9394,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_73965f8e:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e045947c:
 
-    r "身为卢斯特菲尔德的公民 你早就知道了 但是。"
+    r "身为乐斯民菲尔德的公民 你早就知道了 但是。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_658b7ecf:
 
-    "你见到拉希姆的眼睛 发现自己被困在那里 因为他们充满了决心。"
+    "你见到雷希姆的眼睛 发现自己被困在那里 因为他们充满了决心。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_452c4e7c:
 
@@ -9419,7 +9410,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_bb230b10:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_98efa8d1:
 
-    "你出价后发生了很多事,你并不完全了解拉希姆对这一切的感受。你所能做的就是希望他能够感激。"
+    "你出价后发生了很多事,你并不完全了解雷希姆对这一切的感受。你所能做的就是希望他能够感激。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_cf5430db:
 
@@ -9427,7 +9418,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_cf5430db:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_ddc41762:
 
-    "拉希姆用肩膀来抵挡。"
+    "雷希姆用肩膀来抵挡。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6406476a:
 
@@ -9467,7 +9458,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_cc0d4b05:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_5db66979:
 
-    "拉希姆眨眼 突然意识到 他被一些与裁缝有关的东西分心了。"
+    "雷希姆眨眼 突然意识到 他被一些与裁缝有关的东西分心了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_85034ba5:
 
@@ -9475,7 +9466,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_85034ba5:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a06c1ef5:
 
-    "表面上对你来说还不够好,对拉希姆来说也不够好。显然,牛把围巾带回来时他专注地盯着。"
+    "表面上对你来说还不够好,对雷希姆来说也不够好。显然,牛把围巾带回来时他专注地盯着。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9900f590:
 
@@ -9519,7 +9510,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_13c12dc9:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a89652f2:
 
-    "拉希姆 greamaces 稍稍。"
+    "雷希姆 greamaces 稍稍。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_37edb346:
 
@@ -9543,7 +9534,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9d46f063:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_8acf4c41:
 
-    "拉希姆指向一片亮蓝色的斑点 一块雪花 你用血红背景来标本的。"
+    "雷希姆指向一片亮蓝色的斑点 一块雪花 你用血红背景来标本的。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e77274c3:
 
@@ -9583,7 +9574,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_4f6b4fd5:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6cfdae0d:
 
-    "拉希姆点头。"
+    "雷希姆点头。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9a599947:
 
@@ -9603,7 +9594,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_1e15a7c5:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_1c49b6cd:
 
-    "拉希姆的手势是让你坐下来 让你有个好角度 看着他缝合他的故事。"
+    "雷希姆的手势是让你坐下来 让你有个好角度 看着他缝合他的故事。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_363eecf1:
 
@@ -9615,11 +9606,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_1f366da4:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_9336cff4:
 
-    "拉希姆拿起他的针线 开始编织这个故事。"
+    "雷希姆拿起他的针线 开始编织这个故事。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_d4c07533:
 
-    r "当我第一次来到卢斯特菲尔德时, 我作为一个冒险家这样做了。"
+    r "当我第一次来到乐斯民菲尔德时, 我作为一个冒险家这样做了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_dc32e58a:
 
@@ -9655,7 +9646,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_7d089062:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_adbb57f5:
 
-    "拉希姆给出了一个不情愿的点头。"
+    "雷希姆给出了一个不情愿的点头。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_fd51b62e:
 
@@ -9675,8 +9666,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_c16c3bc6:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a64eaa3b:
 
-    r "A matter of years, though her techniques are still around. I {i}做{/i} still remember them, even if they don't."
-
+    r "已经过去好几年了，但她的技巧仍然流传着。我{i}确实{/i}还记得它们，哪怕它们自己不记得。"
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_b60ddc27:
 
     "你们俩在讨论他说的话时 都安静了一点 他想找一种新颜色来缝合。"
@@ -9687,7 +9677,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e5639544:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_f407744a:
 
-    "拉希姆眨了两次眼 好像突然想起了什么一样。"
+    "雷希姆眨了两次眼 好像突然想起了什么一样。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6cf4d79b:
 
@@ -9703,7 +9693,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e06ae716:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_7917a9c5:
 
-    "拉希姆的脸面是 你以前只见过几次的表情 主要是在提到他女儿的时候 留下的忧郁情绪。"
+    "雷希姆的脸面是 你以前只见过几次的表情 主要是在提到他女儿的时候 留下的忧郁情绪。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_adbc66a7:
 
@@ -9719,7 +9709,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_7b1b73e1:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_45f00e0f:
 
-    "拉希姆举起眉毛,很兴奋,尽管如此,他还是有一部分人似乎认真对待你。"
+    "雷希姆举起眉毛,很兴奋,尽管如此,他还是有一部分人似乎认真对待你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_4649ba35:
 
@@ -9735,7 +9725,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_997ee96f:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_97023691:
 
-    "拉希姆打你一巴掌,小心不要用枪指着你的喇叭,或打得你太重。"
+    "雷希姆打你一巴掌,小心不要用枪指着你的喇叭,或打得你太重。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_7e0ac03e:
 
@@ -9755,7 +9745,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_34902ee2:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_8118dfb0:
 
-    "当你张开嘴说话时 拉希姆就服完刑期了。"
+    "当你张开嘴说话时 雷希姆就服完刑期了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_2477ff59:
 
@@ -9771,7 +9761,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_89b52820:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_3155f868:
 
-    "拉希姆放出一个黑暗的笑柄 开你两个开销的玩笑。"
+    "雷希姆放出一个黑暗的笑柄 开你两个开销的玩笑。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_d0c47848:
 
@@ -9811,7 +9801,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6d559ace:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_108fd841:
 
-    "你花了足够长的时间 才能和拉希姆交谈 而不受到侮辱... 太多。"
+    "你花了足够长的时间 才能和雷希姆交谈 而不受到侮辱... 太多。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_de433c23:
 
@@ -9827,7 +9817,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e69f9cbd:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_640f180f:
 
-    "令你惊讶的是,拉希姆只打呼噜。"
+    "令你惊讶的是,雷希姆只打呼噜。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_bf3efc43:
 
@@ -9847,7 +9837,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_8b204d55:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_27f58336:
 
-    "拉希姆点头,现在可以辨认出 手上的袜子 几乎完成了。"
+    "雷希姆点头,现在可以辨认出 手上的袜子 几乎完成了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_424ea57d:
 
@@ -9859,7 +9849,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_d1d83a35:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_8fe80c88:
 
-    "需要一点时间来表达这个问题-- 拉希姆至今一直很了解, 但你觉得自己被薄冰所困。"
+    "需要一点时间来表达这个问题-- 雷希姆至今一直很了解, 但你觉得自己被薄冰所困。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e2b1cbd6:
 
@@ -9871,7 +9861,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_f3d10d29:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_fd447d0d:
 
-    "拉希姆只是翻转他的眼睛 当他缝合。"
+    "雷希姆只是翻转他的眼睛 当他缝合。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_bad4ebce:
 
@@ -9907,7 +9897,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_935721f2:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_99b19981:
 
-    "拉希姆的裁缝冻僵了,你非常肯定他停止呼吸了。他只需要几分钟时间恢复,但牛的表情仍然紧张。"
+    "雷希姆的裁缝冻僵了,你非常肯定他停止呼吸了。他只需要几分钟时间恢复,但牛的表情仍然紧张。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_0ae6e693:
 
@@ -9959,7 +9949,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_192c051b:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_4706dca9:
 
-    "拉希姆的脸从混乱到彻底怀疑。"
+    "雷希姆的脸从混乱到彻底怀疑。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_f5e0490d:
 
@@ -10031,7 +10021,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a1014eb1:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_c0de847e:
 
-    "拉希姆轻轻地吸鼻。"
+    "雷希姆轻轻地吸鼻。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a25ea4e3:
 
@@ -10043,7 +10033,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_4a2d4aa5:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_409552d9:
 
-    "拉希姆 sews, 几乎完成了他的项目, 而你静静地坐在那, 摸摸你的拇指。"
+    "雷希姆 sews, 几乎完成了他的项目, 而你静静地坐在那, 摸摸你的拇指。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_99245f31:
 
@@ -10075,7 +10065,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_3ef2b2a2:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_5a3991e0:
 
-    "幸运的是,拉希姆在五分钟后打破了沉默, 他的袜子躺在他的手中。"
+    "幸运的是,雷希姆在五分钟后打破了沉默, 他的袜子躺在他的手中。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_18fca02b:
 
@@ -10139,7 +10129,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_ac6b880b:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_7ad6877f:
 
-    "拉希姆把100金倒在你的手里。"
+    "雷希姆把100金倒在你的手里。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_ea798f2c:
 
@@ -10163,7 +10153,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6bdc3f48:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_48f2dc99:
 
-    "拉希姆让你有怀疑的表情。"
+    "雷希姆让你有怀疑的表情。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6e78b4d9:
 
@@ -10175,27 +10165,27 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_40e70611:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_5cc21f69:
 
-    e "好吧。再见,拉希姆。"
+    e "好吧。再见,雷希姆。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_99cbf97f:
 
-    "拉希姆给你点了点头 仅此而已。"
+    "雷希姆给你点了点头 仅此而已。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_74a98378:
 
-    e "拉希姆,我完成了刀疤!"
+    e "雷希姆,我完成了刀疤!"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_039c3f3b:
 
-    "拉希姆什么都没说 他只是从座位上直直盯着你的眼睛盯着你。"
+    "雷希姆什么都没说 他只是从座位上直直盯着你的眼睛盯着你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_1dbba092:
 
-    e "拉希姆?"
+    e "雷希姆?"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_83b1b38c:
 
-    "拉希姆的光芒只会变得更严酷 来回应你号召他的企图。"
+    "雷希姆的光芒只会变得更严酷 来回应你号召他的企图。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_6e275b70:
 
@@ -10207,7 +10197,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_c91ad6c3:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_4b8229d1:
 
-    "拉希姆继续盯着你的灵魂。"
+    "雷希姆继续盯着你的灵魂。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_de2a3c2f:
 
@@ -10215,11 +10205,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_de2a3c2f:
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_fda9931d:
 
-    e "我想我已经准备好接受另一个委员会了 拉希姆!"
+    e "我想我已经准备好接受另一个委员会了 雷希姆!"
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_e6be7679:
 
-    "拉希姆鼻涕。"
+    "雷希姆鼻涕。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_f5b87fa5:
 
@@ -10243,7 +10233,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_02_9fc48241:
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_a1c9a7e5:
 
-    "拉希姆点头,非常严肃。"
+    "雷希姆点头,非常严肃。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_bfdab8d2:
 
@@ -10323,7 +10313,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_02_1638018e:
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_57304232:
 
-    "拉希姆点头。"
+    "雷希姆点头。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_9dcd81a7:
 
@@ -10343,7 +10333,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_02_717a4209:
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_a66012a7:
 
-    "你点头 抓住拉希姆的手。"
+    "你点头 抓住雷希姆的手。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_02_2bc82606:
 
@@ -10355,19 +10345,19 @@ translate schinese_rewrite Rahim_Yarn_Quest_02_7e32be50:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_4cf790a4:
 
-    e "拉希姆,我戴上帽子了!"
+    e "雷希姆,我戴上帽子了!"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_039c3f3b:
 
-    "拉希姆什么都没说 他只是从座位上直直盯着你的眼睛盯着你。"
+    "雷希姆什么都没说 他只是从座位上直直盯着你的眼睛盯着你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_1dbba092:
 
-    e "拉希姆?"
+    e "雷希姆?"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_83b1b38c:
 
-    "拉希姆的光芒只会变得更严酷 来回应你号召他的企图。"
+    "雷希姆的光芒只会变得更严酷 来回应你号召他的企图。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_6e275b70:
 
@@ -10379,7 +10369,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_c91ad6c3:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_4b8229d1:
 
-    "拉希姆继续盯着你的灵魂。"
+    "雷希姆继续盯着你的灵魂。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_de2a3c2f:
 
@@ -10391,7 +10381,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_122a5edc:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_a0cd44d4:
 
-    "把帽子交给拉希姆。"
+    "把帽子交给雷希姆。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_7e1c3ef5:
 
@@ -10403,7 +10393,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_f134c764:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_9fb079aa:
 
-    "拉希姆把50个金子倒在你的手里。"
+    "雷希姆把50个金子倒在你的手里。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_918e8085:
 
@@ -10431,11 +10421,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_c9f4e14d:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_86edec98:
 
-    e "好了 拉希姆 我想我快结束了。"
+    e "好了 雷希姆 我想我快结束了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_b186e105:
 
-    "拉希姆很欣赏你。"
+    "雷希姆很欣赏你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_3f49c645:
 
@@ -10443,7 +10433,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_3f49c645:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_39713714:
 
-    "你把帽子放在拉希姆手里,他立刻把帽子放在他的灯下 进行更仔细的检查。"
+    "你把帽子放在雷希姆手里,他立刻把帽子放在他的灯下 进行更仔细的检查。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_7b524317:
 
@@ -10475,7 +10465,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5a949255:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_57ef58b1:
 
-    "拉希姆自言自语。"
+    "雷希姆自言自语。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_36a792f0:
 
@@ -10503,7 +10493,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_849fdd40:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_51e6ce4a:
 
-    "拉希姆脸上的笑容闪烁的影子。"
+    "雷希姆脸上的笑容闪烁的影子。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_ed23cad1:
 
@@ -10519,15 +10509,15 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_4d4187e9:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_b22bcfc4:
 
-    "你从拉希姆那里得到50金。"
+    "你从雷希姆那里得到50金。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_1052c1c5:
 
-    e "谢谢你,拉希姆,这感觉就像很多钱给我,但我很感激。"
+    e "谢谢你,雷希姆,这感觉就像很多钱给我,但我很感激。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_e6be7679:
 
-    "拉希姆鼻涕。"
+    "雷希姆鼻涕。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_c853a8a9:
 
@@ -10543,7 +10533,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_cf7714d4:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_cc998627:
 
-    "拉希姆笑了,在拍你背部之前。"
+    "雷希姆笑了,在拍你背部之前。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_bd5958a4:
 
@@ -10559,7 +10549,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_08c92104:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_d9da4905:
 
-    "拉希姆看起来温和的娱乐。"
+    "雷希姆看起来温和的娱乐。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_f9bef42c:
 
@@ -10575,7 +10565,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_b72406c7:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_f0e6a362:
 
-    "拉希姆再次选择了一个项目 来进行他和你谈话时的工作。"
+    "雷希姆再次选择了一个项目 来进行他和你谈话时的工作。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_2c56bd68:
 
@@ -10595,7 +10585,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_2c27ea5e:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_394aa05a:
 
-    "来自拉希姆的小鼻涕。"
+    "来自雷希姆的小鼻涕。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_3d8a7f55:
 
@@ -10671,7 +10661,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_4b8d0113:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5c531953:
 
-    "拉希姆吸鼻,向你挥手。"
+    "雷希姆吸鼻,向你挥手。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5ef30bb6:
 
@@ -10687,7 +10677,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_6f1105e4:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_3fd25678:
 
-    "拉希姆 shurmaces 稍稍 -- -- 如果比什么都多的习惯 -- -- 伸手在肩膀后部留下一个小疤痕。"
+    "雷希姆 shurmaces 稍稍 -- -- 如果比什么都多的习惯 -- -- 伸手在肩膀后部留下一个小疤痕。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_2a60c9f0:
 
@@ -10707,7 +10697,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_f482b743:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_2bed1132:
 
-    "拉希姆沉默了一会儿。"
+    "雷希姆沉默了一会儿。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_a3fe7f31:
 
@@ -10723,7 +10713,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5b6e5bb5:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5cfd9ee0:
 
-    "拉希姆用一层玻璃来修复你。"
+    "雷希姆用一层玻璃来修复你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_a5974dba:
 
@@ -10739,7 +10729,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_351a78a6:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_e667a3a9:
 
-    "拉希姆的声音没有背叛任何深爱或关心 但是... 他似乎比大多数人更尊敬你。"
+    "雷希姆的声音没有背叛任何深爱或关心 但是... 他似乎比大多数人更尊敬你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_672e64c0:
 
@@ -10747,7 +10737,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_672e64c0:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_e2f9e609:
 
-    "你静静地静坐着,拉希姆继续缝纫。"
+    "你静静地静坐着,雷希姆继续缝纫。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5e2f957c:
 
@@ -10763,7 +10753,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_825f1310:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_bb1f18da:
 
-    "把手放在门把手上,你听到拉希姆大声说话。"
+    "把手放在门把手上,你听到雷希姆大声说话。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_cb3f4376:
 
@@ -10779,7 +10769,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_5d18d5c9:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_b6a207d5:
 
-    "突然间,拉希姆又回到缝纫。"
+    "突然间,雷希姆又回到缝纫。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_2092f90d:
 
@@ -10787,7 +10777,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_2092f90d:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_06084505:
 
-    e "\"谢谢,拉希姆\"。"
+    e "\"谢谢,雷希姆\"。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_02_13cc70a5:
 
@@ -10799,11 +10789,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_02_ddf74e74:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_36648b62:
 
-    e "拉希姆,我给你带了妈妈。"
+    e "雷希姆,我给你带了妈妈。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_fb80da26:
 
-    "你发誓能看见拉希姆脸上的笑容。"
+    "你发誓能看见雷希姆脸上的笑容。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_99bd4d8f:
 
@@ -10811,7 +10801,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_99bd4d8f:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_98355ecf:
 
-    "拉希姆拿走你的鲜花。"
+    "雷希姆拿走你的鲜花。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_affc52c4:
 
@@ -10831,11 +10821,11 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_b9b755e5:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_9b95a411:
 
-    e "有什么不对吗,拉希姆?"
+    e "有什么不对吗,雷希姆?"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_39fe80c5:
 
-    "拉希姆只是暂时空洞地看着你。"
+    "雷希姆只是暂时空洞地看着你。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_87460fa3:
 
@@ -10859,7 +10849,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_6da134d3:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_b481cc8e:
 
-    "拉希姆的坚硬壳 打破了一点点。"
+    "雷希姆的坚硬壳 打破了一点点。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_1a2f681d:
 
@@ -10879,7 +10869,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_4489ad32:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_fe6e9d1c:
 
-    "拉希姆紧紧握着花朵。"
+    "雷希姆紧紧握着花朵。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_dcaa5e6a:
 
@@ -10887,7 +10877,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_dcaa5e6a:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_7de53890:
 
-    "Rage在拉希姆附近发光。"
+    "Rage在雷希姆附近发光。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_a202f14b:
 
@@ -10895,7 +10885,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_a202f14b:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_83bd329d:
 
-    "看着妈妈们,拉希姆慢慢地平静下来。"
+    "看着妈妈们,雷希姆慢慢地平静下来。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_eabe296c:
 
@@ -10907,7 +10897,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_35ee51db:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_e4634e29:
 
-    "你靠近拉希姆,把手放在他的手掌上, 他就看不见他。"
+    "你靠近雷希姆,把手放在他的手掌上, 他就看不见他。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_e5a9282e:
 
@@ -10919,11 +10909,11 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_29bb1e42:
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_d3962269:
 
-    "你盯着拉希姆看 他仍然紧紧握着菊花 挡住眼泪。"
+    "你盯着雷希姆看 他仍然紧紧握着菊花 挡住眼泪。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_8d94f27a:
 
-    "拉希姆嗅探并回望着你。"
+    "雷希姆嗅探并回望着你。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Finish_3ca02f1b:
 
@@ -10955,7 +10945,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Finish_10a8fe8e:
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_05b47ee5:
 
-    e "嘿,拉希姆,你需要什么吗?"
+    e "嘿,雷希姆,你需要什么吗?"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_d95be2f8:
 
@@ -10963,7 +10953,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Begin_d95be2f8:
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_e3ad01fd:
 
-    "拉希姆用不满意的眼神 把你提升到了高度。"
+    "雷希姆用不满意的眼神 把你提升到了高度。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_d92536ca:
 
@@ -10975,19 +10965,19 @@ translate schinese_rewrite Rahim_Flower_Quest_Begin_d899524e:
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_c72361db:
 
-    "拉希姆点头时时不时地 过了一段时间,他继续前进。"
+    "雷希姆点头时时不时地 过了一段时间,他继续前进。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_01a4897e:
 
-    r "卢斯特菲尔德曾经也靠近山羊 看看它把我们带到哪里。"
+    r "乐斯民菲尔德曾经也靠近山羊 看看它把我们带到哪里。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_67b55f38:
 
-    "拉希姆的声音有忧郁和悲伤的暗示。"
+    "雷希姆的声音有忧郁和悲伤的暗示。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_2b8ba18a:
 
-    "谢天谢地,拉希姆接了谈话的线索。"
+    "谢天谢地,雷希姆接了谈话的线索。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_6215179c:
 
@@ -11011,11 +11001,11 @@ translate schinese_rewrite Rahim_Flower_Quest_Begin_80398a9b:
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_7be17a49:
 
-    "你为话题的改变感到高兴 你感到拉希姆很早就爆炸了。"
+    "你为话题的改变感到高兴 你感到雷希姆很早就爆炸了。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_73a84d3c:
 
-    e "你需要什么,拉希姆?"
+    e "你需要什么,雷希姆?"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_62fdea28:
 
@@ -11039,11 +11029,11 @@ translate schinese_rewrite Rahim_Flower_Quest_Begin_a786fcb9:
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_37987627:
 
-    "拉希姆的咕噜声 但你有预感还有更多。"
+    "雷希姆的咕噜声 但你有预感还有更多。"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_c17b6df7:
 
-    e "但卢斯特菲尔德周围没有花吗?"
+    e "但乐斯民菲尔德周围没有花吗?"
 
 translate schinese_rewrite Rahim_Flower_Quest_Begin_ac5119fb:
 
@@ -11063,7 +11053,7 @@ translate schinese_rewrite Rahim_Flower_Quest_Begin_102a403a:
 
 translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_d86303de:
 
-    e "嘿,拉希姆,你想多谈谈那封信吗?"
+    e "嘿,雷希姆,你想多谈谈那封信吗?"
 
 translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_3529882b:
 
@@ -11087,7 +11077,7 @@ translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_a4cd3272:
 
 translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_fa16d833:
 
-    e "好了 拉希姆 你不必这么暴躁。"
+    e "好了 雷希姆 你不必这么暴躁。"
 
 translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_5608cfc4:
 
@@ -11099,7 +11089,7 @@ translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_989e289d:
 
 translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_fd375905:
 
-    e "抱歉打扰你 拉希姆。"
+    e "抱歉打扰你 雷希姆。"
 
 translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_30b685c9:
 
@@ -11115,7 +11105,7 @@ translate schinese_rewrite Rahim_Ask_Opinion_Goat_Tribe_aa0c7cb0:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_4931f5c5:
 
-    e "那么,拉希姆?"
+    e "那么,雷希姆?"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_8c837d57:
 
@@ -11131,7 +11121,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_a13324a4:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_1249fc01:
 
-    "拉希姆鼻涕 一种在嘲笑和欣赏之间 发出怪声。"
+    "雷希姆鼻涕 一种在嘲笑和欣赏之间 发出怪声。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_662f28fd:
 
@@ -11151,7 +11141,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_d2b283d4:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_6b62432b:
 
-    "拉希姆花点时间考虑你的提议。"
+    "雷希姆花点时间考虑你的提议。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_00878a65:
 
@@ -11163,7 +11153,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_f5ccee21:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_b275d515:
 
-    "拉希姆突然用切削的强度看着你 好像盯着你的灵魂一样。"
+    "雷希姆突然用切削的强度看着你 好像盯着你的灵魂一样。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_04669fb6:
 
@@ -11175,7 +11165,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_4da23814:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_8e02631b:
 
-    "拉希姆 叹气。"
+    "雷希姆 叹气。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_3e20c604:
 
@@ -11199,7 +11189,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_f250ba86:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_e6d654b3:
 
-    "你忽然意识到拉希姆握着剪刀的手有多紧。"
+    "你忽然意识到雷希姆握着剪刀的手有多紧。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_8a16d1b4:
 
@@ -11219,7 +11209,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_ae10b27e:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_18304dc8:
 
-    "拉希姆的耳光 似乎被你的问题迷惑了。"
+    "雷希姆的耳光 似乎被你的问题迷惑了。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_635d28d2:
 
@@ -11235,7 +11225,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_1a07eb6c:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_8e4037b5:
 
-    "拉希姆给你一个刺激的光芒。"
+    "雷希姆给你一个刺激的光芒。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_7f45f885:
 
@@ -11263,7 +11253,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_03637ce7:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_5233c6c1:
 
-    e "好的。谢谢你,拉希姆!"
+    e "好的。谢谢你,雷希姆!"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_a128f7cc:
 
@@ -11287,23 +11277,23 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_1e9dce35:
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_800bf914:
 
-    "拉希姆回到工作上 标志着对话的结束。"
+    "雷希姆回到工作上 标志着对话的结束。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_c3275745:
 
-    e "拉希姆,我完成了[clothing]!"
+    e "雷希姆,我完成了[clothing]!"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_039c3f3b:
 
-    "拉希姆什么都没说 他只是从座位上直直盯着你的眼睛盯着你。"
+    "雷希姆什么都没说 他只是从座位上直直盯着你的眼睛盯着你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_1dbba092:
 
-    e "拉希姆?"
+    e "雷希姆?"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_83b1b38c:
 
-    "拉希姆的光芒只会变得更严酷 来回应你号召他的企图。"
+    "雷希姆的光芒只会变得更严酷 来回应你号召他的企图。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_6e275b70:
 
@@ -11315,7 +11305,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_c91ad6c3:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_4b8229d1:
 
-    "拉希姆继续盯着你的灵魂。"
+    "雷希姆继续盯着你的灵魂。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_de2a3c2f:
 
@@ -11323,11 +11313,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_de2a3c2f:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_6d0b80be:
 
-    e "你好,拉希姆,我完成了[clothing]！"
+    e "你好,雷希姆,我完成了[clothing]！"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_b186e105:
 
-    "拉希姆很欣赏你。"
+    "雷希姆很欣赏你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_e4b9f0a1:
 
@@ -11339,7 +11329,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_e465624d:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_5f186f7a:
 
-    "你把[clothing]交给拉希姆。"
+    "你把[clothing]交给雷希姆。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_fbb75c80:
 
@@ -11347,7 +11337,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_fbb75c80:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_bc90054b:
 
-    "拉希姆指向一对夫妇松散的缝合 你似乎没有注意到。"
+    "雷希姆指向一对夫妇松散的缝合 你似乎没有注意到。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_1c88e7e2:
 
@@ -11355,7 +11345,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_1c88e7e2:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_900f6b33:
 
-    "拉希姆请求你冷静下来。"
+    "雷希姆请求你冷静下来。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_102777c0:
 
@@ -11367,7 +11357,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_b99bd058:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_6da98524:
 
-    "拉希姆伸手伸进他的邮袋里 手里扔了50块金子。"
+    "雷希姆伸手伸进他的邮袋里 手里扔了50块金子。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_46ed76fd:
 
@@ -11383,7 +11373,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_9ad8500f:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_e4bf9f2f:
 
-    "拉希姆用眼神把你切开。"
+    "雷希姆用眼神把你切开。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_638ebee5:
 
@@ -11395,7 +11385,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_4cbafc70:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_12cf1f4a:
 
-    "拉希姆的表情变成了 一种令人愉快的怀疑论。"
+    "雷希姆的表情变成了 一种令人愉快的怀疑论。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_817db696:
 
@@ -11411,7 +11401,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_64d6dfba:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_86a3dbe6:
 
-    "他这样说不是不礼貌的,他知道拉希姆,这很可能是高度的赞美。"
+    "他这样说不是不礼貌的,他知道雷希姆,这很可能是高度的赞美。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_24cc9853:
 
@@ -11419,7 +11409,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_24cc9853:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_b5237610:
 
-    "拉希姆伸手到[clothing], 平滑它, 并带来错误的缝合 在他桌子上最亮的地方。"
+    "雷希姆伸手到[clothing], 平滑它, 并带来错误的缝合 在他桌子上最亮的地方。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_4e2eb8a2:
 
@@ -11443,7 +11433,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_b4264bbb:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_e6da8883:
 
-    "拉希姆用完全直面的面孔说这个话,但是当他转身回到[clothing]时,他的眼睛里有微微的一线自豪感。"
+    "雷希姆用完全直面的面孔说这个话,但是当他转身回到[clothing]时,他的眼睛里有微微的一线自豪感。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_c33bfb7f:
 
@@ -11455,7 +11445,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_d3b6e10e:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_b53f0c26:
 
-    "在拉希姆谈论此事时,。"
+    "在雷希姆谈论此事时,。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_971a6c12:
 
@@ -11479,7 +11469,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_694ad8db:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_34185d01:
 
-    "拉希姆用一个明察的眼神来修复你。"
+    "雷希姆用一个明察的眼神来修复你。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_ea31ca43:
 
@@ -11495,7 +11485,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_6646fe11:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_9e957295:
 
-    "拉希姆笑了一下 轻轻地打你肩膀。"
+    "雷希姆笑了一下 轻轻地打你肩膀。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_a8c0dfb3:
 
@@ -11515,7 +11505,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_6a6863a3:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_63c1fa00:
 
-    "拉希姆走掉了,寻找合适的词 他看起来有点尴尬。"
+    "雷希姆走掉了,寻找合适的词 他看起来有点尴尬。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_9869af00:
 
@@ -11539,7 +11529,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_82e87d57:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_7e73dc11:
 
-    "尽管这样说,拉希姆只是稍微改变你的方式,拿出新的作品来工作。"
+    "尽管这样说,雷希姆只是稍微改变你的方式,拿出新的作品来工作。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_ebe78754:
 
@@ -11551,7 +11541,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_b2080dc6:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_2beef3e1:
 
-    "拉希姆暂停。"
+    "雷希姆暂停。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_07368d67:
 
@@ -11567,7 +11557,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_7e4cd9cc:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_e792dc53:
 
-    "拉希姆在思考中自鸣得意, 不停地调整自己的裁缝工作。"
+    "雷希姆在思考中自鸣得意, 不停地调整自己的裁缝工作。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_ebec3137:
 
@@ -11587,7 +11577,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_3388a208:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_980f0094:
 
-    "拉希姆轻轻地吸着鼻涕 将他的针从布料上拉上来。"
+    "雷希姆轻轻地吸着鼻涕 将他的针从布料上拉上来。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_2d372ff9:
 
@@ -11599,7 +11589,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_63527118:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_492f6e46:
 
-    r "我希望卢斯特菲尔德永远不要变成那样。"
+    r "我希望乐斯民菲尔德永远不要变成那样。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_5316e387:
 
@@ -11623,7 +11613,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_5f2c5f61:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_232d8c59:
 
-    "拉希姆让一个满意的暴动出来。"
+    "雷希姆让一个满意的暴动出来。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_0ae25b6e:
 
@@ -11647,7 +11637,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_9745a2e6:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_e6be7679:
 
-    "拉希姆鼻涕。"
+    "雷希姆鼻涕。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_89366e5e:
 
@@ -11671,7 +11661,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_ea1accdb:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_73ff0a02:
 
-    "拉希姆用你的方式闪烁一只眼睛。"
+    "雷希姆用你的方式闪烁一只眼睛。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_8af1d106:
 
@@ -11687,11 +11677,11 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_ba423bce:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_52a78cfe:
 
-    "你试着想象一个年轻的拉希姆 浑身汗汗 杀几个巨怪, 衣服充满洞... 东西偷看出来..."
+    "你试着想象一个年轻的雷希姆 浑身汗汗 杀几个巨怪, 衣服充满洞... 东西偷看出来..."
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_66127527:
 
-    "当你被拉希姆打倒时 你的头被打得有点硬。"
+    "当你被雷希姆打倒时 你的头被打得有点硬。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_c39802fb:
 
@@ -11739,7 +11729,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_4fa0d6fa:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_f2ce4d1c:
 
-    "当你在听的时候,拉希姆 穿穿他正在做的衣物, 得到了大部分的方式。"
+    "当你在听的时候,雷希姆 穿穿他正在做的衣物, 得到了大部分的方式。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_873191d5:
 
@@ -11823,7 +11813,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_3b035d5a:
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_8badcd86:
 
-    "拉希姆的咕噜声 用他的手把你拉上 已经用针头把绳子捡起来了。"
+    "雷希姆的咕噜声 用他的手把你拉上 已经用针头把绳子捡起来了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_4915c6ed:
 
@@ -11835,7 +11825,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_2f925843:
 
 translate schinese_rewrite Rahim_Letter_Furkan_a6c14195:
 
-    e "你好,拉希姆,我收到富肯的信。"
+    e "你好,雷希姆,我收到弗坎的信。"
 
 translate schinese_rewrite Rahim_Letter_Furkan_19fcb7b1:
 
@@ -11843,7 +11833,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_19fcb7b1:
 
 translate schinese_rewrite Rahim_Letter_Furkan_4c902b16:
 
-    e "一封来自山羊部落富肯的信。"
+    e "一封来自山羊部落弗坎的信。"
 
 translate schinese_rewrite Rahim_Letter_Furkan_970b96ef:
 
@@ -11851,7 +11841,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_970b96ef:
 
 translate schinese_rewrite Rahim_Letter_Furkan_ec3fa201:
 
-    e "他想提议休战,为卢斯特菲尔德和山羊部落。"
+    e "他想提议休战,为乐斯民菲尔德和山羊部落。"
 
 translate schinese_rewrite Rahim_Letter_Furkan_8d51c077:
 
@@ -11859,11 +11849,11 @@ translate schinese_rewrite Rahim_Letter_Furkan_8d51c077:
 
 translate schinese_rewrite Rahim_Letter_Furkan_8615e6a6:
 
-    "你将这封信交给拉希姆,他立刻把它撕掉,你从未见过他如此被催促。他戴上了眼镜,并开始擦拭这封信。"
+    "你将这封信交给雷希姆,他立刻把它撕掉,你从未见过他如此被催促。他戴上了眼镜,并开始擦拭这封信。"
 
 translate schinese_rewrite Rahim_Letter_Furkan_1931fce9:
 
-    r "亲爱的拉希姆,我写这封信 是为了表达我过去几年的悲伤和遗憾"
+    r "亲爱的雷希姆,我写这封信 是为了表达我过去几年的悲伤和遗憾"
 
 translate schinese_rewrite Rahim_Letter_Furkan_0b6964bf:
 
@@ -11875,11 +11865,11 @@ translate schinese_rewrite Rahim_Letter_Furkan_dfe07764:
 
 translate schinese_rewrite Rahim_Letter_Furkan_b618baf3:
 
-    r "\"你的... 福坎...\""
+    r "\"你的... 弗坎...\""
 
 translate schinese_rewrite Rahim_Letter_Furkan_dd6e0d2e:
 
-    "你无法判断拉希姆是否在隐瞒他的眼泪、愤怒或沮丧。 他一读完书就把纸放回信封里。"
+    "你无法判断雷希姆是否在隐瞒他的眼泪、愤怒或沮丧。 他一读完书就把纸放回信封里。"
 
 translate schinese_rewrite Rahim_Letter_Furkan_a4d18fc8:
 
@@ -11887,7 +11877,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_a4d18fc8:
 
 translate schinese_rewrite Rahim_Letter_Furkan_418d1d36:
 
-    e "拉希姆,我以为他写这封信是和平的象征"
+    e "雷希姆,我以为他写这封信是和平的象征"
 
 translate schinese_rewrite Rahim_Letter_Furkan_3b7a9069:
 
@@ -11895,7 +11885,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_3b7a9069:
 
 translate schinese_rewrite Rahim_Letter_Furkan_668ee95f:
 
-    e "拉希姆,至少你能告诉我发生了什么吗?"
+    e "雷希姆,至少你能告诉我发生了什么吗?"
 
 translate schinese_rewrite Rahim_Letter_Furkan_50b0d466:
 
@@ -11911,7 +11901,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_bb5a6b61:
 
 translate schinese_rewrite Rahim_Letter_Furkan_93dc9dfe:
 
-    e "我理解。保重,拉希姆。"
+    e "我理解。保重,雷希姆。"
 
 translate schinese_rewrite Rahim_Letter_Furkan_6a131a86:
 
@@ -11919,7 +11909,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_6a131a86:
 
 translate schinese_rewrite Rahim_Postal_Training_05d05f0a:
 
-    e "拉希姆,欧莱有跟你谈过我的训练吗?"
+    e "雷希姆,奥利有跟你谈过我的训练吗?"
 
 translate schinese_rewrite Rahim_Postal_Training_f172ad38:
 
@@ -11939,7 +11929,7 @@ translate schinese_rewrite Rahim_Postal_Training_a3984083:
 
 translate schinese_rewrite Rahim_Postal_Training_3b59ed57:
 
-    e "谢谢,拉希姆。"
+    e "谢谢,雷希姆。"
 
 translate schinese_rewrite Rahim_Postal_Training_94d8330f:
 
@@ -11995,11 +11985,11 @@ translate schinese_rewrite Rahim_Postal_Training_2b52781e:
 
 translate schinese_rewrite Rahim_Postal_Training_e40338aa:
 
-    e "谢谢拉希姆,我很快给你带过来。"
+    e "谢谢雷希姆,我很快给你带过来。"
 
 translate schinese_rewrite Rahim_Postal_Finish_3e6a72d7:
 
-    e "你好,拉希姆,我写完礼服了！"
+    e "你好,雷希姆,我写完礼服了！"
 
 translate schinese_rewrite Rahim_Postal_Finish_c72901fe:
 
@@ -12019,7 +12009,7 @@ translate schinese_rewrite Rahim_Postal_Finish_f69c83cc:
 
 translate schinese_rewrite Rahim_Postal_Finish_bb92cf10:
 
-    e "真不错 谢谢 拉希姆。"
+    e "真不错 谢谢 雷希姆。"
 
 translate schinese_rewrite Rahim_Postal_Finish_ab6911cd:
 
@@ -12063,7 +12053,7 @@ translate schinese_rewrite Rahim_Postal_Finish_530f3065_1:
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_789effe3:
 
-    e "拉希姆 你觉得这里的人怎么样?"
+    e "雷希姆 你觉得这里的人怎么样?"
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_4d793199:
 
@@ -12091,7 +12081,7 @@ translate schinese_rewrite Rahim_Ask_Lusterfield_People_60c30271:
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_539be7f0:
 
-    r "我不喜欢他 洛塔尔 但我们有时会说话。"
+    r "我不喜欢他 洛萨尔 但我们有时会说话。"
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_5fd10514:
 
@@ -12099,11 +12089,11 @@ translate schinese_rewrite Rahim_Ask_Lusterfield_People_5fd10514:
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_132c5874:
 
-    r "千万别相信肯恩 无论你多好对待那只无情的老鼠 他总有一天会捅你的背。"
+    r "千万别相信凯恩 无论你多好对待那只无情的老鼠 他总有一天会捅你的背。"
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_8fa176d7:
 
-    "拉希姆继续用一些 无法理解的词来形容老鼠 你站在那里 仔细看着他 直到他回到现实。"
+    "雷希姆继续用一些 无法理解的词来形容老鼠 你站在那里 仔细看着他 直到他回到现实。"
 
 translate schinese_rewrite Rahim_Ask_Lusterfield_People_24f03cec:
 
@@ -12111,7 +12101,7 @@ translate schinese_rewrite Rahim_Ask_Lusterfield_People_24f03cec:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_861d769e:
 
-    e "拉希姆,洛特哈尔跟我说了山羊部落的事,发生什么事了?"
+    e "雷希姆,洛萨尔跟我说了山羊部落的事,发生什么事了?"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_7321557d:
 
@@ -12143,7 +12133,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_23c68c75:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_5cbfbff2:
 
-    e "洛塔尔解释得不好,但为什么山羊来卢斯特菲尔德?"
+    e "洛萨尔解释得不好,但为什么山羊来乐斯民菲尔德?"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_e178d861:
 
@@ -12167,7 +12157,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_bf995035:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_175502b3:
 
-    "拉希姆 沮丧地看着周围,他的手伸向墙壁。你试图安慰他,但似乎他正在忙着回忆过去。"
+    "雷希姆 沮丧地看着周围,他的手伸向墙壁。你试图安慰他,但似乎他正在忙着回忆过去。"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_ba2e1954:
 
@@ -12187,7 +12177,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_dc394e82:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_92599ed3:
 
-    e "你还是得小心自己的安全 拉希姆。"
+    e "你还是得小心自己的安全 雷希姆。"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_41e8201e:
 
@@ -12203,7 +12193,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_163d4104:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_4e1598a3:
 
-    e "拉希姆..."
+    e "雷希姆..."
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_50b2ca3e:
 
@@ -12211,7 +12201,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_50b2ca3e:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_82f52a1a:
 
-    "拉希姆尖锐地盯着你, 你从来没有感觉到过这么多的敌意, 你感觉他可以抓住他的剪刀 随时刺伤你, 但他只是坐在那里,盯着。"
+    "雷希姆尖锐地盯着你, 你从来没有感觉到过这么多的敌意, 你感觉他可以抓住他的剪刀 随时刺伤你, 但他只是坐在那里,盯着。"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_4fa17061:
 
@@ -12227,7 +12217,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_c3799514:
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_c7420349:
 
-    e "我会的,谢谢拉希姆。"
+    e "我会的,谢谢雷希姆。"
 
 translate schinese_rewrite Rahim_Ask_Tailor_1229a64a:
 
@@ -12251,11 +12241,11 @@ translate schinese_rewrite Rahim_Ask_Tailor_973f0dbb:
 
 translate schinese_rewrite Rahim_Ask_Tailor_32280a03:
 
-    e "拉希姆 如果你需要我 我会去的。"
+    e "雷希姆 如果你需要我 我会去的。"
 
 translate schinese_rewrite Rahim_Ask_Tailor_a7ef48cd:
 
-    "拉希姆沉思,在地板上闪闪发光几秒钟,他标记和环顾四周,然后转过身来,然后转过身去。"
+    "雷希姆沉思,在地板上闪闪发光几秒钟,他标记和环顾四周,然后转过身来,然后转过身去。"
 
 translate schinese_rewrite Rahim_Ask_Tailor_77e56968:
 
@@ -12263,7 +12253,7 @@ translate schinese_rewrite Rahim_Ask_Tailor_77e56968:
 
 translate schinese_rewrite Rahim_Ask_Himself_88e9f8ee:
 
-    e "你的裁缝工作怎么样,拉希姆?"
+    e "你的裁缝工作怎么样,雷希姆?"
 
 translate schinese_rewrite Rahim_Ask_Himself_38e1cddf:
 
@@ -12287,11 +12277,11 @@ translate schinese_rewrite Rahim_Ask_Himself_c2f7eeb9:
 
 translate schinese_rewrite Rahim_Ask_Himself_1ab95c4a:
 
-    e "好吧,拉希姆。"
+    e "好吧,雷希姆。"
 
 translate schinese_rewrite Rahim_Apron_Fixed_ac111090:
 
-    e "嘿 拉希姆 围裙修好了。"
+    e "嘿 雷希姆 围裙修好了。"
 
 translate schinese_rewrite Rahim_Apron_Fixed_fb0c4131:
 
@@ -12299,7 +12289,7 @@ translate schinese_rewrite Rahim_Apron_Fixed_fb0c4131:
 
 translate schinese_rewrite Rahim_Apron_Fixed_ecfb7992:
 
-    "拉希姆把围裙提升到你的水平,几乎想象你的身体在围裙上。他计算了几秒钟,然后回头看你。"
+    "雷希姆把围裙提升到你的水平,几乎想象你的身体在围裙上。他计算了几秒钟,然后回头看你。"
 
 translate schinese_rewrite Rahim_Apron_Fixed_25d2b41d:
 
@@ -12311,11 +12301,11 @@ translate schinese_rewrite Rahim_Apron_Fixed_aae5699f:
 
 translate schinese_rewrite Rahim_Apron_Fixed_b3a5e1fe:
 
-    r "嗯,没问题,带它去肯恩。"
+    r "嗯,没问题,带它去凯恩。"
 
 translate schinese_rewrite Rahim_Apron_Fixed_9a679669:
 
-    e "好吧,谢谢你这么多 拉希姆。"
+    e "好吧,谢谢你这么多 雷希姆。"
 
 translate schinese_rewrite Rahim_Apron_Fixed_d08115e6:
 
@@ -12323,7 +12313,7 @@ translate schinese_rewrite Rahim_Apron_Fixed_d08115e6:
 
 translate schinese_rewrite Rahim_Apron_Quest_b9e50a2b:
 
-    e "拉希姆,我有件... 服装,我想你能帮上忙..."
+    e "雷希姆,我有件... 服装,我想你能帮上忙..."
 
 translate schinese_rewrite Rahim_Apron_Quest_83b93a25:
 
@@ -12335,7 +12325,7 @@ translate schinese_rewrite Rahim_Apron_Quest_037ef800:
 
 translate schinese_rewrite Rahim_Apron_Quest_d7d4a4ed:
 
-    "拉希姆通过你的包 发现了酒馆的围裙 他的眼睛变宽了 你会以为他会一劳永逸地撕裂围裙。"
+    "雷希姆通过你的包 发现了酒馆的围裙 他的眼睛变宽了 你会以为他会一劳永逸地撕裂围裙。"
 
 translate schinese_rewrite Rahim_Apron_Quest_a0e55179:
 
@@ -12347,7 +12337,7 @@ translate schinese_rewrite Rahim_Apron_Quest_c69cb282:
 
 translate schinese_rewrite Rahim_Apron_Quest_6504d9b5:
 
-    "你指着围裙上的洞,但拉希姆甚至没费心去检查它。相反,他紧紧地盯着你,紧紧地抓住围裙。"
+    "你指着围裙上的洞,但雷希姆甚至没费心去检查它。相反,他紧紧地盯着你,紧紧地抓住围裙。"
 
 translate schinese_rewrite Rahim_Apron_Quest_7f3341fd:
 
@@ -12379,7 +12369,7 @@ translate schinese_rewrite Rahim_Apron_Quest_b9b755e5:
 
 translate schinese_rewrite Rahim_Apron_Quest_627522de:
 
-    e "拉希姆,我以为你以为他帮了 山羊马的突袭。"
+    e "雷希姆,我以为你以为他帮了 山羊马的突袭。"
 
 translate schinese_rewrite Rahim_Apron_Quest_f79c7584:
 
@@ -12391,7 +12381,7 @@ translate schinese_rewrite Rahim_Apron_Quest_bf6ed11c:
 
 translate schinese_rewrite Rahim_Apron_Quest_d017b74d:
 
-    e "我很难过听到... 拉希姆,我想他一定会很高兴 与你和解,如果你愿意的话。"
+    e "我很难过听到... 雷希姆,我想他一定会很高兴 与你和解,如果你愿意的话。"
 
 translate schinese_rewrite Rahim_Apron_Quest_3074194c:
 
@@ -12403,7 +12393,7 @@ translate schinese_rewrite Rahim_Apron_Quest_b9b755e5_1:
 
 translate schinese_rewrite Rahim_Apron_Quest_fbdc0d06:
 
-    "拉希姆盯着围裙上的洞 突然发现一些事情时 向自己低声低语。"
+    "雷希姆盯着围裙上的洞 突然发现一些事情时 向自己低声低语。"
 
 translate schinese_rewrite Rahim_Apron_Quest_752d18aa:
 
@@ -12419,7 +12409,7 @@ translate schinese_rewrite Rahim_Apron_Quest_b5802c37:
 
 translate schinese_rewrite Rahim_Apron_Quest_b5dc3770:
 
-    e "我不知道 但我相信不是坎恩干的。"
+    e "我不知道 但我相信不是凯恩干的。"
 
 translate schinese_rewrite Rahim_Apron_Quest_982e3ddf:
 
@@ -12427,7 +12417,7 @@ translate schinese_rewrite Rahim_Apron_Quest_982e3ddf:
 
 translate schinese_rewrite Rahim_Apron_Quest_379ab857:
 
-    "这里的寒冷空气慢慢恢复正常 你看着拉希姆的十字臂。"
+    "这里的寒冷空气慢慢恢复正常 你看着雷希姆的十字臂。"
 
 translate schinese_rewrite Rahim_Apron_Quest_c5f57473:
 
@@ -12439,7 +12429,7 @@ translate schinese_rewrite Rahim_Apron_Quest_972a4cbf:
 
 translate schinese_rewrite Rahim_Apron_Quest_2355c0a8:
 
-    e "谢谢你 拉希姆 我想你可能会把围裙撕成碎片。"
+    e "谢谢你 雷希姆 我想你可能会把围裙撕成碎片。"
 
 translate schinese_rewrite Rahim_Apron_Quest_2845df48:
 
@@ -12455,7 +12445,7 @@ translate schinese_rewrite Rahim_Apron_Quest_a47ea533:
 
 translate schinese_rewrite Rahim_Apron_Quest_5e871018:
 
-    r "我猜洛塔尔的假人有你需要的补丁。"
+    r "我猜洛萨尔的假人有你需要的补丁。"
 
 translate schinese_rewrite Rahim_Apron_Quest_7684015f:
 
@@ -12487,7 +12477,7 @@ translate schinese_rewrite Rahim_Apron_Quest_0e3295ef:
 
 translate schinese_rewrite Rahim_Apron_Quest_82d397a2:
 
-    r "不,谢谢你做这些无聊的杂务 为我们这些在卢斯特菲尔德的人。"
+    r "不,谢谢你做这些无聊的杂务 为我们这些在乐斯民菲尔德的人。"
 
 translate schinese_rewrite Rahim_Apron_Quest_f039ab2d:
 
@@ -12495,7 +12485,7 @@ translate schinese_rewrite Rahim_Apron_Quest_f039ab2d:
 
 translate schinese_rewrite Rahim_Apron_Quest_705ae207:
 
-    e "你太谦卑了 拉希姆 我一定会记住的。"
+    e "你太谦卑了 雷希姆 我一定会记住的。"
 
 translate schinese_rewrite Rahim_Apron_Quest_358d4028:
 
@@ -12503,7 +12493,7 @@ translate schinese_rewrite Rahim_Apron_Quest_358d4028:
 
 translate schinese_rewrite Rahim_Outfit_Quest_0622b34d:
 
-    e "嘿,拉希姆,一切都还好吗?"
+    e "嘿,雷希姆,一切都还好吗?"
 
 translate schinese_rewrite Rahim_Outfit_Quest_73ae705d:
 
@@ -12607,11 +12597,11 @@ translate schinese_rewrite Rahim_Outfit_Quest_b772bf60:
 
 translate schinese_rewrite Rahim_Outfit_02_c20ab467:
 
-    e "拉希姆,我有你需要的反馈 洛塔尔,约格和安布尔喜欢,洛特哈尔甚至想自己买一个。"
+    e "雷希姆,我有你需要的反馈 洛萨尔,约格和安布喜欢,洛萨尔甚至想自己买一个。"
 
 translate schinese_rewrite Rahim_Outfit_02_c8bb9898:
 
-    "拉希姆 咕噜声。"
+    "雷希姆 咕噜声。"
 
 translate schinese_rewrite Rahim_Outfit_02_112ce8ae:
 
@@ -12631,7 +12621,7 @@ translate schinese_rewrite Rahim_Outfit_02_bea7df11:
 
 translate schinese_rewrite Rahim_Outfit_02_aff9c099:
 
-    "拉希姆把手交给你 看上去你就是一对子。"
+    "雷希姆把手交给你 看上去你就是一对子。"
 
 translate schinese_rewrite Rahim_Outfit_02_7f8cfe8c:
 
@@ -12639,7 +12629,7 @@ translate schinese_rewrite Rahim_Outfit_02_7f8cfe8c:
 
 translate schinese_rewrite Rahim_Outfit_02_2c66ff69:
 
-    e "拉希姆 你确定这样没事吗?"
+    e "雷希姆 你确定这样没事吗?"
 
 translate schinese_rewrite Rahim_Outfit_02_d38291b6:
 
@@ -12663,7 +12653,7 @@ translate schinese_rewrite Rahim_Outfit_03_592d2e95:
 
 translate schinese_rewrite Rahim_Outfit_03_2b334075:
 
-    "拉希姆让句子延缓。"
+    "雷希姆让句子延缓。"
 
 translate schinese_rewrite Rahim_Outfit_03_52ed08f1:
 
@@ -12675,7 +12665,7 @@ translate schinese_rewrite Rahim_Outfit_03_783d15e1:
 
 translate schinese_rewrite Rahim_Outfit_03_2e43639a:
 
-    e "肯恩... 说我也是。"
+    e "凯恩... 说我也是。"
 
 translate schinese_rewrite Rahim_Outfit_03_f415e1f3:
 
@@ -12691,7 +12681,7 @@ translate schinese_rewrite Rahim_Outfit_03_1b4884d8:
 
 translate schinese_rewrite Rahim_Outfit_03_cbe498ce:
 
-    "拉希姆咳嗽,。"
+    "雷希姆咳嗽,。"
 
 translate schinese_rewrite Rahim_Outfit_03_1869e700:
 
@@ -12699,7 +12689,7 @@ translate schinese_rewrite Rahim_Outfit_03_1869e700:
 
 translate schinese_rewrite Rahim_Outfit_03_80d1d10e:
 
-    "拉希姆叹气,呼吸在他的呼吸。"
+    "雷希姆叹气,呼吸在他的呼吸。"
 
 translate schinese_rewrite Rahim_Outfit_03_ec0e59ed:
 
@@ -12719,7 +12709,7 @@ translate schinese_rewrite Rahim_Outfit_03_bd5c63e4:
 
 translate schinese_rewrite Rahim_Outfit_03_a28c4b7c:
 
-    e "拉希姆,我看不到内衣,我不该穿下面的吗?"
+    e "雷希姆,我看不到内衣,我不该穿下面的吗?"
 
 translate schinese_rewrite Rahim_Outfit_03_af28e841:
 
@@ -12731,7 +12721,7 @@ translate schinese_rewrite Rahim_Outfit_03_d4993d94:
 
 translate schinese_rewrite Rahim_Outfit_03_d5259cc6:
 
-    "拉希姆切断你。"
+    "雷希姆切断你。"
 
 translate schinese_rewrite Rahim_Outfit_03_01d24678:
 
@@ -12739,7 +12729,7 @@ translate schinese_rewrite Rahim_Outfit_03_01d24678:
 
 translate schinese_rewrite Rahim_Outfit_End_3f042727:
 
-    e "拉希姆,我得到了对服装的评论 哈斯凯尔特别喜欢。"
+    e "雷希姆,我得到了对服装的评论 哈斯凯尔特别喜欢。"
 
 translate schinese_rewrite Rahim_Outfit_End_a715ceb7:
 
@@ -12763,7 +12753,7 @@ translate schinese_rewrite Rahim_Outfit_End_6a685a8f:
 
 translate schinese_rewrite Rahim_Outfit_End_79c8fdaf:
 
-    r "别让洛塔尔逼你把盔甲给你。"
+    r "别让洛萨尔逼你把盔甲给你。"
 
 translate schinese_rewrite Rahim_Outfit_End_a869f733:
 
@@ -12803,7 +12793,7 @@ translate schinese_rewrite Rahim_Outfit_End_c3d41cc3:
 
 translate schinese_rewrite Rahim_Outfit_End_9ad5955e:
 
-    e "不,谢谢你拉希姆 让我试探你所有的图案。"
+    e "不,谢谢你雷希姆 让我试探你所有的图案。"
 
 translate schinese_rewrite Rahim_Outfit_End_ae397942:
 
@@ -12847,7 +12837,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_241a4587:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_28fa195d:
 
-    "拉希姆穿过他的手臂, 坐在他的椅子上 而你找到椅子坐。"
+    "雷希姆穿过他的手臂, 坐在他的椅子上 而你找到椅子坐。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_b728c220:
 
@@ -12927,15 +12917,15 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_af6b8f68:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_252a87f5:
 
-    e "我不认为拉希姆会相信你 Seb。"
+    e "我不认为雷希姆会相信你 Seb。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_1484d302:
 
-    s "欧莱喜欢他的书里的这些台词 拉希姆先生 请在我发疯之前重新考虑一下你的立场。"
+    s "奥利喜欢他的书里的这些台词 雷希姆先生 请在我发疯之前重新考虑一下你的立场。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_673d529e:
 
-    "塞巴斯向你转过身来 用他对拉希姆的同样恳求的眼神。"
+    "塞巴斯向你转过身来 用他对雷希姆的同样恳求的眼神。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_2084ba48:
 
@@ -12947,7 +12937,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_db314ce0:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_5b8fe2d3:
 
-    "你注意到拉希姆在回应时嘲笑你。"
+    "你注意到雷希姆在回应时嘲笑你。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_3ef29fb0:
 
@@ -12971,7 +12961,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_be9052d6:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_7926dd1f:
 
-    o "嘿,拉希姆,门还没关上。"
+    o "嘿,雷希姆,门还没关上。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_ef4ca43a:
 
@@ -12991,8 +12981,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_b0d87eca:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_37ca7bc1:
 
-    s "See, I don't even fucking kno-"
-
+    s "你看，我他妈根本不知道——"
 translate schinese_rewrite Rahim_Reconciliation_Begin_9272e4f9:
 
     r "语言,孩子。"
@@ -13015,7 +13004,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_5aca47fa:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_49715fd3:
 
-    s "拉希姆 你知道我们赚了多少钱。"
+    s "雷希姆 你知道我们赚了多少钱。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_493858a4:
 
@@ -13067,7 +13056,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_a389d874:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_7d073b9c:
 
-    "你几乎无法屏住呼吸 足以让塞巴斯叹气 回到拉希姆。"
+    "你几乎无法屏住呼吸 足以让塞巴斯叹气 回到雷希姆。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_3bfbf24a:
 
@@ -13131,7 +13120,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_b6a95233:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_04236127:
 
-    s "拉希姆先生..."
+    s "雷希姆先生..."
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_7fc2f5b4:
 
@@ -13191,7 +13180,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_aae91936:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_5bb5c819:
 
-    o "嘿 拉希姆 有人在我们村外。"
+    o "嘿 雷希姆 有人在我们村外。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_4e124331:
 
@@ -13259,7 +13248,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_cfa9ca5f:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_073e266f:
 
-    e "我很抱歉 拉希姆 我不是故意打断你们两个谈话的。"
+    e "我很抱歉 雷希姆 我不是故意打断你们两个谈话的。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_8a661687:
 
@@ -13275,7 +13264,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_77ad53f1:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_934f862e:
 
-    "你勉强进入拉希姆的房子 直接面对沮丧的公牛。"
+    "你勉强进入雷希姆的房子 直接面对沮丧的公牛。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_a80bf846:
 
@@ -13291,7 +13280,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_09af5b7f:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_1965f947:
 
-    "拉希姆摇头。"
+    "雷希姆摇头。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_d81dea2f:
 
@@ -13347,7 +13336,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_55f6af1a:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_93160067:
 
-    "你看到拉希姆摇着眼睛 很明显厌倦了塞巴斯的诡计。"
+    "你看到雷希姆摇着眼睛 很明显厌倦了塞巴斯的诡计。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_f8cd7b02:
 
@@ -13359,7 +13348,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_825320a6:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_1915b094:
 
-    s "拉希姆可能看起来不像 但他显然在享受他跟你在一起的时间！"
+    s "雷希姆可能看起来不像 但他显然在享受他跟你在一起的时间！"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_2ac6ee9c:
 
@@ -13367,7 +13356,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_2ac6ee9c:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_909287b8:
 
-    s "开个玩笑,哈哈,如果拉希姆做到了, 他绝对是那个 谁不说什么。"
+    s "开个玩笑,哈哈,如果雷希姆做到了, 他绝对是那个 谁不说什么。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_dc4eb06b:
 
@@ -13375,15 +13364,14 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_dc4eb06b:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_f27df6d4:
 
-    e "没什么,我只是想用拉希姆的工具。"
+    e "没什么,我只是想用雷希姆的工具。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_ab0bc760:
 
-    r "I-it's right ther-."
-
+    r "就、就在那儿——"
 translate schinese_rewrite Rahim_Reconciliation_Begin_724696b0:
 
-    "就像拉希姆再次张开嘴一样, 一个熟悉的人物从你身后出现。"
+    "就像雷希姆再次张开嘴一样, 一个熟悉的人物从你身后出现。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_52cbf4fc_1:
 
@@ -13403,7 +13391,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_5ebfc027_2:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_ef4d2b63:
 
-    o "福坎 他说他想亲自见你。"
+    o "弗坎 他说他想亲自见你。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_abcdfa2d:
 
@@ -13443,7 +13431,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_2597308b:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_2c00434d:
 
-    s "我,你,欧里,富肯,比他一天见到的普通朋友多四个!"
+    s "我,你,欧里,弗坎,比他一天见到的普通朋友多四个!"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_9cd4fc93:
 
@@ -13459,7 +13447,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_4a9d0a1b:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_50f7ba6d:
 
-    s "说到这里,我们跟在拉希姆后面吗?"
+    s "说到这里,我们跟在雷希姆后面吗?"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_cf5b4096:
 
@@ -13475,7 +13463,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_40871fda:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_c1b3b3e4:
 
-    "在卢斯特菲尔德的路上走过 听到拉希姆那熟悉的暴躁的声音 并不远。"
+    "在乐斯民菲尔德的路上走过 听到雷希姆那熟悉的暴躁的声音 并不远。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_52fe6365:
 
@@ -13511,11 +13499,11 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_677730ba:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_be8ab3d0:
 
-    "你点头,当拉希姆生气的时候 背上有一个目标肯定不是好主意。"
+    "你点头,当雷希姆生气的时候 背上有一个目标肯定不是好主意。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_6e40606d:
 
-    "进入商店时,你仍然能微弱地听到拉希姆和福坎在村中心说话。"
+    "进入商店时,你仍然能微弱地听到雷希姆和弗坎在村中心说话。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_e46e855b:
 
@@ -13575,7 +13563,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_6ea5bed0:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_bd0b5cd6:
 
-    "福坎摇头。"
+    "弗坎摇头。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_54e83f5f:
 
@@ -13615,11 +13603,11 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_de3ecacb:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_cad6a584:
 
-    f "拉希姆 我知道这情况很困难 需要时间考虑 我们都信任你 我相信你做出明智的决定。"
+    f "雷希姆 我知道这情况很困难 需要时间考虑 我们都信任你 我相信你做出明智的决定。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_626b4f23:
 
-    "福坎用点头转过身来,慢慢转过身来,直到拉希姆喊叫。"
+    "弗坎用点头转过身来,慢慢转过身来,直到雷希姆喊叫。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_419a8a12:
 
@@ -13639,7 +13627,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_2aefffaf:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_87577517:
 
-    r "你总是这么做 福坎 远离你制造的麻烦。"
+    r "你总是这么做 弗坎 远离你制造的麻烦。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_de460849:
 
@@ -13647,7 +13635,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_de460849:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_102692ff:
 
-    "福坎 retors, 越过他的手臂,作为拉希姆 Chides。"
+    "弗坎 retors, 越过他的手臂,作为雷希姆 Chides。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_3e3b8830:
 
@@ -13659,7 +13647,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_d2aa24f1:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_d06b153b:
 
-    "你们和赛巴斯人,在拉希姆大喊大叫的时候,以不信道的态度,互相注视。"
+    "你们和赛巴斯人,在雷希姆大喊大叫的时候,以不信道的态度,互相注视。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_dd6f3625:
 
@@ -13683,7 +13671,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_a6998ae5:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_4fbb6662:
 
-    f "拉希姆,我是来谈的... 不是来纠缠我们之间的事的。"
+    f "雷希姆,我是来谈的... 不是来纠缠我们之间的事的。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_6f3c16d7:
 
@@ -13699,11 +13687,11 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_6e377da3:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_bea5acbc:
 
-    f "保重,拉希姆。"
+    f "保重,雷希姆。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_2ef8c524:
 
-    "福坎再次转身。"
+    "弗坎再次转身。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_fb8c2f2a:
 
@@ -13711,7 +13699,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_fb8c2f2a:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_5b972187:
 
-    "街道在福坎离开村庄时陷入死寂,没有脚步声,所以你假设拉希姆仍然站在那里。"
+    "街道在弗坎离开村庄时陷入死寂,没有脚步声,所以你假设雷希姆仍然站在那里。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_ef42fccc:
 
@@ -13723,7 +13711,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_0f29cad7:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_882cff6f:
 
-    "他低声低语 试图保持低调 使你们两人仍能感受到拉希姆的愤怒。"
+    "他低声低语 试图保持低调 使你们两人仍能感受到雷希姆的愤怒。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_8795d133:
 
@@ -13739,7 +13727,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_60997360:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_1e1571bb:
 
-    e "我们应该去看看拉希姆吗?"
+    e "我们应该去看看雷希姆吗?"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_5cdb0e1d:
 
@@ -13747,7 +13735,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_5cdb0e1d:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_8df9ac1c:
 
-    "塞巴斯的乡巴佬暂时不来,但他是对的,也许 这么快就来打扰拉希姆会是个好主意。"
+    "塞巴斯的乡巴佬暂时不来,但他是对的,也许 这么快就来打扰雷希姆会是个好主意。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_123a599b:
 
@@ -13759,7 +13747,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_f740e14b:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_7b2752b2:
 
-    "你们两个呆着的时候 塞巴斯的乡巴佬 偶尔听到拉希姆的叫声 虽然这还不够大声。"
+    "你们两个呆着的时候 塞巴斯的乡巴佬 偶尔听到雷希姆的叫声 虽然这还不够大声。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_82d1dc8f:
 
@@ -13775,7 +13763,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_b461a52b:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_8e2701be:
 
-    "拉希姆已经精疲力尽了 他的眼睛在冲水。"
+    "雷希姆已经精疲力尽了 他的眼睛在冲水。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_5d4a0355:
 
@@ -13807,7 +13795,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_0c8c2b2e:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_f3c0c5a6:
 
-    s "我告诉过你伙计 我们应该跟着拉希姆 神秘让我像他一样疯狂！"
+    s "我告诉过你伙计 我们应该跟着雷希姆 神秘让我像他一样疯狂！"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_10d541a5:
 
@@ -13815,7 +13803,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_10d541a5:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_7a941fb9:
 
-    s "通常拉希姆不喜欢别人偷偷摸摸地围着他。"
+    s "通常雷希姆不喜欢别人偷偷摸摸地围着他。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_9d789091:
 
@@ -13831,11 +13819,11 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_1c02d480:
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_730d6c80:
 
-    "塞巴斯的乡巴佬暂时不来,但他是对的,也许不来打扰拉希姆是个好主意。"
+    "塞巴斯的乡巴佬暂时不来,但他是对的,也许不来打扰雷希姆是个好主意。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_add8d3c4:
 
-    e "嘿 拉希姆 那天福坎来过之后 一切顺利吗?"
+    e "嘿 雷希姆 那天弗坎来过之后 一切顺利吗?"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_2bea0a2c:
 
@@ -13843,11 +13831,11 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_2bea0a2c:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_d35f5c59:
 
-    e "我只是在照顾你 拉希姆。"
+    e "我只是在照顾你 雷希姆。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_9bb72926:
 
-    "拉希姆对你的好奇心很敏锐 他放下针头盯着你。"
+    "雷希姆对你的好奇心很敏锐 他放下针头盯着你。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_70b46e90:
 
@@ -13863,7 +13851,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_0ba7071d:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_66ba7ac0:
 
-    "你们两个像拉希姆一样 保持沉默一段时间。"
+    "你们两个像雷希姆一样 保持沉默一段时间。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_eea3820b:
 
@@ -13883,7 +13871,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_54243231:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_ff50f68f:
 
-    "拉希姆沮丧地低头看 你试图伸出你的手 但他挥舞着手。"
+    "雷希姆沮丧地低头看 你试图伸出你的手 但他挥舞着手。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_85e6b1e5:
 
@@ -13891,11 +13879,11 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_85e6b1e5:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_de14003c:
 
-    e "你什么意思,拉希姆?"
+    e "你什么意思,雷希姆?"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_1cddb46d:
 
-    r "和福坎谈话后,一切都瞬间就被压在我的头上。我所能做的就是把自己藏在闭门门后面。"
+    r "和弗坎谈话后,一切都瞬间就被压在我的头上。我所能做的就是把自己藏在闭门门后面。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_22f7ed3b:
 
@@ -13923,7 +13911,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_d926d49f:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_4e1598a3:
 
-    e "拉希姆..."
+    e "雷希姆..."
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_817d1be7:
 
@@ -13931,7 +13919,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_817d1be7:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_445ead9f:
 
-    "拉希姆俯视他的眼睛, 嘴唇卷成悲伤的状态。"
+    "雷希姆俯视他的眼睛, 嘴唇卷成悲伤的状态。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_cde013f6:
 
@@ -13975,7 +13963,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_949801e2:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_e815898b:
 
-    "你往后看 注意拉希姆的锋利光芒 不像他通常那样尖锐。"
+    "你往后看 注意雷希姆的锋利光芒 不像他通常那样尖锐。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_3d32195c:
 
@@ -13987,7 +13975,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_05eb3a09:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_c77151f7:
 
-    "你再次沉浸在沉默中, 拉希姆的拳头在他的紧张的前额上, 在深呼吸之前。"
+    "你再次沉浸在沉默中, 雷希姆的拳头在他的紧张的前额上, 在深呼吸之前。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_33741c33:
 
@@ -13999,7 +13987,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_0489cc22:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_c610d578:
 
-    e "等等,拉希姆,你确定吗?"
+    e "等等,雷希姆,你确定吗?"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_13bfb3d0:
 
@@ -14015,7 +14003,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_b46bd4f5:
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_40ceff5c:
 
-    e "很高兴你转过身来 拉希姆。"
+    e "很高兴你转过身来 雷希姆。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_31217b1e:
 
@@ -14051,7 +14039,7 @@ translate schinese_rewrite Rahim_Voting_Announcement_a02e5f98:
 
 translate schinese_rewrite Rahim_Voting_Announcement_f4c0d478:
 
-    "你跟着拉希姆离开他的小屋 走到村子中心 一些人聚在一起 有一些杂音。"
+    "你跟着雷希姆离开他的小屋 走到村子中心 一些人聚在一起 有一些杂音。"
 
 translate schinese_rewrite Rahim_Voting_Announcement_bdbff523:
 
@@ -14063,7 +14051,7 @@ translate schinese_rewrite Rahim_Voting_Announcement_aeb2e849:
 
 translate schinese_rewrite Rahim_Voting_Announcement_837d63f1:
 
-    "当拉希姆站在舞台上时,他走近的人越来越多,他清清喉咙,深呼吸。"
+    "当雷希姆站在舞台上时,他走近的人越来越多,他清清喉咙,深呼吸。"
 
 translate schinese_rewrite Rahim_Voting_Announcement_19e0fc30:
 
@@ -14071,7 +14059,7 @@ translate schinese_rewrite Rahim_Voting_Announcement_19e0fc30:
 
 translate schinese_rewrite Rahim_Voting_Announcement_c0cd01fc:
 
-    r "过去几年来,卢斯特菲尔德 一直独自生活,孤立无援。"
+    r "过去几年来,乐斯民菲尔德 一直独自生活,孤立无援。"
 
 translate schinese_rewrite Rahim_Voting_Announcement_598b4d7f:
 
@@ -14107,7 +14095,7 @@ translate schinese_rewrite Rahim_Voting_Announcement_05025644:
 
 translate schinese_rewrite Rahim_Voting_Announcement_3c6851d1:
 
-    "双方都在讨论投票结果, 其中一些人抗议拉希姆的决定。"
+    "双方都在讨论投票结果, 其中一些人抗议雷希姆的决定。"
 
 translate schinese_rewrite Rahim_Voting_Announcement_01e128d3:
 
@@ -14131,7 +14119,7 @@ translate schinese_rewrite Rahim_Voting_Opinion_93bfdfd4:
 
 translate schinese_rewrite Rahim_Voting_Opinion_edf195c3:
 
-    "拉希姆说用单质线 用针刺穿织物。"
+    "雷希姆说用单质线 用针刺穿织物。"
 
 translate schinese_rewrite Rahim_Voting_Opinion_87848074:
 
@@ -14191,7 +14179,7 @@ translate schinese_rewrite Rahim_Voting_Opinion_237c8306:
 
 translate schinese_rewrite Rahim_Voting_Opinion_2461ffd7:
 
-    "拉希姆保持平静,然后他将注意力转移到布上。"
+    "雷希姆保持平静,然后他将注意力转移到布上。"
 
 translate schinese_rewrite Rahim_Voting_Opinion_9645b53d:
 
@@ -14215,7 +14203,7 @@ translate schinese_rewrite Sebas_Voting_Opinion_c55795b4:
 
 translate schinese_rewrite Sebas_Voting_Opinion_ef4ee862:
 
-    s "我猜也许我的魅力对拉希姆来说太难了。"
+    s "我猜也许我的魅力对雷希姆来说太难了。"
 
 translate schinese_rewrite Sebas_Voting_Opinion_24fdbbfc:
 
@@ -14235,7 +14223,7 @@ translate schinese_rewrite Sebas_Voting_Opinion_05e7d16e:
 
 translate schinese_rewrite Sebas_Voting_Opinion_6d4540e7:
 
-    s "当然是拉希姆宣布投票的。"
+    s "当然是雷希姆宣布投票的。"
 
 translate schinese_rewrite Sebas_Voting_Opinion_c14757a8:
 
@@ -14311,15 +14299,15 @@ translate schinese_rewrite Sebas_Voting_Opinion_e7ad92f4:
 
 translate schinese_rewrite Lothar_Voting_Opinion_efef9743:
 
-    e "嘿,洛萨,你对投票的看法如何?"
+    e "嘿,洛萨尔,你对投票的看法如何?"
 
 translate schinese_rewrite Lothar_Voting_Opinion_664a3b97:
 
-    l "拉希姆到底在想些什么?"
+    l "雷希姆到底在想些什么?"
 
 translate schinese_rewrite Lothar_Voting_Opinion_8e8d0926:
 
-    e "他给了我们所有人一个选择,洛萨 我想他不会亲自投羊的票。"
+    e "他给了我们所有人一个选择,洛萨尔 我想他不会亲自投羊的票。"
 
 translate schinese_rewrite Lothar_Voting_Opinion_1d99fb1d:
 
@@ -14347,7 +14335,7 @@ translate schinese_rewrite Lothar_Voting_Opinion_880bf075:
 
 translate schinese_rewrite Lothar_Voting_Opinion_271f7bc9:
 
-    l "不管怎么说,我已经告诉安布尔和约格该怎么做了, 山羊同情者不可能赢得这场比赛。"
+    l "不管怎么说,我已经告诉安布和约格该怎么做了, 山羊同情者不可能赢得这场比赛。"
 
 translate schinese_rewrite Lothar_Voting_Opinion_209707be:
 
@@ -14375,7 +14363,7 @@ translate schinese_rewrite Amble_Voting_Ask_Cement_843f83fd:
 
 translate schinese_rewrite Amble_Voting_Ask_Cement_96d489e0:
 
-    "你笑得不自在,因为安布尔开始 指向随机方向 向材料应该在哪里。"
+    "你笑得不自在,因为安布开始 指向随机方向 向材料应该在哪里。"
 
 translate schinese_rewrite Amble_Voting_Ask_Cement_ce25548d:
 
@@ -14427,7 +14415,7 @@ translate schinese_rewrite Amble_Voting_Ask_Cement_77f810e0:
 
 translate schinese_rewrite Amble_Voting_Opinion_3eda28e2:
 
-    e "安布尔,你觉得投票怎么样?"
+    e "安布,你觉得投票怎么样?"
 
 translate schinese_rewrite Amble_Voting_Opinion_c3def119:
 
@@ -14479,7 +14467,7 @@ translate schinese_rewrite Amble_Voting_Opinion_08ec8ece:
 
 translate schinese_rewrite Amble_Voting_Opinion_18489ab9:
 
-    e "洛塔尔真的告诉你要投票吗?"
+    e "洛萨尔真的告诉你要投票吗?"
 
 translate schinese_rewrite Amble_Voting_Opinion_6f2023da:
 
@@ -14591,7 +14579,7 @@ translate schinese_rewrite Amble_Voting_Opinion_843f83fd:
 
 translate schinese_rewrite Amble_Voting_Opinion_96d489e0:
 
-    "你笑得不自在,因为安布尔开始 指向随机方向 向材料应该在哪里。"
+    "你笑得不自在,因为安布开始 指向随机方向 向材料应该在哪里。"
 
 translate schinese_rewrite Amble_Voting_Opinion_ce25548d:
 
@@ -14663,7 +14651,7 @@ translate schinese_rewrite Amble_River_Talk_c4844c7a:
 
 translate schinese_rewrite Amble_Voting_Cement_81fb734c:
 
-    e "嘿,安布尔,我帮我们弄到了你们需要的材料 20块木头,3桶泥瓦混料。"
+    e "嘿,安布,我帮我们弄到了你们需要的材料 20块木头,3桶泥瓦混料。"
 
 translate schinese_rewrite Amble_Voting_Cement_3409aa92:
 
@@ -14683,7 +14671,7 @@ translate schinese_rewrite Amble_Voting_Cement_937e89d5:
 
 translate schinese_rewrite Amble_Voting_Cement_264224ea:
 
-    "你指着大量的木柴 砍碎或砍掉 都安布尔身后安安静静。"
+    "你指着大量的木柴 砍碎或砍掉 都安布身后安安静静。"
 
 translate schinese_rewrite Amble_Voting_Cement_c92f5297:
 
@@ -14711,7 +14699,7 @@ translate schinese_rewrite Amble_Voting_Cement_bf6f0d3d:
 
 translate schinese_rewrite Amble_Voting_Clearing_3573f911:
 
-    e "安布尔,我需要在这里做什么?"
+    e "安布,我需要在这里做什么?"
 
 translate schinese_rewrite Amble_Voting_Clearing_de494aaf:
 
@@ -14735,7 +14723,7 @@ translate schinese_rewrite Amble_Voting_Clearing_a3947bf8:
 
 translate schinese_rewrite Amble_Voting_Clearing_5854d3eb:
 
-    e "该死,安布尔,你真的考虑过一切。"
+    e "该死,安布,你真的考虑过一切。"
 
 translate schinese_rewrite Amble_Voting_Clearing_06b5d888:
 
@@ -14759,8 +14747,7 @@ translate schinese_rewrite Amble_Voting_Clearing_cf21093d:
 
 translate schinese_rewrite Amble_Voting_Clearing_25ebe2b8:
 
-    e "A-amble, how would-"
-
+    e "安、安布，你怎么会——"
 translate schinese_rewrite Amble_Voting_Clearing_946185fd:
 
     "眼睁睁地看着你,他的笑容迅速扩大 当他进入一个令人心痛的笑声。"
@@ -14779,7 +14766,7 @@ translate schinese_rewrite Amble_Voting_Clearing_2b40a022:
 
 translate schinese_rewrite Amble_Voting_Clearing_ddaa22a6:
 
-    e "不公平,我没想到你会这样开玩笑,安布尔。"
+    e "不公平,我没想到你会这样开玩笑,安布。"
 
 translate schinese_rewrite Amble_Voting_Clearing_466673c6:
 
@@ -14807,11 +14794,11 @@ translate schinese_rewrite Amble_Voting_Clearing_804d05d9:
 
 translate schinese_rewrite Amble_Voting_Clearing_c47d0e63:
 
-    "你沿着河走下去 开始和安布尔一起研究岩石。"
+    "你沿着河走下去 开始和安布一起研究岩石。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_3d6c8b04:
 
-    "接下来两个小时 你用安布尔给你的铁铲 挖出岩石 然后他带着它们到陆地上 试图弄清楚它们从桥上从哪来。"
+    "接下来两个小时 你用安布给你的铁铲 挖出岩石 然后他带着它们到陆地上 试图弄清楚它们从桥上从哪来。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_4cd9eae6:
 
@@ -14883,15 +14870,15 @@ translate schinese_rewrite Amble_Voting_Clearing_Work_209fcbd6:
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_d4675186:
 
-    e "安布尔,我回来了。"
+    e "安布,我回来了。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_5c72958f:
 
-    "安布尔坐在河岸上 似乎在思考一些事情。"
+    "安布坐在河岸上 似乎在思考一些事情。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_0d6bf512:
 
-    "令人惊讶的是,你环顾河流, 运输工作似乎已经完成, 把所有湿尘碎片留在岸上 安布尔前面。"
+    "令人惊讶的是,你环顾河流, 运输工作似乎已经完成, 把所有湿尘碎片留在岸上 安布前面。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_c6dfda2b:
 
@@ -14911,11 +14898,11 @@ translate schinese_rewrite Amble_Voting_Clearing_Work_Back_41bcc92c:
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_6a098f7f:
 
-    e "该死的,不用担心,安布尔。"
+    e "该死的,不用担心,安布。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_1aeb09b9:
 
-    "你看安布勒仍然独自在拖着岩石 他的胸口被汗淋淋 阳光下闪耀着。"
+    "你看安布仍然独自在拖着岩石 他的胸口被汗淋淋 阳光下闪耀着。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_ab0a4b0e_1:
 
@@ -14939,11 +14926,11 @@ translate schinese_rewrite Amble_Voting_Clearing_Work_Back_3093bce3:
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_05e48e04:
 
-    e "该死,安布尔,你只是 挖起来,把他们从河里拖出来 全部由你一个人?"
+    e "该死,安布,你只是 挖起来,把他们从河里拖出来 全部由你一个人?"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_ae602647:
 
-    "你小心地擦掉安布尔的汗水 他往前靠 这样你就能摸到他的胸口 闭上眼睛。"
+    "你小心地擦掉安布的汗水 他往前靠 这样你就能摸到他的胸口 闭上眼睛。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_40b8467a:
 
@@ -15019,7 +15006,7 @@ translate schinese_rewrite Amble_Voting_Clearing_Work_Leave_c987d30b:
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Leave_189b1a37:
 
-    "用友好的波浪 你和安布尔分开。"
+    "用友好的波浪 你和安布分开。"
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_4cdac722:
 
@@ -15035,7 +15022,7 @@ translate schinese_rewrite Amble_Voting_Construction_Begin_0252bad1:
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_2db6b889:
 
-    e "我会给你所有你需要的帮助,安布尔!"
+    e "我会给你所有你需要的帮助,安布!"
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_864585ba:
 
@@ -15123,7 +15110,7 @@ translate schinese_rewrite Amble_Voting_Construction_Begin_b0ad5490:
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_dbd93d87:
 
-    "你可以看到你胸口印满的红色印记, 以安布尔大手的形状。"
+    "你可以看到你胸口印满的红色印记, 以安布大手的形状。"
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_7f03049f:
 
@@ -15135,11 +15122,11 @@ translate schinese_rewrite Amble_Voting_Construction_Begin_0b5d9c8c:
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_45087d11:
 
-    "你用恳求的眼神盯着安布尔 希望他能继续他的行为 但熊已经继续他的行为了。"
+    "你用恳求的眼神盯着安布 希望他能继续他的行为 但熊已经继续他的行为了。"
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_5fcf93c6:
 
-    e "嘿,安布尔,我不认为..."
+    e "嘿,安布,我不认为..."
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_5a1bb7e5:
 
@@ -15195,7 +15182,7 @@ translate schinese_rewrite Amble_Voting_Construction_Begin_75069b3c:
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_1617cee2:
 
-    "安布尔叹气。"
+    "安布叹气。"
 
 translate schinese_rewrite Amble_Voting_Construction_Begin_5f275f2e:
 
@@ -15223,11 +15210,11 @@ translate schinese_rewrite Amble_Voting_Construction_Work_ae3118a1:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_965ff9b3:
 
-    "安布尔走向河边, 木板在你开始用他的工具测量河水时, 工作在河水下是不明智的, 但是安布尔似乎并不介意。"
+    "安布走向河边, 木板在你开始用他的工具测量河水时, 工作在河水下是不明智的, 但是安布似乎并不介意。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_f824e8e5:
 
-    "你指向安布尔需要放下木板的地方, 而他这样做, 当柱子轻而易举地从河床上跳过 一次跳下去。"
+    "你指向安布需要放下木板的地方, 而他这样做, 当柱子轻而易举地从河床上跳过 一次跳下去。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_c2fe8b28:
 
@@ -15239,7 +15226,7 @@ translate schinese_rewrite Amble_Voting_Construction_Work_29daf16c:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_69663b72:
 
-    "安布尔给你一个笑脸笑容。"
+    "安布给你一个笑脸笑容。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_58a0a083:
 
@@ -15251,7 +15238,7 @@ translate schinese_rewrite Amble_Voting_Construction_Work_a8021891:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_4ddc1498:
 
-    "接下来的4小时 安布尔继续把木板 刺进河里 用你准备的绳子固定。"
+    "接下来的4小时 安布继续把木板 刺进河里 用你准备的绳子固定。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_c8b6f13a:
 
@@ -15267,7 +15254,7 @@ translate schinese_rewrite Amble_Voting_Construction_Work_0b1a8b9d:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_8efac1c0:
 
-    "你指向方向 安布尔也开始注意到。"
+    "你指向方向 安布也开始注意到。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_068e395d:
 
@@ -15275,7 +15262,7 @@ translate schinese_rewrite Amble_Voting_Construction_Work_068e395d:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_3307d8ea:
 
-    "当它关闭的时候,你意识到它是一个苔丝怪兽, 和你和塞巴斯和洛塔尔旅行时遇到的 谷歌一样。"
+    "当它关闭的时候,你意识到它是一个苔丝怪兽, 和你和塞巴斯和洛萨尔旅行时遇到的 谷歌一样。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_3a3f4e88:
 
@@ -15291,7 +15278,7 @@ translate schinese_rewrite Amble_Voting_Construction_Work_69804368:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_a4965ab0:
 
-    "安布尔花一小会儿欣赏这个绿色建筑, 在你们面前坐到建筑的座位上。"
+    "安布花一小会儿欣赏这个绿色建筑, 在你们面前坐到建筑的座位上。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_252fe6fa:
 
@@ -15299,11 +15286,11 @@ translate schinese_rewrite Amble_Voting_Construction_Work_252fe6fa:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_75ec7285:
 
-    "它似乎根本不听安布尔的话 随便坐在桥的一端。"
+    "它似乎根本不听安布的话 随便坐在桥的一端。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_647f9923:
 
-    "他很快就进入了阵地 你和安布尔的任何拉拉努力 都白费力气了。"
+    "他很快就进入了阵地 你和安布的任何拉拉努力 都白费力气了。"
 
 translate schinese_rewrite Amble_Voting_Construction_Work_4f9c7c7a:
 
@@ -15399,11 +15386,11 @@ translate schinese_rewrite Amble_Voting_Construction_Work_6086a4a1:
 
 translate schinese_rewrite Amble_Voting_Construction_Work_e1ea108e:
 
-    e "谢谢,安布尔!"
+    e "谢谢,安布!"
 
 translate schinese_rewrite Amble_Voting_Continue_Bridgeroot_Break_a12fb776:
 
-    e "嘿,安布尔,那个怪物还没走吗?"
+    e "嘿,安布,那个怪物还没走吗?"
 
 translate schinese_rewrite Amble_Voting_Continue_Bridgeroot_Break_b347f3f5:
 
@@ -15415,11 +15402,11 @@ translate schinese_rewrite Amble_Voting_Continue_Bridgeroot_Break_2877e600:
 
 translate schinese_rewrite Amble_Voting_Continue_Bridgeroot_Break_639fe8a8:
 
-    "他继续等待着安布勒叹气。"
+    "他继续等待着安布叹气。"
 
 translate schinese_rewrite Amble_Voting_Continue_Bridgeroot_Finish_88332c62:
 
-    e "嘿,安布尔,怪物在哪里?"
+    e "嘿,安布,怪物在哪里?"
 
 translate schinese_rewrite Amble_Voting_Continue_Bridgeroot_Finish_c561b70d:
 
@@ -15455,7 +15442,7 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_c94cc214:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_bd9b257c:
 
-    "你一瞬间盯着安布尔的汗水姿势, 他一直非常渴望在这个项目上工作, 你很高兴看到他全力重建卢斯特菲尔德和山羊部落之间的桥梁。"
+    "你一瞬间盯着安布的汗水姿势, 他一直非常渴望在这个项目上工作, 你很高兴看到他全力重建乐斯民菲尔德和山羊部落之间的桥梁。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_2e8883a0:
 
@@ -15507,11 +15494,11 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_f57fe4f5:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_93de948c:
 
-    "安布尔准备的毛巾都已经浸湿了汗水。你长得非常大,就像你看到安布尔坐在半满桥上一样。"
+    "安布准备的毛巾都已经浸湿了汗水。你长得非常大,就像你看到安布坐在半满桥上一样。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_d8794366:
 
-    "突然,有东西从你身后的树上刺出头来。你来之前,在安布尔后面准备了武器。"
+    "突然,有东西从你身后的树上刺出头来。你来之前,在安布后面准备了武器。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_488390cf:
 
@@ -15547,7 +15534,7 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_1b624c85:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_b5c31843:
 
-    "你点头,然后开始把下一块砖头拖到桥上。安布尔在准备下一块岩石时这样做。"
+    "你点头,然后开始把下一块砖头拖到桥上。安布在准备下一块岩石时这样做。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_be2c8b96:
 
@@ -15587,7 +15574,7 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_972342b0:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_dae69d24:
 
-    "山羊都跳进水里, 因为他们在彼此间发出杂音, 安布尔带领他们 轻松地到桥上, 正如他指示他们做什么。"
+    "山羊都跳进水里, 因为他们在彼此间发出杂音, 安布带领他们 轻松地到桥上, 正如他指示他们做什么。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_21e6b6ef:
 
@@ -15655,7 +15642,7 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_a258e347:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_211d43e5:
 
-    e "跟你共事真是一段愉快的旅程 安布尔。"
+    e "跟你共事真是一段愉快的旅程 安布。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_1c00a361:
 
@@ -15695,7 +15682,7 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_adb3abec:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_70717542:
 
-    "似乎安布尔把桥根的一切都抛在脑后了 你很高兴他这么做了,至少 所发生的事情可能不会改变他。"
+    "似乎安布把桥根的一切都抛在脑后了 你很高兴他这么做了,至少 所发生的事情可能不会改变他。"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_02a42d0d:
 
@@ -15703,11 +15690,11 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_02a42d0d:
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_b9724847:
 
-    "你们两个在路边,安布尔完成桥的装饰。"
+    "你们两个在路边,安布完成桥的装饰。"
 
 translate schinese_rewrite Ole_Voting_Opinion_c5610f86:
 
-    e "欧莱,你对即将到来的投票怎么看?"
+    e "奥利,你对即将到来的投票怎么看?"
 
 translate schinese_rewrite Ole_Voting_Opinion_62ebf383:
 
@@ -15723,11 +15710,11 @@ translate schinese_rewrite Ole_Voting_Opinion_74e94165:
 
 translate schinese_rewrite Ole_Voting_Opinion_ef4d2025:
 
-    "欧勒高声说话 告诉你他显然是在讽刺。"
+    "奥利高声说话 告诉你他显然是在讽刺。"
 
 translate schinese_rewrite Ole_Voting_Opinion_380e3a76:
 
-    o "我猜他已经改变了主意了 在他向富肯大喊大叫之后。"
+    o "我猜他已经改变了主意了 在他向弗坎大喊大叫之后。"
 
 translate schinese_rewrite Ole_Voting_Opinion_f0c0494d:
 
@@ -15735,7 +15722,7 @@ translate schinese_rewrite Ole_Voting_Opinion_f0c0494d:
 
 translate schinese_rewrite Ole_Voting_Opinion_00ec1f58:
 
-    o "拉希姆的声音这么粗鲁,如果村里有人听不到 你会惊讶的。"
+    o "雷希姆的声音这么粗鲁,如果村里有人听不到 你会惊讶的。"
 
 translate schinese_rewrite Ole_Voting_Opinion_95698767:
 
@@ -15947,7 +15934,7 @@ translate schinese_rewrite Ole_Voting_Opinion_e841e69e:
 
 translate schinese_rewrite Ole_Voting_Opinion_1aa010cd:
 
-    o "他们也听说了在卢斯特菲尔德发生的事 所以我想他们会讨论一份新合同。"
+    o "他们也听说了在乐斯民菲尔德发生的事 所以我想他们会讨论一份新合同。"
 
 translate schinese_rewrite Ole_Voting_Opinion_6c623e46:
 
@@ -15983,7 +15970,7 @@ translate schinese_rewrite Ole_Voting_Opinion_e841e69e_1:
 
 translate schinese_rewrite Ole_Voting_Opinion_6b543114:
 
-    o "Gwyd早上和他的供应商见面 他们也听说了卢斯特菲尔德的事 所以我想他们会讨论新的合同。"
+    o "Gwyd早上和他的供应商见面 他们也听说了乐斯民菲尔德的事 所以我想他们会讨论新的合同。"
 
 translate schinese_rewrite Ole_Voting_Opinion_93b1024d:
 
@@ -16063,8 +16050,7 @@ translate schinese_rewrite Ole_Voting_Opinion_9ba79151:
 
 translate schinese_rewrite Ole_Voting_Opinion_8866236d:
 
-    o "Get going now, kiddo."
-
+    o "现在出发吧，小家伙。"
 translate schinese_rewrite Ole_Voting_Opinion_319c8a74:
 
     "奥利把注意力回到家具上 洗到另一个黑暗的角落 如此的辛苦 他正在刮掉梳妆台的油漆。"
@@ -16571,7 +16557,7 @@ translate schinese_rewrite Ole_Voting_Testing_Harp_0d867586:
 
 translate schinese_rewrite Ole_Voting_Testing_Harp_1528a86e:
 
-    "进入你的卧室后,欧莱立即从你手里拿起沉重的竖琴,他从口袋里拿出几张笔记,并开始调整竖琴。"
+    "进入你的卧室后,奥利立即从你手里拿起沉重的竖琴,他从口袋里拿出几张笔记,并开始调整竖琴。"
 
 translate schinese_rewrite Ole_Voting_Testing_Harp_a5a88a8d:
 
@@ -16767,8 +16753,7 @@ translate schinese_rewrite Ole_Voting_Testing_Harp_fa1664f4:
 
 translate schinese_rewrite Ole_Voting_Testing_Harp_b2061764:
 
-    e "Are you not going t-"
-
+    e "你难道不打算——"
 translate schinese_rewrite Ole_Voting_Testing_Harp_f114573b:
 
     o "这是给你的帮助的回报 一定要明智地花掉。"
@@ -16851,7 +16836,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_2bfdc802:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_92980d45:
 
-    "很快,你来到夜之龙 肯恩迅速走来迎接你们俩。"
+    "很快,你来到夜之龙 凯恩迅速走来迎接你们俩。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_097d2399:
 
@@ -16875,7 +16860,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_1ee73411:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_2c2197b7:
 
-    o "谢谢你,肯恩。"
+    o "谢谢你,凯恩。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_022fe633:
 
@@ -16891,7 +16876,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_80dba057:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_caff3fa5:
 
-    p "拐角的是,宽宏大度的肯恩人刚装修的地板 我慢慢地开始喜欢这间酒馆了。"
+    p "拐角的是,宽宏大度的凯恩人刚装修的地板 我慢慢地开始喜欢这间酒馆了。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_083e86a8:
 
@@ -16999,7 +16984,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_f7f7e311:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_02bdf770:
 
-    "奥利 Laws 皮尔卡 之前他写的目录 包含供应商卖给格威德昂的所有材料。"
+    "奥利 Laws 皮尔卡 之前他写的目录 包含供应商卖给格威迪恩的所有材料。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_6772e35b:
 
@@ -17011,7 +16996,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_11a87d38:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_30794f26:
 
-    p "这是... 你那里的一些异国素材,欧莱。"
+    p "这是... 你那里的一些异国素材,奥利。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_0f8a66c5:
 
@@ -17075,7 +17060,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_90a2fd0e:
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_dbd96f4d:
 
-    "欧勒把金子扔掉后 皮尔卡的笑容也随之而来。"
+    "奥利把金子扔掉后 皮尔卡的笑容也随之而来。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_2734e632:
 
@@ -17303,7 +17288,7 @@ translate schinese_rewrite Ole_Voting_Good_Finish_44a1e114:
 
 translate schinese_rewrite Ole_Voting_Good_Finish_c49e6a17:
 
-    o "现在,在过了这么多天之后,即使是拉希姆,他也是个被推翻的老家伙。 突然他翻翻了所有东西,给了我们一张选票来投票支持他最讨厌的那个?"
+    o "现在,在过了这么多天之后,即使是雷希姆,他也是个被推翻的老家伙。 突然他翻翻了所有东西,给了我们一张选票来投票支持他最讨厌的那个?"
 
 translate schinese_rewrite Ole_Voting_Good_Finish_19c9bb79:
 
@@ -17387,7 +17372,7 @@ translate schinese_rewrite Ole_Voting_Good_Finish_5ed850f2:
 
 translate schinese_rewrite Ole_Voting_Good_Finish_f78aa27e:
 
-    "欧勒迅速站起来 他的尾巴轻轻地 刷在你的腿上。"
+    "奥利迅速站起来 他的尾巴轻轻地 刷在你的腿上。"
 
 translate schinese_rewrite Ole_Voting_Good_Finish_2ebd7ce2:
 
@@ -17475,7 +17460,7 @@ translate schinese_rewrite Ole_Voting_Good_Finish_575c6d7f:
 
 translate schinese_rewrite Ole_Voting_Good_Finish_b83b068f:
 
-    e "我明白了,欧莱。"
+    e "我明白了,奥利。"
 
 translate schinese_rewrite Ole_Voting_Good_Finish_33dee1cf:
 
@@ -17483,7 +17468,7 @@ translate schinese_rewrite Ole_Voting_Good_Finish_33dee1cf:
 
 translate schinese_rewrite Ole_Voting_Good_Finish_3fe9cab4:
 
-    "欧莱对你有点担心 也许他会意识到 你的视力变得模糊多了。"
+    "奥利对你有点担心 也许他会意识到 你的视力变得模糊多了。"
 
 translate schinese_rewrite Ole_Voting_Good_Finish_5826a356:
 
@@ -17495,7 +17480,7 @@ translate schinese_rewrite Ole_Voting_Good_Finish_4a39f832:
 
 translate schinese_rewrite Ole_Voting_Good_Finish_70737dec:
 
-    e "妈的... 欧勒是什么意思?"
+    e "妈的... 奥利是什么意思?"
 
 translate schinese_rewrite Ole_Voting_Good_Finish_aa39877a:
 
@@ -17539,7 +17524,7 @@ translate schinese_rewrite Ole_Voting_After_Meeting_c6a13a6f:
 
 translate schinese_rewrite Ole_Voting_After_Meeting_56cd4e7e:
 
-    o "当然,我并没有完全去追Gwyd。他也有他自己的合同, 但至少我们现在占了上风, 哈斯凯尔的交易,还有拉希姆的部分衣服。"
+    o "当然,我并没有完全去追Gwyd。他也有他自己的合同, 但至少我们现在占了上风, 哈斯凯尔的交易,还有雷希姆的部分衣服。"
 
 translate schinese_rewrite Ole_Voting_After_Meeting_e5969d2f:
 
@@ -17591,7 +17576,7 @@ translate schinese_rewrite Ole_Voting_After_Meeting_0c0f6248:
 
 translate schinese_rewrite Ole_Voting_After_Meeting_b8e9afbe:
 
-    e "我很高兴事情进展顺利,欧莱。"
+    e "我很高兴事情进展顺利,奥利。"
 
 translate schinese_rewrite Ole_Voting_After_Meeting_6f4c6504:
 
@@ -17603,7 +17588,7 @@ translate schinese_rewrite Ole_Voting_After_Meeting_0b4b5c23:
 
 translate schinese_rewrite Ole_Voting_After_Meeting_fa1ec12f:
 
-    o "我们不知道格威德昂和供应商有什么关系,但显然他给他做了竖琴。供应商似乎很惊讶。"
+    o "我们不知道格威迪恩和供应商有什么关系,但显然他给他做了竖琴。供应商似乎很惊讶。"
 
 translate schinese_rewrite Ole_Voting_After_Meeting_941c64df:
 
@@ -17619,7 +17604,7 @@ translate schinese_rewrite Ole_Voting_After_Meeting_9cfa35b9:
 
 translate schinese_rewrite Ole_Voting_After_Meeting_b8e9afbe_1:
 
-    e "我很高兴事情进展顺利,欧莱。"
+    e "我很高兴事情进展顺利,奥利。"
 
 translate schinese_rewrite Ole_Voting_After_Meeting_0b4b5c23_1:
 
@@ -17627,7 +17612,7 @@ translate schinese_rewrite Ole_Voting_After_Meeting_0b4b5c23_1:
 
 translate schinese_rewrite Cane_Voting_Opinion_893b2396:
 
-    e "嘿,肯恩,你听说过拉希姆的选票吗?"
+    e "嘿,凯恩,你听说过雷希姆的选票吗?"
 
 translate schinese_rewrite Cane_Voting_Opinion_c47acbb6:
 
@@ -17655,7 +17640,7 @@ translate schinese_rewrite Cane_Voting_Opinion_96bc82a5:
 
 translate schinese_rewrite Cane_Voting_Opinion_eaef8589:
 
-    "肯恩粗心粗意地说 他的手几乎用本能来洗罐头。"
+    "凯恩粗心粗意地说 他的手几乎用本能来洗罐头。"
 
 translate schinese_rewrite Cane_Voting_Opinion_b6a7d7a3:
 
@@ -17667,7 +17652,7 @@ translate schinese_rewrite Cane_Voting_Opinion_b8338f56:
 
 translate schinese_rewrite Cane_Voting_Opinion_ddd70da8:
 
-    e "奇怪,我认识的肯恩人关心的不只是钱。"
+    e "奇怪,我认识的凯恩人关心的不只是钱。"
 
 translate schinese_rewrite Cane_Voting_Opinion_36078000:
 
@@ -17727,7 +17712,7 @@ translate schinese_rewrite Cane_Voting_Opinion_cd48f1d0:
 
 translate schinese_rewrite Cane_Voting_Opinion_238b2aae:
 
-    "他的拇指轻轻地按在肩膀上 你靠在肯恩附近 足以感觉到他为你而燃起的温暖。"
+    "他的拇指轻轻地按在肩膀上 你靠在凯恩附近 足以感觉到他为你而燃起的温暖。"
 
 translate schinese_rewrite Cane_Voting_Opinion_05632831:
 
@@ -17743,7 +17728,7 @@ translate schinese_rewrite Cane_Voting_Opinion_650c5a85:
 
 translate schinese_rewrite Cane_Voting_Opinion_0f1540f4:
 
-    e "如果你需要帮忙,肯恩..."
+    e "如果你需要帮忙,凯恩..."
 
 translate schinese_rewrite Cane_Voting_Opinion_1d07d6f9:
 
@@ -17847,7 +17832,7 @@ translate schinese_rewrite Cane_Voting_Opinion_e677acc5:
 
 translate schinese_rewrite Cane_Voting_Opinion_50e12f27:
 
-    "肯恩的笑容会变成骄傲的笑容。"
+    "凯恩的笑容会变成骄傲的笑容。"
 
 translate schinese_rewrite Cane_Voting_Opinion_db44c6bb:
 
@@ -17863,15 +17848,14 @@ translate schinese_rewrite Cane_Voting_Opinion_fe588d56:
 
 translate schinese_rewrite Cane_Voting_Opinion_246767ff:
 
-    e "也许等一会儿,肯恩,我还有别的事要做。"
+    e "也许等一会儿,凯恩,我还有别的事要做。"
 
 translate schinese_rewrite Cane_Voting_Opinion_b19a4c9e:
 
-    c "Dang, well... okay lad."
-
+    c "该死，好吧……行了，小伙子。"
 translate schinese_rewrite Rahim_Vote_Day_78e315f7:
 
-    "投票日到了 鲁斯特菲尔德和人在一起。"
+    "投票日到了 乐斯民菲尔德和人在一起。"
 
 translate schinese_rewrite Rahim_Vote_Day_77d5483e:
 
@@ -17899,7 +17883,7 @@ translate schinese_rewrite Rahim_Vote_Day_b06b4ab6:
 
 translate schinese_rewrite Rahim_Vote_Day_071cffaf:
 
-    "拉希姆站在中间 而奥勒站在投票箱的一侧。"
+    "雷希姆站在中间 而奥勒站在投票箱的一侧。"
 
 translate schinese_rewrite Rahim_Vote_Day_eedbec0a:
 
@@ -17915,7 +17899,7 @@ translate schinese_rewrite Rahim_Vote_Day_0f7875e4:
 
 translate schinese_rewrite Rahim_Vote_Day_2bb0defe:
 
-    e "洛塔尔?你投票了吗?"
+    e "洛萨尔?你投票了吗?"
 
 translate schinese_rewrite Rahim_Vote_Day_1500154a:
 
@@ -17935,7 +17919,7 @@ translate schinese_rewrite Rahim_Vote_Day_50a1ba74:
 
 translate schinese_rewrite Rahim_Vote_Day_40f4b819:
 
-    l "我强烈建议安布尔和约格投票反对 所以你最好明智地选择自己的选择。"
+    l "我强烈建议安布和约格投票反对 所以你最好明智地选择自己的选择。"
 
 translate schinese_rewrite Rahim_Vote_Day_bac6fda3:
 
@@ -17943,11 +17927,11 @@ translate schinese_rewrite Rahim_Vote_Day_bac6fda3:
 
 translate schinese_rewrite Rahim_Vote_Day_3a40084b:
 
-    "你保持沉默,因为洛塔尔的手 徘徊在你的身体上, 它就在你身后的人面前 在排队。"
+    "你保持沉默,因为洛萨尔的手 徘徊在你的身体上, 它就在你身后的人面前 在排队。"
 
 translate schinese_rewrite Rahim_Vote_Day_5bf69d93:
 
-    e "洛塔尔?"
+    e "洛萨尔?"
 
 translate schinese_rewrite Rahim_Vote_Day_362509f2:
 
@@ -17983,11 +17967,11 @@ translate schinese_rewrite Rahim_Vote_Day_07aeae74:
 
 translate schinese_rewrite Rahim_Vote_Day_fcd79924:
 
-    "你的呼喊几乎把整个村子的注意力 都转向你和洛特哈尔了 他立刻撤退,但他的眉毛并没有消失。"
+    "你的呼喊几乎把整个村子的注意力 都转向你和洛萨尔了 他立刻撤退,但他的眉毛并没有消失。"
 
 translate schinese_rewrite Rahim_Vote_Day_b598f6a8:
 
-    "洛塔尔环顾四周, 他看见几打双眼睛 盯着你的方向闪闪发光。"
+    "洛萨尔环顾四周, 他看见几打双眼睛 盯着你的方向闪闪发光。"
 
 translate schinese_rewrite Rahim_Vote_Day_4bd97121:
 
@@ -17995,11 +17979,11 @@ translate schinese_rewrite Rahim_Vote_Day_4bd97121:
 
 translate schinese_rewrite Rahim_Vote_Day_9f8e561c:
 
-    "即使是按照洛塔尔的标准 他似乎非常认真地对待选票 也许太严肃了。"
+    "即使是按照洛萨尔的标准 他似乎非常认真地对待选票 也许太严肃了。"
 
 translate schinese_rewrite Rahim_Vote_Day_03c0b6be:
 
-    "你现在真的害怕洛特哈尔了 虽然你知道他可以占有他人 但仍有一点你觉得这对你来说太过分。"
+    "你现在真的害怕洛萨尔了 虽然你知道他可以占有他人 但仍有一点你觉得这对你来说太过分。"
 
 translate schinese_rewrite Rahim_Vote_Day_4aceafc7:
 
@@ -18011,7 +17995,7 @@ translate schinese_rewrite Rahim_Vote_Day_1f0cf2c7:
 
 translate schinese_rewrite Rahim_Vote_Day_ffae7aa6:
 
-    "至少它还在这里,你认为洛塔尔可以很容易地从你那里偷东西, 但是也许他觉得他反对。"
+    "至少它还在这里,你认为洛萨尔可以很容易地从你那里偷东西, 但是也许他觉得他反对。"
 
 translate schinese_rewrite Rahim_Vote_Day_fbc36b6d:
 
@@ -18043,15 +18027,15 @@ translate schinese_rewrite Rahim_Vote_Day_9ee69d6d:
 
 translate schinese_rewrite Rahim_Vote_Day_b4e17f27:
 
-    o "嘿,谢谢你的投票,[e] 你可以在外面等,等他们全部清点完后,拉希姆会宣布。"
+    o "嘿,谢谢你的投票,[e] 你可以在外面等,等他们全部清点完后,雷希姆会宣布。"
 
 translate schinese_rewrite Rahim_Vote_Day_349df98f:
 
-    "欧莱带着一个亲切的拍拍背部 搬去帮助下一个村民 让你马上离开舞台。"
+    "奥利带着一个亲切的拍拍背部 搬去帮助下一个村民 让你马上离开舞台。"
 
 translate schinese_rewrite Rahim_Vote_Day_ed2ae156:
 
-    "像奥利这样的几个其他帮手开始数数 突然你注意到洛萨在柜台周围徘徊 他盯着什么东西。"
+    "像奥利这样的几个其他帮手开始数数 突然你注意到洛萨尔在柜台周围徘徊 他盯着什么东西。"
 
 translate schinese_rewrite Rahim_Vote_Day_be7fa5d4:
 
@@ -18083,7 +18067,7 @@ translate schinese_rewrite Rahim_Vote_Day_ace8f52c:
 
 translate schinese_rewrite Rahim_Vote_Day_049adb19:
 
-    s "我花了很多时间想 我该用什么做卢斯特菲尔德的偶像。"
+    s "我花了很多时间想 我该用什么做乐斯民菲尔德的偶像。"
 
 translate schinese_rewrite Rahim_Vote_Day_8bc94050:
 
@@ -18095,7 +18079,7 @@ translate schinese_rewrite Rahim_Vote_Day_f1d8886a:
 
 translate schinese_rewrite Rahim_Vote_Day_957ae864:
 
-    s "卢斯特菲尔德没有太多人 所以我不知道他们为什么花这么长时间。"
+    s "乐斯民菲尔德没有太多人 所以我不知道他们为什么花这么长时间。"
 
 translate schinese_rewrite Rahim_Vote_Day_6a75ed0f:
 
@@ -18107,11 +18091,11 @@ translate schinese_rewrite Rahim_Vote_Day_a323ca1c:
 
 translate schinese_rewrite Rahim_Vote_Day_7578ce92:
 
-    "当你和塞巴斯一起等待 你决定的重心决定在你身上 你不得不感受到这个时刻 在卢斯特菲尔德中心的意义。"
+    "当你和塞巴斯一起等待 你决定的重心决定在你身上 你不得不感受到这个时刻 在乐斯民菲尔德中心的意义。"
 
 translate schinese_rewrite Rahim_Vote_Day_d416e88e:
 
-    "一方面是山羊, 你很想看到福坎 满足了一次,因为两派已经修补了关系, 但另一方面是洛塔尔, 如果你不投票反对,他一定会生气。"
+    "一方面是山羊, 你很想看到弗坎 满足了一次,因为两派已经修补了关系, 但另一方面是洛萨尔, 如果你不投票反对,他一定会生气。"
 
 translate schinese_rewrite Rahim_Vote_Day_5ec8518d:
 
@@ -18123,7 +18107,7 @@ translate schinese_rewrite Rahim_Vote_Day_8626c3f0:
 
 translate schinese_rewrite Rahim_Vote_Day_34a716d3:
 
-    "只有当你回首往事时,你才注意到角落里有乔格,安布尔和他交谈,他们看起来比正常人更痛苦。"
+    "只有当你回首往事时,你才注意到角落里有乔格,安布和他交谈,他们看起来比正常人更痛苦。"
 
 translate schinese_rewrite Rahim_Vote_Day_d5a9cf36:
 
@@ -18135,11 +18119,11 @@ translate schinese_rewrite Rahim_Vote_Day_80bdb269:
 
 translate schinese_rewrite Rahim_Vote_Day_08a45b8a:
 
-    "拉希姆在最后一张选票箱关闭后, 走上舞台,。"
+    "雷希姆在最后一张选票箱关闭后, 走上舞台,。"
 
 translate schinese_rewrite Rahim_Vote_Day_ba0c3e3f:
 
-    r "我们计算了最后的票数 我手上有卢斯特菲尔德的命运。"
+    r "我们计算了最后的票数 我手上有乐斯民菲尔德的命运。"
 
 translate schinese_rewrite Rahim_Vote_Day_a0b6c3e6:
 
@@ -18147,7 +18131,7 @@ translate schinese_rewrite Rahim_Vote_Day_a0b6c3e6:
 
 translate schinese_rewrite Rahim_Vote_Day_f3326f4e:
 
-    r "这是卢斯特菲尔德人民第一次发言,我希望每个人都尊重结果,无论结果如何。"
+    r "这是乐斯民菲尔德人民第一次发言,我希望每个人都尊重结果,无论结果如何。"
 
 translate schinese_rewrite Rahim_Vote_Day_3971cabb:
 
@@ -18155,7 +18139,7 @@ translate schinese_rewrite Rahim_Vote_Day_3971cabb:
 
 translate schinese_rewrite Rahim_Vote_Day_05e879a3:
 
-    "拉希姆,握住最后的计数 在他颤抖的手, 汗水闪闪在他的 羽毛眉毛上。"
+    "雷希姆,握住最后的计数 在他颤抖的手, 汗水闪闪在他的 羽毛眉毛上。"
 
 translate schinese_rewrite Rahim_Vote_Day_7e7c6994:
 
@@ -18179,7 +18163,7 @@ translate schinese_rewrite Rahim_Vote_Day_a4b62a9b:
 
 translate schinese_rewrite Rahim_Vote_Day_99b3fce6:
 
-    "你听到碎瓷响的声音 以及来自洛特哈尔的响亮呼声。"
+    "你听到碎瓷响的声音 以及来自洛萨尔的响亮呼声。"
 
 translate schinese_rewrite Rahim_Vote_Day_9d6324ed:
 
@@ -18191,11 +18175,11 @@ translate schinese_rewrite Rahim_Vote_Day_a33c17c6:
 
 translate schinese_rewrite Rahim_Vote_Day_3fb5afdf:
 
-    "拉希姆冷静地说 显然这是针对洛萨的。"
+    "雷希姆冷静地说 显然这是针对洛萨尔的。"
 
 translate schinese_rewrite Rahim_Vote_Day_1f08e04d:
 
-    "洛萨盯着碎碎片一眼 直到突然他的眼神 锁定在你身上。"
+    "洛萨尔盯着碎碎片一眼 直到突然他的眼神 锁定在你身上。"
 
 translate schinese_rewrite Rahim_Vote_Day_31f8526d:
 
@@ -18203,7 +18187,7 @@ translate schinese_rewrite Rahim_Vote_Day_31f8526d:
 
 translate schinese_rewrite Rahim_Vote_Day_7f3ce90e:
 
-    "没有一句话,洛塔尔就转身,暴风雨吹散, 他的重脚步声在广场上回响。"
+    "没有一句话,洛萨尔就转身,暴风雨吹散, 他的重脚步声在广场上回响。"
 
 translate schinese_rewrite Rahim_Vote_Day_49ac49aa:
 
@@ -18247,11 +18231,11 @@ translate schinese_rewrite Rahim_Vote_Day_a4b62a9b_1:
 
 translate schinese_rewrite Rahim_Vote_Day_c4bbea3d:
 
-    l "什么他妈的,拉希姆?"
+    l "什么他妈的,雷希姆?"
 
 translate schinese_rewrite Rahim_Vote_Day_a19298f9:
 
-    "洛塔尔的声音,一阵雷鸣的咆哮, 穿过了骚动。"
+    "洛萨尔的声音,一阵雷鸣的咆哮, 穿过了骚动。"
 
 translate schinese_rewrite Rahim_Vote_Day_88097104:
 
@@ -18263,7 +18247,7 @@ translate schinese_rewrite Rahim_Vote_Day_c5bbc8b5:
 
 translate schinese_rewrite Rahim_Vote_Day_5d0f4e0e:
 
-    "英雄狼爬上舞台,拉希姆毫不犹豫,平静地向前迈出一步,向洛特哈尔讲话。"
+    "英雄狼爬上舞台,雷希姆毫不犹豫,平静地向前迈出一步,向洛萨尔讲话。"
 
 translate schinese_rewrite Rahim_Vote_Day_9726f083:
 
@@ -18287,7 +18271,7 @@ translate schinese_rewrite Rahim_Vote_Day_ccdee50a:
 
 translate schinese_rewrite Rahim_Vote_Day_26b71a4a:
 
-    "拉希姆向人群讲话,然后悄悄地跑向洛塔尔。"
+    "雷希姆向人群讲话,然后悄悄地跑向洛萨尔。"
 
 translate schinese_rewrite Rahim_Vote_Day_6409e6aa:
 
@@ -18295,7 +18279,7 @@ translate schinese_rewrite Rahim_Vote_Day_6409e6aa:
 
 translate schinese_rewrite Rahim_Vote_Day_2d239ab4:
 
-    r "我投我自己的票,是我的事,不是你的判断权,洛萨。"
+    r "我投我自己的票,是我的事,不是你的判断权,洛萨尔。"
 
 translate schinese_rewrite Rahim_Vote_Day_75e9a106:
 
@@ -18303,11 +18287,11 @@ translate schinese_rewrite Rahim_Vote_Day_75e9a106:
 
 translate schinese_rewrite Rahim_Vote_Day_f0e4e95a:
 
-    l "我是卢斯特菲尔德的英雄,我救了你们 远离山羊,现在, 而不是像正常人一样 远离山羊?"
+    l "我是乐斯民菲尔德的英雄,我救了你们 远离山羊,现在, 而不是像正常人一样 远离山羊?"
 
 translate schinese_rewrite Rahim_Vote_Day_79ee5c71:
 
-    l "一半的卢斯特菲尔德人投票不 你为什么不尊重他们的意见 你个伪君子。"
+    l "一半的乐斯民菲尔德人投票不 你为什么不尊重他们的意见 你个伪君子。"
 
 translate schinese_rewrite Rahim_Vote_Day_b40a95a9:
 
@@ -18319,7 +18303,7 @@ translate schinese_rewrite Rahim_Vote_Day_0a94a1da:
 
 translate schinese_rewrite Rahim_Vote_Day_283d9c61:
 
-    "洛塔尔的脸被重新洗刷 声音在镇中心被打响。"
+    "洛萨尔的脸被重新洗刷 声音在镇中心被打响。"
 
 translate schinese_rewrite Rahim_Vote_Day_30efcf5c:
 
@@ -18335,7 +18319,7 @@ translate schinese_rewrite Rahim_Vote_Day_b374540e:
 
 translate schinese_rewrite Rahim_Vote_Day_32b00c5f:
 
-    "洛塔尔的老手,他的灰色脸颊 红了拉希姆的怨恨。"
+    "洛萨尔的老手,他的灰色脸颊 红了雷希姆的怨恨。"
 
 translate schinese_rewrite Rahim_Vote_Day_0d963177:
 
@@ -18343,7 +18327,7 @@ translate schinese_rewrite Rahim_Vote_Day_0d963177:
 
 translate schinese_rewrite Rahim_Vote_Day_e7a5d895:
 
-    "拉希姆平静地说, 但他的眼神似乎说别的方式。"
+    "雷希姆平静地说, 但他的眼神似乎说别的方式。"
 
 translate schinese_rewrite Rahim_Vote_Day_a45346e6:
 
@@ -18359,19 +18343,19 @@ translate schinese_rewrite Rahim_Vote_Day_a0fda9b3_1:
 
 translate schinese_rewrite Rahim_Vote_Day_235a40b6:
 
-    "拉希姆静静地离开平台时,洛塔尔目光凝视着拉希姆。 人群也很快开始消逝,而你和塞布则离开了。"
+    "雷希姆静静地离开平台时,洛萨尔目光凝视着雷希姆。 人群也很快开始消逝,而你和塞布则离开了。"
 
 translate schinese_rewrite Rahim_Vote_Day_a7b7dcd5:
 
-    "你转过身去,你注意到洛塔尔还站着, 但他的目光突然凝固到你的视线上,你快看远了。"
+    "你转过身去,你注意到洛萨尔还站着, 但他的目光突然凝固到你的视线上,你快看远了。"
 
 translate schinese_rewrite Rahim_Vote_Day_6ae48654:
 
-    s "你看到洛塔尔在那里做了什么吗?"
+    s "你看到洛萨尔在那里做了什么吗?"
 
 translate schinese_rewrite Rahim_Vote_Day_b3a3e963:
 
-    s "拉希姆竟然这么狠地扇他耳光,除了两个小仆人之外,他容忍他,是全村人中最不关心他的人。"
+    s "雷希姆竟然这么狠地扇他耳光,除了两个小仆人之外,他容忍他,是全村人中最不关心他的人。"
 
 translate schinese_rewrite Rahim_Vote_Day_74ab1d0c:
 
@@ -18379,7 +18363,7 @@ translate schinese_rewrite Rahim_Vote_Day_74ab1d0c:
 
 translate schinese_rewrite Rahim_Vote_Day_8d6c5650:
 
-    "你记得洛塔尔在你身体周围搜寻 就像你在排队时一样 然后... 当他们计票时 他站在后排 观察着什么。"
+    "你记得洛萨尔在你身体周围搜寻 就像你在排队时一样 然后... 当他们计票时 他站在后排 观察着什么。"
 
 translate schinese_rewrite Rahim_Vote_Day_24094986:
 
@@ -18387,11 +18371,11 @@ translate schinese_rewrite Rahim_Vote_Day_24094986:
 
 translate schinese_rewrite Rahim_Vote_Day_5dba2f1f:
 
-    e "洛塔尔怎么了?"
+    e "洛萨尔怎么了?"
 
 translate schinese_rewrite Rahim_Vote_Day_93dba618:
 
-    s "这是典型的洛萨 每当有事情不按他的计划去做时。"
+    s "这是典型的洛萨尔 每当有事情不按他的计划去做时。"
 
 translate schinese_rewrite Rahim_Vote_Day_661d0082:
 
@@ -18423,15 +18407,15 @@ translate schinese_rewrite Rahim_Vote_Day_5df83a26:
 
 translate schinese_rewrite Rahim_Vote_Day_0e60d3ff:
 
-    e "说实话,拉希姆在夜里完全改变了他的观点。"
+    e "说实话,雷希姆在夜里完全改变了他的观点。"
 
 translate schinese_rewrite Rahim_Vote_Day_9dbcd6e9:
 
-    s "拉希姆放弃投票了, 我从不认为像他这样的老暴躁的家伙 会想再见到他们的山羊。"
+    s "雷希姆放弃投票了, 我从不认为像他这样的老暴躁的家伙 会想再见到他们的山羊。"
 
 translate schinese_rewrite Rahim_Vote_Day_013b90bf:
 
-    s "嘿,我告诉过你拉希姆在我的迷恋魅力控制之下,哇哦哦!"
+    s "嘿,我告诉过你雷希姆在我的迷恋魅力控制之下,哇哦哦!"
 
 translate schinese_rewrite Rahim_Vote_Day_a0e68785:
 
@@ -18467,7 +18451,7 @@ translate schinese_rewrite Rahim_Vote_Day_ab391e81:
 
 translate schinese_rewrite Rahim_Vote_Day_a173eead:
 
-    "拉希姆宣称,他的声音 稳稳,但 与当下的严重性。"
+    "雷希姆宣称,他的声音 稳稳,但 与当下的严重性。"
 
 translate schinese_rewrite Rahim_Vote_Day_a8014323:
 
@@ -18483,7 +18467,7 @@ translate schinese_rewrite Rahim_Vote_Day_59d87339:
 
 translate schinese_rewrite Rahim_Vote_Day_4ce4623e:
 
-    r "不应该再问更多的问题了 让我们考虑一下 鲁斯特菲尔德的一章的结尾。"
+    r "不应该再问更多的问题了 让我们考虑一下 乐斯民菲尔德的一章的结尾。"
 
 translate schinese_rewrite Rahim_Vote_Day_a4b62a9b_2:
 
@@ -18551,7 +18535,7 @@ translate schinese_rewrite Rahim_Vote_Day_87fea982:
 
 translate schinese_rewrite Rahim_Vote_Day_Late_b7a52401:
 
-    "当你走在卢斯特菲尔德的街道上时 突然间你想起了投票日。"
+    "当你走在乐斯民菲尔德的街道上时 突然间你想起了投票日。"
 
 translate schinese_rewrite Rahim_Vote_Day_Late_edcc8e3c:
 
@@ -18559,7 +18543,7 @@ translate schinese_rewrite Rahim_Vote_Day_Late_edcc8e3c:
 
 translate schinese_rewrite Rahim_Vote_Day_Late_67c5aa36:
 
-    "当你到达时 人群已经清空 拉希姆已经无处可去。"
+    "当你到达时 人群已经清空 雷希姆已经无处可去。"
 
 translate schinese_rewrite Rahim_Vote_Day_Late_ace470fd:
 
@@ -18575,11 +18559,11 @@ translate schinese_rewrite Rahim_Vote_Day_Late_3e93916a:
 
 translate schinese_rewrite Rahim_Vote_Day_Late_d62118cb:
 
-    "由卢斯特菲尔德多数人投票, 我们将恢复与山羊部落的联盟, 感谢所有参加投票的人。"
+    "由乐斯民菲尔德多数人投票, 我们将恢复与山羊部落的联盟, 感谢所有参加投票的人。"
 
 translate schinese_rewrite Rahim_Vote_Day_Late_1a398a06:
 
-    "作为以卢斯特菲尔德多数投票的结果,我们将继续一如既往地向参加投票的每一个人表示感谢。"
+    "作为以乐斯民菲尔德多数投票的结果,我们将继续一如既往地向参加投票的每一个人表示感谢。"
 
 translate schinese_rewrite Rahim_Vote_Day_Late_86157e81:
 
@@ -18587,15 +18571,15 @@ translate schinese_rewrite Rahim_Vote_Day_Late_86157e81:
 
 translate schinese_rewrite Rahim_Vote_Day_Late_8ce68763:
 
-    "以拉希姆对公告的写法 你有点相信 他可能对你缺席不满意。"
+    "以雷希姆对公告的写法 你有点相信 他可能对你缺席不满意。"
 
 translate schinese_rewrite Rahim_Vote_Day_Late_be1315ce:
 
-    "你也许想和拉希姆谈谈..."
+    "你也许想和雷希姆谈谈..."
 
 translate schinese_rewrite Jog_Voting_Opinion_a56d9532:
 
-    e "你觉得卢斯特菲尔德的投票日怎么样?"
+    e "你觉得乐斯民菲尔德的投票日怎么样?"
 
 translate schinese_rewrite Jog_Voting_Opinion_c90b8630:
 
@@ -18635,7 +18619,7 @@ translate schinese_rewrite Jog_Voting_Opinion_1a36b76d:
 
 translate schinese_rewrite Jog_Voting_Opinion_15a7df8b:
 
-    j "别问了,安布尔可能还是会告诉你的。"
+    j "别问了,安布可能还是会告诉你的。"
 
 translate schinese_rewrite Jog_Voting_Opinion_a013e22c:
 
@@ -18859,7 +18843,7 @@ translate schinese_rewrite Jog_Vote_Countdown_Success_1454a240:
 
 translate schinese_rewrite Jog_Vote_Countdown_Success_988c888f:
 
-    j "我已经叫奥勒在肯恩家见面了 所以狮子一个人去。"
+    j "我已经叫奥勒在凯恩家见面了 所以狮子一个人去。"
 
 translate schinese_rewrite Jog_Vote_Countdown_Success_fc606b9d:
 
@@ -19099,7 +19083,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_11942a07:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_5978cf5b:
 
-    s "我说服拉希姆考虑再和山羊相处。"
+    s "我说服雷希姆考虑再和山羊相处。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_49fadaff:
 
@@ -19223,11 +19207,11 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_ddf8be55:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_49a81b56:
 
-    ct "你们是我的家人,不言而喻,我想让你不仅安全而且繁荣,不管是在宫殿还是卢斯特菲尔德。"
+    ct "你们是我的家人,不言而喻,我想让你不仅安全而且繁荣,不管是在宫殿还是乐斯民菲尔德。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_5f844afb:
 
-    s "不,你做你该做的事 因为它有利于你和卢斯特菲尔德 因为你是利卡西亚的国王。"
+    s "不,你做你该做的事 因为它有利于你和乐斯民菲尔德 因为你是利卡西亚的国王。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_866d9683:
 
@@ -19371,7 +19355,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_a24b8fad:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_462ef58c:
 
-    s "我和拉希姆说话时你在场。"
+    s "我和雷希姆说话时你在场。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_7b52d27b:
 
@@ -19483,7 +19467,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_afe73c94:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_037dea58:
 
-    "你甚至不敢再看Seb了, 相反,通往卢斯特菲尔德的道路 一直只是沉默, 你们两个有东西 思考,也许,新的视角 彼此。"
+    "你甚至不敢再看Seb了, 相反,通往乐斯民菲尔德的道路 一直只是沉默, 你们两个有东西 思考,也许,新的视角 彼此。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_f2602b3b:
 
@@ -19499,7 +19483,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_98a662fb:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_e5e0a6a8:
 
-    "欧勒问塞巴斯,谁忽视他,就快跑上楼,他很快的将注意力转向你。"
+    "奥利问塞巴斯,谁忽视他,就快跑上楼,他很快的将注意力转向你。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_1c98e1b0:
 
@@ -19531,7 +19515,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_4118f6e9:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_fe675573:
 
-    "毫不犹豫地从厚厚的草地里溜走 然后跑回卢斯特菲尔德。"
+    "毫不犹豫地从厚厚的草地里溜走 然后跑回乐斯民菲尔德。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_4ad037e2:
 
@@ -19547,7 +19531,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_25b33f19:
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_591a35c3:
 
-    "无论哪种方式, 似乎塞巴斯秘密地与他见面, 也许谈论投票及其对卢斯特菲尔德的后果。"
+    "无论哪种方式, 似乎塞巴斯秘密地与他见面, 也许谈论投票及其对乐斯民菲尔德的后果。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_5ebb8c28:
 
@@ -19907,7 +19891,7 @@ translate schinese_rewrite Jog_Vote_Report_f1d8a1ec:
 
 translate schinese_rewrite Jog_Vote_Report_f1632311:
 
-    e "好吧,塞巴斯实际上在和他叔叔交谈 他叔叔在问卢斯特菲尔德的联盟。"
+    e "好吧,塞巴斯实际上在和他叔叔交谈 他叔叔在问乐斯民菲尔德的联盟。"
 
 translate schinese_rewrite Jog_Vote_Report_1878605f:
 
@@ -20239,11 +20223,11 @@ translate schinese_rewrite Jog_Vote_Sebas_Escape_Fail_f447c7fb:
 
 translate schinese_rewrite Jog_Vote_Sebas_Escape_Fail_9582a6f3:
 
-    "快,你站起来追他 但他已经跑回卢斯特菲尔德了 让你在森林里再次孤单了。"
+    "快,你站起来追他 但他已经跑回乐斯民菲尔德了 让你在森林里再次孤单了。"
 
 translate schinese_rewrite Jog_Vote_Sebas_Escape_Success_fe675573:
 
-    "毫不犹豫地从厚厚的草地里溜走 然后跑回卢斯特菲尔德。"
+    "毫不犹豫地从厚厚的草地里溜走 然后跑回乐斯民菲尔德。"
 
 translate schinese_rewrite Arthur_Voting_Opinion_175bc015:
 
@@ -20251,7 +20235,7 @@ translate schinese_rewrite Arthur_Voting_Opinion_175bc015:
 
 translate schinese_rewrite Arthur_Voting_Opinion_ee6e5935:
 
-    e "阿蒂,你对卢斯特菲尔德的投票 有何看法?"
+    e "阿蒂,你对乐斯民菲尔德的投票 有何看法?"
 
 translate schinese_rewrite Arthur_Voting_Opinion_759114a3:
 
@@ -20267,7 +20251,7 @@ translate schinese_rewrite Arthur_Voting_Opinion_a0ee09bd:
 
 translate schinese_rewrite Rahim_Dialogue_End_8d660a05:
 
-    e "仅此而已 谢谢你聊天 拉希姆。"
+    e "仅此而已 谢谢你聊天 雷希姆。"
 
 translate schinese_rewrite Rahim_Dialogue_End_127b7e99:
 

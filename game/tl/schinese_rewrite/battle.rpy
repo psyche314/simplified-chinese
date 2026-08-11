@@ -27,12 +27,10 @@ translate schinese_rewrite slime_win_670fb81f:
 
 translate schinese_rewrite slime_win_65828eaf:
 
-    "As you search around the slime, you found a [slimeball_item.name], a [slimecrystal_item.name] 和 [exp_drop] EXP!"
-
+    "你在史莱姆周围搜寻，找到[slimeball_item.name]、[slimecrystal_item.name]，并获得[exp_drop]点经验！"
 translate schinese_rewrite slime_win_63f71357:
 
-    "As you search around the slime, you found a [slimeball_item.name] 和 [exp_drop] EXP!"
-
+    "你在史莱姆周围搜寻，找到[slimeball_item.name]，并获得[exp_drop]点经验！"
 translate schinese_rewrite slime_lose_faae127b:
 
     "你跌倒了,膝盖感到虚弱,几乎喘不过气来,面对着粘液的粗糙质量。预期你会摔倒在草地上,抓住身体的能量。"
@@ -319,8 +317,7 @@ translate schinese_rewrite buggbear_sedated_745d7195:
 
 translate schinese_rewrite buggbear_sedated_b06e8613:
 
-    e "Just... get close..."
-
+    e "就这样……靠近一点……"
 translate schinese_rewrite buggbear_sedated_7baafefa:
 
     "你把手放在那个无意识的虫熊身上 他肯定睡着了。"
@@ -607,7 +604,7 @@ translate schinese_rewrite mossgolem_battle_loop_b44c1b06:
 
 translate schinese_rewrite mossgolem_battle_loop_d8f33499:
 
-    "你很快就认得那个难听的声音了,是洛萨,他出现在歌舞厅后面, 因为它在地上倒下。"
+    "你很快就认得那个难听的声音了,是洛萨尔,他出现在歌舞厅后面, 因为它在地上倒下。"
 
 translate schinese_rewrite mossgolem_battle_loop_88eafef6:
 

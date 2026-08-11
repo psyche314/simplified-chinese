@@ -155,7 +155,7 @@ translate schinese_rewrite Puro_Beginning_Talk_f1a8b8bb:
 
 translate schinese_rewrite Puro_Beginning_Talk_7da61a4c:
 
-    "除了和奇姆在一起 帮助长者是你第二最珍惜的时间。"
+    "除了和齐门在一起 帮助长者是你第二最珍惜的时间。"
 
 translate schinese_rewrite Puro_Beginning_Talk_33ce0b16:
 
@@ -743,7 +743,7 @@ translate schinese_rewrite Puro_Watchtower_Thoughts_3d3169e1:
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_b3057f33:
 
-    "也许他们现在可以抓到奇姆了 或者是犯人。"
+    "也许他们现在可以抓到齐门了 或者是犯人。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_ce29e3e3:
 
@@ -1071,7 +1071,7 @@ translate schinese_rewrite Encountering_Moine_1c787ad6:
 
 translate schinese_rewrite Encountering_Moine_58dfb455:
 
-    "希望的一瞥 告诉你可能是奇姆 或许你终于找到他了。"
+    "希望的一瞥 告诉你可能是齐门 或许你终于找到他了。"
 
 translate schinese_rewrite Encountering_Moine_75e93169:
 
@@ -1139,7 +1139,7 @@ translate schinese_rewrite Moine_Introduction_8e008212:
 
 translate schinese_rewrite Moine_Introduction_f61f6aba:
 
-    my "Ru, ru.Rutt Chak 奇姆。"
+    my "Ru, ru.Rutt Chak 齐门。"
 
 translate schinese_rewrite Moine_Introduction_6f317147:
 
@@ -1175,7 +1175,7 @@ translate schinese_rewrite Moine_Introduction_4559a2c5:
 
 translate schinese_rewrite Moine_Introduction_bdab0f13:
 
-    my "奇姆?"
+    my "齐门?"
 
 translate schinese_rewrite Moine_Introduction_7bf2af0a:
 
@@ -1455,7 +1455,7 @@ translate schinese_rewrite Moine_Inbetween_Land_a20cefa7_1:
 
 translate schinese_rewrite Moine_Inbetween_Land_03317b51:
 
-    yu "奇姆...我希望你没事..."
+    yu "齐门...我希望你没事..."
 
 translate schinese_rewrite Moine_Inbetween_Land_27d67356:
 

@@ -11,7 +11,7 @@ translate schinese_rewrite Sebas_First_Meet_11fc1673:
 
 translate schinese_rewrite Sebas_First_Meet_bc4ef3b2:
 
-    "你最后想到的就是奇姆 或许你和他的命运是一样的。"
+    "你最后想到的就是齐门 或许你和他的命运是一样的。"
 
 translate schinese_rewrite Sebas_First_Meet_53ae6d02:
 
@@ -243,8 +243,7 @@ translate schinese_rewrite namedetermine_ccf86473:
 
 translate schinese_rewrite namedetermine_f274c355:
 
-    s "No, No, No. Get another name."
-
+    s "不行，不行，不行。换个名字。"
 translate schinese_rewrite namedetermine_72a33094:
 
     e "……"
@@ -439,7 +438,7 @@ translate schinese_rewrite name_done_03a3cdf2:
 
 translate schinese_rewrite name_done_e7191ecf:
 
-    e "他是奇姆 我要把他带回来。"
+    e "他是齐门 我要把他带回来。"
 
 translate schinese_rewrite name_done_11d37f2a:
 
@@ -455,7 +454,7 @@ translate schinese_rewrite name_done_b41097bd:
 
 translate schinese_rewrite name_done_4d7c1df5:
 
-    e "也许我可以先找到奇姆 我有预感他在这里。"
+    e "也许我可以先找到齐门 我有预感他在这里。"
 
 translate schinese_rewrite name_done_fbf2eb27:
 
@@ -479,8 +478,7 @@ translate schinese_rewrite name_done_66368f6d:
 
 translate schinese_rewrite name_done_095c71d0:
 
-    e "Tsssk, you're hurting me..."
-
+    e "嘶——你弄疼我了……"
 translate schinese_rewrite name_done_48511b5a:
 
     s "嘿,[e],在流血,你的后脑勺..."
@@ -747,7 +745,7 @@ translate schinese_rewrite name_done_82569127:
 
 translate schinese_rewrite name_done_5f6ec404:
 
-    "你的伤口突然在剧烈的疼痛和痛苦中沸腾 你大喊大叫 而欧勒和塞巴斯都关心你。"
+    "你的伤口突然在剧烈的疼痛和痛苦中沸腾 你大喊大叫 而奥利和塞巴斯都关心你。"
 
 translate schinese_rewrite name_done_c21623ac:
 
@@ -863,11 +861,11 @@ translate schinese_rewrite name_done_ea20ddca:
 
 translate schinese_rewrite name_done_ce442046:
 
-    "欧莱盯着他看了几秒钟,然后继续前进。"
+    "奥利盯着他看了几秒钟,然后继续前进。"
 
 translate schinese_rewrite name_done_d68b5c85:
 
-    "几分钟后,您抵达卢斯特菲尔德村,房屋和住宅以白色和橙色为主。"
+    "几分钟后,您抵达乐斯民菲尔德村,房屋和住宅以白色和橙色为主。"
 
 translate schinese_rewrite name_done_fa8f3f70:
 
@@ -883,7 +881,7 @@ translate schinese_rewrite name_done_a1f55047:
 
 translate schinese_rewrite name_done_8b6c5815:
 
-    s "欢迎来到卢斯特菲尔德村 我们的村子真他妈棒！"
+    s "欢迎来到乐斯民菲尔德村 我们的村子真他妈棒！"
 
 translate schinese_rewrite name_done_56ce5f40:
 
@@ -919,7 +917,7 @@ translate schinese_rewrite name_done_796e065b:
 
 translate schinese_rewrite name_done_acab5e05:
 
-    s "你知道吗,这里的蜥蜴 嫉妒我成为你在莫克肯的第一个朋友。"
+    s "你知道吗,这里的蜥蜴 嫉妒我成为你在莫肯的第一个朋友。"
 
 translate schinese_rewrite name_done_14129aa2:
 
@@ -939,8 +937,7 @@ translate schinese_rewrite name_done_ea4c03a9:
 
 translate schinese_rewrite name_done_2d601987:
 
-    s "Hey what do you mean?"
-
+    s "嘿，你什么意思？"
 translate schinese_rewrite name_done_53e2de71:
 
     o "你会明白我的意思 [e] 我们走。"
@@ -1095,7 +1092,7 @@ translate schinese_rewrite name_done_b7ae69b9:
 
 translate schinese_rewrite name_done_5d19afe3:
 
-    o "自从有人把你的奇姆带进我们的土地后 野兽和野兽在野外出现。"
+    o "自从有人把你的齐门带进我们的土地后 野兽和野兽在野外出现。"
 
 translate schinese_rewrite name_done_d3ffe870:
 
@@ -1111,7 +1108,7 @@ translate schinese_rewrite name_done_72fb9c4c:
 
 translate schinese_rewrite name_done_d22a019a:
 
-    o "村里还有一位战士,洛萨,我要求他先给你一些基本训练,然后你才能到村外去。"
+    o "村里还有一位战士,洛萨尔,我要求他先给你一些基本训练,然后你才能到村外去。"
 
 translate schinese_rewrite name_done_80f67624:
 
@@ -1135,7 +1132,7 @@ translate schinese_rewrite name_done_677bdfcc:
 
 translate schinese_rewrite name_done_37091eee:
 
-    o "早上好,拉希姆,这家伙是[e] 他今天要搬进我们店里。"
+    o "早上好,雷希姆,这家伙是[e] 他今天要搬进我们店里。"
 
 translate schinese_rewrite name_done_c9676f75:
 
@@ -1159,15 +1156,15 @@ translate schinese_rewrite name_done_e304ada5:
 
 translate schinese_rewrite name_done_976d60ef:
 
-    r "你好 [e] 我是拉希姆 村子的裁缝。"
+    r "你好 [e] 我是雷希姆 村子的裁缝。"
 
 translate schinese_rewrite name_done_20779f48:
 
-    e "很高兴见到你,拉希姆。"
+    e "很高兴见到你,雷希姆。"
 
 translate schinese_rewrite name_done_1b538649:
 
-    "你看着奥利和拉希姆之间, 试图强迫你脸上的笑容,因为拉希姆突然给你一个恐吓的表情。"
+    "你看着奥利和雷希姆之间, 试图强迫你脸上的笑容,因为雷希姆突然给你一个恐吓的表情。"
 
 translate schinese_rewrite name_done_8309ec62:
 
@@ -1175,7 +1172,7 @@ translate schinese_rewrite name_done_8309ec62:
 
 translate schinese_rewrite name_done_cf12d602:
 
-    "拉希姆很快地把你梳洗在腰部, 老公牛把带子包在你身上 并用拉拉收紧它, 你轻轻地在他拿走带子之前就喘了口气。"
+    "雷希姆很快地把你梳洗在腰部, 老公牛把带子包在你身上 并用拉拉收紧它, 你轻轻地在他拿走带子之前就喘了口气。"
 
 translate schinese_rewrite name_done_fffd3e40:
 
@@ -1187,7 +1184,7 @@ translate schinese_rewrite name_done_57bec2bd:
 
 translate schinese_rewrite name_done_ceeb046a:
 
-    o "我们的拉希姆是一位非常有才华的裁缝 他也是莫肯国王的手下。"
+    o "我们的雷希姆是一位非常有才华的裁缝 他也是莫肯国王的手下。"
 
 translate schinese_rewrite name_done_c323491e:
 
@@ -1195,7 +1192,7 @@ translate schinese_rewrite name_done_c323491e:
 
 translate schinese_rewrite name_done_e843ebc4:
 
-    "拉希姆给奥勒一个奇怪的外表, 嘲笑他的赞美。"
+    "雷希姆给奥勒一个奇怪的外表, 嘲笑他的赞美。"
 
 translate schinese_rewrite name_done_7a870539:
 
@@ -1215,7 +1212,7 @@ translate schinese_rewrite name_done_1d855e47:
 
 translate schinese_rewrite name_done_4c8b1d39:
 
-    "裁缝把他的磁带量放掉 转过身去找欧勒。"
+    "裁缝把他的磁带量放掉 转过身去找奥利。"
 
 translate schinese_rewrite name_done_c6b4bea3:
 
@@ -1223,11 +1220,11 @@ translate schinese_rewrite name_done_c6b4bea3:
 
 translate schinese_rewrite name_done_5146998b:
 
-    o "谢谢 拉希姆 我马上给你钱。"
+    o "谢谢 雷希姆 我马上给你钱。"
 
 translate schinese_rewrite name_done_20ce69ad:
 
-    "欧利很快走向收银台 拉希姆看了你一眼 然后再回头。"
+    "欧利很快走向收银台 雷希姆看了你一眼 然后再回头。"
 
 translate schinese_rewrite name_done_7786d099:
 
@@ -1235,7 +1232,7 @@ translate schinese_rewrite name_done_7786d099:
 
 translate schinese_rewrite name_done_1f13c3c3:
 
-    e "O-ok!非常感谢你,拉希姆。"
+    e "O-ok!非常感谢你,雷希姆。"
 
 translate schinese_rewrite name_done_79d54613:
 
@@ -1267,7 +1264,7 @@ translate schinese_rewrite name_done_71e0aa7d:
 
 translate schinese_rewrite name_done_3d0b0684:
 
-    o "那么... 你对拉希姆感觉如何?"
+    o "那么... 你对雷希姆感觉如何?"
 
 translate schinese_rewrite name_done_13492a71:
 
@@ -1339,7 +1336,7 @@ translate schinese_rewrite name_done_fc7182b4:
 
 translate schinese_rewrite name_done_d408e786:
 
-    s2 "欧勒要抓我了,要让你上床睡觉了,睡个好觉,新室友!"
+    s2 "奥利要抓我了,要让你上床睡觉了,睡个好觉,新室友!"
 
 translate schinese_rewrite name_done_e7bc7800:
 

@@ -11,7 +11,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_09ac30ee:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_53565546:
 
-    s "但无论如何,我这里有个小财宝 需要你交给洛萨。"
+    s "但无论如何,我这里有个小财宝 需要你交给洛萨尔。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_0253ab16:
 
@@ -19,7 +19,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_0253ab16:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8a58b584:
 
-    s "我是说 那天我踢他的蛋蛋后 欧勒的药膏。"
+    s "我是说 那天我踢他的蛋蛋后 奥利的药膏。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_333f8626:
 
@@ -75,7 +75,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_7b0abc42:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d198ce8c:
 
-    s "是的,是的,我从上次旅行中摘了些花 拉希姆会喜欢这些的。"
+    s "是的,是的,我从上次旅行中摘了些花 雷希姆会喜欢这些的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_ee57013c:
 
@@ -115,7 +115,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_b0f11576:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_6e547d2c:
 
-    e "嘿,欧莱,你有东西要寄给我吗?"
+    e "嘿,奥利,你有东西要寄给我吗?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b15f7f2a:
 
@@ -131,7 +131,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_307e51af:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_842cc3c7:
 
-    o "拉希姆的花 他特别要求我们上次见面时要的。"
+    o "雷希姆的花 他特别要求我们上次见面时要的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_3768a982:
 
@@ -151,7 +151,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_4933d7f2:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9979e8a3:
 
-    o "我听说福坎从寺庙那次事件以来 已经完全摆脱了 这可能帮助他消除疼痛。"
+    o "我听说弗坎从寺庙那次事件以来 已经完全摆脱了 这可能帮助他消除疼痛。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_664ce2bc:
 
@@ -159,7 +159,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_664ce2bc:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b9bb8004:
 
-    e "肯恩,你需要寄东西吗?"
+    e "凯恩,你需要寄东西吗?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_fbbf42a4:
 
@@ -175,7 +175,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_7da99214:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_fb717a3f:
 
-    e "洛萨,你需要寄东西吗?"
+    e "洛萨尔,你需要寄东西吗?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d5c1bdaa:
 
@@ -187,7 +187,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_7cc288aa:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8025984c:
 
-    e "嘿,拉希姆,你有东西要寄给我吗?"
+    e "嘿,雷希姆,你有东西要寄给我吗?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8ca3a5d9:
 
@@ -207,7 +207,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_66ffbed4:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_cc501f87:
 
-    "拉希姆转过身来,就像他的手把你推向门一样。"
+    "雷希姆转过身来,就像他的手把你推向门一样。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d67250f4:
 
@@ -235,7 +235,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_4ba6ecc9:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_fc09b840:
 
-    hm "是的,一个,我需要你把这封信 交给拉希姆。"
+    hm "是的,一个,我需要你把这封信 交给雷希姆。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_761f2882:
 
@@ -243,11 +243,11 @@ translate schinese_rewrite Courier_Pickup_Dialogues_761f2882:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9e9a1bb1:
 
-    e "为什么他把它寄给拉希姆?"
+    e "为什么他把它寄给雷希姆?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f9a3e61a:
 
-    hm "我们习惯了拉希姆是处理这些事情的 关键人物 不知道为什么。"
+    hm "我们习惯了雷希姆是处理这些事情的 关键人物 不知道为什么。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_42c37222:
 
@@ -271,15 +271,15 @@ translate schinese_rewrite Courier_Pickup_Dialogues_19fae5c5:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_42acb86d:
 
-    e "好吧,我把它给拉希姆。"
+    e "好吧,我把它给雷希姆。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f08be2d5:
 
-    hm "别太久 拉希姆在等。"
+    hm "别太久 雷希姆在等。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_a6f9c0b1:
 
-    hm "是的,我这里有束花,他们给洛塔尔的。"
+    hm "是的,我这里有束花,他们给洛萨尔的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f770f6af:
 
@@ -295,7 +295,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_6c670984:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9c665f67:
 
-    hm "这个蓝色的,他们称它为淹死的圣人, 据说当卢斯特菲尔德被淹没时,它就是少数植物之一。"
+    hm "这个蓝色的,他们称它为淹死的圣人, 据说当乐斯民菲尔德被淹没时,它就是少数植物之一。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_27911aed:
 
@@ -307,7 +307,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_a487c2fc:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_a788d267:
 
-    hm "是的,它只在卢斯特菲尔德见过,今天没有太多人了。"
+    hm "是的,它只在乐斯民菲尔德见过,今天没有太多人了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_045c2f56:
 
@@ -315,7 +315,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_045c2f56:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_2b35a2af:
 
-    e "好吧,我把它带到洛萨去。"
+    e "好吧,我把它带到洛萨尔去。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d83e4cb8:
 
@@ -391,7 +391,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_9ab91369:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d623b12d:
 
-    e "奇怪,我从卡莉那里听说了些事情。"
+    e "奇怪,我从卡里那里听说了些事情。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_049b9a46:
 
@@ -411,7 +411,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_5fbdedfb:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_17993868:
 
-    e "嘿,安布尔,你有什么要给我的吗?"
+    e "嘿,安布,你有什么要给我的吗?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_ba579894:
 
@@ -439,7 +439,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_4397421c:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_c064e2cb:
 
-    a "是的 我今天为肯恩收集了一些肉屑。"
+    a "是的 我今天为凯恩收集了一些肉屑。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_5df3038b:
 
@@ -447,11 +447,11 @@ translate schinese_rewrite Courier_Pickup_Dialogues_5df3038b:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_c9b33323:
 
-    "你从安布尔那里拿走废料。"
+    "你从安布那里拿走废料。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_e35598b9:
 
-    e "好吧,我把它给肯恩。"
+    e "好吧,我把它给凯恩。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8ce8e647:
 
@@ -475,7 +475,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_eb2eb736:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_22a393b0:
 
-    e "好吧,我把它交给肯恩。"
+    e "好吧,我把它交给凯恩。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_002c93dd:
 
@@ -487,7 +487,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_70a834b4:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6a1e6501:
 
-    e "拉希姆,我有快递要给你。"
+    e "雷希姆,我有快递要给你。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b5c2ed87:
 
@@ -523,7 +523,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_9076dd17:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5dd87379:
 
-    "你把信交给拉希姆 但他看起来有点小气。"
+    "你把信交给雷希姆 但他看起来有点小气。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6a455046:
 
@@ -535,7 +535,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_4f89a5ce:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_dfec3e6d:
 
-    e "洛塔尔寄来的 他说你可能需要他一些备用的赃物。"
+    e "洛萨尔寄来的 他说你可能需要他一些备用的赃物。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6c104919:
 
@@ -543,7 +543,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_6c104919:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_cca5a4bb:
 
-    "拉希姆回到他的工作台, 当你把衣服放下时, 哭着叫着叫着叫着叫着叫着着叫着叫着叫着叫着叫着叫着着叫着。"
+    "雷希姆回到他的工作台, 当你把衣服放下时, 哭着叫着叫着叫着叫着叫着着叫着叫着叫着叫着叫着叫着着叫着。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c8c5b9a3:
 
@@ -555,7 +555,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_8354c9f0:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e85a3188:
 
-    "拉希姆拿走了花和金子 他的眼睛发亮了。"
+    "雷希姆拿走了花和金子 他的眼睛发亮了。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d4581632:
 
@@ -575,7 +575,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_77e7129c:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e2377db2:
 
-    e "肯恩说你喜欢面包。"
+    e "凯恩说你喜欢面包。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_23019cc7:
 
@@ -583,7 +583,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_23019cc7:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_8c2359bb:
 
-    e "嘿,肯恩,我给你送了件快递,从塞巴斯寄来的。"
+    e "嘿,凯恩,我给你送了件快递,从塞巴斯寄来的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_95061fb0:
 
@@ -607,7 +607,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_6186867a:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1a0155a3:
 
-    e "肯恩,我给你送了件快递,一些肉,还有几朵花。"
+    e "凯恩,我给你送了件快递,一些肉,还有几朵花。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_31d85938:
 
@@ -627,7 +627,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_5a22ce97:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_cb2afed7:
 
-    e "嘿,洛萨,我有快递要给你。"
+    e "嘿,洛萨尔,我有快递要给你。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c9361662:
 
@@ -643,7 +643,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_2eb92b9b:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_abdeb84f:
 
-    "你把药膏交给洛萨。"
+    "你把药膏交给洛萨尔。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_3f9d015e:
 
@@ -659,11 +659,11 @@ translate schinese_rewrite Courier_Delivery_Dialogues_b042d8d6:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d682010a:
 
-    l "首先,叫我洛萨,第二,礼物,谁送的?"
+    l "首先,叫我洛萨尔,第二,礼物,谁送的?"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c755d043:
 
-    "你把花束交给洛萨。"
+    "你把花束交给洛萨尔。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_3db6ff3b:
 
@@ -671,7 +671,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_3db6ff3b:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5549c816:
 
-    "你注意到洛萨盯着你时 脸部有微弱的皱眉。"
+    "你注意到洛萨尔盯着你时 脸部有微弱的皱眉。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6f12f758:
 
@@ -715,7 +715,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_7094abb6:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b42cbf83:
 
-    "你从洛塔尔的手里拔出金库 自己打开。"
+    "你从洛萨尔的手里拔出金库 自己打开。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b9c776b2:
 
@@ -727,12 +727,11 @@ translate schinese_rewrite Courier_Delivery_Dialogues_5283717a:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e4384382:
 
-    "你跌倒回来,擦你的鼻子, 洛塔尔很快抓住你。"
+    "你跌倒回来,擦你的鼻子, 洛萨尔很快抓住你。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_9fe73a00:
 
-    l "The fuck was that?"
-
+    l "刚才那是什么鬼？"
 translate schinese_rewrite Courier_Delivery_Dialogues_055c1746:
 
     e "我不知道 塞巴斯让我亲自交给你。"
@@ -743,7 +742,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_c1d2c5cb:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_9de170f8:
 
-    "一旦洛塔尔翻开盖子, 球的螺旋球爆发出来, 它的味道不怎么开胃。"
+    "一旦洛萨尔翻开盖子, 球的螺旋球爆发出来, 它的味道不怎么开胃。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_297a7a05:
 
@@ -775,7 +774,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_79880372:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_bfb4eda1:
 
-    "洛萨看不起他的表情。"
+    "洛萨尔看不起他的表情。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_abc19afd:
 
@@ -783,7 +782,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_abc19afd:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_21306c91:
 
-    e "嘿,乔格,我有快递要给你,是欧勒寄来的。"
+    e "嘿,乔格,我有快递要给你,是奥利寄来的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_f8a869c5:
 
@@ -807,7 +806,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_73d1c82f:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_0ef8249b:
 
-    e "卡里,我给你送了件快递,从卢斯特菲尔德寄来的。"
+    e "卡里,我给你送了件快递,从乐斯民菲尔德寄来的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6d94b1e4:
 
@@ -831,7 +830,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_ef42ce1f:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_65d8c920:
 
-    e "福坎 这是我从奥利那里得到的补给品。"
+    e "弗坎 这是我从奥利那里得到的补给品。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_4e903a37:
 
@@ -839,7 +838,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_4e903a37:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_902bf159:
 
-    e "你没事吧 富肯 还疼吗？"
+    e "你没事吧 弗坎 还疼吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e8485cfb:
 
@@ -847,7 +846,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_e8485cfb:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_ed451fe7:
 
-    e "公平,照顾福坎。"
+    e "公平,照顾弗坎。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_55cec0ee:
 
@@ -883,7 +882,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_e7d7c4b0:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_14f35f6a:
 
-    e "拉希姆给稻草人送了些零件过来。"
+    e "雷希姆给稻草人送了些零件过来。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_f8db920a:
 
@@ -907,7 +906,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_985d288d:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_26b79c47:
 
-    e "警官,这里有一些来自卢斯特菲尔德的东西。"
+    e "警官,这里有一些来自乐斯民菲尔德的东西。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_ee6061eb:
 
@@ -1131,7 +1130,7 @@ translate schinese_rewrite Haimo_Normal_Talk_60972cc8:
 
 translate schinese_rewrite Haimo_Normal_Talk_a7564361:
 
-    hm "现在,卢斯特菲尔德有我们自己的信使 跑在村里,确保一切顺利进行。"
+    hm "现在,乐斯民菲尔德有我们自己的信使 跑在村里,确保一切顺利进行。"
 
 translate schinese_rewrite Haimo_Normal_Talk_5adea4fc:
 
@@ -1251,7 +1250,7 @@ translate schinese_rewrite Kechioeren_Courier_Office_ff7c5172:
 
 translate schinese_rewrite Kechioeren_Courier_Office_f8ea7582:
 
-    my "那小子 福坎 需要有人照顾 鹿太骄傲听不进去 所以都得看你了 孩子。"
+    my "那小子 弗坎 需要有人照顾 鹿太骄傲听不进去 所以都得看你了 孩子。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_790d2537:
 
@@ -1271,7 +1270,7 @@ translate schinese_rewrite Kechioeren_Courier_Office_e9a3d85f:
 
 translate schinese_rewrite Kechioeren_Courier_Office_ed32a1be:
 
-    gof "你不必记得我的名字 我只是一只老山羊 处理来自卢斯特菲尔德的信和材料。"
+    gof "你不必记得我的名字 我只是一只老山羊 处理来自乐斯民菲尔德的信和材料。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_34499fff:
 

@@ -351,8 +351,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc:
 
 translate schinese_rewrite Whispering_Hollow_Loop_a5a943bb:
 
-    "{i}Small and dainty, I fit in your hand, my chime is sweand, but can be grand. {w}{p} 手腕一闪一闪,我就唱一首曲子,一个早上或中午回响的声音。{p}{w} 什么是我?{/i}?"
-
+    "{i}小巧玲珑，正好落入掌心；我的铃声轻柔，也能震撼。{w}{p}手腕轻轻一抖，我便唱起曲调，声音在清晨或正午回荡。{p}{w}我是什么？{/i}"
 translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_1:
 
     "支柱部门说..."

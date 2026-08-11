@@ -575,7 +575,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_8a42e3c1:
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b81630a4:
 
-    e "我是[e],长官 我是卢斯特菲尔德的快递员。"
+    e "我是[e],长官 我是乐斯民菲尔德的快递员。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c7497259:
 
@@ -1135,7 +1135,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_bea4d7b2:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_ca5ce0e0:
 
-    e "我是来自卢斯特菲尔德的 警长 我刚路过时看到卫兵追着某人。"
+    e "我是来自乐斯民菲尔德的 警长 我刚路过时看到卫兵追着某人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2cfc1041:
 
@@ -1191,7 +1191,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_8a42e3c1:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b81630a4:
 
-    e "我是[e],长官 我是卢斯特菲尔德的快递员。"
+    e "我是[e],长官 我是乐斯民菲尔德的快递员。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c7497259:
 
@@ -2431,8 +2431,7 @@ translate schinese_rewrite Methis_Normal_Talk_0031acee:
 
 translate schinese_rewrite Methis_Normal_Talk_b9475d4b:
 
-    m "因为这里是我们所在的地方 芬克尔Abys, 它在部落的很远的地方, 我喜欢{i}Gaze{/i}的声音。 你不觉得很吸引人吗?"
-
+    m "因为这里就是芬克尔深渊，它一直延伸到部落之外；而且我喜欢{i}“凝视”{/i}这个名字。很上口，对吧？"
 translate schinese_rewrite Methis_Normal_Talk_d26f808a:
 
     e "啊,我明白了。"

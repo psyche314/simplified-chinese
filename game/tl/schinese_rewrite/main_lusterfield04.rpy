@@ -179,8 +179,7 @@ translate schinese_rewrite Arthur_Ask_Another_Round_03f9df77:
 
 translate schinese_rewrite Arthur_Ask_Another_Round_0e9ad2b7:
 
-    "这是来自Arty的令人惊讶的自我控制。不管他准备什么,他必须{i}really{/i} 来做正确的事情。"
-
+    "阿尔蒂居然能有这么强的自制力，真让人惊讶。不管他在准备什么，他一定是{i}真的{/i}想把它做好。"
 translate schinese_rewrite Arthur_Ask_Another_Round_ae236ac5:
 
     e "好吧,我猜我们回头见。"
@@ -831,7 +830,7 @@ translate schinese_rewrite Arthur_First_Scene_c2db3670:
 
 translate schinese_rewrite Arthur_First_Scene_ab10477b:
 
-    ar "请代我向安布尔问好。"
+    ar "请代我向安布问好。"
 
 translate schinese_rewrite Arthur_First_Scene_b39617ff:
 
@@ -1443,8 +1442,7 @@ translate schinese_rewrite Arthur_Second_Scene_Yes_9b1903b3:
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_b326c25c:
 
-    "Embarrassed, you focus on eating your sandwich, and {i}不{/i} on the thought of last night."
-
+    "你感到尴尬，只专心吃着三明治，{i}不{/i}去想昨晚的事。"
 translate schinese_rewrite Arthur_Second_Scene_Yes_b81a9ec4:
 
     "Arty让你失望了 但你可以看到他自己 从你眼角上 突然冒出暴风雨。"
@@ -1463,7 +1461,7 @@ translate schinese_rewrite Arthur_Second_Scene_Yes_046d3c05:
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_744cd0ef:
 
-    ar "多数季节,我工作的时间大部分是白天 -- 确保农场保持健康, 运行耗时, 即使像安布尔这样的人, 你帮助维持安全。"
+    ar "多数季节,我工作的时间大部分是白天 -- 确保农场保持健康, 运行耗时, 即使像安布这样的人, 你帮助维持安全。"
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_de504f77:
 
@@ -1567,8 +1565,7 @@ translate schinese_rewrite Arthur_Second_Scene_Yes_bfca7e3c:
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_55ded6a4:
 
-    ar "I like the enthusiasm, but you {i}能{/i} ask me about it - I don't want to be a stifling master to you."
-
+    ar "我喜欢你的热情，不过你{i}可以{/i}问我——我不想当个压抑你的主人。"
 translate schinese_rewrite Arthur_Second_Scene_Yes_36f7e185:
 
     "仔细小心地点头给他 试着用礼貌的方式 说一个奇怪的萝卜可能有什么用。"
@@ -1591,8 +1588,7 @@ translate schinese_rewrite Arthur_Second_Scene_Yes_d412e6a7:
 
 translate schinese_rewrite Arthur_Second_Scene_Yes_a40199a8:
 
-    ar "在你兴奋之前, 它并不能真正治愈所有东西, 但是它应该帮助关闭任何非致命的伤口, 并给你一个接 -me -up 当你吃了它。"
-
+    ar "先别急着兴奋，它并不能真的治愈一切；不过它应该能帮助闭合非致命伤口，吃下去也能让你振作起来。"
 translate schinese_rewrite Arthur_Second_Scene_Yes_9e613a33:
 
     e "这在市场上能卖多少钱?"

@@ -431,7 +431,7 @@ translate schinese_rewrite Chelforte_Discovery_c0e17316:
 
 translate schinese_rewrite Chelforte_Discovery_4b91c5d5:
 
-    "看来伍罗也在这里。"
+    "看来伏罗也在这里。"
 
 translate schinese_rewrite Chelforte_Discovery_d15f6b5e:
 
@@ -907,7 +907,7 @@ translate schinese_rewrite Chelforte_Discovery_bf14a88d:
 
 translate schinese_rewrite Chelforte_Discovery_bcbcf61a:
 
-    "半途警报伍罗符合他朋友的要求 站起来拿铁铲。"
+    "半途警报伏罗符合他朋友的要求 站起来拿铁铲。"
 
 translate schinese_rewrite Chelforte_Discovery_c249a61a:
 
@@ -1211,7 +1211,7 @@ translate schinese_rewrite Chelforte_Discovery_73d7b3cf:
 
 translate schinese_rewrite Chelforte_Discovery_f05954e4:
 
-    "你听到呼噜声后 就会发现伍罗的无意识状态。"
+    "你听到呼噜声后 就会发现伏罗的无意识状态。"
 
 translate schinese_rewrite Chelforte_Discovery_6c741e9e:
 
@@ -1219,7 +1219,7 @@ translate schinese_rewrite Chelforte_Discovery_6c741e9e:
 
 translate schinese_rewrite Chelforte_Discovery_efe8be86:
 
-    "伍尔顿, 显然不关心他的状况, 抢走伍罗,然后先把他灌进水中头。"
+    "伍尔顿, 显然不关心他的状况, 抢走伏罗,然后先把他灌进水中头。"
 
 translate schinese_rewrite Chelforte_Discovery_ebf38758:
 
@@ -1247,7 +1247,7 @@ translate schinese_rewrite Chelforte_Discovery_0991b613:
 
 translate schinese_rewrite Chelforte_Discovery_80c6eacb:
 
-    "伍罗寻找的时间要长一点,直到他放弃并接受它是什么。"
+    "伏罗寻找的时间要长一点,直到他放弃并接受它是什么。"
 
 translate schinese_rewrite Chelforte_Discovery_583cd602:
 
@@ -1267,7 +1267,7 @@ translate schinese_rewrite Chelforte_Discovery_f40cb36a:
 
 translate schinese_rewrite Chelforte_Discovery_7f811e1e:
 
-    "伍罗的后脑勺被刮伤了,很尴尬。"
+    "伏罗的后脑勺被刮伤了,很尴尬。"
 
 translate schinese_rewrite Chelforte_Discovery_3c8edb50:
 
@@ -1787,7 +1787,7 @@ translate schinese_rewrite Chelforte_Vurro_698f37ff:
 
 translate schinese_rewrite Chelforte_Vurro_480bdadd:
 
-    "伍罗感觉有点... 有点..."
+    "伏罗感觉有点... 有点..."
 
 translate schinese_rewrite Chelforte_Vurro_82634624:
 
@@ -1815,7 +1815,7 @@ translate schinese_rewrite Chelforte_Vurro_84c45187:
 
 translate schinese_rewrite Chelforte_Vurro_b12985a0:
 
-    "幸运的是,你不必说 一只几乎看不见的蓝臂 被水蒙住的手伸出来 抓住了伍罗的腿。"
+    "幸运的是,你不必说 一只几乎看不见的蓝臂 被水蒙住的手伸出来 抓住了伏罗的腿。"
 
 translate schinese_rewrite Chelforte_Vurro_0674c708:
 
@@ -1915,7 +1915,7 @@ translate schinese_rewrite Chelforte_Vurro_74fe9d3d:
 
 translate schinese_rewrite Chelforte_Vurro_e9deefcb:
 
-    "伍罗给你一个小笑容 当他把巨石扔到他的左手边 堆积成堆。"
+    "伏罗给你一个小笑容 当他把巨石扔到他的左手边 堆积成堆。"
 
 translate schinese_rewrite Chelforte_Vurro_c2523471:
 
@@ -1987,7 +1987,7 @@ translate schinese_rewrite Chelforte_Vurro_8228c5e2:
 
 translate schinese_rewrite Chelforte_Vurro_9fdc718a:
 
-    "看到伍罗不想浪费时间 可以理解 你马上跟他一起。"
+    "看到伏罗不想浪费时间 可以理解 你马上跟他一起。"
 
 translate schinese_rewrite Chelforte_Vurro_a2622cda:
 

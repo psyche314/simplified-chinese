@@ -259,8 +259,7 @@ translate schinese_rewrite scene_feral_lose_5a70b944:
 
 translate schinese_rewrite scene_feral_lose_31591878:
 
-    e "Ugh... Ugh.... Fuck me..."
-
+    e "呃……呃……操我……"
 translate schinese_rewrite scene_feral_lose_294599f8:
 
     "你不认为你经历了这么紧张的时刻。"
@@ -435,7 +434,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_556c7193:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_6635528a:
 
-    "那里植物抽搐,剧烈地颤抖 根部不再攻击洛哈尔 反而对土壤无谓地抽搐。"
+    "那里植物抽搐,剧烈地颤抖 根部不再攻击洛萨尔 反而对土壤无谓地抽搐。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e8914531:
 
@@ -443,7 +442,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e8914531:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e1f27f4b:
 
-    "洛塔尔的笑容从耳到耳的 满眼的骄傲和战斗的冲刺。"
+    "洛萨尔的笑容从耳到耳的 满眼的骄傲和战斗的冲刺。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_281b4ea0:
 
@@ -479,11 +478,11 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_282ba68f:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_5a08732d:
 
-    "洛萨把一只胳膊套在肩膀上 把你抱在独臂拥抱里。"
+    "洛萨尔把一只胳膊套在肩膀上 把你抱在独臂拥抱里。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_80541d62:
 
-    l "我们可以回去向安布尔和乔格炫耀 你杀了一个大植物生物 几乎不需要我帮助！"
+    l "我们可以回去向安布和乔格炫耀 你杀了一个大植物生物 几乎不需要我帮助！"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e3c82efe:
 
@@ -495,7 +494,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_1f56ef33:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_eedd0acb:
 
-    "洛塔尔伸手来吻你的脸颊。"
+    "洛萨尔伸手来吻你的脸颊。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_d9d0d3f7:
 
@@ -511,7 +510,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b906672c:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_24e73eef:
 
-    "洛塔尔控制着你的改变 让你面对他。"
+    "洛萨尔控制着你的改变 让你面对他。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_ea32bde5:
 
@@ -551,7 +550,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_19e3a5a4:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_8b37a984:
 
-    "洛塔尔在你嘴前指尖 让你闭嘴。"
+    "洛萨尔在你嘴前指尖 让你闭嘴。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b14b2f07:
 
@@ -559,7 +558,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b14b2f07:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_65e9db33:
 
-    "洛萨用手指对着你的嘴唇 快速地把它插进嘴里 让你吸一口。"
+    "洛萨尔用手指对着你的嘴唇 快速地把它插进嘴里 让你吸一口。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_0bacc25a:
 
@@ -567,7 +566,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_0bacc25a:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e8ecc876:
 
-    "就像你开始习惯吸一只手指, 洛塔尔在另一只手指上吸。"
+    "就像你开始习惯吸一只手指, 洛萨尔在另一只手指上吸。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_2f87c3b2:
 
@@ -591,15 +590,15 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_5fac169e:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e344c99a:
 
-    "洛萨很快完成一个环绕你的入口的循环 然后再用他的第一根手指插进去 让你大叫。"
+    "洛萨尔很快完成一个环绕你的入口的循环 然后再用他的第一根手指插进去 让你大叫。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_58aa97b3:
 
-    "你的需要似乎只会鼓励洛塔尔, 当他拉你靠近他, 磨他的老二在你胃上, 当他支配你的嘴和脑筋。"
+    "你的需要似乎只会鼓励洛萨尔, 当他拉你靠近他, 磨他的老二在你胃上, 当他支配你的嘴和脑筋。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_985f32a9:
 
-    "在你知道之前,洛塔尔已经设法 将他的手指伸进你的屁股里 并开始研究第二个问题。"
+    "在你知道之前,洛萨尔已经设法 将他的手指伸进你的屁股里 并开始研究第二个问题。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e1171211:
 
@@ -607,7 +606,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e1171211:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_a93eb020:
 
-    "似乎对你松懈很满意 洛塔尔拔出他的手指 从你身上拔出 结束一直没有间断的吻。"
+    "似乎对你松懈很满意 洛萨尔拔出他的手指 从你身上拔出 结束一直没有间断的吻。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b8cafbaa:
 
@@ -615,11 +614,11 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b8cafbaa:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_4e036f09:
 
-    "已经错过了狼对你的感觉 你开始向前伸手 只有洛塔尔能阻止你 用手抵住你的胸口。"
+    "已经错过了狼对你的感觉 你开始向前伸手 只有洛萨尔能阻止你 用手抵住你的胸口。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_3e96cc36:
 
-    "抬头看,你看到洛塔尔的脸脸被涂成脸朝脸朝脸朝脸朝脸朝狼人笑。"
+    "抬头看,你看到洛萨尔的脸脸被涂成脸朝脸朝脸朝脸朝脸朝狼人笑。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_4ff5d21e:
 
@@ -639,7 +638,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_c78cedf3:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_84403992:
 
-    l "我不能怪你 任何人都想得到鲁斯特菲尔德英雄的注意。"
+    l "我不能怪你 任何人都想得到乐斯民菲尔德英雄的注意。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_a3138be7:
 
@@ -647,11 +646,11 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_a3138be7:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e95a8410:
 
-    "洛萨转动你体内的手指 让你远离他。"
+    "洛萨尔转动你体内的手指 让你远离他。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_3e1f6ac8:
 
-    "当你这样做的时候,你可以听到洛塔尔从你身后靠近你的声音。"
+    "当你这样做的时候,你可以听到洛萨尔从你身后靠近你的声音。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_351c6fc2:
 
@@ -667,7 +666,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_1d5e6da4:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_71e3fbd3:
 
-    "而不是回答,洛塔尔在你后面。"
+    "而不是回答,洛萨尔在你后面。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_c5c4b246:
 
@@ -679,11 +678,11 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_47f7e9d6:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_4d117d46:
 
-    "在你开始提问之前 你感到洛塔尔把他的老二 拍到你的背上。"
+    "在你开始提问之前 你感到洛萨尔把他的老二 拍到你的背上。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_c38d686b:
 
-    "和洛塔尔很像,它很瘦,但又多事 本身就是个怪物。"
+    "和洛萨尔很像,它很瘦,但又多事 本身就是个怪物。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_202fa4d4:
 
@@ -691,7 +690,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_202fa4d4:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e0fe7921:
 
-    "洛萨抓住你的臀部, 把你拖倒, 强迫你的上身弯下 与树对着, 直到你休息在40度角 到树上。"
+    "洛萨尔抓住你的臀部, 把你拖倒, 强迫你的上身弯下 与树对着, 直到你休息在40度角 到树上。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e2919ec3:
 
@@ -703,7 +702,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_a2682ff2:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_db291918:
 
-    "洛萨再次尝试同样的尝试。"
+    "洛萨尔再次尝试同样的尝试。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_bdbec487:
 
@@ -739,7 +738,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_1535d605:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_6b91e9db:
 
-    "当你试着恢复平衡的时候, 洛塔尔按住进攻, 慢慢地把他的老二开得越深越深, 慢慢地塑造你的洞来适应他的老二。"
+    "当你试着恢复平衡的时候, 洛萨尔按住进攻, 慢慢地把他的老二开得越深越深, 慢慢地塑造你的洞来适应他的老二。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_2a627cb1:
 
@@ -795,7 +794,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_0fda09f8:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_aef2ff86:
 
-    "用那些话,洛塔尔又开始行动了 在你屁眼里把鸡鸡从你屁股里拉出来 然后再把它抽回来。"
+    "用那些话,洛萨尔又开始行动了 在你屁眼里把鸡鸡从你屁股里拉出来 然后再把它抽回来。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_71f15029:
 
@@ -803,7 +802,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_71f15029:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_87205e9e:
 
-    "洛塔尔的缓慢,连续... 甚至考虑性他妈的从以前已经走了。"
+    "洛萨尔的缓慢,连续... 甚至考虑性他妈的从以前已经走了。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_674b9bed:
 
@@ -827,7 +826,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b371a2ba:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_1384fc03:
 
-    "随着洛特哈尔注意到你行为的变化 所有的事物都变得白白无比 并且让他的鸡鸡 一次又一次地撞向那个地方。"
+    "随着洛萨尔注意到你行为的变化 所有的事物都变得白白无比 并且让他的鸡鸡 一次又一次地撞向那个地方。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_7e2901d3:
 
@@ -843,7 +842,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_cc751042:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_1c85054d:
 
-    "在洛塔尔的尽头 他仍然能像开始时一样强大。"
+    "在洛萨尔的尽头 他仍然能像开始时一样强大。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_6e3a034d:
 
@@ -871,7 +870,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_1b743277:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_d55466af:
 
-    "用吼叫,洛萨把他的老二从你身上打出来, 再一次用你的背部打一巴掌, 用他的精液遮住你的皮毛。"
+    "用吼叫,洛萨尔把他的老二从你身上打出来, 再一次用你的背部打一巴掌, 用他的精液遮住你的皮毛。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_f7d32b14:
 
@@ -879,7 +878,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_f7d32b14:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_b1021589:
 
-    "你转过身来看看你的导师,洛萨。"
+    "你转过身来看看你的导师,洛萨尔。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_a20cefa7:
 
@@ -895,7 +894,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_191dec8d:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_ddfb0114:
 
-    "洛塔尔眼神惊恐地看着你 也许一线自豪感 深藏在他眼中的深处。"
+    "洛萨尔眼神惊恐地看着你 也许一线自豪感 深藏在他眼中的深处。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_2a75aab0:
 
@@ -903,7 +902,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_2a75aab0:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_a0873555:
 
-    "洛萨 夸脱。"
+    "洛萨尔 夸脱。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_e342fc80:
 
@@ -955,11 +954,11 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_fca1642a:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_4155024a:
 
-    "当你把所有东西都清理干净的时候 你就会想到这对你和洛萨意味着什么。"
+    "当你把所有东西都清理干净的时候 你就会想到这对你和洛萨尔意味着什么。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_aa26ea8e:
 
-    "你真的能忘记让洛塔尔这样操你的感觉吗?"
+    "你真的能忘记让洛萨尔这样操你的感觉吗?"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_ead1d441:
 
@@ -975,7 +974,7 @@ translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_9eb9328b:
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_740902e8:
 
-    "洛塔尔叫你别跟他谈这事 从没发生过。"
+    "洛萨尔叫你别跟他谈这事 从没发生过。"
 
 translate schinese_rewrite Scene_Lothar_Aphrodisiac_Quest_4d591d1e:
 
@@ -1199,11 +1198,11 @@ translate schinese_rewrite scene_ambleskill_b263d83e:
 
 translate schinese_rewrite scene_ambleskill_4bcf5e1d:
 
-    "即使在它一瘸一拐的状态下 安布尔的老二 也填满了他的短裤 达到伸展的程度。"
+    "即使在它一瘸一拐的状态下 安布的老二 也填满了他的短裤 达到伸展的程度。"
 
 translate schinese_rewrite scene_ambleskill_5d49a025:
 
-    "你离安布尔的腰部足够近 熊的口孔会填满你的鼻孔。"
+    "你离安布的腰部足够近 熊的口孔会填满你的鼻孔。"
 
 translate schinese_rewrite scene_ambleskill_8d17e6cb:
 
@@ -1219,11 +1218,11 @@ translate schinese_rewrite scene_ambleskill_78edc69c:
 
 translate schinese_rewrite scene_ambleskill_f55408d2:
 
-    "不经思考,你把头靠在前面 舔安布尔的阴茎前 通过他的短裤。"
+    "不经思考,你把头靠在前面 舔安布的阴茎前 通过他的短裤。"
 
 translate schinese_rewrite scene_ambleskill_c3743727:
 
-    "安布尔停止说话。"
+    "安布停止说话。"
 
 translate schinese_rewrite scene_ambleskill_a12fea3e:
 
@@ -1231,7 +1230,7 @@ translate schinese_rewrite scene_ambleskill_a12fea3e:
 
 translate schinese_rewrite scene_ambleskill_d68516ed:
 
-    "你知道自己有多脆弱 被安布尔压扁了。"
+    "你知道自己有多脆弱 被安布压扁了。"
 
 translate schinese_rewrite scene_ambleskill_a4a6dde7:
 
@@ -1271,7 +1270,7 @@ translate schinese_rewrite scene_ambleskill_d1b1e314:
 
 translate schinese_rewrite scene_ambleskill_74d88758:
 
-    "你希望安布尔会接受这一点。"
+    "你希望安布会接受这一点。"
 
 translate schinese_rewrite scene_ambleskill_49a530a6:
 
@@ -1311,7 +1310,7 @@ translate schinese_rewrite scene_ambleskill_e478e865:
 
 translate schinese_rewrite scene_ambleskill_3b9c7356:
 
-    "你强迫张开嘴 吞下安布尔的阴茎。"
+    "你强迫张开嘴 吞下安布的阴茎。"
 
 translate schinese_rewrite scene_ambleskill_7514bf7c:
 
@@ -1319,7 +1318,7 @@ translate schinese_rewrite scene_ambleskill_7514bf7c:
 
 translate schinese_rewrite scene_ambleskill_07adf072:
 
-    "通过布料,你可以感觉到 安布尔的老二越来越硬。"
+    "通过布料,你可以感觉到 安布的老二越来越硬。"
 
 translate schinese_rewrite scene_ambleskill_3d16f709:
 
@@ -1327,7 +1326,7 @@ translate schinese_rewrite scene_ambleskill_3d16f709:
 
 translate schinese_rewrite scene_ambleskill_7071c33f:
 
-    "你吸安布尔的大 和敏感的阴茎头。"
+    "你吸安布的大 和敏感的阴茎头。"
 
 translate schinese_rewrite scene_ambleskill_d849f5c7:
 
@@ -1343,15 +1342,15 @@ translate schinese_rewrite scene_ambleskill_6e18ece7:
 
 translate schinese_rewrite scene_ambleskill_79cb8615:
 
-    "安布尔的口水已经湿透了。"
+    "安布的口水已经湿透了。"
 
 translate schinese_rewrite scene_ambleskill_bb0449a1:
 
-    "吸了安布尔的老二一阵子之后 你决定改变战术。"
+    "吸了安布的老二一阵子之后 你决定改变战术。"
 
 translate schinese_rewrite scene_ambleskill_bd174e5d:
 
-    "你用快速吻吻的安布尔的阴茎头。"
+    "你用快速吻吻的安布的阴茎头。"
 
 translate schinese_rewrite scene_ambleskill_a9ea4b24:
 
@@ -1359,7 +1358,7 @@ translate schinese_rewrite scene_ambleskill_a9ea4b24:
 
 translate schinese_rewrite scene_ambleskill_4ab4cf64:
 
-    "安布尔的老二越大 越小越大。"
+    "安布的老二越大 越小越大。"
 
 translate schinese_rewrite scene_ambleskill_30025955:
 
@@ -1367,7 +1366,7 @@ translate schinese_rewrite scene_ambleskill_30025955:
 
 translate schinese_rewrite scene_ambleskill_b378eabf:
 
-    "你错过了安布尔的会员在你嘴里 等一阵子 你就会回到吞噬安布尔的老二。"
+    "你错过了安布的会员在你嘴里 等一阵子 你就会回到吞噬安布的老二。"
 
 translate schinese_rewrite scene_ambleskill_e87fa026:
 
@@ -1375,7 +1374,7 @@ translate schinese_rewrite scene_ambleskill_e87fa026:
 
 translate schinese_rewrite scene_ambleskill_1b97f6f7:
 
-    "与其只是说那个阴茎头 你不如多吞下安布尔的井。"
+    "与其只是说那个阴茎头 你不如多吞下安布的井。"
 
 translate schinese_rewrite scene_ambleskill_5014982c:
 
@@ -1419,7 +1418,7 @@ translate schinese_rewrite scene_ambleskill_6d4f71ac:
 
 translate schinese_rewrite scene_ambleskill_95585dfb:
 
-    "安布尔的老二,他的王冠尖刺到你的嘴顶。"
+    "安布的老二,他的王冠尖刺到你的嘴顶。"
 
 translate schinese_rewrite scene_ambleskill_0859e4f2:
 
@@ -1427,7 +1426,7 @@ translate schinese_rewrite scene_ambleskill_0859e4f2:
 
 translate schinese_rewrite scene_ambleskill_c3e2aeff:
 
-    "突然,安布尔把你的头往后拉。"
+    "突然,安布把你的头往后拉。"
 
 translate schinese_rewrite scene_ambleskill_9a5241ba:
 
@@ -1439,11 +1438,11 @@ translate schinese_rewrite scene_ambleskill_c8c15815:
 
 translate schinese_rewrite scene_ambleskill_6949e9a9:
 
-    e "哈哈安布尔,为什么?"
+    e "哈哈安布,为什么?"
 
 translate schinese_rewrite scene_ambleskill_2238cc97:
 
-    "你仍然迫不及待地想把安布尔的老二放回嘴里,你还远远不满意。"
+    "你仍然迫不及待地想把安布的老二放回嘴里,你还远远不满意。"
 
 translate schinese_rewrite scene_ambleskill_73e2f2cc:
 
@@ -1451,7 +1450,7 @@ translate schinese_rewrite scene_ambleskill_73e2f2cc:
 
 translate schinese_rewrite scene_ambleskill_4d09769b:
 
-    "安布勒把口腔前部拉下来 松开,安布尔的老二兴奋地跳动。"
+    "安布把口腔前部拉下来 松开,安布的老二兴奋地跳动。"
 
 translate schinese_rewrite scene_ambleskill_d116b143:
 
@@ -1511,7 +1510,7 @@ translate schinese_rewrite scene_ambleskill_8a57f783:
 
 translate schinese_rewrite scene_ambleskill_683aaa54:
 
-    "没有短裤,你对安布尔的鸡巴 品味就会更清晰。"
+    "没有短裤,你对安布的鸡巴 品味就会更清晰。"
 
 translate schinese_rewrite scene_ambleskill_3bc67e48:
 
@@ -1531,7 +1530,7 @@ translate schinese_rewrite scene_ambleskill_f9a79f3d:
 
 translate schinese_rewrite scene_ambleskill_b43a428f:
 
-    "在过程中,安布尔的阴茎脉搏 引起你的注意。"
+    "在过程中,安布的阴茎脉搏 引起你的注意。"
 
 translate schinese_rewrite scene_ambleskill_9349f84f:
 
@@ -1543,7 +1542,7 @@ translate schinese_rewrite scene_ambleskill_1b1f0f6a:
 
 translate schinese_rewrite scene_ambleskill_4aee912e:
 
-    "你可以感觉到喉咙的后部 被安布尔的王冠 反复敲打时打开了。"
+    "你可以感觉到喉咙的后部 被安布的王冠 反复敲打时打开了。"
 
 translate schinese_rewrite scene_ambleskill_e241683e:
 
@@ -1563,7 +1562,7 @@ translate schinese_rewrite scene_ambleskill_c7221e46:
 
 translate schinese_rewrite scene_ambleskill_29bb1c54:
 
-    "在你渴望更多的时候 安布尔的老二在你的喉咙里 打了个痛处 而你却不情愿地胡言乱语。"
+    "在你渴望更多的时候 安布的老二在你的喉咙里 打了个痛处 而你却不情愿地胡言乱语。"
 
 translate schinese_rewrite scene_ambleskill_db02bb8f:
 
@@ -1591,7 +1590,7 @@ translate schinese_rewrite scene_ambleskill_7c6dd68d:
 
 translate schinese_rewrite scene_ambleskill_7769a418:
 
-    "你用安布尔的硬鸡巴摇头 嘴里还塞着。"
+    "你用安布的硬鸡巴摇头 嘴里还塞着。"
 
 translate schinese_rewrite scene_ambleskill_f4c83d9b:
 
@@ -1603,7 +1602,7 @@ translate schinese_rewrite scene_ambleskill_a41587f7:
 
 translate schinese_rewrite scene_ambleskill_f7761289:
 
-    "安布尔的口香糖的沉重打击 进入了你的脑海。"
+    "安布的口香糖的沉重打击 进入了你的脑海。"
 
 translate schinese_rewrite scene_ambleskill_6a5be902:
 
@@ -1611,7 +1610,7 @@ translate schinese_rewrite scene_ambleskill_6a5be902:
 
 translate schinese_rewrite scene_ambleskill_974bd6eb:
 
-    "口香糖来自安布尔轴底部的模糊。"
+    "口香糖来自安布轴底部的模糊。"
 
 translate schinese_rewrite scene_ambleskill_3b7015ca:
 
@@ -1635,7 +1634,7 @@ translate schinese_rewrite scene_ambleskill_85a1385a:
 
 translate schinese_rewrite scene_ambleskill_1819a542:
 
-    "你每寸都拿安布尔的鸡巴英寸。"
+    "你每寸都拿安布的鸡巴英寸。"
 
 translate schinese_rewrite scene_ambleskill_17d1cd10:
 
@@ -1643,11 +1642,10 @@ translate schinese_rewrite scene_ambleskill_17d1cd10:
 
 translate schinese_rewrite scene_ambleskill_70aa7582:
 
-    e "Huh... Hng... Hng..."
-
+    e "嗯……嗯……嗯……"
 translate schinese_rewrite scene_ambleskill_ef4324e5:
 
-    "你终于打中安布尔巨轴的底部了。"
+    "你终于打中安布巨轴的底部了。"
 
 translate schinese_rewrite scene_ambleskill_f68a2d6f:
 
@@ -1667,7 +1665,7 @@ translate schinese_rewrite scene_ambleskill_7c6dd68d_2:
 
 translate schinese_rewrite scene_ambleskill_51a24d8d:
 
-    "安布尔的鸡巴在你的嘴里, 你开始吸。"
+    "安布的鸡巴在你的嘴里, 你开始吸。"
 
 translate schinese_rewrite scene_ambleskill_16dc0e00:
 
@@ -1675,7 +1673,7 @@ translate schinese_rewrite scene_ambleskill_16dc0e00:
 
 translate schinese_rewrite scene_ambleskill_d16a00ee:
 
-    "你的喉咙和口腔肌肉 一定是从四面八方挤压了安布尔的老二。"
+    "你的喉咙和口腔肌肉 一定是从四面八方挤压了安布的老二。"
 
 translate schinese_rewrite scene_ambleskill_31e19b57:
 
@@ -1691,7 +1689,7 @@ translate schinese_rewrite scene_ambleskill_aa357da4:
 
 translate schinese_rewrite scene_ambleskill_96be0fb9:
 
-    "安布尔的干道底部 热力勃勃。"
+    "安布的干道底部 热力勃勃。"
 
 translate schinese_rewrite scene_ambleskill_033d5fb6:
 
@@ -1739,7 +1737,7 @@ translate schinese_rewrite scene_ambleskill_faa7d97b:
 
 translate schinese_rewrite scene_ambleskill_071bbfd9:
 
-    "你对安布尔的老二保持口吻 因为你不想错过牛奶。"
+    "你对安布的老二保持口吻 因为你不想错过牛奶。"
 
 translate schinese_rewrite scene_ambleskill_243c761b:
 
@@ -1751,7 +1749,7 @@ translate schinese_rewrite scene_ambleskill_c0ddb016:
 
 translate schinese_rewrite scene_ambleskill_539f307c:
 
-    "你仍然觉得如此充实 因为你现在窒息了 安布尔的热液。"
+    "你仍然觉得如此充实 因为你现在窒息了 安布的热液。"
 
 translate schinese_rewrite scene_ambleskill_3f8e81ef:
 
@@ -1771,7 +1769,7 @@ translate schinese_rewrite scene_ambleskill_e99cbda7:
 
 translate schinese_rewrite scene_ambleskill_f5e1313a:
 
-    "当你躺在那里精疲力尽的时候 安布尔开始清理。"
+    "当你躺在那里精疲力尽的时候 安布开始清理。"
 
 translate schinese_rewrite scene_ambleskill_515d5229:
 
@@ -2195,8 +2193,7 @@ translate schinese_rewrite scene_jogskill_7d5784b5:
 
 translate schinese_rewrite Scene_Arthur_NoNo_ef715fba:
 
-    "Numb, woozy, and horny as you are, you comply, setting your arms against the hay beneath you, and lifting your ass."
-
+    "你浑身麻木、昏昏沉沉，欲望却烧得正旺；你顺从地把双臂撑在身下的干草上，抬起了屁股。"
 translate schinese_rewrite Scene_Arthur_NoNo_8d18e3cf:
 
     ar "至少你值了点钱 即使我插鸡巴也只是个洞。"
@@ -3279,7 +3276,7 @@ translate schinese_rewrite Scene_Hefty_Slime_Lose_ff436d41:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_d18f2a34:
 
-    "洛塔尔,没有武器, 后退到一个小山丘上, 试图观察所有侧面。"
+    "洛萨尔,没有武器, 后退到一个小山丘上, 试图观察所有侧面。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_fe69bf83:
 
@@ -3299,7 +3296,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_de733ed6:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_9e18f7a4:
 
-    "突然,洛萨感到肩膀有奇怪的重量,他抬头看,看到两个小精灵跳到背上,紧紧地抓着。"
+    "突然,洛萨尔感到肩膀有奇怪的重量,他抬头看,看到两个小精灵跳到背上,紧紧地抓着。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b96be0ae:
 
@@ -3307,7 +3304,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b96be0ae:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_876ab8fb:
 
-    "尽管他身体很健壮, 洛塔尔的盲目力量 却无法抵抗神灵的束缚。"
+    "尽管他身体很健壮, 洛萨尔的盲目力量 却无法抵抗神灵的束缚。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_28d1547a:
 
@@ -3319,7 +3316,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_18cef109:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_5234fc02:
 
-    "洛萨挣扎、踢踢和咬他能达到的任何东西,但没用,只是太多人把他压住。"
+    "洛萨尔挣扎、踢踢和咬他能达到的任何东西,但没用,只是太多人把他压住。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_727230a8:
 
@@ -3327,7 +3324,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_727230a8:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_20e30d30:
 
-    "洛塔尔在绝望中大喊大叫,但仍未得到回应。"
+    "洛萨尔在绝望中大喊大叫,但仍未得到回应。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_0a2314d5:
 
@@ -3339,7 +3336,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_72875f7e:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_97dc128c:
 
-    "领头人咆哮 舔着他的排骨 和另一个玩耍的脱下洛塔尔的衣服一样 将他的裸体包皮露在寒冷的空气中。"
+    "领头人咆哮 舔着他的排骨 和另一个玩耍的脱下洛萨尔的衣服一样 将他的裸体包皮露在寒冷的空气中。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a0062521:
 
@@ -3347,7 +3344,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a0062521:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b5939c89:
 
-    "洛塔尔叫喊着,但他的警告却听不见。 眼珠开始到处摸摸和舔他,甚至他的软点。"
+    "洛萨尔叫喊着,但他的警告却听不见。 眼珠开始到处摸摸和舔他,甚至他的软点。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_9c18312b:
 
@@ -3367,7 +3364,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_3e5b3bc9:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_e4a356ed:
 
-    "洛塔尔的脸空白了 无法做任何事情 当领导人 将手指塞进他的毛皮洞里 手指柔软的边缘时。"
+    "洛萨尔的脸空白了 无法做任何事情 当领导人 将手指塞进他的毛皮洞里 手指柔软的边缘时。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a28afe82:
 
@@ -3383,7 +3380,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_19a625b7:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_23f6149c:
 
-    "领头人咆哮着 因为它抽动了手指 进出洛塔尔的草地 使他快乐地摇摆。"
+    "领头人咆哮着 因为它抽动了手指 进出洛萨尔的草地 使他快乐地摇摆。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_f0c78998:
 
@@ -3407,7 +3404,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_9b605367:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_654ad73a:
 
-    "其中一个被嘲笑成洛萨大声叫喊 他的臀部在与鼻孔的触碰搏斗。"
+    "其中一个被嘲笑成洛萨尔大声叫喊 他的臀部在与鼻孔的触碰搏斗。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8493299a:
 
@@ -3415,7 +3412,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8493299a:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_e988d424:
 
-    "洛萨胡言乱语,他的声音从尖叫中失声。"
+    "洛萨尔胡言乱语,他的声音从尖叫中失声。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_123be3f7:
 
@@ -3435,7 +3432,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_08388bb3:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_60679bb5:
 
-    "它咆哮,准备领奖,洛塔尔抬头看着领头人眼中的眼珠、恐惧和沮丧。"
+    "它咆哮,准备领奖,洛萨尔抬头看着领头人眼中的眼珠、恐惧和沮丧。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b9853659:
 
@@ -3447,7 +3444,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_fc951af5:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_27ccfb90:
 
-    "洛塔尔呻吟着,他的身体在颤抖 领导人开始抽他的老二, 开始缓慢,但快速地加速。"
+    "洛萨尔呻吟着,他的身体在颤抖 领导人开始抽他的老二, 开始缓慢,但快速地加速。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_3e090a0e:
 
@@ -3455,7 +3452,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_3e090a0e:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_20f765bd:
 
-    "洛塔尔大喊大叫,想逃跑,但他被其他小精灵困住了。"
+    "洛萨尔大喊大叫,想逃跑,但他被其他小精灵困住了。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_647f0bc4:
 
@@ -3467,7 +3464,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_809acabe:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_794af403:
 
-    "洛塔尔的身体再次背叛了他 回应了格诺尔人触摸的欢乐。"
+    "洛萨尔的身体再次背叛了他 回应了格诺尔人触摸的欢乐。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_cd1bc111:
 
@@ -3479,7 +3476,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_57205cd5:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_43ec1630:
 
-    "洛塔尔喘了一口气, 松了一口气, 但很快被打断了,因为他感到温暖,湿润的感觉 吞噬了他的小费。"
+    "洛萨尔喘了一口气, 松了一口气, 但很快被打断了,因为他感到温暖,湿润的感觉 吞噬了他的小费。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b84681ea:
 
@@ -3491,7 +3488,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_0b8ee57f:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_da41ea81:
 
-    "洛塔尔大喊大叫,但为时已晚。"
+    "洛萨尔大喊大叫,但为时已晚。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b26fcccc:
 
@@ -3503,7 +3500,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_6f0b697d:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_66205d2a:
 
-    "洛萨大声叫喊,无法抗拒 进入地牢的强烈快乐。"
+    "洛萨尔大声叫喊,无法抗拒 进入地牢的强烈快乐。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_aece09ff:
 
@@ -3511,7 +3508,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_aece09ff:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8e02f8c6:
 
-    "直到传出传言 领袖轻而易举地 吞噬了洛塔尔的结。"
+    "直到传出传言 领袖轻而易举地 吞噬了洛萨尔的结。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8edfd942:
 
@@ -3519,7 +3516,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8edfd942:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a56309e6:
 
-    "毫无警告地 另一颗小精灵爬上洛塔尔的脸上 使他的鸡鸡臭味发臭。"
+    "毫无警告地 另一颗小精灵爬上洛萨尔的脸上 使他的鸡鸡臭味发臭。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_ab957dcc:
 
@@ -3531,11 +3528,11 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_4656e066:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_9491d945:
 
-    "洛塔尔想把球推开 但把老二塞进嘴里 逼他吸。"
+    "洛萨尔想把球推开 但把老二塞进嘴里 逼他吸。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_4800f9a7:
 
-    "洛塔尔被格诺尔的老二掐死 眼泪流到他脸上 当他被迫忍受 野兽肉的味道时。"
+    "洛萨尔被格诺尔的老二掐死 眼泪流到他脸上 当他被迫忍受 野兽肉的味道时。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_0a5a87ef:
 
@@ -3543,7 +3540,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_0a5a87ef:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_794af403_1:
 
-    "洛塔尔的身体再次背叛了他 回应了格诺尔人触摸的欢乐。"
+    "洛萨尔的身体再次背叛了他 回应了格诺尔人触摸的欢乐。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_2ac65d6b:
 
@@ -3575,15 +3572,15 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_888cb697:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_77845b8a:
 
-    "他可以感觉到自己接近高潮了 但别让另一个人发现自己在洛塔尔的两腿之间。"
+    "他可以感觉到自己接近高潮了 但别让另一个人发现自己在洛萨尔的两腿之间。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_99cffdfa:
 
-    "它很快地站在狼的大腿之间 摩擦着自己的勃起的公鸡 来对付洛塔尔的敏感地方。"
+    "它很快地站在狼的大腿之间 摩擦着自己的勃起的公鸡 来对付洛萨尔的敏感地方。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a0114578:
 
-    "洛萨大喊,他试图抗议,但只有大叫声从喉咙里逃出来,而谷歌开始把鸡鸡塞进他的喉咙。"
+    "洛萨尔大喊,他试图抗议,但只有大叫声从喉咙里逃出来,而谷歌开始把鸡鸡塞进他的喉咙。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8000335b:
 
@@ -3591,7 +3588,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8000335b:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_d305b2c0:
 
-    "洛塔尔大喊大叫,他的声音被嘴里那小白脸的老二打动了。"
+    "洛萨尔大喊大叫,他的声音被嘴里那小白脸的老二打动了。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_91bc758a:
 
@@ -3615,7 +3612,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_cec7fb8f:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8cdf578c:
 
-    "洛塔尔两只手都懒散了, 他根本不在乎, 但他的双手不停地感觉着 他们的厚厚的老二的脊柱和骨架。"
+    "洛萨尔两只手都懒散了, 他根本不在乎, 但他的双手不停地感觉着 他们的厚厚的老二的脊柱和骨架。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8dc0277f:
 
@@ -3627,19 +3624,19 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a88ee1fd:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_449ba1a1:
 
-    "洛塔尔只能呻吟 回应,他的眼睛闪闪发光 满怀欲望 沉浸在欢乐之中。"
+    "洛萨尔只能呻吟 回应,他的眼睛闪闪发光 满怀欲望 沉浸在欢乐之中。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_9c5ffb00:
 
-    "其他人看着,欢呼和嘲笑 当他们的领袖骑着洛塔尔的老二 无情地骑着洛塔尔的老二。"
+    "其他人看着,欢呼和嘲笑 当他们的领袖骑着洛萨尔的老二 无情地骑着洛萨尔的老二。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_53b9f157:
 
-    "突然,洛塔尔感觉到他的鸡鸡潮 感觉到他的高潮即将来临。"
+    "突然,洛萨尔感觉到他的鸡鸡潮 感觉到他的高潮即将来临。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_1354fa2a:
 
-    "但领袖还没跟他完事,它停止了行动,等待洛塔尔达到顶峰。"
+    "但领袖还没跟他完事,它停止了行动,等待洛萨尔达到顶峰。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_b7833a2d:
 
@@ -3659,11 +3656,11 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_824813a2:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_d4776d63:
 
-    "洛塔尔再也无法抗拒了 他可以感觉到自己的高潮 威胁要压倒他。"
+    "洛萨尔再也无法抗拒了 他可以感觉到自己的高潮 威胁要压倒他。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_8946ea62:
 
-    "突然间,事情就发生了。他身上的鼻孔在摇头丸中哭泣, 因为它感觉洛塔尔的鸡巴在它里面爆炸, 用他的种子充斥着它的屁股。"
+    "突然间,事情就发生了。他身上的鼻孔在摇头丸中哭泣, 因为它感觉洛萨尔的鸡巴在它里面爆炸, 用他的种子充斥着它的屁股。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_57cfa553:
 
@@ -3671,7 +3668,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_57cfa553:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_dcf2c639:
 
-    "洛塔尔在口中大叫着鸡鸡 身体在高潮时抽搐 欢乐一波又一波地压着他。"
+    "洛萨尔在口中大叫着鸡鸡 身体在高潮时抽搐 欢乐一波又一波地压着他。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_c76ff0c2:
 
@@ -3683,7 +3680,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_427130ee:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a37e100e:
 
-    "洛塔尔很快吞咽,当它最终被拉走时,洛塔尔喘了口气,他的身体瘸了,疲惫不堪。"
+    "洛萨尔很快吞咽,当它最终被拉走时,洛萨尔喘了口气,他的身体瘸了,疲惫不堪。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_fae558be:
 
@@ -3707,7 +3704,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_24f13139:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_2192a9fc:
 
-    "洛萨温柔地呻吟 无法抗拒温柔的触摸。"
+    "洛萨尔温柔地呻吟 无法抗拒温柔的触摸。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_2ab9b743:
 
@@ -3731,7 +3728,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_e60b1835:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_d7836195:
 
-    "洛塔尔躺在那里 喘着粗气 身体仍然在颤抖 刚刚经历的欢乐。"
+    "洛萨尔躺在那里 喘着粗气 身体仍然在颤抖 刚刚经历的欢乐。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_33fbc58b:
 
@@ -3743,7 +3740,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_e38d962b:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_ecbd6f6b:
 
-    "洛塔尔愤怒地咆哮,想站起来,但他的腿太弱,他跌倒在草地上,败北。"
+    "洛萨尔愤怒地咆哮,想站起来,但他的腿太弱,他跌倒在草地上,败北。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_4b8156a9:
 
@@ -3759,7 +3756,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a4f289d1:
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_f374e512:
 
-    "洛塔尔对自己说,他仍然可以感受到 触摸鼻孔的乐趣, 仍然可以听到他们的笑声 在他的耳边响起。"
+    "洛萨尔对自己说,他仍然可以感受到 触摸鼻孔的乐趣, 仍然可以听到他们的笑声 在他的耳边响起。"
 
 translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_71b72fee:
 
@@ -3771,7 +3768,7 @@ translate schinese_rewrite Scene_Lothar_Gnoll_Keepsake_a20cefa7:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_007dc63a:
 
-    "卡里自愿下楼 身体被压在福坎的胸口上 感觉手在福坎的毛皮上徘徊。"
+    "卡里自愿下楼 身体被压在弗坎的胸口上 感觉手在弗坎的毛皮上徘徊。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_60ac1ff7:
 
@@ -3779,7 +3776,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_60ac1ff7:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_191a9d1d:
 
-    "福坎抓住了卡莉的腰部,把他拉近了,他可以感觉到鹿的臀部在对他进行磨擦,这是幼年朋友之间超越的亲密关系。"
+    "弗坎抓住了卡里的腰部,把他拉近了,他可以感觉到鹿的臀部在对他进行磨擦,这是幼年朋友之间超越的亲密关系。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_861547b5:
 
@@ -3787,11 +3784,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_861547b5:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_f2099ae0:
 
-    "卡里犹豫不决 看着福坎 脸上写着混乱。"
+    "卡里犹豫不决 看着弗坎 脸上写着混乱。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9d4f33c2:
 
-    "年轻的山羊微笑着 抓住卡莉的一只手 放在他们身体之间。"
+    "年轻的山羊微笑着 抓住卡里的一只手 放在他们身体之间。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_e1068605:
 
@@ -3803,7 +3800,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_575df740:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_875360f4:
 
-    "一只软的呻吟从卡莉嘴里逃出来 当他终于接触福坎的会员时 觉得自己更难控制。"
+    "一只软的呻吟从卡里嘴里逃出来 当他终于接触弗坎的会员时 觉得自己更难控制。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_81733aa8:
 
@@ -3811,7 +3808,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_81733aa8:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_bbcbdd3a:
 
-    "福坎 轻轻地 轻轻地 把手举起来 来解开卡莉的腰带。"
+    "弗坎 轻轻地 轻轻地 把手举起来 来解开卡里的腰带。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_450beb82:
 
@@ -3823,7 +3820,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_66c4e11e:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_78ff2b41:
 
-    "卡里轻轻地喘气,脸颊被打得很难堪,因为他感到福坎身体的温暖和自己的温暖。"
+    "卡里轻轻地喘气,脸颊被打得很难堪,因为他感到弗坎身体的温暖和自己的温暖。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_e7459360:
 
@@ -3831,7 +3828,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_e7459360:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9caded56:
 
-    "福坎按住卡莉的臀部 让他的体重休息在鹿身上。"
+    "弗坎按住卡里的臀部 让他的体重休息在鹿身上。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_d043bd34:
 
@@ -3847,15 +3844,15 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_af5d9e7d:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_caf04edf:
 
-    "福坎又倾斜了一次吻 这次更深 更激情。"
+    "弗坎又倾斜了一次吻 这次更深 更激情。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_0ae36394:
 
-    "他的手摸着卡莉大腿上的毛皮, 感觉到手指下皮肤柔软。"
+    "他的手摸着卡里大腿上的毛皮, 感觉到手指下皮肤柔软。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_ae864799:
 
-    "他永远不会忘记卡莉的身体对他的感觉, 温暖的空气从他身上散发出来, 他的呼吸在喉咙里被塞住。"
+    "他永远不会忘记卡里的身体对他的感觉, 温暖的空气从他身上散发出来, 他的呼吸在喉咙里被塞住。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_727f5404:
 
@@ -3867,7 +3864,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_936b290c:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_a70e166a:
 
-    "卡里继续盯着福坎的眼睛看,他自己的手动起来抚摸年轻山羊的胸口。"
+    "卡里继续盯着弗坎的眼睛看,他自己的手动起来抚摸年轻山羊的胸口。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_542540b3:
 
@@ -3875,7 +3872,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_542540b3:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_f6627869:
 
-    "福坎从卡莉嘴里出来时悄悄地说。"
+    "弗坎从卡里嘴里出来时悄悄地说。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_14be93c6:
 
@@ -3883,11 +3880,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_14be93c6:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_e63c625e:
 
-    "卡莉的声音几乎在耳语之上 他的脸颊被尴尬冲洗。"
+    "卡里的声音几乎在耳语之上 他的脸颊被尴尬冲洗。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_910aefbc:
 
-    "福坎笑着,手动向卡莉的臀部。鹿点头,他仍然相信福坎,尽管他犹豫不决。"
+    "弗坎笑着,手动向卡里的臀部。鹿点头,他仍然相信弗坎,尽管他犹豫不决。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3e426ddc:
 
@@ -3895,11 +3892,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3e426ddc:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_76280023:
 
-    "用一股响亮的喷口, 富肯吐在他的朋友身上, 然后用他的手指在敏感洞里擦。"
+    "用一股响亮的喷口, 弗坎吐在他的朋友身上, 然后用他的手指在敏感洞里擦。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_7e7a455f:
 
-    "卡莉在休克中喘了口气, 今晚有多次首次演出, 但这是他从未见过的最令人不安的举动。"
+    "卡里在休克中喘了口气, 今晚有多次首次演出, 但这是他从未见过的最令人不安的举动。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_73118912:
 
@@ -3911,23 +3908,23 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_24ae2c95:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_1ac729d5:
 
-    "福坎投出一个更低的投手 几乎是Tevfik有时会做出来的 最深的鼓手。"
+    "弗坎投出一个更低的投手 几乎是Tevfik有时会做出来的 最深的鼓手。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9dbccd6c:
 
-    "卡莉 chuckled, 即使像福坎说的那么容易, 他们都是没有经验的年轻人, 试图满足彼此对身体的欲望。"
+    "卡里 chuckled, 即使像弗坎说的那么容易, 他们都是没有经验的年轻人, 试图满足彼此对身体的欲望。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9f695263:
 
-    "福坎的手指滑进卡莉的洞里 鹿放出一首柔软的呻吟。"
+    "弗坎的手指滑进卡里的洞里 鹿放出一首柔软的呻吟。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_26625daf:
 
-    "这只年轻的山羊动了手指进出,在卡莉的入口周围伸展了紧紧的肌肉圈。"
+    "这只年轻的山羊动了手指进出,在卡里的入口周围伸展了紧紧的肌肉圈。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_faae5353:
 
-    "一旦他觉得卡里准备好了, 福坎就拔了手指, 尝了涂上它的甜汁。"
+    "一旦他觉得卡里准备好了, 弗坎就拔了手指, 尝了涂上它的甜汁。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_42f54fba:
 
@@ -3943,11 +3940,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_80aff160:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9a9ec6ea:
 
-    "福坎再一次吻了卡莉 他的手动起来 站在鹿的大腿之间。"
+    "弗坎再一次吻了卡里 他的手动起来 站在鹿的大腿之间。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_c4c94b48:
 
-    "他把老二擦在卡莉的入口上 感觉到它散发的温暖。"
+    "他把老二擦在卡里的入口上 感觉到它散发的温暖。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_4ba86969:
 
@@ -3959,11 +3956,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_1499434e:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_5cbabf6e:
 
-    "卡莉喊道,他的身体在福坎下面颤抖,疼痛从他身上射穿。"
+    "卡里喊道,他的身体在弗坎下面颤抖,疼痛从他身上射穿。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_d9ed3aee:
 
-    "但就像他承诺的那样, 福坎在遇到抵抗时停止了抵抗, 等待卡莉的肌肉放松,然后继续推下去。"
+    "但就像他承诺的那样, 弗坎在遇到抵抗时停止了抵抗, 等待卡里的肌肉放松,然后继续推下去。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_87a6e92c:
 
@@ -3979,7 +3976,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_fa1bbc8e:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_2266fc20:
 
-    "福坎温柔地问话,。"
+    "弗坎温柔地问话,。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_1d0269ce:
 
@@ -3987,7 +3984,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_1d0269ce:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_895c45d2:
 
-    "卡莉诚实地回答说,他仍然呼吸着沉重的呼吸,然而,他的声音没有痛苦的暗示。"
+    "卡里诚实地回答说,他仍然呼吸着沉重的呼吸,然而,他的声音没有痛苦的暗示。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9f6c21f8:
 
@@ -3995,7 +3992,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_9f6c21f8:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3aa8446a:
 
-    "他犹豫不决,对不只和任何人一起 和福坎本人一起 进行这种行为的想法感到羞耻。"
+    "他犹豫不决,对不只和任何人一起 和弗坎本人一起 进行这种行为的想法感到羞耻。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3c67c05d:
 
@@ -4003,7 +4000,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3c67c05d:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_c838f2d5:
 
-    "当福坎开始慢慢移动, 感觉到卡莉的肌肉的每一个抽搐和移动, 他意识到, 与独自做相比,他更享受。"
+    "当弗坎开始慢慢移动, 感觉到卡里的肌肉的每一个抽搐和移动, 他意识到, 与独自做相比,他更享受。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_5a0421cd:
 
@@ -4023,11 +4020,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_c48d855c:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_8a13b213:
 
-    "卡莉轻轻地呻吟 双手紧紧地握在福坎的肩膀上。"
+    "卡里轻轻地呻吟 双手紧紧地握在弗坎的肩膀上。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_c6fa010e:
 
-    "这只年轻的山羊加快了速度, 越来越快地撞到卡莉, 皮肤对着房间的皮肤打耳光的声音。"
+    "这只年轻的山羊加快了速度, 越来越快地撞到卡里, 皮肤对着房间的皮肤打耳光的声音。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_167a0dd0:
 
@@ -4039,7 +4036,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_bc2ad122:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_adaea152:
 
-    "仿佛感知到,卡里把他的腿 缠在福坎的腰上,拉他近一点。"
+    "仿佛感知到,卡里把他的腿 缠在弗坎的腰上,拉他近一点。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3c4f728e:
 
@@ -4047,7 +4044,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3c4f728e:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_61b471b4:
 
-    "福坎现在加速推进, 呼唤每个运动。"
+    "弗坎现在加速推进, 呼唤每个运动。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_89087cb4:
 
@@ -4059,7 +4056,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_4c65ebc3:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_1275a58d:
 
-    "福坎和卡莉立即冻僵,他们的眼睛惊呆了。"
+    "弗坎和卡里立即冻僵,他们的眼睛惊呆了。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_34bbd26a:
 
@@ -4075,7 +4072,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_f02a1c44:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_d3737894:
 
-    "尽管有入侵者,福坎仍然深入卡莉的身体,将鹿紧紧抱在胸前,试图保持安静。"
+    "尽管有入侵者,弗坎仍然深入卡里的身体,将鹿紧紧抱在胸前,试图保持安静。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_35053c29:
 
@@ -4083,7 +4080,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_35053c29:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_b466ad08:
 
-    "卡莉咬下嘴唇 试图不发出任何噪音 因为他觉得福坎的鸡巴在抽动。"
+    "卡里咬下嘴唇 试图不发出任何噪音 因为他觉得弗坎的鸡巴在抽动。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_88198dd8:
 
@@ -4103,7 +4100,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_1da458e7:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_681e85ed:
 
-    "福坎望着桌边的窗帘,但薄布没有阻碍他的观点。"
+    "弗坎望着桌边的窗帘,但薄布没有阻碍他的观点。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_cd25f2cd:
 
@@ -4115,11 +4112,11 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_92844688:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_5e49e45a:
 
-    "同时,卡里觉得福坎的鸡巴 更用力地在墙壁上抽动, 通过他的身体发出欢乐的浪潮。"
+    "同时,卡里觉得弗坎的鸡巴 更用力地在墙壁上抽动, 通过他的身体发出欢乐的浪潮。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_3f329504:
 
-    "他紧地紧紧地紧地紧紧地紧紧地紧地紧地紧紧地紧地地紧紧地地着福坎的会员,想着他,试图保持沉默。"
+    "他紧地紧紧地紧地紧紧地紧紧地紧地紧地紧紧地紧地地紧紧地地着弗坎的会员,想着他,试图保持沉默。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_548f8ac2:
 
@@ -4151,7 +4148,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_8e87f0fb:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_b67ed9c4:
 
-    "福坎咬下他的嘴唇,试图压住他的高潮。他越是反抗,就越是困难。"
+    "弗坎咬下他的嘴唇,试图压住他的高潮。他越是反抗,就越是困难。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_900f7615:
 
@@ -4167,7 +4164,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_582bde05:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_5630f008:
 
-    "他放出一阵打动的哭喊声 手握在福坎的肩膀上 求得支持。"
+    "他放出一阵打动的哭喊声 手握在弗坎的肩膀上 求得支持。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_edf6a14d:
 
@@ -4211,7 +4208,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_77562238:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_27c9d762:
 
-    "另一位警卫回答说,随后是沉默。 这次,空气中的紧张是显而易见的,福坎和卡莉都不敢一寸移动。"
+    "另一位警卫回答说,随后是沉默。 这次,空气中的紧张是显而易见的,弗坎和卡里都不敢一寸移动。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_f3e81b52:
 
@@ -4235,7 +4232,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_8c9c2438:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_7eff6dd3:
 
-    "福坎一旦知道 离开藏身之地就很安全了。"
+    "弗坎一旦知道 离开藏身之地就很安全了。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_450902cc:
 
@@ -4243,7 +4240,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_450902cc:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_42b57abf:
 
-    "同时,卡里向前倾斜,轻轻地喘气, 并抓住福坎的肩膀来争取平衡。"
+    "同时,卡里向前倾斜,轻轻地喘气, 并抓住弗坎的肩膀来争取平衡。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_803de223:
 
@@ -4263,7 +4260,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_bc857873:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_686467da:
 
-    "他脸颊上有个脸红的洞 他对福坎笑容微弱。"
+    "他脸颊上有个脸红的洞 他对弗坎笑容微弱。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_01b5d8a9:
 
@@ -4283,7 +4280,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_dbafceac:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_eb65d571:
 
-    "卡莉很快地摇头,在他补充之前短暂暂停了一下。"
+    "卡里很快地摇头,在他补充之前短暂暂停了一下。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_79baf35b:
 
@@ -4307,7 +4304,7 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_2c0c3002:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_f052a976:
 
-    "卡莉用手指指着嘴唇,一边笑着笑着,一边用福坎的种子残留在屁股上。"
+    "卡里用手指指着嘴唇,一边笑着笑着,一边用弗坎的种子残留在屁股上。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_51b8260f:
 
@@ -4319,8 +4316,8 @@ translate schinese_rewrite Scene_Furkan_Kari_Keepsake_a9e349fa:
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_d9db41a5:
 
-    "卡莉轻轻地扣了扣,但他没回答。"
+    "卡里轻轻地扣了扣,但他没回答。"
 
 translate schinese_rewrite Scene_Furkan_Kari_Keepsake_c8a5f0bd:
 
-    "当福坎准备参加仪式时,卡莉留在小屋里,默默地看着他。"
+    "当弗坎准备参加仪式时,卡里留在小屋里,默默地看着他。"

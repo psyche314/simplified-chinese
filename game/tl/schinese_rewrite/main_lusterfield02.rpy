@@ -67,7 +67,7 @@ translate schinese_rewrite Cane_Dialogue_97de7bb1:
 
 translate schinese_rewrite Cane_Dialogue_5a926dc3:
 
-    e "你好,肯恩。"
+    e "你好,凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_8d5cef73:
 
@@ -75,7 +75,7 @@ translate schinese_rewrite Cane_Dialogue_8d5cef73:
 
 translate schinese_rewrite Cane_Dialogue_a9f0941c:
 
-    e "你在说什么,肯恩?"
+    e "你在说什么,凯恩?"
 
 translate schinese_rewrite Cane_Dialogue_c6408ae7:
 
@@ -95,7 +95,7 @@ translate schinese_rewrite Cane_Dialogue_b4e09a22:
 
 translate schinese_rewrite Cane_Dialogue_b1f8c8df:
 
-    e "非常好,谢谢你,肯恩。"
+    e "非常好,谢谢你,凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_690a2e4e:
 
@@ -107,7 +107,7 @@ translate schinese_rewrite Cane_Dialogue_dcba56b5:
 
 translate schinese_rewrite Cane_Dialogue_e53b2d07:
 
-    e "我明白,肯恩,别担心。"
+    e "我明白,凯恩,别担心。"
 
 translate schinese_rewrite Cane_Dialogue_bb98a8ed:
 
@@ -115,7 +115,7 @@ translate schinese_rewrite Cane_Dialogue_bb98a8ed:
 
 translate schinese_rewrite Cane_Dialogue_7f00dddd:
 
-    e "当然 别担心 肯恩 我会帮你的。"
+    e "当然 别担心 凯恩 我会帮你的。"
 
 translate schinese_rewrite Cane_Dialogue_4c4d442d:
 
@@ -123,7 +123,7 @@ translate schinese_rewrite Cane_Dialogue_4c4d442d:
 
 translate schinese_rewrite Cane_Dialogue_5a926dc3_1:
 
-    e "你好,肯恩。"
+    e "你好,凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_9df12cda:
 
@@ -143,7 +143,7 @@ translate schinese_rewrite Cane_Dialogue_c6cadae6:
 
 translate schinese_rewrite Cane_Dialogue_2e7e7811:
 
-    e "我会的,我还能回来看你吗,肯恩?"
+    e "我会的,我还能回来看你吗,凯恩?"
 
 translate schinese_rewrite Cane_Dialogue_8ed25211:
 
@@ -151,7 +151,7 @@ translate schinese_rewrite Cane_Dialogue_8ed25211:
 
 translate schinese_rewrite Cane_Dialogue_8c471278:
 
-    e "我知道,肯恩。"
+    e "我知道,凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_07e3f88e:
 
@@ -159,7 +159,7 @@ translate schinese_rewrite Cane_Dialogue_07e3f88e:
 
 translate schinese_rewrite Cane_Dialogue_2e899f8e:
 
-    e "是啊,我想尽管有些打嗝, 每个人都很开心, 我看到你和拉希姆说话了。"
+    e "是啊,我想尽管有些打嗝, 每个人都很开心, 我看到你和雷希姆说话了。"
 
 translate schinese_rewrite Cane_Dialogue_90e46722:
 
@@ -231,7 +231,7 @@ translate schinese_rewrite Cane_Dialogue_79858a9a:
 
 translate schinese_rewrite Cane_Dialogue_d2c9a869:
 
-    e "是的,谢谢,肯恩。"
+    e "是的,谢谢,凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_be413ed6_2:
 
@@ -247,7 +247,7 @@ translate schinese_rewrite Cane_Normal_Talk_58e0fbb5:
 
 translate schinese_rewrite Cane_Work_b9eb2c1d:
 
-    e "肯恩,我能在这里做点工作吗?"
+    e "凯恩,我能在这里做点工作吗?"
 
 translate schinese_rewrite Cane_Work_482cb8d8:
 
@@ -255,7 +255,7 @@ translate schinese_rewrite Cane_Work_482cb8d8:
 
 translate schinese_rewrite Cane_Work_76aa60a3:
 
-    e "嘿,肯恩,我能..."
+    e "嘿,凯恩,我能..."
 
 translate schinese_rewrite Cane_Work_392c40f8:
 
@@ -271,7 +271,7 @@ translate schinese_rewrite Cane_Work_46f4825c:
 
 translate schinese_rewrite Cane_Work_d4392b56:
 
-    e "我需要再多想想,谢谢肯恩。"
+    e "我需要再多想想,谢谢凯恩。"
 
 translate schinese_rewrite Cane_Work_99900951:
 
@@ -279,11 +279,11 @@ translate schinese_rewrite Cane_Work_99900951:
 
 translate schinese_rewrite Cane_Work_e0696090:
 
-    e "O-ok!谢谢,肯恩。"
+    e "O-ok!谢谢,凯恩。"
 
 translate schinese_rewrite Cane_Work_0c1134d3:
 
-    e "肯恩,你说过在酒馆工作吧?"
+    e "凯恩,你说过在酒馆工作吧?"
 
 translate schinese_rewrite Cane_Work_7121ebe1:
 
@@ -299,7 +299,7 @@ translate schinese_rewrite Cane_Work_a80432ec:
 
 translate schinese_rewrite Cane_Work_d2ecfc50:
 
-    e "我会考虑的,肯恩。"
+    e "我会考虑的,凯恩。"
 
 translate schinese_rewrite Cane_Work_b6ca98b4:
 
@@ -307,7 +307,7 @@ translate schinese_rewrite Cane_Work_b6ca98b4:
 
 translate schinese_rewrite Cane_Work_adc10916:
 
-    e "肯恩 我能再去酒馆工作吗?"
+    e "凯恩 我能再去酒馆工作吗?"
 
 translate schinese_rewrite Cane_Work_1a1b7af6:
 
@@ -315,7 +315,7 @@ translate schinese_rewrite Cane_Work_1a1b7af6:
 
 translate schinese_rewrite Cane_Work_d2ecfc50_1:
 
-    e "我会考虑的,肯恩。"
+    e "我会考虑的,凯恩。"
 
 translate schinese_rewrite Cane_Work_b6ca98b4_1:
 
@@ -327,7 +327,7 @@ translate schinese_rewrite Cane_Work_e120c034:
 
 translate schinese_rewrite Cane_Work_62ea5a76:
 
-    e "OK,肯恩。"
+    e "OK,凯恩。"
 
 translate schinese_rewrite Cane_Order_740b1efb:
 
@@ -403,7 +403,7 @@ translate schinese_rewrite Cane_First_Time_Upstairs_904cca39:
 
 translate schinese_rewrite Cane_First_Time_Upstairs_3e8fb334:
 
-    e "肯恩,我正要问你上面有什么。"
+    e "凯恩,我正要问你上面有什么。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_3ef666e8:
 
@@ -435,7 +435,7 @@ translate schinese_rewrite Cane_First_Time_Upstairs_028a213e:
 
 translate schinese_rewrite Cane_First_Time_Upstairs_717a2b3d:
 
-    c "肯恩对你笑得热烈, 他的眼睛与感情交融。"
+    c "凯恩对你笑得热烈, 他的眼睛与感情交融。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_09818526:
 
@@ -451,7 +451,7 @@ translate schinese_rewrite Cane_First_Time_Upstairs_4420776c:
 
 translate schinese_rewrite Cane_First_Time_Upstairs_a42030c2:
 
-    e "很高兴知道,肯恩 我会尽力帮忙的。"
+    e "很高兴知道,凯恩 我会尽力帮忙的。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_fde0982a:
 
@@ -463,7 +463,7 @@ translate schinese_rewrite Cane_First_Time_Upstairs_6db7f304:
 
 translate schinese_rewrite Cane_First_Time_Upstairs_fa45db30:
 
-    "肯恩不用思考 向前走 将他的手臂抱在你身上 在他的大肚子上。"
+    "凯恩不用思考 向前走 将他的手臂抱在你身上 在他的大肚子上。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_6f89fa7d:
 
@@ -475,11 +475,11 @@ translate schinese_rewrite Cane_First_Time_Upstairs_1bc9bd8b:
 
 translate schinese_rewrite Cane_First_Time_Upstairs_a3abc292:
 
-    e "肯恩,我不会去任何地方。"
+    e "凯恩,我不会去任何地方。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_364f609d:
 
-    "你在肯恩的亲密拥抱里说话 他的紫色毛皮抚摸了你的脸颊 当你深挖你的头 进入他。"
+    "你在凯恩的亲密拥抱里说话 他的紫色毛皮抚摸了你的脸颊 当你深挖你的头 进入他。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_96aeb4a8:
 
@@ -819,7 +819,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_e710df45:
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_01ffa467:
 
-    fokk "肯恩雇你来干这个?"
+    fokk "凯恩雇你来干这个?"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_978fbf38:
 
@@ -951,11 +951,11 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_c45b8837:
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_9bfd683c:
 
-    coit "这里的福克曾经在酒馆前唱过一首歌, 假设那天我们失去了一些顾客, 为我们心爱的肯恩。"
+    coit "这里的福克曾经在酒馆前唱过一首歌, 假设那天我们失去了一些顾客, 为我们心爱的凯恩。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_ec22bac2:
 
-    fokk "亚wanker,肯恩拦住我 就在我即将到达 最高潮的歌曲, 他们从来没有到达到最后那里。"
+    fokk "亚wanker,凯恩拦住我 就在我即将到达 最高潮的歌曲, 他们从来没有到达到最后那里。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_661b8851:
 
@@ -971,7 +971,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_e0137cb0:
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_45626c63:
 
-    gato "肯恩最喜欢的酒保在桌上 别担心。"
+    gato "凯恩最喜欢的酒保在桌上 别担心。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_3ffd41bb:
 
@@ -1031,7 +1031,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_94fbf1b9:
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_0a746f82:
 
-    fokk "现在我明白肯恩为什么喜欢这个了 肯定也在他的巷子里。"
+    fokk "现在我明白凯恩为什么喜欢这个了 肯定也在他的巷子里。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_85d764d5:
 
@@ -1403,8 +1403,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_End_5afbc271:
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a4c7b574:
 
-    fokk "Well, not even one gold?"
-
+    fokk "什么，连一枚金币都没有？"
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_059073a5:
 
     gato "连你这样的杯子载货员 都很难过。"
@@ -1555,7 +1554,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_End_13aac4cf:
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_5b11ec52:
 
-    fokk "作为价值的象征 尊重肯恩 我让你选择 以身体支付 否则你所有的钱包现在都属于我们了。"
+    fokk "作为价值的象征 尊重凯恩 我让你选择 以身体支付 否则你所有的钱包现在都属于我们了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_4aed3131:
 
@@ -1771,8 +1770,7 @@ translate schinese_rewrite Cane_Beer_Task_Begin_4987c6dd:
 
 translate schinese_rewrite Cane_Beer_Task_Begin_94128331:
 
-    c "Yer goddamn right."
-
+    c "那当然，没错。"
 translate schinese_rewrite Cane_Beer_Task_Begin_9b41c95e:
 
     e "我可以做到。"
@@ -1791,7 +1789,7 @@ translate schinese_rewrite Cane_Beer_Task_Report_dfbdebc3:
 
 translate schinese_rewrite Cane_Beer_Task_Report_29234d6c:
 
-    e "嘿,肯恩,你需要的一切都准备好了。"
+    e "嘿,凯恩,你需要的一切都准备好了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_97605dd3:
 
@@ -1811,7 +1809,7 @@ translate schinese_rewrite Cane_Beer_Task_Report_0b9885a3:
 
 translate schinese_rewrite Cane_Beer_Task_Report_6c74b0d5:
 
-    e "啊,感谢肯恩。"
+    e "啊,感谢凯恩。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_0d6f8aaa:
 
@@ -1831,7 +1829,7 @@ translate schinese_rewrite Cane_Beer_Task_Report_820d502a:
 
 translate schinese_rewrite Cane_Beer_Task_Report_2c287756:
 
-    e "肯恩,我觉得你太恭维我了。"
+    e "凯恩,我觉得你太恭维我了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_6e203f78:
 
@@ -1839,7 +1837,7 @@ translate schinese_rewrite Cane_Beer_Task_Report_6e203f78:
 
 translate schinese_rewrite Cane_Beer_Task_Report_1ea9c5d9:
 
-    e "不,我和你一起工作很开心,肯恩。"
+    e "不,我和你一起工作很开心,凯恩。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_a507ebe0:
 
@@ -1923,7 +1921,7 @@ translate schinese_rewrite Cane_Beer_Task_Report_4bba268b:
 
 translate schinese_rewrite Cane_Beer_Task_Report_db0f9849:
 
-    e "我很抱歉肯恩。"
+    e "我很抱歉凯恩。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_b7fb3c86:
 
@@ -1935,7 +1933,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_5f42f199:
 
 translate schinese_rewrite Cane_Favour_For_Ya_8fd9e0fa:
 
-    "肯恩用他平时的笑容看着你。"
+    "凯恩用他平时的笑容看着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_08ee8555:
 
@@ -1959,7 +1957,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_a5f6941e:
 
 translate schinese_rewrite Cane_Favour_For_Ya_5e090dbd:
 
-    "肯恩从他的直肠里 伸出了一颗心跳的笑柄 一边眨着眼。"
+    "凯恩从他的直肠里 伸出了一颗心跳的笑柄 一边眨着眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_483d5edf:
 
@@ -1971,7 +1969,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_d9bfb1b2:
 
 translate schinese_rewrite Cane_Favour_For_Ya_e946cbac:
 
-    "肯恩的脸马上清醒起来。"
+    "凯恩的脸马上清醒起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_e858c89c:
 
@@ -1991,7 +1989,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_ad9f1ae3:
 
 translate schinese_rewrite Cane_Favour_For_Ya_e7a9a473:
 
-    "肯恩大叹气,把杯子和毛巾扔掉,然后把胳膊伸到桌子上。"
+    "凯恩大叹气,把杯子和毛巾扔掉,然后把胳膊伸到桌子上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_80f12868:
 
@@ -2003,7 +2001,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_dd2347e3:
 
 translate schinese_rewrite Cane_Favour_For_Ya_9f151ab1:
 
-    "肯恩看起来松了一口气 尽管他坚决想留着他的钱。"
+    "凯恩看起来松了一口气 尽管他坚决想留着他的钱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_fb8de8f5:
 
@@ -2023,7 +2021,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_f4c96877:
 
 translate schinese_rewrite Cane_Favour_For_Ya_63ada6cf:
 
-    "肯恩笑,伸出手来扭你的头。"
+    "凯恩笑,伸出手来扭你的头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_bba0b7ec:
 
@@ -2031,7 +2029,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_bba0b7ec:
 
 translate schinese_rewrite Cane_Favour_For_Ya_b7cdcf12:
 
-    e "谢谢你们肯恩!"
+    e "谢谢你们凯恩!"
 
 translate schinese_rewrite Cane_Favour_For_Ya_92679c26:
 
@@ -2055,7 +2053,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_d0f3780f:
 
 translate schinese_rewrite Cane_Favour_For_Ya_786fb5f1:
 
-    e "再见,肯恩。"
+    e "再见,凯恩。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1f786c17:
 
@@ -2075,7 +2073,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_d37324ef:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0bc8b99e:
 
-    "肯恩的笑容在脸上被短暂冻结了。"
+    "凯恩的笑容在脸上被短暂冻结了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_990d1c0c:
 
@@ -2087,7 +2085,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f97078ea:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a150956e:
 
-    e "我不是那个意思,肯恩 我真的很想和你共度一晚。"
+    e "我不是那个意思,凯恩 我真的很想和你共度一晚。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d1b565c9:
 
@@ -2095,7 +2093,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_d1b565c9:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5c54e659:
 
-    "肯恩的言语好像在考虑他的话一样。"
+    "凯恩的言语好像在考虑他的话一样。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3726f39:
 
@@ -2111,7 +2109,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_582130d7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5aab13c7:
 
-    "肯恩似乎跟你一起在后脚上。"
+    "凯恩似乎跟你一起在后脚上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb77350a:
 
@@ -2155,7 +2153,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_53dd0207:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd6e14c5:
 
-    "肯恩闭上眼睛 叹气 他无助地看着你。"
+    "凯恩闭上眼睛 叹气 他无助地看着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_81e2aa42:
 
@@ -2171,7 +2169,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_13815979:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_59d1fde0:
 
-    "肯恩向你的方向眨了眨眼。"
+    "凯恩向你的方向眨了眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6b033cb:
 
@@ -2179,7 +2177,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6b033cb:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e8152723:
 
-    e "谢谢肯恩,我真的很期待！"
+    e "谢谢凯恩,我真的很期待！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8e3e0c54:
 
@@ -2191,7 +2189,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_cf477a9c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7521e38b:
 
-    "肯恩转过身去 研究他背后的一些杯子。"
+    "凯恩转过身去 研究他背后的一些杯子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ca506b35:
 
@@ -2211,7 +2209,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_363f8663:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_03ee7115:
 
-    "你一直偷窥你的眼睛 抓住肯恩。"
+    "你一直偷窥你的眼睛 抓住凯恩。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_70ecd072:
 
@@ -2227,7 +2225,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_7e006154:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_73f48457:
 
-    "很快,酒吧就被清理干净了 只有肯恩和你在这里。"
+    "很快,酒吧就被清理干净了 只有凯恩和你在这里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_822b70ef:
 
@@ -2235,7 +2233,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_822b70ef:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_70a57c40:
 
-    "转过头看源头 你看到肯恩低头看你。"
+    "转过头看源头 你看到凯恩低头看你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8d12fb01:
 
@@ -2303,7 +2301,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_c3e4bb5c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c948ab3a:
 
-    "肯恩的笑容变成了笑容 当他从你身边走过时。"
+    "凯恩的笑容变成了笑容 当他从你身边走过时。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_186a9b66:
 
@@ -2339,7 +2337,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_cc0038c1:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_80dfb2c6:
 
-    "肯恩走起来,打你的头。"
+    "凯恩走起来,打你的头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f4aa5010:
 
@@ -2351,7 +2349,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_080ec68f:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d2a991b5:
 
-    "肯恩在指向楼梯,到二楼的一扇门 让你离开。"
+    "凯恩在指向楼梯,到二楼的一扇门 让你离开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_75a0cf8a:
 
@@ -2371,7 +2369,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_8b6f98b0:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4445f71e:
 
-    "你对这句话很兴奋 激怒你 引来一股淫荡的笑柄 和从你身后肯恩的推力。"
+    "你对这句话很兴奋 激怒你 引来一股淫荡的笑柄 和从你身后凯恩的推力。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fa1525be:
 
@@ -2383,7 +2381,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_736d73c5:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eddee046:
 
-    "肯恩把门关上 带着自信的笑容站在你面前。"
+    "凯恩把门关上 带着自信的笑容站在你面前。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a04fe456:
 
@@ -2403,7 +2401,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_21eb50e3:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_17fa8a0f:
 
-    "肯恩笑,抓住你, 把你拉近,然后去取衣服。"
+    "凯恩笑,抓住你, 把你拉近,然后去取衣服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bd39414f:
 
@@ -2423,7 +2421,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_df3d4eba:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_57fc2d92:
 
-    "肯恩大笑 把手放回你的衣物上 感觉你起来了。"
+    "凯恩大笑 把手放回你的衣物上 感觉你起来了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6fd3c88:
 
@@ -2463,7 +2461,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_c72e6365:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bead75b6:
 
-    "采取一些主动, 因为肯恩似乎 很高兴你的行动 到目前为止, 和分心你的屁股, 你达到在他的衬衫之下。"
+    "采取一些主动, 因为凯恩似乎 很高兴你的行动 到目前为止, 和分心你的屁股, 你达到在他的衬衫之下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_879dc295:
 
@@ -2487,15 +2485,15 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_e7ea3b20:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5bbf77b:
 
-    "想要看得更清楚,你拿起肯恩衬衫和背心的底部,拉起车来。"
+    "想要看得更清楚,你拿起凯恩衬衫和背心的底部,拉起车来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0359d872:
 
-    "肯恩短暂地把他的手从裤子里拉出来 稍微退后一点 帮你把他的衬衫脱下来 他太高了 你无法完全脱下他的衣服。"
+    "凯恩短暂地把他的手从裤子里拉出来 稍微退后一点 帮你把他的衬衫脱下来 他太高了 你无法完全脱下他的衣服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8f915d62:
 
-    "之后,肯恩在那里站了一会儿, 这样你就可以正确地 把它全部。"
+    "之后,凯恩在那里站了一会儿, 这样你就可以正确地 把它全部。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_65ddd38b:
 
@@ -2539,11 +2537,10 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_bee5db33:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_08be44bb:
 
-    c "Lesj' say it's one of the point one o'on my day 你放音乐会节目时我最喜欢的一天。"
-
+    c "可以说，你在酒馆演出时，就是我一天里最开心的时刻之一。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a697d251:
 
-    "说到这里,肯恩伸手向你的顶部, 开始轻轻地把它拉下来, 慢慢地将你的皮毛 伸出一寸一寸地给他看。"
+    "说到这里,凯恩伸手向你的顶部, 开始轻轻地把它拉下来, 慢慢地将你的皮毛 伸出一寸一寸地给他看。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_677be7e7:
 
@@ -2551,7 +2548,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_677be7e7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c2ac928:
 
-    "肯恩说,这看下 下在自己的毛毛胸。"
+    "凯恩说,这看下 下在自己的毛毛胸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a09f3f1:
 
@@ -2567,7 +2564,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_139c6bba:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a6331f9:
 
-    "肯恩开始按摩他们 就像他是你的屁股一样。"
+    "凯恩开始按摩他们 就像他是你的屁股一样。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d7f6c9bc:
 
@@ -2587,7 +2584,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_471b788b:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3d97a09:
 
-    "肯恩一无所有 将头抬到手的地方 轻轻舔你的乳头。"
+    "凯恩一无所有 将头抬到手的地方 轻轻舔你的乳头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb030ebe:
 
@@ -2599,7 +2596,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_ec338727:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d57147ec:
 
-    "肯恩看到你在欢乐地哭泣 听不到你的任何抗议声 握住他的手 将你的手臂钉在十字架上 保持你的位置。"
+    "凯恩看到你在欢乐地哭泣 听不到你的任何抗议声 握住他的手 将你的手臂钉在十字架上 保持你的位置。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f39a7648:
 
@@ -2607,7 +2604,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f39a7648:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aaa36c8e:
 
-    "肯恩马上停下来 看着你 看着他的脸 满脸忧心忡忡的眼神 流着一点鼻涕的僵尸遗牙。"
+    "凯恩马上停下来 看着你 看着他的脸 满脸忧心忡忡的眼神 流着一点鼻涕的僵尸遗牙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_41db7adb:
 
@@ -2623,7 +2620,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_90ca39ba:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c1d71bfa:
 
-    "肯恩的摇摆在极地"
+    "凯恩的摇摆在极地"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8f2bc695:
 
@@ -2639,7 +2636,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_6e701a78:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d61105ba:
 
-    "看着你盯着眼看,肯恩 嘲笑。"
+    "看着你盯着眼看,凯恩 嘲笑。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d7a43b6f:
 
@@ -2651,7 +2648,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_cbeca1a5:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_502ffb21:
 
-    "肯恩只是走到床的另一边躺下时 看上去更满足于自我。"
+    "凯恩只是走到床的另一边躺下时 看上去更满足于自我。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ae8043bc:
 
@@ -2667,7 +2664,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_bebf718a:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cfd131e8:
 
-    "躺在那里,并肩躺着, 你可以真正地欣赏 多么大的肯恩是。"
+    "躺在那里,并肩躺着, 你可以真正地欣赏 多么大的凯恩是。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5fcc21ae:
 
@@ -2687,7 +2684,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_e8a55aad:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1f412efe:
 
-    "肯恩的眼神会被视为 脱光你的眼睛 他的眼睛,如果这不是因为 你完全缺乏衣服。"
+    "凯恩的眼神会被视为 脱光你的眼睛 他的眼睛,如果这不是因为 你完全缺乏衣服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_79abec0a:
 
@@ -2699,7 +2696,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_8ef99567:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5cf8795:
 
-    "肯恩放出喉咙的笑声 床架有点抖动 声音响起。"
+    "凯恩放出喉咙的笑声 床架有点抖动 声音响起。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_305cb639:
 
@@ -2783,7 +2780,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_2d617a3a:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6c48ac64:
 
-    "肯恩耐心等待 当你慢慢地伸手抓他的老二 花时间用他的拇指轻轻地按摩你老二的头部时。"
+    "凯恩耐心等待 当你慢慢地伸手抓他的老二 花时间用他的拇指轻轻地按摩你老二的头部时。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d71a714c:
 
@@ -2839,7 +2836,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_87e00787:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_98ca9d56:
 
-    "反抗从你老二流出的淫秽烟雾中 产生紧张情绪的冲动 你开始抽打肯恩的老二 把手从刚从他老二的脑袋下 一直伸到基地。"
+    "反抗从你老二流出的淫秽烟雾中 产生紧张情绪的冲动 你开始抽打凯恩的老二 把手从刚从他老二的脑袋下 一直伸到基地。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_daec68bf:
 
@@ -2863,7 +2860,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c7d7531:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3eb999e5:
 
-    "肯恩的呻吟是令人欣慰的 听到,尤其是当你听到他 喘不过气的声音后。"
+    "凯恩的呻吟是令人欣慰的 听到,尤其是当你听到他 喘不过气的声音后。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f1d5cefb:
 
@@ -2871,7 +2868,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f1d5cefb:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b406dbcf:
 
-    "你觉得肯恩开始 摇动他的臀部向前, 轻轻地他妈的你的手。"
+    "你觉得凯恩开始 摇动他的臀部向前, 轻轻地他妈的你的手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d734b506:
 
@@ -2891,7 +2888,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_3d37bd68:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fc2da3e4:
 
-    e "操,肯恩..."
+    e "操,凯恩..."
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_435c9b8b:
 
@@ -2911,7 +2908,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_288ef2f7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ea9cf4b3:
 
-    "肯恩对此行动感到惊讶, 需要一点时间回应, 让你有机会把你的舌头 塞进他的嘴里。"
+    "凯恩对此行动感到惊讶, 需要一点时间回应, 让你有机会把你的舌头 塞进他的嘴里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ed24e502:
 
@@ -2919,23 +2916,23 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_ed24e502:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5e4cda6a:
 
-    "肯恩把这个当成挑战 将他的手臂围在你的下背上 把你拉近他 让你觉得自己站在前边的只有粗皮毛 和他身体的自相矛盾的硬性。"
+    "凯恩把这个当成挑战 将他的手臂围在你的下背上 把你拉近他 让你觉得自己站在前边的只有粗皮毛 和他身体的自相矛盾的硬性。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a96f0707:
 
-    "肯恩对着你的舌头 引导着你的嘴 引着他们走出你的嘴 进入你的嘴里。"
+    "凯恩对着你的舌头 引导着你的嘴 引着他们走出你的嘴 进入你的嘴里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0c8a9587:
 
-    "现在肯恩牢牢控制着 现在肯恩开始扭动他的臀部 用他的阴茎抚摸你的柔软毛皮 用他的前程来配制。"
+    "现在凯恩牢牢控制着 现在凯恩开始扭动他的臀部 用他的阴茎抚摸你的柔软毛皮 用他的前程来配制。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7d9bcc52:
 
-    "你用反射方式张开嘴巴呻吟, 但肯恩更深地按住, 锁住你的嘴唇就位, 吃任何你可以尝试的噪音。"
+    "你用反射方式张开嘴巴呻吟, 但凯恩更深地按住, 锁住你的嘴唇就位, 吃任何你可以尝试的噪音。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d0c3d953:
 
-    "肯恩的身体进入完全的发光, 他的臀部抽动越来越强大。"
+    "凯恩的身体进入完全的发光, 他的臀部抽动越来越强大。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_53fd96a5:
 
@@ -2947,7 +2944,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f781fb1c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_91785e95:
 
-    "你眼中的视野由肯恩主宰, 黑紫弥撒, 流口水的白牙 笼罩在你身上。"
+    "你眼中的视野由凯恩主宰, 黑紫弥撒, 流口水的白牙 笼罩在你身上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e0f90bb4:
 
@@ -2967,19 +2964,18 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_af61921f:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c716fdd4:
 
-    "突然之间,肯恩眼中的淫秽表情消失了 代之以恐怖。"
+    "突然之间,凯恩眼中的淫秽表情消失了 代之以恐怖。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_95195d2c:
 
-    c "I-... La-... I don-..."
-
+    c "我……洛……我不……"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_63b3caba:
 
     "他甚至不知道该说什么, 他的大表情 推来推去你, 退后好像烧焦了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9405462f:
 
-    e "肯恩 怎么了 一切都还好吗？"
+    e "凯恩 怎么了 一切都还好吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d943b3c3:
 
@@ -2991,7 +2987,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_7ad78a8d:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cd37f212:
 
-    "肩膀拖拉 肯恩坐在床边 把他的头放在手上。"
+    "肩膀拖拉 凯恩坐在床边 把他的头放在手上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1ca738bd:
 
@@ -3003,7 +2999,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_e6a10748:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd419669:
 
-    "摇头 肯恩转身看着你的眼睛。"
+    "摇头 凯恩转身看着你的眼睛。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_940d54ea:
 
@@ -3019,7 +3015,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_14e0ab7d:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e75d777c:
 
-    "你的话对肯恩也没有预期效果。"
+    "你的话对凯恩也没有预期效果。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2050a73f:
 
@@ -3047,7 +3043,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_4d968467:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2a7aae49:
 
-    "肯恩短暂的看 迷路的言词。"
+    "凯恩短暂的看 迷路的言词。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_14f33b2e:
 
@@ -3087,7 +3083,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f83a23ca:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5216c88c:
 
-    "像肯恩这样的自信和热情的人 永远也不应该被打败。"
+    "像凯恩这样的自信和热情的人 永远也不应该被打败。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5937a34f:
 
@@ -3107,7 +3103,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6f6b9c7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e168622d:
 
-    "肯恩看起来很不舒服。"
+    "凯恩看起来很不舒服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b0b98fd9:
 
@@ -3115,8 +3111,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_b0b98fd9:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_232d83d9:
 
-    c "...Too much, even."
-
+    c "……甚至有点过头了。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eeb5e53b:
 
     c "但是我们不该这么做 如果没有什么能阻止我走得太远的话。"
@@ -3159,7 +3154,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_3a04eccb:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_61a935f1:
 
-    "肯恩闭上眼睛去想它。"
+    "凯恩闭上眼睛去想它。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_271f345a:
 
@@ -3171,7 +3166,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_2362fbc5:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb21f418:
 
-    "肯恩放出一小块毛巾 转过身来看看你。"
+    "凯恩放出一小块毛巾 转过身来看看你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_be1758bd:
 
@@ -3183,7 +3178,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_4c9f5a0c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cf7eb836:
 
-    "当你即将庆祝的时候 肯恩在警告中举起一只手指。"
+    "当你即将庆祝的时候 凯恩在警告中举起一只手指。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_43ee923d:
 
@@ -3235,7 +3230,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_c9465469:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_dc0e3866:
 
-    "你可以看到肯恩的眉毛在思考中, 尽管他的双手在腹部鼓动着温柔的节奏。"
+    "你可以看到凯恩的眉毛在思考中, 尽管他的双手在腹部鼓动着温柔的节奏。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f90d4c5:
 
@@ -3251,7 +3246,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_4fd1cf8a:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_29f2d5ee:
 
-    "肯恩给了你一种怀疑的眼神。"
+    "凯恩给了你一种怀疑的眼神。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1315d942:
 
@@ -3263,7 +3258,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_4b88f0e7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_725956a1:
 
-    "肯恩举起手来 深呼吸。"
+    "凯恩举起手来 深呼吸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f01ffec:
 
@@ -3271,8 +3266,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f01ffec:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2a92b6c0:
 
-    c "I'm tryin' {i}不{/i} ta fuck ye inta next week, stop makin' me want to so bad."
-
+    c "我正努力{i}不{/i}把你干到下周，别再让我这么想了。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_95f5ac36:
 
     "正如他说的,他轻轻地抚摸自己,好像试图从他的破坏你的屁股的冲动中 得到一点缓解。"
@@ -3287,7 +3281,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_5b9b8e89:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c916a8da:
 
-    "肯恩闭上眼睛很长时间了。"
+    "凯恩闭上眼睛很长时间了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_26baa8af:
 
@@ -3331,7 +3325,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_949e93b8:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_54a697d4:
 
-    "肯恩大喊大叫。"
+    "凯恩大喊大叫。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d552883b:
 
@@ -3339,7 +3333,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_d552883b:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fe8f7006:
 
-    "即使让你带头 肯恩也想出办法 提醒你是谁在嘲笑这里的人。"
+    "即使让你带头 凯恩也想出办法 提醒你是谁在嘲笑这里的人。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_435f6342:
 
@@ -3351,7 +3345,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_050ed4e6:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a4e30cc4:
 
-    "肯恩把腿打开 让你有空间向前移动。"
+    "凯恩把腿打开 让你有空间向前移动。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_41bb73b7:
 
@@ -3391,7 +3385,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_2d94ba30:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e0ee6ee6:
 
-    "肯恩似乎同样感兴趣 在你的前后 已经发生了, 你看到他的公鸡泄漏 只是一点点 预先精度 与每一行。"
+    "凯恩似乎同样感兴趣 在你的前后 已经发生了, 你看到他的公鸡泄漏 只是一点点 预先精度 与每一行。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_261ba73f:
 
@@ -3439,8 +3433,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_0ef53096:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_36f21f14:
 
-    c "More than fine by me."
-
+    c "我完全没意见。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0bf86d76:
 
     "该死的,为什么他的自信一定要这么火辣?"
@@ -3515,8 +3508,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_bc719685:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_781a6503:
 
-    c "Fine, ya want ta suck my cock that bad, ye can suck my cock the way {i}我{/i} like it."
-
+    c "行啊，既然你这么想吸我的鸡巴，那就按{i}我{/i}喜欢的方式来。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_efe7ea42:
 
     "所以说,你的脸被压在肚子上。"
@@ -3527,7 +3519,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_b2c573d7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a7dcb416:
 
-    "在你完全处理任何这一切之前 肯恩再次把你拉离他的老二一半 推向前方 保证你被困在那里。"
+    "在你完全处理任何这一切之前 凯恩再次把你拉离他的老二一半 推向前方 保证你被困在那里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_588f6771:
 
@@ -3555,7 +3547,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_30155f9c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ea12607d:
 
-    "肯恩抓住这个机会 跪在你的胸口上 鸡巴趴在你的脸上。"
+    "凯恩抓住这个机会 跪在你的胸口上 鸡巴趴在你的脸上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5989b484:
 
@@ -3571,7 +3563,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6c49ba0:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_05bf2c8d:
 
-    "肯恩向前倾斜 进入一个非常像你之前的位置 将他的双手挥舞成拳头 支持你的头部 远远高于你两边。"
+    "凯恩向前倾斜 进入一个非常像你之前的位置 将他的双手挥舞成拳头 支持你的头部 远远高于你两边。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eea9dca1:
 
@@ -3591,7 +3583,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_e71cba73:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_444a91ba:
 
-    "他把他的鸡巴从你的嘴里拉出来 这样只有小费才能留在里面 然后再回击 每一次重复都被他的蛋蛋扇到你的下巴上 和肯恩的类似口供划破。"
+    "他把他的鸡巴从你的嘴里拉出来 这样只有小费才能留在里面 然后再回击 每一次重复都被他的蛋蛋扇到你的下巴上 和凯恩的类似口供划破。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_44ee0668:
 
@@ -3619,7 +3611,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f8c763f3:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d51ea16a:
 
-    "肯恩不拿出鸡鸡 直到他确定 他的高潮 已经很好和真正完成。"
+    "凯恩不拿出鸡鸡 直到他确定 他的高潮 已经很好和真正完成。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_18984e25:
 
@@ -3683,7 +3675,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_13682c3c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_42e767eb:
 
-    "肯恩深深地皱眉 把手从他脸上拿开。"
+    "凯恩深深地皱眉 把手从他脸上拿开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_28d9dd53:
 
@@ -3695,7 +3687,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_568c2598:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1e17385a:
 
-    c "答应拉希姆,现在看着我。"
+    c "答应雷希姆,现在看着我。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7fb49a9d:
 
@@ -3723,7 +3715,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_042e5eb9:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d50bb774:
 
-    "肯恩触动了沮丧的一手。"
+    "凯恩触动了沮丧的一手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_18092595:
 
@@ -3739,7 +3731,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_94004a03:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bbea200f:
 
-    "你明显地退缩了,你很肯定肯恩从他对地上 看上去很内疚的眼神里看到了。"
+    "你明显地退缩了,你很肯定凯恩从他对地上 看上去很内疚的眼神里看到了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aa0c7cb0:
 
@@ -3759,7 +3751,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_69985bbe:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2441b788:
 
-    "你离开房间之前肯恩可以 抓住你哭, 但是... 你敢肯定他知道。"
+    "你离开房间之前凯恩可以 抓住你哭, 但是... 你敢肯定他知道。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bdf6a4e5:
 
@@ -3771,7 +3763,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_8e64bf74:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1ac64b01:
 
-    "开着酒吧的门取回它 你看到一个喝得烂醉的肯恩人 带着除你之外所有的人都觉得真实的欢呼声在酒吧周围转悠。"
+    "开着酒吧的门取回它 你看到一个喝得烂醉的凯恩人 带着除你之外所有的人都觉得真实的欢呼声在酒吧周围转悠。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd58194e:
 
@@ -3795,7 +3787,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_5ddb996a:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0786d45f:
 
-    e "所以,肯恩..."
+    e "所以,凯恩..."
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_acff6b2d:
 
@@ -3815,7 +3807,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_9fa21aab:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a6d50ca9:
 
-    "肯恩给你一个笑柄 你给他的鸡鸡拖拉,很快地毁掉了这笑柄。"
+    "凯恩给你一个笑柄 你给他的鸡鸡拖拉,很快地毁掉了这笑柄。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_dbab46fb:
 
@@ -3839,7 +3831,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_0a0a12d2:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1127a890:
 
-    "你听到你头上的一股满足的气息, 肯恩真的变得舒服了, 将另一只手放在他的肚子上。"
+    "你听到你头上的一股满足的气息, 凯恩真的变得舒服了, 将另一只手放在他的肚子上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8abc80d6:
 
@@ -3875,7 +3867,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_7f281278:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e9f985ad:
 
-    "肯恩惊讶地看着你, 之前,进一步打动你的毛毛 与他的粗糙,冷酷的手。"
+    "凯恩惊讶地看着你, 之前,进一步打动你的毛毛 与他的粗糙,冷酷的手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_52779b5f:
 
@@ -3919,7 +3911,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_d586368e:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f9c2ab76:
 
-    "在你的短暂交换期间,肯恩的老二 已经从他老二的前行中 挖出了一条新的线索,这次是到他的蛋蛋。"
+    "在你的短暂交换期间,凯恩的老二 已经从他老二的前行中 挖出了一条新的线索,这次是到他的蛋蛋。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_636186ae:
 
@@ -3927,11 +3919,11 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_636186ae:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b539a17c:
 
-    "以你的新权力 你马上回到肯恩的老二。"
+    "以你的新权力 你马上回到凯恩的老二。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1eba2d7d:
 
-    "最好的开始就是把肯恩的包皮再拉回来 将前锋放在他的头上 集中到一个小地方。"
+    "最好的开始就是把凯恩的包皮再拉回来 将前锋放在他的头上 集中到一个小地方。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_77d59639:
 
@@ -3947,11 +3939,11 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_ef2b40bc:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eab19adc:
 
-    "肯恩一直在你上面摇摇欲坠 低声赞美\"你是一个多么好的孩子\" 和\"你做得如何好\""
+    "凯恩一直在你上面摇摇欲坠 低声赞美\"你是一个多么好的孩子\" 和\"你做得如何好\""
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b6691e2a:
 
-    "这是对你们俩的缓慢而甜蜜的几分钟探索, 肯恩用他的手充分探探你的头, 用他的老二来探探你的嘴,你的嘴,你的舌,你用你的手和嘴来探探他的老二。"
+    "这是对你们俩的缓慢而甜蜜的几分钟探索, 凯恩用他的手充分探探你的头, 用他的老二来探探你的嘴,你的嘴,你的舌,你用你的手和嘴来探探他的老二。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9717d972:
 
@@ -3971,7 +3963,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_6b211578:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_efb2d694:
 
-    "最终你会碰到肯恩的蛋蛋。"
+    "最终你会碰到凯恩的蛋蛋。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_267767ea:
 
@@ -3987,7 +3979,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_0d2ef226:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_40c62233:
 
-    "你甚至不用抬头看肯恩就知道 他脸上有恶臭的笑容。"
+    "你甚至不用抬头看凯恩就知道 他脸上有恶臭的笑容。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_25e4d0ff:
 
@@ -3995,7 +3987,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_25e4d0ff:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_caaf960e:
 
-    "肯恩的蛋蛋 短暂拉起 再一次, 鸡巴在你的手抽动。"
+    "凯恩的蛋蛋 短暂拉起 再一次, 鸡巴在你的手抽动。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8b6c73e7_1:
 
@@ -4015,7 +4007,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_ddf1ae0f:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7335179d:
 
-    "另一方面,肯恩不再说话了, 完全过渡到呻吟,咕噜声和咆哮。"
+    "另一方面,凯恩不再说话了, 完全过渡到呻吟,咕噜声和咆哮。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6895b1d0:
 
@@ -4043,7 +4035,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_158d2df6:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_adadf6a1:
 
-    "肯恩慢慢地开始引导你。"
+    "凯恩慢慢地开始引导你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_83ea34a9:
 
@@ -4107,7 +4099,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_419221ba:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_04121730:
 
-    "有了更好的景色,你可以看到肯恩的胃部紧张 和放松与欲望的脉冲。"
+    "有了更好的景色,你可以看到凯恩的胃部紧张 和放松与欲望的脉冲。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ecb410a2:
 
@@ -4119,11 +4111,11 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a778d404:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c4a7f8ae:
 
-    "你乐于接受 嘴唇分开 就在第一次抽出精液的那一刻 肯恩的老二。"
+    "你乐于接受 嘴唇分开 就在第一次抽出精液的那一刻 凯恩的老二。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d96c124d:
 
-    "肯恩的身体在摇动和抽搐 如此之大 以至于你无法真正抓住你嘴里的一切 在他的口罩上喷洒他的精华喷雾。"
+    "凯恩的身体在摇动和抽搐 如此之大 以至于你无法真正抓住你嘴里的一切 在他的口罩上喷洒他的精华喷雾。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fefaf34f:
 
@@ -4139,7 +4131,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_ce0d711c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1e09d68:
 
-    "肯恩还没完成高潮,他的精液品味普遍 以及你直到现在才放弃的否认 让你迅速越过你的门槛。"
+    "凯恩还没完成高潮,他的精液品味普遍 以及你直到现在才放弃的否认 让你迅速越过你的门槛。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f9141e2:
 
@@ -4155,7 +4147,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_99463b86:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a60177a:
 
-    "向上看,你看到一个非常满意的肯恩 微笑在你身上。"
+    "向上看,你看到一个非常满意的凯恩 微笑在你身上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_44f3cbd4:
 
@@ -4175,7 +4167,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_633b7f20:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3335cf99:
 
-    e "肯恩。"
+    e "凯恩。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_16a23830:
 
@@ -4199,7 +4191,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a48b5017:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_99ac5576:
 
-    "肯恩的眼睛大得令人吃惊。你看到有一股坚定的欲望, 当他开始向前倾望,再次吻吻的时候。"
+    "凯恩的眼睛大得令人吃惊。你看到有一股坚定的欲望, 当他开始向前倾望,再次吻吻的时候。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ee88fd42:
 
@@ -4211,7 +4203,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1505b77:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7e6527e1:
 
-    "你忍不住觉得有点... 失望,一种感觉,你很快地从你感觉到 肯恩的手指梳子 穿过你的鼻子顶部时 突然发作起来。"
+    "你忍不住觉得有点... 失望,一种感觉,你很快地从你感觉到 凯恩的手指梳子 穿过你的鼻子顶部时 突然发作起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0d140dcb:
 
@@ -4239,7 +4231,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a0ac2ea0:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eabc0151:
 
-    "肯恩不会错过你声音中 轻微的讽刺, 呼唤他在他的讽刺, 他的肚子在你上面摇晃, 震动在你的耳边摇晃。"
+    "凯恩不会错过你声音中 轻微的讽刺, 呼唤他在他的讽刺, 他的肚子在你上面摇晃, 震动在你的耳边摇晃。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1a257dad:
 
@@ -4263,7 +4255,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_e187e276:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_92d73adc:
 
-    "你感到紧张的强烈 穿过肯恩以前完全放松的身体。"
+    "你感到紧张的强烈 穿过凯恩以前完全放松的身体。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f3d69074:
 
@@ -4275,7 +4267,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_039f2957:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3de5e201:
 
-    "肯恩开始用他的拇指 摩擦你的后脑勺 思考。"
+    "凯恩开始用他的拇指 摩擦你的后脑勺 思考。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9df602f0:
 
@@ -4303,7 +4295,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_2cfce06c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ac059e67:
 
-    "肯恩的手短暂暂停, 恢复之前,好像什么都没有发生。"
+    "凯恩的手短暂暂停, 恢复之前,好像什么都没有发生。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fa8e7202:
 
@@ -4319,7 +4311,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_7029b1d9:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_13d1b665:
 
-    "不想从你舒适的地方移开 窝在肯恩的毛的深处 你轻轻地说出一个令人困惑的反应。"
+    "不想从你舒适的地方移开 窝在凯恩的毛的深处 你轻轻地说出一个令人困惑的反应。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4564e225:
 
@@ -4339,7 +4331,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_40494427:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7310033d:
 
-    "肯恩笑,因为你甚至不 起身到诱饵, 并承认它。"
+    "凯恩笑,因为你甚至不 起身到诱饵, 并承认它。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c753de61:
 
@@ -4375,7 +4367,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_f79823db:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_753ce6e3:
 
-    "掉进温柔温暖的床上,就是肯恩 你睡在他房间里,安全地被包在他的怀里。"
+    "掉进温柔温暖的床上,就是凯恩 你睡在他房间里,安全地被包在他的怀里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_3:
 
@@ -4403,7 +4395,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_46ffbee2:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fe02635c:
 
-    "肯恩用模拟怀疑主义引起眉毛。"
+    "凯恩用模拟怀疑主义引起眉毛。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6bb8cb5e:
 
@@ -4431,7 +4423,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_5bd524c8:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2ce9554b:
 
-    "肯恩打哈欠作为回应。"
+    "凯恩打哈欠作为回应。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0393f68e:
 
@@ -4439,7 +4431,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_0393f68e:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ab2c84cc:
 
-    "在摇头之前 肯恩给你打了一眨眼。"
+    "在摇头之前 凯恩给你打了一眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a0a8b712:
 
@@ -4455,7 +4447,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_8200d866:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d2999b4e:
 
-    "肯恩,让我们拿出一个心肝的笑柄。"
+    "凯恩,让我们拿出一个心肝的笑柄。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_71337dea:
 
@@ -4467,7 +4459,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_2ab28295:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_653c0ce1:
 
-    "看见你静静地停下来 肯恩从床上出来 拍拍你的肩膀。"
+    "看见你静静地停下来 凯恩从床上出来 拍拍你的肩膀。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4ceda19b:
 
@@ -4491,7 +4483,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_83956d0b:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1121023:
 
-    "肯恩走到他的裤子旁边 口袋里有鱼 拿出钥匙。"
+    "凯恩走到他的裤子旁边 口袋里有鱼 拿出钥匙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c5952719:
 
@@ -4559,7 +4551,7 @@ translate schinese_rewrite Cane_Ask_Goat_Tribe_77bc5f11:
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_d6e80973:
 
-    e "非常感谢你提供的信息,肯恩。"
+    e "非常感谢你提供的信息,凯恩。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_bba3d5dd:
 
@@ -4579,7 +4571,7 @@ translate schinese_rewrite Cane_Event_Patron_Show_516ca083:
 
 translate schinese_rewrite Cane_Event_Patron_Show_95bcf042:
 
-    e "这是什么,肯恩?"
+    e "这是什么,凯恩?"
 
 translate schinese_rewrite Cane_Event_Patron_Show_e90c070a:
 
@@ -4639,7 +4631,7 @@ translate schinese_rewrite Cane_Event_Patron_Show_a2ea2729:
 
 translate schinese_rewrite Cane_Event_Patron_Show_4dec8e3a:
 
-    "肯恩让你有怀疑的眼神 只会在他意识到你是真的时 冷笑地笑。"
+    "凯恩让你有怀疑的眼神 只会在他意识到你是真的时 冷笑地笑。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_3206b9ff:
 
@@ -4659,8 +4651,7 @@ translate schinese_rewrite Cane_Event_Patron_Show_c93dad57:
 
 translate schinese_rewrite Cane_Event_Patron_Show_12bbaf7f:
 
-    e "I- Uh... I'll think about it..."
-
+    e "我——呃……我会想想的……"
 translate schinese_rewrite Cane_Event_Patron_Show_0072c632:
 
     c "想想吧 小伙子 我不会心怀怨恨 这是你的选择 我也不会逼你。"
@@ -4679,7 +4670,7 @@ translate schinese_rewrite Cane_Event_Patron_Show_74b6cd0d:
 
 translate schinese_rewrite Cane_Event_Patron_Show_ed31745b:
 
-    "突然,肯恩从柜台后面走出来 站在你身后 看着你的眼睛。"
+    "突然,凯恩从柜台后面走出来 站在你身后 看着你的眼睛。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_b080ab2b:
 
@@ -4691,7 +4682,7 @@ translate schinese_rewrite Cane_Event_Patron_Show_8231776a:
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_02bce3f8:
 
-    e "肯恩 我想我会接受私人演出。"
+    e "凯恩 我想我会接受私人演出。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_00a4418a:
 
@@ -4699,7 +4690,7 @@ translate schinese_rewrite Cane_Private_Show_Quest_Accept_00a4418a:
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_dcabf27e:
 
-    "肯恩无动于衷地打你的屁股 让你大惊小怪。"
+    "凯恩无动于衷地打你的屁股 让你大惊小怪。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_120e7b68:
 
@@ -4715,7 +4706,7 @@ translate schinese_rewrite Cane_Private_Show_Quest_Accept_b35433e6:
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_c4665027:
 
-    "肯恩笑。"
+    "凯恩笑。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_6ac00643:
 
@@ -4747,7 +4738,7 @@ translate schinese_rewrite Cane_Private_Show_Quest_Accept_2245d267:
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_ccd6eb5a:
 
-    "肯恩给你一份清单 这是枕头的食谱。"
+    "凯恩给你一份清单 这是枕头的食谱。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_7633e33a:
 
@@ -4763,7 +4754,7 @@ translate schinese_rewrite Cane_Private_Show_Quest_Accept_61b6436f:
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_a1e89c3b:
 
-    e "肯恩!我有...枕头。"
+    e "凯恩!我有...枕头。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_7f16c15a:
 
@@ -4799,7 +4790,7 @@ translate schinese_rewrite Cane_Private_Show_68789800:
 
 translate schinese_rewrite Cane_Private_Show_1c878877:
 
-    "肯恩让你一眨眼,一巴掌打你的屁股。"
+    "凯恩让你一眨眼,一巴掌打你的屁股。"
 
 translate schinese_rewrite Cane_Private_Show_3b1a7504:
 
@@ -4811,7 +4802,7 @@ translate schinese_rewrite Cane_Private_Show_0a33bf2f:
 
 translate schinese_rewrite Cane_Private_Show_6c039a14:
 
-    "但你不能让肯恩 趁着这些大闹不拿回回报 就让肯恩跑了。"
+    "但你不能让凯恩 趁着这些大闹不拿回回报 就让凯恩跑了。"
 
 translate schinese_rewrite Cane_Private_Show_f8bda3c4:
 
@@ -4831,7 +4822,7 @@ translate schinese_rewrite Cane_Private_Show_18c66091:
 
 translate schinese_rewrite Cane_Private_Show_806fee95:
 
-    "肯恩在低声点之前 笑得心痛。"
+    "凯恩在低声点之前 笑得心痛。"
 
 translate schinese_rewrite Cane_Private_Show_643867fa:
 
@@ -4839,7 +4830,7 @@ translate schinese_rewrite Cane_Private_Show_643867fa:
 
 translate schinese_rewrite Cane_Private_Show_579cd8c3:
 
-    "从你那时的惊慌失措的眼神下 发现肯恩裤子上 有个特别的溢出和湿点。"
+    "从你那时的惊慌失措的眼神下 发现凯恩裤子上 有个特别的溢出和湿点。"
 
 translate schinese_rewrite Cane_Private_Show_3cd8d1f1:
 
@@ -4899,11 +4890,11 @@ translate schinese_rewrite Cane_Private_Show_f65290eb:
 
 translate schinese_rewrite Cane_Private_Show_3f6aac37:
 
-    c "尤斯叫我肯恩,小子,至少你应得的。"
+    c "尤斯叫我凯恩,小子,至少你应得的。"
 
 translate schinese_rewrite Cane_Private_Show_e05d7a03:
 
-    "肯恩在离开后门时 头部被打碎了。"
+    "凯恩在离开后门时 头部被打碎了。"
 
 translate schinese_rewrite Cane_Private_Show_1fe01610:
 
@@ -4915,7 +4906,7 @@ translate schinese_rewrite Cane_Private_Show_8bdd27fa:
 
 translate schinese_rewrite Cane_Private_Show_c6cf328d:
 
-    "肯恩大笑。"
+    "凯恩大笑。"
 
 translate schinese_rewrite Cane_Private_Show_81412631:
 
@@ -4935,7 +4926,7 @@ translate schinese_rewrite Cane_Private_Show_b6c34351:
 
 translate schinese_rewrite Cane_Private_Show_41431b1b:
 
-    "肯恩的眼神从他的眼睛向下闪烁到他裤子里铺着的帐篷上,他的阴茎的厚长长明显可见。 他靠在耳边低语,温暖的呼吸让你的耳朵发痒。"
+    "凯恩的眼神从他的眼睛向下闪烁到他裤子里铺着的帐篷上,他的阴茎的厚长长明显可见。 他靠在耳边低语,温暖的呼吸让你的耳朵发痒。"
 
 translate schinese_rewrite Cane_Private_Show_b334ef30:
 
@@ -4955,7 +4946,7 @@ translate schinese_rewrite Cane_Private_Show_f94ef217:
 
 translate schinese_rewrite Cane_Private_Show_ee71b727:
 
-    "肯恩给你打屁股 让你笑得像魔鬼一样。"
+    "凯恩给你打屁股 让你笑得像魔鬼一样。"
 
 translate schinese_rewrite Cane_Private_Show_3f06c7ad:
 
@@ -4963,7 +4954,7 @@ translate schinese_rewrite Cane_Private_Show_3f06c7ad:
 
 translate schinese_rewrite Cane_Ask_Lusterfield_325e8898:
 
-    e "嘿,肯恩,你对村子了解多少?"
+    e "嘿,凯恩,你对村子了解多少?"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_e98648d4:
 
@@ -4983,7 +4974,7 @@ translate schinese_rewrite Cane_Ask_Lusterfield_f34c2489:
 
 translate schinese_rewrite Cane_Ask_Lusterfield_0d745029:
 
-    e "明白了,拉希姆怎么办?"
+    e "明白了,雷希姆怎么办?"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_ea0dfdc0:
 
@@ -5087,7 +5078,7 @@ translate schinese_rewrite Cane_Ask_Lusterfield_907a1932:
 
 translate schinese_rewrite Cane_Ask_Tavern_83fd7086:
 
-    e "嘿,肯恩,你能告诉我酒馆的历史吗?"
+    e "嘿,凯恩,你能告诉我酒馆的历史吗?"
 
 translate schinese_rewrite Cane_Ask_Tavern_228791d4:
 
@@ -5127,7 +5118,7 @@ translate schinese_rewrite Cane_Ask_Tavern_7b457a2f:
 
 translate schinese_rewrite Cane_Ask_Himself_fd1c6e9a:
 
-    e "肯恩,你好吗?"
+    e "凯恩,你好吗?"
 
 translate schinese_rewrite Cane_Ask_Himself_06444a59:
 
@@ -5151,7 +5142,7 @@ translate schinese_rewrite Cane_Ask_Himself_8250175a:
 
 translate schinese_rewrite Cane_Dialogue_End_5c4dfe36:
 
-    e "就这样。谢谢你,肯恩。"
+    e "就这样。谢谢你,凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_End_9b06c336:
 
@@ -5171,7 +5162,7 @@ translate schinese_rewrite Cane_First_54d14e14:
 
 translate schinese_rewrite Cane_First_8a74c83b:
 
-    my "那个臭小子洛萨告诉我 外面有个山羊不尊重他[e]。"
+    my "那个臭小子洛萨尔告诉我 外面有个山羊不尊重他[e]。"
 
 translate schinese_rewrite Cane_First_60610ff3:
 
@@ -5179,7 +5170,7 @@ translate schinese_rewrite Cane_First_60610ff3:
 
 translate schinese_rewrite Cane_First_f81c78e6:
 
-    my "洛萨告诉我 昨天有个山羊人来到卢斯特菲尔德 一定是你叫[e]。"
+    my "洛萨尔告诉我 昨天有个山羊人来到乐斯民菲尔德 一定是你叫[e]。"
 
 translate schinese_rewrite Cane_First_60610ff3_1:
 
@@ -5243,7 +5234,7 @@ translate schinese_rewrite Cane_First_7a4142b1:
 
 translate schinese_rewrite Cane_First_93cd8604:
 
-    c "听着 我叫肯恩 不是科恩 哪个蠢名字这么蠢。"
+    c "听着 我叫凯恩 不是科恩 哪个蠢名字这么蠢。"
 
 translate schinese_rewrite Cane_First_ef9f0a5f:
 
@@ -5255,7 +5246,7 @@ translate schinese_rewrite Cane_First_9bc4f675:
 
 translate schinese_rewrite Cane_First_af5d1ebc:
 
-    e "停止回避我的问题,坎恩。"
+    e "停止回避我的问题,凯恩。"
 
 translate schinese_rewrite Cane_First_fd7e9955:
 
@@ -5343,7 +5334,7 @@ translate schinese_rewrite Cane_Apron_Quest_f0e3787a:
 
 translate schinese_rewrite Cane_Apron_Quest_430e8140:
 
-    "你跟着肯恩进衣橱室 他拿起你以前在灰尘地板上工作的围裙。"
+    "你跟着凯恩进衣橱室 他拿起你以前在灰尘地板上工作的围裙。"
 
 translate schinese_rewrite Cane_Apron_Quest_eea4911b:
 
@@ -5383,7 +5374,7 @@ translate schinese_rewrite Cane_Apron_Quest_5217820e:
 
 translate schinese_rewrite Cane_Apron_Quest_50f49204:
 
-    e "嘿,肯恩,我想了个办法来修围裙 拉希姆,我肯定他知道怎么轻易修洞。"
+    e "嘿,凯恩,我想了个办法来修围裙 雷希姆,我肯定他知道怎么轻易修洞。"
 
 translate schinese_rewrite Cane_Apron_Quest_d0088566:
 
@@ -5459,7 +5450,7 @@ translate schinese_rewrite Cane_Apron_Quest_d5fbfc21:
 
 translate schinese_rewrite Cane_Apron_Quest_a5660b9a:
 
-    e "肯恩,你在说什么?"
+    e "凯恩,你在说什么?"
 
 translate schinese_rewrite Cane_Apron_Quest_16098242:
 
@@ -5527,7 +5518,7 @@ translate schinese_rewrite Cane_Apron_Quest_3be6d530:
 
 translate schinese_rewrite Cane_Apron_Quest_67959dd9:
 
-    e "我相信他会回来找你的 肯恩。"
+    e "我相信他会回来找你的 凯恩。"
 
 translate schinese_rewrite Cane_Apron_Quest_48f5d9cf:
 
@@ -5543,7 +5534,7 @@ translate schinese_rewrite Cane_Apron_Quest_14d59a4d:
 
 translate schinese_rewrite Cane_Apron_Quest_3d20cc48:
 
-    e "肯恩... 你得让他走 我不认为他会回来。"
+    e "凯恩... 你得让他走 我不认为他会回来。"
 
 translate schinese_rewrite Cane_Apron_Quest_34ae8156:
 
@@ -5599,7 +5590,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_bd4183f5:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_a5a79653:
 
-    "害怕肯恩扣下你的工资 你很快就要回去工作了。"
+    "害怕凯恩扣下你的工资 你很快就要回去工作了。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b6add6b9:
 
@@ -5639,7 +5630,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_f0e6e5a6:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_94dde996:
 
-    "肯恩听起来很愤怒 你没见过他这样高声说话。"
+    "凯恩听起来很愤怒 你没见过他这样高声说话。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_1326d423:
 
@@ -5655,7 +5646,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_ed102f3f:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_68878885:
 
-    c "在我还在的时候 没人会利用另一个卢斯特菲尔德公民。"
+    c "在我还在的时候 没人会利用另一个乐斯民菲尔德公民。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8ee3edc9:
 
@@ -5671,11 +5662,11 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_b0afc2d8:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_751919cc:
 
-    "现在他们走了,肯恩的面部大部分都恢复正常了 虽然你仍然看到他的愤怒 从他脸上的紧张 僵硬,尽管他笑容。"
+    "现在他们走了,凯恩的面部大部分都恢复正常了 虽然你仍然看到他的愤怒 从他脸上的紧张 僵硬,尽管他笑容。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_6c91324b:
 
-    "坎恩,让你挥舞。"
+    "凯恩,让你挥舞。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_cb9359bf:
 
@@ -5699,7 +5690,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_ddb98fb8:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_613cb8ca:
 
-    "肯恩的肢体语言恢复正常,。"
+    "凯恩的肢体语言恢复正常,。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_94c7a4d3:
 
@@ -5727,7 +5718,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_67099b53:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_22e25a0e:
 
-    "大部分的请柬你都能调走 但肯恩没有那么幸运。"
+    "大部分的请柬你都能调走 但凯恩没有那么幸运。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_1ef36495:
 
@@ -5739,7 +5730,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_4f0165ba:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8a04646e:
 
-    "你感谢他 但你不确定肯恩是否理解你。"
+    "你感谢他 但你不确定凯恩是否理解你。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_d0d0dd4c:
 
@@ -5763,11 +5754,11 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_df210ab6:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_306a36bc:
 
-    "幸好卢斯特菲尔德没有犯什么罪。"
+    "幸好乐斯民菲尔德没有犯什么罪。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b6bfa508:
 
-    "肯恩不是在柜台后面的他通常的岗位上 那样是意料之中的 已经过了酒馆的工作时间了。"
+    "凯恩不是在柜台后面的他通常的岗位上 那样是意料之中的 已经过了酒馆的工作时间了。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_0230dfac:
 
@@ -5783,7 +5774,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_33f0b779:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8c884012:
 
-    "耳朵放亮了 相信听到有人在呻吟 但不管是塞布还是肯恩 你都不确定。"
+    "耳朵放亮了 相信听到有人在呻吟 但不管是塞布还是凯恩 你都不确定。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b2ada32a:
 
@@ -5807,7 +5798,7 @@ translate schinese_rewrite Cane_Sebas_Tavern_Night_f030fa62:
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_d3065f63:
 
-    "肯恩可能看起来不像是那个角色 但他似乎已经对你承担了某种责任。"
+    "凯恩可能看起来不像是那个角色 但他似乎已经对你承担了某种责任。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_2ae663ad:
 
@@ -5839,7 +5830,7 @@ translate schinese_rewrite Cane_After_Sebas_Tavern_Night_e395615e:
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_e464566d:
 
-    "坎恩缩小了对你的眼睛。"
+    "凯恩缩小了对你的眼睛。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_51b41dd3:
 
@@ -5859,7 +5850,7 @@ translate schinese_rewrite Cane_After_Sebas_Tavern_Night_0b56eb79:
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_a9155d81:
 
-    "你很幸运没有问肯恩更多的问题就逃了出来。"
+    "你很幸运没有问凯恩更多的问题就逃了出来。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_bd70e5a8:
 
@@ -5867,7 +5858,7 @@ translate schinese_rewrite Cane_After_Sebas_Tavern_Night_bd70e5a8:
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_fb3f8a81:
 
-    "你转过身去 看到肯恩对你满脸污秽的笑容。"
+    "你转过身去 看到凯恩对你满脸污秽的笑容。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_7b303ddf:
 
@@ -5879,7 +5870,7 @@ translate schinese_rewrite Cane_After_Sebas_Tavern_Night_e07c34a1:
 
 translate schinese_rewrite Cane_Apron_Quest_End_43e8b76a:
 
-    e "肯恩,我把你的围裙拿回来了,没有..."
+    e "凯恩,我把你的围裙拿回来了,没有..."
 
 translate schinese_rewrite Cane_Apron_Quest_End_679e952f:
 
@@ -5919,7 +5910,7 @@ translate schinese_rewrite Cane_Apron_Quest_End_3b641db6:
 
 translate schinese_rewrite Cane_Apron_Quest_End_f425d7a0:
 
-    e "非常感谢你的围裙,肯恩 我一定希望满足你对..."
+    e "非常感谢你的围裙,凯恩 我一定希望满足你对..."
 
 translate schinese_rewrite Cane_Apron_Quest_End_7383137d:
 
@@ -5947,7 +5938,7 @@ translate schinese_rewrite Cane_Apron_Quest_End_7f254f7d:
 
 translate schinese_rewrite Cane_Apron_Quest_End_eb6a0d62:
 
-    "肯恩指向二楼的客房,似乎比另一间房要快得多,门上曾经挂着的标志。"
+    "凯恩指向二楼的客房,似乎比另一间房要快得多,门上曾经挂着的标志。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_7ae0ce56:
 
@@ -6003,7 +5994,7 @@ translate schinese_rewrite Cane_Apron_Quest_End_821fa4f9:
 
 translate schinese_rewrite Cane_Apron_Quest_End_3df6dec1:
 
-    e "所以你没告诉拉希姆这些事?"
+    e "所以你没告诉雷希姆这些事?"
 
 translate schinese_rewrite Cane_Apron_Quest_End_2715cdc3:
 
@@ -6031,7 +6022,7 @@ translate schinese_rewrite Cane_Apron_Quest_End_8b6c73e7:
 
 translate schinese_rewrite Cane_Apron_Quest_End_f37d0883:
 
-    "你听到你屁股上大打一拳 肯恩的手会想方设法 发出最响亮的声音。"
+    "你听到你屁股上大打一拳 凯恩的手会想方设法 发出最响亮的声音。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_edfad75a:
 
@@ -6043,7 +6034,7 @@ translate schinese_rewrite Cane_Apron_Quest_End_2179d396:
 
 translate schinese_rewrite Cane_Apron_Quest_End_2989e603:
 
-    e "嘿,肯恩,我以为你很伤心。"
+    e "嘿,凯恩,我以为你很伤心。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_a9fdd68b:
 
@@ -6071,11 +6062,11 @@ translate schinese_rewrite Cane_SoWrong_21a8a3ed:
 
 translate schinese_rewrite Cane_SoWrong_f6ec6469:
 
-    c "狼一直以来都说得没错,我以为那是他开的玩笑 我叫肯恩,你从屁眼里取的不是什么蠢名字。"
+    c "狼一直以来都说得没错,我以为那是他开的玩笑 我叫凯恩,你从屁眼里取的不是什么蠢名字。"
 
 translate schinese_rewrite Cane_SoWrong_1dc2025e:
 
-    e "等等 肯恩 我怎么会忘了。"
+    e "等等 凯恩 我怎么会忘了。"
 
 translate schinese_rewrite Cane_SoWrong_8e975ac2:
 
@@ -6099,7 +6090,7 @@ translate schinese_rewrite Cane_Wrong_3c8e0a5f:
 
 translate schinese_rewrite Cane_Wrong_19475493:
 
-    "肯恩在酒馆的桌子上走来走去 桌子,然后他轻轻地拍拍 一名顾客的肩膀,而他们说话。"
+    "凯恩在酒馆的桌子上走来走去 桌子,然后他轻轻地拍拍 一名顾客的肩膀,而他们说话。"
 
 translate schinese_rewrite Cane_Wrong_db5ef229:
 
@@ -6115,7 +6106,7 @@ translate schinese_rewrite Cane_Wrong_9605da18:
 
 translate schinese_rewrite Cane_Wrong_0f7dc502:
 
-    patron "你是肯恩吧 怎么会有人不知道你的名字呢？"
+    patron "你是凯恩吧 怎么会有人不知道你的名字呢？"
 
 translate schinese_rewrite Cane_Wrong_cd0283b1:
 
@@ -6139,7 +6130,7 @@ translate schinese_rewrite Cane_Wrong_18999e03:
 
 translate schinese_rewrite Cane_Wrong_90353783:
 
-    "肯恩脸上有邪恶的笑容,他转过身来,对你没有正确取出他的名字,他似乎感到很满意。"
+    "凯恩脸上有邪恶的笑容,他转过身来,对你没有正确取出他的名字,他似乎感到很满意。"
 
 translate schinese_rewrite Cane_Wrong_eed51e05:
 
@@ -6155,7 +6146,7 @@ translate schinese_rewrite Cane_Wrong_072d3a3d:
 
 translate schinese_rewrite Cane_Correct_ef785441:
 
-    c "哈,该死,这很公平,是CC的肯恩。"
+    c "哈,该死,这很公平,是CC的凯恩。"
 
 translate schinese_rewrite Cane_Correct_fb58faa6:
 
@@ -6175,7 +6166,7 @@ translate schinese_rewrite Cane_Correct_4d612fba:
 
 translate schinese_rewrite Cane_Correct_12912c50:
 
-    e "谢谢,肯恩。 (你收到50金)"
+    e "谢谢,凯恩。 (你收到50金)"
 
 translate schinese_rewrite Cane_Correct_03c21858:
 
@@ -6231,7 +6222,7 @@ translate schinese_rewrite Cane_GotTheMoney_f766d5e3:
 
 translate schinese_rewrite Cane_GotTheMoney_2bf760b7:
 
-    "你一步一步进入柜台一边 肯恩好像在舔他的嘴唇 等着你靠近点。"
+    "你一步一步进入柜台一边 凯恩好像在舔他的嘴唇 等着你靠近点。"
 
 translate schinese_rewrite Cane_GotTheMoney_4a0509df:
 
@@ -6243,11 +6234,11 @@ translate schinese_rewrite Cane_GotTheMoney_1b88f674:
 
 translate schinese_rewrite Cane_GotTheMoney_482a9ec1:
 
-    "肯恩打你屁股 尽可能的用力, 你放出一个大喊大叫的喘息 但其他的赞助者似乎没有注意到。"
+    "凯恩打你屁股 尽可能的用力, 你放出一个大喊大叫的喘息 但其他的赞助者似乎没有注意到。"
 
 translate schinese_rewrite Cane_GotTheMoney_bc35d635:
 
-    "你看着你的身后,然后又回到肯恩。"
+    "你看着你的身后,然后又回到凯恩。"
 
 translate schinese_rewrite Cane_GotTheMoney_1e7a4e9c:
 
@@ -6271,7 +6262,7 @@ translate schinese_rewrite Cane_GotTheMoney_41cbba6d:
 
 translate schinese_rewrite Cane_GotTheMoney_2e23fe8d:
 
-    "肯恩的巴掌让你的屁股还疼 你走在酒馆里时 扭动脸颊。"
+    "凯恩的巴掌让你的屁股还疼 你走在酒馆里时 扭动脸颊。"
 
 translate schinese_rewrite Cane_NoMoney_f0972ae5:
 
@@ -6283,7 +6274,7 @@ translate schinese_rewrite Cane_NoMoney_b87bec4d:
 
 translate schinese_rewrite Cane_NoMoney_8435aaf1:
 
-    e "对不起,肯恩,我想我会记得..."
+    e "对不起,凯恩,我想我会记得..."
 
 translate schinese_rewrite Cane_NoMoney_106596c3:
 
@@ -6323,7 +6314,7 @@ translate schinese_rewrite Cane_Outfit_02_24a1b6eb:
 
 translate schinese_rewrite Cane_Outfit_02_49c6b942:
 
-    "你很快地转到肯恩等着的柜台 他眼里有亮光的眼神看着你。"
+    "你很快地转到凯恩等着的柜台 他眼里有亮光的眼神看着你。"
 
 translate schinese_rewrite Cane_Outfit_02_8798ac62:
 
@@ -6331,19 +6322,19 @@ translate schinese_rewrite Cane_Outfit_02_8798ac62:
 
 translate schinese_rewrite Cane_Outfit_02_ec6b2001:
 
-    e "这不是我的主意 拉希姆设计了这件衣服 他想得到你的反馈。"
+    e "这不是我的主意 雷希姆设计了这件衣服 他想得到你的反馈。"
 
 translate schinese_rewrite Cane_Outfit_02_4e87df44:
 
-    c "拉希姆做的?这是给酒馆的?"
+    c "雷希姆做的?这是给酒馆的?"
 
 translate schinese_rewrite Cane_Outfit_02_3502150c:
 
-    "你可以看到肯恩通常的笑容 稍稍动摇一下。"
+    "你可以看到凯恩通常的笑容 稍稍动摇一下。"
 
 translate schinese_rewrite Cane_Outfit_02_0cd853e9:
 
-    "肯恩继续的时候 你要解释一下情况 并保护拉希姆。"
+    "凯恩继续的时候 你要解释一下情况 并保护雷希姆。"
 
 translate schinese_rewrite Cane_Outfit_02_fa492f64:
 
@@ -6355,7 +6346,7 @@ translate schinese_rewrite Cane_Outfit_02_692c2aef:
 
 translate schinese_rewrite Cane_Outfit_02_39f59339:
 
-    "肯恩突然拍拍你的屁股 屁股通过小伙伴们暴露出来。"
+    "凯恩突然拍拍你的屁股 屁股通过小伙伴们暴露出来。"
 
 translate schinese_rewrite Cane_Outfit_02_4d24d623:
 
@@ -6367,7 +6358,7 @@ translate schinese_rewrite Cane_Outfit_02_a226137d:
 
 translate schinese_rewrite Cane_Outfit_02_375234e0:
 
-    "肯恩开始拍拍你的大腿的内脏。"
+    "凯恩开始拍拍你的大腿的内脏。"
 
 translate schinese_rewrite Cane_Outfit_02_95143db0:
 
@@ -6379,7 +6370,7 @@ translate schinese_rewrite Cane_Outfit_02_78e408d3:
 
 translate schinese_rewrite Cane_Outfit_02_dea701bd:
 
-    "当肯恩把手拉开时 他的手指扣 扣住你内裤的扣子 紧。"
+    "当凯恩把手拉开时 他的手指扣 扣住你内裤的扣子 紧。"
 
 translate schinese_rewrite Cane_Outfit_02_e3fee1d1:
 
@@ -6395,7 +6386,7 @@ translate schinese_rewrite Cane_Outfit_02_38083b75:
 
 translate schinese_rewrite Cane_Outfit_02_f969354f:
 
-    "肯恩注意到你的不舒服和笑。"
+    "凯恩注意到你的不舒服和笑。"
 
 translate schinese_rewrite Cane_Outfit_02_5c32895f:
 
@@ -6471,7 +6462,7 @@ translate schinese_rewrite Cane_Outfit_03_5eb1fa12:
 
 translate schinese_rewrite Cane_Outfit_03_65c38e23:
 
-    "你以为你已经从肯恩那里收集到足够的反馈 当你注意到那个望着你裤带的保龄球员。"
+    "你以为你已经从凯恩那里收集到足够的反馈 当你注意到那个望着你裤带的保龄球员。"
 
 translate schinese_rewrite Cane_Outfit_03_9f87a138:
 
@@ -6487,7 +6478,7 @@ translate schinese_rewrite Cane_Outfit_03_63617f03:
 
 translate schinese_rewrite Cane_Outfit_03_c4665027:
 
-    "肯恩笑。"
+    "凯恩笑。"
 
 translate schinese_rewrite Cane_Outfit_03_b766f14f:
 
@@ -6551,7 +6542,7 @@ translate schinese_rewrite Cane_Serve_Later_6da3e789:
 
 translate schinese_rewrite Cane_Serve_Later_afd7e145:
 
-    "肯恩回头看着你 笑得到处都是。"
+    "凯恩回头看着你 笑得到处都是。"
 
 translate schinese_rewrite Cane_Serve_Later_d87780c1:
 
@@ -6559,7 +6550,7 @@ translate schinese_rewrite Cane_Serve_Later_d87780c1:
 
 translate schinese_rewrite Cane_Serve_Later_4d4cee6b:
 
-    e "嘿,肯恩,我只是按你的老板的要求做。"
+    e "嘿,凯恩,我只是按你的老板的要求做。"
 
 translate schinese_rewrite Cane_Serve_Later_685c601b:
 
@@ -6579,7 +6570,7 @@ translate schinese_rewrite Cane_Serve_Later_9a11f9d3:
 
 translate schinese_rewrite Cane_Serve_Later_41a2b89e:
 
-    "肯恩笑你裸体的样子, 他令人惊讶地说最少。"
+    "凯恩笑你裸体的样子, 他令人惊讶地说最少。"
 
 translate schinese_rewrite Cane_Serve_Later_376edd1c:
 
@@ -6615,7 +6606,7 @@ translate schinese_rewrite Cane_Serve_Later_c1b534e6:
 
 translate schinese_rewrite Cane_Serve_Later_7536fa5a:
 
-    e "好吧,我会考虑的 再见,肯恩。"
+    e "好吧,我会考虑的 再见,凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_360f0bd6:
 
@@ -6631,7 +6622,7 @@ translate schinese_rewrite Cane_Serve_Later_0da5722f:
 
 translate schinese_rewrite Cane_Serve_Later_24f6be09:
 
-    e "谢谢,肯恩。"
+    e "谢谢,凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_a713d752:
 
@@ -6647,7 +6638,7 @@ translate schinese_rewrite Cane_Serve_Later_3c571d5e:
 
 translate schinese_rewrite Cane_Serve_Later_117d4c18:
 
-    e "太好了,这是承诺 再见,肯恩。"
+    e "太好了,这是承诺 再见,凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_98573fca:
 
@@ -6691,11 +6682,11 @@ translate schinese_rewrite Cane_Serve_First_5fd10514:
 
 translate schinese_rewrite Cane_Serve_First_c1465d7e:
 
-    "当你转身回到衣柜室时 肯恩举起他的手 轻轻地扇了你的屁股。"
+    "当你转身回到衣柜室时 凯恩举起他的手 轻轻地扇了你的屁股。"
 
 translate schinese_rewrite Cane_Serve_First_fb68f497:
 
-    "你害怕弹跳,你只能看到肯恩的诡异表情 当你往后看时会反应。你决定忽略它,继续你的工作。"
+    "你害怕弹跳,你只能看到凯恩的诡异表情 当你往后看时会反应。你决定忽略它,继续你的工作。"
 
 translate schinese_rewrite Cane_Serve_First_e1a702fd:
 
@@ -6703,11 +6694,11 @@ translate schinese_rewrite Cane_Serve_First_e1a702fd:
 
 translate schinese_rewrite Cane_Serve_First_3d664d4d:
 
-    "你拿起制服,把灰尘拿开。你开始把灰尘放在自己身上。奇怪的是,它们像手套一样放在你手里,但看起来不像肯恩会穿的。"
+    "你拿起制服,把灰尘拿开。你开始把灰尘放在自己身上。奇怪的是,它们像手套一样放在你手里,但看起来不像凯恩会穿的。"
 
 translate schinese_rewrite Cane_Serve_First_2d456b6c:
 
-    "你走出衣柜,让肯恩看看你的新服务器服饰。他暗示你为他转过身去,你这样做。你注意到衣服的缝合非常干净。"
+    "你走出衣柜,让凯恩看看你的新服务器服饰。他暗示你为他转过身去,你这样做。你注意到衣服的缝合非常干净。"
 
 translate schinese_rewrite Cane_Serve_First_f617345c:
 
@@ -6735,7 +6726,7 @@ translate schinese_rewrite Cane_Serve_First_77ebf5e5:
 
 translate schinese_rewrite Cane_Serve_First_88656487:
 
-    "肯恩在你们面前走过 他举手鼓掌拍了几次 酒馆里的人 似乎都立刻沉默不语 看着肯恩。"
+    "凯恩在你们面前走过 他举手鼓掌拍了几次 酒馆里的人 似乎都立刻沉默不语 看着凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_6a123d0a:
 
@@ -6755,7 +6746,7 @@ translate schinese_rewrite Cane_Serve_First_1a8b4404:
 
 translate schinese_rewrite Cane_Serve_First_afd7e145:
 
-    "肯恩回头看着你 笑得到处都是。"
+    "凯恩回头看着你 笑得到处都是。"
 
 translate schinese_rewrite Cane_Serve_First_d87780c1:
 
@@ -6763,7 +6754,7 @@ translate schinese_rewrite Cane_Serve_First_d87780c1:
 
 translate schinese_rewrite Cane_Serve_First_4d4cee6b:
 
-    e "嘿,肯恩,我只是按你的老板的要求做。"
+    e "嘿,凯恩,我只是按你的老板的要求做。"
 
 translate schinese_rewrite Cane_Serve_First_685c601b:
 
@@ -6783,7 +6774,7 @@ translate schinese_rewrite Cane_Serve_First_9a11f9d3:
 
 translate schinese_rewrite Cane_Serve_First_41a2b89e:
 
-    "肯恩笑你裸体的样子, 他令人惊讶地说最少。"
+    "凯恩笑你裸体的样子, 他令人惊讶地说最少。"
 
 translate schinese_rewrite Cane_Serve_First_376edd1c:
 
@@ -6819,7 +6810,7 @@ translate schinese_rewrite Cane_Serve_First_c1b534e6:
 
 translate schinese_rewrite Cane_Serve_First_7536fa5a:
 
-    e "好吧,我会考虑的 再见,肯恩。"
+    e "好吧,我会考虑的 再见,凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_360f0bd6:
 
@@ -6835,7 +6826,7 @@ translate schinese_rewrite Cane_Serve_First_9e78d2bf:
 
 translate schinese_rewrite Cane_Serve_First_3736c33e:
 
-    "你不敢问他你工作之外的事,所以你跟肯恩很亲近,你向他挥手让他知道你的存在。"
+    "你不敢问他你工作之外的事,所以你跟凯恩很亲近,你向他挥手让他知道你的存在。"
 
 translate schinese_rewrite Cane_Serve_First_1e71a28a:
 
@@ -6851,7 +6842,7 @@ translate schinese_rewrite Cane_Serve_First_66fc3a5a:
 
 translate schinese_rewrite Cane_Serve_First_58261a60:
 
-    e "嘿,肯恩,好像有人真的喜欢我。"
+    e "嘿,凯恩,好像有人真的喜欢我。"
 
 translate schinese_rewrite Cane_Serve_First_27454513:
 
@@ -6883,7 +6874,7 @@ translate schinese_rewrite Cane_Serve_First_5976e452:
 
 translate schinese_rewrite Cane_Serve_First_117d4c18:
 
-    e "太好了,这是承诺 再见,肯恩。"
+    e "太好了,这是承诺 再见,凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_98573fca:
 
@@ -6903,7 +6894,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_3fffc14c:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_f16a1d28:
 
-    "你感觉像在酒馆的焦点, 每个人都在看着你, 甚至肯恩给你一个侧眼 时不时。"
+    "你感觉像在酒馆的焦点, 每个人都在看着你, 甚至凯恩给你一个侧眼 时不时。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_ba2f7cfe:
 
@@ -6971,7 +6962,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_cbc6cb0d:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fcb07c59:
 
-    patron2 "我知道你和肯恩老头子背后的故事 你可能很喜欢这个吧?"
+    patron2 "我知道你和凯恩老头子背后的故事 你可能很喜欢这个吧?"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_c9867601:
 
@@ -6987,7 +6978,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_77989197:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fa9fb971:
 
-    "酒馆里的人都为你欢呼,甚至向你吹口哨,肯恩也看着你,与赞助者一道欢呼。"
+    "酒馆里的人都为你欢呼,甚至向你吹口哨,凯恩也看着你,与赞助者一道欢呼。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_cedf49d9:
 
@@ -7055,7 +7046,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_ce4b91f2:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_7a709fac:
 
-    "你把围裙和裤子带去肯恩, 她看起来很惊讶,但还是对你笑。"
+    "你把围裙和裤子带去凯恩, 她看起来很惊讶,但还是对你笑。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_beeecc23:
 
@@ -7079,7 +7070,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_b1226cf5:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_221ebd97:
 
-    "根据肯恩的规矩,钱应该属于他。 但行动本身已经使你充满了兴奋。"
+    "根据凯恩的规矩,钱应该属于他。 但行动本身已经使你充满了兴奋。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_9f2be9f8:
 
@@ -7099,7 +7090,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_9b6fd6ee:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_451d1529:
 
-    "你步行去肯恩 要求完成你的轮班。"
+    "你步行去凯恩 要求完成你的轮班。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_c9e80490:
 
@@ -7147,7 +7138,7 @@ translate schinese_rewrite Scene_Nocturnal_Serve_9b6fd6ee_1:
 
 translate schinese_rewrite Scene_Nocturnal_Serve_451d1529_1:
 
-    "你步行去肯恩 要求完成你的轮班。"
+    "你步行去凯恩 要求完成你的轮班。"
 
 translate schinese_rewrite Cane_NoMoney_No_8776ea0c:
 
@@ -7163,7 +7154,7 @@ translate schinese_rewrite Cane_NoMoney_No_0b4c628d:
 
 translate schinese_rewrite Cane_NoMoney_No_943649a0:
 
-    e "好吧,谢谢肯恩。"
+    e "好吧,谢谢凯恩。"
 
 translate schinese_rewrite Cane_NoMoney_No_7ad9c6e8:
 
@@ -7203,7 +7194,7 @@ translate schinese_rewrite Lothar_First_46b8308f:
 
 translate schinese_rewrite Lothar_First_79e988e5:
 
-    my "是的 龙 奥勒跟我说过你 店里那两个人想让我 卢斯特菲尔德的英雄来训练你？"
+    my "是的 龙 奥勒跟我说过你 店里那两个人想让我 乐斯民菲尔德的英雄来训练你？"
 
 translate schinese_rewrite Lothar_First_660b31e4:
 
@@ -7211,7 +7202,7 @@ translate schinese_rewrite Lothar_First_660b31e4:
 
 translate schinese_rewrite Lothar_Correct_4064657b:
 
-    e "你是洛萨吗?"
+    e "你是洛萨尔吗?"
 
 translate schinese_rewrite Lothar_Correct_b14e8a33:
 
@@ -7247,11 +7238,11 @@ translate schinese_rewrite Lothar_Correct2_1a37fca2:
 
 translate schinese_rewrite Lothar_Correct2_2a2ca5e0:
 
-    l "毕竟我是卢斯特菲尔德的英雄 我想你可以学着拿我的包 和像你的蜥蜴朋友整天一样 洗我家的地板。"
+    l "毕竟我是乐斯民菲尔德的英雄 我想你可以学着拿我的包 和像你的蜥蜴朋友整天一样 洗我家的地板。"
 
 translate schinese_rewrite Lothar_Correct2_df9d2670:
 
-    e "洛萨,你不会是认真的吧..."
+    e "洛萨尔,你不会是认真的吧..."
 
 translate schinese_rewrite Lothar_Correct2_27686842:
 
@@ -7267,7 +7258,7 @@ translate schinese_rewrite Lothar_Correct2_ed88ea2f:
 
 translate schinese_rewrite Lothar_Correct2_9c55268a:
 
-    e "很高兴认识你,洛萨..."
+    e "很高兴认识你,洛萨尔..."
 
 translate schinese_rewrite Lothar_Correct2_2655e399:
 
@@ -7299,11 +7290,11 @@ translate schinese_rewrite Lothar_Who_d254360d:
 
 translate schinese_rewrite Lothar_Who_6f27df95:
 
-    l "我是卢斯特菲尔德的守护者,如果你忘了的话,你叫什么名字?"
+    l "我是乐斯民菲尔德的守护者,如果你忘了的话,你叫什么名字?"
 
 translate schinese_rewrite Lothar_Who_7a86005e:
 
-    e "我是[e] 很高兴认识你,洛萨 我昨天才到这里。"
+    e "我是[e] 很高兴认识你,洛萨尔 我昨天才到这里。"
 
 translate schinese_rewrite Lothar_Who_e1d5f38c:
 
@@ -7343,7 +7334,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Quest_32ed943d:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_f5d2978f:
 
-    "洛萨看着你,他那无时无刻的傲慢自大的脸脸。"
+    "洛萨尔看着你,他那无时无刻的傲慢自大的脸脸。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_efe016f1:
 
@@ -7351,7 +7342,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Quest_efe016f1:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_43296b10:
 
-    "洛塔尔开始走人了,你快点追他。"
+    "洛萨尔开始走人了,你快点追他。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_7263f6ba:
 
@@ -7379,7 +7370,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Quest_15dc143f:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_05043cea:
 
-    e "洛塔尔,你没提过卢斯特福克家 抱怨的怪物吗?"
+    e "洛萨尔,你没提过卢斯特福克家 抱怨的怪物吗?"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_e6402c67:
 
@@ -7403,7 +7394,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_32ed943d:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_f5d2978f:
 
-    "洛萨看着你,他那无时无刻的傲慢自大的脸脸。"
+    "洛萨尔看着你,他那无时无刻的傲慢自大的脸脸。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_efe016f1:
 
@@ -7411,7 +7402,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_efe016f1:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_43296b10:
 
-    "洛塔尔开始走人了,你快点追他。"
+    "洛萨尔开始走人了,你快点追他。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_7263f6ba:
 
@@ -7439,7 +7430,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_15dc143f:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2d2a5591:
 
-    "你和洛特哈尔在森林里走过一段时间了, 洛特哈尔遵循一些未知的方向, 你跟着他。"
+    "你和洛萨尔在森林里走过一段时间了, 洛萨尔遵循一些未知的方向, 你跟着他。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7:
 
@@ -7451,7 +7442,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_02b2254e:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f8e470c5:
 
-    "洛塔尔的呼噜声在承认, 但继续走。"
+    "洛萨尔的呼噜声在承认, 但继续走。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a4806ab1:
 
@@ -7467,7 +7458,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_07ea8214:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_56f825fb:
 
-    "洛塔尔叹气摇头。"
+    "洛萨尔叹气摇头。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8ea3cca1:
 
@@ -7487,7 +7478,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2adf4679:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_15b07ca5:
 
-    "洛塔尔不会转身 但你可以感觉到他的笑容 即使没有看到。"
+    "洛萨尔不会转身 但你可以感觉到他的笑容 即使没有看到。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_77b9e8b0:
 
@@ -7499,7 +7490,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_7e993d26:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_90dc723c:
 
-    "洛萨在走路时 头部沉浸在承认中。"
+    "洛萨尔在走路时 头部沉浸在承认中。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_045c3df5:
 
@@ -7543,7 +7534,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b361b165:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_24d67119:
 
-    l "他们都对此非常小心翼翼,我以为他们只是害怕 站在鲁斯特菲尔德英雄面前。"
+    l "他们都对此非常小心翼翼,我以为他们只是害怕 站在乐斯民菲尔德英雄面前。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_1:
 
@@ -7559,7 +7550,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_418e97af:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_9198c8ac:
 
-    "漫步了很长一段时间 穿过了各种不同的地标 像树一样 洛塔尔把他的胳膊伸在你面前。"
+    "漫步了很长一段时间 穿过了各种不同的地标 像树一样 洛萨尔把他的胳膊伸在你面前。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_738d7e98:
 
@@ -7567,7 +7558,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_738d7e98:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_fd4541ea:
 
-    "洛萨把他的剑从草丛里取出来。"
+    "洛萨尔把他的剑从草丛里取出来。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_2:
 
@@ -7587,7 +7578,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_3d712a1b:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f9a6e1f6:
 
-    "洛塔尔从他的剑上拿了一只手 并当面扇他耳光。"
+    "洛萨尔从他的剑上拿了一只手 并当面扇他耳光。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_08f45e2a:
 
@@ -7603,7 +7594,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_07667461:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_64d54103:
 
-    "洛塔尔认为这已经足够, 并开始重新开始前进。"
+    "洛萨尔认为这已经足够, 并开始重新开始前进。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2b57ef3c:
 
@@ -7611,7 +7602,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2b57ef3c:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c6f899ea:
 
-    "当它即将落下它的打击时,洛塔尔跳跃向前,用他的剑阻止打击。"
+    "当它即将落下它的打击时,洛萨尔跳跃向前,用他的剑阻止打击。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_995623b0:
 
@@ -7619,7 +7610,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_995623b0:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_057a48f6:
 
-    "正如他说的,第二个根 从他身后的地球喷出, 冲进洛塔尔的头骨。"
+    "正如他说的,第二个根 从他身后的地球喷出, 冲进洛萨尔的头骨。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_980663e0:
 
@@ -7639,7 +7630,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2ecadfa7:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8b1641cf:
 
-    "你和洛塔尔是模糊的, 屏蔽和裸体, 将根向任何地方,除了你的身体。"
+    "你和洛萨尔是模糊的, 屏蔽和裸体, 将根向任何地方,除了你的身体。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c28c51ed:
 
@@ -7667,7 +7658,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_15efa9e5:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_66ed90a0:
 
-    "你不知道这持续了多久 你所有的想法 都由植物和洛塔尔主宰。"
+    "你不知道这持续了多久 你所有的想法 都由植物和洛萨尔主宰。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dae5b8e1:
 
@@ -7675,7 +7666,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dae5b8e1:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f9da75f5:
 
-    "你和洛塔尔上面出现了一个明亮的橙色小屋。"
+    "你和洛萨尔上面出现了一个明亮的橙色小屋。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6f84ebe6:
 
@@ -7687,11 +7678,11 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_94962c0e:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f64cb945:
 
-    "尽管语言多姿多彩 洛特哈尔还是你听过他最开心的 他的声音令人欢喜。"
+    "尽管语言多姿多彩 洛萨尔还是你听过他最开心的 他的声音令人欢喜。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b7c74386:
 
-    "洛萨转过身来看看你 不知怎的 仍然设法挡住他路上的根。"
+    "洛萨尔转过身来看看你 不知怎的 仍然设法挡住他路上的根。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b9a0d61a:
 
@@ -7707,7 +7698,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bbc0165d:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f9aff859:
 
-    "几个根试图跟着你 但洛塔尔模糊了 来阻拦他们。"
+    "几个根试图跟着你 但洛萨尔模糊了 来阻拦他们。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_317b7e23:
 
@@ -7715,7 +7706,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_317b7e23:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_06c93030:
 
-    "上楼时,你往下看洛萨。"
+    "上楼时,你往下看洛萨尔。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dcdd9963:
 
@@ -7771,7 +7762,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6ab9b17a:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_cd004b14:
 
-    "洛塔尔的肢体语言发生了根本性的变化 从暴力的流传到杀戮的流传。"
+    "洛萨尔的肢体语言发生了根本性的变化 从暴力的流传到杀戮的流传。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_490d8d23:
 
@@ -7779,7 +7770,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_490d8d23:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ea5de5eb:
 
-    "当你继续堵住根, 洛塔尔的身体加速到 难以用眼睛追踪的地步。"
+    "当你继续堵住根, 洛萨尔的身体加速到 难以用眼睛追踪的地步。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8b69df49:
 
@@ -7787,7 +7778,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8b69df49:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ab365619:
 
-    "越来越多的根落到地上, 直至一堵小堵的根墙倒在洛塔尔的前面。"
+    "越来越多的根落到地上, 直至一堵小堵的根墙倒在洛萨尔的前面。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b148b204:
 
@@ -7799,11 +7790,11 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_20922fba:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c2723769:
 
-    "洛塔尔开始消灭你那边的根。"
+    "洛萨尔开始消灭你那边的根。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ad947881:
 
-    "几分钟后,再没有根子可以攻击你或洛塔尔了。"
+    "几分钟后,再没有根子可以攻击你或洛萨尔了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dae4b2d3:
 
@@ -7815,7 +7806,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_18c28849:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_34b0f927:
 
-    "正如他所说,洛塔尔跳跃了附近一棵树。"
+    "正如他所说,洛萨尔跳跃了附近一棵树。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_1ac24e2b:
 
@@ -7823,7 +7814,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_1ac24e2b:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bd0b7c35:
 
-    "以惊人的飞跃, 洛塔尔到达植物, 从植物中切开一大片葡萄, 降落在另一棵树上, 并重复行动。"
+    "以惊人的飞跃, 洛萨尔到达植物, 从植物中切开一大片葡萄, 降落在另一棵树上, 并重复行动。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ab19e372:
 
@@ -7859,7 +7850,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a5bd30a1:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_22f6ba78:
 
-    "洛塔尔摇头,吐在地上。"
+    "洛萨尔摇头,吐在地上。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_9a975c20:
 
@@ -7871,11 +7862,11 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b4c25f50:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8642a8d7:
 
-    "洛塔尔再次转身离开 向镇上走去。"
+    "洛萨尔再次转身离开 向镇上走去。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_9d581f4a:
 
-    "不久,你就会到达卢斯特菲尔德。"
+    "不久,你就会到达乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a638d341:
 
@@ -7939,7 +7930,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_46917fee:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_3d3d356b:
 
-    "正当你们开始伸手拿剑的时候 拉希姆走出他的店铺 在他的肺顶上鸣叫。"
+    "正当你们开始伸手拿剑的时候 雷希姆走出他的店铺 在他的肺顶上鸣叫。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bf7e2985:
 
@@ -7951,15 +7942,15 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_4:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a96ba498:
 
-    "你和洛塔尔被拉希姆突然发泄的怒火 冻结了。"
+    "你和洛萨尔被雷希姆突然发泄的怒火 冻结了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_454334fa:
 
-    "看了一阵子,拉希姆就进去 敲他身后的门。"
+    "看了一阵子,雷希姆就进去 敲他身后的门。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ccfe4af5:
 
-    "你们和洛萨又转过身去相见。"
+    "你们和洛萨尔又转过身去相见。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_7fa51e82:
 
@@ -7979,7 +7970,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ce3aa529:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_7864d655:
 
-    "这样,洛塔尔就让你一个人 回到他老地方 一个暗黑的表情 吸引了他的特征。"
+    "这样,洛萨尔就让你一个人 回到他老地方 一个暗黑的表情 吸引了他的特征。"
 
 translate schinese_rewrite Lothar_Who_Smile_b77af144:
 
@@ -7991,7 +7982,7 @@ translate schinese_rewrite Lothar_Who_Smile_e41ca7d8:
 
 translate schinese_rewrite Lothar_Who_Smile_2dd919a5:
 
-    l "我是卢斯特菲尔德的英雄洛萨。"
+    l "我是乐斯民菲尔德的英雄洛萨尔。"
 
 translate schinese_rewrite Lothar_Who_Smile_205b48f8:
 
@@ -8007,7 +7998,7 @@ translate schinese_rewrite Lothar_Who_Smile_06ab5f35:
 
 translate schinese_rewrite Lothar_Who_Smile_1347ecfa:
 
-    "在你刑满之前洛塔尔截断了你 他明显很生气 拒绝进一步阐述。"
+    "在你刑满之前洛萨尔截断了你 他明显很生气 拒绝进一步阐述。"
 
 translate schinese_rewrite Lothar_Who_Smile_b753a2cd:
 
@@ -8051,12 +8042,11 @@ translate schinese_rewrite Lothar_Who_Angry_c31953fe:
 
 translate schinese_rewrite Lothar_Who_Angry_f3826aab:
 
-    "洛塔尔执着地教你礼貌 他对你大吼大叫 而你却挥手不动 试着把脸转开。"
+    "洛萨尔执着地教你礼貌 他对你大吼大叫 而你却挥手不动 试着把脸转开。"
 
 translate schinese_rewrite Lothar_Who_Angry_bce3e15b:
 
-    e "Look... I'm sorry."
-
+    e "听着……对不起。"
 translate schinese_rewrite Lothar_Who_Angry_7717b576:
 
     l "Are you?"
@@ -8075,7 +8065,7 @@ translate schinese_rewrite Lothar_Who_Angry_93c2a728:
 
 translate schinese_rewrite Lothar_Wrong_2a743721:
 
-    e "呃 你是拉希姆吗?"
+    e "呃 你是雷希姆吗?"
 
 translate schinese_rewrite Lothar_Wrong_76bcb450:
 
@@ -8087,7 +8077,7 @@ translate schinese_rewrite Lothar_Wrong_d254360d:
 
 translate schinese_rewrite Lothar_Wrong_3cfbfa55:
 
-    my "你怎么会把我和那个老牛搞混 他看起来像卢斯特菲尔德的英雄吗?"
+    my "你怎么会把我和那个老牛搞混 他看起来像乐斯民菲尔德的英雄吗?"
 
 translate schinese_rewrite Lothar_Wrong_75862f28:
 
@@ -8119,11 +8109,11 @@ translate schinese_rewrite Lothar_Wrong_20fd191c:
 
 translate schinese_rewrite Lothar_Wrong_8c5cf0e2:
 
-    l "洛特哈尔,我是洛特哈尔,把我的名字写进你的脑海,别忘了。"
+    l "洛萨尔,我是洛萨尔,把我的名字写进你的脑海,别忘了。"
 
 translate schinese_rewrite Lothar_Wrong_e9489b13:
 
-    e "幸会 洛萨。"
+    e "幸会 洛萨尔。"
 
 translate schinese_rewrite Lothar_Wrong_93e5a0ee:
 
@@ -8143,7 +8133,7 @@ translate schinese_rewrite Lothar_Wrong_ad107a04:
 
 translate schinese_rewrite Lothar_First_End_4c53de91:
 
-    "洛塔尔现在对你的表现感到满意,慢慢地退缩,给你呼吸的空间。他现在更紧地跨过他的手臂,几乎进一步压压他的胸口。"
+    "洛萨尔现在对你的表现感到满意,慢慢地退缩,给你呼吸的空间。他现在更紧地跨过他的手臂,几乎进一步压压他的胸口。"
 
 translate schinese_rewrite Lothar_First_End_7076335e:
 
@@ -8199,7 +8189,7 @@ translate schinese_rewrite Lothar_First_Ending_0e9e382e:
 
 translate schinese_rewrite Lothar_First_Ending_ff547ef7:
 
-    "你走后门,当看见欧勒从商店出来,站在你视线的角落的时候,洛特哈尔仍然愤怒地盯着你,他以你的眼睛向你转去,然后,他使洛特哈看见你的眼睛。"
+    "你走后门,当看见奥利从商店出来,站在你视线的角落的时候,洛萨尔仍然愤怒地盯着你,他以你的眼睛向你转去,然后,他使洛特哈看见你的眼睛。"
 
 translate schinese_rewrite Lothar_First_Ending_9c2edee2:
 
@@ -8231,7 +8221,7 @@ translate schinese_rewrite Lothar_First_Ending_fb71ad95:
 
 translate schinese_rewrite Lothar_First_Ending_f9115139:
 
-    "狼像一只被打败的小狗一样望着眼看望着洛哈尔几秒钟。蜥蜴随后平静地转过来看你。"
+    "狼像一只被打败的小狗一样望着眼看望着洛萨尔几秒钟。蜥蜴随后平静地转过来看你。"
 
 translate schinese_rewrite Lothar_First_Ending_51e5c690:
 
@@ -8255,11 +8245,11 @@ translate schinese_rewrite Lothar_First_Ending_720fec84:
 
 translate schinese_rewrite Lothar_First_Ending_9c9b3c64:
 
-    e "See you 洛萨."
+    e "See you 洛萨尔."
 
 translate schinese_rewrite Lothar_First_Ending_ed3b0d65:
 
-    "路的另一边的楼梯上走走时,洛萨对你大发雷霆,你叹气欲绝,终于摆脱了困境。"
+    "路的另一边的楼梯上走走时,洛萨尔对你大发雷霆,你叹气欲绝,终于摆脱了困境。"
 
 translate schinese_rewrite Lothar_Dialogue_52132ed0:
 
@@ -8283,7 +8273,7 @@ translate schinese_rewrite Lothar_Dialogue_62feb791:
 
 translate schinese_rewrite Lothar_Dialogue_0c8df589:
 
-    e "Uh... 洛萨?"
+    e "Uh... 洛萨尔?"
 
 translate schinese_rewrite Lothar_Dialogue_6fd97e81:
 
@@ -8295,11 +8285,11 @@ translate schinese_rewrite Lothar_Dialogue_55fa2d86:
 
 translate schinese_rewrite Lothar_Dialogue_08fa49ce:
 
-    e "嘿,洛萨。"
+    e "嘿,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_285abeaf:
 
-    "你忍不住往下看 摸摸手指 想着在事情发生后如何和洛塔尔交谈。"
+    "你忍不住往下看 摸摸手指 想着在事情发生后如何和洛萨尔交谈。"
 
 translate schinese_rewrite Lothar_Dialogue_863a76eb:
 
@@ -8323,7 +8313,7 @@ translate schinese_rewrite Lothar_Dialogue_577e4bd1:
 
 translate schinese_rewrite Lothar_Dialogue_d49d0510:
 
-    "洛塔尔叹气 看着一边 脸红一点。"
+    "洛萨尔叹气 看着一边 脸红一点。"
 
 translate schinese_rewrite Lothar_Dialogue_95c7a6f5:
 
@@ -8351,11 +8341,11 @@ translate schinese_rewrite Lothar_Dialogue_fba13052:
 
 translate schinese_rewrite Lothar_Dialogue_c6e1671a:
 
-    e "你好,洛萨。"
+    e "你好,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_5a83a250:
 
-    e "你好吗,洛萨?"
+    e "你好吗,洛萨尔?"
 
 translate schinese_rewrite Lothar_Dialogue_5baff97c:
 
@@ -8371,11 +8361,11 @@ translate schinese_rewrite Lothar_Dialogue_fba13052_1:
 
 translate schinese_rewrite Lothar_Dialogue_c6e1671a_1:
 
-    e "你好,洛萨。"
+    e "你好,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_5a83a250_1:
 
-    e "你好吗,洛萨?"
+    e "你好吗,洛萨尔?"
 
 translate schinese_rewrite Lothar_Dialogue_0999aa74:
 
@@ -8391,7 +8381,7 @@ translate schinese_rewrite Lothar_Dialogue_568bb928:
 
 translate schinese_rewrite Lothar_Dialogue_02671382:
 
-    e "嗯哼?洛塔尔?"
+    e "嗯哼?洛萨尔?"
 
 translate schinese_rewrite Lothar_Dialogue_4ed20f6b:
 
@@ -8399,8 +8389,7 @@ translate schinese_rewrite Lothar_Dialogue_4ed20f6b:
 
 translate schinese_rewrite Lothar_Dialogue_b82f8229:
 
-    e "O-oh, If you would like?"
-
+    e "噢……你愿意的话？"
 translate schinese_rewrite Lothar_Dialogue_315ee5af:
 
     l "是啊,不,我不是那种 在他的酒馆服务着的角质赞助者之一。"
@@ -8447,7 +8436,7 @@ translate schinese_rewrite Lothar_Dialogue_4919c77d:
 
 translate schinese_rewrite Lothar_Dialogue_35969d2c:
 
-    l "你什么意思,大家都知道我是 卢斯特菲尔德的救世主 因为我杀了他, 不是一些随机的花。"
+    l "你什么意思,大家都知道我是 乐斯民菲尔德的救世主 因为我杀了他, 不是一些随机的花。"
 
 translate schinese_rewrite Lothar_Dialogue_7df88c6d:
 
@@ -8459,11 +8448,11 @@ translate schinese_rewrite Lothar_Dialogue_e6cedf20:
 
 translate schinese_rewrite Lothar_Dialogue_c2e950a4:
 
-    l "其实我救了安布尔和约格 很久以前从强盗手中救出来的。"
+    l "其实我救了安布和约格 很久以前从强盗手中救出来的。"
 
 translate schinese_rewrite Lothar_Dialogue_1f4e4ef7:
 
-    e "你好,洛萨,你在说什么?"
+    e "你好,洛萨尔,你在说什么?"
 
 translate schinese_rewrite Lothar_Dialogue_7170b630:
 
@@ -8475,7 +8464,7 @@ translate schinese_rewrite Lothar_Dialogue_ccb64e2a:
 
 translate schinese_rewrite Lothar_Dialogue_3a899e05:
 
-    e "其实,你不是狼吗,洛萨?"
+    e "其实,你不是狼吗,洛萨尔?"
 
 translate schinese_rewrite Lothar_Dialogue_ceaad1fd:
 
@@ -8503,7 +8492,7 @@ translate schinese_rewrite Lothar_Dialogue_e158ab8e:
 
 translate schinese_rewrite Lothar_Dialogue_8ab05b3d:
 
-    e "对不起,洛萨。"
+    e "对不起,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_53288926:
 
@@ -8523,7 +8512,7 @@ translate schinese_rewrite Lothar_Dialogue_6df2c243:
 
 translate schinese_rewrite Lothar_Dialogue_3e8b7ecc:
 
-    e "你好,洛萨。"
+    e "你好,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_2fd6aab4:
 
@@ -8531,7 +8520,7 @@ translate schinese_rewrite Lothar_Dialogue_2fd6aab4:
 
 translate schinese_rewrite Lothar_Dialogue_3e8b7ecc_1:
 
-    e "你好,洛萨。"
+    e "你好,洛萨尔。"
 
 translate schinese_rewrite Lothar_Normal_Talk_ff55d21c:
 
@@ -8543,7 +8532,7 @@ translate schinese_rewrite Lothar_Normal_Talk_58e0fbb5:
 
 translate schinese_rewrite Lothar_Caravan_Stone_23c51416:
 
-    e "嘿,洛萨,这块石头怎么了?"
+    e "嘿,洛萨尔,这块石头怎么了?"
 
 translate schinese_rewrite Lothar_Caravan_Stone_583f0a40:
 
@@ -8559,7 +8548,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_348731fe:
 
 translate schinese_rewrite Lothar_Caravan_Stone_d8dcb708:
 
-    "洛塔尔拿出石头给你看。"
+    "洛萨尔拿出石头给你看。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_924d27d3:
 
@@ -8579,7 +8568,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_8e970f4f:
 
 translate schinese_rewrite Lothar_Caravan_Stone_67d0d2a9:
 
-    "充满愤怒的洛塔尔的花纹。"
+    "充满愤怒的洛萨尔的花纹。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_72b9d88e:
 
@@ -8591,15 +8580,15 @@ translate schinese_rewrite Lothar_Caravan_Stone_9afa0df6:
 
 translate schinese_rewrite Lothar_Caravan_Stone_d6465e99:
 
-    "你终于可以明白他为什么是卢斯特菲尔德的英雄了 洛特尔会吓得要死。"
+    "你终于可以明白他为什么是乐斯民菲尔德的英雄了 洛特尔会吓得要死。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_429b20c4:
 
-    e "洛萨,你打算怎么办?"
+    e "洛萨尔,你打算怎么办?"
 
 translate schinese_rewrite Lothar_Caravan_Stone_690de678:
 
-    "你担心洛塔尔的病情,他总是轻率行事。"
+    "你担心洛萨尔的病情,他总是轻率行事。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e0632913:
 
@@ -8615,7 +8604,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_a9644f5d:
 
 translate schinese_rewrite Lothar_Caravan_Stone_4cc0359c:
 
-    e "洛塔尔,你觉得石头... 颜色不一样吗?"
+    e "洛萨尔,你觉得石头... 颜色不一样吗?"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e52382d5:
 
@@ -8643,7 +8632,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_b02e7a40:
 
 translate schinese_rewrite Lothar_Caravan_Stone_77006eb9:
 
-    e "洛特哈尔,看看石头的粗糙度 这感觉像山羊的石头吗?"
+    e "洛萨尔,看看石头的粗糙度 这感觉像山羊的石头吗?"
 
 translate schinese_rewrite Lothar_Caravan_Stone_94125c77:
 
@@ -8667,7 +8656,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_93cec283:
 
 translate schinese_rewrite Lothar_Caravan_Stone_ca4e07e5:
 
-    e "洛特哈尔,看看这块石头的湿润, 这感觉像山羊会做的石头吗?"
+    e "洛萨尔,看看这块石头的湿润, 这感觉像山羊会做的石头吗?"
 
 translate schinese_rewrite Lothar_Caravan_Stone_bc5c265b:
 
@@ -8723,7 +8712,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_5f4916af:
 
 translate schinese_rewrite Lothar_Caravan_Stone_a10a6149:
 
-    e "我从洞穴救出了富肯 当有人从后面打他的时候。"
+    e "我从洞穴救出了弗坎 当有人从后面打他的时候。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_32a43cb2:
 
@@ -8759,8 +8748,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_88f05473:
 
 translate schinese_rewrite Lothar_Caravan_Stone_8820d68f:
 
-    e "So... Uh... the golem..."
-
+    e "所以……呃……那个魔像……"
 translate schinese_rewrite Lothar_Caravan_Stone_27af5197:
 
     l "歌乐与他们的车队攻击无关 门徒。"
@@ -8855,7 +8843,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_d000c3b0:
 
 translate schinese_rewrite Lothar_Caravan_Stone_40e6acd5:
 
-    e "听着,洛萨,我知道你现在的处境。"
+    e "听着,洛萨尔,我知道你现在的处境。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_1264f361:
 
@@ -8899,7 +8887,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_859c4da3:
 
 translate schinese_rewrite Lothar_Caravan_Stone_4dd9e62e:
 
-    e "想想看,洛萨,看看所有证据。"
+    e "想想看,洛萨尔,看看所有证据。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_8f698766_1:
 
@@ -8907,7 +8895,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_8f698766_1:
 
 translate schinese_rewrite Lothar_Caravan_Stone_137e92ea:
 
-    e "深呼吸,洛萨。"
+    e "深呼吸,洛萨尔。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_6312c2be:
 
@@ -8931,7 +8919,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_ba356bb4:
 
 translate schinese_rewrite Lothar_Caravan_Stone_dbe85fed:
 
-    e "除了山羊和卢斯特菲尔德 还有更多的团体。"
+    e "除了山羊和乐斯民菲尔德 还有更多的团体。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_aa17648e:
 
@@ -8947,7 +8935,7 @@ translate schinese_rewrite Lothar_Caravan_Stone_f39a9527:
 
 translate schinese_rewrite Lothar_Caravan_Stone_a81c20a9:
 
-    e "看,洛塔尔,你需要啤酒。"
+    e "看,洛萨尔,你需要啤酒。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_a49fddcf:
 
@@ -9003,11 +8991,11 @@ translate schinese_rewrite Lothar_Caravan_Stone_3e45dc9c:
 
 translate schinese_rewrite Lothar_Caravan_Stone_9cad8d67:
 
-    "洛萨突然离开 你意识到..."
+    "洛萨尔突然离开 你意识到..."
 
 translate schinese_rewrite Lothar_Caravan_Stone_7841d6c2:
 
-    "你觉得你应该去山羊部落 去看看洛萨..."
+    "你觉得你应该去山羊部落 去看看洛萨尔..."
 
 translate schinese_rewrite Lothar_Caravan_Stone_d361eb98:
 
@@ -9023,11 +9011,11 @@ translate schinese_rewrite Lothar_Caravan_Stone_3e45dc9c_1:
 
 translate schinese_rewrite Lothar_Caravan_Stone_9cad8d67_1:
 
-    "洛萨突然离开 你意识到..."
+    "洛萨尔突然离开 你意识到..."
 
 translate schinese_rewrite Lothar_Caravan_Stone_7841d6c2_1:
 
-    "你觉得你应该去山羊部落 去看看洛萨..."
+    "你觉得你应该去山羊部落 去看看洛萨尔..."
 
 translate schinese_rewrite Lothar_Caravan_Stone_fc766ee9:
 
@@ -9051,15 +9039,15 @@ translate schinese_rewrite Lothar_Caravan_Stone_93f7e641:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_fda1fd53:
 
-    "当你和洛特哈尔接近山羊部落时 你可以感觉到你的同伴变得紧张多了。"
+    "当你和洛萨尔接近山羊部落时 你可以感觉到你的同伴变得紧张多了。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8947979c:
 
-    "洛塔尔的手伸向他的剑。"
+    "洛萨尔的手伸向他的剑。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_42dbe41e:
 
-    e "洛塔尔,我们不是来杀人的 我们应该在诉诸暴力之前谈谈。"
+    e "洛萨尔,我们不是来杀人的 我们应该在诉诸暴力之前谈谈。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_863d200b:
 
@@ -9099,7 +9087,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_355f0cb2:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_1a496964:
 
-    "洛塔尔即时准备战斗。"
+    "洛萨尔即时准备战斗。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_387dc25f:
 
@@ -9111,11 +9099,11 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_4913fa9d:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_bcdbcc75:
 
-    "卫兵互相看着对方,他们熟悉你们的出现,但他们显然敬畏洛萨。"
+    "卫兵互相看着对方,他们熟悉你们的出现,但他们显然敬畏洛萨尔。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_d50eea26:
 
-    "再说了,你也不能怪他们,洛塔尔正在进攻。"
+    "再说了,你也不能怪他们,洛萨尔正在进攻。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_46cd768a:
 
@@ -9127,7 +9115,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_ab8beb66:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_920d899d:
 
-    e "洛塔尔,你帮不上忙!"
+    e "洛萨尔,你帮不上忙!"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_82bd503e:
 
@@ -9135,7 +9123,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_82bd503e:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_86f478e6:
 
-    "洛萨把你推到他身后 他挥舞他的剑。"
+    "洛萨尔把你推到他身后 他挥舞他的剑。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_779e1d3e:
 
@@ -9143,7 +9131,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_779e1d3e:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_400d2b0a:
 
-    e "洛塔尔,请冷静下来。"
+    e "洛萨尔,请冷静下来。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_fd3e5454:
 
@@ -9151,15 +9139,15 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_fd3e5454:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_45c775e0:
 
-    "山羊部分揭示了福坎和卡莉。"
+    "山羊部分揭示了弗坎和卡里。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_d439585d:
 
-    "弗坎对洛特哈尔视而不见时眼睛变暗了。"
+    "弗坎对洛萨尔视而不见时眼睛变暗了。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_74e15968:
 
-    "卡莉仍然像往常一样严重。"
+    "卡里仍然像往常一样严重。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_ec35581a:
 
@@ -9191,7 +9179,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_74dc8139:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_6167b8ac:
 
-    "卡莉 Frowns。"
+    "卡里 Frowns。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_0423e6ae:
 
@@ -9215,7 +9203,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_df75d72c:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_19a6c0e1:
 
-    e "洛塔尔,我想他们说得对。"
+    e "洛萨尔,我想他们说得对。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_2740b865:
 
@@ -9231,11 +9219,11 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_6732bf30:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_88de899e:
 
-    k "福坎,这是真的..."
+    k "弗坎,这是真的..."
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8c0740cf:
 
-    "福坎阻止他的将军。"
+    "弗坎阻止他的将军。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_c834e7c2:
 
@@ -9243,7 +9231,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_c834e7c2:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_72046d00:
 
-    "山羊守卫根据福坎的命令后退。"
+    "山羊守卫根据弗坎的命令后退。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8928e4c2:
 
@@ -9251,11 +9239,11 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_8928e4c2:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_6d302c21:
 
-    e "谢谢你,富肯。"
+    e "谢谢你,弗坎。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_a79d0326:
 
-    "你转向洛萨。"
+    "你转向洛萨尔。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_9823fe27:
 
@@ -9263,7 +9251,7 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_9823fe27:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_34440b65:
 
-    "你看到洛萨手爆的血管了。"
+    "你看到洛萨尔手爆的血管了。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_f48236c3:
 
@@ -9307,7 +9295,7 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_3cf93c81:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_ab0095af:
 
-    "洛塔尔立即变得侵略性。"
+    "洛萨尔立即变得侵略性。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_89efdbe5:
 
@@ -9327,7 +9315,7 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_01182ef8:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_6557cd44:
 
-    "福坎和洛萨都皱眉。"
+    "弗坎和洛萨尔都皱眉。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_696383eb:
 
@@ -9387,11 +9375,11 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_9e6939a8:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_83581b07:
 
-    e "别傻了,这太危险了 而且卢斯特菲尔德还需要英雄。"
+    e "别傻了,这太危险了 而且乐斯民菲尔德还需要英雄。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_1d7dc0fa:
 
-    "洛萨 Mulls为此而战。"
+    "洛萨尔 Mulls为此而战。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_8d141981:
 
@@ -9411,11 +9399,11 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_aecfc16d:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_05956e1f:
 
-    "你和洛萨一起回卢斯特菲尔德。"
+    "你和洛萨尔一起回乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_60c429de:
 
-    e "嘿,洛萨,你没事吧?"
+    e "嘿,洛萨尔,你没事吧?"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_0032b342:
 
@@ -9423,7 +9411,7 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_0032b342:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_a2cede7d:
 
-    "你看洛塔尔背部和手臂上的伤痕。"
+    "你看洛萨尔背部和手臂上的伤痕。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_13c56fe4:
 
@@ -9459,7 +9447,7 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_b42f9122:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_b2b7ae13:
 
-    e "你害怕吗,洛萨?"
+    e "你害怕吗,洛萨尔?"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_c5348e92:
 
@@ -9475,7 +9463,7 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_12bbea57:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_3b7e7e96:
 
-    l "我还在盯着山羊 所以我得留在卢斯特菲尔德。"
+    l "我还在盯着山羊 所以我得留在乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_82822a0c_2:
 
@@ -9547,7 +9535,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_a779582f:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_bd18c24f:
 
-    "山羊警卫仍然在洛哈尔有他们的长矛 但卡里对你倾注了心目。"
+    "山羊警卫仍然在洛萨尔有他们的长矛 但卡里对你倾注了心目。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_770c148b:
 
@@ -9559,7 +9547,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_569cd61d:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_7e6a7297:
 
-    "你可以看到洛哈尔手臂上的瘀伤。"
+    "你可以看到洛萨尔手臂上的瘀伤。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_eaa5b9c6:
 
@@ -9567,11 +9555,11 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_eaa5b9c6:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0a43b08e:
 
-    "卡莉给你发了信。"
+    "卡里给你发了信。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_c19308ef:
 
-    "洛塔尔的恶作剧回应他,如果不是卫兵的圈子压住他,他会攻击他的。"
+    "洛萨尔的恶作剧回应他,如果不是卫兵的圈子压住他,他会攻击他的。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_9e168798:
 
@@ -9591,7 +9579,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_5b9d1406:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_5a4016fc:
 
-    e "让洛塔尔走。"
+    e "让洛萨尔走。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_20057a64:
 
@@ -9611,11 +9599,11 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_b41f07dc:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_98e0d69d:
 
-    "戒指在洛哈尔上关闭 警卫要捅一刀 洛特哈尔轻松地躲过了它。"
+    "戒指在洛萨尔上关闭 警卫要捅一刀 洛萨尔轻松地躲过了它。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_53cdf158:
 
-    "警卫拍打洛塔尔的手腕,他的武器落地。"
+    "警卫拍打洛萨尔的手腕,他的武器落地。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0d7944df:
 
@@ -9623,7 +9611,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_0d7944df:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_33a90ee6:
 
-    "洛塔尔咬牙咬牙 看上去他要发怒了。"
+    "洛萨尔咬牙咬牙 看上去他要发怒了。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_57e660b5:
 
@@ -9639,11 +9627,11 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_d49ce91a:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0f56e7f8:
 
-    "福坎走过来 带着头领的身影。"
+    "弗坎走过来 带着头领的身影。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_058ac40f:
 
-    "弗坎看到洛特哈尔时眼睛稍稍暗一些 但他很快就恢复了魅力。"
+    "弗坎看到洛萨尔时眼睛稍稍暗一些 但他很快就恢复了魅力。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_16bb97e8:
 
@@ -9671,7 +9659,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_7091c9a6:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b12e26bf:
 
-    "卡莉和福坎都皱眉。"
+    "卡里和弗坎都皱眉。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b3bec646:
 
@@ -9687,7 +9675,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_a5b3bc6b:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_f4a4020a:
 
-    "洛萨大喊大叫,什么也说不出来。"
+    "洛萨尔大喊大叫,什么也说不出来。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_00013427:
 
@@ -9699,7 +9687,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_deafc44f:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_325644aa:
 
-    "福坎转身问他的将军。"
+    "弗坎转身问他的将军。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_1b77ca89:
 
@@ -9707,7 +9695,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_1b77ca89:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_f8dcdf92:
 
-    "洛塔尔很快把石头扔掉。"
+    "洛萨尔很快把石头扔掉。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_dd1b2935:
 
@@ -9715,7 +9703,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_dd1b2935:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_3a15838f:
 
-    "福坎 叹气。"
+    "弗坎 叹气。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_3cb077e7:
 
@@ -9735,7 +9723,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_0bc779a5:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_606b229d:
 
-    "福坎转向你。"
+    "弗坎转向你。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_856e927c:
 
@@ -9751,15 +9739,15 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_11387225:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_4aff5437:
 
-    "你去找洛特哈尔,他用牙咬周围的山羊。"
+    "你去找洛萨尔,他用牙咬周围的山羊。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d351d5cd:
 
-    "你知道福坎和卡莉确实有道理。"
+    "你知道弗坎和卡里确实有道理。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_296229ae:
 
-    e "洛塔尔,也许我们应该让他们看到那块石头。"
+    e "洛萨尔,也许我们应该让他们看到那块石头。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_e653997a:
 
@@ -9771,7 +9759,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_61168411:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_8decf2d6:
 
-    k "福坎,这真的是个好主意吗?"
+    k "弗坎,这真的是个好主意吗?"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_4a79ad42:
 
@@ -9783,7 +9771,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_71561f23:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_e2ac84f6:
 
-    "洛塔尔周围的武器圈松开了。"
+    "洛萨尔周围的武器圈松开了。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d4c99eb5:
 
@@ -9791,11 +9779,11 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_d4c99eb5:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_4db655dc:
 
-    "你快到洛塔尔那边去。"
+    "你快到洛萨尔那边去。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_397e1803:
 
-    e "Lotthar,你没事吧?"
+    e "洛萨尔,你没事吧?"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b3cc4b8d:
 
@@ -9803,7 +9791,7 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_b3cc4b8d:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_788b0eab:
 
-    e "洛萨 也许我们应该让他们看看那块石头。"
+    e "洛萨尔 也许我们应该让他们看看那块石头。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_82822a0c:
 
@@ -9819,11 +9807,11 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_d96dbd86:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_eb58d476:
 
-    "洛萨不情愿地把魔石交出来。"
+    "洛萨尔不情愿地把魔石交出来。"
 
 translate schinese_rewrite Lothar_Sparring_14a2abd5:
 
-    e "洛塔尔,关于垃圾..."
+    e "洛萨尔,关于垃圾..."
 
 translate schinese_rewrite Lothar_Sparring_c47ae0a7:
 
@@ -9847,11 +9835,11 @@ translate schinese_rewrite Lothar_Battle_Training_f163ce69:
 
 translate schinese_rewrite Lothar_Battle_Training_56bd063a:
 
-    e "你在看什么,洛塔尔?"
+    e "你在看什么,洛萨尔?"
 
 translate schinese_rewrite Lothar_Battle_Training_80f29ad9:
 
-    l "安布尔和乔格几天前见过你。"
+    l "安布和乔格几天前见过你。"
 
 translate schinese_rewrite Lothar_Battle_Training_c18eb48e:
 
@@ -9867,7 +9855,7 @@ translate schinese_rewrite Lothar_Battle_Training_ed54c58b:
 
 translate schinese_rewrite Lothar_Battle_Training_68af3d0a:
 
-    l "喜欢,没有像我这么英俊, 或不是英雄 鲁斯特菲尔德。"
+    l "喜欢,没有像我这么英俊, 或不是英雄 乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Battle_Training_faa7d97b:
 
@@ -9899,7 +9887,7 @@ translate schinese_rewrite Lothar_Battle_Training_17c02a7e:
 
 translate schinese_rewrite Lothar_Battle_Training_9e8cb1d4:
 
-    e "洛萨,你只是不信任我不够。"
+    e "洛萨尔,你只是不信任我不够。"
 
 translate schinese_rewrite Lothar_Battle_Training_c95939f5:
 
@@ -9907,7 +9895,7 @@ translate schinese_rewrite Lothar_Battle_Training_c95939f5:
 
 translate schinese_rewrite Lothar_Battle_Training_1d474e28:
 
-    l "下一件事情安布尔会告诉我 你被一个弱小的粘液性交..."
+    l "下一件事情安布会告诉我 你被一个弱小的粘液性交..."
 
 translate schinese_rewrite Lothar_Battle_Training_24919ecc:
 
@@ -9919,7 +9907,7 @@ translate schinese_rewrite Lothar_Battle_Training_0823e48c:
 
 translate schinese_rewrite Lothar_Battle_Training_ded2746f:
 
-    "洛特哈模仿安布尔和乔格的声音, 却笑着笑着。"
+    "洛特哈模仿安布和乔格的声音, 却笑着笑着。"
 
 translate schinese_rewrite Lothar_Battle_Training_61f23e3c:
 
@@ -9935,7 +9923,7 @@ translate schinese_rewrite Lothar_Battle_Training_9e6e1f41:
 
 translate schinese_rewrite Lothar_Battle_Training_de459af7:
 
-    "你想在洛萨面前挥动你的武器 洛萨似乎不怎么印象深刻。"
+    "你想在洛萨尔面前挥动你的武器 洛萨尔似乎不怎么印象深刻。"
 
 translate schinese_rewrite Lothar_Battle_Training_e8b9eb63:
 
@@ -9943,7 +9931,7 @@ translate schinese_rewrite Lothar_Battle_Training_e8b9eb63:
 
 translate schinese_rewrite Lothar_Battle_Training_15f0e7c8:
 
-    "过了一段时间你开始迅速喘气, 你仰望洛塔尔。"
+    "过了一段时间你开始迅速喘气, 你仰望洛萨尔。"
 
 translate schinese_rewrite Lothar_Battle_Training_82822a0c:
 
@@ -9975,7 +9963,7 @@ translate schinese_rewrite Lothar_Battle_Training_bf6f0d3d:
 
 translate schinese_rewrite Lothar_After_Sparring_f3749f72:
 
-    e "洛塔尔?"
+    e "洛萨尔?"
 
 translate schinese_rewrite Lothar_After_Sparring_762d8b1d:
 
@@ -10007,7 +9995,7 @@ translate schinese_rewrite Lothar_After_Sparring_5c92948a:
 
 translate schinese_rewrite Lothar_After_Sparring_04fd39bf:
 
-    l "欧勒也发现了这个 他真的很讨厌我 争吵和从门徒那里拿钱的想法。"
+    l "奥利也发现了这个 他真的很讨厌我 争吵和从门徒那里拿钱的想法。"
 
 translate schinese_rewrite Lothar_After_Sparring_f356d5ee:
 
@@ -10015,7 +10003,7 @@ translate schinese_rewrite Lothar_After_Sparring_f356d5ee:
 
 translate schinese_rewrite Lothar_After_Sparring_eac3c186:
 
-    l "如果我需要钱,我可以从安布尔的200金里拿到, 约格在他到酒馆露面后就到了。"
+    l "如果我需要钱,我可以从安布的200金里拿到, 约格在他到酒馆露面后就到了。"
 
 translate schinese_rewrite Lothar_After_Sparring_e5b9f00b:
 
@@ -10055,7 +10043,7 @@ translate schinese_rewrite Lothar_After_Sparring_88e635a5:
 
 translate schinese_rewrite Lothar_After_Sparring_6ae1fa6a:
 
-    e "看,洛塔尔,我只是问..."
+    e "看,洛萨尔,我只是问..."
 
 translate schinese_rewrite Lothar_After_Sparring_2042281e:
 
@@ -10087,11 +10075,11 @@ translate schinese_rewrite Lothar_After_Sparring_cc90223d:
 
 translate schinese_rewrite Lothar_After_Sparring_606671cc:
 
-    l "幸好我有这些混蛋安布尔和约格 来给我免费现金..."
+    l "幸好我有这些混蛋安布和约格 来给我免费现金..."
 
 translate schinese_rewrite Lothar_After_Sparring_53cef9a8:
 
-    e "谢谢,洛萨。"
+    e "谢谢,洛萨尔。"
 
 translate schinese_rewrite Lothar_After_Sparring_d6c09f5c:
 
@@ -10107,11 +10095,11 @@ translate schinese_rewrite Lothar_After_Sparring_ae43cad7:
 
 translate schinese_rewrite Lothar_After_Sparring_3d7f7d49:
 
-    e "好吧,洛萨..."
+    e "好吧,洛萨尔..."
 
 translate schinese_rewrite Lothar_After_Sparring_7f267e57:
 
-    "洛塔尔吐了一口气... 他显然很生气,因为你挤压他的胸口..."
+    "洛萨尔吐了一口气... 他显然很生气,因为你挤压他的胸口..."
 
 translate schinese_rewrite Lothar_After_Sparring_7f19814d:
 
@@ -10151,7 +10139,7 @@ translate schinese_rewrite Lothar_After_Sparring_14de55d4:
 
 translate schinese_rewrite Lothar_After_Sparring_f9274dfa:
 
-    "你尽可能狠狠地踢到洛萨 他显然没有尖叫或喊叫 刚刚吞下他所有的痛苦。"
+    "你尽可能狠狠地踢到洛萨尔 他显然没有尖叫或喊叫 刚刚吞下他所有的痛苦。"
 
 translate schinese_rewrite Lothar_After_Sparring_380dcf6d:
 
@@ -10231,7 +10219,7 @@ translate schinese_rewrite Lothar_Ask_Ole_Training_6ac55a38:
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_705ccbd9:
 
-    e "奥莱建议我从乔格和安布尔那里学到新技能, 以备将来的快递工作。"
+    e "奥莱建议我从乔格和安布那里学到新技能, 以备将来的快递工作。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_a6ac6daf:
 
@@ -10263,7 +10251,7 @@ translate schinese_rewrite Lothar_Ask_Ole_Training_a326ee49:
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_cbcae63f:
 
-    l "我们不能让别人说 鲁斯特菲尔德的英雄 是个软弱的副官,对吧?"
+    l "我们不能让别人说 乐斯民菲尔德的英雄 是个软弱的副官,对吧?"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_615a4d65:
 
@@ -10299,7 +10287,7 @@ translate schinese_rewrite Lothar_Report_Dummy_dff895f0:
 
 translate schinese_rewrite Lothar_Report_Dummy_657bbab3:
 
-    "洛塔尔让你笑得满满的。"
+    "洛萨尔让你笑得满满的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_77899306:
 
@@ -10319,7 +10307,7 @@ translate schinese_rewrite Lothar_Report_Dummy_35675f62:
 
 translate schinese_rewrite Lothar_Report_Dummy_0a7d3955:
 
-    "你看见Lawhar在村里寻找安布尔的时候 笑着看。"
+    "你看见Lawhar在村里寻找安布的时候 笑着看。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1ed383e8:
 
@@ -10335,7 +10323,7 @@ translate schinese_rewrite Lothar_Report_Dummy_a3fbfc05:
 
 translate schinese_rewrite Lothar_Report_Dummy_fc82aaf1:
 
-    "安布尔说,他注意到你。"
+    "安布说,他注意到你。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2f6bdb39:
 
@@ -10347,7 +10335,7 @@ translate schinese_rewrite Lothar_Report_Dummy_65dec1d2:
 
 translate schinese_rewrite Lothar_Report_Dummy_1b2e908c:
 
-    e "我和洛塔尔一起练习。"
+    e "我和洛萨尔一起练习。"
 
 translate schinese_rewrite Lothar_Report_Dummy_0b74671d:
 
@@ -10391,7 +10379,7 @@ translate schinese_rewrite Lothar_Report_Dummy_fde72e4c:
 
 translate schinese_rewrite Lothar_Report_Dummy_7ffeaa59:
 
-    "他似乎越来越不耐烦安布尔了。"
+    "他似乎越来越不耐烦安布了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_47897b65:
 
@@ -10403,7 +10391,7 @@ translate schinese_rewrite Lothar_Report_Dummy_fabfc4a9:
 
 translate schinese_rewrite Lothar_Report_Dummy_b660fe4e:
 
-    "洛特哈说,他从安布尔那里偷取黄金。"
+    "洛特哈说,他从安布那里偷取黄金。"
 
 translate schinese_rewrite Lothar_Report_Dummy_b8809f23:
 
@@ -10415,7 +10403,7 @@ translate schinese_rewrite Lothar_Report_Dummy_a20faaac:
 
 translate schinese_rewrite Lothar_Report_Dummy_1f7d4b21:
 
-    e "洛特哈尔是给我赌注的?"
+    e "洛萨尔是给我赌注的?"
 
 translate schinese_rewrite Lothar_Report_Dummy_096e947f:
 
@@ -10435,7 +10423,7 @@ translate schinese_rewrite Lothar_Report_Dummy_e105218d:
 
 translate schinese_rewrite Lothar_Report_Dummy_60904657:
 
-    l "也许在莫克肯最好的教学下 他几乎能像我一样好。"
+    l "也许在莫肯最好的教学下 他几乎能像我一样好。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e4c77edf:
 
@@ -10467,7 +10455,7 @@ translate schinese_rewrite Lothar_Report_Dummy_d088f91b:
 
 translate schinese_rewrite Lothar_Report_Dummy_0c8b9640:
 
-    "突然间,他大叹了口气,然后转过身去面对洛塔尔。"
+    "突然间,他大叹了口气,然后转过身去面对洛萨尔。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7b18fe1e:
 
@@ -10479,11 +10467,11 @@ translate schinese_rewrite Lothar_Report_Dummy_41fdb2d1:
 
 translate schinese_rewrite Lothar_Report_Dummy_73d4cb3e:
 
-    "洛塔尔转身向你解释。"
+    "洛萨尔转身向你解释。"
 
 translate schinese_rewrite Lothar_Report_Dummy_38f61fad:
 
-    l "所以,徒弟,你看,我是英雄 安布尔是可怕的森林里的怪物。"
+    l "所以,徒弟,你看,我是英雄 安布是可怕的森林里的怪物。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e0d061f4:
 
@@ -10495,7 +10483,7 @@ translate schinese_rewrite Lothar_Report_Dummy_8a378cfc:
 
 translate schinese_rewrite Lothar_Report_Dummy_7236ee85:
 
-    l "安布尔?"
+    l "安布?"
 
 translate schinese_rewrite Lothar_Report_Dummy_c617e5a3:
 
@@ -10523,7 +10511,7 @@ translate schinese_rewrite Lothar_Report_Dummy_09db9eaf:
 
 translate schinese_rewrite Lothar_Report_Dummy_b77991e1:
 
-    l "来吧,安布尔。"
+    l "来吧,安布。"
 
 translate schinese_rewrite Lothar_Report_Dummy_56aee83b:
 
@@ -10535,7 +10523,7 @@ translate schinese_rewrite Lothar_Report_Dummy_b3a79b5a:
 
 translate schinese_rewrite Lothar_Report_Dummy_6798bf7b:
 
-    "洛塔接近安布尔,他站在那里 勉强地放任洛塔触摸他的胸口。"
+    "洛塔接近安布,他站在那里 勉强地放任洛塔触摸他的胸口。"
 
 translate schinese_rewrite Lothar_Report_Dummy_264173b0:
 
@@ -10547,11 +10535,11 @@ translate schinese_rewrite Lothar_Report_Dummy_d0ebbd21:
 
 translate schinese_rewrite Lothar_Report_Dummy_061d0519:
 
-    "洛塔的爪子在安布尔的前面晃悠 他摸着胸膛 试图从伐木工人身上得到反应。"
+    "洛塔的爪子在安布的前面晃悠 他摸着胸膛 试图从伐木工人身上得到反应。"
 
 translate schinese_rewrite Lothar_Report_Dummy_34296285:
 
-    "很明显,他调情的企图 工作 当安布尔的内衣膨胀似乎 仅仅增加 越大每秒。"
+    "很明显,他调情的企图 工作 当安布的内衣膨胀似乎 仅仅增加 越大每秒。"
 
 translate schinese_rewrite Lothar_Report_Dummy_ec5e9b7e:
 
@@ -10571,19 +10559,19 @@ translate schinese_rewrite Lothar_Report_Dummy_31cb6335:
 
 translate schinese_rewrite Lothar_Report_Dummy_336ad209:
 
-    "洛塔尔突然把自己推向安布尔, 他们的嘴唇很容易接触。"
+    "洛萨尔突然把自己推向安布, 他们的嘴唇很容易接触。"
 
 translate schinese_rewrite Lothar_Report_Dummy_569bc080:
 
-    "安布勒在洛塔的背上 包着他的手臂 而洛塔继续探探他的前部 摩擦他的敏感乳头。"
+    "安布在洛塔的背上 包着他的手臂 而洛塔继续探探他的前部 摩擦他的敏感乳头。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2c79793d:
 
-    "你可以看到洛塔尔的舌头 进入安布尔的嘴里 分享唾液 当他们继续 热情的吻在你面前。"
+    "你可以看到洛萨尔的舌头 进入安布的嘴里 分享唾液 当他们继续 热情的吻在你面前。"
 
 translate schinese_rewrite Lothar_Report_Dummy_bae0f63f:
 
-    "巷道开始充满洛特哈尔和安布尔呻吟的声音 他们肯定非常喜欢..."
+    "巷道开始充满洛萨尔和安布呻吟的声音 他们肯定非常喜欢..."
 
 translate schinese_rewrite Lothar_Report_Dummy_a20cefa7:
 
@@ -10591,7 +10579,7 @@ translate schinese_rewrite Lothar_Report_Dummy_a20cefa7:
 
 translate schinese_rewrite Lothar_Report_Dummy_4263f24c:
 
-    "洛塔尔想在安布尔的裤裤处摸探 前进 但安布尔紧紧握住他的手臂。"
+    "洛萨尔想在安布的裤裤处摸探 前进 但安布紧紧握住他的手臂。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4f107a90:
 
@@ -10607,7 +10595,7 @@ translate schinese_rewrite Lothar_Report_Dummy_aff8bdee:
 
 translate schinese_rewrite Lothar_Report_Dummy_39eb1ea6:
 
-    l "安布尔,做你该做的事。"
+    l "安布,做你该做的事。"
 
 translate schinese_rewrite Lothar_Report_Dummy_9ed06834:
 
@@ -10627,7 +10615,7 @@ translate schinese_rewrite Lothar_Report_Dummy_bb8e4b4e:
 
 translate schinese_rewrite Lothar_Report_Dummy_70f71e82:
 
-    "你目光和安布尔的见面 在最坏的时间可能。"
+    "你目光和安布的见面 在最坏的时间可能。"
 
 translate schinese_rewrite Lothar_Report_Dummy_5a108a0a:
 
@@ -10659,7 +10647,7 @@ translate schinese_rewrite Lothar_Report_Dummy_6b342fbf:
 
 translate schinese_rewrite Lothar_Report_Dummy_25d99305:
 
-    "你可以在舔嘴唇时看到洛塔尔的窃听器。"
+    "你可以在舔嘴唇时看到洛萨尔的窃听器。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4adc2b35:
 
@@ -10703,7 +10691,7 @@ translate schinese_rewrite Lothar_Report_Dummy_020ce612:
 
 translate schinese_rewrite Lothar_Report_Dummy_19e2c578:
 
-    "洛塔尔大喊大叫 他的脸红了 很快解释清楚。"
+    "洛萨尔大喊大叫 他的脸红了 很快解释清楚。"
 
 translate schinese_rewrite Lothar_Report_Dummy_f2d713a9:
 
@@ -10719,8 +10707,7 @@ translate schinese_rewrite Lothar_Report_Dummy_78a9edcb:
 
 translate schinese_rewrite Lothar_Report_Dummy_b994df3c:
 
-    l "Sparring, you and me."
-
+    l "我们两个来比试。"
 translate schinese_rewrite Lothar_Report_Dummy_2075810f:
 
     l "我不得不看看你是怎么打斗的 无论以什么方式, 没有任何问题问。"
@@ -10739,7 +10726,7 @@ translate schinese_rewrite Lothar_Report_Dummy_c85d8184:
 
 translate schinese_rewrite Lothar_Report_Dummy_90ebddd7:
 
-    "洛塔尔,他似乎不相信你赢了。"
+    "洛萨尔,他似乎不相信你赢了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1b515a51:
 
@@ -10783,7 +10770,7 @@ translate schinese_rewrite Lothar_Report_Dummy_7115ea73:
 
 translate schinese_rewrite Lothar_Report_Dummy_dde0a491:
 
-    e "C -Can,我做同样的事情 你对安布尔做?"
+    e "C -Can,我做同样的事情 你对安布做?"
 
 translate schinese_rewrite Lothar_Report_Dummy_f7345534:
 
@@ -10803,7 +10790,7 @@ translate schinese_rewrite Lothar_Report_Dummy_d9f378d4:
 
 translate schinese_rewrite Lothar_Report_Dummy_9c6788f3:
 
-    "洛萨暂停 直到他真正意识到发生了什么。"
+    "洛萨尔暂停 直到他真正意识到发生了什么。"
 
 translate schinese_rewrite Lothar_Report_Dummy_32c73e95:
 
@@ -10959,7 +10946,7 @@ translate schinese_rewrite Lothar_Report_Dummy_6f8b99bc:
 
 translate schinese_rewrite Lothar_Ask_Invasion_e9fc7cea:
 
-    e "洛塔尔,你能再跟我说说你的计划吗?"
+    e "洛萨尔,你能再跟我说说你的计划吗?"
 
 translate schinese_rewrite Lothar_Ask_Invasion_ec398aec:
 
@@ -10987,7 +10974,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_c9778233:
 
 translate schinese_rewrite Lothar_Ask_Invasion_5da9276f:
 
-    e "我只是觉得欧莱应该知道真相 我没有心去欺骗他。"
+    e "我只是觉得奥利应该知道真相 我没有心去欺骗他。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_2924dde1:
 
@@ -10995,7 +10982,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_2924dde1:
 
 translate schinese_rewrite Lothar_Ask_Invasion_3f00c726:
 
-    "洛塔尔靠在砖墙上, 他给你一个侧眼,然后看远..."
+    "洛萨尔靠在砖墙上, 他给你一个侧眼,然后看远..."
 
 translate schinese_rewrite Lothar_Ask_Invasion_8a9e4785:
 
@@ -11003,7 +10990,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_8a9e4785:
 
 translate schinese_rewrite Lothar_Ask_Invasion_86b3bd22:
 
-    e "对不起,洛萨。"
+    e "对不起,洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_cd7111fc:
 
@@ -11011,7 +10998,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_cd7111fc:
 
 translate schinese_rewrite Lothar_Ask_Invasion_f28bfc83:
 
-    e "我很抱歉,洛萨。"
+    e "我很抱歉,洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_82822a0c:
 
@@ -11019,7 +11006,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_82822a0c:
 
 translate schinese_rewrite Lothar_Ask_Invasion_d823286f:
 
-    "洛塔尔仍然在视而不见,但他的表情似乎有所软化。"
+    "洛萨尔仍然在视而不见,但他的表情似乎有所软化。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_3ae156a1:
 
@@ -11027,7 +11014,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_3ae156a1:
 
 translate schinese_rewrite Lothar_Ask_Invasion_365539d0:
 
-    "你抓住了洛塔尔的爪子 慢慢地摸着他手背上的毛。"
+    "你抓住了洛萨尔的爪子 慢慢地摸着他手背上的毛。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_5fdf179d:
 
@@ -11091,7 +11078,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_71ead04e:
 
 translate schinese_rewrite Lothar_Ask_Invasion_96b64e6e:
 
-    e "听着,洛塔尔,我不知道你想要什么 但那不是我的错。"
+    e "听着,洛萨尔,我不知道你想要什么 但那不是我的错。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_82822a0c_2:
 
@@ -11139,7 +11126,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_fcf694db:
 
 translate schinese_rewrite Lothar_Ask_Invasion_857962f5:
 
-    "但是当你回到现实 看着洛塔尔盯着你看时 兴奋就消失了..."
+    "但是当你回到现实 看着洛萨尔盯着你看时 兴奋就消失了..."
 
 translate schinese_rewrite Lothar_Ask_Invasion_9af00f01:
 
@@ -11163,7 +11150,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_53a30a74:
 
 translate schinese_rewrite Lothar_Ask_Invasion_e9fc7cea_1:
 
-    e "洛塔尔,你能再跟我说说你的计划吗?"
+    e "洛萨尔,你能再跟我说说你的计划吗?"
 
 translate schinese_rewrite Lothar_Ask_Invasion_58fe2069:
 
@@ -11235,7 +11222,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_ae95b06d:
 
 translate schinese_rewrite Lothar_Ask_Invasion_b5cff9c2:
 
-    e "好的,谢谢洛萨,我很快回来。"
+    e "好的,谢谢洛萨尔,我很快回来。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_b79eb010:
 
@@ -11251,7 +11238,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_175e28ba:
 
 translate schinese_rewrite Lothar_Report_Goat_f5072eae:
 
-    e "洛萨,我从山羊回来。"
+    e "洛萨尔,我从山羊回来。"
 
 translate schinese_rewrite Lothar_Report_Goat_eb6c705e:
 
@@ -11331,11 +11318,11 @@ translate schinese_rewrite Lothar_Report_Goat_34b77199:
 
 translate schinese_rewrite Lothar_Report_Goat_0b9ce1a9:
 
-    e "再见,洛塔尔。"
+    e "再见,洛萨尔。"
 
 translate schinese_rewrite Lothar_Outfit_01_63265da8:
 
-    e "洛塔尔,你有时间吗?"
+    e "洛萨尔,你有时间吗?"
 
 translate schinese_rewrite Lothar_Outfit_01_e2ac1690:
 
@@ -11343,11 +11330,11 @@ translate schinese_rewrite Lothar_Outfit_01_e2ac1690:
 
 translate schinese_rewrite Lothar_Outfit_01_e0a8bbac:
 
-    "洛塔尔的眼睛在你的下身上徘徊 你的脸脸红了。"
+    "洛萨尔的眼睛在你的下身上徘徊 你的脸脸红了。"
 
 translate schinese_rewrite Lothar_Outfit_01_6ab3d170:
 
-    e "拉希姆想让我听听你对这套衣服的看法？"
+    e "雷希姆想让我听听你对这套衣服的看法？"
 
 translate schinese_rewrite Lothar_Outfit_01_f3862c90:
 
@@ -11391,7 +11378,7 @@ translate schinese_rewrite Lothar_Outfit_02_57de4d63:
 
 translate schinese_rewrite Lothar_Outfit_02_b7edd410:
 
-    "洛萨闭上眼睛 开始讲课。"
+    "洛萨尔闭上眼睛 开始讲课。"
 
 translate schinese_rewrite Lothar_Outfit_02_19dcc86a:
 
@@ -11511,7 +11498,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_d0a62b32:
 
 translate schinese_rewrite Lothar_Invasion_Quest_ad369d27:
 
-    e "洛塔尔 弗坎告诉我他不会打仗的。"
+    e "洛萨尔 弗坎告诉我他不会打仗的。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_4a0a5618:
 
@@ -11575,7 +11562,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_c475020e:
 
 translate schinese_rewrite Lothar_Invasion_Quest_bd0d91fb:
 
-    "你感觉到一个人物把你和洛萨从后面遮住 是奥勒 狼马上就会离开你。"
+    "你感觉到一个人物把你和洛萨尔从后面遮住 是奥勒 狼马上就会离开你。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_645bc351:
 
@@ -11587,7 +11574,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_4adbfc47:
 
 translate schinese_rewrite Lothar_Invasion_Quest_d4dba864:
 
-    o "洛塔尔?"
+    o "洛萨尔?"
 
 translate schinese_rewrite Lothar_Invasion_Quest_938a8651:
 
@@ -11607,7 +11594,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_546704a4:
 
 translate schinese_rewrite Lothar_Invasion_Quest_95493788:
 
-    e "洛萨让我进入山羊部落。"
+    e "洛萨尔让我进入山羊部落。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_a4fd08d1:
 
@@ -11647,7 +11634,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_cfcacba8:
 
 translate schinese_rewrite Lothar_Invasion_Quest_01d7ea3a:
 
-    o "回到你的假英雄幻想中去,洛萨 别让我告诉你两次。"
+    o "回到你的假英雄幻想中去,洛萨尔 别让我告诉你两次。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_0ad5bfe4:
 
@@ -11667,7 +11654,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_090beca5:
 
 translate schinese_rewrite Lothar_Invasion_Quest_fc66d641:
 
-    o "所以,你留下来,出去做你平常做的事吧,我怀疑洛塔尔会再问你同样的条件。"
+    o "所以,你留下来,出去做你平常做的事吧,我怀疑洛萨尔会再问你同样的条件。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_ee10a53b:
 
@@ -11699,7 +11686,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_72a33094_1:
 
 translate schinese_rewrite Lothar_Invasion_Quest_5ac7bc35:
 
-    e "好的,再次感谢,欧莱。"
+    e "好的,再次感谢,奥利。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_dddee161:
 
@@ -11707,7 +11694,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_dddee161:
 
 translate schinese_rewrite Lothar_Invasion_Quest_df4af617:
 
-    e "奥利, 洛萨刚让我偷看他的裤子,或者别的什么。"
+    e "奥利, 洛萨尔刚让我偷看他的裤子,或者别的什么。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_631312d6:
 
@@ -11715,8 +11702,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_631312d6:
 
 translate schinese_rewrite Lothar_Invasion_Quest_fc0705df:
 
-    o "哦…… [e]. Why do you have to fuck everyone in the village..."
-
+    o "哦……[e]，你非得把村里每个人都干一遍吗……"
 translate schinese_rewrite Lothar_Invasion_Quest_ff634259:
 
     e "嘿,他问我。"
@@ -11767,7 +11753,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_5799a298:
 
 translate schinese_rewrite Lothar_Invasion_Quest_a5337e5a:
 
-    e "听着,洛萨,我还不确定 是否要加入山羊部落的事。"
+    e "听着,洛萨尔,我还不确定 是否要加入山羊部落的事。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_158ff825:
 
@@ -11787,7 +11773,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_30666182:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_ecfd17f1:
 
-    l "我从乔格和安布尔那里听说你训练的事了。"
+    l "我从乔格和安布那里听说你训练的事了。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_38f7fab4:
 
@@ -11799,11 +11785,11 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_9002e171:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0a390f53:
 
-    l "安布尔说,你表现 良好的训练。"
+    l "安布说,你表现 良好的训练。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_39b1f6b7:
 
-    l "足够了,你应该像他一样大... 或者至少安布尔是这么想的。"
+    l "足够了,你应该像他一样大... 或者至少安布是这么想的。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_37675825:
 
@@ -11815,7 +11801,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_9af5ef95:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_4bec1455:
 
-    "洛萨手,你看起来是你自己的图画。"
+    "洛萨尔手,你看起来是你自己的图画。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_7bb05f89:
 
@@ -11823,7 +11809,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_7bb05f89:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_60b1c570:
 
-    l "安布尔说你一开始有点不稳。"
+    l "安布说你一开始有点不稳。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_86aa6ba8:
 
@@ -11831,7 +11817,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_86aa6ba8:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_9ecc73c2:
 
-    e "我从安布尔那里学到了很多东西。"
+    e "我从安布那里学到了很多东西。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0871d0d8:
 
@@ -11895,11 +11881,11 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_f69bde0e:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_62a910ae:
 
-    l "但他们仍然在密谋一些事 却不告诉卢斯特菲尔德。"
+    l "但他们仍然在密谋一些事 却不告诉乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_7931cd72:
 
-    e "但听起来他们并不是真的想伤害卢斯特菲尔德。"
+    e "但听起来他们并不是真的想伤害乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_cd794762:
 
@@ -11999,7 +11985,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_21c94aca:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_d4286f7e:
 
-    "洛萨咳嗽 然后自己直的。"
+    "洛萨尔咳嗽 然后自己直的。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_79222641:
 
@@ -12007,7 +11993,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_79222641:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_52d929a9:
 
-    l "乔格和安布尔都建议你和我们一起参加特别训练。"
+    l "乔格和安布都建议你和我们一起参加特别训练。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_14abcdb8:
 
@@ -12019,7 +12005,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_9c056960:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_4cd0f256:
 
-    "你相信看到洛塔尔的脸颊有点红。"
+    "你相信看到洛萨尔的脸颊有点红。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_22b7d9b6:
 
@@ -12031,7 +12017,7 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_1294872c:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_3993c3c6:
 
-    "也许你已经想象过了 但当洛塔尔说这个词时 压力似乎很大。"
+    "也许你已经想象过了 但当洛萨尔说这个词时 压力似乎很大。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_f0c0894f:
 
@@ -12083,7 +12069,7 @@ translate schinese_rewrite Lothar_Ask_Amble_Jog_bea7af26:
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_3c09c96d:
 
-    l "例如,安布尔可以直接击碎训练假人。"
+    l "例如,安布可以直接击碎训练假人。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_557a2e00:
 
@@ -12095,7 +12081,7 @@ translate schinese_rewrite Lothar_Ask_Amble_Jog_3e1a05bd:
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_f7c09558:
 
-    "洛萨骄傲地胸口抽起胸膛。"
+    "洛萨尔骄傲地胸口抽起胸膛。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_a764de8f:
 
@@ -12123,15 +12109,15 @@ translate schinese_rewrite Lothar_Ask_Amble_Jog_864fa840:
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_1376ca92:
 
-    e "你真好,洛萨。"
+    e "你真好,洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_325beb27:
 
-    "洛塔尔的脸脸都红了一点 对你赞美,他咳嗽要遮住。"
+    "洛萨尔的脸脸都红了一点 对你赞美,他咳嗽要遮住。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_f5eb309e:
 
-    l "这没什么 朋友 这是我作为卢斯特菲尔德英雄的工作的一部分。"
+    l "这没什么 朋友 这是我作为乐斯民菲尔德英雄的工作的一部分。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_49738d93:
 
@@ -12147,7 +12133,7 @@ translate schinese_rewrite Lothar_Ask_Amble_Jog_4d21639f:
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_2a5603fb:
 
-    "洛萨的摇摆。"
+    "洛萨尔的摇摆。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_a88199e7:
 
@@ -12167,7 +12153,7 @@ translate schinese_rewrite Lothar_Night_Greet_06ccd779:
 
 translate schinese_rewrite Lothar_Night_Greet_524f102e:
 
-    e "洛萨 我听说你晚上会去酒馆。"
+    e "洛萨尔 我听说你晚上会去酒馆。"
 
 translate schinese_rewrite Lothar_Night_Greet_09d2a1aa:
 
@@ -12175,7 +12161,7 @@ translate schinese_rewrite Lothar_Night_Greet_09d2a1aa:
 
 translate schinese_rewrite Lothar_Night_Greet_119f8b57:
 
-    l "嘿,肯恩,拿些啤酒来。"
+    l "嘿,凯恩,拿些啤酒来。"
 
 translate schinese_rewrite Lothar_Night_Greet_05643719:
 
@@ -12187,7 +12173,7 @@ translate schinese_rewrite Lothar_Night_Greet_13e59131:
 
 translate schinese_rewrite Lothar_Night_Greet_be2f8761:
 
-    e "我只是为肯恩工作 因为我身上没有钱 我真的不喜欢这么做。"
+    e "我只是为凯恩工作 因为我身上没有钱 我真的不喜欢这么做。"
 
 translate schinese_rewrite Lothar_Night_Greet_a3a7ff58:
 
@@ -12203,7 +12189,7 @@ translate schinese_rewrite Lothar_Night_Greet_b8d32fe9:
 
 translate schinese_rewrite Lothar_Night_Greet_633b90d9:
 
-    l "我接受肯恩的话 下次你回来工作时告诉我。"
+    l "我接受凯恩的话 下次你回来工作时告诉我。"
 
 translate schinese_rewrite Lothar_Night_Greet_2b68d44f:
 
@@ -12219,7 +12205,7 @@ translate schinese_rewrite Lothar_Night_Greet_6ccc494e:
 
 translate schinese_rewrite Lothar_Night_Greet_8fcbc8d4:
 
-    l "嘿,肯恩,你忘了啤酒的事吗?"
+    l "嘿,凯恩,你忘了啤酒的事吗?"
 
 translate schinese_rewrite Lothar_Night_Greet_471f70f3:
 
@@ -12247,7 +12233,7 @@ translate schinese_rewrite Lothar_Night_Greet_a725761e:
 
 translate schinese_rewrite Lothar_Night_Greet_d54c3f1c:
 
-    e "谢谢肯恩,这酒馆真的很舒适。"
+    e "谢谢凯恩,这酒馆真的很舒适。"
 
 translate schinese_rewrite Lothar_Night_Greet_b958372d:
 
@@ -12267,7 +12253,7 @@ translate schinese_rewrite Lothar_Night_Greet_ffb1ef5c:
 
 translate schinese_rewrite Lothar_Night_Greet_7a8ad778:
 
-    l "谢谢你的啤酒,肯恩。"
+    l "谢谢你的啤酒,凯恩。"
 
 translate schinese_rewrite Lothar_Night_Greet_8395d446:
 
@@ -12279,7 +12265,7 @@ translate schinese_rewrite Lothar_Night_Greet_44fbec2c:
 
 translate schinese_rewrite Lothar_Night_Greet_9936233d:
 
-    e "再见,肯恩。"
+    e "再见,凯恩。"
 
 translate schinese_rewrite Lothar_Night_Greet_48c57f87:
 
@@ -12299,7 +12285,7 @@ translate schinese_rewrite Lothar_Night_Greet_e6e5a130:
 
 translate schinese_rewrite Lothar_Night_Greet_1abf65ea:
 
-    "当你往后看时,你在酒馆门口看到两个大牛肉男,朝你和洛特哈尔走来,洛特哈尔激动地朝他们挥手。"
+    "当你往后看时,你在酒馆门口看到两个大牛肉男,朝你和洛萨尔走来,洛萨尔激动地朝他们挥手。"
 
 translate schinese_rewrite Lothar_Night_Greet_b15b28db:
 
@@ -12311,11 +12297,11 @@ translate schinese_rewrite Lothar_Night_Greet_bdc6a726:
 
 translate schinese_rewrite Lothar_Night_Greet_09172bb3:
 
-    "他们俩站在洛塔尔后面 盯着你,怀疑你。"
+    "他们俩站在洛萨尔后面 盯着你,怀疑你。"
 
 translate schinese_rewrite Lothar_Night_Greet_f5398a5c:
 
-    l "他是[e] 这是乔格 这是安布尔。"
+    l "他是[e] 这是乔格 这是安布。"
 
 translate schinese_rewrite Lothar_Night_Greet_67e9e342:
 
@@ -12323,7 +12309,7 @@ translate schinese_rewrite Lothar_Night_Greet_67e9e342:
 
 translate schinese_rewrite Lothar_Night_Greet_626bc394:
 
-    e "很高兴见到你,乔格 也很高兴见到你,安布尔。"
+    e "很高兴见到你,乔格 也很高兴见到你,安布。"
 
 translate schinese_rewrite Lothar_Night_Greet_ebe2b749:
 
@@ -12375,7 +12361,7 @@ translate schinese_rewrite Lothar_Night_Greet_27276135:
 
 translate schinese_rewrite Lothar_Night_Greet_27c51ad9:
 
-    e "洛塔尔的事我很抱歉 我想我还没完成奥勒的探险。"
+    e "洛萨尔的事我很抱歉 我想我还没完成奥勒的探险。"
 
 translate schinese_rewrite Lothar_Night_Greet_5c3f7a84:
 
@@ -12387,7 +12373,7 @@ translate schinese_rewrite Lothar_Night_Greet_bfa51bcd:
 
 translate schinese_rewrite Lothar_Night_Greet_92f1e906:
 
-    e "我现在得做其他事了 我得离开洛萨 还有你们。"
+    e "我现在得做其他事了 我得离开洛萨尔 还有你们。"
 
 translate schinese_rewrite Lothar_Night_Greet_a9ebacb2:
 
@@ -12403,7 +12389,7 @@ translate schinese_rewrite Lothar_Night_Greet_774462ee:
 
 translate schinese_rewrite Lothar_Night_Greet_3b6410c2:
 
-    "看着洛塔尔的烦恼脸 你决定让三个人安静地喝啤酒 对你的安全更好。"
+    "看着洛萨尔的烦恼脸 你决定让三个人安静地喝啤酒 对你的安全更好。"
 
 translate schinese_rewrite Lothar_Night_Greet_259b479f:
 
@@ -12439,7 +12425,7 @@ translate schinese_rewrite Lothar_Night_Greet_27276135_1:
 
 translate schinese_rewrite Lothar_Night_Greet_27c51ad9_1:
 
-    e "洛塔尔的事我很抱歉 我想我还没完成奥勒的探险。"
+    e "洛萨尔的事我很抱歉 我想我还没完成奥勒的探险。"
 
 translate schinese_rewrite Lothar_Night_Greet_5c3f7a84_1:
 
@@ -12451,7 +12437,7 @@ translate schinese_rewrite Lothar_Night_Greet_bfa51bcd_1:
 
 translate schinese_rewrite Lothar_Night_Greet_3b6410c2_1:
 
-    "看着洛塔尔的烦恼脸 你决定让三个人安静地喝啤酒 对你的安全更好。"
+    "看着洛萨尔的烦恼脸 你决定让三个人安静地喝啤酒 对你的安全更好。"
 
 translate schinese_rewrite Lothar_Night_Greet_5bf2638b:
 
@@ -12487,7 +12473,7 @@ translate schinese_rewrite Lothar_Night_Greet_e6d99e85:
 
 translate schinese_rewrite Lothar_Night_Greet_835b5c68:
 
-    e "好吧,洛萨。"
+    e "好吧,洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_4bd2de9c:
 
@@ -12507,11 +12493,11 @@ translate schinese_rewrite Lothar_Night_Greet_32f7f518:
 
 translate schinese_rewrite Lothar_Night_Greet_254b2010:
 
-    e "洛塔尔,我们能不能不要当着大家的面谈论这个..."
+    e "洛萨尔,我们能不能不要当着大家的面谈论这个..."
 
 translate schinese_rewrite Lothar_Night_Greet_c9514aae:
 
-    e "我不确定我想再和假人打一场 洛萨。"
+    e "我不确定我想再和假人打一场 洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_cd59b4af:
 
@@ -12531,7 +12517,7 @@ translate schinese_rewrite Lothar_Night_Greet_0da43084:
 
 translate schinese_rewrite Lothar_Night_Greet_bad30a84:
 
-    e "我想,谢谢洛萨。"
+    e "我想,谢谢洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_98a4eced:
 
@@ -12551,8 +12537,7 @@ translate schinese_rewrite Lothar_Night_Greet_14fa7471:
 
 translate schinese_rewrite Lothar_Night_Greet_ef32a34c:
 
-    e "Uh... Sorry I forgot about it."
-
+    e "呃……抱歉，我忘了。"
 translate schinese_rewrite Lothar_Night_Greet_c197a0f7:
 
     l "根本说不通啊 [e] 你现在只是耍我,是不是?"
@@ -12583,8 +12568,7 @@ translate schinese_rewrite Lothar_Night_Greet_476f07d4:
 
 translate schinese_rewrite Lothar_Night_Greet_ef32a34c_1:
 
-    e "Uh... Sorry I forgot about it."
-
+    e "呃……抱歉，我忘了。"
 translate schinese_rewrite Lothar_Night_Greet_43590ed7:
 
     l "这完全说不通,[e],你只是在耍我,是不是?"
@@ -12619,7 +12603,7 @@ translate schinese_rewrite Lothar_Night_Greet_1aa7ddf8:
 
 translate schinese_rewrite Lothar_Night_Greet_0d1c16af:
 
-    e "你训练后我出去探险,洛萨。"
+    e "你训练后我出去探险,洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_e6d2a4a5:
 
@@ -12651,7 +12635,7 @@ translate schinese_rewrite Lothar_Night_Greet_e6d99e85_1:
 
 translate schinese_rewrite Lothar_Night_Greet_835b5c68_1:
 
-    e "好吧,洛萨。"
+    e "好吧,洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_4bd2de9c_1:
 
@@ -12671,11 +12655,11 @@ translate schinese_rewrite Lothar_Night_Greet_32f7f518_1:
 
 translate schinese_rewrite Lothar_Night_Greet_254b2010_1:
 
-    e "洛塔尔,我们能不能不要当着大家的面谈论这个..."
+    e "洛萨尔,我们能不能不要当着大家的面谈论这个..."
 
 translate schinese_rewrite Lothar_Night_Greet_c9514aae_1:
 
-    e "我不确定我想再和假人打一场 洛萨。"
+    e "我不确定我想再和假人打一场 洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_cd59b4af_1:
 
@@ -12695,7 +12679,7 @@ translate schinese_rewrite Lothar_Night_Greet_0da43084_1:
 
 translate schinese_rewrite Lothar_Night_Greet_bad30a84_1:
 
-    e "我想,谢谢洛萨。"
+    e "我想,谢谢洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_98a4eced_1:
 
@@ -12707,7 +12691,7 @@ translate schinese_rewrite Lothar_Night_Greet_3cdf02a7_1:
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_1df400dd:
 
-    e "洛塔尔,你觉得山羊部落怎么样?"
+    e "洛萨尔,你觉得山羊部落怎么样?"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_5a7043e2:
 
@@ -12715,7 +12699,7 @@ translate schinese_rewrite Lothar_Ask_Goat_Tribe_5a7043e2:
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_a41a6e16:
 
-    l "也许我会成为卢斯特菲尔德英雄的英雄。"
+    l "也许我会成为乐斯民菲尔德英雄的英雄。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_bd23aa8c:
 
@@ -12735,7 +12719,7 @@ translate schinese_rewrite Lothar_Ask_Goat_Tribe_1c3c4f33:
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_8418f081:
 
-    e "福坎让我给拉希姆寄一封信... 与卢斯特菲尔德和平相处。"
+    e "弗坎让我给雷希姆寄一封信... 与乐斯民菲尔德和平相处。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_1c61d788:
 
@@ -12743,7 +12727,7 @@ translate schinese_rewrite Lothar_Ask_Goat_Tribe_1c61d788:
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_ae71a7ca:
 
-    l "我马上去杀了那头山羊 头当奖杯 因为我们卢斯特菲尔德人应得的。"
+    l "我马上去杀了那头山羊 头当奖杯 因为我们乐斯民菲尔德人应得的。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_eee0b01b:
 
@@ -12759,7 +12743,7 @@ translate schinese_rewrite Lothar_Ask_Goat_Tribe_6eb58054:
 
 translate schinese_rewrite Lothar_After_River_Trip_1d7fb0d4:
 
-    e "洛塔尔 旅行后你感觉如何？"
+    e "洛萨尔 旅行后你感觉如何？"
 
 translate schinese_rewrite Lothar_After_River_Trip_2cab530a:
 
@@ -12807,7 +12791,7 @@ translate schinese_rewrite Lothar_After_River_Trip_855dcc47:
 
 translate schinese_rewrite Lothar_After_River_Trip_21364cf7:
 
-    e "嘿,洛萨,你们两个应该弥补 发生的一切。"
+    e "嘿,洛萨尔,你们两个应该弥补 发生的一切。"
 
 translate schinese_rewrite Lothar_After_River_Trip_f37a4283:
 
@@ -12891,7 +12875,7 @@ translate schinese_rewrite Lothar_After_River_Trip_a6c14109:
 
 translate schinese_rewrite Lothar_After_River_Trip_11ac8414:
 
-    "洛塔尔举起他的柔软手 拍拍你的头好几次 当你在他的爪子下摇动时他笑。"
+    "洛萨尔举起他的柔软手 拍拍你的头好几次 当你在他的爪子下摇动时他笑。"
 
 translate schinese_rewrite Lothar_After_River_Trip_5fc7e084:
 
@@ -12907,7 +12891,7 @@ translate schinese_rewrite Lothar_After_River_Trip_5d4958ce:
 
 translate schinese_rewrite Lothar_After_River_Trip_ccd60e42:
 
-    l "我为安布尔准备了一些昂贵的啤酒 如果我非说不可 他太爱啤酒了。"
+    l "我为安布准备了一些昂贵的啤酒 如果我非说不可 他太爱啤酒了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_43c6451e:
 
@@ -12919,7 +12903,7 @@ translate schinese_rewrite Lothar_After_River_Trip_8db4fc7a:
 
 translate schinese_rewrite Lothar_After_River_Trip_141e61a1:
 
-    e "这就是为什么肯恩那么爱你。"
+    e "这就是为什么凯恩那么爱你。"
 
 translate schinese_rewrite Lothar_After_River_Trip_4bd9d55d:
 
@@ -12963,7 +12947,7 @@ translate schinese_rewrite Lothar_After_River_Trip_d015f1d1:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_05ce4aa0:
 
-    e "洛萨,你手上拿着什么?"
+    e "洛萨尔,你手上拿着什么?"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_2d7418a6:
 
@@ -13003,7 +12987,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_7fdad9eb:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_ee5dba89:
 
-    e "我不是为了你,洛萨,你要么自己去,要么跟我一起去。"
+    e "我不是为了你,洛萨尔,你要么自己去,要么跟我一起去。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_32cc3733:
 
@@ -13019,7 +13003,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_82822a0c:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_3170c7aa:
 
-    "洛萨看一眼,但你已经看透了他无稽之谈。他看了你一眼,然后转过身去,然后转过身去。"
+    "洛萨尔看一眼,但你已经看透了他无稽之谈。他看了你一眼,然后转过身去,然后转过身去。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_2e551c38:
 
@@ -13027,7 +13011,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_2e551c38:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_89ca8f3c:
 
-    e "好洛萨。"
+    e "好洛萨尔。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_4233141d:
 
@@ -13035,7 +13019,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_4233141d:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_3d6c50f8:
 
-    "你带洛萨去当铺,现在没有顾客了。"
+    "你带洛萨尔去当铺,现在没有顾客了。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_82822a0c_1:
 
@@ -13051,7 +13035,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_53727b6f:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_4f284e49:
 
-    s "洛萨。"
+    s "洛萨尔。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_d90b99f6:
 
@@ -13067,7 +13051,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_8e6121c9:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_c06c02be:
 
-    s "去你妈的,洛萨。"
+    s "去你妈的,洛萨尔。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_c95b6c6c:
 
@@ -13103,7 +13087,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_a9009154:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_291da2d6:
 
-    s "是的 洛萨 做个男人 接受你的行为的后果。"
+    s "是的 洛萨尔 做个男人 接受你的行为的后果。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_5292f9d9:
 
@@ -13131,7 +13115,7 @@ translate schinese_rewrite Lothar_Mossy_Artifact_fc04e7eb:
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_ae0bd0e2:
 
-    e "不,我想洛塔尔已经受够了。"
+    e "不,我想洛萨尔已经受够了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_28267ae2:
 
@@ -13171,7 +13155,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_No_dfc4bbcd:
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_1dd30a8e:
 
-    "塞布拿走了洛塔尔手上的艺术品 用他的工具检查。"
+    "塞布拿走了洛萨尔手上的艺术品 用他的工具检查。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_e5ac6eed:
 
@@ -13191,11 +13175,11 @@ translate schinese_rewrite Lothar_Sebas_Kick_No_c9e60a92:
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_aaeb98a4:
 
-    s "你在哪里找到的,洛塔尔?"
+    s "你在哪里找到的,洛萨尔?"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_953e925d:
 
-    l "河里有苔榈,你知道在哪,欧勒以前做苔榈汤的地方。"
+    l "河里有苔榈,你知道在哪,奥利以前做苔榈汤的地方。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_3252926f:
 
@@ -13239,7 +13223,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_427f03db:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_a0ec2b92:
 
-    "洛塔尔慢慢退缩,只看到塞巴斯一言不发地走在他身后,他锁上门,把牌子翻到关上,然后又走回去看洛塔尔。"
+    "洛萨尔慢慢退缩,只看到塞巴斯一言不发地走在他身后,他锁上门,把牌子翻到关上,然后又走回去看洛萨尔。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_90caff68:
 
@@ -13319,7 +13303,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_5b3442bd:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_a906839e:
 
-    "第一次你听到洛塔尔的 略微高调的尖叫声, 这听起来几乎像一个孩子的声音。"
+    "第一次你听到洛萨尔的 略微高调的尖叫声, 这听起来几乎像一个孩子的声音。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_b95f7847:
 
@@ -13343,11 +13327,11 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_7647f29f:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_470ca797:
 
-    "塞巴斯把他的脚推到洛塔尔的腿中间。"
+    "塞巴斯把他的脚推到洛萨尔的腿中间。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_7d6dbf5f:
 
-    "你听到一个响亮的震动 散布在商店里, 跟着洛塔尔 紧紧抓住自己的裤带。"
+    "你听到一个响亮的震动 散布在商店里, 跟着洛萨尔 紧紧抓住自己的裤带。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_3f3ba147:
 
@@ -13355,7 +13339,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_3f3ba147:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_5c6fb6c9:
 
-    "洛塔尔的身体痛苦地流淌着 他慢慢地跪在地上 之后就倒塌了 仍然抱着他的腰部。"
+    "洛萨尔的身体痛苦地流淌着 他慢慢地跪在地上 之后就倒塌了 仍然抱着他的腰部。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_e82b8872:
 
@@ -13379,7 +13363,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_d16184ce:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_4c3cbebd:
 
-    "你和塞巴斯待几分钟 洛哈尔在地上呻吟 几乎没空。"
+    "你和塞巴斯待几分钟 洛萨尔在地上呻吟 几乎没空。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_08496ef7:
 
@@ -13435,7 +13419,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_4ba0b084:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_900cab52:
 
-    s "然后我们明天就走 让洛塔尔躺一会。"
+    s "然后我们明天就走 让洛萨尔躺一会。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_5f0d666f:
 
@@ -13459,8 +13443,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_4d71af07:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_27a1a890:
 
-    e "Uh... What were you thinking..."
-
+    e "呃……你当时在想什么……"
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_14dfc29c:
 
     s "你以为我在想什么?"
@@ -13475,7 +13458,7 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_bcc41471:
 
 translate schinese_rewrite Lothar_Postal_Training_bc86c150:
 
-    e "洛塔尔,我准备好训练了！"
+    e "洛萨尔,我准备好训练了！"
 
 translate schinese_rewrite Lothar_Postal_Training_8f3f1f53:
 
@@ -13483,7 +13466,7 @@ translate schinese_rewrite Lothar_Postal_Training_8f3f1f53:
 
 translate schinese_rewrite Lothar_Postal_Training_fda39583:
 
-    e "是的,洛萨,我给你看我有什么。"
+    e "是的,洛萨尔,我给你看我有什么。"
 
 translate schinese_rewrite Lothar_Postal_Training_b6559858:
 
@@ -13567,7 +13550,7 @@ translate schinese_rewrite Lothar_Postal_Training_99a9f456:
 
 translate schinese_rewrite Lothar_Postal_Training_8feaeffd:
 
-    "洛萨越过他的手臂越难,你显然可以清楚地看到他试图转移话题的尴尬。你可以想象,如果这是真的,那将是一个混乱的局面。"
+    "洛萨尔越过他的手臂越难,你显然可以清楚地看到他试图转移话题的尴尬。你可以想象,如果这是真的,那将是一个混乱的局面。"
 
 translate schinese_rewrite Lothar_Postal_Training_2aa99488:
 
@@ -13623,7 +13606,7 @@ translate schinese_rewrite Lothar_Postal_Training_611ca771:
 
 translate schinese_rewrite Lothar_Postal_Training_0151ee6f:
 
-    "洛塔尔用手指指着你的胸口 直到它碰不到你 你心跳突然跳动 当他滑下手指时。"
+    "洛萨尔用手指指着你的胸口 直到它碰不到你 你心跳突然跳动 当他滑下手指时。"
 
 translate schinese_rewrite Lothar_Postal_Training_ba477b17:
 
@@ -13635,11 +13618,11 @@ translate schinese_rewrite Lothar_Postal_Training_eb615820:
 
 translate schinese_rewrite Lothar_Postal_Training_0dfa31be:
 
-    e "O -OK,洛萨。"
+    e "O -OK,洛萨尔。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3e4287a4:
 
-    e "洛萨,我从练习回来。"
+    e "洛萨尔,我从练习回来。"
 
 translate schinese_rewrite Lothar_Postal_Finish_19ad34a8:
 
@@ -13647,7 +13630,7 @@ translate schinese_rewrite Lothar_Postal_Finish_19ad34a8:
 
 translate schinese_rewrite Lothar_Postal_Finish_9c09e4cc:
 
-    "洛塔尔走进小巷 几秒钟后他回来 嘲笑你那糊涂的表情。"
+    "洛萨尔走进小巷 几秒钟后他回来 嘲笑你那糊涂的表情。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3d09b669:
 
@@ -13695,7 +13678,7 @@ translate schinese_rewrite Lothar_Postal_Finish_c7b5f685:
 
 translate schinese_rewrite Lothar_Postal_Finish_a9a5017e:
 
-    "奇怪的是,洛特哈尔没有在你问完之前把你切开, 相反,他回头看小巷,盯着假人看。"
+    "奇怪的是,洛萨尔没有在你问完之前把你切开, 相反,他回头看小巷,盯着假人看。"
 
 translate schinese_rewrite Lothar_Postal_Finish_1e73f1f7:
 
@@ -13719,11 +13702,11 @@ translate schinese_rewrite Lothar_Postal_Finish_51970578:
 
 translate schinese_rewrite Lothar_Postal_Finish_b097527c:
 
-    e "好的,谢谢,再见,洛萨。"
+    e "好的,谢谢,再见,洛萨尔。"
 
 translate schinese_rewrite Lothar_Postal_Finish_2dd9edd6:
 
-    "洛塔尔走进小巷 几秒钟后 他回来时脸上的表情很奇怪。"
+    "洛萨尔走进小巷 几秒钟后 他回来时脸上的表情很奇怪。"
 
 translate schinese_rewrite Lothar_Postal_Finish_50fcf88a:
 
@@ -13731,11 +13714,11 @@ translate schinese_rewrite Lothar_Postal_Finish_50fcf88a:
 
 translate schinese_rewrite Lothar_Postal_Finish_7188cbc6:
 
-    e "对不起,洛萨,我以为假人不会注意到..."
+    e "对不起,洛萨尔,我以为假人不会注意到..."
 
 translate schinese_rewrite Lothar_Postal_Finish_ed2a2a1f:
 
-    l "我,卢斯特菲尔德的英雄, 对待你给予款待, 给予你实践 和这样的, 这就是你回报恩惠的方式?"
+    l "我,乐斯民菲尔德的英雄, 对待你给予款待, 给予你实践 和这样的, 这就是你回报恩惠的方式?"
 
 translate schinese_rewrite Lothar_Postal_Finish_5e4f4aa6:
 
@@ -13775,7 +13758,7 @@ translate schinese_rewrite Lothar_Postal_Finish_74db1a7f:
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_06b17b2b:
 
-    e "洛塔尔,你觉得村子怎么样?"
+    e "洛萨尔,你觉得村子怎么样?"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_01da349a:
 
@@ -13847,7 +13830,7 @@ translate schinese_rewrite Lothar_Ask_Lusterfield_0d715947:
 
 translate schinese_rewrite Lothar_Ask_Hero_ebbb2876:
 
-    e "嘿,洛萨,你怎么成为 卢斯特菲尔德的英雄的?"
+    e "嘿,洛萨尔,你怎么成为 乐斯民菲尔德的英雄的?"
 
 translate schinese_rewrite Lothar_Ask_Hero_0301a476:
 
@@ -13863,7 +13846,7 @@ translate schinese_rewrite Lothar_Ask_Hero_e35c52e1:
 
 translate schinese_rewrite Lothar_Ask_Hero_bdc33bea:
 
-    "洛塔尔从左口袋里拿出笔记本 几页纸飞出破碎的小书 他匆匆忙地逐个捡起来 兴奋地读出来。"
+    "洛萨尔从左口袋里拿出笔记本 几页纸飞出破碎的小书 他匆匆忙地逐个捡起来 兴奋地读出来。"
 
 translate schinese_rewrite Lothar_Ask_Hero_0062c425:
 
@@ -13887,7 +13870,7 @@ translate schinese_rewrite Lothar_Ask_Hero_3cccf798:
 
 translate schinese_rewrite Lothar_Ask_Hero_d95381b8:
 
-    e "嘿,洛萨,你能总结一下吗?"
+    e "嘿,洛萨尔,你能总结一下吗?"
 
 translate schinese_rewrite Lothar_Ask_Hero_346e9f72:
 
@@ -13923,7 +13906,7 @@ translate schinese_rewrite Lothar_Ask_Hero_3bc8b7a6:
 
 translate schinese_rewrite Lothar_Ask_Hero_7ee0ef84:
 
-    l "于是我回到村子里,发现卢斯特菲尔德被邪教渗透。那个邪教的山羊领袖命令他的小部队摧毁卢斯特菲尔德。我躲在灌木丛中。"
+    l "于是我回到村子里,发现乐斯民菲尔德被邪教渗透。那个邪教的山羊领袖命令他的小部队摧毁乐斯民菲尔德。我躲在灌木丛中。"
 
 translate schinese_rewrite Lothar_Ask_Hero_51e525a3:
 
@@ -13955,11 +13938,11 @@ translate schinese_rewrite Lothar_Ask_Hero_f9da9c3f:
 
 translate schinese_rewrite Lothar_Ask_Hero_9118935c:
 
-    l "当他们所有的山羊帮派都到来时, 我已经逃离了前哨。在邪教从卢斯特菲尔德撤退后不久, 他们的行为就像一群无头鸡,没有他们的傲慢领袖。"
+    l "当他们所有的山羊帮派都到来时, 我已经逃离了前哨。在邪教从乐斯民菲尔德撤退后不久, 他们的行为就像一群无头鸡,没有他们的傲慢领袖。"
 
 translate schinese_rewrite Lothar_Ask_Hero_89574f93:
 
-    e "所以你是卢斯特菲尔德的英雄。"
+    e "所以你是乐斯民菲尔德的英雄。"
 
 translate schinese_rewrite Lothar_Ask_Hero_2cbd53d6:
 
@@ -13975,11 +13958,11 @@ translate schinese_rewrite Lothar_Ask_Hero_07e45c94:
 
 translate schinese_rewrite Lothar_Ask_Hero_f8813d0a:
 
-    e "\"好,洛萨\"。"
+    e "\"好,洛萨尔\"。"
 
 translate schinese_rewrite Lothar_Ask_Himself_a2faa6df:
 
-    e "你好吗,洛萨?"
+    e "你好吗,洛萨尔?"
 
 translate schinese_rewrite Lothar_Ask_Himself_d417045e:
 
@@ -13995,7 +13978,7 @@ translate schinese_rewrite Lothar_Ask_Himself_d330d49d:
 
 translate schinese_rewrite Lothar_Ask_Himself_51ca39d9:
 
-    e "你喝醉了吗 洛萨 你的脸看起来很红。"
+    e "你喝醉了吗 洛萨尔 你的脸看起来很红。"
 
 translate schinese_rewrite Lothar_Ask_Himself_2e877e9f:
 
@@ -14003,7 +13986,7 @@ translate schinese_rewrite Lothar_Ask_Himself_2e877e9f:
 
 translate schinese_rewrite Lothar_Ask_Himself_7d0d1f7f:
 
-    e "很好 洛塔尔 第二天见。"
+    e "很好 洛萨尔 第二天见。"
 
 translate schinese_rewrite Lothar_Ask_Himself_9ec597c5:
 
@@ -14011,7 +13994,7 @@ translate schinese_rewrite Lothar_Ask_Himself_9ec597c5:
 
 translate schinese_rewrite Lothar_Ask_Himself_d8a8fa62:
 
-    e "你好吗,洛萨?"
+    e "你好吗,洛萨尔?"
 
 translate schinese_rewrite Lothar_Ask_Himself_8fef9f93:
 
@@ -14027,11 +14010,11 @@ translate schinese_rewrite Lothar_Ask_Himself_96fd5a8d:
 
 translate schinese_rewrite Lothar_Ask_Himself_bd9e9f2e:
 
-    e "好,洛萨。"
+    e "好,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_End_4c28f542:
 
-    e "这就是我需要的,谢谢你,洛萨。"
+    e "这就是我需要的,谢谢你,洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_End_f163ce69:
 
@@ -14163,7 +14146,7 @@ translate schinese_rewrite Patron4_Dialogue_2bc23d29:
 
 translate schinese_rewrite Patron4_Dialogue_1a8fda2d:
 
-    patron2 "肯恩会付大钱让他留下来的,我告诉你 他不可能很快离开。"
+    patron2 "凯恩会付大钱让他留下来的,我告诉你 他不可能很快离开。"
 
 translate schinese_rewrite Patron4_Dialogue_c51e25cd:
 
@@ -14171,7 +14154,7 @@ translate schinese_rewrite Patron4_Dialogue_c51e25cd:
 
 translate schinese_rewrite Patron4_Dialogue_aac1a24c:
 
-    patron "很好 服务器 肯恩刚刚重新装修了这层楼。"
+    patron "很好 服务器 凯恩刚刚重新装修了这层楼。"
 
 translate schinese_rewrite Patron4_Dialogue_bf1955c0:
 
@@ -14183,7 +14166,7 @@ translate schinese_rewrite Patron4_Dialogue_0153c11d:
 
 translate schinese_rewrite Patron4_Dialogue_66888412:
 
-    patron "万一你还习惯这里 我们一直是这里最忠诚的常客之一 所以肯恩让我们打个折扣。"
+    patron "万一你还习惯这里 我们一直是这里最忠诚的常客之一 所以凯恩让我们打个折扣。"
 
 translate schinese_rewrite Patron4_Dialogue_59462e81:
 
@@ -14199,4 +14182,4 @@ translate schinese_rewrite Patron4_Dialogue_1b5aed61:
 
 translate schinese_rewrite Patron4_Dialogue_5227365d:
 
-    patron2 "呃,那不是调情, 只是说你必须在这里待一阵子, 否则肯恩会再次关闭这层楼。"
+    patron2 "呃,那不是调情, 只是说你必须在这里待一阵子, 否则凯恩会再次关闭这层楼。"

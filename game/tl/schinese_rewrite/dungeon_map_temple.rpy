@@ -19,7 +19,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_137292c7:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_6c2a4c5d:
 
-    "拉希姆摇头 当你尴尬地看着弗坎把自己给打晕的时候。"
+    "雷希姆摇头 当你尴尬地看着弗坎把自己给打晕的时候。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_5e28905f:
 
@@ -51,7 +51,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_08304699:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_1dfcf0a8:
 
-    "福坎在穿过门探索时微笑。"
+    "弗坎在穿过门探索时微笑。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_1d0d18f7:
 
@@ -59,7 +59,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_1d0d18f7:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_7c3c72c1:
 
-    f "我会探索下一间房间,拉希姆。"
+    f "我会探索下一间房间,雷希姆。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_980acb7f:
 
@@ -75,7 +75,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_eb344443:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_4a8722bb:
 
-    "接下来你听到的就是拉希姆的咆哮, 它的回声在房间里回响, 好像他被突然的一股力量击中了。"
+    "接下来你听到的就是雷希姆的咆哮, 它的回声在房间里回响, 好像他被突然的一股力量击中了。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_d3d932de:
 
@@ -83,15 +83,15 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_d3d932de:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_3785f832:
 
-    s "我不知道,拉希姆在练习他的日常吹笛游戏吗?"
+    s "我不知道,雷希姆在练习他的日常吹笛游戏吗?"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_90c6dfae:
 
-    "你转过身去看富肯 紧握着他的喇叭 他的眼睛被惊吓地睁大了。"
+    "你转过身去看弗坎 紧握着他的喇叭 他的眼睛被惊吓地睁大了。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_10d05b53:
 
-    f "我脑子有问题,[e],我很好,但请去看看拉希姆需要什么。"
+    f "我脑子有问题,[e],我很好,但请去看看雷希姆需要什么。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_ea79e4ae:
 
@@ -107,8 +107,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_410bf533:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_7f5d28cd:
 
-    s "Uh... What's going on?"
-
+    s "呃……怎么回事？"
 translate schinese_rewrite Temple_of_Tapjoo_Loop_27058588:
 
     s "[e]?"
@@ -131,7 +130,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_dc037234:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_e27ebefe:
 
-    s "监护人 我们现在必须帮他 拉希姆。"
+    s "监护人 我们现在必须帮他 雷希姆。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_232cd02b:
 
@@ -159,7 +158,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_a3c2dbad:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_1127822e:
 
-    "福坎的声音被切断 门关在他面前。"
+    "弗坎的声音被切断 门关在他面前。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_bc6720fa:
 
@@ -187,7 +186,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_dc037234_1:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_04d5e724:
 
-    f "监护人 我们现在必须帮他 拉希姆。"
+    f "监护人 我们现在必须帮他 雷希姆。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_4276c818:
 
@@ -195,7 +194,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_4276c818:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_a5c8a2e5:
 
-    "拉希姆的声音低调,几乎低声低语。"
+    "雷希姆的声音低调,几乎低声低语。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_77ae3b28:
 
@@ -231,7 +230,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_98aee4f8:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_b0358175:
 
-    "拉希姆试图推开门, 你可以看见门之间有微弱的光芒, 但他很快就耗尽了能量。"
+    "雷希姆试图推开门, 你可以看见门之间有微弱的光芒, 但他很快就耗尽了能量。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_f4eed14b:
 
@@ -239,7 +238,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_f4eed14b:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_f0ba47e6:
 
-    "拉希姆在愤怒中喊叫,但福坎却不说任何回报。"
+    "雷希姆在愤怒中喊叫,但弗坎却不说任何回报。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_5eb778fe:
 
@@ -283,7 +282,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_be7f28a1:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_a86d166b:
 
-    "你犹豫不决地又拿起图腾。同样的光芒冲洗你身上,但这次拉希姆似乎更肯定他的理论。"
+    "你犹豫不决地又拿起图腾。同样的光芒冲洗你身上,但这次雷希姆似乎更肯定他的理论。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_358a9a00:
 
@@ -339,7 +338,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_dfcbb64b:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_129465a5:
 
-    "拉希姆用奇怪的表情看着你的方向 但他什么也不说。"
+    "雷希姆用奇怪的表情看着你的方向 但他什么也不说。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_da4ca6d3:
 
@@ -395,7 +394,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_a882d2a7:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_dddc8eb6:
 
-    e "嘿,拉希姆,你能帮我解谜吗?"
+    e "嘿,雷希姆,你能帮我解谜吗?"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_0e35e649:
 
@@ -459,7 +458,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_86670697:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_7430e08c:
 
-    s "我希望拉希姆邀请富坎来。"
+    s "我希望雷希姆邀请富坎来。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_984fe789:
 
@@ -587,7 +586,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_c3404a21:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_b091e30e:
 
-    "你梳眉角,试图理解福坎的话。 公羊无所事事的目光看起来好像他迷糊了。"
+    "你梳眉角,试图理解弗坎的话。 公羊无所事事的目光看起来好像他迷糊了。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_303145f4:
 
@@ -619,7 +618,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_a0d6ef15:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_1f0b8860:
 
-    f "我们应该探索下面的大厅 拉希姆会留下来照看这个。"
+    f "我们应该探索下面的大厅 雷希姆会留下来照看这个。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_1516e65f:
 
@@ -659,11 +658,11 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_d3305cba:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_1e63012f:
 
-    "你看看福坎,他似乎在思想上迷失了方向,他的手在无意中刷在胸前的钟声。"
+    "你看看弗坎,他似乎在思想上迷失了方向,他的手在无意中刷在胸前的钟声。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_489a9c74:
 
-    e "福坎,什么是钟声?"
+    e "弗坎,什么是钟声?"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_fe9dcd72:
 
@@ -691,7 +690,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_555e6c59:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_b2518f7a:
 
-    e "嘿 福坎 你能帮我处理这周围的石头吗?"
+    e "嘿 弗坎 你能帮我处理这周围的石头吗?"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_a00bf878_1:
 
@@ -735,7 +734,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_064fa79b:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_a15a5990:
 
-    "福坎笑容。"
+    "弗坎笑容。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_4c3ae559:
 
@@ -747,7 +746,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_e209a426:
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_9c09fbc5:
 
-    "福坎静静地返回读古书和古书。"
+    "弗坎静静地返回读古书和古书。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_4410c608:
 

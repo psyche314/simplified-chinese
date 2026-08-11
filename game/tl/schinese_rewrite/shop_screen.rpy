@@ -7,7 +7,7 @@ translate schinese_rewrite Sebas_Shopping_17f68e7d:
 
 translate schinese_rewrite Sebas_Shopping_Loop_9d8ec6c6:
 
-    s "拉希姆经常卖给我这个布, 似乎是许多日常物品中非常受欢迎的组成部分。[selected_shopItem.value]。"
+    s "雷希姆经常卖给我这个布, 似乎是许多日常物品中非常受欢迎的组成部分。[selected_shopItem.value]。"
 
 translate schinese_rewrite Sebas_Shopping_Loop_9ffd8732:
 
@@ -19,7 +19,7 @@ translate schinese_rewrite Sebas_Shopping_Loop_f7ffc5b5:
 
 translate schinese_rewrite Sebas_Shopping_Loop_eaa71874:
 
-    s "这药是莫克肯省最有才华的药剂制造者手工制作的![selected_shopItem.value]！"
+    s "这药是莫肯省最有才华的药剂制造者手工制作的![selected_shopItem.value]！"
 
 translate schinese_rewrite Sebas_Shopping_Loop_58df1838:
 
@@ -47,7 +47,7 @@ translate schinese_rewrite Sebas_Shopping_Loop_4a743674:
 
 translate schinese_rewrite Sebas_Shopping_Loop_c7bcbeb6:
 
-    s "室友,拉希姆有它裁缝 之后,你刚举行表决, 但他有点脾气 送给你...[mmm]！"
+    s "室友,雷希姆有它裁缝 之后,你刚举行表决, 但他有点脾气 送给你...[mmm]！"
 
 translate schinese_rewrite Sebas_Shopping_Loop_0d494bca:
 
@@ -71,7 +71,7 @@ translate schinese_rewrite Sebas_Shopping_Loop_a5530bbf:
 
 translate schinese_rewrite Sebas_Shopping_Loop_cfd28048:
 
-    s "这是给拉希姆的信,对吧?"
+    s "这是给雷希姆的信,对吧?"
 
 translate schinese_rewrite Sebas_Shopping_Loop_cb535884:
 
@@ -159,7 +159,7 @@ translate schinese_rewrite Gwyddyon_Shopping_Loop_651f367a:
 
 translate schinese_rewrite Gwyddyon_Shopping_Loop_8fc4508f:
 
-    g "不,不是卢斯特菲尔德,应该从那些白痴那里买一些,或者买一些[mmm]金。"
+    g "不,不是乐斯民菲尔德,应该从那些白痴那里买一些,或者买一些[mmm]金。"
 
 translate schinese_rewrite Gwyddyon_Shopping_Loop_5e675378:
 

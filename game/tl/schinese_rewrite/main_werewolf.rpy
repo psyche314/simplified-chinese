@@ -819,11 +819,11 @@ translate schinese_rewrite Wuldon_First_Meet_2a7e25f8:
 
 translate schinese_rewrite Wuldon_First_Meet_7017f3fd:
 
-    w "伍罗..."
+    w "伏罗..."
 
 translate schinese_rewrite Wuldon_First_Meet_7565e124:
 
-    e "谁是伍罗?"
+    e "谁是伏罗?"
 
 translate schinese_rewrite Wuldon_First_Meet_4df964cf:
 
@@ -1411,7 +1411,7 @@ translate schinese_rewrite Wuldon_First_Meet_3c68a5b6:
 
 translate schinese_rewrite Wuldon_First_Meet_314b7fe2:
 
-    w "我现在要去那 我不想冒险让乌菲和他的任何仆人先找到伍罗。"
+    w "我现在要去那 我不想冒险让乌菲和他的任何仆人先找到伏罗。"
 
 translate schinese_rewrite Wuldon_First_Meet_ff4a99af:
 
@@ -2659,7 +2659,7 @@ translate schinese_rewrite Wuldon_Slime_Country_Curse_End_cd747e8b:
 
 translate schinese_rewrite Wuldon_Slime_Country_Curse_End_63711357:
 
-    "这其实不是一个复杂的过程。它所包括的只是把另外两个罐子的内装物 倒进一个有伍罗血的罐子里。"
+    "这其实不是一个复杂的过程。它所包括的只是把另外两个罐子的内装物 倒进一个有伏罗血的罐子里。"
 
 translate schinese_rewrite Wuldon_Slime_Country_Curse_End_6baac445:
 
@@ -2871,16 +2871,15 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_d05c8a13:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_83423406:
 
-    "伍罗指向房间右侧的一个袋子。"
+    "伏罗指向房间右侧的一个袋子。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_d35318eb:
 
-    "你之前没注意到,但是伍罗和伍尔顿在他们身边有他们自己的包-- 在伍罗的情况中,他们身上有他们自己的包。"
+    "你之前没注意到,但是伏罗和伍尔顿在他们身边有他们自己的包-- 在伏罗的情况中,他们身上有他们自己的包。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_3225a92c:
 
-    e "Caving supplies I assume?"
-
+    e "我猜是进洞穴的补给吧？"
 translate schinese_rewrite Wuldon_Vurro_Cavern_71db0302:
 
     w "大约一个星期的粮食和水, 如果你给它配给适当的话, 两桶, 一只小蜡烛, 和一块火石和钢铁 和小棍子。"
@@ -2915,7 +2914,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_e5a1bc6d:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_e545624c:
 
-    "伍罗点头。"
+    "伏罗点头。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_8277c3fe:
 
@@ -2987,7 +2986,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_6055f8c9:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_ff4353bf:
 
-    "你还是点头给伍罗看 沃尔登的无言无语正开始伤害你。"
+    "你还是点头给伏罗看 沃尔登的无言无语正开始伤害你。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_1211f724:
 
@@ -3095,7 +3094,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_56c638a7:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_e41f44e2:
 
-    "伍罗的嗓音低调了。"
+    "伏罗的嗓音低调了。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_5b0b4b9f:
 
@@ -3111,7 +3110,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_e052f641:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_dfd549e8:
 
-    "伍罗 shrugs."
+    "伏罗 shrugs."
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_d58bcfc7:
 
@@ -3155,7 +3154,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_afa3894c:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_2554f36d:
 
-    "伍罗给了你一记号。"
+    "伏罗给了你一记号。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_4719034e:
 
@@ -3299,7 +3298,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_6daef06e:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_d657eda2:
 
-    "伍罗开始奔跑 让你没有追索权 只能追逐。"
+    "伏罗开始奔跑 让你没有追索权 只能追逐。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_a0760ce2:
 
@@ -3319,7 +3318,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_018e81d8:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_a1b470a5:
 
-    "伍罗 jabs 伍尔顿 与他的肘部在旁边。"
+    "伏罗 jabs 伍尔顿 与他的肘部在旁边。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_00c22c20:
 
@@ -3335,7 +3334,7 @@ translate schinese_rewrite Wuldon_Vurro_Cavern_cd0a0853:
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_be1279d0:
 
-    "伍罗嘲笑伍尔顿。"
+    "伏罗嘲笑伍尔顿。"
 
 translate schinese_rewrite Wuldon_Vurro_Cavern_1cf1c6e7:
 
@@ -3755,7 +3754,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_4ba7dfab:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_2baa80a7:
 
-    "伍尔顿在伍罗上方 利用他的力量 扭转了他们的位置 喉咙和腹部紧握着大腿。"
+    "伍尔顿在伏罗上方 利用他的力量 扭转了他们的位置 喉咙和腹部紧握着大腿。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_459fbd30:
 
@@ -3931,11 +3930,11 @@ translate schinese_rewrite Wuldon_Cure_Vurro_00cf8264:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_b72c52f6:
 
-    "文本本身相当沉闷,它直接告诉伍罗,他很可能再次成为Feral。"
+    "文本本身相当沉闷,它直接告诉伏罗,他很可能再次成为Feral。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_f0bafacb:
 
-    "你觉得日记很可能是写给伍罗的, 但这个页面确实证实了这一点。"
+    "你觉得日记很可能是写给伏罗的, 但这个页面确实证实了这一点。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_4880bff6:
 
@@ -3967,7 +3966,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_e2f5f851:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_3d639b61:
 
-    w "我欠卢斯特菲尔德人情,他们中最小的人,我要还给他们,即使我还不知道如何偿还。"
+    w "我欠乐斯民菲尔德人情,他们中最小的人,我要还给他们,即使我还不知道如何偿还。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_9fcc3d2b:
 
@@ -4019,7 +4018,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_f2c5120b:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_833fa63d:
 
-    "看着伍罗的软体形状,你可以看到原因。他冷冷,肌肉,牙齿,爪子慢慢缩小, 恢复到正常大小。"
+    "看着伏罗的软体形状,你可以看到原因。他冷冷,肌肉,牙齿,爪子慢慢缩小, 恢复到正常大小。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_c3e4f585:
 
@@ -4139,7 +4138,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_6581e269:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_c7110322:
 
-    "起来的时间比你想象的要长 感觉你好像被80个洛塔尔的假人缠住了。"
+    "起来的时间比你想象的要长 感觉你好像被80个洛萨尔的假人缠住了。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_882609d5:
 
@@ -4411,7 +4410,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_38f1a692:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_251417c9:
 
-    "伍罗转身看你。"
+    "伏罗转身看你。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_640d4750:
 
@@ -4451,7 +4450,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_8617a0d0:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_057d7a94:
 
-    "一个熟悉的微笑 穿过了伍罗的嘴唇。"
+    "一个熟悉的微笑 穿过了伏罗的嘴唇。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_1c140846:
 
@@ -4475,7 +4474,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_823b7c07:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_9b949140:
 
-    "伍罗 自己站起来更好地面对你 直接向你伸出手。"
+    "伏罗 自己站起来更好地面对你 直接向你伸出手。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_59eeaf45:
 
@@ -4499,7 +4498,7 @@ translate schinese_rewrite Wuldon_Cure_Vurro_050b759e:
 
 translate schinese_rewrite Wuldon_Cure_Vurro_1f858022:
 
-    "伍尔顿正用一张脸看着他 将他的想法告诉了伍罗。"
+    "伍尔顿正用一张脸看着他 将他的想法告诉了伏罗。"
 
 translate schinese_rewrite Wuldon_Cure_Vurro_4ca54c79:
 
@@ -4695,7 +4694,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_0d4f3cce:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_8763c8b4:
 
-    "你有点发牢骚,但还是跟着沃尔登 他开始走向卢斯特菲尔德。"
+    "你有点发牢骚,但还是跟着沃尔登 他开始走向乐斯民菲尔德。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_e55846d3:
 
@@ -4703,7 +4702,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_e55846d3:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_9739872c:
 
-    "卢斯特菲尔德在今天这个时候很安静,你感激不尽。你不想去想 一群人会怎么对看到沃尔登的反应。"
+    "乐斯民菲尔德在今天这个时候很安静,你感激不尽。你不想去想 一群人会怎么对看到沃尔登的反应。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_a425a271:
 
@@ -4711,7 +4710,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_a425a271:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_f2fbd9e6:
 
-    e "我也这么认为, 但你必须记住,这只是 卢斯特菲尔德 的一小部分, 即使排除了 你见过的广阔的农田。"
+    e "我也这么认为, 但你必须记住,这只是 乐斯民菲尔德 的一小部分, 即使排除了 你见过的广阔的农田。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_f458d617:
 
@@ -4727,7 +4726,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_0ddbcc5f:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_d5a868d9:
 
-    "你看看洛哈尔的太空 通常都是休息室。"
+    "你看看洛萨尔的太空 通常都是休息室。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_25bdbaef:
 
@@ -4747,7 +4746,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_05364ff8:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_3b80db25:
 
-    "你 便 走进 王 的 兵、 里面 有 欧勒 和 西巴、 都 看上去 无聊、 检查、 重新 检查、 心 中 的 衣物。"
+    "你 便 走进 王 的 兵、 里面 有 奥利 和 西巴、 都 看上去 无聊、 检查、 重新 检查、 心 中 的 衣物。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_d91c1d60:
 
@@ -4779,7 +4778,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_88f38ba9:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_094d3907:
 
-    "那一刻,你听到钟声响起, 发出新客户的信号。当然,是沃尔登。欧勒和塞巴斯的双眼都扩大了。"
+    "那一刻,你听到钟声响起, 发出新客户的信号。当然,是沃尔登。奥利和塞巴斯的双眼都扩大了。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_b68a2af5:
 
@@ -4875,7 +4874,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_4cc5be6f:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_edd65340:
 
-    "欧莱在回到他真正感兴趣的事情之前 就会对温和的调情感兴趣。"
+    "奥利在回到他真正感兴趣的事情之前 就会对温和的调情感兴趣。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_b7042d32:
 
@@ -4899,7 +4898,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_9401095c:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_bc447bde:
 
-    "你没有回答问题 而欧勒只是笑 塞布和沃尔登注意到了。"
+    "你没有回答问题 而奥利只是笑 塞布和沃尔登注意到了。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_3fa2fafc:
 
@@ -4939,7 +4938,7 @@ translate schinese_rewrite Wuldon_Meeting_Shop_e812be41:
 
 translate schinese_rewrite Wuldon_Meeting_Shop_bc447bde_1:
 
-    "你没有回答问题 而欧勒只是笑 塞布和沃尔登注意到了。"
+    "你没有回答问题 而奥利只是笑 塞布和沃尔登注意到了。"
 
 translate schinese_rewrite Wuldon_Meeting_Shop_08f9a4ed:
 
@@ -5427,11 +5426,11 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_ae6b0e54:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_42ec416d:
 
-    "伍罗 躲在毛毯盖的舒适地带 摔倒在地上 从沃尔登拖船的纯力中 稍稍旋转一下。"
+    "伏罗 躲在毛毯盖的舒适地带 摔倒在地上 从沃尔登拖船的纯力中 稍稍旋转一下。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_783cf7d7:
 
-    "伍罗继续睡觉,现在脸被压在地板上。"
+    "伏罗继续睡觉,现在脸被压在地板上。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_69102832:
 
@@ -5443,7 +5442,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_e0905acd:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_ea96cbb7:
 
-    "伍尔顿把容器移到伍罗鼻子旁边,解开它。"
+    "伍尔顿把容器移到伏罗鼻子旁边,解开它。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_05d249d6:
 
@@ -5511,7 +5510,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_36ee97ae:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_9c77f6e0:
 
-    "伍罗和伍尔顿都叹气 打破了不舒服的沉默。"
+    "伏罗和伍尔顿都叹气 打破了不舒服的沉默。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_4a8a8bab:
 
@@ -5571,7 +5570,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_ce94a3e3:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_c50b63c0:
 
-    "伍罗的脸露出一个阳光灿烂的笑容。"
+    "伏罗的脸露出一个阳光灿烂的笑容。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_0000f483:
 
@@ -5623,7 +5622,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_988b9c45:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_fc7bb64f:
 
-    "伍罗短暂的暂停, 扫描你的脸片刻。"
+    "伏罗短暂的暂停, 扫描你的脸片刻。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_8ee0da89:
 
@@ -5643,7 +5642,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_1cad5d40:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_dfd549e8:
 
-    "伍罗 shrugs."
+    "伏罗 shrugs."
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_f32af664:
 
@@ -5663,7 +5662,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_c1d6b5e5:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_cf1b6299:
 
-    "伍罗给了你一个批准点头, 似乎很高兴你对杀人的沉默。"
+    "伏罗给了你一个批准点头, 似乎很高兴你对杀人的沉默。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_b8a8390d:
 
@@ -5683,7 +5682,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_64e6d457:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_13239d7a:
 
-    "伍罗对指控的迷彩。"
+    "伏罗对指控的迷彩。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_89bbcc18:
 
@@ -5731,7 +5730,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_df25f05c:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_e5da0a10:
 
-    "你回到伍罗身边,他带着微笑看着你。"
+    "你回到伏罗身边,他带着微笑看着你。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_4d11c6c4:
 
@@ -5771,7 +5770,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_4a9eb651:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_bf096087:
 
-    "胡萝卜从伍罗的头骨上弹下来 掉进你们两个之间。"
+    "胡萝卜从伏罗的头骨上弹下来 掉进你们两个之间。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_62ebea3a:
 
@@ -5779,7 +5778,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_62ebea3a:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_0984e804:
 
-    "伍罗拿起胡萝卜 扔到伍尔顿,他还没有转身。"
+    "伏罗拿起胡萝卜 扔到伍尔顿,他还没有转身。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_0d5cd9b9:
 
@@ -5787,7 +5786,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_0d5cd9b9:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_f0e9e615:
 
-    "伍罗回到你身边。"
+    "伏罗回到你身边。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_02d33385:
 
@@ -5807,7 +5806,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_3ddc5df7:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_fa20a3ac:
 
-    "伍罗 winces。"
+    "伏罗 winces。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_4e16f1df:
 
@@ -5819,7 +5818,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_e944d411:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_60043759:
 
-    "伍罗更长时间地看伍尔顿, 担心他的特点。他发现伍尔顿不是开玩笑,然后转过身来找你。"
+    "伏罗更长时间地看伍尔顿, 担心他的特点。他发现伍尔顿不是开玩笑,然后转过身来找你。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_277b1569:
 
@@ -5851,7 +5850,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_09ec4630:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_ed586511:
 
-    "伍罗的脸现在有点皱纹了 而不是之前的笑容。"
+    "伏罗的脸现在有点皱纹了 而不是之前的笑容。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_57196296:
 
@@ -5935,7 +5934,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_a9254682:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_82ec872a:
 
-    "伍罗点头。"
+    "伏罗点头。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_367f6342:
 
@@ -5971,7 +5970,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_a1352d39_1:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_63f2fb15:
 
-    "伍罗给了你一个感恩的微笑。你可以看到在伍尔顿转过身去继续和罐子一起工作之前,他脸上也有类似的表情。"
+    "伏罗给了你一个感恩的微笑。你可以看到在伍尔顿转过身去继续和罐子一起工作之前,他脸上也有类似的表情。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_df5ec6e9_1:
 
@@ -5995,7 +5994,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_2a061b27:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_e5da0a10_1:
 
-    "你回到伍罗身边,他带着微笑看着你。"
+    "你回到伏罗身边,他带着微笑看着你。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_02d33385_1:
 
@@ -6015,7 +6014,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_3ddc5df7_1:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_fa20a3ac_1:
 
-    "伍罗 winces。"
+    "伏罗 winces。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_4e16f1df_1:
 
@@ -6027,7 +6026,7 @@ translate schinese_rewrite Wuldon_Vurro_Mine_Quest_e944d411_1:
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_60043759_1:
 
-    "伍罗更长时间地看伍尔顿, 担心他的特点。他发现伍尔顿不是开玩笑,然后转过身来找你。"
+    "伏罗更长时间地看伍尔顿, 担心他的特点。他发现伍尔顿不是开玩笑,然后转过身来找你。"
 
 translate schinese_rewrite Wuldon_Vurro_Mine_Quest_277b1569_1:
 
@@ -7215,7 +7214,7 @@ translate schinese_rewrite Wuldon_Meeting_Haskell_e9303588:
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_3e9442a0:
 
-    "他开始完全倾斜地逃跑 朝卢斯特菲尔德方向跑去。"
+    "他开始完全倾斜地逃跑 朝乐斯民菲尔德方向跑去。"
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_a407a480:
 
@@ -7755,7 +7754,7 @@ translate schinese_rewrite Wuldon_Meeting_Haskell_2fd6ec5f:
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_b1c6b5a7:
 
-    "伍尔顿接受他的说法 详细解释伍罗的处境。"
+    "伍尔顿接受他的说法 详细解释伏罗的处境。"
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_8cf8b546:
 
@@ -7927,7 +7926,7 @@ translate schinese_rewrite Wuldon_Meeting_Haskell_a80443a0:
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_05fe680a:
 
-    "你们都默默地看着对方 抱怨着伍罗很可能无法救活。"
+    "你们都默默地看着对方 抱怨着伏罗很可能无法救活。"
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_0be1db64:
 
@@ -8235,7 +8234,7 @@ translate schinese_rewrite Wuldon_Meeting_Haskell_72665cc5:
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_bb1285f9:
 
-    w "计划就是这样,我目前正在和乌菲打交道, 但把诅咒伍罗的人干掉是我的下一个优先事项。"
+    w "计划就是这样,我目前正在和乌菲打交道, 但把诅咒伏罗的人干掉是我的下一个优先事项。"
 
 translate schinese_rewrite Wuldon_Meeting_Haskell_9cf27987:
 
@@ -8491,7 +8490,7 @@ translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_f6f7e468:
 
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_a59b3669:
 
-    "当你背对着伍罗, 你跌倒前, 几乎抛出平衡 因为他的意想不到的重量。"
+    "当你背对着伏罗, 你跌倒前, 几乎抛出平衡 因为他的意想不到的重量。"
 
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_2eb51775:
 
@@ -8571,7 +8570,7 @@ translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_4bb7b986:
 
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_40c779af:
 
-    "伍罗的棕色形状在你身边 现在有些颜色比较轻 并且完全昏迷。"
+    "伏罗的棕色形状在你身边 现在有些颜色比较轻 并且完全昏迷。"
 
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_7307cf1e:
 
@@ -9267,7 +9266,7 @@ translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_906193d4:
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_47062b5b:
 
-    "在接下来的几个小时里, 你利用一段时间里积累的布料, 利用为拉希姆或其他人搞乱了各种项目, 来制造一连串即兴装订。"
+    "在接下来的几个小时里, 你利用一段时间里积累的布料, 利用为雷希姆或其他人搞乱了各种项目, 来制造一连串即兴装订。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_48d01ade:
 
@@ -9639,7 +9638,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_4c9a9a28:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_c3d00f99:
 
-    "两个狼人都惊讶地看着你 惊醒了伍罗。"
+    "两个狼人都惊讶地看着你 惊醒了伏罗。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_04ac2166:
 
@@ -9691,7 +9690,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_63adcbc7:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_7164eb9f:
 
-    "伍罗让你笑得笑不出来。"
+    "伏罗让你笑得笑不出来。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_d6234bd6:
 
@@ -9699,7 +9698,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_d6234bd6:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_79bdd535:
 
-    "你在伍罗引起眉毛。"
+    "你在伏罗引起眉毛。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_08453a48:
 
@@ -9787,7 +9786,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_08bed904:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_d89b2aaa:
 
-    w "乌夫严重依赖他的嗅觉 只要我们闻到鲁斯特菲尔德的气味 他就应该被愚弄。"
+    w "乌夫严重依赖他的嗅觉 只要我们闻到乐斯民菲尔德的气味 他就应该被愚弄。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_04dc03d2:
 
@@ -9863,7 +9862,7 @@ translate schinese_rewrite Wuldon_Raid_Preparation_0d84cfb0:
 
 translate schinese_rewrite Wuldon_Raid_Preparation_86ff8f59:
 
-    "伍罗说,他看起来有点刺激,当他看到你看着他求情时,他就会说清楚。"
+    "伏罗说,他看起来有点刺激,当他看到你看着他求情时,他就会说清楚。"
 
 translate schinese_rewrite Wuldon_Raid_Preparation_2255d0eb:
 
@@ -10087,7 +10086,7 @@ translate schinese_rewrite Wuldon_Raid_Planning_e79356ee:
 
 translate schinese_rewrite Wuldon_Raid_Planning_043a2ed7:
 
-    "伍罗暂停了一下,以便从他的皮毛中抽出一些水,确保将伍尔顿在喷雾中抓住,因为后者试图用他的爪子把他打走。"
+    "伏罗暂停了一下,以便从他的皮毛中抽出一些水,确保将伍尔顿在喷雾中抓住,因为后者试图用他的爪子把他打走。"
 
 translate schinese_rewrite Wuldon_Raid_Planning_3ff1a614:
 
@@ -10267,7 +10266,7 @@ translate schinese_rewrite Wuldon_Raid_Planning_526cd56e:
 
 translate schinese_rewrite Wuldon_Raid_Planning_a49932c3:
 
-    "伍罗点头,当伍尔顿去他的车站准备武器时。"
+    "伏罗点头,当伍尔顿去他的车站准备武器时。"
 
 translate schinese_rewrite Wuldon_Raid_Planning_e8fdcc9b:
 
@@ -10279,7 +10278,7 @@ translate schinese_rewrite Wuldon_Raid_Planning_5394633d:
 
 translate schinese_rewrite Wuldon_Raid_Planning_356f6c62:
 
-    "伍罗让你放心 但他嘴的角高高 说明你不是这样。"
+    "伏罗让你放心 但他嘴的角高高 说明你不是这样。"
 
 translate schinese_rewrite Wuldon_Raid_Planning_095fec1b:
 
@@ -10331,7 +10330,7 @@ translate schinese_rewrite Wuldon_Raid_Planning_3b0f9408:
 
 translate schinese_rewrite Wuldon_Raid_Planning_5eedb9ae:
 
-    "伍罗举起他的指甲, 他闪闪发光的眼睛不隐藏 他自己的斗争 保持清醒,。"
+    "伏罗举起他的指甲, 他闪闪发光的眼睛不隐藏 他自己的斗争 保持清醒,。"
 
 translate schinese_rewrite Wuldon_Raid_Planning_8b8cba2c:
 
@@ -10387,7 +10386,7 @@ translate schinese_rewrite Wuldon_Raid_Planning_dc1e3bb9:
 
 translate schinese_rewrite Wuldon_Raid_Planning_31d5e8c5:
 
-    "伍罗拉起他的胸骨 伸展下巴 踢着泥土 感受地面。"
+    "伏罗拉起他的胸骨 伸展下巴 踢着泥土 感受地面。"
 
 translate schinese_rewrite Wuldon_Raid_Planning_7c6269c5:
 
@@ -10679,7 +10678,7 @@ translate schinese_rewrite Wuldon_Raid_Bath_b23f2ce8:
 
 translate schinese_rewrite Wuldon_Raid_Bath_1782c2ca:
 
-    "伍罗往下看,他的手掌擦拭 在你的皮草上 它不断浸泡在浴池里。"
+    "伏罗往下看,他的手掌擦拭 在你的皮草上 它不断浸泡在浴池里。"
 
 translate schinese_rewrite Wuldon_Raid_Bath_0b6eb35e:
 
@@ -10767,7 +10766,7 @@ translate schinese_rewrite Wuldon_Raid_Bath_14bad1aa:
 
 translate schinese_rewrite Wuldon_Raid_Bath_abfa8f3a:
 
-    "伍罗 微笑微弱。"
+    "伏罗 微笑微弱。"
 
 translate schinese_rewrite Wuldon_Raid_Bath_0f23d550:
 
@@ -10787,7 +10786,7 @@ translate schinese_rewrite Wuldon_Raid_Bath_11e71b41:
 
 translate schinese_rewrite Wuldon_Raid_Bath_2d4e72ff:
 
-    "你转过身来盯着伍罗看,他正在浴缸边拍拍。"
+    "你转过身来盯着伏罗看,他正在浴缸边拍拍。"
 
 translate schinese_rewrite Wuldon_Raid_Bath_c1ad3e57:
 

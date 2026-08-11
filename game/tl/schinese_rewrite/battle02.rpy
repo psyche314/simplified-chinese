@@ -87,12 +87,10 @@ translate schinese_rewrite Ability_Camouflage_c4a40411:
 
 translate schinese_rewrite Ability_CoreStrike_c6150938:
 
-    "You strike the core of [enemy.name], causing [enemy.name] to fall over. You dealt [player_damage] and stuns [enemy.name] 为了 [stunned.max_rounds] round."
-
+    "你击中[enemy.name]的要害，使[enemy.name]倒地。你造成[player_damage]点伤害，并使[enemy.name]眩晕[stunned.max_rounds]回合。"
 translate schinese_rewrite Ability_CoreStrike_905c13df:
 
-    "You strike the core of [target.name], causing [target.name] to fall over. You dealt [player_damage] and stuns [target.name] 为了 [stunned.max_rounds] round."
-
+    "你击中[target.name]的要害，使[target.name]倒地。你造成[player_damage]点伤害，并使[target.name]眩晕[stunned.max_rounds]回合。"
 translate schinese_rewrite Ability_Resolution_8f64a376:
 
     "你用了分辨率,用[reduced_lust]减少了你目前的欲望。"
@@ -1011,11 +1009,11 @@ translate schinese_rewrite goat_general_win_6f6d3a40:
 
 translate schinese_rewrite goat_general_win_ee5c3564:
 
-    k "卡莉。"
+    k "卡里。"
 
 translate schinese_rewrite goat_general_win_3b8788d7:
 
-    e "卡丽 弗坎怎么了?"
+    e "卡里 弗坎怎么了?"
 
 translate schinese_rewrite goat_general_win_b5470d17:
 
@@ -1099,7 +1097,7 @@ translate schinese_rewrite goat_general_win_e80f1822:
 
 translate schinese_rewrite goat_general_win_b9b199ff:
 
-    k "然后潮湿洞穴里的那个一定是左边的那个。"
+    k "然后潮湿山洞里的那个一定是左边的那个。"
 
 translate schinese_rewrite goat_general_win_9c0d81b1:
 
@@ -1119,7 +1117,7 @@ translate schinese_rewrite goat_general_win_ebb78e2c:
 
 translate schinese_rewrite goat_general_win_005d3fba:
 
-    "卡莉试图站起来,但他很快的在腿部受伤后倒下。"
+    "卡里试图站起来,但他很快的在腿部受伤后倒下。"
 
 translate schinese_rewrite goat_general_win_9d814978:
 
@@ -1135,7 +1133,7 @@ translate schinese_rewrite goat_general_win_9996ccea:
 
 translate schinese_rewrite goat_general_win_ae16f56b:
 
-    e "我可以帮你找到福坎。"
+    e "我可以帮你找到弗坎。"
 
 translate schinese_rewrite goat_general_win_3b77324e:
 
@@ -1147,7 +1145,7 @@ translate schinese_rewrite goat_general_win_118adec5:
 
 translate schinese_rewrite goat_general_win_8b1d2fbd:
 
-    k "为什么 你不是站在鲁斯特菲尔德那边吗？"
+    k "为什么 你不是站在乐斯民菲尔德那边吗？"
 
 translate schinese_rewrite goat_general_win_48fd52c3:
 
@@ -1163,11 +1161,11 @@ translate schinese_rewrite goat_general_win_8d44512e:
 
 translate schinese_rewrite goat_general_win_cad8a8c3:
 
-    "卡莉用恳求的眼神盯着你。"
+    "卡里用恳求的眼神盯着你。"
 
 translate schinese_rewrite goat_general_win_fe11abf8:
 
-    k "但请把福坎带回来..."
+    k "但请把弗坎带回来..."
 
 translate schinese_rewrite goat_general_win_1865ed33:
 
@@ -1195,7 +1193,7 @@ translate schinese_rewrite goat_general_lose_4f6ee551:
 
 translate schinese_rewrite goat_general_lose_f9e711ed:
 
-    gg "首先,我们需要找到富肯。"
+    gg "首先,我们需要找到弗坎。"
 
 translate schinese_rewrite goat_general_lose_633b6042:
 
@@ -1307,7 +1305,7 @@ translate schinese_rewrite goat_general_lose_7a2ce101:
 
 translate schinese_rewrite goat_general_lose_7875b56c:
 
-    gg "因为富肯在潮湿洞穴里。"
+    gg "因为弗坎在潮湿山洞里。"
 
 translate schinese_rewrite goat_general_lose_d759c583:
 
@@ -1363,7 +1361,7 @@ translate schinese_rewrite goat_general_lose_a05b105e:
 
 translate schinese_rewrite lothar_battle_1e517a6d:
 
-    "你看洛塔尔开始脱下上身盔甲 他拿着长剑在你面前。"
+    "你看洛萨尔开始脱下上身盔甲 他拿着长剑在你面前。"
 
 translate schinese_rewrite lothar_battle_a87ae9eb:
 
@@ -1371,11 +1369,11 @@ translate schinese_rewrite lothar_battle_a87ae9eb:
 
 translate schinese_rewrite lothar_battle_502a28b1:
 
-    "你面对的是卢斯特菲尔德的英雄,洛特哈尔 他似乎玩得很开心,肌肉很滑稽,你握紧拳头。"
+    "你面对的是乐斯民菲尔德的英雄,洛萨尔 他似乎玩得很开心,肌肉很滑稽,你握紧拳头。"
 
 translate schinese_rewrite lothar_battle_0ff1c06b:
 
-    "你面对的是卢斯特菲尔德的英雄,洛特哈尔,他似乎很开心, 肌肉很滑稽,你用[pc.weapon.name!t]来防御。"
+    "你面对的是乐斯民菲尔德的英雄,洛萨尔,他似乎很开心, 肌肉很滑稽,你用[pc.weapon.name!t]来防御。"
 
 translate schinese_rewrite lothar_battle_loop_70e26cac:
 
@@ -1383,15 +1381,15 @@ translate schinese_rewrite lothar_battle_loop_70e26cac:
 
 translate schinese_rewrite lothar_battle_loop_725d93d1:
 
-    "你把你的[pc.weapon.name!t]射向洛萨的手臂 但他回过头来 避免一寸一寸的打击。"
+    "你把你的[pc.weapon.name!t]射向洛萨尔的手臂 但他回过头来 避免一寸一寸的打击。"
 
 translate schinese_rewrite lothar_battle_loop_3cff6c8d:
 
-    "你瞄准并射杀你的[pc.weapon.name!t] 射向洛塔尔的胸口, 但他向后跳,避开箭的英寸。"
+    "你瞄准并射杀你的[pc.weapon.name!t] 射向洛萨尔的胸口, 但他向后跳,避开箭的英寸。"
 
 translate schinese_rewrite lothar_battle_loop_a9ec88b2:
 
-    "你对洛塔尔拳头一拳 但他反弹了 避免了几英寸的打击。"
+    "你对洛萨尔拳头一拳 但他反弹了 避免了几英寸的打击。"
 
 translate schinese_rewrite lothar_battle_loop_772db6e3:
 
@@ -1399,7 +1397,7 @@ translate schinese_rewrite lothar_battle_loop_772db6e3:
 
 translate schinese_rewrite lothar_battle_loop_01333192:
 
-    "你把[pc.weapon.name!t]射向洛萨的身体 你的刀片穿过英雄的胃。"
+    "你把[pc.weapon.name!t]射向洛萨尔的身体 你的刀片穿过英雄的胃。"
 
 translate schinese_rewrite lothar_battle_loop_6b3c3530:
 
@@ -1415,11 +1413,11 @@ translate schinese_rewrite lothar_battle_loop_3f10a603:
 
 translate schinese_rewrite lothar_battle_loop_731bae2f:
 
-    "你瞄准并射中你的[pc.weapon.name!t] 在洛塔尔, 箭头击中他的肩膀。"
+    "你瞄准并射中你的[pc.weapon.name!t] 在洛萨尔, 箭头击中他的肩膀。"
 
 translate schinese_rewrite lothar_battle_loop_8221249a:
 
-    "你跑去洛塔尔射杀你的[pc.weapon.name!t] 然后把他打倒在地。"
+    "你跑去洛萨尔射杀你的[pc.weapon.name!t] 然后把他打倒在地。"
 
 translate schinese_rewrite lothar_battle_loop_3f10a603_1:
 
@@ -1427,7 +1425,7 @@ translate schinese_rewrite lothar_battle_loop_3f10a603_1:
 
 translate schinese_rewrite lothar_battle_loop_ef8384a0:
 
-    "你拳头拳打洛特哈尔 直接打他的脸。"
+    "你拳头拳打洛萨尔 直接打他的脸。"
 
 translate schinese_rewrite lothar_battle_loop_58557e9f:
 
@@ -1435,7 +1433,7 @@ translate schinese_rewrite lothar_battle_loop_58557e9f:
 
 translate schinese_rewrite lothar_battle_loop_3981c466:
 
-    "你冲进洛塔尔的胃 抓住他 狠狠地揍他一顿。"
+    "你冲进洛萨尔的胃 抓住他 狠狠地揍他一顿。"
 
 translate schinese_rewrite lothar_battle_loop_24bcc736:
 
@@ -1443,7 +1441,7 @@ translate schinese_rewrite lothar_battle_loop_24bcc736:
 
 translate schinese_rewrite lothar_battle_loop_5c706250:
 
-    "看来你打中了洛特哈尔 卖[oa[4]]HP!"
+    "看来你打中了洛萨尔 卖[oa[4]]HP!"
 
 translate schinese_rewrite lothar_battle_loop_e29bcb4d:
 
@@ -1471,15 +1469,15 @@ translate schinese_rewrite lothar_battle_loop_686af3a5:
 
 translate schinese_rewrite lothar_battle_loop_5fe08cb3:
 
-    "你走到洛塔尔 摸着他的胸口 就像他和安布尔一样。"
+    "你走到洛萨尔 摸着他的胸口 就像他和安布一样。"
 
 translate schinese_rewrite lothar_battle_loop_65af1d45:
 
-    "胸口轻轻的,在乳头周围画圈,在洛塔尔微笑,胸口轻轻的跳动。"
+    "胸口轻轻的,在乳头周围画圈,在洛萨尔微笑,胸口轻轻的跳动。"
 
 translate schinese_rewrite lothar_battle_loop_2f4586bc:
 
-    "你继续你的表演大约一分钟, 但洛塔尔甚至没有退缩。"
+    "你继续你的表演大约一分钟, 但洛萨尔甚至没有退缩。"
 
 translate schinese_rewrite lothar_battle_loop_4f54fc56:
 
@@ -1487,7 +1485,7 @@ translate schinese_rewrite lothar_battle_loop_4f54fc56:
 
 translate schinese_rewrite lothar_battle_loop_5a42ba42:
 
-    "几秒钟内你就能看见洛塔尔内裤后面的动静了。"
+    "几秒钟内你就能看见洛萨尔内裤后面的动静了。"
 
 translate schinese_rewrite lothar_battle_loop_c0b2a752:
 
@@ -1527,7 +1525,7 @@ translate schinese_rewrite lothar_battle_loop_1c7dd32e:
 
 translate schinese_rewrite lothar_battle_loop_ac2da90e:
 
-    "洛塔尔的腿在颤抖,他的肿块只有在他摘下手后才会变大。"
+    "洛萨尔的腿在颤抖,他的肿块只有在他摘下手后才会变大。"
 
 translate schinese_rewrite lothar_battle_loop_877a56ed:
 
@@ -1539,7 +1537,7 @@ translate schinese_rewrite lothar_battle_loop_f4e4d56f:
 
 translate schinese_rewrite lothar_battle_loop_4562a1ba:
 
-    e "洛萨,我得休息一下。"
+    e "洛萨尔,我得休息一下。"
 
 translate schinese_rewrite lothar_battle_loop_149194b3:
 
@@ -1551,7 +1549,7 @@ translate schinese_rewrite lothar_battle_loop_4878ce45:
 
 translate schinese_rewrite lothar_battle_loop_647bc0e1:
 
-    "你跪下 用尽了所有精力 躺在地上呼吸 向洛萨投降。"
+    "你跪下 用尽了所有精力 躺在地上呼吸 向洛萨尔投降。"
 
 translate schinese_rewrite lothar_battle_loop_3840b60e:
 
@@ -1563,7 +1561,7 @@ translate schinese_rewrite lothar_battle_loop_52f089f0:
 
 translate schinese_rewrite lothar_battle_loop_22c33955:
 
-    l "但也许这是你面对 卢斯特菲尔德唯一 万能的英雄的唯一选择。"
+    l "但也许这是你面对 乐斯民菲尔德唯一 万能的英雄的唯一选择。"
 
 translate schinese_rewrite lothar_battle_loop_ad670361:
 
@@ -1571,7 +1569,7 @@ translate schinese_rewrite lothar_battle_loop_ad670361:
 
 translate schinese_rewrite lothar_battle_loop2_a44ad52e:
 
-    "洛塔尔把他的剑砍下来 你掉在地上。"
+    "洛萨尔把他的剑砍下来 你掉在地上。"
 
 translate schinese_rewrite lothar_battle_loop2_8daed4c0:
 
@@ -1579,7 +1577,7 @@ translate schinese_rewrite lothar_battle_loop2_8daed4c0:
 
 translate schinese_rewrite lothar_battle_loop2_f053152f:
 
-    "洛塔尔控告你,踢你,你的健康状况下降[enemy_damage]HP。"
+    "洛萨尔控告你,踢你,你的健康状况下降[enemy_damage]HP。"
 
 translate schinese_rewrite lothar_battle_loop2_d54dd6ff:
 
@@ -1595,11 +1593,11 @@ translate schinese_rewrite lothar_battle_loop2_505866a5:
 
 translate schinese_rewrite lothar_battle_loop2_262c1b33:
 
-    "洛塔尔把剑打在你身上 但你却及时躲过了 他的剑击中了地面 火花飞翔。"
+    "洛萨尔把剑打在你身上 但你却及时躲过了 他的剑击中了地面 火花飞翔。"
 
 translate schinese_rewrite lothar_battle_loop2_07d7931d:
 
-    "洛塔尔指控你 试图踢你的胸口 但你迅速退缩 躲避攻击。"
+    "洛萨尔指控你 试图踢你的胸口 但你迅速退缩 躲避攻击。"
 
 translate schinese_rewrite lothar_battle_loop2_e36b23c7:
 
@@ -1615,7 +1613,7 @@ translate schinese_rewrite lothar_battle_loop2_2e9d4e2d:
 
 translate schinese_rewrite lothar_battle_loop2_9918018e:
 
-    "洛萨向你走来,他硬起来..."
+    "洛萨尔向你走来,他硬起来..."
 
 translate schinese_rewrite lothar_battle_loop2_74e24064:
 
@@ -1623,7 +1621,7 @@ translate schinese_rewrite lothar_battle_loop2_74e24064:
 
 translate schinese_rewrite lothar_battle_loop2_ae2663dd:
 
-    "洛萨伸展身体 炫耀肌肉生理 你可以知道他的柔软胸口 几乎在你面前涌现出来。"
+    "洛萨尔伸展身体 炫耀肌肉生理 你可以知道他的柔软胸口 几乎在你面前涌现出来。"
 
 translate schinese_rewrite lothar_battle_loop2_65b0ee54:
 
@@ -1635,7 +1633,7 @@ translate schinese_rewrite lothar_battle_loop2_71755195:
 
 translate schinese_rewrite lothar_battle_loop2_d3cec2b5:
 
-    "你被他美丽的肌肉震撼, 你脑海中在洛塔尔的情景中徘徊。你的欲望因[enemy_flirt]而增加。"
+    "你被他美丽的肌肉震撼, 你脑海中在洛萨尔的情景中徘徊。你的欲望因[enemy_flirt]而增加。"
 
 translate schinese_rewrite lothar_battle_loop2_9db33e60:
 
@@ -1651,7 +1649,7 @@ translate schinese_rewrite lothar_battle_loop2_816f9945:
 
 translate schinese_rewrite lothar_battle_loop2_efa76d45:
 
-    "洛塔尔举起他的剑,全力打击你。你的健康状况下降了[enemy_damage] HP。"
+    "洛萨尔举起他的剑,全力打击你。你的健康状况下降了[enemy_damage] HP。"
 
 translate schinese_rewrite lothar_battle_loop2_1e8ad0f1:
 
@@ -1671,12 +1669,11 @@ translate schinese_rewrite lothar_battle_lose_8241c31f:
 
 translate schinese_rewrite lothar_battle_lose_98991d26:
 
-    "你抬起头看着洛塔尔笑。"
+    "你抬起头看着洛萨尔笑。"
 
 translate schinese_rewrite lothar_battle_lose_b0b37444:
 
-    e "F-fuck... my legs..."
-
+    e "操……我的腿……"
 translate schinese_rewrite lothar_battle_lose_1a8072d4:
 
     l "又一个赢进我口袋了!"
@@ -1695,7 +1692,7 @@ translate schinese_rewrite lothar_battle_lose_f581a057:
 
 translate schinese_rewrite lothar_battle_lose_d86d9fac:
 
-    l "在我把你交给肯恩和他的客户之前。"
+    l "在我把你交给凯恩和他的客户之前。"
 
 translate schinese_rewrite lothar_battle_lose_43c89140:
 
@@ -1707,11 +1704,11 @@ translate schinese_rewrite lothar_battle_lose_1e28236e:
 
 translate schinese_rewrite lothar_battle_lose_98991d26_1:
 
-    "你抬起头看着洛塔尔笑。"
+    "你抬起头看着洛萨尔笑。"
 
 translate schinese_rewrite lothar_battle_lose_2b7e8369:
 
-    e "F-fuck... me- 洛萨..."
+    e "F-fuck... me- 洛萨尔..."
 
 translate schinese_rewrite lothar_battle_lose_1a8072d4_1:
 
@@ -1731,7 +1728,7 @@ translate schinese_rewrite lothar_battle_lose_f581a057_1:
 
 translate schinese_rewrite lothar_battle_lose_d7a43461:
 
-    l "在我把你交给肯恩和他的客户之前..."
+    l "在我把你交给凯恩和他的客户之前..."
 
 translate schinese_rewrite lothar_battle_lose_e175649d:
 
@@ -1759,7 +1756,7 @@ translate schinese_rewrite lothar_battle_lose_475921bf:
 
 translate schinese_rewrite lothar_battle_lose_c8fab859:
 
-    "洛塔尔让你全身温暖 立刻抓住他的毛皮来求支持。"
+    "洛萨尔让你全身温暖 立刻抓住他的毛皮来求支持。"
 
 translate schinese_rewrite lothar_battle_lose_07261c8a:
 
@@ -1791,7 +1788,7 @@ translate schinese_rewrite lothar_battle_lose_1a0b2080:
 
 translate schinese_rewrite lothar_battle_lose_b6b4b49a:
 
-    "在你睡着之前,洛塔尔打你一巴掌 显然你们两个已经到了商店的入口。"
+    "在你睡着之前,洛萨尔打你一巴掌 显然你们两个已经到了商店的入口。"
 
 translate schinese_rewrite lothar_battle_lose_10d82c45:
 
@@ -1819,7 +1816,7 @@ translate schinese_rewrite lothar_battle_lose_09574c24:
 
 translate schinese_rewrite lothar_battle_lose_90c7b065:
 
-    "店里有几个顾客 你可以在洛塔尔进入你房间前 看到塞巴斯和奥莱格朗斯。"
+    "店里有几个顾客 你可以在洛萨尔进入你房间前 看到塞巴斯和奥莱格朗斯。"
 
 translate schinese_rewrite lothar_battle_lose_6a3f6e18:
 
@@ -1827,7 +1824,7 @@ translate schinese_rewrite lothar_battle_lose_6a3f6e18:
 
 translate schinese_rewrite lothar_battle_lose_8673786b:
 
-    "幸运的是,洛萨把你扔在床上, 它柔软和充气, 否则你可能会得到脑震荡 在你的疲惫之上。"
+    "幸运的是,洛萨尔把你扔在床上, 它柔软和充气, 否则你可能会得到脑震荡 在你的疲惫之上。"
 
 translate schinese_rewrite lothar_battle_lose_d7399025:
 
@@ -1839,7 +1836,7 @@ translate schinese_rewrite lothar_battle_lose_166bcab7:
 
 translate schinese_rewrite lothar_battle_lose_9e185da1:
 
-    l "嗯,叫我洛萨... 但不管怎样..."
+    l "嗯,叫我洛萨尔... 但不管怎样..."
 
 translate schinese_rewrite lothar_battle_lose_6b20c35a:
 
@@ -1867,11 +1864,11 @@ translate schinese_rewrite lothar_battle_lose_8d1a3474:
 
 translate schinese_rewrite lothar_battle_lose_06672196:
 
-    "洛萨对你微笑,然后回头关上门。"
+    "洛萨尔对你微笑,然后回头关上门。"
 
 translate schinese_rewrite lothar_battle_lose_6362fede:
 
-    "你可以听到洛哈尔和两个店主之间的吵闹声 但更快地,你就会睡着。"
+    "你可以听到洛萨尔和两个店主之间的吵闹声 但更快地,你就会睡着。"
 
 translate schinese_rewrite lothar_battle_lose_a20cefa7:
 
@@ -1891,7 +1888,7 @@ translate schinese_rewrite lothar_battle_lose_ab719b0f:
 
 translate schinese_rewrite lothar_battle_lose_55ef911c:
 
-    "你仍然不能决定洛塔尔是否是个好老师... 但你还记得当他抱你上床时的痒痒的感觉..."
+    "你仍然不能决定洛萨尔是否是个好老师... 但你还记得当他抱你上床时的痒痒的感觉..."
 
 translate schinese_rewrite lothar_battle_win_eaf2480d:
 
@@ -1903,11 +1900,11 @@ translate schinese_rewrite lothar_battle_win_d8a1c3af:
 
 translate schinese_rewrite lothar_battle_win_dcbe178b:
 
-    e "洛塔尔,你没事吧?"
+    e "洛萨尔,你没事吧?"
 
 translate schinese_rewrite lothar_battle_win_1e8ffa56:
 
-    "洛塔尔躺在地上 仍然喘得喘不过气来 因为他放松了对剑的控制。"
+    "洛萨尔躺在地上 仍然喘得喘不过气来 因为他放松了对剑的控制。"
 
 translate schinese_rewrite lothar_battle_win_c21547cb:
 
@@ -1931,11 +1928,11 @@ translate schinese_rewrite lothar_battle_win_44e5f098:
 
 translate schinese_rewrite lothar_battle_win_951590b2:
 
-    e "洛塔尔,你没事吧?"
+    e "洛萨尔,你没事吧?"
 
 translate schinese_rewrite lothar_battle_win_1e8ffa56_1:
 
-    "洛塔尔躺在地上 仍然喘得喘不过气来 因为他放松了对剑的控制。"
+    "洛萨尔躺在地上 仍然喘得喘不过气来 因为他放松了对剑的控制。"
 
 translate schinese_rewrite lothar_battle_win_c21547cb_1:
 
@@ -1995,7 +1992,7 @@ translate schinese_rewrite lothar_battle_win_42700055:
 
 translate schinese_rewrite lothar_battle_win_c0615259:
 
-    "你看看洛萨,他轻轻地呻吟着 紧地抱着他的胃。"
+    "你看看洛萨尔,他轻轻地呻吟着 紧地抱着他的胃。"
 
 translate schinese_rewrite lothar_battle_win_c35580ca:
 

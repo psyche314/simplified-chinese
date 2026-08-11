@@ -251,7 +251,7 @@ translate schinese_rewrite Haskell_Report_Wuldon_Curse_5f8ef067:
 
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_6038a719:
 
-    h "被诅咒的物质可以是从被诅咒的农田到被诅咒的河流的水的土壤, 甚至是伍罗的血液都能起作用。"
+    h "被诅咒的物质可以是从被诅咒的农田到被诅咒的河流的水的土壤, 甚至是伏罗的血液都能起作用。"
 
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_6bfd3227:
 
@@ -479,7 +479,7 @@ translate schinese_rewrite Haskell_Buggbear_Wait_0d799b04:
 
 translate schinese_rewrite Haskell_Buggbear_Wait_d978186b:
 
-    h "但是... 答应我,如果欧莱让你再给他拿药剂来 你替他做药剂。"
+    h "但是... 答应我,如果奥利让你再给他拿药剂来 你替他做药剂。"
 
 translate schinese_rewrite Haskell_Buggbear_Wait_6f463424:
 
@@ -747,11 +747,11 @@ translate schinese_rewrite Haskell_Buggbear_Quest_11573762:
 
 translate schinese_rewrite Haskell_Buggbear_Quest_2fb8183a:
 
-    h "我已经给了你食谱了 去卢斯特菲尔德的任何工作站吧。"
+    h "我已经给了你食谱了 去乐斯民菲尔德的任何工作站吧。"
 
 translate schinese_rewrite Haskell_Buggbear_Quest_a50b83fa:
 
-    e "你是说拉希姆的... 缝纫机?"
+    e "你是说雷希姆的... 缝纫机?"
 
 translate schinese_rewrite Haskell_Buggbear_Quest_5bb9b3ae:
 
@@ -779,7 +779,7 @@ translate schinese_rewrite Haskell_Outfit_03_cb913600:
 
 translate schinese_rewrite Haskell_Outfit_03_acd911be:
 
-    e "没什么大不了的 欧莱注意到你经常穿长袍 我们的裁缝正试图穿长袍。"
+    e "没什么大不了的 奥利注意到你经常穿长袍 我们的裁缝正试图穿长袍。"
 
 translate schinese_rewrite Haskell_Outfit_03_c4a3749e:
 
@@ -787,7 +787,7 @@ translate schinese_rewrite Haskell_Outfit_03_c4a3749e:
 
 translate schinese_rewrite Haskell_Outfit_03_794d4c7b:
 
-    e "是的。他的名字叫拉希姆。"
+    e "是的。他的名字叫雷希姆。"
 
 translate schinese_rewrite Haskell_Outfit_03_9c68c050:
 
@@ -799,7 +799,7 @@ translate schinese_rewrite Haskell_Outfit_03_aaf57869:
 
 translate schinese_rewrite Haskell_Outfit_03_6e2d422b:
 
-    e "这真是高尚的赞美 我一定会告诉拉希姆的。"
+    e "这真是高尚的赞美 我一定会告诉雷希姆的。"
 
 translate schinese_rewrite Haskell_Outfit_03_f8947e23:
 
@@ -863,7 +863,7 @@ translate schinese_rewrite Haskell_Outfit_03_dd8b7616:
 
 translate schinese_rewrite Haskell_Ask_Lusterfield_e61b03eb:
 
-    e "哈斯凯尔,你和鲁斯特菲尔德的生意怎么样?"
+    e "哈斯凯尔,你和乐斯民菲尔德的生意怎么样?"
 
 translate schinese_rewrite Haskell_Ask_Lusterfield_8fbd58f1:
 
@@ -895,7 +895,7 @@ translate schinese_rewrite Haskell_Ask_Lusterfield_0c6bb309:
 
 translate schinese_rewrite Haskell_Ask_Lusterfield_42e58abf:
 
-    h "欧莱和我有着很长的历史 他不喜欢我谈论它,他离开小屋的原因之一。"
+    h "奥利和我有着很长的历史 他不喜欢我谈论它,他离开小屋的原因之一。"
 
 translate schinese_rewrite Haskell_Ask_Lusterfield_1b418615:
 
@@ -1003,7 +1003,7 @@ translate schinese_rewrite Haskell_Potion_Order_49ccfb00:
 
 translate schinese_rewrite Haskell_Potion_Order_620380d0:
 
-    e "哈斯凯尔,这越来越奇怪了 我撒谎给欧勒。"
+    e "哈斯凯尔,这越来越奇怪了 我撒谎给奥利。"
 
 translate schinese_rewrite Haskell_Potion_Order_1a1a7358:
 
@@ -1039,7 +1039,7 @@ translate schinese_rewrite Haskell_Potion_Order_ac8f2696:
 
 translate schinese_rewrite Haskell_Potion_Order_8cc40747:
 
-    "看来你必须回去 在拉希姆的店里 做药剂。"
+    "看来你必须回去 在雷希姆的店里 做药剂。"
 
 translate schinese_rewrite Haskell_Potion_Order_b9d1a634_1:
 
@@ -1047,7 +1047,7 @@ translate schinese_rewrite Haskell_Potion_Order_b9d1a634_1:
 
 translate schinese_rewrite Haskell_Potion_Order_a35e1ab2:
 
-    h "让我猜猜,欧莱需要更多的力剂吗?"
+    h "让我猜猜,奥利需要更多的力剂吗?"
 
 translate schinese_rewrite Haskell_Potion_Order_096e5084:
 
@@ -1267,7 +1267,7 @@ translate schinese_rewrite Haskell_Ask_Goat_Tribe_8e339bbe:
 
 translate schinese_rewrite Haskell_Ask_Goat_Tribe_5aabcf69:
 
-    h "我问了福坎这件事 但他坚持要保护它。"
+    h "我问了弗坎这件事 但他坚持要保护它。"
 
 translate schinese_rewrite Haskell_Ask_Goat_Tribe_987c058b:
 
@@ -1303,7 +1303,7 @@ translate schinese_rewrite Haskell_Ask_Other_Business_8b15fd23:
 
 translate schinese_rewrite Haskell_Ask_Other_Business_c23e0151:
 
-    h "卢斯特菲尔德和山羊部落 离我最近 其他地方太远了。"
+    h "乐斯民菲尔德和山羊部落 离我最近 其他地方太远了。"
 
 translate schinese_rewrite Haskell_Ask_Other_Business_e72b423e:
 
@@ -1995,7 +1995,7 @@ translate schinese_rewrite Haskell_First_Meet_c59518fb:
 
 translate schinese_rewrite Haskell_First_Meet_675ebd1a:
 
-    e "鲁斯特菲尔德?"
+    e "乐斯民菲尔德?"
 
 translate schinese_rewrite Haskell_First_Meet_7a9ea54f:
 
@@ -2411,8 +2411,7 @@ translate schinese_rewrite Haskell_Minotaur_Dungeon_afa921c3:
 
 translate schinese_rewrite Haskell_Minotaur_Dungeon_2452fcf1:
 
-    e "By essence, do you mean..."
-
+    e "你说的精华是指……"
 translate schinese_rewrite Haskell_Minotaur_Dungeon_910b4a06:
 
     "哈斯凯尔提高他的眉毛。"
@@ -2507,7 +2506,7 @@ translate schinese_rewrite Haskell_Sick_Quest_ccc1cf70:
 
 translate schinese_rewrite Haskell_Sick_Quest_c3f1367d:
 
-    h "要煮药来帮助欧莱 我需要你收集四片姜汁 很简单,你可以在我的小屋外的清扫地里挖出来。"
+    h "要煮药来帮助奥利 我需要你收集四片姜汁 很简单,你可以在我的小屋外的清扫地里挖出来。"
 
 translate schinese_rewrite Haskell_Sick_Quest_da65adb3:
 
@@ -3067,7 +3066,7 @@ translate schinese_rewrite Haskell_Herb_Fetch_Task_4cdd919a:
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_c373194e:
 
-    h "在卢斯特菲尔德附近, 就在农场旁边的花园, 他们通常都是蓝色的, 就像这样,农民早就把土壤弄乱了。"
+    h "在乐斯民菲尔德附近, 就在农场旁边的花园, 他们通常都是蓝色的, 就像这样,农民早就把土壤弄乱了。"
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_11202f91:
 
@@ -3135,7 +3134,7 @@ translate schinese_rewrite Haskell_Herb_Fetch_Task_eb0efda6:
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_47ea1cee:
 
-    h "就像那个叫自己洛萨的古怪狼。"
+    h "就像那个叫自己洛萨尔的古怪狼。"
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_4e0f92fc:
 
@@ -3219,7 +3218,7 @@ translate schinese_rewrite Haskell_Herb_Fetch_Task_Inquire_f7823f32:
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_Inquire_cbaad2d6:
 
-    h "现在,你应该给我10个霍特霍恩 在鲁斯特菲尔德农场附近的花园里。"
+    h "现在,你应该给我10个霍特霍恩 在乐斯民菲尔德农场附近的花园里。"
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_Inquire_636d2708:
 
@@ -3287,7 +3286,7 @@ translate schinese_rewrite Haskell_Herb_Fetch_Task_End_541c3ce1:
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_End_98e5db25:
 
-    h "提醒你,我还有整个花园要照顾,欧莱,你,还有那些买鸡肉的买家 已经把我拖了一整天。所以,对像我这样的老龙来说,这些已经足够了。"
+    h "提醒你,我还有整个花园要照顾,奥利,你,还有那些买鸡肉的买家 已经把我拖了一整天。所以,对像我这样的老龙来说,这些已经足够了。"
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_End_be9866b2:
 
@@ -4135,8 +4134,7 @@ translate schinese_rewrite Haskell_Report_Trinket_Quest_2e649195:
 
 translate schinese_rewrite Haskell_Report_Trinket_Quest_94869100:
 
-    e "Ow, what was that for!?"
-
+    e "哎哟，你干什么！？"
 translate schinese_rewrite Haskell_Report_Trinket_Quest_17e83f6b:
 
     h "你让奥勒和其他人最近过得很开心。"

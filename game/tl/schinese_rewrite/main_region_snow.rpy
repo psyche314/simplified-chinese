@@ -1211,8 +1211,7 @@ translate schinese_rewrite Bear_Guard_Cave_Finish_7c798833:
 
 translate schinese_rewrite Bear_Guard_Cave_Finish_4e71b04e:
 
-    "一旦光天化日之下又有足够的光芒,Daggi就说少了一点,把包裹的平板板套在一只胳膊下,一直紧紧地套在回Otsovaara的路上。"
-
+    "天光和空气终于恢复后，达吉没说什么，只把包好的石板紧紧夹在腋下，一路带回奥察瓦拉。"
 translate schinese_rewrite Bear_Guard_Cave_Finish_ff6ff665:
 
     "牧群紧地紧紧地紧地紧地紧紧地紧紧地紧地紧地地紧地地紧地紧地地紧地。"

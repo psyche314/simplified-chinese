@@ -627,8 +627,7 @@ translate schinese_rewrite Scene_Goat_Lose_1909df66:
 
 translate schinese_rewrite Scene_Goat_Lose_0292c121:
 
-    e "Fuck... Get off me."
-
+    e "操……从我身上滚开。"
 translate schinese_rewrite Scene_Goat_Lose_78bf3372:
 
     "他什么都不说,只爱抚你的身体 就像那是他的财产一样。"
@@ -811,8 +810,7 @@ translate schinese_rewrite Scene_Goat_Lose_2e48ae48:
 
 translate schinese_rewrite Scene_Goat_Lose_c41c62a7:
 
-    e "Arrr-aggh... ha- ha..."
-
+    e "呃啊……哈、哈……"
 translate schinese_rewrite Scene_Goat_Lose_1aa32583:
 
     "你颤抖欲绝,想把自己拉开,但他推回去 他像流水的绳子一样 将你屁眼的绳子和绳子塞进你的洞里。"
@@ -1439,7 +1437,7 @@ translate schinese_rewrite scene_buggbear_lose_f5832648:
 
 translate schinese_rewrite scene_buggbear_lose_9b7b830e:
 
-    "你想知道奥勒、塞巴斯或洛塔尔 如果他们发现这件事会怎么想。"
+    "你想知道奥勒、塞巴斯或洛萨尔 如果他们发现这件事会怎么想。"
 
 translate schinese_rewrite scene_buggbear_lose_ea38b78f:
 
@@ -1527,7 +1525,7 @@ translate schinese_rewrite Scene_Tavern_Meet_01_6e9f4356:
 
 translate schinese_rewrite Scene_Tavern_Meet_01_51cb22e7:
 
-    "你记得肯恩提醒过 赞助者是国王 你吞下。"
+    "你记得凯恩提醒过 赞助者是国王 你吞下。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_091b2af2:
 
@@ -1895,8 +1893,7 @@ translate schinese_rewrite Scene_Tavern_Meet_01_4d12e867:
 
 translate schinese_rewrite Scene_Tavern_Meet_01_6ada34da:
 
-    e "Hng... Hng... Hng..."
-
+    e "嗯……嗯……嗯……"
 translate schinese_rewrite Scene_Tavern_Meet_01_201cf9e3:
 
     "你的鸡巴打到你的大腿、肚子和蛋蛋的内部。"
@@ -2051,7 +2048,7 @@ translate schinese_rewrite Scene_Tavern_Meet_02_e2810258:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_44800daf:
 
-    "肯恩说你里面有个客户 但没人能看见。"
+    "凯恩说你里面有个客户 但没人能看见。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_cfa41d7f:
 
@@ -2195,7 +2192,7 @@ translate schinese_rewrite Scene_Tavern_Meet_02_31b5b0f1_1:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_44800daf_1:
 
-    "肯恩说你里面有个客户 但没人能看见。"
+    "凯恩说你里面有个客户 但没人能看见。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_cfa41d7f_1:
 

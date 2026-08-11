@@ -883,8 +883,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_0d478501:
 
 translate schinese_rewrite Scene_Nosferat_Lose_5789a41a:
 
-    e "F-fuck... I- I- can't"
-
+    e "操……我、我不行了……"
 translate schinese_rewrite Scene_Nosferat_Lose_c9d3f0cf:
 
     "你要求他操你,让他用你的身体 来做纯洁的欲望的工具。"
@@ -1515,8 +1514,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_bef3290a:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_68a30731:
 
-    e "Fuck... get off me!"
-
+    e "操……从我身上滚开！"
 translate schinese_rewrite Scene_Bandit_Gangbang_159d7ad5:
 
     bd "哈,再努力点,冒险家,你要么付我们金子,要么就付我们你的身体钱,现在两者兼而有之。"
@@ -1635,8 +1633,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_1d3eee01:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_adb84887:
 
-    e "Uh, just looking around."
-
+    e "呃，我就随便看看。"
 translate schinese_rewrite Scene_Bandit_Gangbang_18b164d7:
 
     bd5 "现在他最终成了一个冒险家应得的地方 哈哈。"
@@ -2687,8 +2684,7 @@ translate schinese_rewrite scene_gnoll_lose_e9358460:
 
 translate schinese_rewrite scene_gnoll_lose_c0c7d4b6:
 
-    gnl "No, no. Prey, no, move."
-
+    gnl "不，不。猎物，不，动起来。"
 translate schinese_rewrite scene_gnoll_lose_cb9e7cb0:
 
     "不断的,你的捕食者 以节奏移动他的臀部 他的体重压在你腹部 当你感觉他的软底部 抓住你的肌肉 从各个方向。"
@@ -2987,8 +2983,7 @@ translate schinese_rewrite scene_gnoll_lose_01387b1d:
 
 translate schinese_rewrite scene_gnoll_lose_e56fccac:
 
-    e "F-fuck, you're-... keep going-"
-
+    e "操，你——继续……继续下去——"
 translate schinese_rewrite scene_gnoll_lose_2ad87fb8:
 
     "他的腿在颤抖,他紧紧地挤在你身边 好像他命令你抽筋似的。"
@@ -3551,7 +3546,7 @@ translate schinese_rewrite Scene_Pirkka_Show_f1a3632a:
 
 translate schinese_rewrite Scene_Pirkka_Show_64da1573:
 
-    p "{i} 一直以来,你游荡,{p} 你的t -trail 在莫克肯的每一寸土壤上留下。 {/i}"
+    p "{i} 一直以来,你游荡,{p} 你的t -trail 在莫肯的每一寸土壤上留下。 {/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_7fe0705f:
 
@@ -4139,7 +4134,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_b4eeb789:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_cbac562a:
 
-    "也许他就是奇姆失踪的罪魁祸首 也许... 你现在才意识到自己陷入的危险。"
+    "也许他就是齐门失踪的罪魁祸首 也许... 你现在才意识到自己陷入的危险。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_f89f02ee:
 
@@ -4227,8 +4222,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_7dc3f617:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7f32b4c5:
 
-    e "A-rgh... I- g-get off m-me."
-
+    e "啊、啊啊……我、我说放开我……"
 translate schinese_rewrite Scene_Spritebinder_Lose_bbfe1d54:
 
     "手指滑进你的嘴里 紧紧地按住你的舌头 尝着甜甜的味道。"
@@ -4367,8 +4361,7 @@ translate schinese_rewrite Scene_Bandit_Win_6e1931dc:
 
 translate schinese_rewrite Scene_Bandit_Win_0cf056ec:
 
-    bd "F-fuck, get off me!"
-
+    bd "操，放开我！"
 translate schinese_rewrite Scene_Bandit_Win_e1094a24:
 
     "你抬起他的脸,把它带到你身边,亲吻他"
@@ -4975,8 +4968,7 @@ translate schinese_rewrite Scene_Bandit_Win_8026890d:
 
 translate schinese_rewrite Scene_Bandit_Win_3e40fd43:
 
-    bd "Uh... I've got to go back."
-
+    bd "呃……我得回去了。"
 translate schinese_rewrite Scene_Bandit_Win_b3fb233a:
 
     "强盗们在坐在头顶上 摇摇欲坠的时候 大声喊叫。"
@@ -5151,8 +5143,7 @@ translate schinese_rewrite Scene_Bear_Win_ebafedb2:
 
 translate schinese_rewrite Scene_Bear_Win_79ab2ab0:
 
-    bearGuard "I-I-I... s-st-stop- i-"
-
+    bearGuard "我、我、我……停、停下……"
 translate schinese_rewrite Scene_Bear_Win_9ebcb03b:
 
     "熊警卫试图摆脱寒冷,你觉得这似乎都很有趣。"
@@ -5367,8 +5358,7 @@ translate schinese_rewrite Scene_Bear_Win_55c4159a:
 
 translate schinese_rewrite Scene_Bear_Win_1a721da8:
 
-    bearGuard "F-fuck, f-f-fuck... f-f-fuck..."
-
+    bearGuard "操、操……操……"
 translate schinese_rewrite Scene_Bear_Win_247b7ff5:
 
     "熊在呻吟 脸在扭曲 身体在颤抖。"
@@ -6239,8 +6229,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_3647e675:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_8f0d38ff:
 
-    ww "So fucking tight..."
-
+    ww "紧得他妈要命……"
 translate schinese_rewrite Scene_Werewolf_Double_Lose_4874cb33:
 
     "狼人把他的老二拉出来 然后推回去 把你的屁股拉得更宽。"
@@ -7623,8 +7612,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_c3e2a5f0:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_78f1fc0e:
 
-    h "I'm... I'm gonna..."
-
+    h "我……我快要……"
 translate schinese_rewrite Scene_Haskell_Blowjob_1d5b935a:
 
     "紧紧握着椅子的手臂,他的身体在接近高潮时,兴奋地颤抖。"
@@ -7959,8 +7947,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_2d457382:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_61912375:
 
-    e "Fuck, I'm gonna cum!"
-
+    e "操，我要射了！"
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_f7f29c81:
 
     "你大喊大叫,你的臀部在向老鼠的喉咙里 发射热种子的绳子时 急急忙地向前跳。"
@@ -10611,8 +10598,7 @@ translate schinese_rewrite Ribba_Command_Controller_Lick_ca306b80:
 
 translate schinese_rewrite Ribba_Command_Controller_Lick_9a2dc5c6:
 
-    rb "...That was humiliating."
-
+    rb "……真丢人。"
 translate schinese_rewrite Ribba_Command_Controller_Lick_79f2bf5e:
 
     "他的声音很紧 仍然带着违抗的痕迹。"
@@ -11983,8 +11969,7 @@ translate schinese_rewrite Scene_Ribba_Present_End_c854a98a:
 
 translate schinese_rewrite Scene_Ribba_Present_End_05be41d3:
 
-    rb "So cold back there..."
-
+    rb "后面好冷……"
 translate schinese_rewrite Scene_Ribba_Present_End_55cf54da:
 
     "他的声音很安静 仍然带着尴尬的痕迹。"

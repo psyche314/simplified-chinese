@@ -11,7 +11,7 @@ translate schinese_rewrite main_green_forest_e31207d0:
 
 translate schinese_rewrite main_green_forest_612a17d9:
 
-    gt "你是那个信使,我被派来守卫卢斯特菲尔德。"
+    gt "你是那个信使,我被派来守卫乐斯民菲尔德。"
 
 translate schinese_rewrite main_green_forest_6d7a8709:
 
@@ -167,7 +167,7 @@ translate schinese_rewrite main_woodland_outpost_4a5579c6:
 
 translate schinese_rewrite main_woodland_outpost_78c284fa:
 
-    k "Hey... Where's 福坎?"
+    k "Hey... Where's 弗坎?"
 
 translate schinese_rewrite main_woodland_outpost_cca30a87:
 
@@ -175,7 +175,7 @@ translate schinese_rewrite main_woodland_outpost_cca30a87:
 
 translate schinese_rewrite main_woodland_outpost_c2205134:
 
-    "卡莉惊讶地看着你。"
+    "卡里惊讶地看着你。"
 
 translate schinese_rewrite main_woodland_outpost_dcd86e92:
 
@@ -407,7 +407,7 @@ translate schinese_rewrite summery_farmland_loop_72cb7862:
 
 translate schinese_rewrite summery_farmland_loop_28cfe685:
 
-    msg "学习新食堂 查查拉希姆的工作站。"
+    msg "学习新食堂 查查雷希姆的工作站。"
 
 translate schinese_rewrite summery_farmland_loop_e91ba75d:
 
@@ -531,7 +531,7 @@ translate schinese_rewrite sparkling_lagoon_loop_6248f077:
 
 translate schinese_rewrite sparkling_lagoon_loop_28cfe685:
 
-    msg "学习新食堂 查查拉希姆的工作站。"
+    msg "学习新食堂 查查雷希姆的工作站。"
 
 translate schinese_rewrite sparkling_lagoon_loop_e91ba75d:
 
@@ -683,7 +683,7 @@ translate schinese_rewrite mossy_freshwater_loop_c9ab56ee:
 
 translate schinese_rewrite mossy_freshwater_loop_0fd98fba:
 
-    "这是软布料的配方,你把它放在一边, 也许你回去拉希姆的车间会有用。"
+    "这是软布料的配方,你把它放在一边, 也许你回去雷希姆的车间会有用。"
 
 translate schinese_rewrite mossy_freshwater_loop_f3fcd3e8:
 
@@ -771,7 +771,7 @@ translate schinese_rewrite woodland_outpost_loop_317229cd:
 
 translate schinese_rewrite woodland_outpost_loop_9119c4e7:
 
-    e "我来自卢斯特菲尔德,我刚刚在探险。"
+    e "我来自乐斯民菲尔德,我刚刚在探险。"
 
 translate schinese_rewrite woodland_outpost_loop_e628981d:
 
@@ -795,7 +795,7 @@ translate schinese_rewrite woodland_outpost_loop_d7bf05f9:
 
 translate schinese_rewrite woodland_outpost_loop_a4000d3b:
 
-    my "卢斯特菲尔德的快递员 局长跟我说了你的事。"
+    my "乐斯民菲尔德的快递员 局长跟我说了你的事。"
 
 translate schinese_rewrite woodland_outpost_loop_2dd895ab:
 
@@ -867,7 +867,7 @@ translate schinese_rewrite woodland_outpost_loop_b328ad41:
 
 translate schinese_rewrite woodland_outpost_loop_b62414e7:
 
-    my "潮湿洞穴。"
+    my "潮湿山洞。"
 
 translate schinese_rewrite woodland_outpost_loop_2b40a022_1:
 

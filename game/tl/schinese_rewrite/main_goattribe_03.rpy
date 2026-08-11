@@ -39,7 +39,7 @@ translate schinese_rewrite main_ardent_cauldron_77f04980:
 
 translate schinese_rewrite main_ardent_cauldron_c3c28b12:
 
-    g "这些是莫克肯最迷人的生物之一, 其它的则是模仿者, 那些只是装作藏着宝石和晶体的卑鄙小人。"
+    g "这些是莫肯最迷人的生物之一, 其它的则是模仿者, 那些只是装作藏着宝石和晶体的卑鄙小人。"
 
 translate schinese_rewrite main_ardent_cauldron_2f8b4d12:
 
@@ -143,7 +143,7 @@ translate schinese_rewrite Gwyddyon_First_Meet_fbc23e26:
 
 translate schinese_rewrite Gwyddyon_First_Meet_2e85e142:
 
-    my "卢斯特菲尔德的[e] 那天救了酋长?"
+    my "乐斯民菲尔德的[e] 那天救了酋长?"
 
 translate schinese_rewrite Gwyddyon_First_Meet_257e0c2c:
 
@@ -151,7 +151,7 @@ translate schinese_rewrite Gwyddyon_First_Meet_257e0c2c:
 
 translate schinese_rewrite Gwyddyon_First_Meet_abe45804:
 
-    g "我叫格威德昂 万一你不知道,这里归我所有。"
+    g "我叫格威迪恩 万一你不知道,这里归我所有。"
 
 translate schinese_rewrite Gwyddyon_First_Meet_b1e5ea36:
 
@@ -223,7 +223,7 @@ translate schinese_rewrite Gwyddyon_First_Meet_c91da9c3:
 
 translate schinese_rewrite Gwyddyon_First_Meet_9cb3b735:
 
-    "格威德昂 斜视你 与反射。"
+    "格威迪恩 斜视你 与反射。"
 
 translate schinese_rewrite Gwyddyon_First_Meet_96293236:
 
@@ -363,7 +363,7 @@ translate schinese_rewrite Gwyddyon_First_Meet_2a33b596:
 
 translate schinese_rewrite Gwyddyon_First_Meet_14726b48:
 
-    "你礼貌地点头 让格威德昂回到他的任务。"
+    "你礼貌地点头 让格威迪恩回到他的任务。"
 
 translate schinese_rewrite Gwyddyon_Dialogue_6ceae024:
 
@@ -391,7 +391,7 @@ translate schinese_rewrite Gwyddyon_Normal_Talk_93d16ea9:
 
 translate schinese_rewrite Gwyddyon_Ask_Business_c6942587:
 
-    e "格威德昂, 什么是业务现在这样?"
+    e "格威迪恩, 什么是业务现在这样?"
 
 translate schinese_rewrite Gwyddyon_Ask_Business_e5171cd8:
 
@@ -399,11 +399,11 @@ translate schinese_rewrite Gwyddyon_Ask_Business_e5171cd8:
 
 translate schinese_rewrite Gwyddyon_Ask_Business_6d2450a9:
 
-    g "福坎做的那些事 也没帮到店里 我怀疑它能帮到部落。"
+    g "弗坎做的那些事 也没帮到店里 我怀疑它能帮到部落。"
 
 translate schinese_rewrite Gwyddyon_Ask_Business_565fedb6:
 
-    e "你觉得和卢斯特菲尔德做交易怎么样?"
+    e "你觉得和乐斯民菲尔德做交易怎么样?"
 
 translate schinese_rewrite Gwyddyon_Ask_Business_aad4a25b:
 
@@ -423,7 +423,7 @@ translate schinese_rewrite Gwyddyon_Ask_Business_ded70600:
 
 translate schinese_rewrite Gwyddyon_Ask_Business_f5ac5cf3:
 
-    "格威德昂几乎说这话不粗鲁, 如果不是喷洒的愤怒。"
+    "格威迪恩几乎说这话不粗鲁, 如果不是喷洒的愤怒。"
 
 translate schinese_rewrite Gwyddyon_Ask_Business_906de268:
 
@@ -607,7 +607,7 @@ translate schinese_rewrite Gwyddyon_Ask_History_Cauldron_d847b7d0:
 
 translate schinese_rewrite Gwyddyon_Ask_History_Cauldron_b13b1b29:
 
-    "格威德昂举起手来祈祷一秒钟,然后立即回到他平常的吹嘘。"
+    "格威迪恩举起手来祈祷一秒钟,然后立即回到他平常的吹嘘。"
 
 translate schinese_rewrite Gwyddyon_Ask_History_Cauldron_3e8b7798:
 
@@ -695,7 +695,7 @@ translate schinese_rewrite Gwyddyon_Ask_History_Cauldron_4b340443:
 
 translate schinese_rewrite Gwyddyon_Ask_History_Cauldron_0613a7d9:
 
-    "格威德昂暂停了一下, 看着你 稍微退了一下。"
+    "格威迪恩暂停了一下, 看着你 稍微退了一下。"
 
 translate schinese_rewrite Gwyddyon_Ask_History_Cauldron_f6268f49:
 
@@ -1043,7 +1043,7 @@ translate schinese_rewrite Gwyddyon_Mining_Task_42bd778a:
 
 translate schinese_rewrite Gwyddyon_Mining_Task_c138f530:
 
-    e "该死,格维德,你比肯恩更残忍。"
+    e "该死,格维德,你比凯恩更残忍。"
 
 translate schinese_rewrite Gwyddyon_Mining_Task_bb29a33f:
 
@@ -1051,7 +1051,7 @@ translate schinese_rewrite Gwyddyon_Mining_Task_bb29a33f:
 
 translate schinese_rewrite Gwyddyon_Mining_Task_b995fac7:
 
-    "他看起来不像那种人 但承认你从格威德昂的眼神里 感觉到你的裤带硬起来了。"
+    "他看起来不像那种人 但承认你从格威迪恩的眼神里 感觉到你的裤带硬起来了。"
 
 translate schinese_rewrite Gwyddyon_Mining_Task_c18eb48e:
 
@@ -1079,7 +1079,7 @@ translate schinese_rewrite Gwyddyon_Mining_Task_b6054fb3:
 
 translate schinese_rewrite Gwyddyon_Mining_Task_5309ab5e:
 
-    e "我认为富肯只是个 不同于特夫菲克的领袖。"
+    e "我认为弗坎只是个 不同于特夫菲克的领袖。"
 
 translate schinese_rewrite Gwyddyon_Mining_Task_3a7bde85:
 
@@ -1099,7 +1099,7 @@ translate schinese_rewrite Gwyddyon_Mining_Task_1be72bee:
 
 translate schinese_rewrite Gwyddyon_Mining_Task_fb3b7603:
 
-    "你仍然认为富肯值得一些优点 无论山羊部落最近是什么。"
+    "你仍然认为弗坎值得一些优点 无论山羊部落最近是什么。"
 
 translate schinese_rewrite Gwyddyon_Mining_Task_f8b23318:
 
@@ -1111,7 +1111,7 @@ translate schinese_rewrite Gwyddyon_Mining_Task_f7842e87:
 
 translate schinese_rewrite Gwyddyon_Mining_Task_7c194227:
 
-    "你保持沉默 即使你为富肯辩护 你也不能停下来 但看到山羊部落陷入的深层麻烦。"
+    "你保持沉默 即使你为弗坎辩护 你也不能停下来 但看到山羊部落陷入的深层麻烦。"
 
 translate schinese_rewrite Gwyddyon_Mining_Task_041c427f:
 
@@ -1295,7 +1295,7 @@ translate schinese_rewrite Gwyddyon_Voting_Trade_67b46cf1:
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_de97826e:
 
-    "格威德昂一直盯着他看 甚至不承认你的存在。"
+    "格威迪恩一直盯着他看 甚至不承认你的存在。"
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_9f937542:
 
@@ -1339,7 +1339,7 @@ translate schinese_rewrite Gwyddyon_Voting_Trade_c38faa6d:
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_e6350b89:
 
-    "格威德昂继续无视你, 甚至没有留意另一眼。"
+    "格威迪恩继续无视你, 甚至没有留意另一眼。"
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_f48a8199:
 
@@ -1431,7 +1431,7 @@ translate schinese_rewrite Gwyddyon_Voting_Trade_63a82c81:
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_ef5775d5:
 
-    "就像格威德昂转身 接受他工作的其他程序 你喊着让他尽快引起注意。"
+    "就像格威迪恩转身 接受他工作的其他程序 你喊着让他尽快引起注意。"
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_1281e655:
 
@@ -1515,7 +1515,7 @@ translate schinese_rewrite Gwyddyon_Voting_Trade_c58ddeaf:
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_03ef5385:
 
-    "你只是静默一小会儿 在格威德昂小狗面前。"
+    "你只是静默一小会儿 在格威迪恩小狗面前。"
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_a4d78a6f_1:
 
@@ -1707,7 +1707,7 @@ translate schinese_rewrite Gwyddyon_Voting_Trade_ab42c2b4:
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_d0cba7d0:
 
-    "格威德昂把手放在脸上,沮丧地叹气。"
+    "格威迪恩把手放在脸上,沮丧地叹气。"
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_cfa31999:
 
@@ -1863,7 +1863,7 @@ translate schinese_rewrite Gwyddyon_Voting_Trade_4a7a1954:
 
 translate schinese_rewrite Gwyddyon_Voting_Trade_d2ca257b:
 
-    "你叹气了 格威德昂在迅速返回工作前 拿出了真正的笑柄 因为他继续假装你不存在。"
+    "你叹气了 格威迪恩在迅速返回工作前 拿出了真正的笑柄 因为他继续假装你不存在。"
 
 translate schinese_rewrite Gwyddyon_Voting_Fail_adf1f0ed:
 
@@ -1927,7 +1927,7 @@ translate schinese_rewrite Gwyddyon_Voting_Fail_2433372b:
 
 translate schinese_rewrite Gwyddyon_Voting_Fail_62162872:
 
-    "感觉就像每天去格威德昂的杂事 他甚至没有反应 当你的拳头踩他的背时。"
+    "感觉就像每天去格威迪恩的杂事 他甚至没有反应 当你的拳头踩他的背时。"
 
 translate schinese_rewrite Gwyddyon_Voting_Fail_710abec8:
 

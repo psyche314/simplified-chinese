@@ -11,7 +11,7 @@ translate schinese_rewrite Event_Party01_814ee3ad:
 
 translate schinese_rewrite Event_Party01_4e9242c6:
 
-    "在卢斯特菲尔德见过的每一个人 基本上都在这里。"
+    "在乐斯民菲尔德见过的每一个人 基本上都在这里。"
 
 translate schinese_rewrite Event_Party01_4e7dd2f6:
 
@@ -51,15 +51,15 @@ translate schinese_rewrite Event_Party01_3adc113e:
 
 translate schinese_rewrite Event_Party01_fed08a01:
 
-    e "谢谢你,洛萨,很高兴你来了。"
+    e "谢谢你,洛萨尔,很高兴你来了。"
 
 translate schinese_rewrite Event_Party01_27407141:
 
-    "你注意到拉希姆站在一边 向你挥手。"
+    "你注意到雷希姆站在一边 向你挥手。"
 
 translate schinese_rewrite Event_Party01_1dbba092:
 
-    e "拉希姆?"
+    e "雷希姆?"
 
 translate schinese_rewrite Event_Party01_934fbf66:
 
@@ -87,7 +87,7 @@ translate schinese_rewrite Event_Party01_cb4792de:
 
 translate schinese_rewrite Event_Party01_f7c4ca19:
 
-    s "庆祝你加入鲁斯特菲尔德!"
+    s "庆祝你加入乐斯民菲尔德!"
 
 translate schinese_rewrite Event_Party01_a9bebdf4:
 
@@ -139,7 +139,7 @@ translate schinese_rewrite Event_Party01_c7cf4238:
 
 translate schinese_rewrite Event_Party01_f4d9d7db:
 
-    "你看到肯恩像往常一样在柜台工作 他在倒酒。"
+    "你看到凯恩像往常一样在柜台工作 他在倒酒。"
 
 translate schinese_rewrite Event_Party01_ebc05101:
 
@@ -155,7 +155,7 @@ translate schinese_rewrite Event_Party01_9bb94d53:
 
 translate schinese_rewrite Event_Party01_552bc535:
 
-    e "肯恩,谢谢。"
+    e "凯恩,谢谢。"
 
 translate schinese_rewrite Event_Party01_62216291:
 
@@ -179,7 +179,7 @@ translate schinese_rewrite Event_Party01_5f40b753:
 
 translate schinese_rewrite Event_Party01_d1d64d3b:
 
-    "肯恩看着你,笑笑。"
+    "凯恩看着你,笑笑。"
 
 translate schinese_rewrite Event_Party01_d77a9ac3:
 
@@ -191,7 +191,7 @@ translate schinese_rewrite Event_Party01_3c3c44dd:
 
 translate schinese_rewrite Event_Party01_cf7e6a9b:
 
-    "你只能把眼睛缩窄一点 肯恩的金子并不为人所知。"
+    "你只能把眼睛缩窄一点 凯恩的金子并不为人所知。"
 
 translate schinese_rewrite Event_Party01_7d10a5e2:
 
@@ -227,19 +227,19 @@ translate schinese_rewrite Event_Party01_dde1637a:
 
 translate schinese_rewrite Event_Party01_196771c2:
 
-    "你非常惊讶看到拉希姆在这里 考虑他和肯恩的历史。"
+    "你非常惊讶看到雷希姆在这里 考虑他和凯恩的历史。"
 
 translate schinese_rewrite Event_Party01_6f96e3fc:
 
-    "然而,拉希姆似乎明显感到不舒服。"
+    "然而,雷希姆似乎明显感到不舒服。"
 
 translate schinese_rewrite Event_Party01_63feb00c:
 
-    "你走过去,拉希姆似乎稍稍放松。"
+    "你走过去,雷希姆似乎稍稍放松。"
 
 translate schinese_rewrite Event_Party01_ca1bc323:
 
-    e "一切还好吗,拉希姆?"
+    e "一切还好吗,雷希姆?"
 
 translate schinese_rewrite Event_Party01_5ff4e77a:
 
@@ -255,7 +255,7 @@ translate schinese_rewrite Event_Party01_7c225574:
 
 translate schinese_rewrite Event_Party01_e84c9205:
 
-    "拉希姆叹气 似乎第一次在周围居住。"
+    "雷希姆叹气 似乎第一次在周围居住。"
 
 translate schinese_rewrite Event_Party01_7e2e1351:
 
@@ -267,7 +267,7 @@ translate schinese_rewrite Event_Party01_a0e73d9e:
 
 translate schinese_rewrite Event_Party01_341b61d6:
 
-    "想象他想起肯恩以前的服务器并不难。"
+    "想象他想起凯恩以前的服务器并不难。"
 
 translate schinese_rewrite Event_Party01_01593680:
 
@@ -279,7 +279,7 @@ translate schinese_rewrite Event_Party01_9bd9ed06:
 
 translate schinese_rewrite Event_Party01_bc7020a0:
 
-    "拉希姆的呼噜声和尖声。"
+    "雷希姆的呼噜声和尖声。"
 
 translate schinese_rewrite Event_Party01_ffbc08b5:
 
@@ -287,7 +287,7 @@ translate schinese_rewrite Event_Party01_ffbc08b5:
 
 translate schinese_rewrite Event_Party01_ce31d4d0:
 
-    "似乎证明他的观点 拉希姆喝掉了一大杯啤酒。"
+    "似乎证明他的观点 雷希姆喝掉了一大杯啤酒。"
 
 translate schinese_rewrite Event_Party01_42092ca2:
 
@@ -299,15 +299,15 @@ translate schinese_rewrite Event_Party01_61ce4f5c:
 
 translate schinese_rewrite Event_Party01_aa988ec1:
 
-    e "好吧。享受派对吧,拉希姆!"
+    e "好吧。享受派对吧,雷希姆!"
 
 translate schinese_rewrite Event_Party01_7d0ece49:
 
-    "当你离开时,你注意到拉希姆周围的 重力有点微弱。"
+    "当你离开时,你注意到雷希姆周围的 重力有点微弱。"
 
 translate schinese_rewrite Event_Party01_0ca64474:
 
-    "在那一刻,欧勒的侍卫们过来向你致意。"
+    "在那一刻,奥利的侍卫们过来向你致意。"
 
 translate schinese_rewrite Event_Party01_a872175d:
 
@@ -343,7 +343,7 @@ translate schinese_rewrite Event_Party01_05b142cd:
 
 translate schinese_rewrite Event_Party01_ef051a7d:
 
-    o "这是Seb的主意 他想庆祝你加入卢斯特菲尔德。"
+    o "这是Seb的主意 他想庆祝你加入乐斯民菲尔德。"
 
 translate schinese_rewrite Event_Party01_82ba5491:
 
@@ -395,7 +395,7 @@ translate schinese_rewrite Event_Party01_cebde441:
 
 translate schinese_rewrite Event_Party01_f15f0da3:
 
-    "当你离开时 安布尔抓住你 对你发光。"
+    "当你离开时 安布抓住你 对你发光。"
 
 translate schinese_rewrite Event_Party01_d7e2e312:
 
@@ -415,11 +415,11 @@ translate schinese_rewrite Event_Party01_6a5f8dde:
 
 translate schinese_rewrite Event_Party01_a033b35b:
 
-    e "安布尔,你夸大了!"
+    e "安布,你夸大了!"
 
 translate schinese_rewrite Event_Party01_53dfa15b:
 
-    a "不 真的 你给卢斯特菲尔德带来了很多积极的变化。"
+    a "不 真的 你给乐斯民菲尔德带来了很多积极的变化。"
 
 translate schinese_rewrite Event_Party01_6e36a295:
 
@@ -559,19 +559,19 @@ translate schinese_rewrite Event_Party01_449fa7e4:
 
 translate schinese_rewrite Event_Party01_53861ed1:
 
-    "最终,阴影落到洛萨的地步。"
+    "最终,阴影落到洛萨尔的地步。"
 
 translate schinese_rewrite Event_Party01_61524890:
 
-    l "嘿,谁没有眼睛 撞到卢斯特菲尔德的英雄?"
+    l "嘿,谁没有眼睛 撞到乐斯民菲尔德的英雄?"
 
 translate schinese_rewrite Event_Party01_90849705:
 
-    "你可以看到,洛塔尔的脸 被从醉酒中冲洗。"
+    "你可以看到,洛萨尔的脸 被从醉酒中冲洗。"
 
 translate schinese_rewrite Event_Party01_d8cb6bde:
 
-    "当你即将道歉的时候 洛塔尔的目光聚焦。"
+    "当你即将道歉的时候 洛萨尔的目光聚焦。"
 
 translate schinese_rewrite Event_Party01_c47a7375:
 
@@ -587,7 +587,7 @@ translate schinese_rewrite Event_Party01_5968e5bf:
 
 translate schinese_rewrite Event_Party01_aecf7681:
 
-    e "洛塔尔,你喝醉了,你最好坐下休息。"
+    e "洛萨尔,你喝醉了,你最好坐下休息。"
 
 translate schinese_rewrite Event_Party01_648ae6c5:
 
@@ -599,7 +599,7 @@ translate schinese_rewrite Event_Party01_7e8c7ae6:
 
 translate schinese_rewrite Event_Party01_8b86d4ff:
 
-    "您移动来帮助稳定的洛萨。"
+    "您移动来帮助稳定的洛萨尔。"
 
 translate schinese_rewrite Event_Party01_0cc34fee:
 
@@ -611,7 +611,7 @@ translate schinese_rewrite Event_Party01_d7e16e07:
 
 translate schinese_rewrite Event_Party01_0ea0e49e:
 
-    "在你阻止他之前,洛塔尔洗手间 被他脚踩得半死。"
+    "在你阻止他之前,洛萨尔洗手间 被他脚踩得半死。"
 
 translate schinese_rewrite Event_Party01_96f02f27:
 
@@ -735,7 +735,7 @@ translate schinese_rewrite Event_Party01_69d4cdc2:
 
 translate schinese_rewrite Event_Party01_ac75a288:
 
-    s "室友,你应得的,你为卢斯特菲尔德做了这么多事！"
+    s "室友,你应得的,你为乐斯民菲尔德做了这么多事！"
 
 translate schinese_rewrite Event_Party01_445e834b:
 
@@ -799,7 +799,7 @@ translate schinese_rewrite Event_Party01_d463a872:
 
 translate schinese_rewrite Event_Party01_e9aa9adb:
 
-    "洛塔尔和塞巴斯在争吵 哈斯凯尔坐在桌子上喝茶。"
+    "洛萨尔和塞巴斯在争吵 哈斯凯尔坐在桌子上喝茶。"
 
 translate schinese_rewrite Event_Party01_fa07fad2:
 
@@ -815,7 +815,7 @@ translate schinese_rewrite Event_Party01_6f1b5df5:
 
 translate schinese_rewrite Event_Party01_bd1fbdf5:
 
-    "洛塔尔的脸还是红的 但不再是因为酒精 而是愤怒。"
+    "洛萨尔的脸还是红的 但不再是因为酒精 而是愤怒。"
 
 translate schinese_rewrite Event_Party01_de303ce3:
 
@@ -851,7 +851,7 @@ translate schinese_rewrite Event_Party01_fbd831c4:
 
 translate schinese_rewrite Event_Party01_cdd06efb:
 
-    "洛塔尔的衣帽 紧张。"
+    "洛萨尔的衣帽 紧张。"
 
 translate schinese_rewrite Event_Party01_693effac:
 
@@ -863,7 +863,7 @@ translate schinese_rewrite Event_Party01_694f257b:
 
 translate schinese_rewrite Event_Party01_a1cdcab5:
 
-    "它停止了洛塔尔和塞巴斯。"
+    "它停止了洛萨尔和塞巴斯。"
 
 translate schinese_rewrite Event_Party01_de5edade:
 
@@ -895,7 +895,7 @@ translate schinese_rewrite Event_Party01_f4cf5735:
 
 translate schinese_rewrite Event_Party01_fef94c3b:
 
-    "洛塔尔和塞巴斯转身看你,他们俩都立即羞耻地冲红了。"
+    "洛萨尔和塞巴斯转身看你,他们俩都立即羞耻地冲红了。"
 
 translate schinese_rewrite Event_Party01_98f0697c:
 
@@ -923,7 +923,7 @@ translate schinese_rewrite Event_Party01_b6aa873d:
 
 translate schinese_rewrite Event_Party01_201be4d6:
 
-    "哈斯凯尔的洛塔尔画画 然后在你跟踪之前就对你画画。"
+    "哈斯凯尔的洛萨尔画画 然后在你跟踪之前就对你画画。"
 
 translate schinese_rewrite Event_Party01_cd3512f4:
 
@@ -967,7 +967,7 @@ translate schinese_rewrite Event_Party01_aec30422:
 
 translate schinese_rewrite Event_Party01_455bbbc0:
 
-    "你当看见欧勒和约格坐在酒馆的密处,远离眼界。"
+    "你当看见奥利和约格坐在酒馆的密处,远离眼界。"
 
 translate schinese_rewrite Event_Party01_74e9f746:
 
@@ -999,7 +999,7 @@ translate schinese_rewrite Event_Party01_50926701:
 
 translate schinese_rewrite Event_Party01_0fe6a8c7:
 
-    j "不错,跟老板和安布尔玩玩很好玩 你呢?"
+    j "不错,跟老板和安布玩玩很好玩 你呢?"
 
 translate schinese_rewrite Event_Party01_a87606ae:
 
@@ -1107,7 +1107,7 @@ translate schinese_rewrite Event_Party01_1c8a73ed:
 
 translate schinese_rewrite Event_Party01_bf5e3df7:
 
-    "那一刻,安布尔木材倒塌了。"
+    "那一刻,安布木材倒塌了。"
 
 translate schinese_rewrite Event_Party01_ffb6f7e7:
 
@@ -1119,7 +1119,7 @@ translate schinese_rewrite Event_Party01_196ef572:
 
 translate schinese_rewrite Event_Party01_d0bccf5e:
 
-    a "嘿,欧莱!"
+    a "嘿,奥利!"
 
 translate schinese_rewrite Event_Party01_bfea6e77:
 
@@ -1131,7 +1131,7 @@ translate schinese_rewrite Event_Party01_cedef752:
 
 translate schinese_rewrite Event_Party01_eca9a72b:
 
-    "然后,安布尔俯向欧勒,低声低语,低语的声调,无比平凡。"
+    "然后,安布俯向奥利,低声低语,低语的声调,无比平凡。"
 
 translate schinese_rewrite Event_Party01_12a25423:
 
@@ -1163,7 +1163,7 @@ translate schinese_rewrite Event_Party01_704d45ca:
 
 translate schinese_rewrite Event_Party01_a3427d44:
 
-    "安布尔举起杯子来为乔格和奥勒欢呼。"
+    "安布举起杯子来为乔格和奥勒欢呼。"
 
 translate schinese_rewrite Event_Party01_56b38c2b:
 
@@ -1171,11 +1171,11 @@ translate schinese_rewrite Event_Party01_56b38c2b:
 
 translate schinese_rewrite Event_Party01_8329aa5c:
 
-    "当派对稍稍消逝时 肯恩有时间放松一下。"
+    "当派对稍稍消逝时 凯恩有时间放松一下。"
 
 translate schinese_rewrite Event_Party01_9eb92065:
 
-    "你看见他离开柜台 坐拉希姆对面的座位。"
+    "你看见他离开柜台 坐雷希姆对面的座位。"
 
 translate schinese_rewrite Event_Party01_56d65eff:
 
@@ -1191,7 +1191,7 @@ translate schinese_rewrite Event_Party01_5ea21c00:
 
 translate schinese_rewrite Event_Party01_bfedc997:
 
-    "你注意到肯恩在拉希姆周围 掉了他平常的口音。"
+    "你注意到凯恩在雷希姆周围 掉了他平常的口音。"
 
 translate schinese_rewrite Event_Party01_c448a33d:
 
@@ -1203,7 +1203,7 @@ translate schinese_rewrite Event_Party01_2e1757f9:
 
 translate schinese_rewrite Event_Party01_84560a66:
 
-    "就这一次,肯恩听起来很真诚。"
+    "就这一次,凯恩听起来很真诚。"
 
 translate schinese_rewrite Event_Party01_336e50b5:
 
@@ -1215,7 +1215,7 @@ translate schinese_rewrite Event_Party01_1874b699:
 
 translate schinese_rewrite Event_Party01_e6d1fa72:
 
-    "拉希姆握紧了杯子紧身衣。"
+    "雷希姆握紧了杯子紧身衣。"
 
 translate schinese_rewrite Event_Party01_3d1c86bd:
 
@@ -1223,7 +1223,7 @@ translate schinese_rewrite Event_Party01_3d1c86bd:
 
 translate schinese_rewrite Event_Party01_3b1ad0c1:
 
-    "拉希姆还是什么也不说。"
+    "雷希姆还是什么也不说。"
 
 translate schinese_rewrite Event_Party01_9aad5668:
 
@@ -1231,7 +1231,7 @@ translate schinese_rewrite Event_Party01_9aad5668:
 
 translate schinese_rewrite Event_Party01_e6be7679:
 
-    "拉希姆鼻涕。"
+    "雷希姆鼻涕。"
 
 translate schinese_rewrite Event_Party01_3c1267c3:
 
@@ -1243,7 +1243,7 @@ translate schinese_rewrite Event_Party01_14db6a4f:
 
 translate schinese_rewrite Event_Party01_b40b28d0:
 
-    "过了一段时间,肯恩又恢复说话。"
+    "过了一段时间,凯恩又恢复说话。"
 
 translate schinese_rewrite Event_Party01_d01bce8a:
 
@@ -1251,7 +1251,7 @@ translate schinese_rewrite Event_Party01_d01bce8a:
 
 translate schinese_rewrite Event_Party01_5d0a56ef:
 
-    "拉希姆停下来 再喝一瓶啤酒。"
+    "雷希姆停下来 再喝一瓶啤酒。"
 
 translate schinese_rewrite Event_Party01_5564863a:
 
@@ -1279,7 +1279,7 @@ translate schinese_rewrite Event_Party01_b373c25b:
 
 translate schinese_rewrite Event_Party01_03379219:
 
-    "在他离开之前 你注意到肯恩回拉希姆了。"
+    "在他离开之前 你注意到凯恩回雷希姆了。"
 
 translate schinese_rewrite Event_Party01_8632c483:
 
@@ -1295,11 +1295,11 @@ translate schinese_rewrite Event_Party01_86e445aa:
 
 translate schinese_rewrite Event_Party01_d2caea30:
 
-    "哈斯凯尔和安布尔在谈论茶的不同特性。"
+    "哈斯凯尔和安布在谈论茶的不同特性。"
 
 translate schinese_rewrite Event_Party01_2a8e5558:
 
-    "你发誓你可以看到安布尔头上的星星 大部分细节都飞过他身上。"
+    "你发誓你可以看到安布头上的星星 大部分细节都飞过他身上。"
 
 translate schinese_rewrite Event_Party01_76ffe968:
 
@@ -1311,15 +1311,15 @@ translate schinese_rewrite Event_Party01_2e057aea:
 
 translate schinese_rewrite Event_Party01_ddd31595:
 
-    "拉希姆正试图击退一个坚持的洛塔尔人 他正试图从拉希姆那里 挖出一支新的盔甲。"
+    "雷希姆正试图击退一个坚持的洛萨尔人 他正试图从雷希姆那里 挖出一支新的盔甲。"
 
 translate schinese_rewrite Event_Party01_87318319:
 
-    "拉希姆的拒绝是坚定和肯定的。这并不能让卢斯特菲尔德的英雄化为灰烬,尽管他似乎更害怕拉希姆。"
+    "雷希姆的拒绝是坚定和肯定的。这并不能让乐斯民菲尔德的英雄化为灰烬,尽管他似乎更害怕雷希姆。"
 
 translate schinese_rewrite Event_Party01_8850cbb3:
 
-    "奥利和肯恩在柜台聊天,你相信奥利想谈生意。"
+    "奥利和凯恩在柜台聊天,你相信奥利想谈生意。"
 
 translate schinese_rewrite Event_Party01_2e6eeaa4:
 
@@ -1331,11 +1331,11 @@ translate schinese_rewrite Event_Party01_b77d0579:
 
 translate schinese_rewrite Event_Party01_dae9e376:
 
-    "很快,乔格和洛萨就去肯恩喝啤酒了。"
+    "很快,乔格和洛萨尔就去凯恩喝啤酒了。"
 
 translate schinese_rewrite Event_Party01_43065f43:
 
-    "安布尔和塞巴斯、拉希姆和奥勒在另一张桌子上。"
+    "安布和塞巴斯、雷希姆和奥勒在另一张桌子上。"
 
 translate schinese_rewrite Event_Party01_fde1872d:
 
@@ -1451,7 +1451,7 @@ translate schinese_rewrite Event_Party01_761ec58e:
 
 translate schinese_rewrite Event_Party01_8fa1c0d3:
 
-    j "肯恩,我刚刚告诉你了,你见过那只骆驼吗?"
+    j "凯恩,我刚刚告诉你了,你见过那只骆驼吗?"
 
 translate schinese_rewrite Event_Party01_074cf3cf:
 
@@ -1487,7 +1487,7 @@ translate schinese_rewrite Event_Party01_72dea9dd:
 
 translate schinese_rewrite Event_Party01_dd637aaf:
 
-    c "奇姆?"
+    c "齐门?"
 
 translate schinese_rewrite Event_Party01_1ccbe73b:
 
@@ -1523,7 +1523,7 @@ translate schinese_rewrite Event_Party01_ff4e37c4:
 
 translate schinese_rewrite Event_Party01_a8d5791c:
 
-    "你可以感觉到肯恩的言语在挣扎,几乎好像他曾经经历过类似的事情。"
+    "你可以感觉到凯恩的言语在挣扎,几乎好像他曾经经历过类似的事情。"
 
 translate schinese_rewrite Event_Party01_8a3af9e6:
 
@@ -1611,7 +1611,7 @@ translate schinese_rewrite Event_Party01_44217118:
 
 translate schinese_rewrite Event_Party01_7281bbd7:
 
-    "你走到桌子边 发现安布尔也站在那里。"
+    "你走到桌子边 发现安布也站在那里。"
 
 translate schinese_rewrite Event_Party01_800cfb98:
 
@@ -1619,7 +1619,7 @@ translate schinese_rewrite Event_Party01_800cfb98:
 
 translate schinese_rewrite Event_Party01_8aa5e4b9:
 
-    s "当然是Amb,拉希姆为你担保。"
+    s "当然是Amb,雷希姆为你担保。"
 
 translate schinese_rewrite Event_Party01_db83bd51:
 
@@ -1659,7 +1659,7 @@ translate schinese_rewrite Event_Party01_ad7d64e6:
 
 translate schinese_rewrite Event_Party01_12f45411:
 
-    "你看见肋骨上有奥勒肘骨的安布尔吗?"
+    "你看见肋骨上有奥勒肘骨的安布吗?"
 
 translate schinese_rewrite Event_Party01_8f0f392e:
 
@@ -1679,7 +1679,7 @@ translate schinese_rewrite Event_Party01_7122cb54:
 
 translate schinese_rewrite Event_Party01_7c586493:
 
-    o "总之 赛伯和拉希姆那天在楼上下棋。"
+    o "总之 赛伯和雷希姆那天在楼上下棋。"
 
 translate schinese_rewrite Event_Party01_6a8fe6b7:
 
@@ -1703,7 +1703,7 @@ translate schinese_rewrite Event_Party01_1f2fac05:
 
 translate schinese_rewrite Event_Party01_bbfec0f6:
 
-    o "拉希姆从女王的卒子开始。"
+    o "雷希姆从女王的卒子开始。"
 
 translate schinese_rewrite Event_Party01_de0be363:
 
@@ -1711,7 +1711,7 @@ translate schinese_rewrite Event_Party01_de0be363:
 
 translate schinese_rewrite Event_Party01_cd574b7c:
 
-    s "不,实际上不是,拉希姆,我比你赢得多两倍。"
+    s "不,实际上不是,雷希姆,我比你赢得多两倍。"
 
 translate schinese_rewrite Event_Party01_0a9fec8c:
 
@@ -1735,7 +1735,7 @@ translate schinese_rewrite Event_Party01_114f75f9:
 
 translate schinese_rewrite Event_Party01_66d43ed5:
 
-    s "你确定你不想加入洛萨吗?"
+    s "你确定你不想加入洛萨尔吗?"
 
 translate schinese_rewrite Event_Party01_03c0ed9f:
 
@@ -1755,7 +1755,7 @@ translate schinese_rewrite Event_Party01_fef4dd9d:
 
 translate schinese_rewrite Event_Party01_2e051382:
 
-    "你看,塞巴斯停止把邪恶的眼珠给安布尔,他仍然把它给洛塔尔和约格。"
+    "你看,塞巴斯停止把邪恶的眼珠给安布,他仍然把它给洛萨尔和约格。"
 
 translate schinese_rewrite Event_Party01_a31c0f4a:
 
@@ -2067,7 +2067,7 @@ translate schinese_rewrite Event_Party01_Jog_9e15db04:
 
 translate schinese_rewrite Event_Party01_Jog_98a34fad:
 
-    j "摆脱了那些失败者 在老板和安布尔找到了更好的公司。"
+    j "摆脱了那些失败者 在老板和安布找到了更好的公司。"
 
 translate schinese_rewrite Event_Party01_Jog_d69d5688:
 
@@ -2111,7 +2111,7 @@ translate schinese_rewrite Event_Party01_Jog_90132799:
 
 translate schinese_rewrite Event_Party01_Jog_af0f2d01:
 
-    j "总之,我最好在那个白痴再做蠢事之前 去找安布尔。"
+    j "总之,我最好在那个白痴再做蠢事之前 去找安布。"
 
 translate schinese_rewrite Event_Party01_Cane_de35eb89:
 
@@ -2123,7 +2123,7 @@ translate schinese_rewrite Event_Party01_Cane_7ea37fc3:
 
 translate schinese_rewrite Event_Party01_Cane_387c4a39:
 
-    "肯恩转身来要你付出代价。"
+    "凯恩转身来要你付出代价。"
 
 translate schinese_rewrite Event_Party01_Cane_f0f1014d:
 
@@ -2147,7 +2147,7 @@ translate schinese_rewrite Event_Party01_Cane_b60b787c:
 
 translate schinese_rewrite Event_Party01_Cane_9cb3748b:
 
-    "肯恩用眉毛看着你 然后再马上揍你屁股。"
+    "凯恩用眉毛看着你 然后再马上揍你屁股。"
 
 translate schinese_rewrite Event_Party01_Cane_711f1159:
 
@@ -2159,7 +2159,7 @@ translate schinese_rewrite Event_Party01_Cane_0376a308:
 
 translate schinese_rewrite Event_Party01_Cane_ba9e5178:
 
-    "你听到他的口音消失了一秒钟 就像拉希姆那样 他说话很安静。"
+    "你听到他的口音消失了一秒钟 就像雷希姆那样 他说话很安静。"
 
 translate schinese_rewrite Event_Party01_Cane_e8f88048:
 
@@ -2167,7 +2167,7 @@ translate schinese_rewrite Event_Party01_Cane_e8f88048:
 
 translate schinese_rewrite Event_Party01_Cane_30ebdbbf:
 
-    "在你对发生的事说之前 肯恩先把你的头打一巴掌 然后继续收拾东西。"
+    "在你对发生的事说之前 凯恩先把你的头打一巴掌 然后继续收拾东西。"
 
 translate schinese_rewrite Event_Party01_Cane_64f06f2d:
 
@@ -2175,7 +2175,7 @@ translate schinese_rewrite Event_Party01_Cane_64f06f2d:
 
 translate schinese_rewrite Event_Party01_Cane_c8ceba7a:
 
-    "肯恩放出一个心跳的笑声"
+    "凯恩放出一个心跳的笑声"
 
 translate schinese_rewrite Event_Party01_Cane_00f0b214:
 
@@ -2191,7 +2191,7 @@ translate schinese_rewrite Event_Party01_Cane_c78a3449:
 
 translate schinese_rewrite Event_Party01_Cane_9a4b1d85:
 
-    c "洛塔尔的帮会把我从酒库里洗干净了 我得为明天准备更多。"
+    c "洛萨尔的帮会把我从酒库里洗干净了 我得为明天准备更多。"
 
 translate schinese_rewrite Event_Party01_Cane_74964a79:
 
@@ -2199,7 +2199,7 @@ translate schinese_rewrite Event_Party01_Cane_74964a79:
 
 translate schinese_rewrite Event_Party01_Cane_b9b5c066:
 
-    e "拉希姆今天在这里 或许你将来可以去他的店里参观一下。"
+    e "雷希姆今天在这里 或许你将来可以去他的店里参观一下。"
 
 translate schinese_rewrite Event_Party01_Cane_7e4d44f8:
 
@@ -2219,7 +2219,7 @@ translate schinese_rewrite Event_Party01_Cane_22a4a268:
 
 translate schinese_rewrite Event_Party01_Cane_836cbbb4:
 
-    "肯恩继续移动另一个盒子。"
+    "凯恩继续移动另一个盒子。"
 
 translate schinese_rewrite Event_Party01_Cane_0a4edbb9:
 
@@ -2243,7 +2243,7 @@ translate schinese_rewrite Event_Party01_Cane_d6598591:
 
 translate schinese_rewrite Event_Party01_Cane_5802764b:
 
-    "肯恩转身看你。"
+    "凯恩转身看你。"
 
 translate schinese_rewrite Event_Party01_Cane_ddd4455e:
 
@@ -2263,7 +2263,7 @@ translate schinese_rewrite Event_Party01_Cane_6a7061e6:
 
 translate schinese_rewrite Event_Party01_Cane_0f051003:
 
-    "肯恩对你放纵地微笑。"
+    "凯恩对你放纵地微笑。"
 
 translate schinese_rewrite Event_Party01_Cane_26167052:
 
@@ -2271,15 +2271,15 @@ translate schinese_rewrite Event_Party01_Cane_26167052:
 
 translate schinese_rewrite Event_Party01_Cane_9cb50d95:
 
-    e "但我甚至不知道 离卢斯特菲尔德很近的地方。"
+    e "但我甚至不知道 离乐斯民菲尔德很近的地方。"
 
 translate schinese_rewrite Event_Party01_Cane_2a848081:
 
-    "肯恩看着你,就像他能看见你的未来。"
+    "凯恩看着你,就像他能看见你的未来。"
 
 translate schinese_rewrite Event_Party01_Cane_61badab9:
 
-    c "孩子,记住我们不是来给你灌醉的 当你被挤得喘不过气来的时候,记住你在卢斯特菲尔德有朋友。"
+    c "孩子,记住我们不是来给你灌醉的 当你被挤得喘不过气来的时候,记住你在乐斯民菲尔德有朋友。"
 
 translate schinese_rewrite Event_Party01_Cane_967975e5:
 
@@ -2287,11 +2287,11 @@ translate schinese_rewrite Event_Party01_Cane_967975e5:
 
 translate schinese_rewrite Event_Party01_Cane_28c18cb4:
 
-    "肯恩对身体舒适的想法 相当不寻常 但你欣赏这个想法。"
+    "凯恩对身体舒适的想法 相当不寻常 但你欣赏这个想法。"
 
 translate schinese_rewrite Event_Party01_Cane_24f6be09:
 
-    e "谢谢,肯恩。"
+    e "谢谢,凯恩。"
 
 translate schinese_rewrite Event_Party01_Cane_6478fd29:
 
@@ -2299,7 +2299,7 @@ translate schinese_rewrite Event_Party01_Cane_6478fd29:
 
 translate schinese_rewrite Event_Party01_Cane_e5c33e2d:
 
-    c "不管怎么说,当托普向我索要钱时,拉希姆也在场。"
+    c "不管怎么说,当托普向我索要钱时,雷希姆也在场。"
 
 translate schinese_rewrite Event_Party01_Cane_f280f22b:
 
@@ -2311,7 +2311,7 @@ translate schinese_rewrite Event_Party01_Cane_b9f58588:
 
 translate schinese_rewrite Event_Party01_Cane_616fd70c:
 
-    "肯恩摇头。"
+    "凯恩摇头。"
 
 translate schinese_rewrite Event_Party01_Cane_49cbb340:
 
@@ -2323,11 +2323,11 @@ translate schinese_rewrite Event_Party01_Cane_9bbf2aa1:
 
 translate schinese_rewrite Event_Party01_Cane_ee2e64b2:
 
-    e "坎恩..."
+    e "凯恩..."
 
 translate schinese_rewrite Event_Party01_Cane_d749bfac:
 
-    "当他移动另一个盒子时 肯恩会呼气。"
+    "当他移动另一个盒子时 凯恩会呼气。"
 
 translate schinese_rewrite Event_Party01_Cane_fc7e4deb:
 
@@ -2335,7 +2335,7 @@ translate schinese_rewrite Event_Party01_Cane_fc7e4deb:
 
 translate schinese_rewrite Event_Party01_Cane_059ce465:
 
-    c "现在我的眼睛盯着你,我向拉希姆..."
+    c "现在我的眼睛盯着你,我向雷希姆..."
 
 translate schinese_rewrite Event_Party01_Cane_90ea445f:
 
@@ -2371,7 +2371,7 @@ translate schinese_rewrite Event_Party01_Cane_c5b46a0c:
 
 translate schinese_rewrite Event_Party01_Lothar_4edcddd1:
 
-    "你发现洛萨站在花园外面。"
+    "你发现洛萨尔站在花园外面。"
 
 translate schinese_rewrite Event_Party01_Lothar_c1521b17:
 
@@ -2387,7 +2387,7 @@ translate schinese_rewrite Event_Party01_Lothar_46742b7d:
 
 translate schinese_rewrite Event_Party01_Lothar_156224e8:
 
-    l "我是卢斯特菲尔德的英雄,叫我洛萨。"
+    l "我是乐斯民菲尔德的英雄,叫我洛萨尔。"
 
 translate schinese_rewrite Event_Party01_Lothar_4d19ad57:
 
@@ -2411,7 +2411,7 @@ translate schinese_rewrite Event_Party01_Lothar_b5a41306:
 
 translate schinese_rewrite Event_Party01_Lothar_ee442f3c:
 
-    "过了一会儿,洛萨咳嗽。"
+    "过了一会儿,洛萨尔咳嗽。"
 
 translate schinese_rewrite Event_Party01_Lothar_58fd7f1f:
 
@@ -2435,11 +2435,11 @@ translate schinese_rewrite Event_Party01_Lothar_34698556:
 
 translate schinese_rewrite Event_Party01_Lothar_185f2795:
 
-    l "当然,你不会的,朋友,我是卢斯特菲尔德的英雄 和我一起度过时光是你的荣幸。"
+    l "当然,你不会的,朋友,我是乐斯民菲尔德的英雄 和我一起度过时光是你的荣幸。"
 
 translate schinese_rewrite Event_Party01_Lothar_1d6ed170:
 
-    l "但鲁斯特菲尔德的其他地方可能没有这种感觉。"
+    l "但乐斯民菲尔德的其他地方可能没有这种感觉。"
 
 translate schinese_rewrite Event_Party01_Lothar_6fa10c87:
 
@@ -2451,7 +2451,7 @@ translate schinese_rewrite Event_Party01_Lothar_d4e43972:
 
 translate schinese_rewrite Event_Party01_Lothar_d686c4b2:
 
-    l "除非是乔格或安布尔邀请我参加这些友好的社会活动？"
+    l "除非是乔格或安布邀请我参加这些友好的社会活动？"
 
 translate schinese_rewrite Event_Party01_Lothar_893b5693:
 
@@ -2463,7 +2463,7 @@ translate schinese_rewrite Event_Party01_Lothar_174fbabb:
 
 translate schinese_rewrite Event_Party01_Lothar_ef6d793a:
 
-    "严格来说,洛塔尔自己已经回答了这个问题。"
+    "严格来说,洛萨尔自己已经回答了这个问题。"
 
 translate schinese_rewrite Event_Party01_Lothar_68e2a908:
 
@@ -2475,7 +2475,7 @@ translate schinese_rewrite Event_Party01_Lothar_d5de1ced:
 
 translate schinese_rewrite Event_Party01_Lothar_c427a369:
 
-    e "也许是因为你是卢斯特菲尔德的英雄。"
+    e "也许是因为你是乐斯民菲尔德的英雄。"
 
 translate schinese_rewrite Event_Party01_Lothar_4564e27a:
 
@@ -2487,11 +2487,11 @@ translate schinese_rewrite Event_Party01_Lothar_b0bee940:
 
 translate schinese_rewrite Event_Party01_Lothar_60d56f34:
 
-    "洛萨对你一目了然。"
+    "洛萨尔对你一目了然。"
 
 translate schinese_rewrite Event_Party01_Lothar_1db16df7:
 
-    e "人们可能比卢斯特菲尔德的英雄 更喜欢了解洛塔尔。"
+    e "人们可能比乐斯民菲尔德的英雄 更喜欢了解洛萨尔。"
 
 translate schinese_rewrite Event_Party01_Lothar_5c2e7874:
 
@@ -2511,7 +2511,7 @@ translate schinese_rewrite Event_Party01_Lothar_b5b3ccfe:
 
 translate schinese_rewrite Event_Party01_Lothar_aaacbfb1:
 
-    e "是的,你把我带回店里照顾我,这显示了洛塔尔以英雄之名的仁慈。"
+    e "是的,你把我带回店里照顾我,这显示了洛萨尔以英雄之名的仁慈。"
 
 translate schinese_rewrite Event_Party01_Lothar_76711565:
 
@@ -2543,7 +2543,7 @@ translate schinese_rewrite Event_Party01_Lothar_daac137e:
 
 translate schinese_rewrite Event_Party01_Lothar_ef4fdfa3:
 
-    e "无论哪种方式,你都准备遵守条件 并且这显示了洛塔尔在英雄的名下谦卑。"
+    e "无论哪种方式,你都准备遵守条件 并且这显示了洛萨尔在英雄的名下谦卑。"
 
 translate schinese_rewrite Event_Party01_Lothar_9926bae6:
 
@@ -2551,7 +2551,7 @@ translate schinese_rewrite Event_Party01_Lothar_9926bae6:
 
 translate schinese_rewrite Event_Party01_Lothar_3cb35f33:
 
-    "洛萨的脸在记忆中脸红。"
+    "洛萨尔的脸在记忆中脸红。"
 
 translate schinese_rewrite Event_Party01_Lothar_501f295f:
 
@@ -2575,11 +2575,11 @@ translate schinese_rewrite Event_Party01_Lothar_a03c171a:
 
 translate schinese_rewrite Event_Party01_Lothar_010414b5:
 
-    e "最后,洛萨,你不仅仅是卢斯特菲尔德的英雄。"
+    e "最后,洛萨尔,你不仅仅是乐斯民菲尔德的英雄。"
 
 translate schinese_rewrite Event_Party01_Lothar_f8d27d51:
 
-    e "乔格、安布尔和我知道这一点。"
+    e "乔格、安布和我知道这一点。"
 
 translate schinese_rewrite Event_Party01_Lothar_84d37cf1:
 
@@ -2587,7 +2587,7 @@ translate schinese_rewrite Event_Party01_Lothar_84d37cf1:
 
 translate schinese_rewrite Event_Party01_Lothar_9da84c5d:
 
-    "洛塔尔很久没有表情了 然后他从左向右抽头。"
+    "洛萨尔很久没有表情了 然后他从左向右抽头。"
 
 translate schinese_rewrite Event_Party01_Lothar_12bab6f2:
 
@@ -2599,7 +2599,7 @@ translate schinese_rewrite Event_Party01_Lothar_e09e3958:
 
 translate schinese_rewrite Event_Party01_Lothar_211aabf3:
 
-    "洛塔尔的守夜者离开 你注意到平常的春天又回到了英雄的脚步。"
+    "洛萨尔的守夜者离开 你注意到平常的春天又回到了英雄的脚步。"
 
 translate schinese_rewrite Event_Party01_Sebas_1da6b3b0:
 
@@ -2651,11 +2651,11 @@ translate schinese_rewrite Event_Party01_Sebas_7e1752e7:
 
 translate schinese_rewrite Event_Party01_Sebas_3f9a73a0:
 
-    s "我什至不想邀请 愚蠢的狼,但奥勒说,狼 已经被特写 在你的生活中 在卢斯特菲尔德。"
+    s "我什至不想邀请 愚蠢的狼,但奥勒说,狼 已经被特写 在你的生活中 在乐斯民菲尔德。"
 
 translate schinese_rewrite Event_Party01_Sebas_b4c845f7:
 
-    s "你知道欧莱有多坚持 让大家高兴。"
+    s "你知道奥利有多坚持 让大家高兴。"
 
 translate schinese_rewrite Event_Party01_Sebas_4f62210e:
 
@@ -2671,7 +2671,7 @@ translate schinese_rewrite Event_Party01_Sebas_f810f16b:
 
 translate schinese_rewrite Event_Party01_Sebas_6c4b44b3:
 
-    e "塞伯,你为什么不让洛萨来呢?"
+    e "塞伯,你为什么不让洛萨尔来呢?"
 
 translate schinese_rewrite Event_Party01_Sebas_2f94a671:
 
@@ -2715,7 +2715,7 @@ translate schinese_rewrite Event_Party01_Sebas_3156e8fe:
 
 translate schinese_rewrite Event_Party01_Sebas_068e12d6:
 
-    s "安布尔更好,但另一个..."
+    s "安布更好,但另一个..."
 
 translate schinese_rewrite Event_Party01_Sebas_bd6f10ab:
 
@@ -2875,7 +2875,7 @@ translate schinese_rewrite Event_Party01_Ole_89774832:
 
 translate schinese_rewrite Event_Party01_Ole_44f86d7b:
 
-    o "没关系,我喜欢帮忙,还有,我们弄得一团糟 最好在肯恩发疯之前收拾干净。"
+    o "没关系,我喜欢帮忙,还有,我们弄得一团糟 最好在凯恩发疯之前收拾干净。"
 
 translate schinese_rewrite Event_Party01_Ole_e56d3c54:
 
@@ -3115,15 +3115,15 @@ translate schinese_rewrite Event_Party01_Rahim_ba3b9bf4:
 
 translate schinese_rewrite Event_Party01_Rahim_a656bfd0:
 
-    "你注意到拉希姆比之前和他谈话时 放松多了。"
+    "你注意到雷希姆比之前和他谈话时 放松多了。"
 
 translate schinese_rewrite Event_Party01_Rahim_28a78edf:
 
-    "也许他和肯恩的谈话 放松了他的很多内涵... 或者可能是酒精。"
+    "也许他和凯恩的谈话 放松了他的很多内涵... 或者可能是酒精。"
 
 translate schinese_rewrite Event_Party01_Rahim_25215ba2:
 
-    e "拉希姆,你没事吧?"
+    e "雷希姆,你没事吧?"
 
 translate schinese_rewrite Event_Party01_Rahim_c9ce3f09:
 
@@ -3131,15 +3131,15 @@ translate schinese_rewrite Event_Party01_Rahim_c9ce3f09:
 
 translate schinese_rewrite Event_Party01_Rahim_6e74df11:
 
-    e "我之前听到你和肯恩的谈话了。"
+    e "我之前听到你和凯恩的谈话了。"
 
 translate schinese_rewrite Event_Party01_Rahim_7bf3fe44:
 
-    "拉希姆沉默了 你怕他为偷听而生气。"
+    "雷希姆沉默了 你怕他为偷听而生气。"
 
 translate schinese_rewrite Event_Party01_Rahim_4ff5b962:
 
-    "过了一段时间,拉希姆就大叹了口气, 身体也下垂了。"
+    "过了一段时间,雷希姆就大叹了口气, 身体也下垂了。"
 
 translate schinese_rewrite Event_Party01_Rahim_03bf9c39:
 
@@ -3147,7 +3147,7 @@ translate schinese_rewrite Event_Party01_Rahim_03bf9c39:
 
 translate schinese_rewrite Event_Party01_Rahim_5cfd43b1:
 
-    "拉希姆环视四周 好像看到一些你无法看见的东西。"
+    "雷希姆环视四周 好像看到一些你无法看见的东西。"
 
 translate schinese_rewrite Event_Party01_Rahim_9ba838a1:
 
@@ -3155,11 +3155,11 @@ translate schinese_rewrite Event_Party01_Rahim_9ba838a1:
 
 translate schinese_rewrite Event_Party01_Rahim_135cfae9:
 
-    e "拉希姆 如果你不想谈这个 我可以..."
+    e "雷希姆 如果你不想谈这个 我可以..."
 
 translate schinese_rewrite Event_Party01_Rahim_8523b7ed:
 
-    "拉希姆挥手。"
+    "雷希姆挥手。"
 
 translate schinese_rewrite Event_Party01_Rahim_60fd86c5:
 
@@ -3167,7 +3167,7 @@ translate schinese_rewrite Event_Party01_Rahim_60fd86c5:
 
 translate schinese_rewrite Event_Party01_Rahim_04aac496:
 
-    r "肯恩和我一直在和你谈论 你没见过的人。"
+    r "凯恩和我一直在和你谈论 你没见过的人。"
 
 translate schinese_rewrite Event_Party01_Rahim_612515b4:
 
@@ -3191,11 +3191,11 @@ translate schinese_rewrite Event_Party01_Rahim_508972f3:
 
 translate schinese_rewrite Event_Party01_Rahim_4debc7e3:
 
-    e "他一定很特别 才能有你和肯恩那么珍惜他。"
+    e "他一定很特别 才能有你和凯恩那么珍惜他。"
 
 translate schinese_rewrite Event_Party01_Rahim_7b18c076:
 
-    "拉希姆又喝了一小口啤酒 眉眉之间又露出皱眉。"
+    "雷希姆又喝了一小口啤酒 眉眉之间又露出皱眉。"
 
 translate schinese_rewrite Event_Party01_Rahim_2734b04c:
 
@@ -3227,15 +3227,15 @@ translate schinese_rewrite Event_Party01_Rahim_f53dc925:
 
 translate schinese_rewrite Event_Party01_Rahim_f0f8b6ef:
 
-    "拉希姆在拉希姆所在的柜台看望着。"
+    "雷希姆在雷希姆所在的柜台看望着。"
 
 translate schinese_rewrite Event_Party01_Rahim_312d62cd:
 
-    "拉希姆眼里没有愤怒,而是有一层深层的悔恨。"
+    "雷希姆眼里没有愤怒,而是有一层深层的悔恨。"
 
 translate schinese_rewrite Event_Party01_Rahim_0b0788c8:
 
-    "然后,拉希姆训练他的眼睛盯着你。"
+    "然后,雷希姆训练他的眼睛盯着你。"
 
 translate schinese_rewrite Event_Party01_Rahim_e6522cfc:
 
@@ -3247,19 +3247,19 @@ translate schinese_rewrite Event_Party01_Rahim_62301e45:
 
 translate schinese_rewrite Event_Party01_Rahim_de82695b:
 
-    "拉希姆的真诚感动了你。"
+    "雷希姆的真诚感动了你。"
 
 translate schinese_rewrite Event_Party01_Rahim_25fcab1c:
 
-    e "拉希姆,谢谢。"
+    e "雷希姆,谢谢。"
 
 translate schinese_rewrite Event_Party01_Rahim_1b297bff:
 
-    "拉希姆的咕噜声和他 回到他平时的粗鲁自我。"
+    "雷希姆的咕噜声和他 回到他平时的粗鲁自我。"
 
 translate schinese_rewrite Event_Party01_Amble_63e355db:
 
-    "在派对上,安布尔立即提请你注意。"
+    "在派对上,安布立即提请你注意。"
 
 translate schinese_rewrite Event_Party01_Amble_33ea2c13:
 
@@ -3295,11 +3295,10 @@ translate schinese_rewrite Event_Party01_Amble_18676921:
 
 translate schinese_rewrite Event_Party01_Amble_3ad9893b:
 
-    a "Phew, that was close."
-
+    a "呼，真险。"
 translate schinese_rewrite Event_Party01_Amble_88f4fddc:
 
-    e "安布尔 你为什么要这么做?"
+    e "安布 你为什么要这么做?"
 
 translate schinese_rewrite Event_Party01_Amble_2f178ac9:
 
@@ -3323,15 +3322,15 @@ translate schinese_rewrite Event_Party01_Amble_8ab219d0:
 
 translate schinese_rewrite Event_Party01_Amble_35113757:
 
-    "如果你不得不猜测,肯恩正在根据安布尔能否完成这个成就 来打赌。"
+    "如果你不得不猜测,凯恩正在根据安布能否完成这个成就 来打赌。"
 
 translate schinese_rewrite Event_Party01_Amble_3b331fdf:
 
-    "从表面看 多数人赌的是安布尔。"
+    "从表面看 多数人赌的是安布。"
 
 translate schinese_rewrite Event_Party01_Amble_f5c6c1a5:
 
-    e "不,我是说肯恩在利用你 自己下注。"
+    e "不,我是说凯恩在利用你 自己下注。"
 
 translate schinese_rewrite Event_Party01_Amble_822820f6:
 
@@ -3339,7 +3338,7 @@ translate schinese_rewrite Event_Party01_Amble_822820f6:
 
 translate schinese_rewrite Event_Party01_Amble_1c3f94d0:
 
-    e "肯恩允许吗?"
+    e "凯恩允许吗?"
 
 translate schinese_rewrite Event_Party01_Amble_aeadcb9b:
 
@@ -3351,11 +3350,11 @@ translate schinese_rewrite Event_Party01_Amble_e60fe8a2:
 
 translate schinese_rewrite Event_Party01_Amble_1bf36fe0:
 
-    "肯尼知道安布尔有赌注 为了钱和酒赌注。"
+    "肯尼知道安布有赌注 为了钱和酒赌注。"
 
 translate schinese_rewrite Event_Party01_Amble_7e77c37c:
 
-    "所以他一定说服了其他人 来打赌安布尔赢了。"
+    "所以他一定说服了其他人 来打赌安布赢了。"
 
 translate schinese_rewrite Event_Party01_Amble_48c24dc2:
 
@@ -3375,7 +3374,7 @@ translate schinese_rewrite Event_Party01_Amble_fffd6ba5:
 
 translate schinese_rewrite Event_Party01_Amble_ea82b5bc:
 
-    "几分钟后,安布尔向你挥手。"
+    "几分钟后,安布向你挥手。"
 
 translate schinese_rewrite Event_Party01_Amble_d65b1a9c:
 
@@ -3411,7 +3410,7 @@ translate schinese_rewrite Event_Party01_Amble_caf190c4:
 
 translate schinese_rewrite Event_Party01_Amble_e1ea108e:
 
-    e "谢谢,安布尔!"
+    e "谢谢,安布!"
 
 translate schinese_rewrite Event_Party01_Amble_b085d5b2:
 
@@ -3419,7 +3418,7 @@ translate schinese_rewrite Event_Party01_Amble_b085d5b2:
 
 translate schinese_rewrite Event_Party01_Amble_af51cac8:
 
-    "安布勒把他的啤酒撞到你的头上。"
+    "安布把他的啤酒撞到你的头上。"
 
 translate schinese_rewrite Event_Party01_End_3784b222:
 
@@ -3435,7 +3434,7 @@ translate schinese_rewrite Event_Party01_End_3cb7698c:
 
 translate schinese_rewrite Event_Party01_End_3f9dd3fe:
 
-    "坎恩关上你身后的门。"
+    "凯恩关上你身后的门。"
 
 translate schinese_rewrite Event_Party01_End_b6c8e231:
 
@@ -3443,7 +3442,7 @@ translate schinese_rewrite Event_Party01_End_b6c8e231:
 
 translate schinese_rewrite Event_Party01_End_797de81a:
 
-    "你攻占卢斯特菲尔德的周围。"
+    "你攻占乐斯民菲尔德的周围。"
 
 translate schinese_rewrite Event_Party01_End_0987da05:
 
@@ -3451,8 +3450,8 @@ translate schinese_rewrite Event_Party01_End_0987da05:
 
 translate schinese_rewrite Event_Party01_End_6ba5fa0a:
 
-    "奇姆的事至今仍未得到答复。"
+    "齐门的事至今仍未得到答复。"
 
 translate schinese_rewrite Event_Party01_End_8ee7ce49:
 
-    "但至少... 卢斯特菲尔德开始觉得自己更像家了。"
+    "但至少... 乐斯民菲尔德开始觉得自己更像家了。"

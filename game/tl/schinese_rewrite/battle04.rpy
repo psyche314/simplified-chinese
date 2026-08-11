@@ -859,7 +859,7 @@ translate schinese_rewrite ratbandit_battle_win_5f8eca33:
 
 translate schinese_rewrite ratbandit_battle_win_45c1ff4e:
 
-    "或者,也许他只是个前男友 抛弃了强盗生活 住在卢斯特菲尔德。"
+    "或者,也许他只是个前男友 抛弃了强盗生活 住在乐斯民菲尔德。"
 
 translate schinese_rewrite ratbandit_battle_win_5904a505:
 
@@ -1319,7 +1319,7 @@ translate schinese_rewrite sharkbandit_battle_lose_34b4e2f0:
 
 translate schinese_rewrite sharkbandit_battle_lose_420a0dab:
 
-    e "卢斯特菲尔德 我跟踪了R -rat小偷。"
+    e "乐斯民菲尔德 我跟踪了R -rat小偷。"
 
 translate schinese_rewrite sharkbandit_battle_lose_361186de:
 

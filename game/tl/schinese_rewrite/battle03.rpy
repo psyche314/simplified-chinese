@@ -7,7 +7,7 @@ translate schinese_rewrite battle_attack_script_9f89fa4c:
 
 translate schinese_rewrite battle_attack_script_a0b503c2:
 
-    "安布勒用锤子对着毛松叶, 但它从桥根上闪闪发光。"
+    "安布用锤子对着毛松叶, 但它从桥根上闪闪发光。"
 
 translate schinese_rewrite battle_attack_script_cbc9cf6d:
 
@@ -267,7 +267,7 @@ translate schinese_rewrite battle_attack_script_0824667a:
 
 translate schinese_rewrite battle_attack_script_6430a4d5:
 
-    "安布勒用锤子敲打桥根的毛叶, 它非常有效地击中了他的核心, 绿色怪物的尾巴向后倒了一点, 你可以看到他的锤子在那里制造的弹坑。"
+    "安布用锤子敲打桥根的毛叶, 它非常有效地击中了他的核心, 绿色怪物的尾巴向后倒了一点, 你可以看到他的锤子在那里制造的弹坑。"
 
 translate schinese_rewrite battle_attack_script_ac32d1b0:
 
@@ -487,7 +487,7 @@ translate schinese_rewrite battle_attack_script_6ee8359c:
 
 translate schinese_rewrite battle_attack_script_55e10f3e:
 
-    "这是一次干净的打击, 你可以看到在伍罗的眼中 突然的一幕惊喜, 当他跌倒了一步。"
+    "这是一次干净的打击, 你可以看到在伏罗的眼中 突然的一幕惊喜, 当他跌倒了一步。"
 
 translate schinese_rewrite battle_attack_script_c17e6bad:
 
@@ -707,7 +707,7 @@ translate schinese_rewrite battle_flirt_script_7e59b417:
 
 translate schinese_rewrite battle_flirt_script_f0115095:
 
-    "伍罗射杀你的笑容, 温和地在你的示威中欢笑。"
+    "伏罗射杀你的笑容, 温和地在你的示威中欢笑。"
 
 translate schinese_rewrite battle_flirt_script_c2ea7413:
 
@@ -763,7 +763,7 @@ translate schinese_rewrite battle_flirt_script_29cf4811:
 
 translate schinese_rewrite battle_flirt_script_449bc6af:
 
-    "伍罗拳头低了一会儿 脸颊很快就红红了。"
+    "伏罗拳头低了一会儿 脸颊很快就红红了。"
 
 translate schinese_rewrite battle_flirt_script_cf306a0f:
 
@@ -1127,8 +1127,7 @@ translate schinese_rewrite battle_escape_surrender_script_02490d6b:
 
 translate schinese_rewrite battle_ally_script_2fe31d4b:
 
-    "Amble strikes the core of [enemy.name], causing [target.name] to fall over. He dealt [ally_damage] and stuns [enemy.name] 为了 [stunned.max_rounds] round."
-
+    "安布击中[enemy.name]的要害，使[target.name]倒地。他造成[ally_damage]点伤害，并使[enemy.name]眩晕[stunned.max_rounds]回合。"
 translate schinese_rewrite battle_ally_script_3ee9df24:
 
     "[enemy.name]是错开的, 释放你从他手中。"
@@ -1503,7 +1502,7 @@ translate schinese_rewrite stoneward_lose_e16b34a6:
 
 translate schinese_rewrite stoneward_lose_7020272d:
 
-    k "我仍得救福坎..."
+    k "我仍得救弗坎..."
 
 translate schinese_rewrite stoneward_lose_bf6f0d3d:
 
@@ -1547,7 +1546,7 @@ translate schinese_rewrite mimic_lose_3be38474:
 
 translate schinese_rewrite mimic_lose_392ce5ec:
 
-    "就像模仿即将吞噬你一样 卡莉用他的权杖对着胸口 释放出它的控制力。"
+    "就像模仿即将吞噬你一样 卡里用他的权杖对着胸口 释放出它的控制力。"
 
 translate schinese_rewrite mimic_lose_1e94c0db:
 
@@ -1587,7 +1586,7 @@ translate schinese_rewrite mimic_lose_e16b34a6:
 
 translate schinese_rewrite mimic_lose_7020272d:
 
-    k "我仍得救福坎..."
+    k "我仍得救弗坎..."
 
 translate schinese_rewrite mimic_lose_bf6f0d3d:
 
@@ -1623,8 +1622,7 @@ translate schinese_rewrite runeguardian_battle_35c2da0e:
 
 translate schinese_rewrite runeguardian_battle_loop_e63e900e:
 
-    "Rune Guardian 瞄准并朝你扔了3块大石头,它忽略了你的躲避,直接击中你的身体。你的健康状况下降了[ed] HP。"
-
+    "符文守卫瞄准你，掷来3块巨石；攻击无视你的闪避，正中你的身体。你的生命减少[ed]点。"
 translate schinese_rewrite runeguardian_battle_loop_8133aa7b:
 
     "卢恩守护者用右臂扶住你,你试图自由挣扎,但行不通。"
@@ -1727,7 +1725,7 @@ translate schinese_rewrite runeguardian_win_719a1cd2:
 
 translate schinese_rewrite runeguardian_win_51770df3:
 
-    "斗殴后监护人一直昏迷不醒 你决定去后面检查福坎。"
+    "斗殴后监护人一直昏迷不醒 你决定去后面检查弗坎。"
 
 translate schinese_rewrite runeguardian_win_5121ca19:
 
@@ -1743,7 +1741,7 @@ translate schinese_rewrite runeguardian_win_8d125bb3:
 
 translate schinese_rewrite runeguardian_win_6c4c18c3:
 
-    "越过守护者留下的灰尘 你决定去后面检查福坎。"
+    "越过守护者留下的灰尘 你决定去后面检查弗坎。"
 
 translate schinese_rewrite Damp_Cave_End_ef6b3876:
 
@@ -1759,11 +1757,11 @@ translate schinese_rewrite Damp_Cave_End_f397e375:
 
 translate schinese_rewrite Damp_Cave_End_46661de9:
 
-    "卡莉对无意识的公羊施了治愈法术。"
+    "卡里对无意识的公羊施了治愈法术。"
 
 translate schinese_rewrite Damp_Cave_End_9a2b7cf9:
 
-    "福坎的眼睛睁开, 正如一只预期的鹿在松动时会看到的那样。"
+    "弗坎的眼睛睁开, 正如一只预期的鹿在松动时会看到的那样。"
 
 translate schinese_rewrite Damp_Cave_End_3ec57d49:
 
@@ -1779,7 +1777,7 @@ translate schinese_rewrite Damp_Cave_End_02545655:
 
 translate schinese_rewrite Damp_Cave_End_00f52772:
 
-    "卡里紧紧拥抱酋长 他把自己放在福坎的顶端 感受着他所有的温暖 当你从远处看着时。"
+    "卡里紧紧拥抱酋长 他把自己放在弗坎的顶端 感受着他所有的温暖 当你从远处看着时。"
 
 translate schinese_rewrite Damp_Cave_End_068112a1:
 
@@ -1791,11 +1789,11 @@ translate schinese_rewrite Damp_Cave_End_b7cc3345:
 
 translate schinese_rewrite Damp_Cave_End_723c6101:
 
-    "卡莉点头。"
+    "卡里点头。"
 
 translate schinese_rewrite Damp_Cave_End_48014797:
 
-    e "嘿,富肯。"
+    e "嘿,弗坎。"
 
 translate schinese_rewrite Damp_Cave_End_7c5afb1c:
 
@@ -1823,7 +1821,7 @@ translate schinese_rewrite Damp_Cave_End_000b35c8:
 
 translate schinese_rewrite Damp_Cave_End_d4a36c19:
 
-    "卡莉看起来很失望 他似乎很关心酋长 因为他还在拥抱他。"
+    "卡里看起来很失望 他似乎很关心酋长 因为他还在拥抱他。"
 
 translate schinese_rewrite Damp_Cave_End_4312d7b7:
 
@@ -1839,7 +1837,7 @@ translate schinese_rewrite Damp_Cave_End_6a9d299d:
 
 translate schinese_rewrite Damp_Cave_End_32a6dc7b:
 
-    "将军带着顾虑地看着富肯。"
+    "将军带着顾虑地看着弗坎。"
 
 translate schinese_rewrite Damp_Cave_End_1b47d087:
 
@@ -1899,7 +1897,7 @@ translate schinese_rewrite Damp_Cave_End_f273e2bb:
 
 translate schinese_rewrite Damp_Cave_End_fa11c99b:
 
-    "福坎叹气,他往下看,眼睛几乎撕裂。"
+    "弗坎叹气,他往下看,眼睛几乎撕裂。"
 
 translate schinese_rewrite Damp_Cave_End_a083357a:
 
@@ -1935,7 +1933,7 @@ translate schinese_rewrite Damp_Cave_End_cd0075c1:
 
 translate schinese_rewrite Damp_Cave_End_c3ed46ef:
 
-    "卡里用脚摸福坎的伤口 仔细的处理。"
+    "卡里用脚摸弗坎的伤口 仔细的处理。"
 
 translate schinese_rewrite Damp_Cave_End_a534077e:
 
@@ -1967,7 +1965,7 @@ translate schinese_rewrite Damp_Cave_End_e73388e9:
 
 translate schinese_rewrite Damp_Cave_End_a944e8ba:
 
-    "卡莉背着疲劳的尸体 两个人在走路前 稍微叫了一下。"
+    "卡里背着疲劳的尸体 两个人在走路前 稍微叫了一下。"
 
 translate schinese_rewrite Damp_Cave_End_6409673d:
 
@@ -2023,7 +2021,7 @@ translate schinese_rewrite Damp_Cave_End_747772b0:
 
 translate schinese_rewrite Damp_Cave_End_ed08a457:
 
-    e "操,富肯,你醒了吗?"
+    e "操,弗坎,你醒了吗?"
 
 translate schinese_rewrite Damp_Cave_End_ad844077:
 
@@ -2051,7 +2049,7 @@ translate schinese_rewrite Damp_Cave_End_4e056dcb:
 
 translate schinese_rewrite Damp_Cave_End_2f3870eb:
 
-    e "嘿,富肯,你没事吧?"
+    e "嘿,弗坎,你没事吧?"
 
 translate schinese_rewrite Damp_Cave_End_bcda30d6:
 
@@ -2091,11 +2089,11 @@ translate schinese_rewrite Damp_Cave_End_b329270f:
 
 translate schinese_rewrite Damp_Cave_End_bbdc0855:
 
-    "福坎向前看, 似乎在思考一些你不知道的事情。"
+    "弗坎向前看, 似乎在思考一些你不知道的事情。"
 
 translate schinese_rewrite Damp_Cave_End_a9d62d89:
 
-    e "呃,福坎... 监护人袭击你后你昏倒了吗?"
+    e "呃,弗坎... 监护人袭击你后你昏倒了吗?"
 
 translate schinese_rewrite Damp_Cave_End_90f09731:
 
@@ -2151,11 +2149,11 @@ translate schinese_rewrite Damp_Cave_End_33656c76:
 
 translate schinese_rewrite Damp_Cave_End_a13c0780:
 
-    "你再次对福坎伸出手来 这次他勉强接受了。"
+    "你再次对弗坎伸出手来 这次他勉强接受了。"
 
 translate schinese_rewrite Damp_Cave_End_39000206:
 
-    "在你的帮助下,富肯转身 向一块巨大的岩石倾斜。"
+    "在你的帮助下,弗坎转身 向一块巨大的岩石倾斜。"
 
 translate schinese_rewrite Damp_Cave_End_b34597c1_1:
 
@@ -2179,7 +2177,7 @@ translate schinese_rewrite Damp_Cave_End_051170e6:
 
 translate schinese_rewrite Damp_Cave_End_2ff7bb12:
 
-    "福坎叹气 他看着守护者 喘气。"
+    "弗坎叹气 他看着守护者 喘气。"
 
 translate schinese_rewrite Damp_Cave_End_85b84d75:
 
@@ -2215,7 +2213,7 @@ translate schinese_rewrite Damp_Cave_End_f273e2bb_1:
 
 translate schinese_rewrite Damp_Cave_End_fa11c99b_1:
 
-    "福坎叹气,他往下看,眼睛几乎撕裂。"
+    "弗坎叹气,他往下看,眼睛几乎撕裂。"
 
 translate schinese_rewrite Damp_Cave_End_f2da58de_1:
 
@@ -2259,7 +2257,7 @@ translate schinese_rewrite Damp_Cave_End_8c3907b5_1:
 
 translate schinese_rewrite Damp_Cave_End_5685146e:
 
-    "福坎想站起来时 倒在前方 他又在地板上 响亮地跳下。"
+    "弗坎想站起来时 倒在前方 他又在地板上 响亮地跳下。"
 
 translate schinese_rewrite Damp_Cave_End_3ec57d49_2:
 
@@ -2299,7 +2297,7 @@ translate schinese_rewrite Damp_Cave_End_41569b97:
 
 translate schinese_rewrite Damp_Cave_End_6619e846:
 
-    "福坎再暂停一次。"
+    "弗坎再暂停一次。"
 
 translate schinese_rewrite Damp_Cave_End_049ac92c:
 
@@ -2363,7 +2361,7 @@ translate schinese_rewrite Damp_Cave_End_742ea64e:
 
 translate schinese_rewrite Damp_Cave_End_0cef0065:
 
-    "不过,奇姆发生的事 并不是一个问题 你可以留下 长期的未解答。"
+    "不过,齐门发生的事 并不是一个问题 你可以留下 长期的未解答。"
 
 translate schinese_rewrite Damp_Cave_End_a20cefa7_1:
 
@@ -2395,7 +2393,7 @@ translate schinese_rewrite runeguardian_lose_46ce7442:
 
 translate schinese_rewrite runeguardian_lose_e53930cf:
 
-    "就像守护者即将施下致命咒语一样 卡莉用他的权杖攻击守护者 把你拉下来。"
+    "就像守护者即将施下致命咒语一样 卡里用他的权杖攻击守护者 把你拉下来。"
 
 translate schinese_rewrite runeguardian_lose_effe461f:
 
@@ -2419,7 +2417,7 @@ translate schinese_rewrite runeguardian_lose_4784bc78:
 
 translate schinese_rewrite runeguardian_lose_47f4b7b6:
 
-    k "富肯刚刚在那里..."
+    k "弗坎刚刚在那里..."
 
 translate schinese_rewrite runeguardian_lose_9abcd80b:
 
@@ -2435,7 +2433,7 @@ translate schinese_rewrite runeguardian_lose_e16b34a6:
 
 translate schinese_rewrite runeguardian_lose_7020272d:
 
-    k "我仍得救福坎..."
+    k "我仍得救弗坎..."
 
 translate schinese_rewrite runeguardian_lose_bf6f0d3d:
 
@@ -2459,7 +2457,7 @@ translate schinese_rewrite runeguardian_lose_113a26b3:
 
 translate schinese_rewrite runeguardian_lose_48836530:
 
-    "你想想福坎是否能活下来 当你昏倒的时候 你就在他面前。"
+    "你想想弗坎是否能活下来 当你昏倒的时候 你就在他面前。"
 
 translate schinese_rewrite runeguardian_lose_a1d841d6:
 

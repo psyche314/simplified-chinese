@@ -19,7 +19,7 @@ translate schinese_rewrite Jog_Dialogue_e9575ac9:
 
 translate schinese_rewrite Jog_Dialogue_0584414f:
 
-    j "洛塔尔的门徒 信使 外人?"
+    j "洛萨尔的门徒 信使 外人?"
 
 translate schinese_rewrite Jog_Dialogue_42ab47ad:
 
@@ -59,7 +59,7 @@ translate schinese_rewrite Jog_Normal_Talk_e1b4b9b5:
 
 translate schinese_rewrite Jog_Normal_Talk_edf38b14:
 
-    j "安布尔和洛塔尔?" nointeract
+    j "安布和洛萨尔?" nointeract
 
 translate schinese_rewrite Jog_Normal_Talk_58e0fbb5:
 
@@ -259,7 +259,7 @@ translate schinese_rewrite Jog_Lothar_Training_ab989c47:
 
 translate schinese_rewrite Jog_Lothar_Training_0af3dc39:
 
-    j "我早早把弓捡起来 并不是一个令人兴奋的故事,我只是在外面练习安布尔。"
+    j "我早早把弓捡起来 并不是一个令人兴奋的故事,我只是在外面练习安布。"
 
 translate schinese_rewrite Jog_Lothar_Training_30aabf79:
 
@@ -271,7 +271,7 @@ translate schinese_rewrite Jog_Lothar_Training_00ea2360:
 
 translate schinese_rewrite Jog_Lothar_Training_8fcd8f9d:
 
-    j "当然了 说到这个 是安布尔在镇上雕刻和设置了射箭场。"
+    j "当然了 说到这个 是安布在镇上雕刻和设置了射箭场。"
 
 translate schinese_rewrite Jog_Lothar_Training_71ac22ca:
 
@@ -335,7 +335,7 @@ translate schinese_rewrite Jog_Lothar_Training_7f14f4ef:
 
 translate schinese_rewrite Jog_Lothar_Training_7ba49542:
 
-    j "这么说吧 卢斯特菲尔德以自己的名义 活到鲁斯特之前。"
+    j "这么说吧 乐斯民菲尔德以自己的名义 活到鲁斯特之前。"
 
 translate schinese_rewrite Jog_Lothar_Training_0bfa5f0f:
 
@@ -471,7 +471,7 @@ translate schinese_rewrite Jog_Lothar_Training_84b45f52:
 
 translate schinese_rewrite Jog_Lothar_Training_5781f082:
 
-    k "福坎,你不会让卢斯特菲尔德同意的。"
+    k "弗坎,你不会让乐斯民菲尔德同意的。"
 
 translate schinese_rewrite Jog_Lothar_Training_5f5be285:
 
@@ -499,7 +499,7 @@ translate schinese_rewrite Jog_Lothar_Training_cb69d2ba:
 
 translate schinese_rewrite Jog_Lothar_Training_c42b6e09:
 
-    k "福坎,你必须看大局。"
+    k "弗坎,你必须看大局。"
 
 translate schinese_rewrite Jog_Lothar_Training_7dc0015e:
 
@@ -519,7 +519,7 @@ translate schinese_rewrite Jog_Lothar_Training_2261e291:
 
 translate schinese_rewrite Jog_Lothar_Training_73a9c278:
 
-    f "故事不相干,我们应该调查一下 如果我们能找到什么 就能缓解与卢斯特菲尔德的紧张关系。"
+    f "故事不相干,我们应该调查一下 如果我们能找到什么 就能缓解与乐斯民菲尔德的紧张关系。"
 
 translate schinese_rewrite Jog_Lothar_Training_e23a8c25:
 
@@ -859,7 +859,7 @@ translate schinese_rewrite Arthur_Bandit_Meet_Quest_4098e5a8:
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_8bbfef47:
 
-    e "是的,安布尔告诉我,你给了他一些苹果 而不是,是不是没有梅子 留在整个农场?"
+    e "是的,安布告诉我,你给了他一些苹果 而不是,是不是没有梅子 留在整个农场?"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_6ab2a945:
 
@@ -907,7 +907,7 @@ translate schinese_rewrite Arthur_Bandit_Meet_Quest_5f7a7c8a:
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_eb5f2d46:
 
-    "Arthur指向卢斯特菲尔德的某处方向。"
+    "Arthur指向乐斯民菲尔德的某处方向。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_57064ab4:
 
@@ -1019,7 +1019,7 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_e3c9ac92:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_b8b67533:
 
-    "臭土狼对无脑的安布尔大笑。"
+    "臭土狼对无脑的安布大笑。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_14117f2e:
 
@@ -1039,7 +1039,7 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_05a4fd30:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_6c1b7787:
 
-    "你注意到乔格从安布尔抢取苹果 之前,你正在向一个红果。"
+    "你注意到乔格从安布抢取苹果 之前,你正在向一个红果。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_753797d9:
 
@@ -1047,7 +1047,7 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_753797d9:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_1f431793:
 
-    j "不,安布尔和我早就知道是谁干的。"
+    j "不,安布和我早就知道是谁干的。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_999bd7db:
 
@@ -1063,11 +1063,11 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_9866ae96:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_3671e98f:
 
-    j "好吧,如果你想知道那里有什么, 做我的客人, 去问亚瑟关于那个区域, 并跟随那条线索,或者任何安布尔在谈论的东西。"
+    j "好吧,如果你想知道那里有什么, 做我的客人, 去问亚瑟关于那个区域, 并跟随那条线索,或者任何安布在谈论的东西。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_fe8b36bc:
 
-    j "安布尔和我在这里巡视和修路有段时间了 但你还是要小心。"
+    j "安布和我在这里巡视和修路有段时间了 但你还是要小心。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_cd75e2f3:
 
@@ -1079,7 +1079,7 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_14e9b6d5:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_db90bb99:
 
-    "你听到安布尔的声音会更暖和 但很快会消失 就像熊手上的约格扬克斯一样 很难将安布尔拖到他手上。"
+    "你听到安布的声音会更暖和 但很快会消失 就像熊手上的约格扬克斯一样 很难将安布拖到他手上。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_0c9cf0a8:
 
@@ -1087,7 +1087,7 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_0c9cf0a8:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_95d7112e:
 
-    j "抱歉,安布尔太忙了,他不能和你一起去[e]。"
+    j "抱歉,安布太忙了,他不能和你一起去[e]。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_8a93bdbd:
 
@@ -1115,7 +1115,7 @@ translate schinese_rewrite Jog_Bandit_Meet_Quest_30a614b7:
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_73420d35:
 
-    j "好吧,安布尔会给你400个金子 够你贪婪的屁股吗?"
+    j "好吧,安布会给你400个金子 够你贪婪的屁股吗?"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_ac7f43e9:
 
@@ -1387,7 +1387,7 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_3b37cfc7:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1adc08d8:
 
-    j "如果你惹恼他 你会有一大帮匪徒袭击卢斯特菲尔德 你知道的。"
+    j "如果你惹恼他 你会有一大帮匪徒袭击乐斯民菲尔德 你知道的。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_9ab19e39:
 
@@ -1399,7 +1399,7 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_12f4457a:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_a5a6fa0b:
 
-    e "我瘸了腿回到卢斯特菲尔德。"
+    e "我瘸了腿回到乐斯民菲尔德。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_8d76519e:
 
@@ -1407,7 +1407,7 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_8d76519e:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1adc08d8_1:
 
-    j "如果你惹恼他 你会有一大帮匪徒袭击卢斯特菲尔德 你知道的。"
+    j "如果你惹恼他 你会有一大帮匪徒袭击乐斯民菲尔德 你知道的。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_9ab19e39_1:
 
@@ -1559,7 +1559,7 @@ translate schinese_rewrite Jog_Bandit_Ask_End_44e56039:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_a01f5f59:
 
-    j "有趣的是,在我回到卢斯特菲尔德后, 塞巴斯把我带走, 他们也把我赶出去, 因为我没有做的事。"
+    j "有趣的是,在我回到乐斯民菲尔德后, 塞巴斯把我带走, 他们也把我赶出去, 因为我没有做的事。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_bfe6a121:
 
@@ -1575,7 +1575,7 @@ translate schinese_rewrite Jog_Bandit_Ask_End_5681eb4e:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_039446e9:
 
-    j "安布勒是唯一一个蠢到让我睡在他家的人 他说我很擅长侦察 躲藏和警告怪物。"
+    j "安布是唯一一个蠢到让我睡在他家的人 他说我很擅长侦察 躲藏和警告怪物。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_5f2588ba:
 
@@ -1591,7 +1591,7 @@ translate schinese_rewrite Jog_Bandit_Ask_End_f2f2dd62:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_9396e944:
 
-    j "你真是个性感的笨蛋,我承认,但安布尔有蛋糕我可以吃一整天。"
+    j "你真是个性感的笨蛋,我承认,但安布有蛋糕我可以吃一整天。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_e19eeae9:
 
@@ -1779,7 +1779,7 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_68b570c3:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_c9b014d2:
 
-    e "我第一次在酒馆见到你和安布尔时 就信任你。"
+    e "我第一次在酒馆见到你和安布时 就信任你。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_b205335d:
 
@@ -1807,7 +1807,7 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_13da5ec9:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_e0264660:
 
-    e "我想安布尔和洛特也相信你。"
+    e "我想安布和洛特也相信你。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_b4fa3fc0_2:
 
@@ -1835,7 +1835,7 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_62dd8021:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_04e6ebfe:
 
-    "你看到安布尔朝他直走 他甚至没有像他那样正常地向你问好。"
+    "你看到安布朝他直走 他甚至没有像他那样正常地向你问好。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_c43b2bee:
 
@@ -1875,7 +1875,7 @@ translate schinese_rewrite Jog_Return_Bandit_End_d606e5c5:
 
 translate schinese_rewrite Jog_Return_Bandit_End_1de57cfc:
 
-    j "之后安布尔和我交谈过, 我并不是一个好朋友, 让你经历这一切。"
+    j "之后安布和我交谈过, 我并不是一个好朋友, 让你经历这一切。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_cf926f23:
 
@@ -2023,7 +2023,7 @@ translate schinese_rewrite Jog_Wuldon_Quest_0d9d47b1:
 
 translate schinese_rewrite Jog_Wuldon_Quest_7695b917:
 
-    "这次是安布尔的介入时间了。"
+    "这次是安布的介入时间了。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_363760c0:
 
@@ -2447,7 +2447,7 @@ translate schinese_rewrite Jog_Ask_How_Doing_29227e9d:
 
 translate schinese_rewrite Jog_Ask_Amble_de56a969:
 
-    e "你对安布尔有什么看法?"
+    e "你对安布有什么看法?"
 
 translate schinese_rewrite Jog_Ask_Amble_68b9f216:
 
@@ -2519,11 +2519,11 @@ translate schinese_rewrite Jog_Ask_Lothar_1a60a167:
 
 translate schinese_rewrite Jog_Ask_Lothar_2b03b73d:
 
-    e "好吧,我不会告诉洛塔尔..."
+    e "好吧,我不会告诉洛萨尔..."
 
 translate schinese_rewrite Jog_Ask_Lusterfield_2dedfb7c:
 
-    e "卢斯特菲尔德的生活如何?"
+    e "乐斯民菲尔德的生活如何?"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_a619ec14:
 
@@ -2531,7 +2531,7 @@ translate schinese_rewrite Jog_Ask_Lusterfield_a619ec14:
 
 translate schinese_rewrite Jog_Ask_Lusterfield_88861419:
 
-    j "与安布尔一起出生在这里长大。"
+    j "与安布一起出生在这里长大。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_1087d040:
 
@@ -2571,11 +2571,11 @@ translate schinese_rewrite Jog_Ask_Lusterfield_b3b6f0fb:
 
 translate schinese_rewrite Jog_Ask_Lusterfield_d6f478a9:
 
-    j "至少当安布尔在他的酒馆制造混乱时 他不会把我们赶出去。"
+    j "至少当安布在他的酒馆制造混乱时 他不会把我们赶出去。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_25c7ac3b:
 
-    j "拉希姆制造罗特的盔甲。"
+    j "雷希姆制造罗特的盔甲。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_2ed36206:
 
@@ -2603,7 +2603,7 @@ translate schinese_rewrite Jog_Dialogue_End_a933d18f:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_51a554e3:
 
-    "你们找到乔格和安布尔在一起。"
+    "你们找到乔格和安布在一起。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_91452208:
 
@@ -2619,11 +2619,11 @@ translate schinese_rewrite Jog_Amble_Outfit_01_ec0ac84a:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_0533eebe:
 
-    e "这是拉希姆制作的冒险家服装 我是来了解你对它的看法的。"
+    e "这是雷希姆制作的冒险家服装 我是来了解你对它的看法的。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_5fe6030f:
 
-    j "拉希姆大师为你做的?"
+    j "雷希姆大师为你做的?"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_72524946:
 
@@ -2663,7 +2663,7 @@ translate schinese_rewrite Jog_Amble_Outfit_01_2cc9d4bc:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_cd723d4d:
 
-    e "我会把你的反馈传达给拉希姆。"
+    e "我会把你的反馈传达给雷希姆。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_ff516529:
 
@@ -2691,7 +2691,7 @@ translate schinese_rewrite Jog_Amble_Outfit_01_a7a353c5:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_7dca3914:
 
-    "安布勒伸展他的肌肉。"
+    "安布伸展他的肌肉。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_3e32b0c9:
 
@@ -2715,7 +2715,7 @@ translate schinese_rewrite Jog_Amble_Outfit_01_700dc167:
 
 translate schinese_rewrite Jog_Amble_Outfit_03_51a554e3:
 
-    "你们找到乔格和安布尔在一起。"
+    "你们找到乔格和安布在一起。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_91452208:
 
@@ -2743,7 +2743,7 @@ translate schinese_rewrite Jog_Amble_Outfit_03_191343ce:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_b05d5fac:
 
-    "一旦你走到射击场 乔格和安布尔都来找你。"
+    "一旦你走到射击场 乔格和安布都来找你。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_f4c74ba3:
 
@@ -2779,7 +2779,7 @@ translate schinese_rewrite Jog_Amble_Outfit_02_14663823:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_ba1b5f65:
 
-    "你决心完成你的征程, 所以你把注意力转向安布尔。"
+    "你决心完成你的征程, 所以你把注意力转向安布。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_828d35d2:
 
@@ -2791,7 +2791,7 @@ translate schinese_rewrite Jog_Amble_Outfit_02_44b857bb:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_18aafa8e:
 
-    a "是洛塔尔让你这么做的吗?"
+    a "是洛萨尔让你这么做的吗?"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_18bc9b0b:
 
@@ -2799,7 +2799,7 @@ translate schinese_rewrite Jog_Amble_Outfit_02_18bc9b0b:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_0ae009ea:
 
-    "安布尔和乔格只穿着内裤 听洛塔尔的命令吗?"
+    "安布和乔格只穿着内裤 听洛萨尔的命令吗?"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_0dbe3672:
 
@@ -2855,7 +2855,7 @@ translate schinese_rewrite Jog_Amble_Outfit_02_46c6ab29:
 
 translate schinese_rewrite Amble_Dialogue_aa9a8699:
 
-    e "你好,安布尔。"
+    e "你好,安布。"
 
 translate schinese_rewrite Amble_Dialogue_588ac63f:
 
@@ -2891,7 +2891,7 @@ translate schinese_rewrite Amble_Dialogue_09955b5a:
 
 translate schinese_rewrite Amble_Dialogue_71c9810a:
 
-    e "洛塔尔没有训练假人吗?"
+    e "洛萨尔没有训练假人吗?"
 
 translate schinese_rewrite Amble_Dialogue_1658385d:
 
@@ -2899,11 +2899,11 @@ translate schinese_rewrite Amble_Dialogue_1658385d:
 
 translate schinese_rewrite Amble_Dialogue_d896417d:
 
-    e "哦,谢谢,安布尔。"
+    e "哦,谢谢,安布。"
 
 translate schinese_rewrite Amble_Dialogue_aa9a8699_1:
 
-    e "你好,安布尔。"
+    e "你好,安布。"
 
 translate schinese_rewrite Amble_Dialogue_588ac63f_1:
 
@@ -2923,7 +2923,7 @@ translate schinese_rewrite Amble_Normal_Talk_602e6952:
 
 translate schinese_rewrite Amble_Ole_Training_de33b095:
 
-    e "安布尔,你有时间吗?"
+    e "安布,你有时间吗?"
 
 translate schinese_rewrite Amble_Ole_Training_ebb2afb6:
 
@@ -2979,7 +2979,7 @@ translate schinese_rewrite Amble_Ole_Training_8b47b126:
 
 translate schinese_rewrite Amble_Ole_Training_6db0516e:
 
-    "你和安布尔转过身去看乔格 拍他的脚 盯着你。"
+    "你和安布转过身去看乔格 拍他的脚 盯着你。"
 
 translate schinese_rewrite Amble_Ole_Training_c32ee83b:
 
@@ -2995,7 +2995,7 @@ translate schinese_rewrite Amble_Ole_Training_92965c87:
 
 translate schinese_rewrite Amble_Ole_Training_801288ab:
 
-    j "抱歉 朋友 帮不了你 我们在卢斯特菲尔德的训练由Lot监督。"
+    j "抱歉 朋友 帮不了你 我们在乐斯民菲尔德的训练由Lot监督。"
 
 translate schinese_rewrite Amble_Ole_Training_3643c182:
 
@@ -3011,7 +3011,7 @@ translate schinese_rewrite Amble_Ole_Training_5b089749:
 
 translate schinese_rewrite Amble_Ole_Training_59ad9096:
 
-    "你向安布尔求助。"
+    "你向安布求助。"
 
 translate schinese_rewrite Amble_Ole_Training_1c8a96c3:
 
@@ -3031,7 +3031,7 @@ translate schinese_rewrite Amble_Ole_Training_e53c6fed:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_d0e7ea2d:
 
-    e "好吧,我得到了洛塔尔的许可 他说训练是一流的。"
+    e "好吧,我得到了洛萨尔的许可 他说训练是一流的。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_db60e514:
 
@@ -3043,7 +3043,7 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_3f7c5517:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_546aaac0:
 
-    "你不太确定 洛萨喜欢的人可能是他自己。"
+    "你不太确定 洛萨尔喜欢的人可能是他自己。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_38dc0924:
 
@@ -3075,7 +3075,7 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_70ddc782:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_085bcf34:
 
-    "在安布尔叶之后, 乔格的眼睛你 从他的孔。"
+    "在安布叶之后, 乔格的眼睛你 从他的孔。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_5dff4ad8:
 
@@ -3127,7 +3127,7 @@ translate schinese_rewrite Amble_Lothar_Training_c08d8386:
 
 translate schinese_rewrite Amble_Lothar_Training_84b16e0b:
 
-    "安布尔大小您上下大小。"
+    "安布大小您上下大小。"
 
 translate schinese_rewrite Amble_Lothar_Training_cc759cb6:
 
@@ -3147,7 +3147,7 @@ translate schinese_rewrite Amble_Lothar_Training_64c7bbd9:
 
 translate schinese_rewrite Amble_Lothar_Training_dec7ccff:
 
-    "你预料你跟随安布尔 前往闪烁湖边时 将进行艰苦的体力锻炼。"
+    "你预料你跟随安布 前往闪烁湖边时 将进行艰苦的体力锻炼。"
 
 translate schinese_rewrite Amble_Lothar_Training_bc380d88:
 
@@ -3159,7 +3159,7 @@ translate schinese_rewrite Amble_Lothar_Training_5d45a640:
 
 translate schinese_rewrite Amble_Lothar_Training_ecb1401c:
 
-    "安布尔从他的背上拿起斧头 开始黑进一棵巨型树。"
+    "安布从他的背上拿起斧头 开始黑进一棵巨型树。"
 
 translate schinese_rewrite Amble_Lothar_Training_92796454:
 
@@ -3191,7 +3191,7 @@ translate schinese_rewrite Amble_Lothar_Training_7ab8df83:
 
 translate schinese_rewrite Amble_Lothar_Training_10176b4e:
 
-    "大树的大小与树的大小差不多,安布尔正在切。 它很容易使你矮小。 砍掉它需要很多能量。"
+    "大树的大小与树的大小差不多,安布正在切。 它很容易使你矮小。 砍掉它需要很多能量。"
 
 translate schinese_rewrite Amble_Lothar_Training_fabba0dc:
 
@@ -3199,7 +3199,7 @@ translate schinese_rewrite Amble_Lothar_Training_fabba0dc:
 
 translate schinese_rewrite Amble_Lothar_Training_127b90ad:
 
-    "既然安布尔选了大树,你就照他做。"
+    "既然安布选了大树,你就照他做。"
 
 translate schinese_rewrite Amble_Lothar_Training_3abcf478:
 
@@ -3215,7 +3215,7 @@ translate schinese_rewrite Amble_Lothar_Training_2d8d22cc:
 
 translate schinese_rewrite Amble_Lothar_Training_69740393:
 
-    "安布尔路过。"
+    "安布路过。"
 
 translate schinese_rewrite Amble_Lothar_Training_794efd2c:
 
@@ -3223,7 +3223,7 @@ translate schinese_rewrite Amble_Lothar_Training_794efd2c:
 
 translate schinese_rewrite Amble_Lothar_Training_cc29f67c:
 
-    "安布尔把他的大手放在你的上面。"
+    "安布把他的大手放在你的上面。"
 
 translate schinese_rewrite Amble_Lothar_Training_1aa033a9:
 
@@ -3243,7 +3243,7 @@ translate schinese_rewrite Amble_Lothar_Training_70f7d9f1:
 
 translate schinese_rewrite Amble_Lothar_Training_16c33780:
 
-    e "谢谢,安布尔。"
+    e "谢谢,安布。"
 
 translate schinese_rewrite Amble_Lothar_Training_8027d74f:
 
@@ -3271,7 +3271,7 @@ translate schinese_rewrite Amble_Lothar_Training_7f7287c5:
 
 translate schinese_rewrite Amble_Lothar_Training_a4d7bbda:
 
-    "你停下来,你转过身去看安布勒的跑步 他看起来很生气。"
+    "你停下来,你转过身去看安布的跑步 他看起来很生气。"
 
 translate schinese_rewrite Amble_Lothar_Training_1f25b469:
 
@@ -3311,11 +3311,11 @@ translate schinese_rewrite Amble_Lothar_Training_7923e6ce:
 
 translate schinese_rewrite Amble_Lothar_Training_738610f2:
 
-    "你点头 你不会想看到安布尔的哲学面吧。"
+    "你点头 你不会想看到安布的哲学面吧。"
 
 translate schinese_rewrite Amble_Lothar_Training_4996d38e:
 
-    e "我现在明白了。抱歉,安布尔。"
+    e "我现在明白了。抱歉,安布。"
 
 translate schinese_rewrite Amble_Lothar_Training_2ec7ef7c:
 
@@ -3347,7 +3347,7 @@ translate schinese_rewrite Amble_Lothar_Training_d8a184b8:
 
 translate schinese_rewrite Amble_Lothar_Training_f6872efa:
 
-    a "自然总是可以提供。这些日志会帮助卢斯特菲尔德 并且你在这个过程中得到很好的锻炼。"
+    a "自然总是可以提供。这些日志会帮助乐斯民菲尔德 并且你在这个过程中得到很好的锻炼。"
 
 translate schinese_rewrite Amble_Lothar_Training_669fd024:
 
@@ -3387,7 +3387,7 @@ translate schinese_rewrite Amble_Lothar_Training_163bc2f7:
 
 translate schinese_rewrite Amble_Lothar_Training_08a963e8:
 
-    "安布尔放下斧子 走到附近的环礁湖。"
+    "安布放下斧子 走到附近的环礁湖。"
 
 translate schinese_rewrite Amble_Lothar_Training_dd6e671f:
 
@@ -3395,11 +3395,11 @@ translate schinese_rewrite Amble_Lothar_Training_dd6e671f:
 
 translate schinese_rewrite Amble_Lothar_Training_35fd5a15:
 
-    "你认为这是个好主意 你跟着安布尔去环礁湖。"
+    "你认为这是个好主意 你跟着安布去环礁湖。"
 
 translate schinese_rewrite Amble_Lothar_Training_27d6013a:
 
-    e "安布尔,等一下。"
+    e "安布,等一下。"
 
 translate schinese_rewrite Amble_Lothar_Training_6ff45593:
 
@@ -3407,7 +3407,7 @@ translate schinese_rewrite Amble_Lothar_Training_6ff45593:
 
 translate schinese_rewrite Amble_Lothar_Training_b1d64c76:
 
-    e "安布尔,安全吗?"
+    e "安布,安全吗?"
 
 translate schinese_rewrite Amble_Lothar_Training_9c3e0b29:
 
@@ -3435,7 +3435,7 @@ translate schinese_rewrite Amble_Lothar_Training_86dfce74:
 
 translate schinese_rewrite Amble_Lothar_Training_45b36013:
 
-    "等不及了,安布尔挖了水 把你泼了出来。"
+    "等不及了,安布挖了水 把你泼了出来。"
 
 translate schinese_rewrite Amble_Lothar_Training_0b0f6d63:
 
@@ -3459,11 +3459,11 @@ translate schinese_rewrite Amble_Lothar_Training_44c11ec5:
 
 translate schinese_rewrite Amble_Lothar_Training_a0d410ab:
 
-    "安布尔是对的,当你身体周围的水流时, 你可以感觉到白天的苦力被冲走。"
+    "安布是对的,当你身体周围的水流时, 你可以感觉到白天的苦力被冲走。"
 
 translate schinese_rewrite Amble_Lothar_Training_af650652:
 
-    "你容易进入安布尔旁边的某个地方。"
+    "你容易进入安布旁边的某个地方。"
 
 translate schinese_rewrite Amble_Lothar_Training_542551cd:
 
@@ -3483,7 +3483,7 @@ translate schinese_rewrite Amble_Lothar_Training_f747c667:
 
 translate schinese_rewrite Amble_Lothar_Training_06418ccf:
 
-    "安布尔的短裤在水中已经半透明了。"
+    "安布的短裤在水中已经半透明了。"
 
 translate schinese_rewrite Amble_Lothar_Training_12f69db8:
 
@@ -3491,11 +3491,11 @@ translate schinese_rewrite Amble_Lothar_Training_12f69db8:
 
 translate schinese_rewrite Amble_Lothar_Training_933a644c:
 
-    "你注意到安布尔的眼睛仍然闭着 你的眼睛潜意识地向南徘徊。"
+    "你注意到安布的眼睛仍然闭着 你的眼睛潜意识地向南徘徊。"
 
 translate schinese_rewrite Amble_Lothar_Training_d8a61409:
 
-    "即使在瘸子的状态下 安布尔的老二也很大。"
+    "即使在瘸子的状态下 安布的老二也很大。"
 
 translate schinese_rewrite Amble_Lothar_Training_328058ac:
 
@@ -3515,11 +3515,11 @@ translate schinese_rewrite Amble_Lothar_Training_21e60453:
 
 translate schinese_rewrite Amble_Lothar_Training_e67fa1a3:
 
-    "安布尔的阴茎曲线向下倾斜。"
+    "安布的阴茎曲线向下倾斜。"
 
 translate schinese_rewrite Amble_Lothar_Training_6341139c:
 
-    "包皮被拉回来 因为安布尔的老二这么大。"
+    "包皮被拉回来 因为安布的老二这么大。"
 
 translate schinese_rewrite Amble_Lothar_Training_d03e0e53:
 
@@ -3527,7 +3527,7 @@ translate schinese_rewrite Amble_Lothar_Training_d03e0e53:
 
 translate schinese_rewrite Amble_Lothar_Training_fe5fe9bb:
 
-    "随着水流,安布尔的老二和蛋蛋 稍微在短裤里摇晃。"
+    "随着水流,安布的老二和蛋蛋 稍微在短裤里摇晃。"
 
 translate schinese_rewrite Amble_Lothar_Training_2596c7ff:
 
@@ -3539,7 +3539,7 @@ translate schinese_rewrite Amble_Lothar_Training_c1ca572b:
 
 translate schinese_rewrite Amble_Lothar_Training_7cb74a94:
 
-    "你脑海中游荡 忍不住想 能不能把安布尔的足数数 塞进嘴里 甚至是洞里。"
+    "你脑海中游荡 忍不住想 能不能把安布的足数数 塞进嘴里 甚至是洞里。"
 
 translate schinese_rewrite Amble_Lothar_Training_49d37dc9:
 
@@ -3551,7 +3551,7 @@ translate schinese_rewrite Amble_Lothar_Training_9e8cf183:
 
 translate schinese_rewrite Amble_Lothar_Training_f37eb080:
 
-    "你得冷静下来 安布尔醒过来 抓住你勾引他。"
+    "你得冷静下来 安布醒过来 抓住你勾引他。"
 
 translate schinese_rewrite Amble_Lothar_Training_ed053066:
 
@@ -3563,7 +3563,7 @@ translate schinese_rewrite Amble_Lothar_Training_c0fd5635:
 
 translate schinese_rewrite Amble_Lothar_Training_18e21f84:
 
-    "水在安布尔的你旁边喷洒。"
+    "水在安布的你旁边喷洒。"
 
 translate schinese_rewrite Amble_Lothar_Training_2bab4561:
 
@@ -3587,7 +3587,7 @@ translate schinese_rewrite Amble_Lothar_Training_5f29fbb0:
 
 translate schinese_rewrite Amble_Lothar_Training_b9ca5077:
 
-    "安布尔笑。"
+    "安布笑。"
 
 translate schinese_rewrite Amble_Lothar_Training_d75eeca4:
 
@@ -3599,7 +3599,7 @@ translate schinese_rewrite Amble_Lothar_Training_6aac5314:
 
 translate schinese_rewrite Amble_Lothar_Training_14c75ee2:
 
-    "水面的波纹很剧烈 这也许是件好事 因为它意味着安布尔不会看见你醒着的骨骼。"
+    "水面的波纹很剧烈 这也许是件好事 因为它意味着安布不会看见你醒着的骨骼。"
 
 translate schinese_rewrite Amble_Lothar_Training_b8b2ce2e:
 
@@ -3615,7 +3615,7 @@ translate schinese_rewrite Amble_Lothar_Training_cc9e8aa3:
 
 translate schinese_rewrite Amble_Lothar_Training_d351a918:
 
-    "安布尔爬出环礁湖。"
+    "安布爬出环礁湖。"
 
 translate schinese_rewrite Amble_Lothar_Training_45adff28:
 
@@ -3635,7 +3635,7 @@ translate schinese_rewrite Amble_Lothar_Training_d815126d:
 
 translate schinese_rewrite Amble_Lothar_Training_ddb6e6d4:
 
-    "从水里出来 短裤的布料 离安布尔的阴茎和蛋蛋更近了。"
+    "从水里出来 短裤的布料 离安布的阴茎和蛋蛋更近了。"
 
 translate schinese_rewrite Amble_Lothar_Training_d1e923f7:
 
@@ -3647,7 +3647,7 @@ translate schinese_rewrite Amble_Lothar_Training_e657627f:
 
 translate schinese_rewrite Amble_Lothar_Training_f9e0271a:
 
-    "后侧的短裤拥抱安布尔的屁股。"
+    "后侧的短裤拥抱安布的屁股。"
 
 translate schinese_rewrite Amble_Lothar_Training_a0a733c3:
 
@@ -3663,7 +3663,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_9ac7cf24:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_cb425fb7:
 
-    e "游戏对话是 安布尔 你在找我吗?"
+    e "游戏对话是 安布 你在找我吗?"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d0e50c36:
 
@@ -3687,11 +3687,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_f022caa2:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_ee89007c:
 
-    e "安布尔,等等!"
+    e "安布,等等!"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_3cb7739f:
 
-    "安布尔停止并转向你。"
+    "安布停止并转向你。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c3786cda:
 
@@ -3711,7 +3711,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_5d1161e9:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_36f80a9b:
 
-    "安布尔离开。"
+    "安布离开。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_83b7176c:
 
@@ -3727,7 +3727,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_72df042b:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4ebdad8d:
 
-    "有人提醒你乔格所说的话。在安布尔的训练中,有一个很好的景象是一个很好的享受。"
+    "有人提醒你乔格所说的话。在安布的训练中,有一个很好的景象是一个很好的享受。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c9b8cdaf:
 
@@ -3735,7 +3735,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_c9b8cdaf:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_04a969ed:
 
-    "你们俩继续静默的旅程,你们从后面公开欣赏安布尔的资产,安布尔则自喜自喜。"
+    "你们俩继续静默的旅程,你们从后面公开欣赏安布的资产,安布则自喜自喜。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6e485cba:
 
@@ -3751,7 +3751,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_4007e1ff:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_bc196448:
 
-    "跟你上次训练安布尔时一样。"
+    "跟你上次训练安布时一样。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_a1f996dc:
 
@@ -3787,11 +3787,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_77a11d01:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_18b3e9e0:
 
-    "急转直下,你想阻止安布尔 但他太强大了。"
+    "急转直下,你想阻止安布 但他太强大了。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_cf343cfe:
 
-    e "Am-安布尔,你在做什么?"
+    e "Am-安布,你在做什么?"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_dfa153eb:
 
@@ -3799,7 +3799,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_dfa153eb:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_11929dba:
 
-    "安布尔解释他继续给你脱衣服。"
+    "安布解释他继续给你脱衣服。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_81ebe667:
 
@@ -3811,7 +3811,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_1d99fdac:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_7493f6af:
 
-    e "Am -安布尔,我不介意这样的训练,但是..."
+    e "Am -安布,我不介意这样的训练,但是..."
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4a8f3f66:
 
@@ -3823,7 +3823,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_c6554a81:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d274fe06:
 
-    "就像你认为安布尔会脱光你的衣服一样 他停止了。"
+    "就像你认为安布会脱光你的衣服一样 他停止了。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_bc890c5e:
 
@@ -3831,7 +3831,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_bc890c5e:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_57379f5a:
 
-    "安布尔直立。"
+    "安布直立。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_981dca79:
 
@@ -3839,7 +3839,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_981dca79:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_34767d57:
 
-    e "安布尔,为什么我只穿短裤?"
+    e "安布,为什么我只穿短裤?"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6c4e5b40:
 
@@ -3875,11 +3875,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_9f55e2c7:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_0ee48921:
 
-    "安布尔打开他的爪子,你看他给你什么。"
+    "安布打开他的爪子,你看他给你什么。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_75fdec74:
 
-    "这是拉希姆冒险家服装的简介 只是简介。"
+    "这是雷希姆冒险家服装的简介 只是简介。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6fb6bdc2:
 
@@ -3931,11 +3931,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_883cbf69:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_17e5f132:
 
-    a "当我让拉希姆借给我这个时 我告诉他这是给你做特别训练用的。"
+    a "当我让雷希姆借给我这个时 我告诉他这是给你做特别训练用的。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_99f0fed5:
 
-    a "拉希姆告诉我,我们最好不要撕裂它, 不知道他的意思是什么, 但你最好小心,小朋友。"
+    a "雷希姆告诉我,我们最好不要撕裂它, 不知道他的意思是什么, 但你最好小心,小朋友。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_414fc3a2:
 
@@ -3943,7 +3943,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_414fc3a2:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_025f9fb5:
 
-    "无论如何,书状仍然很暖和,不会被安布尔的衣服缠住。"
+    "无论如何,书状仍然很暖和,不会被安布的衣服缠住。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_55144e1c:
 
@@ -3975,7 +3975,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_63ba9289:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c4c43b72:
 
-    "你穿着短裤,跟着安布尔到一棵大树上。"
+    "你穿着短裤,跟着安布到一棵大树上。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_23735f7c:
 
@@ -3983,7 +3983,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_23735f7c:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9ae48b57:
 
-    "当他敲打他旁边的坚固的树时,安布尔问他。"
+    "当他敲打他旁边的坚固的树时,安布问他。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_2cb91bd7:
 
@@ -4019,7 +4019,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_9e34e97f:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_105c8c84:
 
-    e "安布尔,你肯定..."
+    e "安布,你肯定..."
 
 translate schinese_rewrite Amble_Ole_Training_Scene_181ff7c6:
 
@@ -4031,7 +4031,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_9d7c4a01:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_8c2f189a:
 
-    "安布尔很快打开了一个巨大的缺口。 树干里有一个芯片,树就失去了根基,开始倒塌。"
+    "安布很快打开了一个巨大的缺口。 树干里有一个芯片,树就失去了根基,开始倒塌。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_029fb406:
 
@@ -4059,7 +4059,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_22095138:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_dec893b9:
 
-    e "你是怎么做到的,安布尔?"
+    e "你是怎么做到的,安布?"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_030329dc:
 
@@ -4103,7 +4103,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_77a4061f:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_148e3149:
 
-    "安布尔朝你快速前进,在你反应之前,他打你的时候, 比你的下腹软。"
+    "安布朝你快速前进,在你反应之前,他打你的时候, 比你的下腹软。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_8432e069:
 
@@ -4139,7 +4139,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_d30d9b98:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_135c1d6a:
 
-    "你嘴唇上沾着安布尔精液的味道 脑海中他口香的气味 慢慢地飘走了。"
+    "你嘴唇上沾着安布精液的味道 脑海中他口香的气味 慢慢地飘走了。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_32360cc6:
 
@@ -4147,7 +4147,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_32360cc6:
 
 translate schinese_rewrite Amble_Ask_Lusterfield_2dedfb7c:
 
-    e "卢斯特菲尔德的生活如何?"
+    e "乐斯民菲尔德的生活如何?"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_88fdc460:
 
@@ -4171,7 +4171,7 @@ translate schinese_rewrite Amble_Ask_Lusterfield_8c73a502:
 
 translate schinese_rewrite Amble_Ask_Lusterfield_9e14003f:
 
-    a "拉希姆很了不起,他打得狠,除了拉希姆以外 镇上除了拉希姆,没人能击败我,但我从他那里学到了很多。"
+    a "雷希姆很了不起,他打得狠,除了雷希姆以外 镇上除了雷希姆,没人能击败我,但我从他那里学到了很多。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_e5961362:
 
@@ -4215,7 +4215,7 @@ translate schinese_rewrite Amble_Ask_Lusterfield_400e88ee:
 
 translate schinese_rewrite Amble_Ask_How_Doing_2400df22:
 
-    e "你好吗,安布尔?"
+    e "你好吗,安布?"
 
 translate schinese_rewrite Amble_Ask_How_Doing_1c4c838e:
 
@@ -4235,7 +4235,7 @@ translate schinese_rewrite Amble_Ask_How_Doing_00633eca:
 
 translate schinese_rewrite Amble_Ask_Lothar_2097b8f6:
 
-    e "洛塔尔怎么样?"
+    e "洛萨尔怎么样?"
 
 translate schinese_rewrite Amble_Ask_Lothar_a1c5eca7:
 
@@ -4271,7 +4271,7 @@ translate schinese_rewrite Amble_Ask_Lothar_c49f352b:
 
 translate schinese_rewrite Amble_Ask_Lothar_815bfb88:
 
-    e "是洛塔尔的想法 你们两个在照顾道路?"
+    e "是洛萨尔的想法 你们两个在照顾道路?"
 
 translate schinese_rewrite Amble_Ask_Lothar_5ba5a265:
 
@@ -4283,7 +4283,7 @@ translate schinese_rewrite Amble_Ask_Lothar_f687201f:
 
 translate schinese_rewrite Amble_Ask_Lothar_8a876d19:
 
-    a "我们只是想保持卢斯特菲尔德周围地区的安全 像你这样的旅行者。"
+    a "我们只是想保持乐斯民菲尔德周围地区的安全 像你这样的旅行者。"
 
 translate schinese_rewrite Amble_Ask_Jog_192662ed:
 
@@ -4311,7 +4311,7 @@ translate schinese_rewrite Amble_Ask_Jog_d58dfe05:
 
 translate schinese_rewrite Amble_Patrol_Quest_a2c06dc8:
 
-    e "嘿,安布尔,我一直在想 某事有一段时间。"
+    e "嘿,安布,我一直在想 某事有一段时间。"
 
 translate schinese_rewrite Amble_Patrol_Quest_85d9118a:
 
@@ -4319,7 +4319,7 @@ translate schinese_rewrite Amble_Patrol_Quest_85d9118a:
 
 translate schinese_rewrite Amble_Patrol_Quest_6345b002:
 
-    "安布尔在看你的测验。"
+    "安布在看你的测验。"
 
 translate schinese_rewrite Amble_Patrol_Quest_48942efa:
 
@@ -4359,7 +4359,7 @@ translate schinese_rewrite Amble_Patrol_Quest_e3d23c9a:
 
 translate schinese_rewrite Amble_Patrol_Quest_14906c69:
 
-    "安布尔的笑容是温暖和真实的 就像一个温暖的拥抱。"
+    "安布的笑容是温暖和真实的 就像一个温暖的拥抱。"
 
 translate schinese_rewrite Amble_Patrol_Quest_677495d2:
 
@@ -4443,7 +4443,7 @@ translate schinese_rewrite Amble_Patrol_Quest_8a21b579:
 
 translate schinese_rewrite Amble_Patrol_Quest_608b27c1:
 
-    "安布尔的声音在这范围很痛 但他的心情是传染性的。"
+    "安布的声音在这范围很痛 但他的心情是传染性的。"
 
 translate schinese_rewrite Amble_Patrol_Quest_fefd98da:
 
@@ -4467,7 +4467,7 @@ translate schinese_rewrite Amble_Patrol_Quest_d5c7bd07:
 
 translate schinese_rewrite Amble_Patrol_Quest_48761336:
 
-    "安布尔的手臂紧紧在你身边 稍微拉紧了,切断了你。"
+    "安布的手臂紧紧在你身边 稍微拉紧了,切断了你。"
 
 translate schinese_rewrite Amble_Patrol_Quest_c09dfe48:
 
@@ -4479,7 +4479,7 @@ translate schinese_rewrite Amble_Patrol_Quest_8d51cd8e:
 
 translate schinese_rewrite Amble_Patrol_Quest_cae40ea4:
 
-    "安布尔给你的闪烁让你困惑 他是否意味着他所说的话。"
+    "安布给你的闪烁让你困惑 他是否意味着他所说的话。"
 
 translate schinese_rewrite Amble_Patrol_Quest_a35daf2b:
 
@@ -4503,7 +4503,7 @@ translate schinese_rewrite Amble_Patrol_Quest_9e8781d2:
 
 translate schinese_rewrite Amble_Patrol_Quest_b18a4c25:
 
-    "幸好安布尔的兴奋已经分散了注意力。"
+    "幸好安布的兴奋已经分散了注意力。"
 
 translate schinese_rewrite Amble_Patrol_Quest_4fa1983f:
 
@@ -4531,7 +4531,7 @@ translate schinese_rewrite Amble_Patrol_Quest_79745361:
 
 translate schinese_rewrite Amble_Patrol_Quest_9b0b9376:
 
-    "安布尔放你走。"
+    "安布放你走。"
 
 translate schinese_rewrite Amble_Patrol_Quest_b39467dd:
 
@@ -4555,7 +4555,7 @@ translate schinese_rewrite Amble_Patrol_Farm_436731b3:
 
 translate schinese_rewrite Amble_Patrol_Farm_088aff47:
 
-    "安布尔笑着看着你 抬起肩膀 扭断脖子。"
+    "安布笑着看着你 抬起肩膀 扭断脖子。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b4165890:
 
@@ -4615,7 +4615,7 @@ translate schinese_rewrite Amble_Patrol_Farm_dade9fba:
 
 translate schinese_rewrite Amble_Patrol_Farm_73862874:
 
-    "此时此刻,安布尔的双眼正与欢乐交织在一起 因为他在思考和农民的谈话时。"
+    "此时此刻,安布的双眼正与欢乐交织在一起 因为他在思考和农民的谈话时。"
 
 translate schinese_rewrite Amble_Patrol_Farm_cc4c5887:
 
@@ -4659,11 +4659,11 @@ translate schinese_rewrite Amble_Patrol_Farm_ea44f960:
 
 translate schinese_rewrite Amble_Patrol_Farm_b090ca65:
 
-    "你表现得好像你听不到安布尔的声音 试图尽快过上你的生活。"
+    "你表现得好像你听不到安布的声音 试图尽快过上你的生活。"
 
 translate schinese_rewrite Amble_Patrol_Farm_51dad4eb:
 
-    "你跟着安布尔一阵子,很容易明白为什么这里的农民 特别关心那些与土地开发者抗争的人。"
+    "你跟着安布一阵子,很容易明白为什么这里的农民 特别关心那些与土地开发者抗争的人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_a5248884:
 
@@ -4687,7 +4687,7 @@ translate schinese_rewrite Amble_Patrol_Farm_ba97d75e:
 
 translate schinese_rewrite Amble_Patrol_Farm_7f12857d:
 
-    "安布尔的摇摆步调加快了一点 就像你的话让他的脚步有些震动, 不知何故。"
+    "安布的摇摆步调加快了一点 就像你的话让他的脚步有些震动, 不知何故。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e71ca707:
 
@@ -4699,7 +4699,7 @@ translate schinese_rewrite Amble_Patrol_Farm_6186867a:
 
 translate schinese_rewrite Amble_Patrol_Farm_2588546b:
 
-    e "他们跟洛塔尔的假人很像。"
+    e "他们跟洛萨尔的假人很像。"
 
 translate schinese_rewrite Amble_Patrol_Farm_d38ea768:
 
@@ -4719,7 +4719,7 @@ translate schinese_rewrite Amble_Patrol_Farm_f98d506e:
 
 translate schinese_rewrite Amble_Patrol_Farm_aa5194d5:
 
-    "安布尔给你一个测验的表情。"
+    "安布给你一个测验的表情。"
 
 translate schinese_rewrite Amble_Patrol_Farm_3365aa99:
 
@@ -4811,19 +4811,19 @@ translate schinese_rewrite Amble_Patrol_Farm_6622efe8:
 
 translate schinese_rewrite Amble_Patrol_Farm_e09a6557:
 
-    "看着你的目的地,它比安布尔第一次指出时要近一点。你跟他说话时越过了很远的距离。"
+    "看着你的目的地,它比安布第一次指出时要近一点。你跟他说话时越过了很远的距离。"
 
 translate schinese_rewrite Amble_Patrol_Farm_10b4f6ac:
 
-    "时间飞逝时,你玩得很开心,或者... 无论你和安布尔在一起有什么。很难知道如何看待他。就像他不断在两种模式之间转换, 很难跟上。"
+    "时间飞逝时,你玩得很开心,或者... 无论你和安布在一起有什么。很难知道如何看待他。就像他不断在两种模式之间转换, 很难跟上。"
 
 translate schinese_rewrite Amble_Patrol_Farm_45fb9cac:
 
-    "再过几分钟 你就能开始 确定安布尔农庄的个别元素 也把你带走了。"
+    "再过几分钟 你就能开始 确定安布农庄的个别元素 也把你带走了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f8b56267:
 
-    "它比你想的要大,它有丰富的木墙 达到两层楼。从安布尔告诉你的,它也下一层。"
+    "它比你想的要大,它有丰富的木墙 达到两层楼。从安布告诉你的,它也下一层。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0fbfdc03:
 
@@ -4859,7 +4859,7 @@ translate schinese_rewrite Amble_Patrol_Farm_81d062d0:
 
 translate schinese_rewrite Amble_Patrol_Farm_b066dd1c:
 
-    "阿蒂·波波安布尔一提到你 就立刻离开。"
+    "阿蒂·波波安布一提到你 就立刻离开。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5d388e67:
 
@@ -4891,11 +4891,11 @@ translate schinese_rewrite Amble_Patrol_Farm_51f6b85a:
 
 translate schinese_rewrite Amble_Patrol_Farm_3c08b624:
 
-    e "是的,我们拭目以待,我现在和安布尔一起巡逻。"
+    e "是的,我们拭目以待,我现在和安布一起巡逻。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f2dd3899:
 
-    ar "你是说安布尔会让你忙得不可开交吗?"
+    ar "你是说安布会让你忙得不可开交吗?"
 
 translate schinese_rewrite Amble_Patrol_Farm_81aa4915:
 
@@ -4911,11 +4911,11 @@ translate schinese_rewrite Amble_Patrol_Farm_1e8b3819:
 
 translate schinese_rewrite Amble_Patrol_Farm_942aec22:
 
-    ar "你觉得呢,安布尔?"
+    ar "你觉得呢,安布?"
 
 translate schinese_rewrite Amble_Patrol_Farm_9e606d75:
 
-    "这个问题无缘无故地打中安布尔,但熊似乎完全不感到惊讶,因为他给出了一个令人沮丧的诚实答案。"
+    "这个问题无缘无故地打中安布,但熊似乎完全不感到惊讶,因为他给出了一个令人沮丧的诚实答案。"
 
 translate schinese_rewrite Amble_Patrol_Farm_c865c10e:
 
@@ -4987,7 +4987,7 @@ translate schinese_rewrite Amble_Patrol_Farm_acaa5dc8:
 
 translate schinese_rewrite Amble_Patrol_Farm_9d58ab4f:
 
-    ar "很高兴你来了 安布尔。"
+    ar "很高兴你来了 安布。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ebc7d6dd:
 
@@ -5019,7 +5019,7 @@ translate schinese_rewrite Amble_Patrol_Farm_379b7e9c:
 
 translate schinese_rewrite Amble_Patrol_Farm_87609acd:
 
-    "你给安布尔一个关心的眼神。"
+    "你给安布一个关心的眼神。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0c3b4584:
 
@@ -5043,7 +5043,7 @@ translate schinese_rewrite Amble_Patrol_Farm_88580fbe:
 
 translate schinese_rewrite Amble_Patrol_Farm_4e9363ea:
 
-    "安布尔给你一个宽广的微笑。"
+    "安布给你一个宽广的微笑。"
 
 translate schinese_rewrite Amble_Patrol_Farm_17dc296b:
 
@@ -5099,7 +5099,7 @@ translate schinese_rewrite Amble_Patrol_Farm_4ce50a6f:
 
 translate schinese_rewrite Amble_Patrol_Farm_51025aa8:
 
-    "安布尔给你一个微笑,他画了一只乌鸦吃小麦, 把它展示给稻草人看。"
+    "安布给你一个微笑,他画了一只乌鸦吃小麦, 把它展示给稻草人看。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0b534566:
 
@@ -5155,7 +5155,7 @@ translate schinese_rewrite Amble_Patrol_Farm_1e371d43:
 
 translate schinese_rewrite Amble_Patrol_Farm_37589c8a:
 
-    "很高兴能成为安布尔的朋友 不必担心死在他手上。"
+    "很高兴能成为安布的朋友 不必担心死在他手上。"
 
 translate schinese_rewrite Amble_Patrol_Farm_89e4d00e:
 
@@ -5171,7 +5171,7 @@ translate schinese_rewrite Amble_Patrol_Farm_bc437b94:
 
 translate schinese_rewrite Amble_Patrol_Farm_8153ba6b:
 
-    "你有安布尔允许你说话 但是... 你能说什么呢?"
+    "你有安布允许你说话 但是... 你能说什么呢?"
 
 translate schinese_rewrite Amble_Patrol_Farm_75c619c9:
 
@@ -5179,7 +5179,7 @@ translate schinese_rewrite Amble_Patrol_Farm_75c619c9:
 
 translate schinese_rewrite Amble_Patrol_Farm_445b6beb:
 
-    e "嘿,安布尔,我从没问过你为什么要这么做?"
+    e "嘿,安布,我从没问过你为什么要这么做?"
 
 translate schinese_rewrite Amble_Patrol_Farm_ed7cbdb1:
 
@@ -5195,7 +5195,7 @@ translate schinese_rewrite Amble_Patrol_Farm_9ffec77a:
 
 translate schinese_rewrite Amble_Patrol_Farm_d8c22196:
 
-    "其他人都会觉得他们正在敞开心扉 但安布尔似乎完全没有动静 重点是教稻草人拳击。"
+    "其他人都会觉得他们正在敞开心扉 但安布似乎完全没有动静 重点是教稻草人拳击。"
 
 translate schinese_rewrite Amble_Patrol_Farm_a2a89a64:
 
@@ -5247,7 +5247,7 @@ translate schinese_rewrite Amble_Patrol_Farm_6b7eff08:
 
 translate schinese_rewrite Amble_Patrol_Farm_1bae045b:
 
-    "安布尔用自己的问题打破了沉默。"
+    "安布用自己的问题打破了沉默。"
 
 translate schinese_rewrite Amble_Patrol_Farm_95bbfd27:
 
@@ -5283,7 +5283,7 @@ translate schinese_rewrite Amble_Patrol_Farm_eb9c5718:
 
 translate schinese_rewrite Amble_Patrol_Farm_035e74da:
 
-    "安布尔轻笑。"
+    "安布轻笑。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0c6eb1b3:
 
@@ -5395,7 +5395,7 @@ translate schinese_rewrite Amble_Patrol_Farm_99778fde:
 
 translate schinese_rewrite Amble_Patrol_Farm_9b5e1530:
 
-    "只要他确定稻草人准备好了 安布尔就跑到农夫的门前 把它留在门廊上。"
+    "只要他确定稻草人准备好了 安布就跑到农夫的门前 把它留在门廊上。"
 
 translate schinese_rewrite Amble_Patrol_Farm_07adc02e:
 
@@ -5431,19 +5431,19 @@ translate schinese_rewrite Amble_Patrol_Farm_fffb4829:
 
 translate schinese_rewrite Amble_Patrol_Farm_02a75b90:
 
-    "安布尔的其余巡逻队相当平庸-- 农民们走出家门 向安布尔问好, 给他一点礼物,以示感谢他的慷慨。"
+    "安布的其余巡逻队相当平庸-- 农民们走出家门 向安布问好, 给他一点礼物,以示感谢他的慷慨。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f3361510:
 
-    "感谢你们把我儿子带到卢斯特菲尔德接受治疗!"
+    "感谢你们把我儿子带到乐斯民菲尔德接受治疗!"
 
 translate schinese_rewrite Amble_Patrol_Farm_3b75ca66:
 
-    "安布勒把他们全带走 除了啤酒桶之外 他告诉那个男人要卖给肯恩 如果有什么东西的话 他脸上有笑容 眼里有自豪感。"
+    "安布把他们全带走 除了啤酒桶之外 他告诉那个男人要卖给凯恩 如果有什么东西的话 他脸上有笑容 眼里有自豪感。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7d5437ca:
 
-    "看到他这样子,你就会觉得你更了解 安布尔做什么和为什么。"
+    "看到他这样子,你就会觉得你更了解 安布做什么和为什么。"
 
 translate schinese_rewrite Amble_Patrol_Farm_d9f870cb:
 
@@ -5451,7 +5451,7 @@ translate schinese_rewrite Amble_Patrol_Farm_d9f870cb:
 
 translate schinese_rewrite Amble_Patrol_Farm_3d91a2a7:
 
-    "最后,你发现自己回到了卢斯特菲尔德 巡逻了7个小时。"
+    "最后,你发现自己回到了乐斯民菲尔德 巡逻了7个小时。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b677057a:
 
@@ -5487,7 +5487,7 @@ translate schinese_rewrite Amble_Patrol_Farm_81f41d02:
 
 translate schinese_rewrite Amble_Patrol_Farm_bc3d0837:
 
-    "轮到你对安布尔笑了 看来他还是喜欢你的陪伴。"
+    "轮到你对安布笑了 看来他还是喜欢你的陪伴。"
 
 translate schinese_rewrite Amble_Patrol_Farm_87d41023:
 
@@ -5535,7 +5535,7 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_a84b8e8f:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_8b0f1a4d:
 
-    e "S-S-当然,你需要什么,安布尔?"
+    e "S-S-当然,你需要什么,安布?"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_fc3a40b6:
 
@@ -5571,7 +5571,7 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_b5382edf:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_658a2ef3:
 
-    "安布尔给大家一个侧面的外观"
+    "安布给大家一个侧面的外观"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_a3378ef6:
 
@@ -5583,7 +5583,7 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_bf8f84fb:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_82c5f9fa:
 
-    a "卢斯特菲尔德的农地经常被山地猎人所困扰。"
+    a "乐斯民菲尔德的农地经常被山地猎人所困扰。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_02a05f62:
 
@@ -5675,7 +5675,7 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_7e32cbe7:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_80357197:
 
-    "你花点时间想想 安布尔暗示他经常出去 打24只鲨鱼。"
+    "你花点时间想想 安布暗示他经常出去 打24只鲨鱼。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_ab994785:
 
@@ -5683,8 +5683,7 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_ab994785:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_301cccce:
 
-    e "S-sounds good to me!"
-
+    e "听、听起来不错！"
 translate schinese_rewrite Amble_Ask_Patrol_Task_ff7d9dac:
 
     e "你怎么知道我真的打败了他们?"
@@ -5727,7 +5726,7 @@ translate schinese_rewrite Amble_Report_Patrol_Task_fba2453e:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_7ad89eb8:
 
-    "你看安布尔 看着你怀疑。"
+    "你看安布 看着你怀疑。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_a0153810:
 
@@ -5739,7 +5738,7 @@ translate schinese_rewrite Amble_Report_Patrol_Task_c77aa16b:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_be06a96f:
 
-    "安布尔的眼角 可以看到一股凶恶的闪光。"
+    "安布的眼角 可以看到一股凶恶的闪光。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_c2f510b5:
 
@@ -5811,15 +5810,15 @@ translate schinese_rewrite Amble_Report_Patrol_Task_f0066fa8:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_dde7dcc3:
 
-    e "听起来不像洛萨。"
+    e "听起来不像洛萨尔。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_6ff7753c:
 
-    a "你会对鲁斯特菲尔德的英雄 内心深处的想法感到惊讶。"
+    a "你会对乐斯民菲尔德的英雄 内心深处的想法感到惊讶。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_1e9e8466:
 
-    "安布尔眼角闪闪发光。"
+    "安布眼角闪闪发光。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_6300879a:
 
@@ -5827,11 +5826,11 @@ translate schinese_rewrite Amble_Report_Patrol_Task_6300879a:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_88f0a92c:
 
-    e "安布尔,乔格就在那里..."
+    e "安布,乔格就在那里..."
 
 translate schinese_rewrite Amble_Report_Patrol_Task_bd7e5fed:
 
-    a "乔格已经知道了 而且洛萨在你靠近点看的时候 也可以看得很清楚。"
+    a "乔格已经知道了 而且洛萨尔在你靠近点看的时候 也可以看得很清楚。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_ff59d46e:
 
@@ -5863,7 +5862,7 @@ translate schinese_rewrite Amble_Report_Patrol_Task_c6b5ba0e:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_30f0ec79:
 
-    "其他人,特别是肯恩, 你会认为这是他们 试图摆脱支付你,但是..."
+    "其他人,特别是凯恩, 你会认为这是他们 试图摆脱支付你,但是..."
 
 translate schinese_rewrite Amble_Report_Patrol_Task_25de6e38:
 
@@ -5879,7 +5878,7 @@ translate schinese_rewrite Amble_Report_Patrol_Task_b00144c3:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_85e96f71:
 
-    "安布尔脸上的笑容 比现在的正常还要大 更傻。"
+    "安布脸上的笑容 比现在的正常还要大 更傻。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_a8f345e8:
 
@@ -5891,11 +5890,11 @@ translate schinese_rewrite Amble_Report_Patrol_Task_16c0a1f1:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_62cd4714:
 
-    "安布勒拥抱你, 这次让你呼吸。"
+    "安布拥抱你, 这次让你呼吸。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_bec446f6:
 
-    e "我,这没什么问题,安布尔。"
+    e "我,这没什么问题,安布。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_b270a781:
 
@@ -5915,7 +5914,7 @@ translate schinese_rewrite Amble_Dialogue_End_ebe727c3:
 
 translate schinese_rewrite Amble_Dialogue_End_5faed9f2:
 
-    e "非常感谢你,安布尔。"
+    e "非常感谢你,安布。"
 
 translate schinese_rewrite Amble_Dialogue_End_849b2aab:
 
@@ -5967,7 +5966,7 @@ translate schinese_rewrite Jog_Ask_About_Gnolls_8dc63a3b:
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_1727673b:
 
-    e "嘿,洛萨,你觉得小鼻孔怎么样?"
+    e "嘿,洛萨尔,你觉得小鼻孔怎么样?"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_4455cee3:
 
@@ -5975,7 +5974,7 @@ translate schinese_rewrite Lothar_Ask_About_Gnolls_4455cee3:
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_ae3314d9:
 
-    "洛塔尔立即站起来 狂野地四处看。"
+    "洛萨尔立即站起来 狂野地四处看。"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_bdfdbfaa:
 
@@ -5987,7 +5986,7 @@ translate schinese_rewrite Lothar_Ask_About_Gnolls_19bd7f21:
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_423ba927:
 
-    e "冷静下来,洛萨,他们没那么坏。"
+    e "冷静下来,洛萨尔,他们没那么坏。"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_75685291:
 

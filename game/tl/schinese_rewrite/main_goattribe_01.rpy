@@ -35,7 +35,7 @@ translate schinese_rewrite Kari_Dialogue_35153737:
 
 translate schinese_rewrite Kari_Dialogue_4723c323:
 
-    k "谢谢你们救了富肯。"
+    k "谢谢你们救了弗坎。"
 
 translate schinese_rewrite Kari_Dialogue_ee60c608:
 
@@ -43,7 +43,7 @@ translate schinese_rewrite Kari_Dialogue_ee60c608:
 
 translate schinese_rewrite Kari_Dialogue_f9a9c39c:
 
-    e "我记得你不得不把福坎带回部落。"
+    e "我记得你不得不把弗坎带回部落。"
 
 translate schinese_rewrite Kari_Dialogue_2ec69d3c:
 
@@ -51,7 +51,7 @@ translate schinese_rewrite Kari_Dialogue_2ec69d3c:
 
 translate schinese_rewrite Kari_Dialogue_bf90dd40:
 
-    e "在洞穴里救出富肯之后 情况如何。"
+    e "在洞穴里救出弗坎之后 情况如何。"
 
 translate schinese_rewrite Kari_Dialogue_c394473b:
 
@@ -79,7 +79,7 @@ translate schinese_rewrite Kari_Dialogue_74e18e83:
 
 translate schinese_rewrite Kari_Dialogue_2920f717:
 
-    k "谢谢你帮我救福坎。"
+    k "谢谢你帮我救弗坎。"
 
 translate schinese_rewrite Kari_Dialogue_fab4eaf3:
 
@@ -163,7 +163,7 @@ translate schinese_rewrite Kari_Ask_Warrior_Practice_a4091800:
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_ef64eead:
 
-    "卡莉暂停了一会儿, 面对着扭曲, 好像他回忆起一个特别不愉快的经历。"
+    "卡里暂停了一会儿, 面对着扭曲, 好像他回忆起一个特别不愉快的经历。"
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_7e160790:
 
@@ -175,7 +175,7 @@ translate schinese_rewrite Kari_Ask_Warrior_Practice_031d0ab4:
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_5d3ec938:
 
-    "看着卡莉擦擦前额来抚慰不断增长的头痛,。"
+    "看着卡里擦擦前额来抚慰不断增长的头痛,。"
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_8e9fe151:
 
@@ -287,7 +287,7 @@ translate schinese_rewrite Kari_Warrior_Practice_Start_afddffad:
 
 translate schinese_rewrite Kari_Warrior_Practice_Start_aea7f2d8:
 
-    "尽管卡莉的呼声开阔开放,。"
+    "尽管卡里的呼声开阔开放,。"
 
 translate schinese_rewrite Kari_Warrior_Practice_Start_030dbe77:
 
@@ -355,7 +355,7 @@ translate schinese_rewrite Kari_Goat_Practice_Lose_4305ad19:
 
 translate schinese_rewrite Kari_Goat_Practice_Lose_e2c12b54:
 
-    "目前还不清楚卡莉是否试图说服新兵或他自己。"
+    "目前还不清楚卡里是否试图说服新兵或他自己。"
 
 translate schinese_rewrite Kari_Goat_Practice_Lose_72ef96ae:
 
@@ -415,7 +415,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_3815a1be:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_eec20efb:
 
-    "卡莉仍然感到厌恶,。"
+    "卡里仍然感到厌恶,。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_1428edd5:
 
@@ -431,7 +431,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_491572e9:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_db79181f:
 
-    "卡莉路过,用他的手杖把抗议的山羊打在头上。"
+    "卡里路过,用他的手杖把抗议的山羊打在头上。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_9863b47d:
 
@@ -495,7 +495,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_86d607e1:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_a51c44c6:
 
-    "就在卡里结束演讲的时候 福坎出现在部落中心。"
+    "就在卡里结束演讲的时候 弗坎出现在部落中心。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_591ebd01:
 
@@ -535,11 +535,11 @@ translate schinese_rewrite Kari_Goat_Practice_Win_c58e4881:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_76a07bb8:
 
-    "福坎 给出同意点头。"
+    "弗坎 给出同意点头。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_5148fcfd:
 
-    "卡莉转过身来面对在场的其他山羊。"
+    "卡里转过身来面对在场的其他山羊。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_70c9020f:
 
@@ -567,7 +567,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_e54fa625:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_3f9edfba:
 
-    "福坎的表情是完全真实的 信任的,正如他说的。"
+    "弗坎的表情是完全真实的 信任的,正如他说的。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_70b51dee:
 
@@ -591,7 +591,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_8f27c0c1:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_84f0fb0c:
 
-    "福坎转过身去给卡莉点头 给他发信号要他解释。"
+    "弗坎转过身去给卡里点头 给他发信号要他解释。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_23112146:
 
@@ -627,7 +627,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_e40234ba:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_cf15db7c:
 
-    "福坎发出一小口叹气, 可能太小,卡莉无法注意到。"
+    "弗坎发出一小口叹气, 可能太小,卡里无法注意到。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_3c8ca958:
 
@@ -647,7 +647,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_541f49e2:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_21349790:
 
-    "福坎在继续前要喘口气, 好像说服自己继续前进一样。"
+    "弗坎在继续前要喘口气, 好像说服自己继续前进一样。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_fd19fdec:
 
@@ -735,7 +735,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_7192ffbc:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_670fde36:
 
-    "你有种感觉 卡莉主要感谢 他不用无所顾忌地离开树。"
+    "你有种感觉 卡里主要感谢 他不用无所顾忌地离开树。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_05de4eec:
 
@@ -755,11 +755,11 @@ translate schinese_rewrite Kari_Goat_Practice_Win_a38e33a1:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_73cff794:
 
-    "悲哀的福坎叹气。"
+    "悲哀的弗坎叹气。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_944eb4ea:
 
-    f "现在唯一的问题是 我们如何能和卢斯特菲尔德 建立关系..."
+    f "现在唯一的问题是 我们如何能和乐斯民菲尔德 建立关系..."
 
 translate schinese_rewrite Kari_Goat_Practice_Win_4abdaa0c:
 
@@ -779,7 +779,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_27828109:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_62f114fb:
 
-    "福坎看起来有点忧郁。"
+    "弗坎看起来有点忧郁。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_b4b6d55d:
 
@@ -795,7 +795,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_380a19fc:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_c0815fc1:
 
-    "富肯叶子 满满的乌云 悬在头上。"
+    "弗坎叶子 满满的乌云 悬在头上。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_c8fc4cd6:
 
@@ -803,7 +803,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_c8fc4cd6:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_8e758ae7:
 
-    "福坎的头部鞭子回过头来 似乎从他沉睡的烟雾中抽出来。"
+    "弗坎的头部鞭子回过头来 似乎从他沉睡的烟雾中抽出来。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_28859260:
 
@@ -851,7 +851,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_184f0f85:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_ca3f157c:
 
-    "福坎走了 不管他现在心情多么沉闷 似乎已经走了。"
+    "弗坎走了 不管他现在心情多么沉闷 似乎已经走了。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_4142e697:
 
@@ -867,7 +867,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_6e5fe1f5:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_4d9602b7:
 
-    "卡莉对你的明显混淆有点笑。"
+    "卡里对你的明显混淆有点笑。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_ae07ce51:
 
@@ -899,15 +899,15 @@ translate schinese_rewrite Kari_Goat_Practice_Win_f96ec317:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_63e92d27:
 
-    "福坎似乎有些话要说 但不能自找麻烦。"
+    "弗坎似乎有些话要说 但不能自找麻烦。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_5a56cbaa:
 
-    "看着卡莉,你可以看到他和你的看法一样, 但是你觉得自己太低级了, 无法在这件事上发言。"
+    "看着卡里,你可以看到他和你的看法一样, 但是你觉得自己太低级了, 无法在这件事上发言。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_f8044169:
 
-    "看到富肯不会说出自己想说的话 凯里张开嘴说话。"
+    "看到弗坎不会说出自己想说的话 凯里张开嘴说话。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_70663843:
 
@@ -943,7 +943,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_2640c2f4:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_d5b7a6d7:
 
-    "卡莉低头鞠躬 就像骑士接受誓言一样。"
+    "卡里低头鞠躬 就像骑士接受誓言一样。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_5a27427a:
 
@@ -971,7 +971,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_e9609d4f:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_c8c80c3f:
 
-    "卡莉的脸颊被冲了一下 说起来显然很丢脸。"
+    "卡里的脸颊被冲了一下 说起来显然很丢脸。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_9838ff6b:
 
@@ -979,7 +979,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_9838ff6b:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_f886febe:
 
-    "迅速离开现场 卡莉朝方向走去 大部分山羊战士失踪了。"
+    "迅速离开现场 卡里朝方向走去 大部分山羊战士失踪了。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_ee4470b2:
 
@@ -999,7 +999,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_a93d4d94:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_bed95126:
 
-    "你忍不住觉得福坎现在很可爱。"
+    "你忍不住觉得弗坎现在很可爱。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_fb13942b:
 
@@ -1035,7 +1035,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_62a18040:
 
 translate schinese_rewrite Kari_Goat_Practice_Win_d11cac61:
 
-    "福坎头朝小屋走去 让你再次孤单。"
+    "弗坎头朝小屋走去 让你再次孤单。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_c9704f22:
 
@@ -1095,7 +1095,7 @@ translate schinese_rewrite Kari_Ask_How_Doing_1f9ae8df:
 
 translate schinese_rewrite Kari_Ask_How_Doing_940e52f6:
 
-    k "我在和福坎说话。"
+    k "我在和弗坎说话。"
 
 translate schinese_rewrite Kari_Ask_How_Doing_28d05d0f:
 
@@ -1147,11 +1147,10 @@ translate schinese_rewrite Kari_Dialogue_End_e89acd94:
 
 translate schinese_rewrite Kari_Dialogue_End_361c6fec:
 
-    k "See you... Courier."
-
+    k "回头见……信使。"
 translate schinese_rewrite Kechioeren_Enter_5d8de010:
 
-    "你小心地走向洛塔尔派你走的方向。"
+    "你小心地走向洛萨尔派你走的方向。"
 
 translate schinese_rewrite Kechioeren_Enter_96a44609:
 
@@ -1215,7 +1214,7 @@ translate schinese_rewrite Kechioeren_Enter_d5ecfce0:
 
 translate schinese_rewrite Kechioeren_Enter_717db05d:
 
-    e "我来自卢斯特菲尔德,我是信使,你看。"
+    e "我来自乐斯民菲尔德,我是信使,你看。"
 
 translate schinese_rewrite Kechioeren_Enter_dca3ca57:
 
@@ -1255,7 +1254,7 @@ translate schinese_rewrite Kechioeren_Enter_e0848d29:
 
 translate schinese_rewrite Kechioeren_Enter_675ebd1a:
 
-    e "鲁斯特菲尔德?"
+    e "乐斯民菲尔德?"
 
 translate schinese_rewrite Kechioeren_Enter_88530ac9:
 
@@ -1263,7 +1262,7 @@ translate schinese_rewrite Kechioeren_Enter_88530ac9:
 
 translate schinese_rewrite Kechioeren_Enter_64a39b57:
 
-    goatguard "你说你来自鲁斯特菲尔德。"
+    goatguard "你说你来自乐斯民菲尔德。"
 
 translate schinese_rewrite Kechioeren_Enter_874b0b95:
 
@@ -1435,7 +1434,7 @@ translate schinese_rewrite Kechioeren_Enter_655602f9:
 
 translate schinese_rewrite Kechioeren_Enter_e6a163e8:
 
-    goatguard "将军,他是来自卢斯特菲尔德。"
+    goatguard "将军,他是来自乐斯民菲尔德。"
 
 translate schinese_rewrite Kechioeren_Enter_e6e8e397:
 
@@ -1471,11 +1470,11 @@ translate schinese_rewrite Kechioeren_Enter_ca831d89:
 
 translate schinese_rewrite Kechioeren_Enter_191f25ff:
 
-    gg "你知道一些关于富肯的事,你不知道吗?"
+    gg "你知道一些关于弗坎的事,你不知道吗?"
 
 translate schinese_rewrite Kechioeren_Enter_064ddd59:
 
-    e "嗯?富肯?"
+    e "嗯?弗坎?"
 
 translate schinese_rewrite Kechioeren_Enter_fd9d31b0:
 
@@ -1487,7 +1486,7 @@ translate schinese_rewrite Kechioeren_Enter_7edfef42:
 
 translate schinese_rewrite Kechioeren_Enter_659b650e:
 
-    "新闻让你吃惊了一会儿,你以为福坎会在部落里, 并且看到熟悉的面孔会比较安全。"
+    "新闻让你吃惊了一会儿,你以为弗坎会在部落里, 并且看到熟悉的面孔会比较安全。"
 
 translate schinese_rewrite Kechioeren_Enter_82262834:
 
@@ -1503,7 +1502,7 @@ translate schinese_rewrite Kechioeren_Enter_5f213138:
 
 translate schinese_rewrite Kechioeren_Enter_4259f957:
 
-    "但如果你说你了解富肯 将军肯定想知道更多你不知道的信息。"
+    "但如果你说你了解弗坎 将军肯定想知道更多你不知道的信息。"
 
 translate schinese_rewrite Kechioeren_Enter_1136f8a9:
 
@@ -1535,7 +1534,7 @@ translate schinese_rewrite Kechioeren_Enter_16ec2160:
 
 translate schinese_rewrite Kechioeren_Enter_8ad190d2:
 
-    e "我是卢斯特菲尔德的快递员 他让我提前给拉希姆一封信。"
+    e "我是乐斯民菲尔德的快递员 他让我提前给雷希姆一封信。"
 
 translate schinese_rewrite Kechioeren_Enter_5f2abe47:
 
@@ -1583,7 +1582,7 @@ translate schinese_rewrite Kechioeren_Enter_4c06e445:
 
 translate schinese_rewrite Kechioeren_Enter_cfcce589:
 
-    e "洛塔尔,他叫我去的,现在可以走了吗?"
+    e "洛萨尔,他叫我去的,现在可以走了吗?"
 
 translate schinese_rewrite Kechioeren_Enter_6ebc7109:
 
@@ -1671,7 +1670,7 @@ translate schinese_rewrite Kechioeren_Enter_e44bfaa0:
 
 translate schinese_rewrite Kechioeren_Enter_7ea088b6:
 
-    goatguard "将军,但他来自卢斯特菲尔德。"
+    goatguard "将军,但他来自乐斯民菲尔德。"
 
 translate schinese_rewrite Kechioeren_Enter_07bdba30:
 
@@ -1699,7 +1698,7 @@ translate schinese_rewrite Kechioeren_Enter_f371b960:
 
 translate schinese_rewrite Kechioeren_Enter_fe85bf6e:
 
-    "你想,至少富肯会加入部落。"
+    "你想,至少弗坎会加入部落。"
 
 translate schinese_rewrite Kechioeren_Enter_13bea361:
 
@@ -1763,7 +1762,7 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_2ea7a35e:
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_395c96d7:
 
-    e "他们建议我们去找富肯 因为这个符号看起来像你的东西。"
+    e "他们建议我们去找弗坎 因为这个符号看起来像你的东西。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_c29390cb:
 
@@ -1803,7 +1802,7 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_df0f12a6:
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_5291daa2:
 
-    gg "他们被富肯的父亲叫来 盆地也失踪了。"
+    gg "他们被弗坎的父亲叫来 盆地也失踪了。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_1adf0e00:
 
@@ -1879,7 +1878,7 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_7e7c5257:
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_16fffe5c:
 
-    e "我是来和富肯谈 卢斯特菲尔德和山羊可能和解的。"
+    e "我是来和弗坎谈 乐斯民菲尔德和山羊可能和解的。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_d08bbf91:
 
@@ -1895,7 +1894,7 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_f4ca578b:
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_e8e3c203:
 
-    e "拉希姆拒绝了福坎的想法 但我们其实很高兴..."
+    e "雷希姆拒绝了弗坎的想法 但我们其实很高兴..."
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_d819fd7d:
 
@@ -1963,7 +1962,7 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_a05b105e_2:
 
 translate schinese_rewrite Kari_Trusty_c0bccace:
 
-    "你再次走进训练营 看到卡莉盯着你 几乎不掩饰的不信任。"
+    "你再次走进训练营 看到卡里盯着你 几乎不掩饰的不信任。"
 
 translate schinese_rewrite Kari_Trusty_7890432b:
 
@@ -2039,7 +2038,7 @@ translate schinese_rewrite Kari_Trusty_f780b72d:
 
 translate schinese_rewrite Kari_Trusty_e6bcd953:
 
-    "卡莉盯着你看 好像你是个白痴一样。"
+    "卡里盯着你看 好像你是个白痴一样。"
 
 translate schinese_rewrite Kari_Trusty_c3dce4b8:
 
@@ -2079,7 +2078,7 @@ translate schinese_rewrite Kari_Trusty_bb507fd4:
 
 translate schinese_rewrite Kari_Trusty_08e534c4:
 
-    e "你可以问问他 如果我的故事吻合, 让他问欧勒!"
+    e "你可以问问他 如果我的故事吻合, 让他问奥利!"
 
 translate schinese_rewrite Kari_Trusty_5d6b05a2:
 
@@ -2127,7 +2126,7 @@ translate schinese_rewrite Kari_Trusty_911a1d5c:
 
 translate schinese_rewrite Kari_Trusty_3e031178:
 
-    "卡莉点头毫不犹豫。"
+    "卡里点头毫不犹豫。"
 
 translate schinese_rewrite Kari_Trusty_64ac4548:
 
@@ -2135,7 +2134,7 @@ translate schinese_rewrite Kari_Trusty_64ac4548:
 
 translate schinese_rewrite Kari_Trusty_f3cbd520:
 
-    "很难阻止你喉咙里 充满挫折感的尖叫声 也很难不勒死卡莉。"
+    "很难阻止你喉咙里 充满挫折感的尖叫声 也很难不勒死卡里。"
 
 translate schinese_rewrite Kari_Trusty_bc76d473:
 
@@ -2191,7 +2190,7 @@ translate schinese_rewrite Kari_Trusty_89896f6b:
 
 translate schinese_rewrite Kari_Trusty_309fc0e4:
 
-    "卡莉的脸红了 愤怒或尴尬,你看不出来。"
+    "卡里的脸红了 愤怒或尴尬,你看不出来。"
 
 translate schinese_rewrite Kari_Trusty_3b7f3afa:
 
@@ -2207,7 +2206,7 @@ translate schinese_rewrite Kari_Trusty_b6235d04:
 
 translate schinese_rewrite Kari_Trusty_e0308f07:
 
-    "你当时正忙着晃眉毛呢 当你不得不躲开卡莉的耳光时。"
+    "你当时正忙着晃眉毛呢 当你不得不躲开卡里的耳光时。"
 
 translate schinese_rewrite Kari_Trusty_17ee7d89:
 
@@ -2251,7 +2250,7 @@ translate schinese_rewrite Kari_Trusty_9736160d:
 
 translate schinese_rewrite Kari_Trusty_a1831a5e:
 
-    e "我不记得它在哪里,我也不知道我朋友现在在哪里, 但我知道,我醒来时, 有点晕眩,困惑,离卢斯特菲尔德有点远。"
+    e "我不记得它在哪里,我也不知道我朋友现在在哪里, 但我知道,我醒来时, 有点晕眩,困惑,离乐斯民菲尔德有点远。"
 
 translate schinese_rewrite Kari_Trusty_3756c884:
 
@@ -2263,7 +2262,7 @@ translate schinese_rewrite Kari_Trusty_e2a7f0c5:
 
 translate schinese_rewrite Kari_Trusty_4e1f1855:
 
-    e "是啊,这很不幸,但即使我想撒谎 说我来自卢斯特菲尔德以外的地方,我做不到。"
+    e "是啊,这很不幸,但即使我想撒谎 说我来自乐斯民菲尔德以外的地方,我做不到。"
 
 translate schinese_rewrite Kari_Trusty_edc07661:
 
@@ -2327,7 +2326,7 @@ translate schinese_rewrite Kari_Trusty_2fbabc8b:
 
 translate schinese_rewrite Kari_Trusty_4530d4fc:
 
-    e "首先,我想报答塞布和奥勒 帮助我, 以及鲁斯特菲尔德的其余部分 当我正在做的时候。"
+    e "首先,我想报答塞布和奥勒 帮助我, 以及乐斯民菲尔德的其余部分 当我正在做的时候。"
 
 translate schinese_rewrite Kari_Trusty_4d520a4f:
 
@@ -2387,7 +2386,7 @@ translate schinese_rewrite Kari_Trusty_000cad01:
 
 translate schinese_rewrite Kari_Trusty_f440d647:
 
-    e "如果我跑了,它会只是攻击别人 稍后,甚至来攻击卢斯特菲尔德, 它可以重新发动战争。"
+    e "如果我跑了,它会只是攻击别人 稍后,甚至来攻击乐斯民菲尔德, 它可以重新发动战争。"
 
 translate schinese_rewrite Kari_Trusty_853fce68:
 
@@ -2427,7 +2426,7 @@ translate schinese_rewrite Kari_Trusty_5b7c85af:
 
 translate schinese_rewrite Kari_Trusty_a24ab21c:
 
-    "卡莉似乎对你的答复感到满意 至少目前是这样。"
+    "卡里似乎对你的答复感到满意 至少目前是这样。"
 
 translate schinese_rewrite Kari_Trusty_d79a517d:
 
@@ -2479,7 +2478,7 @@ translate schinese_rewrite Kari_Trusty_1955dffe:
 
 translate schinese_rewrite Kari_Trusty_a014821d:
 
-    "你可以看到卡莉明显在为这个问题挣扎。"
+    "你可以看到卡里明显在为这个问题挣扎。"
 
 translate schinese_rewrite Kari_Trusty_915bc8ce:
 
@@ -2495,7 +2494,7 @@ translate schinese_rewrite Kari_Trusty_f4ac81a4:
 
 translate schinese_rewrite Kari_Trusty_3ca2decb:
 
-    "你看到卡莉脸红了 愤怒的红色。"
+    "你看到卡里脸红了 愤怒的红色。"
 
 translate schinese_rewrite Kari_Trusty_02a6a843:
 
@@ -2535,7 +2534,7 @@ translate schinese_rewrite Kari_Trusty_fc1ae522:
 
 translate schinese_rewrite Kari_Trusty_e6e06138:
 
-    "卡莉脸上的悲伤表情 几乎是很有趣的 直到你意识到卡莉不想回答这个问题。"
+    "卡里脸上的悲伤表情 几乎是很有趣的 直到你意识到卡里不想回答这个问题。"
 
 translate schinese_rewrite Kari_Trusty_26bf6d67:
 
@@ -2547,7 +2546,7 @@ translate schinese_rewrite Kari_Trusty_0b03b101:
 
 translate schinese_rewrite Kari_Trusty_b34190fa:
 
-    "卡莉的脸正在扭曲成 刻板愤怒的面孔。"
+    "卡里的脸正在扭曲成 刻板愤怒的面孔。"
 
 translate schinese_rewrite Kari_Trusty_095d462e:
 
@@ -2563,7 +2562,7 @@ translate schinese_rewrite Kari_Trusty_631166dd:
 
 translate schinese_rewrite Kari_Trusty_ee0eb295:
 
-    "卡莉承认他的秘密, 羞耻和愤怒。"
+    "卡里承认他的秘密, 羞耻和愤怒。"
 
 translate schinese_rewrite Kari_Trusty_395155a5:
 
@@ -2575,7 +2574,7 @@ translate schinese_rewrite Kari_Trusty_82091822_1:
 
 translate schinese_rewrite Kari_Trusty_1f62523f:
 
-    "问题明显使卡莉痛苦。"
+    "问题明显使卡里痛苦。"
 
 translate schinese_rewrite Kari_Trusty_45f7d74c:
 
@@ -2583,7 +2582,7 @@ translate schinese_rewrite Kari_Trusty_45f7d74c:
 
 translate schinese_rewrite Kari_Trusty_cf2408ea:
 
-    "卡莉把手举起来 当你试着回应的时候。"
+    "卡里把手举起来 当你试着回应的时候。"
 
 translate schinese_rewrite Kari_Trusty_2b358c64:
 
@@ -2607,7 +2606,7 @@ translate schinese_rewrite Kari_Trusty_937f332f:
 
 translate schinese_rewrite Kari_Trusty_499cee29:
 
-    "卡莉叹气 问完问题后显然有点忧郁。"
+    "卡里叹气 问完问题后显然有点忧郁。"
 
 translate schinese_rewrite Kari_Trusty_1bb2bbec:
 
@@ -2615,7 +2614,7 @@ translate schinese_rewrite Kari_Trusty_1bb2bbec:
 
 translate schinese_rewrite Kari_Trusty_10bbd153:
 
-    e "是的,实际上,我注意到你看起来不像山羊,从我所知道的,而福坎也不是。"
+    e "是的,实际上,我注意到你看起来不像山羊,从我所知道的,而弗坎也不是。"
 
 translate schinese_rewrite Kari_Trusty_7e7546dd:
 
@@ -2623,11 +2622,11 @@ translate schinese_rewrite Kari_Trusty_7e7546dd:
 
 translate schinese_rewrite Kari_Trusty_85c42dc5:
 
-    k "你说的对,富肯和我都不是山羊 我是红鹿,他是公羊。"
+    k "你说的对,弗坎和我都不是山羊 我是红鹿,他是公羊。"
 
 translate schinese_rewrite Kari_Trusty_2a2bc2c6:
 
-    k "只有在我们开始与来自卢斯特菲尔德的人互动时,才真正出现了“山羊部落”这个名字。"
+    k "只有在我们开始与来自乐斯民菲尔德的人互动时,才真正出现了“山羊部落”这个名字。"
 
 translate schinese_rewrite Kari_Trusty_dfe56e12:
 
@@ -2639,7 +2638,7 @@ translate schinese_rewrite Kari_Trusty_cd832a18:
 
 translate schinese_rewrite Kari_Trusty_b2cd3b20:
 
-    "卡莉冲浪。"
+    "卡里冲浪。"
 
 translate schinese_rewrite Kari_Trusty_c377408c:
 
@@ -2663,7 +2662,7 @@ translate schinese_rewrite Kari_Trusty_c8a7c443:
 
 translate schinese_rewrite Kari_Trusty_81256f13:
 
-    "卡莉转过身离开,但一想到事情就会短暂地停顿下来。"
+    "卡里转过身离开,但一想到事情就会短暂地停顿下来。"
 
 translate schinese_rewrite Kari_Trusty_9fe8a520:
 
@@ -2715,7 +2714,7 @@ translate schinese_rewrite Kari_Trusty_623be4f3:
 
 translate schinese_rewrite Kari_Trusty_b795fde6:
 
-    e "关于富肯,我想你最好跟他谈谈你的感受。"
+    e "关于弗坎,我想你最好跟他谈谈你的感受。"
 
 translate schinese_rewrite Kari_Trusty_b7880290:
 
@@ -2723,7 +2722,7 @@ translate schinese_rewrite Kari_Trusty_b7880290:
 
 translate schinese_rewrite Kari_Trusty_71700a04:
 
-    "相反,卡莉点头。"
+    "相反,卡里点头。"
 
 translate schinese_rewrite Kari_Trusty_32a8e5ce:
 
@@ -2775,7 +2774,7 @@ translate schinese_rewrite Kari_Adventure_0842ba3c:
 
 translate schinese_rewrite Kari_Adventure_ee5c3564:
 
-    k "卡莉。"
+    k "卡里。"
 
 translate schinese_rewrite Kari_Adventure_52993db8:
 
@@ -2783,7 +2782,7 @@ translate schinese_rewrite Kari_Adventure_52993db8:
 
 translate schinese_rewrite Kari_Adventure_41a56884:
 
-    k "游戏对话是 富肯的爸爸给我起的这个名字。"
+    k "游戏对话是 弗坎的爸爸给我起的这个名字。"
 
 translate schinese_rewrite Kari_Adventure_ff88d578:
 
@@ -2811,11 +2810,11 @@ translate schinese_rewrite Kari_Adventure_f09e02ff:
 
 translate schinese_rewrite Kari_Adventure_137c64cf:
 
-    e "嘿,我觉得富肯会好起来的。"
+    e "嘿,我觉得弗坎会好起来的。"
 
 translate schinese_rewrite Kari_Adventure_a01e5023:
 
-    "卡莉转过身盯着你 你看着他戴着可怕的面具 感觉很不安。"
+    "卡里转过身盯着你 你看着他戴着可怕的面具 感觉很不安。"
 
 translate schinese_rewrite Kari_Adventure_2752b772:
 
@@ -2835,7 +2834,7 @@ translate schinese_rewrite Kari_Adventure_0af55a1b:
 
 translate schinese_rewrite Kari_Adventure_81762b7a:
 
-    k "是的,普罗,富肯告诉我的。"
+    k "是的,普罗,弗坎告诉我的。"
 
 translate schinese_rewrite Kari_Adventure_0a463124:
 
@@ -2963,7 +2962,7 @@ translate schinese_rewrite Kari_Adventure_3d3958b6:
 
 translate schinese_rewrite Kari_Adventure_23332a04:
 
-    k "福坎能比你的奇姆更能处理好自己。"
+    k "弗坎能比你的齐门更能处理好自己。"
 
 translate schinese_rewrite Kari_Adventure_35675f62:
 
@@ -3043,7 +3042,7 @@ translate schinese_rewrite Kari_Adventure_c926b024:
 
 translate schinese_rewrite Kari_Adventure_a03b677d:
 
-    "卡莉脱下面具一秒钟 然后再穿上。"
+    "卡里脱下面具一秒钟 然后再穿上。"
 
 translate schinese_rewrite Kari_Adventure_024ef151:
 
@@ -3311,7 +3310,7 @@ translate schinese_rewrite Kari_Adventure_888073a0:
 
 translate schinese_rewrite Kari_Adventure_aaa657f3:
 
-    k "我们没有伟大的信仰和仪式 之后,特夫菲克,富肯的父亲走了。"
+    k "我们没有伟大的信仰和仪式 之后,特夫菲克,弗坎的父亲走了。"
 
 translate schinese_rewrite Kari_Adventure_787a7122:
 
@@ -3423,7 +3422,7 @@ translate schinese_rewrite Furkan_First_Meet_c031e0d4:
 
 translate schinese_rewrite Furkan_First_Meet_62159bf5:
 
-    e "我来自普罗 我现在住在卢斯特菲尔德。"
+    e "我来自普罗 我现在住在乐斯民菲尔德。"
 
 translate schinese_rewrite Furkan_First_Meet_c18a18fa:
 
@@ -3463,7 +3462,7 @@ translate schinese_rewrite Furkan_First_Meet_943c3c4d:
 
 translate schinese_rewrite Furkan_First_Meet_d0ccc550:
 
-    my "公牛,拉希姆,我有事要和他讨论。"
+    my "公牛,雷希姆,我有事要和他讨论。"
 
 translate schinese_rewrite Furkan_First_Meet_b39357d8:
 
@@ -3475,7 +3474,7 @@ translate schinese_rewrite Furkan_First_Meet_59256155:
 
 translate schinese_rewrite Furkan_First_Meet_a626f768:
 
-    my "我是福坎 山羊部落的酋长。"
+    my "我是弗坎 山羊部落的酋长。"
 
 translate schinese_rewrite Furkan_First_Meet_39c4c2b0:
 
@@ -3491,7 +3490,7 @@ translate schinese_rewrite Furkan_First_Meet_28ad4ae1:
 
 translate schinese_rewrite Furkan_First_Meet_bfd4a8e8:
 
-    f "我需要一个我能信任的人 给拉希姆送一封重要的信。"
+    f "我需要一个我能信任的人 给雷希姆送一封重要的信。"
 
 translate schinese_rewrite Furkan_First_Meet_9e42fff2:
 
@@ -3511,11 +3510,11 @@ translate schinese_rewrite Furkan_First_Meet_52ffac59:
 
 translate schinese_rewrite Furkan_First_Meet_3cc49d8d:
 
-    e "你可以把信交给我,我把它交给拉希姆 告诉你情况如何。"
+    e "你可以把信交给我,我把它交给雷希姆 告诉你情况如何。"
 
 translate schinese_rewrite Furkan_First_Meet_73691eea:
 
-    "福坎犹豫不决地从他的腰带里拿出信,他思考了一下,也许在想你是否值得信任。"
+    "弗坎犹豫不决地从他的腰带里拿出信,他思考了一下,也许在想你是否值得信任。"
 
 translate schinese_rewrite Furkan_First_Meet_65c6723e:
 
@@ -3539,7 +3538,7 @@ translate schinese_rewrite Furkan_First_Meet_f962a80f:
 
 translate schinese_rewrite Furkan_First_Meet_7a33a637:
 
-    f "我明白了 拿着信 交给拉希姆 只有他的眼睛。"
+    f "我明白了 拿着信 交给雷希姆 只有他的眼睛。"
 
 translate schinese_rewrite Furkan_First_Meet_314362f7:
 
@@ -3551,7 +3550,7 @@ translate schinese_rewrite Furkan_First_Meet_4ecda854:
 
 translate schinese_rewrite Furkan_First_Meet_a1040e32:
 
-    e "好吧,我想,我把它给拉希姆。"
+    e "好吧,我想,我把它给雷希姆。"
 
 translate schinese_rewrite Furkan_First_Meet_43d07cc3:
 
@@ -3583,7 +3582,7 @@ translate schinese_rewrite Furkan_First_Meet_038b3ad2:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_d9093596:
 
-    "你走进富肯的小屋 将军和酋长在讨论。"
+    "你走进弗坎的小屋 将军和酋长在讨论。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_747a0649:
 
@@ -3623,7 +3622,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_788dc2d5:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_cf7898f4:
 
-    "卡莉在面具下眉毛遮住,但他保持沉默,因为福坎给他一眼。"
+    "卡里在面具下眉毛遮住,但他保持沉默,因为弗坎给他一眼。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_3464364a:
 
@@ -3647,15 +3646,15 @@ translate schinese_rewrite Furkan_Before_Reconciliation_3ac79564:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_c4ad1225:
 
-    "...你肯定紧张程度会升高十倍 当你坐在卡莉站着的桌子对面时 仍然保持沉默。"
+    "...你肯定紧张程度会升高十倍 当你坐在卡里站着的桌子对面时 仍然保持沉默。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_06875f72:
 
-    "事实上,在福坎讲话之前,这个房间已经只是沉默了几秒钟。"
+    "事实上,在弗坎讲话之前,这个房间已经只是沉默了几秒钟。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_f1863f3e:
 
-    f "自从我们上次和卢斯特菲尔德谈话以来 已经有一段时间了 我们在考虑 如果有可能和解的话 解决我们两个的问题。"
+    f "自从我们上次和乐斯民菲尔德谈话以来 已经有一段时间了 我们在考虑 如果有可能和解的话 解决我们两个的问题。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_d64ce8b3:
 
@@ -3663,7 +3662,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_d64ce8b3:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_e7c3c041:
 
-    e "这会如何帮助卢斯特菲尔德呢?"
+    e "这会如何帮助乐斯民菲尔德呢?"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_cdbc2098:
 
@@ -3683,7 +3682,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_c681a7ac:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_a3118740:
 
-    "你看着卡莉,他却视而不见。"
+    "你看着卡里,他却视而不见。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_087ff10a:
 
@@ -3695,7 +3694,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_f4d42c0d:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_64346512:
 
-    "将军直接向坐在椅子上的福坎说说,他向一个心怀不满的将军口交。"
+    "将军直接向坐在椅子上的弗坎说说,他向一个心怀不满的将军口交。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_f9029c9d:
 
@@ -3807,7 +3806,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_34570ee8:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_6ef35025:
 
-    f "卡莉。"
+    f "卡里。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_610f8455:
 
@@ -3827,7 +3826,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_b65e38a6:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_6fc36745:
 
-    "现在,只有你和富肯坐在对面。"
+    "现在,只有你和弗坎坐在对面。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_dc4bb565:
 
@@ -3835,7 +3834,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_dc4bb565:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_3cc66981:
 
-    "福坎说话时,他笑得一笑不笑。"
+    "弗坎说话时,他笑得一笑不笑。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_6e0f4cff:
 
@@ -3863,7 +3862,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_3e435330:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_c840bed8:
 
-    e "也许这能让卡莉在讨论中觉得很受赞赏。"
+    e "也许这能让卡里在讨论中觉得很受赞赏。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_d2587bac:
 
@@ -3887,7 +3886,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_f5ae68a5:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_4158bddd:
 
-    e "我只是觉得 卢斯特菲尔德不想再打仗 所以没有什么比这更糟的了。"
+    e "我只是觉得 乐斯民菲尔德不想再打仗 所以没有什么比这更糟的了。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_74f570a1:
 
@@ -3899,7 +3898,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_d5f25b19:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_a4178f6d:
 
-    "福坎在看窗帘变换时说话 但只是风声而已。"
+    "弗坎在看窗帘变换时说话 但只是风声而已。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_28070c5a:
 
@@ -3951,7 +3950,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_f8224250:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_497f83a7:
 
-    "福坎对你们俩笑得尴尬。"
+    "弗坎对你们俩笑得尴尬。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_ba2539b2:
 
@@ -3959,7 +3958,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_ba2539b2:
 
 translate schinese_rewrite Furkan_Before_Reconciliation_6dd61cfd:
 
-    "似乎相当明显的福坎利用你 令卡莉紧张, 尽管这让你们两个感觉很不舒服。"
+    "似乎相当明显的弗坎利用你 令卡里紧张, 尽管这让你们两个感觉很不舒服。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_e3b20e03:
 
@@ -3987,7 +3986,7 @@ translate schinese_rewrite Furkan_Second_Meet_43c5bf38:
 
 translate schinese_rewrite Furkan_Second_Meet_4ee6acae:
 
-    e "我带了警徽给你 我是卢斯特菲尔德的快递员。"
+    e "我带了警徽给你 我是乐斯民菲尔德的快递员。"
 
 translate schinese_rewrite Furkan_Second_Meet_30d81586:
 
@@ -4003,7 +4002,7 @@ translate schinese_rewrite Furkan_Second_Meet_2d81ade4:
 
 translate schinese_rewrite Furkan_Second_Meet_8023a321:
 
-    f "给拉希姆送信,只有他的眼睛。"
+    f "给雷希姆送信,只有他的眼睛。"
 
 translate schinese_rewrite Furkan_Second_Meet_314362f7:
 
@@ -4015,7 +4014,7 @@ translate schinese_rewrite Furkan_Second_Meet_4ecda854:
 
 translate schinese_rewrite Furkan_Second_Meet_a1040e32:
 
-    e "好吧,我想,我把它给拉希姆。"
+    e "好吧,我想,我把它给雷希姆。"
 
 translate schinese_rewrite Furkan_Second_Meet_43d07cc3:
 
@@ -4047,7 +4046,7 @@ translate schinese_rewrite Furkan_Second_Meet_038b3ad2:
 
 translate schinese_rewrite Furkan_Second_Meet_2129529e:
 
-    e "富肯,我送来信了。"
+    e "弗坎,我送来信了。"
 
 translate schinese_rewrite Furkan_Second_Meet_b839b844:
 
@@ -4055,7 +4054,7 @@ translate schinese_rewrite Furkan_Second_Meet_b839b844:
 
 translate schinese_rewrite Furkan_Second_Meet_10cfe59f:
 
-    e "拉希姆 他说..."
+    e "雷希姆 他说..."
 
 translate schinese_rewrite Furkan_Second_Meet_05f2db9b:
 
@@ -4071,7 +4070,7 @@ translate schinese_rewrite Furkan_Second_Meet_c9d164ca:
 
 translate schinese_rewrite Furkan_Second_Meet_96c0af12:
 
-    "你注意到富肯的声音有挫折的迹象。"
+    "你注意到弗坎的声音有挫折的迹象。"
 
 translate schinese_rewrite Furkan_Second_Meet_b5d63560:
 
@@ -4099,7 +4098,7 @@ translate schinese_rewrite Furkan_Second_Meet_85de611a:
 
 translate schinese_rewrite Furkan_Second_Meet_6b5d9316:
 
-    e "我认为拉希姆只是希望一切保持原样。"
+    e "我认为雷希姆只是希望一切保持原样。"
 
 translate schinese_rewrite Furkan_Second_Meet_0cb668ec:
 
@@ -4107,7 +4106,7 @@ translate schinese_rewrite Furkan_Second_Meet_0cb668ec:
 
 translate schinese_rewrite Furkan_Second_Meet_208ddbc9:
 
-    "福坎嘲笑你 准备起飞。"
+    "弗坎嘲笑你 准备起飞。"
 
 translate schinese_rewrite Furkan_Second_Meet_503952ff:
 
@@ -4135,7 +4134,7 @@ translate schinese_rewrite Furkan_Second_Meet_47ff1c95:
 
 translate schinese_rewrite Furkan_Second_Meet_ed82a541:
 
-    e "嘿,福坎,我们又见面了。"
+    e "嘿,弗坎,我们又见面了。"
 
 translate schinese_rewrite Furkan_Second_Meet_48ad0470:
 
@@ -4155,7 +4154,7 @@ translate schinese_rewrite Furkan_Second_Meet_0c4241dc:
 
 translate schinese_rewrite Furkan_Ask_After_Temple_f91157f7:
 
-    e "福坎,我很抱歉在寺庙发生的事。"
+    e "弗坎,我很抱歉在寺庙发生的事。"
 
 translate schinese_rewrite Furkan_Ask_After_Temple_58474f91:
 
@@ -4203,7 +4202,7 @@ translate schinese_rewrite Furkan_Ask_After_Temple_58ac198b:
 
 translate schinese_rewrite Furkan_Ask_After_Temple_352e3141:
 
-    e "福坎 你说你头晕了 你觉得是因为符纹吗?"
+    e "弗坎 你说你头晕了 你觉得是因为符纹吗?"
 
 translate schinese_rewrite Furkan_Ask_After_Temple_6707960b:
 
@@ -4263,7 +4262,7 @@ translate schinese_rewrite Kari_Ask_After_Temple_43c0ff83:
 
 translate schinese_rewrite Furkan_Ask_About_Festival_5dc8bdd1:
 
-    e "福坎, 你们部落庆祝的节日是什么?"
+    e "弗坎, 你们部落庆祝的节日是什么?"
 
 translate schinese_rewrite Furkan_Ask_About_Festival_fbf23a67:
 
@@ -4299,11 +4298,11 @@ translate schinese_rewrite Furkan_Ask_About_Festival_b84658c5:
 
 translate schinese_rewrite Furkan_Ask_About_Festival_a15a5990:
 
-    "福坎笑容。"
+    "弗坎笑容。"
 
 translate schinese_rewrite Kari_Ask_About_Festival_8cb9a88a:
 
-    e "嘿 卡莉 我听说这里有个节日..."
+    e "嘿 卡里 我听说这里有个节日..."
 
 translate schinese_rewrite Kari_Ask_About_Festival_c4a6d3c2:
 

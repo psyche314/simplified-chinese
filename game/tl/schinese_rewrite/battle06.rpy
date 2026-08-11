@@ -307,7 +307,7 @@ translate schinese_rewrite gnoll_lose_8ae31ccb:
 
 translate schinese_rewrite bridgeroot_battle_e809c187:
 
-    "你面对的是一个桥根, 他慢慢地站出来 防御,当你准备 赶走 与安布尔的麻痹动物。"
+    "你面对的是一个桥根, 他慢慢地站出来 防御,当你准备 赶走 与安布的麻痹动物。"
 
 translate schinese_rewrite bridgeroot_battle_loop_2cb72799:
 
@@ -371,7 +371,7 @@ translate schinese_rewrite bridgeroot_win_8860462c:
 
 translate schinese_rewrite bridgeroot_win_a3a4af4e:
 
-    "你看着安布尔,他站在这里, 他完全被吓坏了, 在你和桥根之间闪闪发光。"
+    "你看着安布,他站在这里, 他完全被吓坏了, 在你和桥根之间闪闪发光。"
 
 translate schinese_rewrite bridgeroot_win_276b2bc8:
 
@@ -391,7 +391,7 @@ translate schinese_rewrite bridgeroot_win_785c4d2e:
 
 translate schinese_rewrite bridgeroot_win_71b459d6:
 
-    "很久没你喘口气了 所以你就躺在那里 试着吸气 安布尔伸出手来让你站起来。"
+    "很久没你喘口气了 所以你就躺在那里 试着吸气 安布伸出手来让你站起来。"
 
 translate schinese_rewrite bridgeroot_win_a7b4cf16:
 
@@ -455,7 +455,7 @@ translate schinese_rewrite bridgeroot_lose_c75ee311:
 
 translate schinese_rewrite bridgeroot_lose_3b690530:
 
-    "你和安布尔在疲惫中叹息时都摇头。"
+    "你和安布在疲惫中叹息时都摇头。"
 
 translate schinese_rewrite bridgeroot_lose_2fa95d2c:
 
@@ -483,15 +483,15 @@ translate schinese_rewrite bridgeroot_lose_385a3a41:
 
 translate schinese_rewrite bridgeroot_lose_c4531b39:
 
-    e "我猜你说得对,安布尔。"
+    e "我猜你说得对,安布。"
 
 translate schinese_rewrite vurro_spar_battle_8c2cd449:
 
-    "伍罗抬起指甲,他的毛皮不隐藏他疲倦的脸, 但他仍然保持一个宽阔的笑容。"
+    "伏罗抬起指甲,他的毛皮不隐藏他疲倦的脸, 但他仍然保持一个宽阔的笑容。"
 
 translate schinese_rewrite vurro_spar_battle_loop_00efba93:
 
-    "伍罗多次靠近你 用他的利爪刺你。"
+    "伏罗多次靠近你 用他的利爪刺你。"
 
 translate schinese_rewrite vurro_spar_battle_loop_3e1404ad:
 
@@ -503,11 +503,11 @@ translate schinese_rewrite vurro_spar_battle_loop_f86112ce:
 
 translate schinese_rewrite vurro_spar_battle_loop_a86f060c:
 
-    "伍罗用拳头直接打你,马上打你,你的健康状况下降[enemy_damage]HP。"
+    "伏罗用拳头直接打你,马上打你,你的健康状况下降[enemy_damage]HP。"
 
 translate schinese_rewrite vurro_spar_battle_loop_cb8272e5:
 
-    "伍罗想揍你 但他错过了你的皮草 却在沮丧中退缩。"
+    "伏罗想揍你 但他错过了你的皮草 却在沮丧中退缩。"
 
 translate schinese_rewrite vurro_spar_battle_loop_bf81a2cb:
 
@@ -519,7 +519,7 @@ translate schinese_rewrite vurro_spar_battle_loop_c1d9e09e:
 
 translate schinese_rewrite vurro_spar_battle_loop_52430236:
 
-    "伍罗用手划过你的手,他的爪子轻而易举地刮到你的身边。你的健康状况下降了[enemy_damage] HP。"
+    "伏罗用手划过你的手,他的爪子轻而易举地刮到你的身边。你的健康状况下降了[enemy_damage] HP。"
 
 translate schinese_rewrite vurro_spar_battle_loop_c808726b:
 
@@ -623,7 +623,7 @@ translate schinese_rewrite vurro_spar_win_894fa8db:
 
 translate schinese_rewrite vurro_spar_win_3d1a590c:
 
-    "伍罗的呼吸节奏快速, 他的学生在经历接近死亡之后 开始扩张。"
+    "伏罗的呼吸节奏快速, 他的学生在经历接近死亡之后 开始扩张。"
 
 translate schinese_rewrite vurro_spar_win_0948ecbb:
 
@@ -751,7 +751,7 @@ translate schinese_rewrite spriteling_lose_de006fce:
 
 translate schinese_rewrite spriteling_lose_59f9f38e:
 
-    "黑暗笼罩着你 但在你看到弗坎和拉希姆向你奔来之前。"
+    "黑暗笼罩着你 但在你看到弗坎和雷希姆向你奔来之前。"
 
 translate schinese_rewrite spriteling_lose_14492b25:
 
@@ -1083,8 +1083,7 @@ translate schinese_rewrite cultacolyte_battle_loop_26e062a9:
 
 translate schinese_rewrite cultacolyte_battle_loop_f59c8605:
 
-    "余震会排干你的马纳 你失去了[enemy_mp_damage]MP和[enemy_damage]HP。"
-
+    "余震抽干了你的魔力。你损失[enemy_mp_damage]点魔力和[enemy_damage]点生命。"
 translate schinese_rewrite cultacolyte_battle_loop_ffb81d6d:
 
     acolyte "我们净化你的罪孽 龙 牧羊人会指引你走向光明。"
@@ -1139,8 +1138,7 @@ translate schinese_rewrite werewolf_werewolf_win_4c49ded0:
 
 translate schinese_rewrite werewolf_werewolf_win_1854eb56:
 
-    "当你在狼人周围搜索时, 你发现了两个铁矿石, 2 Pelts和[exp_drop] EXP!"
-
+    "你在狼人周围搜寻，找到2块铁矿石、2张兽皮，并获得[exp_drop]点经验！"
 translate schinese_rewrite werewolf_werewolf_win_3909bbba:
 
     "当你在狼人周围搜索时, 你发现了2 Pelt和[exp_drop]EXP!"
@@ -1667,8 +1665,7 @@ translate schinese_rewrite jotunn_battle_loop_0edcc313:
 
 translate schinese_rewrite jotunn_battle_loop_e3f2fdb0:
 
-    "积存的冰冻 由jottunn的冰冷攻击 强化, 交易[total_damage]HP。"
-
+    "约顿冰冷攻击积累的寒霜变得更强，造成[total_damage]点生命伤害。"
 translate schinese_rewrite jotunn_battle_loop_d0496b41:
 
     "一颗咬人的寒冷笼罩着你 将你的力气冲淡 就像他面具下 眼瞪着你一样。"
@@ -1791,8 +1788,7 @@ translate schinese_rewrite slushy_daggi_battle_loop_d42d56d6:
 
 translate schinese_rewrite slushy_daggi_battle_loop_1a09823d:
 
-    "Daggi将他的鱼叉打入[target.name]的中部, 处理[oa[4]] HP 并刮断其框架的一块石头。"
-
+    "达吉将鱼叉猛刺进[target.name]的躯干，造成[oa[4]]点生命伤害，并从其身躯上削下一条石片。"
 translate schinese_rewrite slushy_daggi_battle_loop_4b9fc1a7:
 
     "牛群与断裂的棍子冲出来 并打破它 穿过[target.name]的手臂, 交易[oa[4]]HP。"
@@ -1803,8 +1799,7 @@ translate schinese_rewrite slushy_daggi_battle_loop_daf843f1:
 
 translate schinese_rewrite slushy_daggi_battle_loop_ce4f3b84:
 
-    "Daggi把鱼叉开进大酒馆中心, 处理[ally_damage] HP, 迫使冰块系内扣。"
-
+    "达吉将鱼叉刺入泥冰的中心，造成[ally_damage]点生命伤害，迫使冰块向内塌陷。"
 translate schinese_rewrite slushy_daggi_battle_loop_7d84d07d:
 
     d "就在那里。"
@@ -1831,16 +1826,14 @@ translate schinese_rewrite slushy_daggi_battle_loop_84ba6667:
 
 translate schinese_rewrite slushy_daggi_battle_loop_bfa73047:
 
-    "Daggi在你的靴子周围的冰层里黑客, 释放你,当他流泪 沟沟穿透大水沟 身体[oa[4]]HP。"
-
+    "达吉劈开你靴子周围的冰层将你解救出来，同时在泥冰体内劈出一道沟槽，造成[oa[4]]点生命伤害。"
 translate schinese_rewrite slushy_daggi_battle_loop_c88dd7dc:
 
     d "已经分开了。"
 
 translate schinese_rewrite slushy_daggi_battle_loop_f62f4de8:
 
-    "Daggi将鱼叉的侧面撕开,穿过大水流,处理[oa[4]] HP,并将伤口通过冰冻的块块扩大。"
-
+    "达吉横向撕过泥冰，造成[oa[4]]点生命伤害，并扩大它冰冻身躯上的伤口。"
 translate schinese_rewrite slushy_daggi_battle_loop_dd03af6b:
 
     "小酒杯现在受伤了。"
@@ -1947,12 +1940,10 @@ translate schinese_rewrite slushy_win_dac054a9:
 
 translate schinese_rewrite slushy_win_3d64f053:
 
-    "As you search through the frozen sludge, you find a [slimeball_item.name], a [slimecrystal_item.name] 和 [exp_drop] EXP!"
-
+    "你在冻泥中搜寻，找到[slimeball_item.name]、[slimecrystal_item.name]，并获得[exp_drop]点经验！"
 translate schinese_rewrite slushy_win_e1799bc9:
 
-    "As you search through the frozen sludge, you find a [slimeball_item.name] 和 [exp_drop] EXP!"
-
+    "你在冻泥中搜寻，找到[slimeball_item.name]，并获得[exp_drop]点经验！"
 translate schinese_rewrite slushy_lose_a95062db:
 
     "冰面对面的洪水 冲进你体内 压碎了冰冻的重量 达吉才能剥下来。"
@@ -2031,8 +2022,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_97988f5f:
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_1a09823d:
 
-    "Daggi将他的鱼叉打入[target.name]的中部, 处理[oa[4]] HP 并刮断其框架的一块石头。"
-
+    "达吉将鱼叉猛刺进[target.name]的躯干，造成[oa[4]]点生命伤害，并从其身躯上削下一条石片。"
 translate schinese_rewrite crypt_bearstatue_battle_loop_4b9fc1a7:
 
     "牛群与断裂的棍子冲出来 并打破它 穿过[target.name]的手臂, 交易[oa[4]]HP。"
@@ -2095,8 +2085,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_c054002b:
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_7d035640:
 
-    "Daggi将他的鱼叉的屁股撞成一个旧骨折,并扩大其范围,将[oa[4]] HP卖给[target.name]。"
-
+    "达吉用鱼叉柄砸向旧裂缝，将其扩大，对[target.name]造成[oa[4]]点生命伤害。"
 translate schinese_rewrite crypt_bearstatue_battle_loop_19db1ead:
 
     "随着[target.name]的弹壳变弱 从伤口上溢出的石尘。"
@@ -2171,16 +2160,13 @@ translate schinese_rewrite crypt_bearstatue_turn_ed39df82:
 
 translate schinese_rewrite crypt_bearstatue_turn_e0d69828:
 
-    "Bulwark 冲锋枪用铜板盾锁在地上,压碎你的胸口。你的健康状况下降了[enemy_damage] HP。"
-
+    "壁垒锁紧青铜板盾向前冲撞，狠狠撞上你的胸口。你的生命减少[enemy_damage]点。"
 translate schinese_rewrite crypt_bearstatue_turn_c80c75e6:
 
-    "Bulwark推土机用铜肩和防护罩的板子将Daggi夷为平地。 [ally.name]的健康状况下降为[enemy_damage] HP。"
-
+    "壁垒用覆着青铜甲的肩膀和盾缘撞翻达吉。[ally.name]的生命减少[enemy_damage]点。"
 translate schinese_rewrite crypt_bearstatue_turn_98a85cd9:
 
-    "Bulwark公司将铜质重量推入牛群,送他滑雪穿过冰霜。 [ally.name]公司的健康下降是[enemy_damage] HP。"
-
+    "壁垒以青铜般的重量撞向赫德，把他撞得在霜地上滑行。[ally.name]的生命减少[enemy_damage]点。"
 translate schinese_rewrite crypt_bearstatue_turn_d263dea2:
 
     "在它完全重量能抓住你之前 你就能摆脱 布尔瓦克的压碎电荷。"
@@ -2211,12 +2197,10 @@ translate schinese_rewrite crypt_bearstatue_turn_1f90b33a:
 
 translate schinese_rewrite crypt_bearstatue_turn_3ea7988f:
 
-    "Bulwark的锤子击倒了Daggi的警卫,用深骨力。[ally.name]的健康状况下降了[enemy_damage] HP。"
-
+    "壁垒以深入骨髓的力量，将锤击砸在达吉的防御上。[ally.name]的生命减少[enemy_damage]点。"
 translate schinese_rewrite crypt_bearstatue_turn_f198791c:
 
-    "Bulwark将它的板臂锤在鹿群的掩护上,几乎压碎了它的身后。[ally.name]的健康状况下降了[enemy_damage] HP。"
-
+    "壁垒把石板般的手臂砸向赫德的掩体，差点连同后面的他一起压碎。[ally.name]的生命减少[enemy_damage]点。"
 translate schinese_rewrite crypt_bearstatue_win_fc8a6131:
 
     "你敲敲了显赫雕像的裂开胸膛 而达格吉则用他的鱼叉 撕碎了散架的平衡。"

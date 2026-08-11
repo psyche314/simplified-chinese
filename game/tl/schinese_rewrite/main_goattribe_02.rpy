@@ -23,7 +23,7 @@ translate schinese_rewrite kechioeren_loupe_gem_4600f043:
 
 translate schinese_rewrite kechioeren_loupe_gem_89393dc4:
 
-    e "这是福坎的吗?"
+    e "这是弗坎的吗?"
 
 translate schinese_rewrite kechioeren_loupe_gem_8cc22a2c:
 
@@ -191,7 +191,7 @@ translate schinese_rewrite Furkan_Dialogue_f2de3991:
 
 translate schinese_rewrite Furkan_Dialogue_87bfc1e3:
 
-    "福坎盯着随行警卫一秒钟,然后他们迅速走出小屋。"
+    "弗坎盯着随行警卫一秒钟,然后他们迅速走出小屋。"
 
 translate schinese_rewrite Furkan_Dialogue_48a2c4af:
 
@@ -231,7 +231,7 @@ translate schinese_rewrite Furkan_Dialogue_05245476:
 
 translate schinese_rewrite Furkan_Dialogue_10dcb4b0:
 
-    f "这么说吧 我需要一个来自卢斯特菲尔德的例子。"
+    f "这么说吧 我需要一个来自乐斯民菲尔德的例子。"
 
 translate schinese_rewrite Furkan_Dialogue_f595ef63:
 
@@ -259,7 +259,7 @@ translate schinese_rewrite Furkan_Dialogue_480be166:
 
 translate schinese_rewrite Furkan_Dialogue_fa2a6aae:
 
-    "福坎再次低头看他的报纸..."
+    "弗坎再次低头看他的报纸..."
 
 translate schinese_rewrite Furkan_Dialogue_bdf6a85b:
 
@@ -267,7 +267,7 @@ translate schinese_rewrite Furkan_Dialogue_bdf6a85b:
 
 translate schinese_rewrite Furkan_Dialogue_b9df45c1:
 
-    "你发现福坎盯着你裸体的自我, 那就是当你意识到你没有穿衣服的时候。"
+    "你发现弗坎盯着你裸体的自我, 那就是当你意识到你没有穿衣服的时候。"
 
 translate schinese_rewrite Furkan_Dialogue_3ec57d49:
 
@@ -303,11 +303,11 @@ translate schinese_rewrite Furkan_Normal_Talk_f85cdcd1:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_1577a57f:
 
-    e "请小心,弗坎,也警告你的将军 恐怕洛塔尔要来了。"
+    e "请小心,弗坎,也警告你的将军 恐怕洛萨尔要来了。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_8dd38bbf:
 
-    f "洛塔尔,他和我们有什么关系?"
+    f "洛萨尔,他和我们有什么关系?"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_e2c849c1:
 
@@ -315,7 +315,7 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_e2c849c1:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_62e5c77c:
 
-    e "我相信,但他听起来对卢斯特菲尔德的投票很不高兴 根据他的履历..."
+    e "我相信,但他听起来对乐斯民菲尔德的投票很不高兴 根据他的履历..."
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_905ed109:
 
@@ -323,7 +323,7 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_905ed109:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_e3d92251:
 
-    e "他对卢斯特菲尔德的投票感到非常不安 根据他的记录 他可能来找你麻烦。"
+    e "他对乐斯民菲尔德的投票感到非常不安 根据他的记录 他可能来找你麻烦。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_905ed109_1:
 
@@ -331,7 +331,7 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_905ed109_1:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_515e655b:
 
-    e "保持安全, 福坎."
+    e "保持安全, 弗坎."
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_f54bcd16:
 
@@ -411,11 +411,11 @@ translate schinese_rewrite Furkan_Ask_Werewolf_Quest_0af36474:
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_890f741e:
 
-    f "不,我们需要谢谢你,我希望你会从中找到一些东西,我们可以更接近于 部落和卢斯特菲尔德之间的休战。"
+    f "不,我们需要谢谢你,我希望你会从中找到一些东西,我们可以更接近于 部落和乐斯民菲尔德之间的休战。"
 
 translate schinese_rewrite Furkan_Ask_Chief_c55d3c09:
 
-    e "福坎 山羊部落的首领怎么样了?"
+    e "弗坎 山羊部落的首领怎么样了?"
 
 translate schinese_rewrite Furkan_Ask_Chief_3ec57d49:
 
@@ -451,7 +451,7 @@ translate schinese_rewrite Furkan_Ask_Chief_9a731bb0:
 
 translate schinese_rewrite Furkan_Ask_Chief_7bda1598:
 
-    f "不久之后,他决定攻击卢斯特菲尔德村。"
+    f "不久之后,他决定攻击乐斯民菲尔德村。"
 
 translate schinese_rewrite Furkan_Ask_Chief_63f175fd:
 
@@ -499,7 +499,7 @@ translate schinese_rewrite Furkan_Ask_Chief_008fe06a:
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_94be90a5:
 
-    e "富肯,山羊部落怎么样了?"
+    e "弗坎,山羊部落怎么样了?"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_3bab8e64:
 
@@ -523,7 +523,7 @@ translate schinese_rewrite Furkan_Ask_Goat_Tribe_14ad9db5:
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_ff94180a:
 
-    e "所以你才需要和卢斯特菲尔德和解吗?"
+    e "所以你才需要和乐斯民菲尔德和解吗?"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_332c558b:
 
@@ -599,7 +599,7 @@ translate schinese_rewrite Furkan_Meet_Flower_9f459336:
 
 translate schinese_rewrite Furkan_Meet_Flower_2191ddfc:
 
-    "你转过身来 被富肯的好奇眼神欢迎。"
+    "你转过身来 被弗坎的好奇眼神欢迎。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9a4a72ab:
 
@@ -615,7 +615,7 @@ translate schinese_rewrite Furkan_Meet_Flower_1c20429a:
 
 translate schinese_rewrite Furkan_Meet_Flower_64d6fd6f:
 
-    e "我奉拉希姆之命来收集特别的花。"
+    e "我奉雷希姆之命来收集特别的花。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b852df63:
 
@@ -631,7 +631,7 @@ translate schinese_rewrite Furkan_Meet_Flower_51ba7498:
 
 translate schinese_rewrite Furkan_Meet_Flower_0c4dff3f:
 
-    "看见福坎脸上的笑容 你相信自己做了正确的选择。"
+    "看见弗坎脸上的笑容 你相信自己做了正确的选择。"
 
 translate schinese_rewrite Furkan_Meet_Flower_d025e883:
 
@@ -655,7 +655,7 @@ translate schinese_rewrite Furkan_Meet_Flower_7396dacc:
 
 translate schinese_rewrite Furkan_Meet_Flower_3e8c84e5:
 
-    "最终 福坎 进入了一个小小的微笑。"
+    "最终 弗坎 进入了一个小小的微笑。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1b7b515c:
 
@@ -671,7 +671,7 @@ translate schinese_rewrite Furkan_Meet_Flower_385c0737:
 
 translate schinese_rewrite Furkan_Meet_Flower_e42aa7d0:
 
-    "你想想当福坎继续的时候 是否要告诉他花的事。"
+    "你想想当弗坎继续的时候 是否要告诉他花的事。"
 
 translate schinese_rewrite Furkan_Meet_Flower_4759947f:
 
@@ -703,7 +703,7 @@ translate schinese_rewrite Furkan_Meet_Flower_c86fda0e:
 
 translate schinese_rewrite Furkan_Meet_Flower_1ad421c5:
 
-    "福坎 对你的反应微笑。"
+    "弗坎 对你的反应微笑。"
 
 translate schinese_rewrite Furkan_Meet_Flower_57358218:
 
@@ -743,7 +743,7 @@ translate schinese_rewrite Furkan_Meet_Flower_df39c768:
 
 translate schinese_rewrite Furkan_Meet_Flower_21dfb209:
 
-    "福坎教你怎么摘花 在他的帮助下 你很快就有一袋花。"
+    "弗坎教你怎么摘花 在他的帮助下 你很快就有一袋花。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1df5dbd0:
 
@@ -755,7 +755,7 @@ translate schinese_rewrite Furkan_Meet_Flower_c40670e3:
 
 translate schinese_rewrite Furkan_Meet_Flower_f9e23f89:
 
-    "福坎只是微笑。"
+    "弗坎只是微笑。"
 
 translate schinese_rewrite Furkan_Meet_Flower_02ce7ad8:
 
@@ -779,7 +779,7 @@ translate schinese_rewrite Furkan_Meet_Flower_b0de7255:
 
 translate schinese_rewrite Furkan_Meet_Flower_777bb660:
 
-    e "福坎..."
+    e "弗坎..."
 
 translate schinese_rewrite Furkan_Meet_Flower_490c0458:
 
@@ -791,7 +791,7 @@ translate schinese_rewrite Furkan_Meet_Flower_3ec57d49:
 
 translate schinese_rewrite Furkan_Meet_Flower_3420193f:
 
-    "福坎将他的语气改成更轻一点的东西。"
+    "弗坎将他的语气改成更轻一点的东西。"
 
 translate schinese_rewrite Furkan_Meet_Flower_5a045dfa:
 
@@ -823,7 +823,7 @@ translate schinese_rewrite Furkan_Meet_Flower_8b500cfe:
 
 translate schinese_rewrite Furkan_Meet_Flower_12f97466:
 
-    "福坎给你一个安心的笑容。"
+    "弗坎给你一个安心的笑容。"
 
 translate schinese_rewrite Furkan_Meet_Flower_e936a061:
 
@@ -859,7 +859,7 @@ translate schinese_rewrite Furkan_Meet_Flower_4116d77d:
 
 translate schinese_rewrite Furkan_Meet_Flower_a99b297c:
 
-    "福坎笑着摇头。"
+    "弗坎笑着摇头。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9dda09b4:
 
@@ -891,7 +891,7 @@ translate schinese_rewrite Furkan_Meet_Flower_0dd6c55c:
 
 translate schinese_rewrite Furkan_Meet_Flower_f19ed38e:
 
-    "福坎的语气变得严肃。"
+    "弗坎的语气变得严肃。"
 
 translate schinese_rewrite Furkan_Meet_Flower_42a30ca9:
 
@@ -939,7 +939,7 @@ translate schinese_rewrite Furkan_Meet_Flower_8d7d00d5:
 
 translate schinese_rewrite Furkan_Meet_Flower_34bef44c:
 
-    f "但我是谁 来跟你谈谈战斗和冲突 考虑到部落对卢斯特菲尔德造成的伤害。"
+    f "但我是谁 来跟你谈谈战斗和冲突 考虑到部落对乐斯民菲尔德造成的伤害。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b03a33c7:
 
@@ -975,7 +975,7 @@ translate schinese_rewrite Furkan_Meet_Flower_c93dcf71:
 
 translate schinese_rewrite Furkan_Meet_Flower_9dfae6ff:
 
-    "福坎滑入沉默。"
+    "弗坎滑入沉默。"
 
 translate schinese_rewrite Furkan_Meet_Flower_760387ee:
 
@@ -999,7 +999,7 @@ translate schinese_rewrite Furkan_Meet_Flower_866e1e57:
 
 translate schinese_rewrite Furkan_Meet_Flower_777bb660_1:
 
-    e "福坎..."
+    e "弗坎..."
 
 translate schinese_rewrite Furkan_Meet_Flower_2685deec:
 
@@ -1019,7 +1019,7 @@ translate schinese_rewrite Furkan_Meet_Flower_9bb13b8a:
 
 translate schinese_rewrite Furkan_Meet_Flower_d2b2d8c6:
 
-    e "随时随地,富肯。"
+    e "随时随地,弗坎。"
 
 translate schinese_rewrite Furkan_Meet_Flower_293a7e61:
 
@@ -1039,7 +1039,7 @@ translate schinese_rewrite Furkan_Meet_Flower_deb8bb58:
 
 translate schinese_rewrite Furkan_Meet_Flower_2d7004d7:
 
-    "你有种感觉 福坎 不只是和你和卡莉的会面。"
+    "你有种感觉 弗坎 不只是和你和卡里的会面。"
 
 translate schinese_rewrite Furkan_Meet_Flower_f0e140a2:
 
@@ -1051,7 +1051,7 @@ translate schinese_rewrite Furkan_Meet_Flower_12846717:
 
 translate schinese_rewrite Furkan_Meet_Flower_3a15838f:
 
-    "福坎 叹气。"
+    "弗坎 叹气。"
 
 translate schinese_rewrite Furkan_Meet_Flower_6316c11a:
 
@@ -1063,7 +1063,7 @@ translate schinese_rewrite Furkan_Meet_Flower_b2f23908:
 
 translate schinese_rewrite Furkan_Meet_Flower_65ef0dc2:
 
-    "围绕他的福坎手势。"
+    "围绕他的弗坎手势。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b2dbbcab:
 
@@ -1083,7 +1083,7 @@ translate schinese_rewrite Furkan_Meet_Flower_12d23130:
 
 translate schinese_rewrite Furkan_Meet_Flower_72a5daad:
 
-    f "过去,这个地方会和来自部落和卢斯特菲尔德的人一起漫游, 享受他们在阳光下的日子。"
+    f "过去,这个地方会和来自部落和乐斯民菲尔德的人一起漫游, 享受他们在阳光下的日子。"
 
 translate schinese_rewrite Furkan_Meet_Flower_8948316c:
 
@@ -1095,11 +1095,11 @@ translate schinese_rewrite Furkan_Meet_Flower_75f1f519:
 
 translate schinese_rewrite Furkan_Meet_Flower_777bb660_2:
 
-    e "福坎..."
+    e "弗坎..."
 
 translate schinese_rewrite Furkan_Meet_Flower_5937009a:
 
-    "福坎摇着头 抬起自己。"
+    "弗坎摇着头 抬起自己。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b8b37730:
 
@@ -1115,7 +1115,7 @@ translate schinese_rewrite Furkan_Meet_Flower_916f8424:
 
 translate schinese_rewrite Furkan_Meet_Flower_e754d87c:
 
-    "你和福坎分道扬镳 是时候和妈妈们一起回到拉希姆了。"
+    "你和弗坎分道扬镳 是时候和妈妈们一起回到雷希姆了。"
 
 translate schinese_rewrite goat_talking_sequence_76c41dec:
 
@@ -1139,8 +1139,7 @@ translate schinese_rewrite goat_talking_sequence_5684a1fd:
 
 translate schinese_rewrite goat_talking_sequence_db6f8434:
 
-    e "H-hey watch your mouth..."
-
+    e "喂——说话放尊重点……"
 translate schinese_rewrite goat_talking_sequence_dd01cb77:
 
     gt "嘿... 别担心,我们都看到了 当你他妈的那只虫熊。"
@@ -1227,7 +1226,7 @@ translate schinese_rewrite goat_training_battle_f999bd1a:
 
 translate schinese_rewrite Furkan_Ask_How_Doing_9aff63bd:
 
-    e "你好吗,富肯?"
+    e "你好吗,弗坎?"
 
 translate schinese_rewrite Furkan_Ask_How_Doing_1f84e315:
 
@@ -1251,7 +1250,7 @@ translate schinese_rewrite Furkan_Ask_How_Doing_5e823501:
 
 translate schinese_rewrite Furkan_Dialogue_End_dc8c519d:
 
-    e "仅此而已,福坎。"
+    e "仅此而已,弗坎。"
 
 translate schinese_rewrite Furkan_Dialogue_End_930f0f51:
 
@@ -1279,7 +1278,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_a20cefa7_1:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_4c40c2b1:
 
-    "那是很久以前,当富尔坎长大了, 部落里举行了一个节日。"
+    "那是很久以前,当弗坎长大了, 部落里举行了一个节日。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ff82cc4f:
 
@@ -1291,7 +1290,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_2d1baaaa:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_cb1b0ce1:
 
-    "福坎穿着礼服, 简单但优雅的服装, 反映了他作为酋长的儿子的地位。"
+    "弗坎穿着礼服, 简单但优雅的服装, 反映了他作为酋长的儿子的地位。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d2e07fda:
 
@@ -1299,7 +1298,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_d2e07fda:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_24c67aba:
 
-    "福坎独自站着,眼睛转来转去,在无数欢乐的山羊的面孔中偷窥。"
+    "弗坎独自站着,眼睛转来转去,在无数欢乐的山羊的面孔中偷窥。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_fa21a46b:
 
@@ -1311,7 +1310,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_41f72901:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_609616ed:
 
-    "福坎在人群中移动,他的手拿着一盒卷心菜奶酪卷,这是节日才制作的美味。"
+    "弗坎在人群中移动,他的手拿着一盒卷心菜奶酪卷,这是节日才制作的美味。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ef46ea57:
 
@@ -1319,7 +1318,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_ef46ea57:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_88d79712:
 
-    tv "福坎!"
+    tv "弗坎!"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f55c951b:
 
@@ -1327,7 +1326,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_f55c951b:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b5405dfe:
 
-    tv "我的儿子富肯,过来。"
+    tv "我的儿子弗坎,过来。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f54eca03:
 
@@ -1355,7 +1354,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_de22021a:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_0c4d3cbc:
 
-    "Tevfik把手放在福坎的肩膀上,他的握力坚固,令人放心。"
+    "Tevfik把手放在弗坎的肩膀上,他的握力坚固,令人放心。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1d82703d:
 
@@ -1395,7 +1394,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_c3fef5b4:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_705f30eb:
 
-    "富肯的声音几乎在耳语之上, 但Tevfik还是听到了。"
+    "弗坎的声音几乎在耳语之上, 但Tevfik还是听到了。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ddaed51a:
 
@@ -1415,7 +1414,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_14297a91:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2ab8f26c:
 
-    "福坎点头,但他无法动摇胃部不适的不安感。"
+    "弗坎点头,但他无法动摇胃部不适的不安感。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_957d13fa:
 
@@ -1439,7 +1438,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_6b0afaef:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_75eff30f:
 
-    "福坎点头,看着他父亲走进Ardent Cauldron, 空中响着钟声和铃声。"
+    "弗坎点头,看着他父亲走进Ardent Cauldron, 空中响着钟声和铃声。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_698ec04e:
 
@@ -1451,7 +1450,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_e195a607:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_224d3279:
 
-    "福坎毫不犹豫地转过身来,走出了节日,他的腿急匆忙地转过身来。"
+    "弗坎毫不犹豫地转过身来,走出了节日,他的腿急匆忙地转过身来。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b31c509f:
 
@@ -1459,11 +1458,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_b31c509f:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_31da276b:
 
-    "那是悬崖上的一个独居小屋, 早就被头儿抛弃了, 但卡里和富尔坎从小就把小屋 变成了他们自己的小藏身之处。"
+    "那是悬崖上的一个独居小屋, 早就被头儿抛弃了, 但卡里和弗坎从小就把小屋 变成了他们自己的小藏身之处。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3329e40f:
 
-    "福坎看着从小屋发出的暗淡的光芒,他兴奋地迅速将头朝窗帘上偷看。"
+    "弗坎看着从小屋发出的暗淡的光芒,他兴奋地迅速将头朝窗帘上偷看。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_e9cc79c1:
 
@@ -1471,7 +1470,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_e9cc79c1:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f7f61310:
 
-    "他在书上发现了坐在地板上的在训练中的Mage- in-train 坐在地板上, 拼写着魔法符文, 他的背转向福坎。"
+    "他在书上发现了坐在地板上的在训练中的Mage- in-train 坐在地板上, 拼写着魔法符文, 他的背转向弗坎。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1f2b5464:
 
@@ -1487,7 +1486,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_37e89e22:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_45731374:
 
-    "福坎走进小屋,坐在卡莉旁边。"
+    "弗坎走进小屋,坐在卡里旁边。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b129e8bc:
 
@@ -1499,11 +1498,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_b4151c13:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_7edab37b:
 
-    "福坎把盒子放在桌子上,卡莉笑了,手忙着写书。"
+    "弗坎把盒子放在桌子上,卡里笑了,手忙着写书。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_907c244e:
 
-    "慢慢地,鹿的眼神变得更加无重点 当他翻过页面, 直到他终于关闭了书 并看着福坎。"
+    "慢慢地,鹿的眼神变得更加无重点 当他翻过页面, 直到他终于关闭了书 并看着弗坎。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_cf5c00eb:
 
@@ -1515,7 +1514,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_769c23c8:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c06c4e2c:
 
-    "福坎 叹息。"
+    "弗坎 叹息。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ddfe63ad:
 
@@ -1527,7 +1526,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_dcb591fe:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_97cf05ea:
 
-    "卡里看着福坎, 他的眼睛软化。"
+    "卡里看着弗坎, 他的眼睛软化。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ceb0856c:
 
@@ -1547,7 +1546,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_9bb3287b:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2b9f78b0:
 
-    "福坎点头,松开。"
+    "弗坎点头,松开。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_81166aff:
 
@@ -1563,7 +1562,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_de12a77b:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2c3daae7:
 
-    "福坎 低声低语 望着前方 好像他迷失了思想。"
+    "弗坎 低声低语 望着前方 好像他迷失了思想。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_078b4718:
 
@@ -1571,7 +1570,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_078b4718:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_681af883:
 
-    "卡莉吐了一小口叹气 把手放在福坎的肩膀上 他的声音越来越严重。"
+    "卡里吐了一小口叹气 把手放在弗坎的肩膀上 他的声音越来越严重。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_26cf2b13:
 
@@ -1583,7 +1582,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_79feeeaf:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_dc5f376a:
 
-    "福坎看着卡莉, 他的眼睛充满了渴望和不确定性。"
+    "弗坎看着卡里, 他的眼睛充满了渴望和不确定性。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d23b4699:
 
@@ -1595,7 +1594,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_663b6962:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_476e80cb:
 
-    "卡莉轻轻地皱眉。"
+    "卡里轻轻地皱眉。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2db20c47:
 
@@ -1615,7 +1614,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_51852e3e:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_952f970b:
 
-    "福坎摇头。"
+    "弗坎摇头。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1b01369e:
 
@@ -1647,7 +1646,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_c6af9165:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8f4744ba:
 
-    "他朝富肯方向转过来,他们的脸被分开了几寸, 年轻的山羊闻到了鹿香味的香味。"
+    "他朝弗坎方向转过来,他们的脸被分开了几寸, 年轻的山羊闻到了鹿香味的香味。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_78decdcd:
 
@@ -1655,7 +1654,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_78decdcd:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_97cf05ea_1:
 
-    "卡里看着福坎, 他的眼睛软化。"
+    "卡里看着弗坎, 他的眼睛软化。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_24ba13be:
 
@@ -1663,7 +1662,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_24ba13be:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8b227a80:
 
-    "福坎感觉他的心脏 敲打他的胸部, 他阻止自己 拥抱他的童年朋友。"
+    "弗坎感觉他的心脏 敲打他的胸部, 他阻止自己 拥抱他的童年朋友。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b50b1f5d:
 
@@ -1687,15 +1686,15 @@ translate schinese_rewrite Keepsake_Furkan_Festival_9b5738db:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3ed9dfe7:
 
-    "卡莉看着福坎,不知道该说什么或做什么。 尽管他不愿意承认,他记得过去的情况。"
+    "卡里看着弗坎,不知道该说什么或做什么。 尽管他不愿意承认,他记得过去的情况。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_09713cd1:
 
-    "当他们爬上山来睡在一起时 有时富肯会把他拉入拥抱 就像他现在一样。"
+    "当他们爬上山来睡在一起时 有时弗坎会把他拉入拥抱 就像他现在一样。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_bd33250e:
 
-    "他的脑海充满了旧的记忆 无数的夜晚 他在那里保持清醒 仅仅听到福坎呼吸的声音 当他睡在他身边。"
+    "他的脑海充满了旧的记忆 无数的夜晚 他在那里保持清醒 仅仅听到弗坎呼吸的声音 当他睡在他身边。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_119dbb5f:
 
@@ -1707,7 +1706,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_c0267827:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_372b06a0:
 
-    "卡莉犹豫了一会儿 但他发现自己靠得更近了。"
+    "卡里犹豫了一会儿 但他发现自己靠得更近了。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_fb65eb7d:
 
@@ -1719,11 +1718,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_2237817b:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_7bbbb0b4:
 
-    "一只柔软的呻吟从富肯的嘴里逃出来 他靠进来又接吻了 这次卡莉在半路上遇见了他。"
+    "一只柔软的呻吟从弗坎的嘴里逃出来 他靠进来又接吻了 这次卡里在半路上遇见了他。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8fe8af71:
 
-    "鹿群在福坎周围把他的手臂包起来 拉近他。"
+    "鹿群在弗坎周围把他的手臂包起来 拉近他。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8fffa4c9:
 
@@ -1755,7 +1754,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_ed86801d:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_4b6e119c:
 
-    "似乎他已经带领富尔坎走上一条道路,远离一个好酋长,走向一条他将沉溺于自己欲望而不是部落需求的道路。"
+    "似乎他已经带领弗坎走上一条道路,远离一个好酋长,走向一条他将沉溺于自己欲望而不是部落需求的道路。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b5c393e7:
 
@@ -1763,7 +1762,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_b5c393e7:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3bf7baa1:
 
-    "卡莉看着福坎慢慢地走下山丘,他这样做,他脸上的微笑消失了。"
+    "卡里看着弗坎慢慢地走下山丘,他这样做,他脸上的微笑消失了。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_640c07dd:
 
@@ -1771,11 +1770,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_640c07dd:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_448d38e5:
 
-    "卡莉叹息后,盯着卷心菜芝士卷的盒子, 挑出其中一个,咬了一口。"
+    "卡里叹息后,盯着卷心菜芝士卷的盒子, 挑出其中一个,咬了一口。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_64df09ef:
 
-    "他的眼睛在黑暗的房间里被单独咀嚼时被浇水,卷子很冷,但福坎的种子的味道仍在口中。"
+    "他的眼睛在黑暗的房间里被单独咀嚼时被浇水,卷子很冷,但弗坎的种子的味道仍在口中。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_71205807:
 
@@ -1783,7 +1782,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_71205807:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1cccd4ef:
 
-    "在通往部落中心的路上,福坎检查了他的衣服,以寻找残留物。"
+    "在通往部落中心的路上,弗坎检查了他的衣服,以寻找残留物。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_47cf3bbe:
 
@@ -1803,7 +1802,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_8738f0a4:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d7c55b71:
 
-    "福坎看着他的父亲,盯着仪式看,肚子感到结紧。"
+    "弗坎看着他的父亲,盯着仪式看,肚子感到结紧。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b3371096:
 
@@ -1819,7 +1818,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_a28e69a0:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d08fa283:
 
-    "福坎 慢点头。"
+    "弗坎 慢点头。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_9414a232_1:
 

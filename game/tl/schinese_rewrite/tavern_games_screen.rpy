@@ -423,7 +423,7 @@ translate schinese_rewrite Card_Game_Turn_a37f98b2:
 
 translate schinese_rewrite Card_Game_Turn_7579881d:
 
-    fokk "我们得让肯恩最喜欢的服务器在这里赢得一些比赛 不是吗?"
+    fokk "我们得让凯恩最喜欢的服务器在这里赢得一些比赛 不是吗?"
 
 translate schinese_rewrite Card_Game_Turn_0e4a2633:
 
@@ -479,7 +479,7 @@ translate schinese_rewrite Play_Disk_Game_d97d3c8f:
 
 translate schinese_rewrite Play_Disk_Game_0306f383:
 
-    "洛塔尔不能坚持他的笑声 再笑几秒钟。"
+    "洛萨尔不能坚持他的笑声 再笑几秒钟。"
 
 translate schinese_rewrite Play_Disk_Game_dcacb924:
 
@@ -503,7 +503,7 @@ translate schinese_rewrite Play_Disk_Game_f490da98:
 
 translate schinese_rewrite Play_Disk_Game_cf38d9be:
 
-    "他回去待命,轮到洛塔尔了。"
+    "他回去待命,轮到洛萨尔了。"
 
 translate schinese_rewrite Play_Disk_Game_2cb72799:
 
@@ -547,7 +547,7 @@ translate schinese_rewrite Play_Disk_Game_bdf652ab:
 
 translate schinese_rewrite Play_Disk_Game_902e53cc:
 
-    s "现在轮到你了,洛萨。"
+    s "现在轮到你了,洛萨尔。"
 
 translate schinese_rewrite Play_Disk_Game_820dd401:
 
@@ -751,7 +751,7 @@ translate schinese_rewrite Lothar_Aiming_Disk_ee9744db:
 
 translate schinese_rewrite Lothar_Aiming_Disk_0c141eff:
 
-    o "这是一个很好的射击,洛萨。"
+    o "这是一个很好的射击,洛萨尔。"
 
 translate schinese_rewrite Lothar_Aiming_Disk_3933f807:
 
@@ -775,11 +775,11 @@ translate schinese_rewrite Lothar_Aiming_Disk_1d468be7:
 
 translate schinese_rewrite Lothar_Aiming_Disk_08b51111:
 
-    "被打败的洛萨旁边有喷嚏。"
+    "被打败的洛萨尔旁边有喷嚏。"
 
 translate schinese_rewrite Lothar_Aiming_Disk_c16fb960:
 
-    "尽管他自夸,洛萨的磁盘很早就关闭了, 只得[coolScore]分。"
+    "尽管他自夸,洛萨尔的磁盘很早就关闭了, 只得[coolScore]分。"
 
 translate schinese_rewrite Lothar_Aiming_Disk_ed51e337:
 
@@ -803,7 +803,7 @@ translate schinese_rewrite Lothar_Aiming_Disk_c283d42d:
 
 translate schinese_rewrite Lothar_Aiming_Disk_9709c16d:
 
-    "洛塔尔的磁盘向一个完全不同的方向飞去 它降落在某处..."
+    "洛萨尔的磁盘向一个完全不同的方向飞去 它降落在某处..."
 
 translate schinese_rewrite Lothar_Aiming_Disk_11cc9716:
 
