@@ -80,6 +80,7 @@ init python:
     build.classify('**LICENSE', None)
     build.classify('**.rpy', None)
     build.classify('**.md', None)
+    build.classify('tools/**', None)
 
     build.classify('game/**.rpyc', 'scripts')
     build.classify('game/**.png', 'images')
@@ -127,7 +128,9 @@ init python:
                 line = "**" + line
 
             if directory:
-                line += "/"
+                # Build classification matches files, so a Git directory rule
+                # must also cover every descendant.
+                line += "/**"
 
             result.append((line, "all" if include else None))
 

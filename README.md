@@ -63,6 +63,8 @@ export RENPY_PYTHON="$RENPY_SDK/lib/py2-linux-x86_64/python"
 
 Android 构建需要 Ren’Py 7.8.6 SDK、RAPT、JDK 21 和 Android SDK。它可以由支持的 Windows、Linux 或 macOS host 调用；host 只决定上表中的 Python 路径，`android_build` 决定 target。Gradle 缓存应保存在用户目录 `~/.gradle`，不应放入项目目录。
 
+若要让编译出的 APK 包含 Live2D 动态头像，还必须把官方 [Live2D Cubism SDK for Native](https://www.live2d.com/en/sdk/download/native/) 安装到 Ren’Py SDK。当前工程与原版 APK 使用 Cubism 5 r.4.1：下载 `CubismSdkForNative-5-r.4.1.zip`，放到 `RENPY_SDK` 根目录，然后在 Ren’Py Launcher 的“Preferences → Install Live2D Cubism SDK for Native”中安装。Ren’Py 会把 Android 原生库安装到 SDK 的 RAPT prototype，构建时由 Gradle 正常打包；不安装时构建命令仍可能成功，但 APK 中不会有 Live2D Core，游戏会回退到占位表现。Live2D SDK 的下载和分发受 Live2D 许可证约束，请在官方页面阅读并接受相应协议。SDK 更新或重新安装 Android 支持后，需要重新安装 Live2D。
+
 Linux/macOS host：
 
 ```bash
