@@ -236,7 +236,7 @@ def main() -> int:
     string_placeholder_mismatch = {
         key: {"source": markup_tokens(key), "translated": markup_tokens(strings[key])}
         for key in source_strings
-        if key in strings and markup_tokens(key) != markup_tokens(strings[key])
+        if key in strings and Counter(markup_tokens(key)) != Counter(markup_tokens(strings[key]))
     }
     dialogue_artifacts = {
         key: dialogue[key]
@@ -251,7 +251,7 @@ def main() -> int:
     placeholder_mismatch = {
         key: {"source": markup_tokens(source), "translated": markup_tokens(dialogue[key])}
         for key, source in source_dialogue.items()
-        if key in dialogue and markup_tokens(source) != markup_tokens(dialogue[key])
+        if key in dialogue and Counter(markup_tokens(source)) != Counter(markup_tokens(dialogue[key]))
     }
     report = {
         "source_dialogue": len(source_dialogue),

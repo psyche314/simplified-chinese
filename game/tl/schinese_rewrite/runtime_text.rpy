@@ -13,7 +13,7 @@ translate schinese_rewrite strings:
     new "智力"
 
     old "TEN"
-    new "坚韧"
+    new "耐力"
 
     old "CHA"
     new "魅力"
@@ -22,16 +22,16 @@ translate schinese_rewrite strings:
     new "纯洁"
 
     old "HP"
-    new "生命"
+    new "生命值"
 
     old "MAX HP"
-    new "最大生命"
+    new "最大生命值"
 
     old "MP"
-    new "魔力"
+    new "魔力值"
 
     old "MAX MP"
-    new "最大魔力"
+    new "最大魔力值"
 
     old "LUST"
     new "欲望"
@@ -43,7 +43,7 @@ translate schinese_rewrite strings:
     new "防御"
 
     old "LUST DEFENSE"
-    new "欲望抗性"
+    new "欲望防御"
 
     old "DODGE"
     new "闪避"
@@ -58,7 +58,7 @@ translate schinese_rewrite strings:
     new "欲望伤害"
 
     old "ACCURACY"
-    new "命中"
+    new "命中率"
 
     old "CRIT CHANCE"
     new "暴击率"
@@ -67,16 +67,16 @@ translate schinese_rewrite strings:
     new "暴击伤害"
 
     old "Thrash"
-    new "横扫"
+    new "猛击"
 
     old "Strike"
-    new "打击"
+    new "攻击"
 
     old "Defend"
     new "防御"
 
     old "Swap?"
-    new "要换牌吗？"
+    new "更换？"
 
     old "Swap"
     new "更换"
@@ -91,46 +91,46 @@ translate schinese_rewrite strings:
     new "你仍处于束缚状态，无法使用任何能力。"
 
     old "You cannot flirt with the enemy while wearing Idol of Virtue."
-    new "装备美德圣像时，无法对敌人调情。"
+    new "装备美德偶像时，你无法向敌人调情。"
 
     old "Settling the Debt"
     new "清偿债务"
 
     old "Tending New Wounds"
-    new "照料新伤"
+    new "处理新伤"
 
     old "Adventure Discovery"
     new "冒险发现"
 
     old "Lusterfield Enquiry"
-    new "乐斯民菲尔德问询"
+    new "卢斯特菲尔德调查"
 
     old "The Hero's Gift"
-    new "英雄的赠礼"
+    new "英雄的礼物"
 
     old "Surprise Present"
     new "惊喜礼物"
 
     old "Shop Goods"
-    new "商店货物"
+    new "商店商品"
 
     old "Getting Bread"
-    new "取面包"
+    new "获取面包"
 
     old "Hunter's Stew"
     new "猎人炖菜"
 
     old "Royal Fabric"
-    new "王室布料"
+    new "皇家布料"
 
     old "Patching Up"
     new "修补"
 
     old "River Run"
-    new "河畔往返"
+    new "河流奔跑"
 
     old "Bridge Building"
-    new "修建桥梁"
+    new "建造桥梁"
 
     old "Equip for Combat"
     new "战斗装备"
@@ -142,55 +142,55 @@ translate schinese_rewrite strings:
     new "岩石鉴定"
 
     old "Pay back 50 Gold of debt for Sebas to Cane."
-    new "替塞巴斯偿还欠凯恩的50金币。"
+    new "替塞巴斯偿还欠凯恩的50枚金币债务"
 
     old "Deliver a speedy remedy for Ole."
-    new "替奥利送去及时的疗伤药。"
+    new "给奥利送去速效药"
 
     old "Deliver some spare loots to Rahim."
-    new "把一些多余的战利品送给雷希姆。"
+    new "给雷希姆送去一些多余的战利品"
 
     old "Deliver a letter about the village's matter to Rahim."
-    new "送一封关于村中事务的信给雷希姆。"
+    new "把一封关于村子事务的信送给雷希姆"
 
     old "Deliver a bouquet from a grateful Lusterfolk to Lothar."
-    new "把感激的卢斯特民赠给洛萨尔的花束送去。"
+    new "把一位心怀感激的卢斯特菲尔德人送给洛萨尔的花束交给洛萨尔。"
 
     old "Deliver a Mysterious gift to Lothar after the balls incident in the shop."
-    new "商店里的球体事件后，把神秘礼物送给洛萨尔。"
+    new "在店里的蛋蛋事件后，把一份神秘礼物送给洛萨尔"
 
     old "Deliver a special order to a Lusterfolk."
-    new "把一份特别订单送给一位卢斯特民。"
+    new "给一名卢斯特菲尔德人送去特殊订单"
 
     old "Send Ole his favourite daily meal."
-    new "把奥利最喜欢的日常餐点送给他。"
+    new "把他每天最喜欢的饭菜送给奥利"
 
     old "Send Cane some ingredients for the Hunter's Stew."
-    new "把猎人炖菜的食材送给凯恩。"
+    new "给凯恩送去猎人炖菜所需的食材"
 
     old "Deliver Rahim the materials for making his signature fabric."
-    new "把制作招牌布料的材料送给雷希姆。"
+    new "把制作招牌布料的材料交给雷希姆"
 
     old "Bring sewing materials to Arthur from the farm for a scarecrow's repair."
-    new "从农场带来缝纫材料，替亚瑟修好稻草人。"
+    new "从农场带来缝纫材料给亚瑟，用于修理稻草人"
 
     old "Deliver wares and letters between the Lusterfolk and the Goats."
-    new "在卢斯特民与山羊之间运送货物和信件。"
+    new "在卢斯特菲尔德人和山羊族之间运送货物和信件"
 
     old "Deliver materials to rebuild the bridge between Lusterfield and the Goat Tribe."
-    new "运送重建乐斯民菲尔德与山羊部落之间桥梁的材料。"
+    new "运送重建卢斯特菲尔德与山羊部落之间桥梁所需的材料"
 
     old "Deliver weapons to Kari to help his men arm up."
-    new "把武器送给卡里，帮助他的部下装备起来。"
+    new "把武器交给卡里，帮助他的手下武装起来"
 
     old "Deliver a remedy to Furkan to help him recover from the encounter in the temple."
-    new "把药方送给弗坎，帮助他从寺庙里的遭遇中恢复。"
+    new "给弗坎送去药物，帮助他从神殿里的遭遇中恢复"
 
     old "Help Sebas deliver some special stones to Gwyddyon for appraisal."
-    new "帮塞巴斯把几块特殊的石头送给格威迪恩鉴定。"
+    new "帮塞巴斯把一些特殊石头送给格威迪恩鉴定"
 
     old "Lusterfolk"
-    new "卢斯特民"
+    new "卢斯特菲尔德人"
 
     old "Goats"
     new "山羊"
@@ -211,31 +211,31 @@ translate schinese_rewrite strings:
     new "75金币"
 
     old "75 gold {p}Potion Recipe"
-    new "75金币{p}药水配方"
+    new "75金币 {p}药水配方"
 
     old "Tart's Toy"
     new "塔特的玩具"
 
     old "Trek to Snowbound Summit, near the Frosted Taiga in the snow area"
-    new "前往雪域霜冻针叶林附近的雪缚山顶"
+    new "前往雪地区域霜冻针叶林附近的雪封山顶"
 
     old "Wait for 3 days"
     new "等待3天"
 
     old "Return to Ribba"
-    new "回到里巴身边"
+    new "返回里巴"
 
     old "Wait for the rat patron to reappear, or tell Cane about the rat..."
-    new "等待老鼠赞助人再次出现，或者把老鼠的事告诉凯恩……"
+    new "等待老鼠恩客再次出现，或告诉凯恩那只老鼠的事……"
 
     old "Report to Cane at late night"
     new "深夜向凯恩报告"
 
     old "Drink a Beer then report to Cane"
-    new "喝一杯啤酒后向凯恩报告"
+    new "喝啤酒后向凯恩报告"
 
     old "Craft and drink Topu's Beer, then report to Cane"
-    new "酿造并喝下托普的啤酒，然后向凯恩报告"
+    new "制作并喝下托普的啤酒，然后向凯恩报告"
 
     old "Max Rank Reached"
     new "已达到最高等级"
@@ -250,19 +250,19 @@ translate schinese_rewrite strings:
     new "- {}金币\n"
 
     old "- {} Experience\n"
-    new "- {}经验\n"
+    new "- {}点经验\n"
 
     old "- {} New Job Slot\n"
-    new "- 新增{}个任务栏\n"
+    new "- {}个新工作栏位\n"
 
     old "- {} New Trinket Slot\n"
-    new "- 新增{}个饰品栏\n"
+    new "- {}个新饰品栏位\n"
 
     old "- {} Level Up Point\n"
     new "- {}个升级点\n"
 
     old "From: [job_client] -> To: [job_recipient]"
-    new "寄件人：[job_client] → 收件人：[job_recipient]"
+    new "来自：[job_client] -> 到：[job_recipient]"
 
     old "Reward: [job_reward]"
     new "奖励：[job_reward]"
