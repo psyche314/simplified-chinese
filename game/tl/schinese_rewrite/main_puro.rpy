@@ -3,67 +3,67 @@
 
 translate schinese_rewrite Puro_Beginning_Talk_4ec3f431:
 
-    "你们两个坐在老爷的帐篷里 赫宗手上的灯笼微弱发光。"
+    "你们俩正坐在长老的帐篷里，赫宗手中的灯笼散发着微弱的光。"
 
 translate schinese_rewrite Puro_Beginning_Talk_8c058a9f:
 
-    hz "在报纸上,上面说你自愿今晚当看门人。"
+    hz "纸上写着，你自愿担任今晚的守望者。"
 
 translate schinese_rewrite Puro_Beginning_Talk_4588662f:
 
-    "部落长长贺宗 检查手上的报纸 然后再回头看你。"
+    "部落的长老首领赫宗先看了看手中的纸，然后抬头望向你。"
 
 translate schinese_rewrite Puro_Beginning_Talk_6501c59e:
 
-    "这本来是例行公事 但你肯定有不同的计划。"
+    "这本该只是份例行差事，但显然，你另有打算。"
 
 translate schinese_rewrite Puro_Beginning_Talk_96a41ce8:
 
-    yu "是的,我做到了。"
+    yu "是的，我自愿的。"
 
 translate schinese_rewrite Puro_Beginning_Talk_23520140:
 
-    "你 点 头、 你 的 眼睛、 都 固定 在 老人 身上。 你 只 能 聚集 哀求 的 眼神。"
+    "你点点头，目光紧紧锁在长老身上。你能做出的，也只有恳求般的眼神。"
 
 translate schinese_rewrite Puro_Beginning_Talk_208032a5:
 
-    "红龙坐在桌子对面 他的眉毛被套住。"
+    "那条红龙坐在桌子对面，眉头紧锁。"
 
 translate schinese_rewrite Puro_Beginning_Talk_1aee9e66:
 
-    "部落里每个人都叫他\"阿勒父亲\" 他当长老已经很久了 只要你记得。"
+    "部落里人人都叫他老祖；在你的记忆里，他一直都是部落的长老首领。"
 
 translate schinese_rewrite Puro_Beginning_Talk_d6e32247:
 
-    "他教你们读书写字, 带你进他家, 帮助他管理书本。"
+    "是他教会你读书写字；你开始帮他管理账册后，他便把你接进了家里。"
 
 translate schinese_rewrite Puro_Beginning_Talk_caefdb77:
 
-    hz "我想你还没准备好 奇米的事发生后 你可能还没准备好。"
+    hz "我不觉得你已经准备好了，尤其是在齐门出事之后。"
 
 translate schinese_rewrite Puro_Beginning_Talk_575a76b2:
 
-    yu "我 -我准备好了,赫兹。"
+    yu "我、我准备好了，赫宗。"
 
 translate schinese_rewrite Puro_Beginning_Talk_66a31b66:
 
-    "你口吃,你的声音在发抖,这是要作出的关键决定,但你已定决心。"
+    "你结结巴巴地说着，声音微微发颤。这是个至关重要的决定，但你已经下定决心。"
 
 translate schinese_rewrite Puro_Beginning_Talk_52cfc2ba:
 
-    hz "你知道做部落看守的责任吧?"
+    hz "你明白担任部落守望者的职责，对吧？"
 
 translate schinese_rewrite Puro_Beginning_Talk_a138c5cb:
 
-    yu "我理解。"
+    yu "我明白。"
 
 translate schinese_rewrite Puro_Beginning_Talk_2d915fc9:
 
-    hz "嗯... 只是为了确定 我再告诉你一次。"
+    hz "嗯……为了确保万无一失，我再告诉你一遍。"
 
 translate schinese_rewrite Puro_Beginning_Talk_32613232:
 
-    hz "做个看门人,你必须保证部落在晚上的安全 并且不让那些精灵进入我们的地方。"
+    hz "作为守望者，你得在夜里保护部落的安全，还要阻止那些精灵进入我们的领地。"
 
 translate schinese_rewrite Puro_Beginning_Talk_ed59b27a:
 
@@ -71,87 +71,87 @@ translate schinese_rewrite Puro_Beginning_Talk_ed59b27a:
 
 translate schinese_rewrite Puro_Beginning_Talk_c7128ba4:
 
-    "老人又读了一遍报纸 在他再看你一眼 发现你心不在焉之前。"
+    "长老又把纸上的内容读了一遍，随后再次看向你，发现你的思绪已经飘远。"
 
 translate schinese_rewrite Puro_Beginning_Talk_8cec094c:
 
-    "他叹气了 把报纸放下。"
+    "他叹了口气，把纸放了下来。"
 
 translate schinese_rewrite Puro_Beginning_Talk_0d5be0f2:
 
-    hz "奇梅的搜寻进展如何?"
+    hz "寻找齐门的事怎么样了？我听说你们找他已经有一个星期了。"
 
 translate schinese_rewrite Puro_Beginning_Talk_458a0813:
 
-    yu "我 -我还没找到他。"
+    yu "我、我还没找到他。"
 
 translate schinese_rewrite Puro_Beginning_Talk_8f8f8137:
 
-    "你低头看着你的脚 手在颤抖。"
+    "你低头看着自己的双脚，双手微微发抖。"
 
 translate schinese_rewrite Puro_Beginning_Talk_6f800c99:
 
-    "奇米从你小就一直是你最好的朋友 失去他是你最不想发生的事。"
+    "齐门从小就是你最要好的朋友，而失去他是你最不愿看到的事。"
 
 translate schinese_rewrite Puro_Beginning_Talk_70ad9730:
 
-    hz "真担心,我没想到他会失踪这么久。"
+    hz "这很令人担心，我没想到他会失踪这么久。"
 
 translate schinese_rewrite Puro_Beginning_Talk_de0dcc64:
 
-    hz "人们不会就这样抛弃他 特别是他,他是个好孩子。"
+    hz "人不会就这样凭空消失的。更何况是他——那孩子一向很乖。"
 
 translate schinese_rewrite Puro_Beginning_Talk_9b32b899:
 
-    yu "问题是,我上周看到一束闪烁的光亮 围绕我们的文章,我想是他自己。"
+    yu "事情是这样的，上周我在我们的岗哨附近看到一道闪烁的光，我觉得那就是他。"
 
 translate schinese_rewrite Puro_Beginning_Talk_35356058:
 
-    hz "我看你确定你不是幻觉 或做梦吗?"
+    hz "我明白了……你确定自己不是产生幻觉……或者在做梦？你已经很久没睡过了。"
 
 translate schinese_rewrite Puro_Beginning_Talk_158a4beb:
 
-    hz "至少那边的人是这么告诉我的 他们都厌倦了 跟着你做了一周的领队。"
+    hz "至少他们是这么告诉我的。他们跟着你带头找了一个星期，现在都累坏了。"
 
 translate schinese_rewrite Puro_Beginning_Talk_e0eb6ce6:
 
-    yu "我知道,我知道,如果他们退出搜索, 但我不会放弃,直到我找到他。"
+    yu "我知道，如果他们想退出搜索，我也能理解。但在找到他之前，我不会放弃。"
 
 translate schinese_rewrite Puro_Beginning_Talk_5a7a049f:
 
-    hz "在某些时候,或许最好的前进道路是停止向前走,先思考一下。"
+    hz "有时候，继续向前走未必是最好的办法；也许该停下来，先想一想。"
 
 translate schinese_rewrite Puro_Beginning_Talk_467e2e2b:
 
-    yu "我只想找到他,把他安全带回来 父亲,求你了,让我做今天的看门人。"
+    yu "我只是想找到他，把他平安带回来，老祖。求你了，让我今天来当守望者吧。"
 
 translate schinese_rewrite Puro_Beginning_Talk_5be17a99:
 
-    "他摇摇头,叹气。"
+    "他摇了摇头，叹了口气。"
 
 translate schinese_rewrite Puro_Beginning_Talk_8fef3874:
 
-    hz "你一个人进去,如果你今天要当看门人, 我不确定在他们经历了这么多动乱之后 是否有人可以帮忙。"
+    hz "如果今天由你担任守望者，就得一个人去。我不确定他们经历了这么多折腾之后，今晚还有没有人能抽出身来。"
 
 translate schinese_rewrite Puro_Beginning_Talk_754de6e7:
 
-    yu "我知道这一点,教父。"
+    yu "我知道，老祖。"
 
 translate schinese_rewrite Puro_Beginning_Talk_02bcfcee:
 
-    hz "这真的是你的想法吗?"
+    hz "你真的是这么想的吗？"
 
 translate schinese_rewrite Puro_Beginning_Talk_9c08697e:
 
-    hz "如果你接下来失踪了怎么办 我在哪里能找到一个能管理我书本的人？"
+    hz "要是下一个失踪的是你呢？那我上哪儿去找人帮我管理账册？"
 
 translate schinese_rewrite Puro_Beginning_Talk_2bf9e618:
 
-    hz "还有一个愚蠢到可以和我熬夜的人吗?"
+    hz "还有谁会傻到陪我熬夜？"
 
 translate schinese_rewrite Puro_Beginning_Talk_f1a8b8bb:
 
-    "你不知道该说什么,你看着老人的眼睛, 尽管他笑着,你可以看到他眼中的担忧。"
+    "你不知道该说什么，只能望着长老的眼睛。尽管他笑出了声，你还是能看见其中的担忧。"
 
 translate schinese_rewrite Puro_Beginning_Talk_7da61a4c:
 
@@ -159,135 +159,135 @@ translate schinese_rewrite Puro_Beginning_Talk_7da61a4c:
 
 translate schinese_rewrite Puro_Beginning_Talk_33ce0b16:
 
-    yu "我不知道,父亲 我只想找到奇美。"
+    yu "我、我不知道，老祖。我只想找到齐门。"
 
 translate schinese_rewrite Puro_Beginning_Talk_20ac27b1:
 
-    "长者摇头。"
+    "长老摇了摇头。"
 
 translate schinese_rewrite Puro_Beginning_Talk_72460c52:
 
-    hz "也许一眼希望就是我的小红龙需要什么 也许你能证明我错了。"
+    hz "也许，我的小红龙需要的正是这一线希望。说不定你能证明我是错的，把他活着带回来。"
 
 translate schinese_rewrite Puro_Beginning_Talk_42c970f2:
 
-    "他笑得笑得不轻 他放下灯笼 慢慢地推过桌子。"
+    "赫宗勉强挤出一个微笑，放下灯笼，慢慢把它推过桌面。"
 
 translate schinese_rewrite Puro_Beginning_Talk_9d694ff4:
 
-    hz "我会信任你 但你得答应我你会格外小心。"
+    hz "这件事我会相信你。但你必须答应我，一定要格外小心。"
 
 translate schinese_rewrite Puro_Beginning_Talk_86a6b402:
 
-    hz "带着这个,如果你在夜里迷路,我就能找到你。"
+    hz "把这个带上。要是你夜里迷路了，我应该就能找到你。"
 
 translate schinese_rewrite Puro_Beginning_Talk_bf7978dd:
 
-    yu "谢谢,赫兹。"
+    yu "谢谢你，赫宗。"
 
 translate schinese_rewrite Puro_Beginning_Talk_90eb4087:
 
-    "你拿着灯笼放在你身边 灯笼的温暖 奇怪的是,即使在你的手上。"
+    "你接过灯笼，挂在身侧；即使拿在手里，灯笼的暖意也热得有些奇怪。"
 
 translate schinese_rewrite Puro_Beginning_Talk_3abd377e:
 
-    hz "天一亮,就安全回来 你不需要等到早上才回来。"
+    hz "天亮时，平安回来就好，不用一直待到早上。"
 
 translate schinese_rewrite Puro_Beginning_Talk_a0843e3c:
 
-    yu "好吧,教父。"
+    yu "好的，老祖。"
 
 translate schinese_rewrite Puro_Beginning_Talk_df857b04:
 
-    hz "那好,那让我们出去,我带路。"
+    hz "这就好。好了，我们出发吧，我来给你带路。"
 
 translate schinese_rewrite Puro_Beginning_Talk_3daf9da8:
 
-    "父亲推开门 你跟着他走。"
+    "老祖推开门，你跟着他走了出去。"
 
 translate schinese_rewrite Puro_Beginning_Talk_72c947bd:
 
-    "夜晚是安静的 月亮是明亮的 星星在天空中闪烁。"
+    "夜色寂静，月光明亮，群星在天空中闪烁。"
 
 translate schinese_rewrite Puro_Beginning_Talk_0a2fbfc7:
 
-    "其他人都在睡觉,没有生命的寂静 使你颤抖到核心, 但赫宗的出现 让你感到更安全。"
+    "其他人都在睡觉，这死寂让你从心底打了个寒颤，但仅仅是赫宗在身边，就让你安心了许多。"
 
 translate schinese_rewrite Puro_Beginning_Talk_6dc98dde:
 
-    "赫宗哨声轻轻地跟着你 紧紧跟着他 手中的火炬照亮了道路。"
+    "你紧跟在赫宗身后，他一边轻轻吹着口哨，手里的火把恰好照亮前路。"
 
 translate schinese_rewrite Puro_Beginning_Talk_90dc49f3:
 
-    "你紧紧握住自己的后期 你的心跳比脚快 你害怕被困的恐惧再次困扰着你。"
+    "你紧紧握住自己的灯笼，心跳比脚步还快。害怕被独自丢下的恐惧再次缠上了你。"
 
 translate schinese_rewrite Puro_Beginning_Talk_55f8ada7:
 
-    "追着赫宗 你跟着他到森林里去。"
+    "你追上赫宗，跟着他走进森林。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_435c0476:
 
-    yu "赫兹,部落最近怎么样?"
+    yu "赫宗，部落最近还好吗？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_f876c6af:
 
-    hz "今年的收成不错,我们有足够的食物 撑过冬天。"
+    hz "嗯，我们过得不错。今年收成很好，食物也足够我们撑过冬天。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_1143a178:
 
-    hz "但是,我们仍然想念奇梅, 这是一个大问题。"
+    hz "不过，我们还是没找到齐门，这可是个大问题。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_40f93814:
 
-    hz "毕竟,他不是一个人 谁不告诉任何人就到处乱跑。"
+    hz "毕竟，他不是那种会一声不吭就离开的人。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_849afa84:
 
-    hz "舒多和派伦都担心的无内裤 特别是你告诉他们你必须一个人进森林后。"
+    hz "舒多和派隆都担心得不得了，尤其是在你告诉他们必须独自进森林之后。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_00f15793:
 
-    yu "对不起,海兹,我不是故意要担心他们 但他们知道我会趁他们休息时继续找。"
+    yu "对不起，赫宗，我不是故意要让他们担心的。但他们知道，休息的时候我也会继续找。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_dffae502:
 
-    hz "别担心 你回来后我会告诉他们你安全。"
+    hz "嗯，别担心，等你回来，我会告诉他们你平安无事。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_1a1af4f3:
 
-    hz "听着,我们不是一个大部落 我们需要寻找彼此的背部 特别是在这样的时候。"
+    hz "听着，我们不是个大部落，需要在这种时候互相照应。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_6df21e82:
 
-    yu "我知道,我知道,我只想找到奇梅,把他带回来。"
+    yu "我知道，我知道。我只是想找到齐门，把他带回来。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_bc7e7f02:
 
-    hz "我也担心你 你一个星期没睡了。"
+    hz "你知道，我也很担心你。你已经一个星期没睡觉了，看起来糟透了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_0d58f772:
 
-    "你低头看你的脚,也许他说得对, 但还有什么选择... 你只是放弃搜索。"
+    "你低头看着自己的脚，也许他说得对，可是还能怎么办……难道就这样放弃寻找吗？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3feb7cac:
 
-    "你永远也别想生活在没有你最好的朋友的世界 哪怕是牺牲你的身体 一点一点的磨损。"
+    "你从未想过要生活在没有挚友的世界里，哪怕代价是让自己的身体一点点衰败。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_2748387b:
 
-    yu "如果我现在找不到他,他..."
+    yu "他会没事吗？我的意思是，如果我现在不找到他，他……以后还有多大可能回来？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_c7424302:
 
-    hz "I- uh... Well."
+    hz "我、呃……这个嘛。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_06aee3a8:
 
-    hz "我对你说实话 机会只是随着时间的流逝而越来越低。"
+    hz "我得对你说实话，时间拖得越久，机会就越渺茫。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_0ba95c65:
 
-    hz "但我们不会放弃他 我们的搜索队还没有停止 我们会继续寻找他。"
+    hz "但我们不会放弃他，搜索队还没有停下来，我们会继续找他。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_591f9294:
 
@@ -295,71 +295,71 @@ translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_591f9294:
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3aaf063d:
 
-    yu "赫兹,你知道为什么奇美失踪吗?"
+    yu "赫宗，你知道……齐门为什么会失踪吗？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_56f3617b:
 
-    hz "我不可能知道 但我觉得这不是一个好兆头。"
+    hz "我不可能知道，但我有种感觉，这不是什么好兆头。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_4a280ab3:
 
-    yu "你为什么这么说?"
+    yu "你为什么这么说？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_c014d137:
 
-    hz "我刚刚回忆起他失踪的前一天 他告诉我我们打猎时有一双眼睛。"
+    hz "我也是刚刚才想起来。他失踪前一天，我们一起打猎时，他跟我提到过一双眼睛。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_bb469eb3:
 
-    hz "他说眼睛后面有角 它从灌木丛里盯着他看。"
+    hz "他说那双眼睛后面还有一对角，从灌木丛里一直盯着他。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_79d0db84:
 
-    hz "我当时没怎么想,所以我告诉他了 也许这是你的朋友在耍你。"
+    hz "我当时没太在意，就跟他说，呃……也许是你的朋友在捉弄你。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_0a14b3ae:
 
-    hz "但现在我想到了,这有点令人担忧。"
+    hz "但现在回想起来，确实有点让人不安。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_28acdb1d:
 
-    yu "赫兹,你不能早点告诉我吗?"
+    yu "赫宗，你就不能早点告诉我吗？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3c97bf31:
 
-    hz "我觉得这不重要 我以为是你或其他人 毕竟我们部落的角并不稀有。"
+    hz "我没觉得那很重要……我以为是你，或者是其他什么人。毕竟在我们部落里，长角的并不罕见。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_8182700b:
 
-    yu "如果他被那双眼睛绑架了怎么办?"
+    yu "万、万一他被那双眼睛绑走了呢？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_67f51c85:
 
-    hz "或者,它可能仍然是 其它无辜的东西, 嗯... 他刚刚迷失在森林里。"
+    hz "或者，也可能没什么大不了的，呃……他只是在森林里迷路了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_dad363b4:
 
-    yu "在你告诉我这个之后, 我不确定我能否相信 他{i}Just{/i}迷路了。"
+    yu "你告诉我这些之后，我可不太相信他是{i}只是{/i}迷路了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_e5689667:
 
-    hz "也许你是对的。"
+    hz "也许你说得对。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_0e5be6e7:
 
-    hz "你没提过在某个地方看到闪光灯吗?"
+    hz "你不是提过自己在某处见过一道亮光吗？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_1c496b36:
 
-    yu "我以为是奇美,但现在不确定。"
+    yu "我以为那是齐门，但现在我也不确定了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3fa769d8:
 
-    hz "也许这是别人的。"
+    hz "嗯，也许是别人的。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_6cb3fe54:
 
-    hz "如果他被绑架了,那我们就得找到那个人。"
+    hz "如果他是被绑走的，那我们就得想办法追查那个人。但我们连一条线索都没有。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3ac77472:
 
@@ -367,171 +367,171 @@ translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3ac77472:
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_f27be97b:
 
-    yu "赫兹,我需要做什么 作为观察者?"
+    yu "赫宗，我作为守望者需要做什么？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_2616a8b3:
 
-    hz "作为正常的看门人 你只需要在晚上保护部落的安全 并警告我们万一发生可疑的事。"
+    hz "一般来说，守望者只需要在夜里保护部落的安全，发现任何可疑情况就向我们示警。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_48711521:
 
-    hz "通常我们每晚派两名看守来做这个工作 但他们今晚似乎没空。"
+    hz "通常我们每晚会安排两名守望者来做这件事，但今晚他们似乎都抽不开身。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_ff260648:
 
-    hz "这是例行公事,但很重要,我们不想让那些精灵进来偷我们的食物。"
+    hz "这只是份例行差事，但很重要。你知道，我们可不想让那些精灵进来偷走食物。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_bff81938:
 
-    yu "如果我看到一个,我该怎么办?"
+    yu "如果我看到一个呢？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_3de55463:
 
-    hz "当然是打,你有剑,对吗?"
+    hz "当然是战斗。你带剑了，对吧？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_ec9559e5:
 
-    yu "是的,我知道,但不是很尖锐。"
+    yu "带了。但它不怎么锋利。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_9455fb67:
 
-    hz "没关系,你又不是要跟恶魔打。"
+    hz "没关系，你又不是要去和恶魔什么的战斗。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_056070d0:
 
-    yu "我希望不是。"
+    yu "嗯，我希望不会。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_6294513b:
 
-    hz "如果你失去了剑,就举起你的手臂, 抽出你的胸膛,发出响亮的声音。这些精灵并不勇敢, 他们只要稍稍一点声音就会飞动。"
+    hz "要是剑丢了，就抬起胳膊、挺起胸膛，再大声喊叫。这些精灵胆子小得很，稍微听到点声音就会四散逃窜。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_8f256263:
 
-    "赫宗举起肩膀 偷偷地露出胸肌。"
+    "赫宗说着示范起来，向后张开双肩，自信地炫耀着自己硕大的胸肌。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_2d9914e4:
 
-    hz "看,这很容易。"
+    hz "看，很简单吧。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_53f672c4:
 
-    "他嘲笑你脸红的眼神 明显为他的行为 对你产生了相反的影响而骄傲。"
+    "他看着你羞红的脸，露出坏笑，显然很得意自己的举动反而对你产生了相反的效果。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_ab555e41:
 
-    yu "Well..."
+    yu "呃……"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_e74dbc3c:
 
-    yu "这些图文是谁?"
+    yu "话说，那些精灵到底是什么？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_e7bfe6a1:
 
-    "老人的摇摆,回到他正常的位置, 但他的胸口仍然被抽出来。"
+    "长老耸了耸肩，恢复了平常的姿势，但胸膛依旧挺得老高。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_5759bab5:
 
-    hz "流浪的害虫,别无其他,它们并不危险,但很烦人。"
+    hz "四处游荡的害虫，仅此而已。它们没有危险，只是有点烦人。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_a7cf4b21:
 
-    yu "原来如此。"
+    yu "我明白了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_ab851ef2:
 
-    yu "你知道吗,我以前没见过,所以对我来说都是新的。"
+    yu "你知道，我以前从没见过它们，所以这一切对我来说都很新鲜。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_d95b16c5:
 
-    hz "那是因为观察者在做他们的工作,你喜欢这样吗?"
+    hz "那是因为守望者们尽职尽责。你不是更希望这样吗？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_738a31d1:
 
-    yu "你是对的,教父。"
+    yu "你说得对，老祖。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_ddd1348d:
 
-    yu "赫兹,也许我明天需要休息。"
+    yu "赫宗，也许我明天该休息一下。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_98d82c67:
 
-    hz "什么?为什么?"
+    hz "什么？为什么？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_162406f0:
 
-    yu "我还在找奇美,只是需要一些额外时间睡觉。"
+    yu "我、我还是在找齐门，只是需要多一点睡眠时间。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_80ba5239:
 
-    hz "你知道,我不能做所有的工作 我自己,对不对?"
+    hz "你知道，我不可能一个人把所有工作都做完，对吧？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_f5c54ff4:
 
-    yu "是的,但你做到了, 上次我检查你 完成所有的书和账号 自己完成,当我不在的时候。"
+    yu "可你做到了！据我所知，我不在的时候，你一个人就完成了所有账册和账目。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_0f4867aa:
 
-    hz "但我不能一直完成这些 所以我雇了你。"
+    hz "但我不能一直把这些全做完，我就是因为这个才雇了你。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_554c38e4:
 
-    yu "但你做到了 你完全有能力这么做。"
+    yu "但你确实做到了！你完全有能力这么做。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_e5ae3808:
 
-    hz "对,你说得对。"
+    hz "嗯，你说得对。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_c6533285:
 
-    hz "嘿,这样吧,我跟你说实话 我关心你比那些书还多。"
+    hz "嘿，这样吧，我跟你说实话。比起那些越堆越高的账册，我更在乎你。我只是想在你寻找齐门的时候，把你留在身边。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_b4404d94:
 
-    hz "也许你可以用我的床 如果你在邮局之后累了的话。"
+    hz "要是你在岗哨值守后累了，也许可以睡我的床。那儿离瞭望塔最近，我也能照看你。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_83da2bb5:
 
-    hz "我会确保你明天能多睡几觉 不用担心书本。"
+    hz "而且，我保证明天让你多睡一会儿。账册的事不用担心。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_eb4d3c79:
 
-    yu "真的?谢谢,贺宗。"
+    yu "真的？谢谢你，赫宗。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_c0483b72:
 
-    hz "我希望你不介意 和一只白胡子的老龙共枕 或者通过我的鼻涕。"
+    hz "希望你不介意和一条白胡子老龙同床，或者得忍受我的鼾声。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_82c2724d:
 
-    hz "我会尽量小声点 但我不能保证任何事。"
+    hz "我会尽量小声点，但不能保证什么。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_a11ed5ff:
 
-    yu "你毕竟是我的父亲 我当然不介意 我很高兴能有一个温暖的床。"
+    yu "你可是我的老祖，当然不介意。我能有一张暖床睡，已经很感激了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_4973b1f6:
 
-    hz "好,那么就解决了。"
+    hz "好，那就这么定了。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_126c5452:
 
-    yu "赫宗,我现在该怎么办?"
+    yu "赫宗，我现在该做什么？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_72969426:
 
-    hz "试着看看那边的箱子。"
+    hz "先去看看那边的木箱。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_fa3d48b6:
 
-    msg "提示: 尝试使用空间, 或屏幕上的交互按钮来与对象互动。"
+    msg "提示：尝试使用空格键，或屏幕上的互动按钮，与物体互动。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_126c5452_1:
 
-    yu "赫宗,我现在该怎么办?"
+    yu "赫宗，我现在该做什么？"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_18c67447:
 
-    hz "你该把那边的萝卜拿起来 把它们带到箱子里。"
+    hz "把那边的萝卜捡起来，放进木箱里。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_a08eae45:
 
@@ -539,127 +539,127 @@ translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_a08eae45:
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_05146825:
 
-    yu "到此为止,赫兹。"
+    yu "暂时就这些，赫宗。"
 
 translate schinese_rewrite Hezzong_Puro_Forest_Dialogue_30664214:
 
-    hz "好吧 那我们继续训练吧。"
+    hz "好，那我们继续训练。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_371d5f7a:
 
-    "你进入望塔上上楼 穿过赫宗提到的钟声。"
+    "你进入瞭望塔，爬上楼梯，经过赫宗提到过的那口钟。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_38055bf5:
 
-    "在上面,你可以看到整个部落, 和周围的森林。"
+    "登上塔顶后，你能俯瞰整个部落，以及周围的森林。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_31d47b24:
 
-    yu "我想这样我就能知道 当灯光再次回来的时候。"
+    yu "我想，这样一来，等那道光再次出现时，我就能看见了。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_6db723d3:
 
-    "你等了很久,但似乎什么都没发生。"
+    "你已经等了一会儿，但似乎什么也没发生。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_aeefaad6:
 
-    "有点无聊 但你必须睁大眼睛..."
+    "有点无聊，但你总得想办法保持警觉……"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_3f780865:
 
-    "你环顾四周,看看赫宗给你的灯笼。"
+    "你环顾四周，看到了赫宗给你的灯笼。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_24d22c59:
 
-    yu "有事发生就按铃,对吗?"
+    yu "出事的时候……要敲钟……对吧？老祖是这么说的。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_a7a36faa:
 
-    yu "不,父亲总是对的, 你敢怀疑他吗?"
+    yu "不，老祖永远是对的，你可别怀疑他。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_7bd22cd1:
 
-    "无聊的你开始玩灯笼和钟声。"
+    "你感到无聊，便开始摆弄灯笼和钟。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_41c6f2bc:
 
-    yu "也许我应该下去仔细看看 如果有光的话 树不会覆盖它吗?"
+    yu "也许我该下去仔细看看，如果真的有光，树木不会把它挡住吗……？我在这里根本看不见。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_b4b85a43:
 
-    yu "但是所有父亲都说我应该待在这里 我应该待在这里。"
+    yu "但老祖说我应该待在这里，我就该待在这里。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_dd85d98d:
 
-    "在月光下,你可以看到森林, 树木在风中摇摆。"
+    "月光下，你看得见森林，树木在风中摇曳。"
 
 translate schinese_rewrite Puro_Get_Onto_Watchtower_1ea660fd:
 
-    "你可以听到叶子在生锈的声音 风吹过树丛。"
+    "你听见树叶沙沙作响，风穿过树林。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_5d15684f:
 
-    "你忍不住想着奇梅 想想他现在的情况。"
+    "你不由得想起齐门，不知道他现在过得怎么样。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_4a59f4f2:
 
-    "一切都让你想起他, 你曾经一起玩的游戏, 他过去告诉你的故事, 以及他过去微笑的方式。"
+    "周围的一切都会让你想起他：你们曾一起玩的游戏、他曾讲给你听的故事，还有他脸上的笑容。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_102d5eee:
 
-    "你想念他 你想找到他 但你不知道从何说起 你害怕再也见不到他了。"
+    "你很想念他，也想找到他，可你不知道该从哪里开始。你害怕自己可能再也见不到他。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_3c1359dc:
 
-    "这想法是无法忍受的 也许这就是你几天没睡觉的原因。"
+    "光是这个念头就让你难以承受，也许这正是你几天都没睡觉的原因。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_3a565242:
 
-    "你踩着他给你的头骨项链 让你得到一点慰藉 度过今晚。"
+    "你轻轻拨弄着他送给你的骷髅项链，它给了你些许安慰，让你能熬过这个夜晚。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_95ce2484:
 
-    "也许你应该接受赫宗的求婚 睡在他床上。"
+    "也许你本该接受赫宗的提议，去他的床上睡觉。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_c273027f:
 
-    "躺在他床上 被自己的长辈抱住 感觉如何?"
+    "躺在他的床上，被自己的长老抱在怀里，会是什么感觉？"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_25522281:
 
-    "他一直很喜欢你 最近他比平时更关心你。"
+    "他一直很喜欢你，而最近，他比平时更加体贴。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_e52e0569:
 
-    "你拒绝那个老人难道不是个混蛋吗?"
+    "要是拒绝那个老人，你不就成了混蛋吗？他对你和齐门如此上心，这种关心在别人身上从未见过。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_916c7962:
 
-    "而且,谁不希望一个巨大的,温暖的龙枕头 拥抱整个夜晚..."
+    "再说了，谁不想要一个巨大而温暖的龙抱枕，抱着它睡过一晚呢……"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_ddae7f28:
 
-    "你该睡觉了,你毕竟累了。"
+    "你最好还是睡一觉，毕竟你已经累了。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_ab2a3688:
 
-    "完全可以睡一觉 但你得找到奇米 找到他之前不能睡。"
+    "睡上一整晚再合适不过，可你必须找到齐门，在找到他之前，你不能睡。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_e24a6281:
 
-    "但是... 你累了,你不能 保持你的眼睛睁开, 他们太干燥。"
+    "但是……你太累了，眼睛干涩得都快睁不开了。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_c3e731bf:
 
-    "你决定打个盹 躺在塔顶的冷地板上。"
+    "你决定打个盹，躺在塔顶冰冷的地板上。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_a0b28009:
 
-    yu "睡一会儿,我睡不着。"
+    yu "就睡一小会儿，我不会睡太久的。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_88d52214:
 
-    "你一服完刑期 就睡着了。"
+    "你话音刚落，就已经睡着了。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_a20cefa7:
 
@@ -667,15 +667,15 @@ translate schinese_rewrite Puro_Watchtower_Thoughts_a20cefa7:
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_43a3e05c:
 
-    yu "Ahhh!"
+    yu "啊啊啊！"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_8f1096db:
 
-    "你决定挺过去 睁大眼睛。"
+    "你决定撑下去，继续睁大眼睛。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_94f287a8:
 
-    "你睡不着觉,你必须..."
+    "你绝对不能睡，你得找到齐——"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_a20cefa7_1:
 
@@ -683,15 +683,15 @@ translate schinese_rewrite Puro_Watchtower_Thoughts_a20cefa7_1:
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_3690c817:
 
-    "你睡着了 就在桌子上。"
+    "你睡着了，就趴在桌子上。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_43a3e05c_1:
 
-    yu "Ahhh!"
+    yu "啊啊啊！"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_a764f35f:
 
-    "转移你的想法,你环顾四周, 试图发现任何可疑的东西。"
+    "你甩开脑中的杂念，环顾四周，试图找出任何可疑的东西。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_a20cefa7_2:
 
@@ -699,47 +699,47 @@ translate schinese_rewrite Puro_Watchtower_Thoughts_a20cefa7_2:
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_c8b4dc59:
 
-    "突然在距离上闪烁着一束光, 你可以从塔上看到它。"
+    "突然，远处有一道光闪烁起来，你在塔上就能看见。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_1a077296:
 
-    "离塔不远,如果你现在跑下来,你就能赶上它。"
+    "它离瞭望塔不远，也许你现在跑下去，还能追上它。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_bc7f5c34:
 
-    "但你必须按铃,你必须留在这里 就像赫宗说的一样。"
+    "但你得先敲钟，而且还要待在这里。赫宗就是这么说的。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_5e5cf3f7:
 
-    "你冲下塔 带着赫宗的灯笼 朝闪闪发光的灯光跑 留下钟声。"
+    "你提着赫宗的灯笼冲下塔，朝那道闪烁的光跑去，把钟声远远抛在身后。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_b84ce96a:
 
-    yu "赫宗,对不起,可能是千米..."
+    yu "对不起，赫宗，可能是齐门……"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_2350fc40:
 
-    "你穿过森林 可以看到光线越来越近。"
+    "你穿过森林飞奔而去，看着那道光越来越近。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_70fdbfef:
 
-    "很快你就会找到光源 你可以看到一个人物站在你面前。"
+    "没过多久，你就找到了光的源头，看见一个身影站在你面前。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_f2f76917:
 
-    yu "奇米?是你吗?"
+    yu "齐门……是你吗？"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_be943e1d:
 
-    "你可以看到角的影子 慢慢地变成一对鹿角..."
+    "你看见一只角的影子慢慢变成了一对鹿角……"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_51a7fc69:
 
-    "你跑下塔 敲响钟声 尽可能大声。"
+    "你跑下瞭望塔，用尽全力敲响了钟。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_3d3169e1:
 
-    "突然间,有些东西在部落里被点亮了 看来你的策略奏效了。"
+    "突然，部落里亮起了什么，看来你的策略奏效了。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_b3057f33:
 
@@ -747,171 +747,171 @@ translate schinese_rewrite Puro_Watchtower_Thoughts_b3057f33:
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_ce29e3e3:
 
-    "你退后一步 透过窗户看一看 但有东西不见了。"
+    "你后退一步，透过窗户望去，却发现少了点什么。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_295ef644:
 
-    "光没了,你再也看不见了。"
+    "那道光消失了，你再也看不见它。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_61f36d3c:
 
-    "你抓头,你忍不住会后悔一点。"
+    "你挠了挠头，忍不住感到有些后悔。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_5e69f5c0:
 
-    yu "也许我应该追它,如果是奇美怎么办?"
+    yu "也许、也许我该追上去的，万一那是齐门呢。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_88d32ee6:
 
-    "你下楼去检查是否还有光线 突然间,有些事很烦恼。"
+    "你下楼查看是否还留有光亮，突然发现情况不对。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_84136f0f:
 
-    "你可以听到尘土的声音 离开被踢起来, 你可以感觉到一些东西 推到你身上。"
+    "你听见泥土和落叶被踢起的声音，也感觉到有什么东西正抵着你。"
 
 translate schinese_rewrite Puro_Watchtower_Thoughts_2d966d51:
 
-    yu "啊？"
+    yu "嗯？"
 
 translate schinese_rewrite Encountering_Moine_cdc9131a:
 
-    "睡得很短,因为你突然被奇怪的声音唤醒。"
+    "你睡得很浅，突然被一道奇怪的声音惊醒。"
 
 translate schinese_rewrite Encountering_Moine_2d966d51:
 
-    yu "啊？"
+    yu "嗯？"
 
 translate schinese_rewrite Encountering_Moine_67f38bb4:
 
-    "你自以为是,像泥土的声音 和被踢走的落叶 让你从短暂的睡梦中醒来。"
+    "你心想，泥土和落叶被踢起的声音将你从短暂的睡梦中惊醒。"
 
 translate schinese_rewrite Encountering_Moine_578471e2:
 
-    "奇怪的是 听起来不像是另一个神像 或者你以前听到过什么。"
+    "奇怪的是，听起来不像是另一只精灵，也不像你以前听过的任何声音。"
 
 translate schinese_rewrite Encountering_Moine_23c5846b:
 
-    "只是过了几秒钟 你才意识到有东西在逼迫你。"
+    "几秒钟后，你才意识到，有什么东西正抵着你。"
 
 translate schinese_rewrite Encountering_Moine_6d81b76c:
 
-    "你的眼睛睁开,当你躺在地上的时候, 双臂都抱着你的体重, 当你试着呼吸的时候... 但有些事是可怕的."
+    "你睁开惺忪的双眼，发现自己正躺在地上，双臂撑着身体，努力喘匀气息……但情况不对。"
 
 translate schinese_rewrite Encountering_Moine_ec4eeee1:
 
-    yu "等等... 我不是在塔上吗?"
+    yu "等等……我刚才不是还在塔上吗？"
 
 translate schinese_rewrite Encountering_Moine_674a38b4:
 
-    "你环顾四周,你可以看到树木,天空,月亮, 但你看不到塔 你刚刚睡在几秒钟前。"
+    "你环顾四周，看见树木、天空和月亮，却看不见几秒前还在睡觉的那座塔。"
 
 translate schinese_rewrite Encountering_Moine_74f5f505:
 
-    "你花了一秒钟的时间才意识到 你并不孤单。"
+    "过了好一会儿，你才意识到自己并不是一个人。"
 
 translate schinese_rewrite Encountering_Moine_92896a64:
 
-    my "Muzz Lus baerz acha。"
+    my "吓到你了吗？"
 
 translate schinese_rewrite Encountering_Moine_5e9b0ceb:
 
-    "你抬头看,看到一个高高的 人跪在你面前。"
+    "一阵粗哑的声音引起了你的注意。你抬头一看，发现一个身影正跪在你面前。"
 
 translate schinese_rewrite Encountering_Moine_6c370c91:
 
-    "月光太暗了 你几乎无法弥补他身体的轮廓。"
+    "那是一头披着绿色兜帽的麋鹿，月光太暗，你几乎只能勾勒出他的轮廓。"
 
 translate schinese_rewrite Encountering_Moine_21d6ac86:
 
-    "兜帽盖住他的脸 事实上 他的手臂正按在你胸前 你几乎动不了。"
+    "兜帽遮住了他的脸。事实上，他的双臂正压在你的胸口，让你几乎动弹不得。"
 
 translate schinese_rewrite Encountering_Moine_9ddb8d8f:
 
-    "鹿头倾斜了他的头, 也许被你裸体的身体弄糊涂了, 或者你的身体被你自己的精液覆盖的事实。"
+    "那头麋鹿歪了歪头，也许是被你赤裸的身体弄糊涂了，又或者是因为你身上沾满了自己的精液。"
 
 translate schinese_rewrite Encountering_Moine_ab8e215e:
 
-    my "Telaa。"
+    my "Telaa."
 
 translate schinese_rewrite Encountering_Moine_3f93dd57:
 
-    "你想把他推开,但他不动。"
+    "你试图推开他，但他纹丝不动。"
 
 translate schinese_rewrite Encountering_Moine_00c5cc0d:
 
-    my "格里克兹鲁特, 高高在上, Kyllanoaf bezme luglan。"
+    my "为了这个世界的福祉，你不能走。"
 
 translate schinese_rewrite Encountering_Moine_ed1af3c8:
 
-    "他似乎没有受到你 将你的手臂扭断的企图的影响, 但这不仅仅是一个烦恼你。"
+    "你试图挣脱双臂，但他似乎完全不受影响，这对你来说可不只是件麻烦事。"
 
 translate schinese_rewrite Encountering_Moine_82f4129e:
 
-    "那个奇怪的人靠近了点 到了你能感觉到的他呼吸在你脸上的点。"
+    "那个陌生人俯身凑近，近到你能感受到他呼出的气息拂过脸颊。"
 
 translate schinese_rewrite Encountering_Moine_5020eddd:
 
-    "你立刻把头转开 但你不能不感到恐惧。"
+    "你立刻扭开头，却无法抑制心中的恐惧。"
 
 translate schinese_rewrite Encountering_Moine_dbc5ff3e:
 
-    yu "滚开!"
+    yu "快、快从我身上下去！"
 
 translate schinese_rewrite Encountering_Moine_3d70c366:
 
-    my "古姆拉亚。卢斯鲁特普·奥兹克·阿查。"
+    my "别动，我不是来害你的。"
 
 translate schinese_rewrite Encountering_Moine_e2f7a598:
 
-    "鹿儿用他的方式 将他的屁股放在你的胸口上 你可以感觉到他身体的重量 压在你身上。"
+    "麋鹿挪动身体，把臀部坐在你的胸口上；你能感觉到他的体重压在身上。"
 
 translate schinese_rewrite Encountering_Moine_0cdebb01:
 
-    yu "你想从我这里得到什么?"
+    yu "你想从我这里得到什么？"
 
 translate schinese_rewrite Encountering_Moine_4a51b88d:
 
-    "从他眼中的学生身上 你能感觉到他受到轻度的困扰 但他什么也不说。"
+    "从他的眼神里，你能感到他有些不耐烦，但他已经完全不再说话。"
 
 translate schinese_rewrite Encountering_Moine_f9439333:
 
-    "你发现自己身处陌生人的大腿中间 他的粗皮衣几乎遮住你的脸。"
+    "你发现自己正处在陌生人的双腿之间，他那股臭烘烘的缠腰布几乎盖住了你的脸。"
 
 translate schinese_rewrite Encountering_Moine_b86a7f5f:
 
-    "在腰布下面 它追踪到一个重量级的肿块的形状 产生奇怪的 浓雾的气味和热气 右在你的胸口。"
+    "在缠腰布下，沉重的隆起勾勒出形状，散发出一股奇怪的麝香气息与热度，正贴在你的胸口。"
 
 translate schinese_rewrite Encountering_Moine_ab8ca453:
 
-    "瞬间,你的思想充满了 恐惧和兴奋的混杂。"
+    "恐惧与欲望混杂成一团，瞬间充斥你的脑海。"
 
 translate schinese_rewrite Encountering_Moine_8024206d:
 
-    "你的身体很快地 被脊椎的颤抖所震动 你只能试图把肿胀的盖在裤子里。"
+    "你的身体很快做出了反应，脊背一阵战栗，你只能试着遮住自己裤子下的隆起。"
 
 translate schinese_rewrite Encountering_Moine_4bed3c32:
 
-    yu "我不想伤害你 但你现在得放开我。"
+    yu "呃……我、我不想伤害你，但你现在必须从我身上下去。"
 
 translate schinese_rewrite Encountering_Moine_9ec555c4:
 
-    yu "赫松要来了,你认识赫松吗?"
+    yu "赫宗要来了，你认识赫宗吗？如果你不从我身上下去，他会来找你算账的——快、快下去……"
 
 translate schinese_rewrite Encountering_Moine_db07f76f:
 
-    "陌生人没有回应 尽管他的目光比现在危险要小得多。"
+    "陌生人没有回应，不过他的目光已经没那么有威胁性了。"
 
 translate schinese_rewrite Encountering_Moine_fe0e2e0f:
 
-    "你可以看到他的手慢慢地从你身边移开 他却在背后找东西。"
+    "你看见他的手慢慢从你身上移开，转而伸向身后，似乎在拿什么东西。"
 
 translate schinese_rewrite Encountering_Moine_a1c4fd12:
 
-    "你试着准备你的武器, 但是他坐在你身体上的方式, 你害怕他要是想攻击你,你无能为力。"
+    "你试图准备好武器，但他这样坐在你身上，要是他决定攻击，你恐怕什么也做不了。"
 
 translate schinese_rewrite Encountering_Moine_34eeb014:
 
-    my "恰克·赫兹利卡德·兹鲁赫兹 德图·阿登尼 丹尼·斯普兹·格里茨·菲林克洛。"
+    my "你的守护者就要追上来了，我们必须现在出发。"
 
 translate schinese_rewrite Encountering_Moine_5c187599:
 
@@ -919,47 +919,47 @@ translate schinese_rewrite Encountering_Moine_5c187599:
 
 translate schinese_rewrite Encountering_Moine_b08a3f16:
 
-    "出于某种原因 陌生人决定坐在你上面 和他的... 几乎不露面的成员在一起 是个好主意 但你只能让他呆着。"
+    "不知为什么，陌生人觉得坐在你身上，还让那根……若隐若现的家伙抵着你，是个不错的主意；但你什么也做不了，只能任由他这么坐着。"
 
 translate schinese_rewrite Encountering_Moine_a6c712d9:
 
-    yu "等等,你是谁?"
+    yu "等、等等，你是谁……？"
 
 translate schinese_rewrite Encountering_Moine_5f26d48a:
 
-    "你呼气,试图保持你的声音 稳定在陌生人的重量之下。"
+    "你深吸一口气，试图在陌生人的重量下稳住声音。"
 
 translate schinese_rewrite Encountering_Moine_b94e568f:
 
-    "陌生人盯着你,他停止推你下去 很明显他听到了。"
+    "陌生人盯着你，不再压着你，很明显，他听到了你的话。"
 
 translate schinese_rewrite Encountering_Moine_ab518c94:
 
-    my "乌兹·卢兹·希兹科姆·阿查·卡利夫·扎克洛、特纳克佐姆·卢斯·普罗·希兰。"
+    my "自从我游荡于失落之地起，我已经找你很久了。"
 
 translate schinese_rewrite Encountering_Moine_6f317147:
 
-    "听上去他好像在自欺欺人 但你听不懂他在说什么。"
+    "听起来他像是在自言自语，但你完全听不懂他在说什么。"
 
 translate schinese_rewrite Encountering_Moine_bda2c0d5:
 
-    my "Ik lu, paidzrutt lu gliiz acha, ome acha slanivik. Haav supz chak hezzillmur... ptaalzan."
+    my "我无法与你通过语言交流，而你也一样……这一定是因为你的守护者在干涉我们。"
 
 translate schinese_rewrite Encountering_Moine_085f7b3f:
 
-    "面对陌生人说话的语气 你保持冷静 你无法理解 但你不能不感到恐惧。"
+    "面对这个说着你无法理解的语言的陌生人，你努力保持冷静，但心中的恐惧挥之不去。"
 
 translate schinese_rewrite Encountering_Moine_f9439333_1:
 
-    "你发现自己身处陌生人的大腿中间 他的粗皮衣几乎遮住你的脸。"
+    "你发现自己正处在陌生人的双腿之间，他那股臭烘烘的缠腰布几乎盖住了你的脸。"
 
 translate schinese_rewrite Encountering_Moine_b86a7f5f_1:
 
-    "在腰布下面 它追踪到一个重量级的肿块的形状 产生奇怪的 浓雾的气味和热气 右在你的胸口。"
+    "在缠腰布下，沉重的隆起勾勒出形状，散发出一股奇怪的麝香气息与热度，正贴在你的胸口。"
 
 translate schinese_rewrite Encountering_Moine_4a7e4db8:
 
-    "奇怪的是,你的身体 被一个颤抖的脊椎压倒了, 你只能试图遮盖 膨胀在你自己的裤子。"
+    "奇怪的是，你的身体却因脊背一阵战栗而起了反应，只能试着遮住自己裤子下的隆起。"
 
 translate schinese_rewrite Encountering_Moine_63e260ab:
 
@@ -967,107 +967,107 @@ translate schinese_rewrite Encountering_Moine_63e260ab:
 
 translate schinese_rewrite Encountering_Moine_0bf30449:
 
-    "你凝视着陌生人的... 拐杖,只是勉强露出来 无意隐瞒。"
+    "你的目光死死盯着陌生人的……胯部，那东西只露出了一点，丝毫没有要遮掩的意思。"
 
 translate schinese_rewrite Encountering_Moine_1265e768:
 
-    my "Grulliad alu, pob te acha hezzik. Ik lus, paidzrutt grikz fiinslan acha."
+    my "幸好，我比他先找到了你，我得带你去别的地方。"
 
 translate schinese_rewrite Encountering_Moine_dd3f7c53:
 
-    "但陌生人似乎并不为你的目光所困扰 反而在背后寻找一些东西。"
+    "但陌生人似乎并不在意你的目光，反而伸手从后面取出什么东西。"
 
 translate schinese_rewrite Encountering_Moine_25974e23:
 
-    my "Wru fininklo, 查克 Hezzilikaad zruhez ettu adenni, denni supz gritz fininklo. 查克· 赫兹里卡德 兹鲁赫兹 ettu adenni, denni supz grikz fininklo。"
+    my "Wru fiinklo, chak hezzillikaad zruhez ettu adenni, denni supz grikz fiinklo."
 
 translate schinese_rewrite Encountering_Moine_ff2dc369:
 
-    "你仍然不知道他在说什么。"
+    "麋鹿不停地喃喃自语，而你依旧完全不知道他在说什么。"
 
 translate schinese_rewrite Encountering_Moine_2e19cdb5:
 
-    "很快,陌生人拿出了一个木箱, 上面有几条线,他和它们混在一起。"
+    "很快，陌生人拿出一个巨大的木盒。盒子上系着几根弦，他摆弄着它们。"
 
 translate schinese_rewrite Encountering_Moine_1e38fc67:
 
-    "他盯着你看了几秒钟,然后在盒子上放个曲子。"
+    "他盯着你看了几秒，然后在盒子上弹奏起一段曲调。"
 
 translate schinese_rewrite Encountering_Moine_47919ae4:
 
-    yu "你在做什么?"
+    yu "你在做什么？"
 
 translate schinese_rewrite Encountering_Moine_18fa06f4:
 
-    "陌生人给你一眼一眼,然后回来照顾他的盒子。"
+    "陌生人侧眼瞥了你一下，随后继续照看他的盒子。"
 
 translate schinese_rewrite Encountering_Moine_3665cc9d:
 
-    "森林是安静的,仿佛它正在等待 刀片的声音穿透沉默。"
+    "森林一片寂静，仿佛正等待着刀刃刺破沉默的声响。"
 
 translate schinese_rewrite Encountering_Moine_95ed555a:
 
-    "月亮闪亮,你抬头看星星。"
+    "月光明亮。你抬头看去，映入眼帘的还是往常那些星星。"
 
 translate schinese_rewrite Encountering_Moine_8a0b3a8f:
 
-    "赫宗过去常告诉你关于这些闪闪发光的故事 现在你已经想到了 看着天空 让你觉得安全一点。"
+    "赫宗过去常给你讲这些闪烁星辰的故事。想到这里，仰望夜空让你感到稍微安心了一些。"
 
 translate schinese_rewrite Encountering_Moine_68f8a824:
 
-    "毫无警告地,你注意到赫宗的灯笼 开始闪烁,然后就熄灭了。"
+    "毫无征兆地，你发现赫宗的灯笼开始闪烁，随后熄灭了。"
 
 translate schinese_rewrite Encountering_Moine_9f9f98bb:
 
-    yu "狗屎。"
+    yu "该死。"
 
 translate schinese_rewrite Encountering_Moine_9aeaf868:
 
-    "你屏住呼吸, 紧张的耳朵, 试图抓住最微弱的声音。"
+    "你屏住呼吸，竖起耳朵，努力捕捉最微弱的声音。"
 
 translate schinese_rewrite Encountering_Moine_ce9e67a5:
 
-    "很快,一个距离的微弱脚步声。"
+    "很快，远处传来一阵轻微的脚步声。"
 
 translate schinese_rewrite Encountering_Moine_14bea507:
 
-    yu "斯普瑞特漂浮在空中, 和教父从来没有 发出声音散步, 别人来了..."
+    yu "精灵会漂浮在空中，而老祖走路从不会发出声音……有人来了……"
 
 translate schinese_rewrite Encountering_Moine_2413e21c:
 
-    yu "但还有谁能走出部落。"
+    yu "可部落外面走路的，会是谁？"
 
 translate schinese_rewrite Encountering_Moine_17f7d260:
 
-    "你的眼睛固定在森林上 外面有东西 你可以感觉到。"
+    "你的目光死死盯着森林。那里有什么东西，你能感觉到。"
 
 translate schinese_rewrite Encountering_Moine_b2c2ae20:
 
-    "你深呼吸 开始穿过树林。"
+    "你深吸一口气，开始在树间奔跑。"
 
 translate schinese_rewrite Encountering_Moine_1f46f730:
 
-    "你的心脏跳的比脚快 你根本不知道外面会是什么 但不管是什么 但不可能是好事。"
+    "你的心跳比脚步更快。你不知道外面会有什么，但不管那是什么，都不会是好事。"
 
 translate schinese_rewrite Encountering_Moine_9f9f98bb_1:
 
-    yu "狗屎。"
+    yu "该死。"
 
 translate schinese_rewrite Encountering_Moine_a394bc3d:
 
-    "你几乎碰到某人。"
+    "你差点撞上一个人。"
 
 translate schinese_rewrite Encountering_Moine_d1b81354:
 
-    yu "对不起,我不是故意的..."
+    yu "抱、抱歉，我不是故意——"
 
 translate schinese_rewrite Encountering_Moine_c7adee80:
 
-    "你深呼吸 试着冷静下来。"
+    "你深吸一口气，试着让自己冷静下来。"
 
 translate schinese_rewrite Encountering_Moine_1c787ad6:
 
-    "勇敢如你所愿 胸口抽起来 这就是赫宗教你的 尽管你内心在颤抖。"
+    "你鼓起勇气挺起胸膛——这是赫宗教你要做的，尽管你内心仍在发抖。"
 
 translate schinese_rewrite Encountering_Moine_58dfb455:
 
@@ -1075,103 +1075,103 @@ translate schinese_rewrite Encountering_Moine_58dfb455:
 
 translate schinese_rewrite Encountering_Moine_75e93169:
 
-    "你吹出胸口 就像赫宗教你的一样。"
+    "你挺起胸膛，正如赫宗教你的那样。"
 
 translate schinese_rewrite Encountering_Moine_42e01062:
 
-    "到处转头 试着找到声音的来源。"
+    "你转头四处张望，试图找出声音的来源。"
 
 translate schinese_rewrite Encountering_Moine_b98cde35:
 
-    yu "谁是..."
+    yu "谁在那——"
 
 translate schinese_rewrite Encountering_Moine_43a3e05c:
 
-    yu "Ahhh!"
+    yu "啊啊啊！"
 
 translate schinese_rewrite Encountering_Moine_8cbc56ed:
 
-    "一旦你转过头,你就会看到一个人物站在你面前。"
+    "你刚一转头，就看见一个身影站在面前。"
 
 translate schinese_rewrite Moine_Introduction_045c657d:
 
-    "月光太暗了 你几乎无法弥补他身体的轮廓。"
+    "那是一头麋鹿，头上长着一对威严的鹿角，身披绿色兜帽。月光太暗，你几乎只能看清他的轮廓。"
 
 translate schinese_rewrite Moine_Introduction_b9e972d0:
 
-    "兜帽男盖着他的脸 他站着别动 面对你 好像他一直在等你一样。"
+    "兜帽遮住了他的脸，他一动不动地面向你站着，仿佛早就在等你。"
 
 translate schinese_rewrite Moine_Introduction_27b9a93b:
 
-    "你甚至不知道他是否在看你 或者他的眼睛是否固定在别的东西上。"
+    "你甚至无法判断他是在看着你，还是把目光落在别的什么地方。"
 
 translate schinese_rewrite Moine_Introduction_38f30e8f:
 
-    "突然,你心中的恐惧 淹没了你的整个身体, 导致你的腿放弃。"
+    "突然，心中的恐惧压垮了你的整个身体，双腿顿时失去了力气。"
 
 translate schinese_rewrite Moine_Introduction_cccbc74d:
 
-    my "Muzz Lus baerzom acha。"
+    my "Muzz lus baerzom acha."
 
 translate schinese_rewrite Moine_Introduction_6bdaa192:
 
-    my "Kiz chime, Lus muszz ru yaglola laarelan。 基兹 奇米, 卢斯 穆兹 鲁亚格罗 拉亚雷兰。"
+    my "Kiz chime, ik Lus muzz ru yaglo laarelan."
 
 translate schinese_rewrite Moine_Introduction_1a9e44c8:
 
-    "他站在那里,看着你,看着你听到他发牢骚的声音。"
+    "麋鹿一动不动，只是站在那里，任由他粗哑的声音传入你的耳中。"
 
 translate schinese_rewrite Moine_Introduction_3a797ab1:
 
-    yu "嗯?奇米?你是谁?"
+    yu "嗯？齐门？你、你是谁？"
 
 translate schinese_rewrite Moine_Introduction_93238fb6:
 
-    "你躺在地上,两只胳膊都抱着你的体重 当你试着呼吸的时候。"
+    "你躺在地上，双臂撑着身体，努力喘着气。"
 
 translate schinese_rewrite Moine_Introduction_d0d85bd1:
 
-    "你抬起你的头,他的徒弟的反射 让你几乎无法洞察到这个数字。"
+    "你抬起头，从他瞳孔中的倒影里勉强看清了那个身影。"
 
 translate schinese_rewrite Moine_Introduction_8e008212:
 
-    "他的小鹿角在月光下发光 你以前从未见过这样的生物。"
+    "他的鹿角在月光下闪闪发亮。你从未见过这样的生物，只有故事书里才会出现。"
 
 translate schinese_rewrite Moine_Introduction_f61f6aba:
 
-    my "Ru, ru.Rutt Chak 齐门。"
+    my "Ru, ru. Rutt chak Chime."
 
 translate schinese_rewrite Moine_Introduction_6f317147:
 
-    "听上去他好像在自欺欺人 但你听不懂他在说什么。"
+    "听起来他像是在自言自语，但你听不清他在说什么。"
 
 translate schinese_rewrite Moine_Introduction_0cdebb01:
 
-    yu "你想从我这里得到什么?"
+    yu "你想从我这里得到什么？"
 
 translate schinese_rewrite Moine_Introduction_1cbbc04c:
 
-    "你可以感觉到他的眼神穿透你的灵魂,在你的左右摇晃。你不知道已经过了多少时间,但你的身体却在颤抖。"
+    "你能感觉到他的目光刺穿灵魂，在你身上来回打量。你不知道时间过去了多久，但身体正在发抖。"
 
 translate schinese_rewrite Moine_Introduction_3daadd64:
 
-    my "Ik cha, padzrutt cha gliiz aulu, Svupz chak tek... ptaalzan. ptaalzan. 斯沃普兹 chak tek... ptaalzan. ptaalzan. 斯沃普兹 tek... ptaalzan. 斯沃普兹 tek... ptaalzan."
+    my "Ik cha, paidzrutt cha gliiz alu. Svupz chak tek... ptaalzan."
 
 translate schinese_rewrite Moine_Introduction_2736d248:
 
-    "你不明白他在说什么 但你肯定他说话时不会动他的嘴 并且会把鹅卵糖 直接塞进你的脊椎里。"
+    "你听不懂他在说什么，但你确定他说话时嘴巴根本没有动，这让你的脊背直起鸡皮疙瘩。"
 
 translate schinese_rewrite Moine_Introduction_e5d7098a:
 
-    "你的心灵在尖叫着要你离开这里 但你的身体从不回应 反而冻结在原地 就像被猎物吃掉的猎物一样。"
+    "你的脑海尖叫着让你赶快离开，可身体却毫无反应；你僵在原地，像一只等着被捕食的猎物。"
 
 translate schinese_rewrite Moine_Introduction_ab518c94:
 
-    my "乌兹·卢兹·希兹科姆·阿查·卡利夫·扎克洛、特纳克佐姆·卢斯·普罗·希兰。"
+    my "Muzz lus hezzikom acha ik criv ziklo, tenkzom lus puro hylan."
 
 translate schinese_rewrite Moine_Introduction_4559a2c5:
 
-    yu "你知道奇梅的事吗 你见过他吗？"
+    yu "你知道齐门的事吗？你见过他吗？"
 
 translate schinese_rewrite Moine_Introduction_bdab0f13:
 
@@ -1179,35 +1179,35 @@ translate schinese_rewrite Moine_Introduction_bdab0f13:
 
 translate schinese_rewrite Moine_Introduction_7bf2af0a:
 
-    "你点头,你的声音在颤抖 也许毕竟有希望再见到奇米。"
+    "你点了点头，声音微微发抖，也许你终于还有希望再次见到齐门。"
 
 translate schinese_rewrite Moine_Introduction_eade3896:
 
-    "你等待,但陌生人 只会抓他的头, 可能是在混乱或不相信。"
+    "你满怀期待地等待着，但陌生人只是挠了挠头，可能是困惑，也可能是不敢相信。"
 
 translate schinese_rewrite Moine_Introduction_5b7bac12:
 
-    my "Ik lus frizzrutt, chaenni up enni of fineinslan. 来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,来,。"
+    my "我才知道你们是朋友。"
 
 translate schinese_rewrite Moine_Introduction_2d325f33:
 
-    yu "这没有帮助, 即使你给我的答案 我也不会理解。"
+    yu "这帮不上什么忙，就算你回答了我，我也听不懂。"
 
 translate schinese_rewrite Moine_Introduction_ab8e215e:
 
-    my "Telaa。"
+    my "Telaa."
 
 translate schinese_rewrite Moine_Introduction_aae5c62a:
 
-    "你眉毛伸直 试图在他的话之间读懂 但你还是不明白他在说什么。"
+    "你皱起眉头，试图从他的话里听出端倪，但还是无法听懂。"
 
 translate schinese_rewrite Moine_Introduction_921f5ce6:
 
-    "陌生人伸出手 拍拍你的头 你就能感受到他的掌的温暖。"
+    "陌生人伸出手，拍了拍你的头，你能感受到他掌心的温度。"
 
 translate schinese_rewrite Moine_Introduction_c046c51a:
 
-    "你仍然不确定他的意图 但你不能不感到一点宽慰 因为他的姿态。"
+    "尽管如此，你仍不清楚他的意图，但这个动作还是让你稍微松了口气。"
 
 translate schinese_rewrite Moine_Introduction_1265e768:
 
@@ -1215,235 +1215,235 @@ translate schinese_rewrite Moine_Introduction_1265e768:
 
 translate schinese_rewrite Moine_Introduction_bf5ae669:
 
-    "陌生人向前走几步 每一步只会令你更加焦虑。"
+    "陌生人向前走了几步，每一步都让你更加焦虑。"
 
 translate schinese_rewrite Moine_Introduction_0784656a:
 
-    my "Wru ettuiaad denn gwid logzor。"
+    my "最终我们还会见面的。"
 
 translate schinese_rewrite Moine_Introduction_f44053af:
 
-    "陌生人看起来左右看似在期待什么。"
+    "陌生人左右张望，仿佛在等着什么。"
 
 translate schinese_rewrite Moine_Introduction_25974e23:
 
-    my "Wru fininklo, 查克 Hezzilikaad zruhez ettu adenni, denni supz gritz fininklo. 查克· 赫兹里卡德 兹鲁赫兹 ettu adenni, denni supz grikz fininklo。"
+    my "Wru fiinklo, chak hezzillikaad zruhez ettu adenni, denni supz grikz fiinklo."
 
 translate schinese_rewrite Moine_Introduction_324e4153:
 
-    "你盯着他看 看着他后面的东西 然后拿出一个木箱。"
+    "你盯着那个男人，只见他从身后拿出一个巨大的木盒。"
 
 translate schinese_rewrite Moine_Introduction_7ff25ea7:
 
-    "有一些条件附着在它上面,而他却在他们面前摆布。"
+    "盒子上系着几根弦，他正摆弄着它们。"
 
 translate schinese_rewrite Moine_Introduction_1e38fc67:
 
-    "他盯着你看了几秒钟,然后在盒子上放个曲子。"
+    "他盯着你看了几秒，然后在盒子上弹起一段曲调。"
 
 translate schinese_rewrite Moine_Introduction_47919ae4:
 
-    yu "你在做什么?"
+    yu "你在做什么？"
 
 translate schinese_rewrite Moine_Introduction_18fa06f4:
 
-    "陌生人给你一眼一眼,然后回来照顾他的盒子。"
+    "陌生人侧眼瞥了你一下，随后继续照看他的盒子。"
 
 translate schinese_rewrite Moine_Quick_Introduction_045c657d:
 
-    "月光太暗了 你几乎无法弥补他身体的轮廓。"
+    "那是一头披着绿色兜帽的麋鹿，头上长着一对威严的鹿角。月光太暗，你几乎只能看清他的轮廓。"
 
 translate schinese_rewrite Moine_Quick_Introduction_b9e972d0:
 
-    "兜帽男盖着他的脸 他站着别动 面对你 好像他一直在等你一样。"
+    "兜帽遮住了他的脸，他一动不动地面向你站着，仿佛早就在等你。"
 
 translate schinese_rewrite Moine_Quick_Introduction_27b9a93b:
 
-    "你甚至不知道他是否在看你 或者他的眼睛是否固定在别的东西上。"
+    "你甚至无法判断他是在看着你，还是把目光落在别的什么地方。"
 
 translate schinese_rewrite Moine_Quick_Introduction_38f30e8f:
 
-    "突然,你心中的恐惧 淹没了你的整个身体, 导致你的腿放弃。"
+    "突然，心中的恐惧压垮了你的整个身体，双腿顿时失去了力气。"
 
 translate schinese_rewrite Moine_Quick_Introduction_cccbc74d:
 
-    my "Muzz Lus baerzom acha。"
+    my "Muzz lus baerzom acha."
 
 translate schinese_rewrite Moine_Quick_Introduction_6bdaa192:
 
-    my "Kiz chime, Lus muszz ru yaglola laarelan。 基兹 奇米, 卢斯 穆兹 鲁亚格罗 拉亚雷兰。"
+    my "Kiz chime, ik Lus muzz ru yaglo laarelan."
 
 translate schinese_rewrite Moine_Quick_Introduction_2060d156:
 
-    yu "你在说什么?"
+    yu "你、你在说什么？"
 
 translate schinese_rewrite Moine_Quick_Introduction_e74c03c0:
 
-    "鹦鹉正在匆忙地通过他的演讲, 他似乎非常激动, 也许他试图避免 被抓住因为铃声。"
+    "麋鹿说得又快又急，显得十分躁动。也许他是因为钟声而想躲开追捕。"
 
 translate schinese_rewrite Moine_Quick_Introduction_e97bee7c:
 
-    my "Denni supz grikz fininklo!"
+    my "我们必须现在出发！"
 
 translate schinese_rewrite Moine_Quick_Introduction_324e4153:
 
-    "你盯着他看 看着他后面的东西 然后拿出一个木箱。"
+    "你盯着那个男人，只见他从身后拿出一个巨大的木盒。"
 
 translate schinese_rewrite Moine_Quick_Introduction_7ff25ea7:
 
-    "有一些条件附着在它上面,而他却在他们面前摆布。"
+    "盒子上系着几根弦，他正摆弄着它们。"
 
 translate schinese_rewrite Moine_Quick_Introduction_1e38fc67:
 
-    "他盯着你看了几秒钟,然后在盒子上放个曲子。"
+    "他盯着你看了几秒，然后在盒子上弹起一段曲调。"
 
 translate schinese_rewrite Moine_Quick_Introduction_47919ae4:
 
-    yu "你在做什么?"
+    yu "你在做什么？"
 
 translate schinese_rewrite Moine_Quick_Introduction_18fa06f4:
 
-    "陌生人给你一眼一眼,然后回来照顾他的盒子。"
+    "陌生人侧眼瞥了你一下，随后继续照看他的盒子。"
 
 translate schinese_rewrite Moine_Inbetween_Land_e9e2276c:
 
-    "他弹的曲子很奇怪,但很不耐烦。"
+    "他是在演奏曲调吗？旋律很奇怪，让人心里发毛。"
 
 translate schinese_rewrite Moine_Inbetween_Land_0a9b80e6:
 
-    "陌生人肯定不只是为了给你唱首歌 而只是用他演奏的曲子 你怀疑他有什么恶意。"
+    "陌生人显然不是专程来给你演奏一曲的，但听着他弹奏的曲调，你又觉得他似乎并没有恶意。"
 
 translate schinese_rewrite Moine_Inbetween_Land_2d966d51:
 
-    yu "啊？"
+    yu "嗯？"
 
 translate schinese_rewrite Moine_Inbetween_Land_5cfc1e5e:
 
-    "你并不确定这是逐渐还是突然的, 但是在这黑暗的夜晚,你周围的一切 开始微微的发光。"
+    "你不确定这一切是逐渐发生的，还是突然发生的，但在这漆黑的夜里，周围的一切开始泛起淡淡的蓝光。"
 
 translate schinese_rewrite Moine_Inbetween_Land_66860aab:
 
-    "陌生人的调子越来越响,越来越快, 和光亮越来越亮。"
+    "陌生人的曲调越来越响，也越来越快，蓝光随之变得更加明亮。"
 
 translate schinese_rewrite Moine_Inbetween_Land_6b2fe10e:
 
-    yu "发生了什么?"
+    yu "发生什么事了？"
 
 translate schinese_rewrite Moine_Inbetween_Land_0a6cb23e:
 
-    "第一次,你看到陌生人的脸 在兜帽下, 一股棕色的头发, 以及他眼睛周围的毛圈。"
+    "你第一次透过兜帽看清陌生人的脸：蓬松的棕发，以及眼睛周围一圈圈的毛发。"
 
 translate schinese_rewrite Moine_Inbetween_Land_2e79bd6a:
 
-    my "Kiz chime。"
+    my "不要激动。"
 
 translate schinese_rewrite Moine_Inbetween_Land_2bbcec51:
 
-    "陌生人唱歌的声音很不高兴, 和他演奏的舒缓的旋律相冲突。"
+    "陌生人用相当粗哑的嗓音歌唱，与他奏出的舒缓旋律格格不入。"
 
 translate schinese_rewrite Moine_Inbetween_Land_688d3f0c:
 
-    "每次你听到他说出奇梅的话,你都要保持自己的体格,这次没什么不同。"
+    "每次听到他吐出“齐门”这个词，你都会努力保持镇定。这一次也不例外。"
 
 translate schinese_rewrite Moine_Inbetween_Land_5adac792:
 
-    "寒风在你身边飘飘 皮肤上也感到寒冷。"
+    "一阵冷风在你周围打着旋，你能感到寒意掠过皮肤。"
 
 translate schinese_rewrite Moine_Inbetween_Land_770b1a93:
 
-    "也许这就是你如何接近 现在发生的事情, 但至少,你没有感觉 像以前一样害怕。"
+    "也许这正是你接近真相、弄清眼前发生的一切的方式，但至少，你已经不像之前那么害怕了。"
 
 translate schinese_rewrite Moine_Inbetween_Land_6a51a6f8:
 
-    "陌生人什么都不说,他慢慢地闭上眼睛,继续用手指指着绳子。"
+    "陌生人一言不发，缓缓闭上眼睛，手指继续在琴弦上飞舞。"
 
 translate schinese_rewrite Moine_Inbetween_Land_819847e9:
 
-    "风的尘埃将你吹走 你几乎用气流的力量 倒在地上。"
+    "一阵阵狂风将你吹得向后退去，气流的力量几乎让你摔倒在地。"
 
 translate schinese_rewrite Moine_Inbetween_Land_8039275f:
 
-    "你深呼吸,尽量保持眼睛睁开, 但风太强,一切都太明亮。"
+    "你深吸一口气，试着睁开眼睛，但风太强了，一切都亮得刺眼。"
 
 translate schinese_rewrite Moine_Inbetween_Land_4abf10e0:
 
-    "当他继续玩耍时,鹿头突然向你吹风,使你无法移动。"
+    "他继续演奏着，雄鹿突然朝你卷来一阵狂风，让你动弹不得。"
 
 translate schinese_rewrite Moine_Inbetween_Land_8b2dc3eb:
 
-    yu "W -什么,放开我!"
+    yu "什、什么？放开我！"
 
 translate schinese_rewrite Moine_Inbetween_Land_69aed4ca:
 
-    "你试图将咒语推开,但这是徒劳的。你以前从未见过这样的事,你不确定你是否能对此做点什么。"
+    "你试图推开这道法术，但徒劳无功。你从未见过这样的事，也不知道自己能否做些什么。"
 
 translate schinese_rewrite Moine_Inbetween_Land_a6d34fbc:
 
-    "他在继续演奏他的曲调之前,又给你看了一眼一眼。"
+    "他又侧眼看了你一下，随后继续吹奏曲调。"
 
 translate schinese_rewrite Moine_Inbetween_Land_97579537:
 
-    "突然,地面脉冲, 你的脚趾开始离开地面。"
+    "突然，地面开始脉动，你的脚趾渐渐离开地面。"
 
 translate schinese_rewrite Moine_Inbetween_Land_2d966d51_1:
 
-    yu "啊？"
+    yu "嗯？"
 
 translate schinese_rewrite Moine_Inbetween_Land_18ece16b:
 
-    "你漂浮在空中 周围的一切 都闪耀着蓝蓝的光芒。"
+    "你漂浮在空中，周围的一切越来越蓝。"
 
 translate schinese_rewrite Moine_Inbetween_Land_9bad81c0:
 
-    "陌生人用手腕绕着绳子转动, 几乎感觉时间越来越快。"
+    "陌生人手腕一翻，拨弄着琴弦，时间仿佛越过越快。"
 
 translate schinese_rewrite Moine_Inbetween_Land_383b2c40:
 
-    yu "我早该等赫宗。"
+    yu "该、该死……我真该等赫宗一起的……"
 
 translate schinese_rewrite Moine_Inbetween_Land_b3f71c78:
 
-    "你大声思考, 你们两个漂浮在空中, 在你达到足够高 能看到树顶, 和望塔从远处。"
+    "你不由自主地说出声来。你们两个漂浮在空中，直到升得足够高，能从远处看见树顶和瞭望塔。"
 
 translate schinese_rewrite Moine_Inbetween_Land_991c1aea:
 
-    "现在才发现一切都变得模糊了 森林里所有的树 混合成你视觉中的蓝色泥浆。"
+    "直到这时你才发现，周围的一切都变得模糊不清；森林里的树木在你的视野中融成一片浑浊的蓝色。"
 
 translate schinese_rewrite Moine_Inbetween_Land_3cb2a372:
 
-    "看着,即使月亮也开始流血 进入星空之夜 当你擦擦你的眼睛 以获得更清晰的视野。"
+    "你抬头望去，连月亮也开始融进繁星点点的夜空。你揉了揉眼睛，想看得更清楚些。"
 
 translate schinese_rewrite Moine_Inbetween_Land_966cdbec:
 
-    yu "正在发生的事情..."
+    yu "发生什么事了……"
 
 translate schinese_rewrite Moine_Inbetween_Land_ea2fc4b4:
 
-    "那只鹿不会盯着眼睛 只专注于你和他一起 纠缠在一起的混乱曲子。"
+    "那头雄鹿无动于衷，只专注于混乱的曲调，任由它将你和他一同缠绕其中。"
 
 translate schinese_rewrite Moine_Inbetween_Land_b4150ddd:
 
-    "慢慢地,你周围的世界变成纯粹的虚无 你脚下什么都没有 除了陌生人的合唱。"
+    "周围的世界慢慢化为一片虚无，脚下什么都没有，除了陌生人的歌声，什么也没有。"
 
 translate schinese_rewrite Moine_Inbetween_Land_86b13304:
 
-    "你环顾四周,一切都是蓝色的光芒, 包层白丝穿过天空, 穿过天空。"
+    "你环顾四周，一切都泛着蓝光，偶尔有白色光痕划过，朝着那片所谓的天空而去。"
 
 translate schinese_rewrite Moine_Inbetween_Land_6e08b065:
 
-    "你跨过双臂 等待他的音乐结束。"
+    "你抱起双臂，等待他的音乐结束。"
 
 translate schinese_rewrite Moine_Inbetween_Land_bfda21c2:
 
-    "他的手指仍然在跳舞 弦, 他的每一个运动只 让你越来越远 远离国土。"
+    "他的手指仍在弦上飞舞，每一个动作都把你送得离大地越来越远。"
 
 translate schinese_rewrite Moine_Inbetween_Land_72431f2b:
 
-    "你唯一能做的就是 环顾无物 感觉怪怪的 但你不再害怕了。"
+    "你唯一能做的就是环顾这片虚无。这感觉很奇怪，但你已经不再害怕。"
 
 translate schinese_rewrite Moine_Inbetween_Land_7325461b:
 
-    "慢慢闭上眼睛 让音乐把你带走。"
+    "你慢慢闭上双眼，任由音乐带你远去。"
 
 translate schinese_rewrite Moine_Inbetween_Land_a20cefa7:
 
@@ -1456,34 +1456,33 @@ translate schinese_rewrite Moine_Inbetween_Land_a20cefa7_1:
 translate schinese_rewrite Moine_Inbetween_Land_03317b51:
 
     yu "齐门...我希望你没事..."
-
 translate schinese_rewrite Moine_Inbetween_Land_27d67356:
 
-    yu "即使你在其他土地上, 我会找到你,我保证。"
+    yu "即使你身处另一片土地，我也会找到你，我保证。"
 
 translate schinese_rewrite Moine_Inbetween_Land_6d0bc123:
 
-    "你想想你自己, 当你在空中漂浮。"
+    "你一边漫无目的地漂浮在空中，一边在心里想着。"
 
 translate schinese_rewrite Moine_Inbetween_Land_2d966d51_2:
 
-    yu "啊？"
+    yu "嗯？"
 
 translate schinese_rewrite Moine_Inbetween_Land_7f2a5131:
 
-    "突然,你周围的一切 都恢复正常了,你又回到了地上。"
+    "突然，周围的一切恢复正常，你向地面坠落下去。"
 
 translate schinese_rewrite Moine_Inbetween_Land_338c41e6:
 
-    yu "Arghhhhhh-!"
+    yu "啊啊啊——！"
 
 translate schinese_rewrite Moine_Inbetween_Land_315d1b40:
 
-    "你仍然可以感觉到你坠落时 皮肤上的冰冷空气 你抬头看 发现陌生人已经消失了。"
+    "坠落时，你的皮肤依旧能感受到刺骨的寒气。你抬头一看，发现陌生人已经消失不见。"
 
 translate schinese_rewrite Moine_Inbetween_Land_ea574d8a:
 
-    "你知道的最后一件事, 你用一个响亮的震动击倒地面。"
+    "你只知道最后自己重重地砸在地上。"
 
 translate schinese_rewrite Moine_Inbetween_Land_78a91ba1:
 
@@ -1491,51 +1490,51 @@ translate schinese_rewrite Moine_Inbetween_Land_78a91ba1:
 
 translate schinese_rewrite Moine_Inbetween_Land_171f4c35:
 
-    "你浮向鹿群 要求得到这种疯狂的答案 但他没有回应。"
+    "你漂向雄鹿，要求他解释这一切疯狂的事，但他没有回应。"
 
 translate schinese_rewrite Moine_Inbetween_Land_bfda21c2_1:
 
-    "他的手指仍然在跳舞 弦, 他的每一个运动只 让你越来越远 远离国土。"
+    "他的手指仍在弦上飞舞，每一个动作都把你送得离大地越来越远。"
 
 translate schinese_rewrite Moine_Inbetween_Land_3f93dd57:
 
-    "你想把他推开,但他不动。"
+    "你试图推开他，但他纹丝不动。"
 
 translate schinese_rewrite Moine_Inbetween_Land_3e07c620:
 
-    "陌生人盯着你 狂野地盯着你 让你害怕。"
+    "陌生人凶狠地瞪着你，让你猝不及防。"
 
 translate schinese_rewrite Moine_Inbetween_Land_51d74bbe:
 
-    yu "先回答我,你把奇梅藏哪儿了?"
+    yu "先回答我的问题！你把齐门藏到哪里去了？"
 
 translate schinese_rewrite Moine_Inbetween_Land_9a944cfb:
 
-    "你再次对陌生人施压, 这一次它弄乱了他的调子, 你可以感觉到周围的世界 你开始崩溃。"
+    "你再次用力推向陌生人，这一次打乱了他的曲调，你能感觉到周围的世界开始崩塌。"
 
 translate schinese_rewrite Moine_Inbetween_Land_0a70b552:
 
-    "陌生人的眼睛睁大了 他看着你 好像他想告诉你一样。"
+    "陌生人双眼睁得大大的，盯着你，仿佛想要告诉你什么。"
 
 translate schinese_rewrite Moine_Inbetween_Land_2d966d51_3:
 
-    yu "啊？"
+    yu "嗯？"
 
 translate schinese_rewrite Moine_Inbetween_Land_3208312b:
 
-    "但太迟了 突然间你周围的一切 都恢复正常了 你却要掉回地上。"
+    "但已经太晚了，周围的一切突然恢复正常，你向地面坠落下去。"
 
 translate schinese_rewrite Moine_Inbetween_Land_338c41e6_1:
 
-    yu "Arghhhhhh-!"
+    yu "啊啊啊——！"
 
 translate schinese_rewrite Moine_Inbetween_Land_94eb6e77:
 
-    "你仍然可以感觉到你坠落时皮肤上的冷冻空气, 你抬起头来,看到陌生人漂浮的袖子,盯着你。"
+    "坠落时，你的皮肤依旧能感受到刺骨的寒气。你抬头一看，发现陌生人正漂浮在空中，静静地看着你。"
 
 translate schinese_rewrite Moine_Inbetween_Land_ea574d8a_1:
 
-    "你知道的最后一件事, 你用一个响亮的震动击倒地面。"
+    "你只知道最后自己重重地砸在地上。"
 
 translate schinese_rewrite Moine_Inbetween_Land_a20cefa7_2:
 

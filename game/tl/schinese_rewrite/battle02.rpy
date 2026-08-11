@@ -3,87 +3,87 @@
 
 translate schinese_rewrite Ability_Item_194497cc:
 
-    "你不能用这种能力对付敌人。"
+    "无法对敌人使用该技能。"
 
 translate schinese_rewrite Ability_Item_194497cc_1:
 
-    "你不能用这种能力对付敌人。"
+    "无法对敌人使用该技能。"
 
 translate schinese_rewrite Ability_Item_194497cc_2:
 
-    "你不能用这种能力对付敌人。"
+    "无法对敌人使用该技能。"
 
 translate schinese_rewrite Ability_Item_194497cc_3:
 
-    "你不能用这种能力对付敌人。"
+    "无法对敌人使用该技能。"
 
 translate schinese_rewrite Ability_Item_194497cc_4:
 
-    "你不能用这种能力对付敌人。"
+    "无法对敌人使用该技能。"
 
 translate schinese_rewrite Ability_Item_194497cc_5:
 
-    "你不能用这种能力对付敌人。"
+    "无法对敌人使用该技能。"
 
 translate schinese_rewrite Use_Green_Ointment_b43b395e:
 
-    "你用绿色药膏 恢复80个HP和80个MP 你的润滑剂也下降了30个。"
+    "你使用了绿色药膏，恢复80点生命值和80点魔力；欲望也降低了30点。"
 
 translate schinese_rewrite Use_Green_Ointment_72a1e29f:
 
-    "绿药膏也净化了你的负面效应。"
+    "绿色药膏还清除了你身上的所有负面效果。"
 
 translate schinese_rewrite Use_Small_HP_65afbddd:
 
-    "你用了一瓶小HP药水 治愈了40HP。"
+    "你喝下一瓶小型生命药水，恢复40点生命值。"
 
 translate schinese_rewrite Use_Small_MP_f389ffa5:
 
-    "你用一瓶小MP药水 回收了40个MP。"
+    "你喝下一瓶小型魔力药水，恢复40点魔力。"
 
 translate schinese_rewrite Use_Strength_883b8e8a:
 
-    "你用了一瓶烈性药剂 伤势现在增加了三发。"
+    "你喝下一瓶力量药水，接下来3回合内伤害提高。"
 
 translate schinese_rewrite Use_Accuracy_Potion_7eb5abde:
 
-    "你用了一瓶精密药剂 现在的精度增加了三发。"
+    "你喝下一瓶精准药水，接下来3回合内命中率提高。"
 
 translate schinese_rewrite Use_Tenacity_Potion_eb3ca5fb:
 
-    "你用了一瓶耐久药水 现在防守增加了三轮。"
+    "你喝下一瓶坚韧药水，接下来3回合内防御提高。"
 
 translate schinese_rewrite Ability_Self_Heal_90794f49:
 
-    "你用自我治愈,你的健康 上升[healing]HP。"
+    "你施放自愈，恢复了[healing]点生命值。"
 
 translate schinese_rewrite Ability_Fiery_Charge_44eed36a:
 
-    "[target.name]上使用火药充电 处理[scorch_damage]HP损坏 现在已经烧焦了。"
+    "你对[target.name]使用烈焰冲锋，造成[scorch_damage]点伤害。它现在被灼烧了。"
 
 translate schinese_rewrite Ability_Fiery_Charge_c8ed4ac1:
 
-    "你对[target.name]使用火力充电,他们继续被烧焦,再用两发子弹。"
+    "你对[target.name]使用烈焰冲锋；灼伤效果延长2回合。"
 
 translate schinese_rewrite Ability_Piercing_Blow_5065192f:
 
-    "你用刺穿的打击,你的正常攻击 下一轮将严重打击, 和你的严重损害 也增加。"
+    "你施放穿刺打击；下一回合的普通攻击必定命中并造成暴击，暴击伤害也会提高。"
 
 translate schinese_rewrite Ability_Fortify_2faf436f:
 
-    "你 施 魔法 时、 用 防御、 你 的 身 体 闪 亮、 闪 亮。 你 的 防御、 就 向 本 回合 上升。"
+    "你施放强化，魔法的光辉映照在身上。本回合内，你的防御提高了。"
 
 translate schinese_rewrite Ability_Alluring_Lust_0f713c76:
 
-    "你将咒语施在身体上。你的身体现在看起来更柔软,更柔软,更柔软,吸引[enemy.name]来抓住它,并抚摸它。"
+    "你将法术施加于自身。你的身体变得更加柔软、灵活，诱得[enemy.name]伸手抓揉。"
 
 translate schinese_rewrite Ability_Tranquil_Mend_efcd6bbd:
 
-    "你修补了镇静 治疗了自己 接下来几轮。"
+    "你施放宁静疗愈，接下来几回合内持续恢复生命。"
 
 translate schinese_rewrite Ability_Camouflage_c4a40411:
 
-    "你当着敌人的面伪装身体 你的躲避率在战斗的余下时间会提高。"
+    "你在敌人面前将身形隐入伪装，直到战斗结束前，闪避率都会提高。"
 
 translate schinese_rewrite Ability_CoreStrike_c6150938:
 
@@ -93,111 +93,111 @@ translate schinese_rewrite Ability_CoreStrike_905c13df:
     "你击中[target.name]的要害，使[target.name]倒地。你造成[player_damage]点伤害，并使[target.name]眩晕[stunned.max_rounds]回合。"
 translate schinese_rewrite Ability_Resolution_8f64a376:
 
-    "你用了分辨率,用[reduced_lust]减少了你目前的欲望。"
+    "你施放决意，当前欲望降低了[reduced_lust]点。"
 
 translate schinese_rewrite Ability_Immolation_6adbeaba:
 
-    "你对[target.name]施以咒语 并消灭所有敌人 处理[immolation_damage]HP损坏。"
+    "你对[target.name]施放法术，将所有敌人焚毁，造成[immolation_damage]点伤害。"
 
 translate schinese_rewrite Ability_Immolation_d082cdbc:
 
-    "你对[target.name]施以咒语, 并释放所有敌人, 烧焦的目标 被处理[immolation_damage]HP损坏。"
+    "你对[target.name]施放法术，将所有敌人焚毁；已被灼烧的目标受到[immolation_damage]点伤害。"
 
 translate schinese_rewrite Ability_Spectral_Orb_3a4a72c9:
 
-    "你发明了一个光谱球体, 它在你周围漂浮。"
+    "你召出一枚幽灵光球，它在身边缓缓漂浮。"
 
 translate schinese_rewrite Ability_Spectral_Orb_347afc83:
 
-    "现在你们有[orbed.rounds] 球体, 把它们都炸开, 所有敌人都被处理[orb_damage] HP。"
+    "你现在有[orbed.rounds]枚光球，将它们全部向前轰出，所有敌人受到[orb_damage]点伤害。"
 
 translate schinese_rewrite Enemy_Self_Healing_0302ae67:
 
-    "[healed_enemy.img]为[heal_amount_int] HP治愈。"
+    "[healed_enemy.img]恢复了[heal_amount_int]点生命值。"
 
 translate schinese_rewrite Enemy_Self_Purifying_bbe1008c:
 
-    "[purified_enemy.img]已经减少了[lust_amount]液体。"
+    "[purified_enemy.img]的欲望降低了[lust_amount]点。"
 
 translate schinese_rewrite Enemy_Damaging_c15a3826:
 
-    "你被敌人的刺伤了 你的健康下降了 [thorned_rounds] HP。"
+    "你被敌人的尖刺刺伤，生命值减少了[thorned_rounds]点。"
 
 translate schinese_rewrite Damaging_9854c4cc:
 
-    "[aggressor_name!t]因刺伤受伤,失去[thorned_rounds] HP。"
+    "[aggressor_name!t]被尖刺刺伤，失去[thorned_rounds]点生命值。"
 
 translate schinese_rewrite Damaging_1b1339d3:
 
-    "[aggressor_name!t]因刺伤受伤,失去[thorned_rounds]HP。 Spirespike又增加了5根刺。"
+    "[aggressor_name!t]被尖刺刺伤，失去[thorned_rounds]点生命值。尖塔刺又生出5根尖刺。"
 
 translate schinese_rewrite Damaging_91288165:
 
-    "[aggressor_name!t] 被刺伤, 失去[thorned_rounds] HP。"
+    "[aggressor_name!t]被尖刺刺伤，失去[thorned_rounds]点生命值。"
 
 translate schinese_rewrite Battle_End_Check_78e7c049:
 
-    "你的健康因出血而下降 [wounded_damage]。"
+    "你因伤口流血，生命值减少了[wounded_damage]点。"
 
 translate schinese_rewrite Battle_End_Check_ec76cae4:
 
-    "你的性欲因魅力而增加 [charmed_damage]。"
+    "魅惑使你的欲望增加了[charmed_damage]点。"
 
 translate schinese_rewrite Battle_End_Check_b95320fb:
 
-    "冷冻剂导致[frozen_damage] HP降低你的健康状况。"
+    "冻伤使你的生命值减少了[frozen_damage]点。"
 
 translate schinese_rewrite Battle_End_Check_319fb841:
 
-    "下一轮你被吓呆了。"
+    "你将在下一回合陷入眩晕。"
 
 translate schinese_rewrite Battle_End_Check_1679761b:
 
-    "你治愈了\"清静门\"的[healamount]!"
+    "宁静疗愈为你恢复了[healamount]点生命值！"
 
 translate schinese_rewrite Battle_End_Check_6c06d4d5:
 
-    "[ally.name]治愈的[healamount] 从特雷奎尔门德!"
+    "[ally.name]的生命值因宁静疗愈恢复了[healamount]点！"
 
 translate schinese_rewrite Battle_End_Check_2732cb22:
 
-    "[enemy.name]仍在燃烧,受到[scorched.effect] HP的损坏。"
+    "灼伤仍在持续，[enemy.name]受到[scorched.effect]点生命值伤害。"
 
 translate schinese_rewrite Battle_End_Check_c6a218ef:
 
-    "[enemy.name]的健康状况从出血中下降了[wounded_damage]。"
+    "[enemy.name]因流血而损失[wounded_damage]点生命值。"
 
 translate schinese_rewrite Battle_End_Check_b20e7375:
 
-    "[enemy2.name]仍在燃烧,受到[scorched.effect] HP的损坏。"
+    "灼伤仍在持续，[enemy2.name]受到[scorched.effect]点生命值伤害。"
 
 translate schinese_rewrite Battle_End_Check_0575b416:
 
-    "[enemy2.name]的健康状况从出血中下降了[wounded_damage]。"
+    "[enemy2.name]因流血而损失[wounded_damage]点生命值。"
 
 translate schinese_rewrite Battle_Kari_a9f4cce1:
 
-    "轮到你之后,卡里向前一步,用他的权杖打击[enemy.name],将[kari_damage]与[enemy.name]进行交易。"
+    "轮到你之后，卡里上前一步，用权杖击打[enemy.name]，造成[kari_damage]点伤害，正中[enemy.name]。"
 
 translate schinese_rewrite Battle_Kari_a2131bdc:
 
-    k "邪恶的怪物,现在是你死的时候!"
+    k "邪恶的怪物，现在就是你的死期！"
 
 translate schinese_rewrite Battle_Kari_9f46ba03:
 
-    e "嘿... 它可能听不到你说话。"
+    e "喂、喂……它大概听不见你说话。"
 
 translate schinese_rewrite Battle_Kari_188e5f4f:
 
-    "轮到你之后,卡里用流水的力量 治愈你的伤口, 你的HP增加[kari_healing]。"
+    "你的回合结束后，卡里借助流水之力治愈你的伤口，你的生命值增加了 [kari_healing]。"
 
 translate schinese_rewrite Battle_Kari_e16dd3fd:
 
-    k "嗯... 终于开始用我的咒语了 我猜是给你的 送信人。"
+    k "嗯……终于可以施展法术了，看来是用在你身上，信使。"
 
 translate schinese_rewrite Battle_Kari_1aa8b32d:
 
-    e "谢谢,凯里,你帮了大忙。"
+    e "谢谢你，卡里。你帮了大忙。"
 
 translate schinese_rewrite Battle_ASF_43d8069b:
 
@@ -205,299 +205,299 @@ translate schinese_rewrite Battle_ASF_43d8069b:
 
 translate schinese_rewrite Battle_ASF_28c0b179:
 
-    "你摆脱了[enemy.name]的控制。"
+    "你挣脱了[enemy.name]的钳制。"
 
 translate schinese_rewrite goat_guard_battle_85602d3b:
 
-    "你面对的是两个山羊战士,他们傲慢地挥舞长矛,劝你走近一点。你握紧拳头,握紧拳头。"
+    "你面对两名山羊战士。他们傲慢地挥舞长矛，示意你上前。你握紧双拳，摆出战斗姿态。"
 
 translate schinese_rewrite goat_guard_battle_69dd20cd:
 
-    "你面对的是两个山羊战士,他们傲慢地挥舞着长矛,劝你走近点。你拿着[pc.weapon.name!t]来防御。"
+    "你面对两名山羊战士。他们傲慢地挥舞长矛，示意你上前。你手持[pc.weapon.name!t]，严阵以待。"
 
 translate schinese_rewrite goat_guard_battle_d3e0f705:
 
-    "你面对的是两个山羊卫兵,他们傲慢地挥舞长矛,劝你走近一点。你握紧拳头,紧握拳头。"
+    "你面对两名山羊卫兵。他们傲慢地挥舞长矛，示意你上前。你握紧双拳，摆出战斗姿态。"
 
 translate schinese_rewrite goat_guard_battle_a4a73ada:
 
-    "你面对的是两个山羊卫兵,他们傲慢地挥舞长矛,劝你走近点。你将[pc.weapon.name!t]用于防御。"
+    "你面对两名山羊卫兵。他们傲慢地挥舞长矛，示意你上前。你手持[pc.weapon.name!t]，严阵以待。"
 
 translate schinese_rewrite goat_guard_battle_5c7bc106:
 
-    msg "按目标按钮来改变攻击目标!"
+    msg "按下目标按钮来切换攻击目标！"
 
 translate schinese_rewrite goat_guard_battle_loop_01724707:
 
-    k "我猜你到现在已经很了不起了。"
+    k "好、好吧……你能坚持到现在，已经很了不起了。"
 
 translate schinese_rewrite goat_guard_battle_loop_34d2c3e5:
 
-    "你把你的[pc.weapon.name!t]型型步枪 砍在山羊的手臂上 但他往后跳 避免了一英寸的打击。"
+    "你挥动[pc.weapon.name!t]砍向山羊的手臂，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite goat_guard_battle_loop_6114fbbe:
 
-    "你把你的[pc.weapon.name!t]冲向山羊的头 但他往后跳 避免了几英寸的打击。"
+    "你将[pc.weapon.name!t]朝山羊的头部挥去，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite goat_guard_battle_loop_363f2684:
 
-    "你瞄准和射你的[pc.weapon.name!t] 向山羊, 但他向后跳 并避免箭英寸。"
+    "你瞄准山羊射出[pc.weapon.name!t]，但他向后一跃，险之又险地避开了箭矢。"
 
 translate schinese_rewrite goat_guard_battle_loop_cdd88893:
 
-    "你用拳头对着山羊, 但他跳回去,避免一寸一寸的打击。"
+    "你一拳挥向山羊，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite goat_guard_battle_loop_2f0365c7:
 
-    goatguard "就像将军说的 你得提高目标。"
+    goatguard "正如将军所说，你得提高准头。"
 
 translate schinese_rewrite goat_guard_battle_loop_27738881:
 
-    goatguard2 "刚才真倒霉,再试一次,鲁斯特福克。"
+    goatguard2 "真可惜，再试一次吧，乐斯民菲尔德人。"
 
 translate schinese_rewrite goat_guard_battle_loop_8761d974:
 
-    goatguard "奉将军之命 我不会让你走近的！"
+    goatguard "奉将军之命，我不会让你再靠近一步！"
 
 translate schinese_rewrite goat_guard_battle_loop_8f8a1381:
 
-    goatguard2 "奉将军之命 我不会让你走近的！"
+    goatguard2 "奉将军之命，我不会让你再靠近一步！"
 
 translate schinese_rewrite goat_guard_battle_loop_c57f57d0:
 
-    "你用[pc.weapon.name!t]冲着山羊的手臂 刀片擦穿山羊的胃 血滴在他身上。"
+    "你挥动[pc.weapon.name!t]砍向山羊的手臂，刀锋擦过他的腹部，血珠从伤口滴落。"
 
 translate schinese_rewrite goat_guard_battle_loop_3f05fc52:
 
-    "你用[pc.weapon.name!t]冲着山羊的手臂,把他打倒在地。"
+    "你挥动[pc.weapon.name!t]砍向山羊的手臂，将他砍倒在地。他怒吼着爬起，显得狼狈不堪。"
 
 translate schinese_rewrite goat_guard_battle_loop_214f9883:
 
-    "你把你的[pc.weapon.name!t]射向山羊腹部,你的刀片擦穿他的胃,血滴在他的身上。"
+    "你将[pc.weapon.name!t]猛劈向山羊的腹部，刀锋擦过他的肚子，血珠沿着身体滴落。"
 
 translate schinese_rewrite goat_guard_battle_loop_b0ba93ae:
 
-    "你用[pc.weapon.name!t]冲着山羊的头,把他打倒在地上。"
+    "你将[pc.weapon.name!t]猛砸向山羊的头部，把他打倒在地。他怒吼着爬起，显得狼狈不堪。"
 
 translate schinese_rewrite goat_guard_battle_loop_4518a86c:
 
-    "你瞄准并射中你的[pc.weapon.name!t] 射向山羊, 箭直接击中他的肩膀。"
+    "你瞄准山羊射出[pc.weapon.name!t]，箭矢正中他的肩膀。"
 
 translate schinese_rewrite goat_guard_battle_loop_94870dd3:
 
-    "你跑去向山羊射击[pc.weapon.name!t],把他打倒在地上。"
+    "你边跑边朝山羊射出[pc.weapon.name!t]，将他射倒在地。他怒吼着爬起，显得狼狈不堪。"
 
 translate schinese_rewrite goat_guard_battle_loop_edffacb3:
 
-    "你拳头对着山羊 拳头直拳打他的脸 撞击他一拳就撞到地上。"
+    "你挥拳正中山羊的脸，巨大的冲击力把他打倒在地。"
 
 translate schinese_rewrite goat_guard_battle_loop_e02a18ea:
 
-    "你冲进山羊的胃 抓着他 狠狠地揍他一顿。"
+    "你一拳打中山羊的腹部，抓住他狠狠摔倒在地。"
 
 translate schinese_rewrite goat_guard_battle_loop_24bcc736:
 
-    "他的健康下降 [oa[4]] HP。"
+    "他的生命值减少了[oa[4]]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_18302ba4:
 
-    "看来你打中山羊了 卖[oa[4]]HP!"
+    "你似乎击中了山羊的要害，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite goat_guard_battle_loop_697ea8f5:
 
-    goatguard "幸运命中,你从那些卢斯特人那里学到的?"
+    goatguard "运气不错。你是从那些乐斯民菲尔德人那里学来的？"
 
 translate schinese_rewrite goat_guard_battle_loop_530796e0:
 
-    goatguard2 "说得好 但我不会高估你的。"
+    goatguard2 "这一击不错，不过我不会因此高估你。"
 
 translate schinese_rewrite goat_guard_battle_loop_74bded4f:
 
-    goatguard "妈的,这很痛,如果可以的话,我会放弃的。"
+    goatguard "操，好痛。如果可以，我真想直接认输。"
 
 translate schinese_rewrite goat_guard_battle_loop_65ae7b6e:
 
-    goatguard2 "Hnnnngh..."
+    goatguard2 "嗯……没、没什么。"
 
 translate schinese_rewrite goat_guard_battle_loop_362ddce1:
 
-    goatguard "你这小毛蜥蜴入侵者,我毫不留情地击倒你!"
+    goatguard "啊……什、什么……你这个毛蜥蜴入侵者，我要毫不留情地把你打倒！"
 
 translate schinese_rewrite goat_guard_battle_loop_bc578498:
 
-    goatguard2 "幸运的打击 让我教你如何战斗！"
+    goatguard2 "走、走运而已……我来教你什么才叫正确的战斗！"
 
 translate schinese_rewrite goat_guard_battle_loop_f59a01ab:
 
-    goatguard "将军,我们需要支援!"
+    goatguard "呃……怎么……我、我不行了。将军，我们需要……支援！"
 
 translate schinese_rewrite goat_guard_battle_loop_13e2c19d:
 
-    goatguard2 "我... 我要... 去... 过关。"
+    goatguard2 "嗯……我……要……晕过去了。"
 
 translate schinese_rewrite goat_guard_battle_loop_fdf9de27:
 
-    "你转过身去,用手摩擦自己的脸颊, 感觉和梳擦你的屁股,然后摇动你的臀部。"
+    "你转过身，双手在自己结实的臀肉上来回抚摸；摇动臀部时，还故意蹭了蹭屁股。"
 
 translate schinese_rewrite goat_guard_battle_loop_fb834191:
 
-    "你轻轻地刮伤了会员 将你的爪子从大腿伸到蛋蛋的背部 紧紧地拉着它。"
+    "你轻轻抓挠自己的胯下，利爪从大腿内侧划到睾丸后方；你紧紧拽住阳物，诱惑地盯着山羊。"
 
 translate schinese_rewrite goat_guard_battle_loop_c7da2682:
 
-    "你用毛毛的胸口杯子,在乳头周围画圆圈,对山羊微笑,胸口上下跳动时,你胸口轻轻地跳动。"
+    "你托住毛茸茸的胸膛，手指在乳头周围画圈。你朝山羊微笑，胸膛随着动作轻轻起伏。"
 
 translate schinese_rewrite goat_guard_battle_loop_7229a95f:
 
-    "你继续你的行为 大约一分钟, 但警卫甚至没有退缩。"
+    "你继续表演了大约一分钟，但卫兵连眼皮都没抬。"
 
 translate schinese_rewrite goat_guard_battle_loop_2f15fbab:
 
-    goatguard "嗯?这是干什么?"
+    goatguard "嗯？这是干什么？"
 
 translate schinese_rewrite goat_guard_battle_loop_1d5810e7:
 
-    goatguard2 "现在,这是一个真正的不幸, 我应该让你完成它自己。"
+    goatguard2 "这可真让人扫兴，我还是让你自己解决吧。"
 
 translate schinese_rewrite goat_guard_battle_loop_6d447c00:
 
-    goatguard "不,我不会爱上这个的。"
+    goatguard "不……我才不会上你的当。"
 
 translate schinese_rewrite goat_guard_battle_loop_0cdfd227:
 
-    goatguard2 "我闭上眼睛..."
+    goatguard2 "我闭上眼睛……"
 
 translate schinese_rewrite goat_guard_battle_loop_6c790980:
 
-    "几秒钟之内,你就能看见山羊腰下的一些动静。除了舔嘴唇外,他什么都不说。他的欲望增加了[player_flirt]。"
+    "几秒后，你已经能看到山羊的兜裆布下有了动静。他一言不发，只是舔着嘴唇。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_83b009ea:
 
-    goatguard "...如果你再这么做一次...。..我就抓住那大屁股..."
+    goatguard "……要、要是你再来一次，我就抓住那大屁股，再也不放手……"
 
 translate schinese_rewrite goat_guard_battle_loop_02192b96:
 
-    "你注意到山羊在打斗, 尽量不要被你的诱惑激怒, 但很明显,他冲洗的脸脸 告诉了一切。他的欲望因[player_flirt]而增加。"
+    "你注意到山羊手足无措，竭力不让自己被你的诱惑撩拨，可他涨红的脸已经说明一切。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_28908a7f:
 
-    goatguard2 "你在浪费时间,我不是..."
+    goatguard2 "你这是在浪费时间，我不……"
 
 translate schinese_rewrite goat_guard_battle_loop_6c790980_1:
 
-    "几秒钟之内,你就能看见山羊腰下的一些动静。除了舔嘴唇外,他什么都不说。他的欲望增加了[player_flirt]。"
+    "几秒后，你已经能看到山羊的兜裆布下有了动静。他一言不发，只是舔着嘴唇。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_30524ab3:
 
-    goatguard "我不知道... 我看见什么了... 但我有勃起..."
+    goatguard "我不确定……我看到的是什么……但我硬起来了……"
 
 translate schinese_rewrite goat_guard_battle_loop_02192b96_1:
 
-    "你注意到山羊在打斗, 尽量不要被你的诱惑激怒, 但很明显,他冲洗的脸脸 告诉了一切。他的欲望因[player_flirt]而增加。"
+    "你注意到山羊手足无措，竭力不让自己被你的诱惑撩拨，可他涨红的脸已经说明一切。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_5c9d5d6b:
 
-    goatguard2 "啊... 操 我就知道 你对作战训练太热了。"
+    goatguard2 "啊……操，我就知道，你实在太诱人了，根本不适合用来做战斗训练。"
 
 translate schinese_rewrite goat_guard_battle_loop_e389baf6:
 
-    "山羊卫兵对你的前程反应迅速,你已经听到他的快速呼吸和叫喊,紧紧握着他的长矛。他的欲望因[player_flirt]而增加。"
+    "山羊卫兵因你的挑逗而扭动起来；你已经能听见他急促的呼吸和闷哼，他仍紧紧攥着长矛。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_9b336743:
 
-    goatguard "不,我现在想不通了,该死。"
+    goatguard "不——我现在根本没法正常思考，该死。"
 
 translate schinese_rewrite goat_guard_battle_loop_31e631a3:
 
-    "你可以告诉警卫们,当他的手被拉在腰上时,他已经在自欺欺人,他满怀兴趣地盯着你的屁股,他的欲望因[player_flirt]而增加。"
+    "你看出那名卫兵已经把手伸进兜裆布里自慰，目光一动不动地盯着你的屁股。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_3ed6e883:
 
-    goatguard2 "我想说会后见 但将军来了。"
+    goatguard2 "嗯……我本想说训练结束后和我见面，可将军在这儿……"
 
 translate schinese_rewrite goat_guard_battle_loop_e389baf6_1:
 
-    "山羊卫兵对你的前程反应迅速,你已经听到他的快速呼吸和叫喊,紧紧握着他的长矛。他的欲望因[player_flirt]而增加。"
+    "山羊卫兵因你的挑逗而扭动起来；你已经能听见他急促的呼吸和闷哼，他仍紧紧攥着长矛。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_52bade86:
 
-    goatguard "我控制不住我的头脑,拜托"
+    goatguard "不——我、我控制不了自己的想法。求你……"
 
 translate schinese_rewrite goat_guard_battle_loop_31e631a3_1:
 
-    "你可以告诉警卫们,当他的手被拉在腰上时,他已经在自欺欺人,他满怀兴趣地盯着你的屁股,他的欲望因[player_flirt]而增加。"
+    "你看出那名卫兵已经把手伸进兜裆布里自慰，目光一动不动地盯着你的屁股。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_03761556:
 
-    goatguard2 "Hnnnngh... 我需要..."
+    goatguard2 "嗯……我、我需要……射出来……"
 
 translate schinese_rewrite goat_guard_battle_loop_d4aa607a:
 
-    "你试图逃离局势 但战士们不会让你走..."
+    "你试图逃离局面，但两名战士不让你走……"
 
 translate schinese_rewrite goat_guard_battle_loop_1e19c0fe:
 
-    "你试图逃离局势 但警卫不会让你走。"
+    "你试图逃离局面，但两名卫兵不让你走……"
 
 translate schinese_rewrite goat_guard_battle_loop_01724707_1:
 
-    k "我猜你到现在已经很了不起了。"
+    k "好、好吧……你能坚持到现在，已经很了不起了。"
 
 translate schinese_rewrite goat_guard_battle_loop_90c1f545:
 
-    "你跪下 用尽了所有精力 躺在地上呼吸 向卫兵投降。"
+    "你跪倒在地，力气耗尽，只能躺在地上喘息，向卫兵投降。"
 
 translate schinese_rewrite goat_guard_battle_loop_784da30d:
 
-    goatguard "我们抓到他了 将军 他甚至没有勇气和我们战斗。"
+    goatguard "哈……将军，我们抓住他了。他连和我们战斗的勇气都没有。"
 
 translate schinese_rewrite goat_guard_battle_loop_d9b22e54:
 
-    "将军看着你上下下,警卫坐在你旁边 仔细考虑他的下一步..."
+    "将军上下打量着你，卫兵坐在你身旁；他仔细思考着下一步……"
 
 translate schinese_rewrite goat_guard_battle_loop_d9cbf4f7:
 
-    "随着战斗的结束,你可以看到两个警卫都失去知觉, 他们仍然呼吸... 幸运的是。"
+    "战斗结束时，你看到两名卫兵都已昏迷；所幸，他们还在呼吸……"
 
 translate schinese_rewrite goat_guard_battle_loop_cf4c700f:
 
-    k "出乎意料,我们来看看,最后一场战斗。"
+    k "咦，出乎意料。来看看最后一场战斗。"
 
 translate schinese_rewrite goat_guard_battle_loop_8b698584:
 
-    k "库里尔,我给你我们最好的, 最努力的焊子,提孔。"
+    k "信使，我把我们最优秀、最勤勉的士兵提孔交给你。"
 
 translate schinese_rewrite goat_guard_battle_loop_d524e358:
 
-    k "他很灵活,能躲过很多攻击 可能会让你更难受。"
+    k "他身手敏捷，能躲过许多攻击，应该会让你更难对付。"
 
 translate schinese_rewrite goat_guard_battle_loop_464a510d:
 
-    gg "无用的卫兵。"
+    gg "废物卫兵。"
 
 translate schinese_rewrite goat_guard_battle_loop_c20265d4:
 
-    gg "现在只有你和我了,快递员。"
+    gg "现在只剩你和我了，信使。"
 
 translate schinese_rewrite goat_guard_battle_loop_160af8a9:
 
-    e "将军,我们可以一起找到弗坎。"
+    e "将军，我们不必非要战斗。我们可以一起寻找弗坎。"
 
 translate schinese_rewrite goat_guard_battle_loop_ff723121:
 
-    gg "不,不,我不能..."
+    gg "不、不……我不能……"
 
 translate schinese_rewrite goat_guard_battle_loop_563d9ca6:
 
-    e "您不想找到他吗?"
+    e "你不想找到他吗？"
 
 translate schinese_rewrite goat_guard_battle_loop_5d9934a4:
 
-    gg "你甚至不知道你在跟谁说话。"
+    gg "你甚至不知道自己在和谁说话。"
 
 translate schinese_rewrite goat_guard_battle_loop_12f5db19:
 
-    e "你可以自我介绍。"
+    e "你可以先自我介绍。"
 
 translate schinese_rewrite goat_guard_battle_loop_752b8262:
 
@@ -505,427 +505,427 @@ translate schinese_rewrite goat_guard_battle_loop_752b8262:
 
 translate schinese_rewrite goat_guard_battle_loop_7f962afd:
 
-    gg "闭嘴,现在跟我打!"
+    gg "闭嘴，现在就和我战斗！"
 
 translate schinese_rewrite goat_guard_battle_loop_970dbc79:
 
-    "将军现在非常愤怒 你仍然不明白他的愤怒 但你似乎别无选择 只能举起你的武器。"
+    "将军此刻怒不可遏。你仍不明白他为何如此暴怒，但看来你别无选择，只能举起武器……"
 
 translate schinese_rewrite goat_guard_battle_loop_b8cdc3c8:
 
-    "卫兵从精疲力尽后就倒地了。"
+    "卫兵因精疲力竭，瘫倒在地。"
 
 translate schinese_rewrite goat_guard_battle_loop_1c5e0411:
 
-    goatguard "将军,我想我..."
+    goatguard "将军……我、我好像要……"
 
 translate schinese_rewrite goat_guard_battle_loop_505e7236:
 
-    "从疲惫期开始 护堤在地面上崩溃。"
+    "另一名卫兵因精疲力竭，瘫倒在地。"
 
 translate schinese_rewrite goat_guard_battle_loop_20c592d7:
 
-    goatguard "对不起,我不能带他去..."
+    goatguard "对不起，我……我没法带他去……将军。"
 
 translate schinese_rewrite goat_guard_battle_loop_7af3bcae:
 
-    "山羊警卫朝你挥舞长矛,你还不够快,无法躲避他的打击。你的健康状况下降了[enemy_damage] HP。"
+    "山羊卫兵挥矛向你劈来，你来不及躲开。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_43de825b:
 
-    "山羊对你提出指控,用胸部踢打你 你的健康状况下降了[enemy_damage] HP。"
+    "山羊向你冲来，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_bbad9b53:
 
-    "山羊卫兵朝你挥动长矛 你设法转移他的长矛 躲避攻击。"
+    "山羊卫兵挥矛向你刺来，你及时拨开长矛，躲过了攻击。"
 
 translate schinese_rewrite goat_guard_battle_loop_38bb1c99:
 
-    "山羊指控你 试图踢你的胸部 但你挡住打击 把他推回去。"
+    "山羊向你冲来，试图踢你的胸口，但你挡下这一击，将他推开。"
 
 translate schinese_rewrite goat_guard_battle_loop_4a801cc0:
 
-    "山羊抓着他的腰巾, 他把两根手指 交叉他的裤裤, 追踪他的鸡巴形状 在你面前。"
+    "山羊抓了抓自己的兜裆布，两根手指隔着布料描摹着胯间阳物的轮廓。"
 
 translate schinese_rewrite goat_guard_battle_loop_a882aa33:
 
-    goatguard "向将军投降,也许你会享受你一生中最美好的时光。"
+    goatguard "渴了吗？向我们的将军投降，说不定能享受人生中最美好的时光。"
 
 translate schinese_rewrite goat_guard_battle_loop_e67ad9d2:
 
-    goatguard "来吧,来尝尝这个。"
+    goatguard "来啊，尝尝这个。"
 
 translate schinese_rewrite goat_guard_battle_loop_7f93d5f0:
 
-    "你为他的诱骗企图而口供。"
+    "你面对他的挑逗，咽了口唾沫。"
 
 translate schinese_rewrite goat_guard_battle_loop_8be1349f:
 
-    "诚然,你非常兴奋,流口水 思考他的鸡巴会是什么味道。"
+    "你确实兴奋不已，甚至因想着他的阳物会是什么滋味而流下了口水。"
 
 translate schinese_rewrite goat_guard_battle_loop_45a9fad8:
 
-    "你的欲望因[enemy_flirt]而增加。"
+    "你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_ae5d2f04:
 
-    "警卫伸展了他的身体 炫耀他的肌肉生理 你看得出他的软胸 几乎在你面前涌现出来。"
+    "卫兵舒展身体，炫耀着健硕的身材；你看得出他柔软的胸肌几乎要在你面前绷起。"
 
 translate schinese_rewrite goat_guard_battle_loop_9ca75501:
 
-    goatguard "你看看我这个标本有多强壮 靠近点看一看！"
+    goatguard "你看到了吗？我这副身体多强壮。靠近点，看清楚！"
 
 translate schinese_rewrite goat_guard_battle_loop_f5195904:
 
-    goatguard "这就是我说的,我们在这里赢得了很多战斗。"
+    goatguard "看到了吧？我说的就是这个——我们可凭它在这里赢过不少战斗。"
 
 translate schinese_rewrite goat_guard_battle_loop_21bad776:
 
-    "你被他美丽的肌肉震撼, 你脑海中会通过他进入你身体的情景徘徊。你的欲望因[enemy_flirt]而增加。"
+    "你被他漂亮的肌肉震住了，思绪不由得飘向他进入你身体的种种想象。你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_4a801cc0_1:
 
-    "山羊抓着他的腰巾, 他把两根手指 交叉他的裤裤, 追踪他的鸡巴形状 在你面前。"
+    "山羊抓了抓自己的兜裆布，两根手指隔着布料描摹着胯间阳物的轮廓。"
 
 translate schinese_rewrite goat_guard_battle_loop_a882aa33_1:
 
-    goatguard "向将军投降,也许你会享受你一生中最美好的时光。"
+    goatguard "渴了吗？向我们的将军投降，说不定能享受人生中最美好的时光。"
 
 translate schinese_rewrite goat_guard_battle_loop_e67ad9d2_1:
 
-    goatguard "来吧,来尝尝这个。"
+    goatguard "来啊，尝尝这个。"
 
 translate schinese_rewrite goat_guard_battle_loop_017c663f:
 
-    "你盯着他看,给他奇怪的侧眼 你躲过他的诱惑。"
+    "你斜眼看着他，成功躲过了这番诱惑。山羊似乎有些沮丧。"
 
 translate schinese_rewrite goat_guard_battle_loop_ae5d2f04_1:
 
-    "警卫伸展了他的身体 炫耀他的肌肉生理 你看得出他的软胸 几乎在你面前涌现出来。"
+    "卫兵舒展身体，炫耀着健硕的身材；你看得出他柔软的胸肌几乎要在你面前绷起。"
 
 translate schinese_rewrite goat_guard_battle_loop_9ca75501_1:
 
-    goatguard "你看看我这个标本有多强壮 靠近点看一看！"
+    goatguard "你看到了吗？我这副身体多强壮。靠近点，看清楚！"
 
 translate schinese_rewrite goat_guard_battle_loop_f5195904_1:
 
-    goatguard "这就是我说的,我们在这里赢得了很多战斗。"
+    goatguard "看到了吧？我说的就是这个——我们可凭它在这里赢过不少战斗。"
 
 translate schinese_rewrite goat_guard_battle_loop_969a6d77:
 
-    "他对你欲望的攻击似乎已经失败了,因为你站在那里等待他结束他的嘲讽。你们两个都永远不会再谈论它了。"
+    "他挑逗你欲望的攻势似乎失败了。你只是站在那里，等他结束这番卖弄；你们谁也不会再提起这件事。"
 
 translate schinese_rewrite goat_guard_battle_loop_9df6c842:
 
-    "第二个山羊警卫朝你挥舞长矛,你还不够快,无法躲避他的打击。你的健康状况下降了[enemy_damage] HP。"
+    "第二名山羊卫兵挥矛向你劈来，你来不及躲开。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_96c66f8a:
 
-    "第二只山羊对你提出指控,用胸部踢打你,你的健康状况下降了[enemy_damage] HP。"
+    "第二只山羊向你冲来，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_ebe6c349:
 
-    "第二个山羊警卫朝你挥舞长矛 你设法转移他的长矛 躲避攻击。"
+    "第二名山羊卫兵挥矛向你刺来，你及时拨开长矛，躲过了攻击。"
 
 translate schinese_rewrite goat_guard_battle_loop_fa424f8a:
 
-    "第二头山羊对你提出指控 试图踢你的胸部 但你挡住打击 把他推回去。"
+    "第二只山羊向你冲来，试图踢你的胸口，但你挡下这一击，将他推开。"
 
 translate schinese_rewrite goat_guard_battle_loop_99a4ba86:
 
-    "当你在计算下一步行动时, 你落入他的陷阱, 你的躲避器现在被削减一半 3轮。"
+    "你思考下一步时落入了他的陷阱，接下来3回合内你的闪避率减半。"
 
 translate schinese_rewrite goat_guard_battle_loop_adabcc96:
 
-    "第二只山羊抓着他的腰巾, 他把两根手指放在他的裤裤上, 追踪他老二在你面前的形状。"
+    "第二只山羊抓了抓自己的兜裆布，两根手指隔着布料描摹着胯间阳物的轮廓。"
 
 translate schinese_rewrite goat_guard_battle_loop_39060b0b:
 
-    goatguard2 "向将军投降,也许你会享受你一生中最美好的时光。"
+    goatguard2 "渴了吗？向我们的将军投降，说不定能享受人生中最美好的时光。"
 
 translate schinese_rewrite goat_guard_battle_loop_b3825bb5:
 
-    goatguard2 "来吧,来尝尝这个。"
+    goatguard2 "来啊，尝尝这个。"
 
 translate schinese_rewrite goat_guard_battle_loop_71755195:
 
-    "你对他诱惑的企图感到愤慨。 诚然,你非常兴奋,思考着他的鸡鸡的味道。你的欲望增加了[enemy_flirt]。"
+    "你面对他的挑逗，咽了口唾沫。你确实兴奋不已，甚至因想着他的阳物会是什么滋味而流下口水。你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_241c2a06:
 
-    "第二个守卫拉开他的身体, 炫耀他的肌肉生理, 你可以知道他的软胸 几乎在你的面前涌现出来。"
+    "第二名卫兵舒展身体，炫耀着健硕的身材；你看得出他柔软的胸肌几乎要在你面前绷起。"
 
 translate schinese_rewrite goat_guard_battle_loop_6a5c8cd4:
 
-    goatguard2 "你看看我这个标本有多强壮 靠近点看一看！"
+    goatguard2 "你看到了吗？我这副身体多强壮。靠近点，看清楚！"
 
 translate schinese_rewrite goat_guard_battle_loop_c86ce829:
 
-    goatguard2 "这就是我说的,我们在这里赢得了很多战斗。"
+    goatguard2 "看到了吧？我说的就是这个——我们可凭它在这里赢过不少战斗。"
 
 translate schinese_rewrite goat_guard_battle_loop_21bad776_1:
 
-    "你被他美丽的肌肉震撼, 你脑海中会通过他进入你身体的情景徘徊。你的欲望因[enemy_flirt]而增加。"
+    "你被他漂亮的肌肉震住了，思绪不由得飘向他进入你身体的种种想象。你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_adabcc96_1:
 
-    "第二只山羊抓着他的腰巾, 他把两根手指放在他的裤裤上, 追踪他老二在你面前的形状。"
+    "第二只山羊抓了抓自己的兜裆布，两根手指隔着布料描摹着胯间阳物的轮廓。"
 
 translate schinese_rewrite goat_guard_battle_loop_39060b0b_1:
 
-    goatguard2 "向将军投降,也许你会享受你一生中最美好的时光。"
+    goatguard2 "渴了吗？向我们的将军投降，说不定能享受人生中最美好的时光。"
 
 translate schinese_rewrite goat_guard_battle_loop_b3825bb5_1:
 
-    goatguard2 "来吧,来尝尝这个。"
+    goatguard2 "来啊，尝尝这个。"
 
 translate schinese_rewrite goat_guard_battle_loop_017c663f_1:
 
-    "你盯着他看,给他奇怪的侧眼 你躲过他的诱惑。"
+    "你斜眼看着他，成功躲过了这番诱惑。山羊似乎有些沮丧。"
 
 translate schinese_rewrite goat_guard_battle_loop_241c2a06_1:
 
-    "第二个守卫拉开他的身体, 炫耀他的肌肉生理, 你可以知道他的软胸 几乎在你的面前涌现出来。"
+    "第二名卫兵舒展身体，炫耀着健硕的身材；你看得出他柔软的胸肌几乎要在你面前绷起。"
 
 translate schinese_rewrite goat_guard_battle_loop_6a5c8cd4_1:
 
-    goatguard2 "你看看我这个标本有多强壮 靠近点看一看！"
+    goatguard2 "你看到了吗？我这副身体多强壮。靠近点，看清楚！"
 
 translate schinese_rewrite goat_guard_battle_loop_c86ce829_1:
 
-    goatguard2 "这就是我说的,我们在这里赢得了很多战斗。"
+    goatguard2 "看到了吧？我说的就是这个——我们可凭它在这里赢过不少战斗。"
 
 translate schinese_rewrite goat_guard_battle_loop_969a6d77_1:
 
-    "他对你欲望的攻击似乎已经失败了,因为你站在那里等待他结束他的嘲讽。你们两个都永远不会再谈论它了。"
+    "他挑逗你欲望的攻势似乎失败了。你只是站在那里，等他结束这番卖弄；你们谁也不会再提起这件事。"
 
 translate schinese_rewrite goat_general_battle_828f5742:
 
-    "幸运的是,他似乎被削弱 没有他的魔力。"
+    "你面对的是山羊部落的将军。幸运的是，他失去了权杖中的魔力，似乎已经被削弱。你握紧双拳，摆出战斗姿态。"
 
 translate schinese_rewrite goat_general_battle_58680fd1:
 
-    "幸运的是,他似乎被削弱 没有他的魔力在权杖。[pc.weapon.name!t]。"
+    "你面对的是山羊部落的将军。幸运的是，他失去了权杖中的魔力，似乎已经被削弱。你手持[pc.weapon.name!t]，严阵以待。"
 
 translate schinese_rewrite goat_general_battle_loop_f5212b33:
 
-    "你用[pc.weapon.name!t]在将军的臂膀上切开, 但他反弹了,避免了一英寸的打击。"
+    "你挥动[pc.weapon.name!t]砍向将军的手臂，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite goat_general_battle_loop_a6080ef8:
 
-    "你把你的[pc.weapon.name!t]冲向将军的脑袋 但他回过头来 避免一寸一寸的打击。"
+    "你将[pc.weapon.name!t]朝将军的头部挥去，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite goat_general_battle_loop_f03ea2d9:
 
-    "你瞄准并向将军射击[pc.weapon.name!t] 但他反弹 避开箭头。"
+    "你瞄准将军射出[pc.weapon.name!t]，但他向后一跃，险之又险地避开了箭矢。"
 
 translate schinese_rewrite goat_general_battle_loop_66552cc3:
 
-    "你对将军拳打脚踢 但他反弹了 避免了一寸一寸的打击。"
+    "你一拳挥向将军，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite goat_general_battle_loop_9ea31955:
 
-    gg "放弃吧,你可能会活命 敢跟我打仗,你就死定了!"
+    gg "现在投降，你还可能活命。敢和我战斗……你就只有死路一条！"
 
 translate schinese_rewrite goat_general_battle_loop_ffdba7d8:
 
-    "你把你的[pc.weapon.name!t]射向将军的脑袋 你的刀片穿过将军的胃 血滴在他身上。"
+    "你挥动[pc.weapon.name!t]砍向将军的头部，刀锋擦过他的腹部，血珠沿着身体滴落。"
 
 translate schinese_rewrite goat_general_battle_loop_b8532161:
 
-    "你用[pc.weapon.name!t]冲着将军的脑袋,把他打倒在地上,他先向你咆哮,然后站起来,尽管没有脸色。"
+    "你挥动[pc.weapon.name!t]砍向将军的头部，将他砍倒在地。他怒吼着爬起，显得狼狈不堪。"
 
 translate schinese_rewrite goat_general_battle_loop_b1f2b86b:
 
-    "你瞄准并向将军射击[pc.weapon.name!t] 箭直射他的肩膀。"
+    "你瞄准将军射出[pc.weapon.name!t]，箭矢正中他的肩膀。"
 
 translate schinese_rewrite goat_general_battle_loop_9d5d70ed:
 
-    "你向将军射击[pc.weapon.name!t]时跑, 敲他趴在地上。 他朝你咆哮,然后站起来,尽管没有脸色。"
+    "你边跑边朝将军射出[pc.weapon.name!t]，将他射倒在地。他怒吼着爬起，显得狼狈不堪。"
 
 translate schinese_rewrite goat_general_battle_loop_04ca2b6f:
 
-    "你拳头对准将军,打他的脸,他被撞击到地上。"
+    "你一拳正中将军的脸，巨大的冲击力把他打倒在地。"
 
 translate schinese_rewrite goat_general_battle_loop_6a910eef:
 
-    "你冲进将军的胃 抓住他 狠狠地揍他一顿。"
+    "你一拳打中将军的腹部，抓住他狠狠摔倒在地。"
 
 translate schinese_rewrite goat_general_battle_loop_24bcc736:
 
-    "他的健康下降 [oa[4]] HP。"
+    "将军的生命值减少[oa[4]]点。"
 
 translate schinese_rewrite goat_general_battle_loop_805ef890:
 
-    "看来你打中了将军 卖[oa[4]]HP!"
+    "你似乎击中了将军的要害，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite goat_general_battle_loop_700af80c:
 
-    gg "F操..."
+    gg "操……"
 
 translate schinese_rewrite goat_general_battle_loop_826892d5:
 
-    gg "你... 你... 是一个可怕的信使, 只是因为我失去了我的魔法..."
+    gg "你……你是个厉害的信使，但也只是因为我失去了魔力……"
 
 translate schinese_rewrite goat_general_battle_loop_af28cc0e:
 
-    gg "我得为他赢这个..."
+    gg "我、我得为他赢下这一战……"
 
 translate schinese_rewrite goat_general_battle_loop_e69610cb:
 
-    gg "来打我!你这个傲慢的人!"
+    gg "过来！你这狂妄之徒！"
 
 translate schinese_rewrite goat_general_battle_loop_4ab5ef2e:
 
-    gg "我不能在这里输 我不能让你赢..."
+    gg "我不能在这里输。不、不行，我不能让你赢……"
 
 translate schinese_rewrite goat_general_battle_loop_fdf9de27:
 
-    "你转过身去,用手摩擦自己的脸颊, 感觉和梳擦你的屁股,然后摇动你的臀部。"
+    "你转过身，双手在自己结实的臀肉上来回抚摸；摇动臀部时，还故意蹭了蹭屁股。"
 
 translate schinese_rewrite goat_general_battle_loop_fb834191:
 
-    "你轻轻地刮伤了会员 将你的爪子从大腿伸到蛋蛋的背部 紧紧地拉着它。"
+    "你轻轻抓挠自己的胯下，利爪从大腿内侧划到睾丸后方；你紧紧拽住阳物，诱惑地盯着将军。"
 
 translate schinese_rewrite goat_general_battle_loop_88cd26f8:
 
-    "你用毛毛的胸口杯子,在乳头周围画圆圈,对着将军微笑,胸口上下下上下下上下上下下上下上下。"
+    "你托住毛茸茸的胸膛，手指在乳头周围画圈。你朝将军微笑，胸膛随着动作轻轻起伏。"
 
 translate schinese_rewrite goat_general_battle_loop_2a83334c:
 
-    "你继续你的行为 大约一分钟, 但将军甚至没有退缩。"
+    "你继续表演了大约一分钟，但将军连眼皮都没抬。"
 
 translate schinese_rewrite goat_general_battle_loop_74e6a40c:
 
-    gg "不,我们吵架的时候你可别取笑我..."
+    gg "不……我们战斗时，你休想这样戏弄我……"
 
 translate schinese_rewrite goat_general_battle_loop_9a610acb:
 
-    "几秒钟内你就能看见将军的腰带下 有一些动静了。"
+    "几秒后，你已经能看到将军的兜裆布下有了动静。"
 
 translate schinese_rewrite goat_general_battle_loop_5364ff16:
 
-    "除了舔嘴,他什么都不说,他的欲望因[player_flirt]而增加。"
+    "他一言不发，只是舔着嘴唇。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_general_battle_loop_c954cd5e:
 
-    gg "hnnn-nngh..."
+    gg "嗯……唔……"
 
 translate schinese_rewrite goat_general_battle_loop_3ad677f5:
 
-    "你注意到山羊在打猎, 尽量不要被你的诱惑激怒。"
+    "你注意到将军手足无措，竭力不让自己被你的诱惑撩拨。"
 
 translate schinese_rewrite goat_general_battle_loop_31d7e065:
 
-    "但很明显,他那脸色冲洗的表情说明了一切。 他的欲望因[player_flirt]而增加。"
+    "可他涨红的脸已经说明一切。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_general_battle_loop_5150f639:
 
-    gg "不..."
+    gg "不……"
 
 translate schinese_rewrite goat_general_battle_loop_ba0632b4:
 
-    "将军对你的进步反应不胜枚举。"
+    "将军因你的挑逗而扭动起来。"
 
 translate schinese_rewrite goat_general_battle_loop_ef6e23e3:
 
-    "你已经听到他的快速呼吸和呼喊声,紧紧握住他的权杖。他的欲望因[player_flirt]而增加。"
+    "你已经能听见他急促的呼吸和闷哼，他仍紧紧攥着权杖。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_general_battle_loop_34ceacbd:
 
-    gg "f -fuck..."
+    gg "操……"
 
 translate schinese_rewrite goat_general_battle_loop_39b4517c:
 
-    "你可以告诉将军,当他的手被拉在腰上时,他已经在玩弄自己,他满心盯着你的屁股,他的欲望因[player_flirt]而增加。"
+    "你看出将军已经把手伸进兜裆布里自慰，目光一动不动地盯着你的屁股。欲望增加了[player_flirt]点。"
 
 translate schinese_rewrite goat_general_battle_loop_ac8b009a:
 
-    gg "停止..."
+    gg "停……"
 
 translate schinese_rewrite goat_general_battle_loop_f03dbf88:
 
-    "你不能离开部落..."
+    "你逃不出这个部落……"
 
 translate schinese_rewrite goat_general_battle_loop_38578e02:
 
-    "你跪在地上 疲惫不堪 疲惫不堪 当你躺在地上时 抓住呼吸 向山羊将军投降。"
+    "你耗尽力气跪倒在地，躺在那里喘息，将自己交给山羊部落的将军。"
 
 translate schinese_rewrite goat_general_battle_loop_9e47aef3:
 
-    gg "我还以为你很虚弱 没想到你这么轻易就投降了。"
+    gg "我还以为你很虚弱，没想到你这么轻易就投降了。"
 
 translate schinese_rewrite goat_general_battle_loop_3b0daf3e:
 
-    "他绕着你虚弱的形体走来走去 仔细思考他的下一步。"
+    "他绕着你虚弱的身体踱步，仔细思考着下一步。"
 
 translate schinese_rewrite goat_general_battle_loop_e94645e2:
 
-    "将军将他的权杖 挥动到你身体上,你的健康状况会下降[enemy_damage]HP。"
+    "将军挥动权杖横扫你的身体。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_general_battle_loop_bd1c1e3d:
 
-    "对你提出总控罪,用胸部踢打你 你的健康状况会降低[enemy_damage] HP。"
+    "将军向你冲来，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_general_battle_loop_2c9f3312:
 
-    "将军将他的权杖 挥动到你的身体上, 但你设法 偏转和躲避攻击。"
+    "将军挥动权杖向你扫来，但你及时拨开并躲过了攻击。"
 
 translate schinese_rewrite goat_general_battle_loop_b3c648e4:
 
-    "对你提出一般指控 试图踢你的胸口 但你挡住打击 把他推回去。"
+    "将军向你冲来，试图踢你的胸口，但你挡下这一击，将他推开。"
 
 translate schinese_rewrite goat_general_battle_loop_8ce04978:
 
-    "将军用他的权杖 释放了他周围所有咒语的魔力[spell_damage]。"
+    "将军用权杖释放出周围所有法球的力量。魔力形成的光环把你击倒在地。你的生命值减少[spell_damage]点。"
 
 translate schinese_rewrite goat_general_battle_loop_d800629e:
 
-    "奇怪的光环也让你的腰部有刺痛的感觉。你的欲望因[spell_amount]而增加。"
+    "诡异的光环还让你的胯间一阵酥麻。你的欲望增加了[spell_amount]点。"
 
 translate schinese_rewrite goat_general_battle_loop_b5cec46e:
 
-    "电荷消耗了将军的1个咒语,他现在拥有[spell_orb]咒语。"
+    "这道冲击消耗了将军的1颗法球；他现在有[spell_orb]颗法球。"
 
 translate schinese_rewrite goat_general_battle_loop_2e7cca8a:
 
-    gg "尝尝我的蛋蛋吧,快递,我保证你 等等,{size=15}I不是说我的蛋蛋...{/size}"
+    gg "尝尝我的法球，信使。我保证让你——等等……{size=15}我不是说我的法球……{/size}"
 
 translate schinese_rewrite goat_general_battle_loop_3418263c:
 
-    "将军耗尽了你们的人力 并用咒语在身边。"
+    "将军吸走你的魔力，在身旁凝聚出一颗法球。"
 
 translate schinese_rewrite goat_general_battle_loop_fe789702:
 
-    "他准备随时释放能量 现在他拥有[spell_orb]的咒语。"
+    "他随时都能释放这股力量。现在有[spell_orb]颗法球。"
 
 translate schinese_rewrite goat_general_battle_loop_551b79d0:
 
-    gg "终于,一个我可以 抽干你的魔法的人..."
+    gg "终于找到一个能让我抽干魔力的人了……"
 
 translate schinese_rewrite goat_general_win_ca507d39:
 
-    "将军倒在地上... 喘着口气..."
+    "将军倒在地上……喘着粗气……"
 
 translate schinese_rewrite goat_general_win_0cab4732:
 
-    "你从将军那里拿到了300金 1000加1加1分。"
+    "你从将军那里获得了300枚金币、1000点经验和1点额外等级点数。"
 
 translate schinese_rewrite goat_general_win_91f1d522:
 
-    msg "您现在是 [pc.level] 级别! 请检查您的库存以分配级别点。"
+    msg "你现在是[pc.level]级！检查背包，分配你的等级点数。"
 
 translate schinese_rewrite goat_general_win_7caf5146:
 
-    gg "不,我喘不过气来..."
+    gg "不……不、不行，我喘不过气了……"
 
 translate schinese_rewrite goat_general_win_15c0333f:
 
-    "将军摘下面具 喘气... 他精疲力尽地看着你 似乎在等着你做点什么。"
+    "将军摘下面具，大口喘息；他疲惫地望着你，似乎在等你做些什么。"
 
 translate schinese_rewrite goat_general_win_604cbf96:
 
-    "你盯着他年轻的脸 你从未想过将军会这么... 柔软和可爱。"
+    "你注视着他年轻的脸庞，从未想过一位将军会如此……柔软可亲。"
 
 translate schinese_rewrite goat_general_win_9d24105f:
 
@@ -937,11 +937,11 @@ translate schinese_rewrite goat_general_win_a95eb8e3:
 
 translate schinese_rewrite goat_general_win_1c528fcd:
 
-    gg "F-fuck you."
+    gg "去你的。"
 
 translate schinese_rewrite goat_general_win_908a2b6f:
 
-    e "对不起,你没事吧?"
+    e "对、对不起……你还好吗？"
 
 translate schinese_rewrite goat_general_win_93e978ea:
 
@@ -949,55 +949,55 @@ translate schinese_rewrite goat_general_win_93e978ea:
 
 translate schinese_rewrite goat_general_win_569bed2f:
 
-    gg "做个男人,把我干掉,快递员。"
+    gg "做个男人，就在这里给我个痛快，信使。"
 
 translate schinese_rewrite goat_general_win_a88a3c39:
 
-    "他的话令你有点震惊 你试着坐在他旁边 给他一点安慰。"
+    "他的话让你有些震惊。你试着坐到他身旁，给他一些安慰。"
 
 translate schinese_rewrite goat_general_win_f3ed0ee5:
 
-    e "别闹了 我不是来杀人的。"
+    e "别夸张了，我不是来杀人的。"
 
 translate schinese_rewrite goat_general_win_a2357943:
 
-    gg "你还想要什么?"
+    gg "你还想要什么？"
 
 translate schinese_rewrite goat_general_win_b0167696:
 
-    "将军仍然气喘吁吁, 看着地板 沮丧, 他出汗 溢出在战斗后。"
+    "将军仍在喘息，沮丧地盯着地板；战斗过后，他浑身汗流如注。"
 
 translate schinese_rewrite goat_general_win_90834d48:
 
-    "你看见他全身的瘀伤。"
+    "你还看到他全身上下都是瘀伤。"
 
 translate schinese_rewrite goat_general_win_bd7ad4aa:
 
-    e "我很抱歉我打你那么重。"
+    e "很抱歉，我下手太重了。"
 
 translate schinese_rewrite goat_general_win_6b66b802:
 
-    e "我只是不想被你和你的卫兵抓住 我猜。"
+    e "我只是不想被你和卫兵抓住……大概就是这样。"
 
 translate schinese_rewrite goat_general_win_f19ecb83:
 
-    goatguard2 "将军,将军,我刚醒来,你没事吧?"
+    goatguard2 "将军！将军！我刚醒……你没事吧？"
 
 translate schinese_rewrite goat_general_win_f2a566ea:
 
-    gg "Y-y。"
+    gg "没、没事。"
 
 translate schinese_rewrite goat_general_win_c0672ef5:
 
-    goatguard2 "我想在确定你没事后 我会再昏过去 将军。"
+    goatguard2 "确认你没事之后，我想我又要昏过去了，将、将军。"
 
 translate schinese_rewrite goat_general_win_6ee72055:
 
-    "警卫在将军附近又睡着了 他嘲笑你一阵子,然后回头看你。"
+    "卫兵在将军身旁再次睡着了。将军嗤了一声，然后回头看向你。"
 
 translate schinese_rewrite goat_general_win_cce99d91:
 
-    e "那么,我可以问一下你的名字吗?"
+    e "那……我能问问你的名字吗？"
 
 translate schinese_rewrite goat_general_win_9d24105f_1:
 
@@ -1005,7 +1005,7 @@ translate schinese_rewrite goat_general_win_9d24105f_1:
 
 translate schinese_rewrite goat_general_win_6f6d3a40:
 
-    e "Y - your name?"
+    e "你、你的名字？"
 
 translate schinese_rewrite goat_general_win_ee5c3564:
 
@@ -1013,7 +1013,7 @@ translate schinese_rewrite goat_general_win_ee5c3564:
 
 translate schinese_rewrite goat_general_win_3b8788d7:
 
-    e "卡里 弗坎怎么了?"
+    e "哦，嗨，卡里。弗坎怎么了？"
 
 translate schinese_rewrite goat_general_win_b5470d17:
 
@@ -1021,39 +1021,39 @@ translate schinese_rewrite goat_general_win_b5470d17:
 
 translate schinese_rewrite goat_general_win_96fbb4db:
 
-    e "他在哪里?"
+    e "那他在哪儿？"
 
 translate schinese_rewrite goat_general_win_a1e966df:
 
-    k "他没告诉我 通常他会告诉我去哪里。"
+    k "他没告诉我。通常他都会告诉我自己要去哪里。"
 
 translate schinese_rewrite goat_general_win_0e707dba:
 
-    k "不,这次,如果他不是被别人绑架,我不知道他在哪里。"
+    k "但这次没有。如果不是被人绑架，我也不知道他在哪儿。"
 
 translate schinese_rewrite goat_general_win_f511dcef:
 
-    k "这就是为什么我要问你。"
+    k "所以我才来问你。"
 
 translate schinese_rewrite goat_general_win_b49fea37:
 
-    e "O-oh。"
+    e "这、这样啊。"
 
 translate schinese_rewrite goat_general_win_29e6b75c:
 
-    e "我在这附近没见过他。"
+    e "我没在这附近见过他。"
 
 translate schinese_rewrite goat_general_win_f275c86e:
 
-    e "但说到怪异,有一件事我想到。"
+    e "不过说到奇怪的事，我突然想到一件事。"
 
 translate schinese_rewrite goat_general_win_ecb1ed82:
 
-    e "Moss Golem的手。"
+    e "苔藓石魔像的手。"
 
 translate schinese_rewrite goat_general_win_dc008138:
 
-    k "Golem?"
+    k "石魔像？"
 
 translate schinese_rewrite goat_general_win_0e358a34:
 
@@ -1061,35 +1061,35 @@ translate schinese_rewrite goat_general_win_0e358a34:
 
 translate schinese_rewrite goat_general_win_e1535bb7:
 
-    k "我想我知道他可能在哪了。"
+    k "我想我知道他可能在哪儿了。"
 
 translate schinese_rewrite goat_general_win_d2c7d432:
 
-    e "W -wait, where?"
+    e "等、等等，在哪儿？"
 
 translate schinese_rewrite goat_general_win_0f49cfeb:
 
-    k "山洞... 环礁湖附近。"
+    k "潮湿山洞……就在苍耀湖附近。"
 
 translate schinese_rewrite goat_general_win_7958ba69:
 
-    k "我们有两个守护者保护着我们的符咒 他们失踪后就变流氓了。"
+    k "我们有两名护卫守护着符石，但符石消失后，他们便失控了。"
 
 translate schinese_rewrite goat_general_win_5803ab9a:
 
-    k "我们知道其中一人在潮湿的洞穴里。"
+    k "我们知道其中一尊就在潮湿山洞里。"
 
 translate schinese_rewrite goat_general_win_047e8c3a:
 
-    e "我在下面的河里探险时遇到一个歌莱姆, 但那里充满敌意,我不得不放下它。"
+    e "我在下面探索河流时遇到过一尊石魔像，但它变得很有攻击性，我只能把它解决掉。"
 
 translate schinese_rewrite goat_general_win_2fa8ce7e:
 
-    k "守护者的力量非常强大,如果不是因为失踪而弱化了一点的话。"
+    k "你没被它杀死，算你走运。那名护卫的力量极其强大，符石消失也只让它稍稍变弱。"
 
 translate schinese_rewrite goat_general_win_32db850f:
 
-    e "嗯,它实际上变弱了很多, 它的手不见了。"
+    e "呃，其实它已经虚弱很多了——它的手没了。"
 
 translate schinese_rewrite goat_general_win_e80f1822:
 
@@ -1097,39 +1097,39 @@ translate schinese_rewrite goat_general_win_e80f1822:
 
 translate schinese_rewrite goat_general_win_b9b199ff:
 
-    k "然后潮湿山洞里的那个一定是左边的那个。"
+    k "那潮湿山洞里的就一定是左边的那一尊。"
 
 translate schinese_rewrite goat_general_win_9c0d81b1:
 
-    k "我告诉弗坎不要把她们找回来 但是也许他另有想法。"
+    k "我劝过弗坎别把它们带回来，但也许他另有打算。"
 
 translate schinese_rewrite goat_general_win_7427cd85:
 
-    k "我只需要救他。"
+    k "我只是……想救他。"
 
 translate schinese_rewrite goat_general_win_d682fd6f:
 
-    k "Ah---argh..."
+    k "啊——呃……"
 
 translate schinese_rewrite goat_general_win_ebb78e2c:
 
-    "他大声地呻吟。"
+    "他大声呻吟起来。"
 
 translate schinese_rewrite goat_general_win_005d3fba:
 
-    "卡里试图站起来,但他很快的在腿部受伤后倒下。"
+    "卡里试图站起来，但腿上的伤让他很快向前栽倒。"
 
 translate schinese_rewrite goat_general_win_9d814978:
 
-    e "你没事吧?"
+    e "喂，你还好吗？"
 
 translate schinese_rewrite goat_general_win_c5daf628:
 
-    k "我得走了。"
+    k "我……得走。"
 
 translate schinese_rewrite goat_general_win_9996ccea:
 
-    "他试图再次站起来,你抓住他的手臂 抬起他,但他失去了平衡,再次倒下。"
+    "他再次试图起身。你抓住他的手臂，想把他拉起来，可他失去平衡，又摔倒了。"
 
 translate schinese_rewrite goat_general_win_ae16f56b:
 
@@ -1137,39 +1137,39 @@ translate schinese_rewrite goat_general_win_ae16f56b:
 
 translate schinese_rewrite goat_general_win_3b77324e:
 
-    k "你?"
+    k "你、你？"
 
 translate schinese_rewrite goat_general_win_118adec5:
 
-    e "是。"
+    e "是的。"
 
 translate schinese_rewrite goat_general_win_8b1d2fbd:
 
-    k "为什么 你不是站在乐斯民菲尔德那边吗？"
+    k "为、为什么？你不是站在乐斯民菲尔德那边吗？"
 
 translate schinese_rewrite goat_general_win_48fd52c3:
 
-    e "我只是个快递员 我只是想救他。"
+    e "我只是个信使，只是想救他。"
 
 translate schinese_rewrite goat_general_win_d256ed1d:
 
-    e "我再次为你的伤痛向你道歉。"
+    e "你的伤也是我造成的，对不起。"
 
 translate schinese_rewrite goat_general_win_8d44512e:
 
-    k "N -no.nono.别烦我."
+    k "不……不，别管我。"
 
 translate schinese_rewrite goat_general_win_cad8a8c3:
 
-    "卡里用恳求的眼神盯着你。"
+    "卡里抱住遍体鳞伤的身体，恳求地望着你。"
 
 translate schinese_rewrite goat_general_win_fe11abf8:
 
-    k "但请把弗坎带回来..."
+    k "但请把弗坎带回来……"
 
 translate schinese_rewrite goat_general_win_1865ed33:
 
-    e "是的,我应该带你和警卫回你家吗?"
+    e "好。要不要我带你和卫兵回你们家？"
 
 translate schinese_rewrite goat_general_win_bf832a13:
 
@@ -1177,35 +1177,35 @@ translate schinese_rewrite goat_general_win_bf832a13:
 
 translate schinese_rewrite goat_general_win_5ba1e493:
 
-    k "看见我那样子 其他警卫就会杀了你 把我们留在这儿吧。"
+    k "其他卫兵看到我这副样子，会杀了你。把我们留在这里就好。"
 
 translate schinese_rewrite goat_general_win_bf6f0d3d:
 
-    e "A-alright..."
+    e "好、好吧……"
 
 translate schinese_rewrite goat_general_lose_9b13cb52:
 
-    "你背靠着地面倒下 等待将军决定你的命运。"
+    "你瘫倒在地，等着将军决定你的命运。"
 
 translate schinese_rewrite goat_general_lose_4f6ee551:
 
-    e "对不起,我可以走了吗?"
+    e "对、对不起，我现在可以走了吗？"
 
 translate schinese_rewrite goat_general_lose_f9e711ed:
 
-    gg "首先,我们需要找到弗坎。"
+    gg "首先，我们得找到弗坎。"
 
 translate schinese_rewrite goat_general_lose_633b6042:
 
-    gg "警卫,拿他的包。"
+    gg "卫兵，拿他的包。"
 
 translate schinese_rewrite goat_general_lose_36f494ff:
 
-    goatguard "是的,将军。"
+    goatguard "是，将军。"
 
 translate schinese_rewrite goat_general_lose_1b4a03b0:
 
-    "他从他的警卫那里拿起你的包 跪在你面前。"
+    "将军从卫兵手里接过你的包，在你面前跪下。"
 
 translate schinese_rewrite goat_general_lose_226df842:
 
@@ -1213,35 +1213,35 @@ translate schinese_rewrite goat_general_lose_226df842:
 
 translate schinese_rewrite goat_general_lose_81229a0c:
 
-    gg "W -这是..."
+    gg "这、这是什么……"
 
 translate schinese_rewrite goat_general_lose_977e8716:
 
-    e "U-uhh, 歌舞手。"
+    e "呃……是苔藓石魔像的手。"
 
 translate schinese_rewrite goat_general_lose_3fe89f30:
 
-    gg "你在哪里找到这个的?"
+    gg "你在哪儿找到的？"
 
 translate schinese_rewrite goat_general_lose_7eab1774:
 
-    e "从河里,我杀了它。"
+    e "在河边。我把它杀了。"
 
 translate schinese_rewrite goat_general_lose_206c30d8:
 
-    gg "你杀了它?"
+    gg "你杀了它？"
 
 translate schinese_rewrite goat_general_lose_6c60186f:
 
-    e "Y -yes..."
+    e "是、是的……"
 
 translate schinese_rewrite goat_general_lose_017040c3:
 
-    gg "没有什么用处。"
+    gg "没什么有用的。"
 
 translate schinese_rewrite goat_general_lose_57cbd42e:
 
-    e "我想我知道点什么。"
+    e "我、呃……我想起一件事。"
 
 translate schinese_rewrite goat_general_lose_9d24105f:
 
@@ -1249,27 +1249,27 @@ translate schinese_rewrite goat_general_lose_9d24105f:
 
 translate schinese_rewrite goat_general_lose_21bd3f82:
 
-    e "我之前在河里看到一个谷歌。"
+    e "之前我在河边见过一尊石魔像。"
 
 translate schinese_rewrite goat_general_lose_a12e3a29:
 
-    e "它真的很大 它准备在那里杀了我 但我打败了它。"
+    e "它很大，而且当时就要杀了我，但我击败了它。"
 
 translate schinese_rewrite goat_general_lose_836e3bd6:
 
-    gg "你... 杀了它?"
+    gg "你……杀了它？"
 
 translate schinese_rewrite goat_general_lose_fbfb4027:
 
-    e "Y-y。"
+    e "是、是的。"
 
 translate schinese_rewrite goat_general_lose_1138340a:
 
-    "将军对你有些惊讶 但他很快就藏起来了。"
+    "将军略显惊讶地看着你，但很快掩饰了过去。"
 
 translate schinese_rewrite goat_general_lose_2078fb23:
 
-    gg "我知道了。他在那里。"
+    gg "我明白了。他就在那儿。"
 
 translate schinese_rewrite goat_general_lose_c18eb48e:
 
@@ -1277,31 +1277,31 @@ translate schinese_rewrite goat_general_lose_c18eb48e:
 
 translate schinese_rewrite goat_general_lose_b70da06b:
 
-    gg "他和Golem在一起。"
+    gg "他和那尊石魔像在一起。"
 
 translate schinese_rewrite goat_general_lose_21a76c7c:
 
-    e "但我们杀了它。"
+    e "可我们已经把它杀了。"
 
 translate schinese_rewrite goat_general_lose_221eecd8:
 
-    gg "另一个 我们有两个管家。"
+    gg "另一个。我们有两名符石护卫。"
 
 translate schinese_rewrite goat_general_lose_d819a6db:
 
-    e "他们怎么了?"
+    e "它们怎么了？"
 
 translate schinese_rewrite goat_general_lose_df0f12a6:
 
-    gg "我们的守护者在原始的符文停止提供咒语能量后 变无赖了。"
+    gg "上古符石停止供给魔力后，我们的护卫就失控了。"
 
 translate schinese_rewrite goat_general_lose_1adf0e00:
 
-    gg "那些守护者应该保护着我们的山顶上的 树枝。"
+    gg "那些护卫本来应该守在山顶，保护符石。"
 
 translate schinese_rewrite goat_general_lose_7a2ce101:
 
-    e "这和Golems的去向有什么关系?"
+    e "这和那些石魔像的去向有什么关系？"
 
 translate schinese_rewrite goat_general_lose_7875b56c:
 
@@ -1309,55 +1309,55 @@ translate schinese_rewrite goat_general_lose_7875b56c:
 
 translate schinese_rewrite goat_general_lose_d759c583:
 
-    e "什么洞穴?"
+    e "什、什么山洞？"
 
 translate schinese_rewrite goat_general_lose_60c57f65:
 
-    gg "接近闪闪发光的环礁湖。"
+    gg "苍耀湖附近的那座。"
 
 translate schinese_rewrite goat_general_lose_60ebced8:
 
-    e "你确定吗?"
+    e "你确定？"
 
 translate schinese_rewrite goat_general_lose_fa7974a8:
 
-    gg "是。"
+    gg "是的。"
 
 translate schinese_rewrite goat_general_lose_33f16abb:
 
-    gg "但我不能让部落无人照顾。"
+    gg "但我不能把部落丢在这里不管。"
 
 translate schinese_rewrite goat_general_lose_9612631c:
 
-    "将军们来回走来走去 试图想出一个救他头领的计划。"
+    "将军来回踱步，试图想出一个营救酋长的计划。"
 
 translate schinese_rewrite goat_general_lose_d42bf877:
 
-    gg "跟我来,快递,我需要你的帮助。"
+    gg "跟我来，信使。我需要你的帮助。"
 
 translate schinese_rewrite goat_general_lose_6112b769:
 
-    "他指着你,甚至没有等你批准。"
+    "他指着你，甚至没等你答应。"
 
 translate schinese_rewrite goat_general_lose_94a86528:
 
-    e "呃... 你确定吗?"
+    e "呃……你确定吗？"
 
 translate schinese_rewrite goat_general_lose_3879dacb:
 
-    gg "我会把路上我所知道的一切都告诉你。"
+    gg "路上我会把知道的一切都告诉你。"
 
 translate schinese_rewrite goat_general_lose_0e53b64a:
 
-    "你感觉到将军拖着你的手 转过卫兵。"
+    "你感觉将军拽住你的手，把你拉起来，然后转向卫兵。"
 
 translate schinese_rewrite goat_general_lose_72a89d6e:
 
-    gg "Cev和Hakki,待在这里等我回来。"
+    gg "Cev、Hakki，待在这里等我回来。"
 
 translate schinese_rewrite goat_general_lose_a05b105e:
 
-    goatguard2 "是的,将军。"
+    goatguard2 "是，将军。"
 
 translate schinese_rewrite lothar_battle_1e517a6d:
 
@@ -1365,7 +1365,7 @@ translate schinese_rewrite lothar_battle_1e517a6d:
 
 translate schinese_rewrite lothar_battle_a87ae9eb:
 
-    l "同志们,这次别让我失望了,我期望你们输之前能打一场好仗。"
+    l "徒弟，这次可别让我失望。我希望在你落败前能打得像样点。"
 
 translate schinese_rewrite lothar_battle_502a28b1:
 
@@ -1377,11 +1377,11 @@ translate schinese_rewrite lothar_battle_0ff1c06b:
 
 translate schinese_rewrite lothar_battle_loop_70e26cac:
 
-    "你用[pc.weapon.name!t]在Lottar的手臂上切开, 但他反弹了,避免了一英寸的打击。"
+    "你挥动[pc.weapon.name!t]砍向洛萨尔的手臂，但他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite lothar_battle_loop_725d93d1:
 
-    "你把你的[pc.weapon.name!t]射向洛萨尔的手臂 但他回过头来 避免一寸一寸的打击。"
+    "你将[pc.weapon.name!t]砸向洛萨尔的手臂，可他向后一跃，险之又险地避开了这一击。"
 
 translate schinese_rewrite lothar_battle_loop_3cff6c8d:
 
@@ -1393,7 +1393,7 @@ translate schinese_rewrite lothar_battle_loop_a9ec88b2:
 
 translate schinese_rewrite lothar_battle_loop_772db6e3:
 
-    l "你的目标需要一些训练 徒弟。"
+    l "呵……你的准头还得多练练，徒弟。"
 
 translate schinese_rewrite lothar_battle_loop_01333192:
 
@@ -1401,15 +1401,15 @@ translate schinese_rewrite lothar_battle_loop_01333192:
 
 translate schinese_rewrite lothar_battle_loop_6b3c3530:
 
-    "血滴在他身上。"
+    "鲜血顺着他的身体滴落。"
 
 translate schinese_rewrite lothar_battle_loop_ff4e48ff:
 
-    "你把[pc.weapon.name!t]撞到Lottar的头上 把他撞到地上。"
+    "你挥动[pc.weapon.name!t]砸向洛萨尔的脑袋，把他打倒在地。"
 
 translate schinese_rewrite lothar_battle_loop_3f10a603:
 
-    "他在起床前对你大吼大叫 尽管他没有脸色。"
+    "他朝你低吼一声，随后狼狈地爬起身来。"
 
 translate schinese_rewrite lothar_battle_loop_731bae2f:
 
@@ -1421,7 +1421,7 @@ translate schinese_rewrite lothar_battle_loop_8221249a:
 
 translate schinese_rewrite lothar_battle_loop_3f10a603_1:
 
-    "他在起床前对你大吼大叫 尽管他没有脸色。"
+    "他朝你低吼一声，随后狼狈地爬起身来。"
 
 translate schinese_rewrite lothar_battle_loop_ef8384a0:
 
@@ -1429,7 +1429,7 @@ translate schinese_rewrite lothar_battle_loop_ef8384a0:
 
 translate schinese_rewrite lothar_battle_loop_58557e9f:
 
-    "撞击把他打倒在地上。"
+    "巨大的冲击力将他撞倒在地。"
 
 translate schinese_rewrite lothar_battle_loop_3981c466:
 
@@ -1437,7 +1437,7 @@ translate schinese_rewrite lothar_battle_loop_3981c466:
 
 translate schinese_rewrite lothar_battle_loop_24bcc736:
 
-    "他的健康下降 [oa[4]] HP。"
+    "他的生命值减少了[oa[4]]点。"
 
 translate schinese_rewrite lothar_battle_loop_5c706250:
 
@@ -1445,27 +1445,27 @@ translate schinese_rewrite lothar_battle_loop_5c706250:
 
 translate schinese_rewrite lothar_battle_loop_e29bcb4d:
 
-    l "幸运的哈哈,那..."
+    l "运、运气好罢了。那、那根本不算什么……啊……"
 
 translate schinese_rewrite lothar_battle_loop_9d1a1918:
 
-    l "我可以打你... 轻而易举,[e]。"
+    l "我、我能打败你……呵……轻而易举，[e]。"
 
 translate schinese_rewrite lothar_battle_loop_9a8dc15e:
 
-    l "英雄不能输。"
+    l "唔嗯嗯……英、英雄不能输……"
 
 translate schinese_rewrite lothar_battle_loop_9a43c00b:
 
-    l "他妈的,我需要一些药剂之后..."
+    l "操……打完我得再弄几瓶药水……"
 
 translate schinese_rewrite lothar_battle_loop_fdf9de27:
 
-    "你转过身去,用手摩擦自己的脸颊, 感觉和梳擦你的屁股,然后摇动你的臀部。"
+    "你转过身，用手在自己结实的臀肉上来回抚摸；扭动臀部时，感受着手掌擦过屁股。"
 
 translate schinese_rewrite lothar_battle_loop_686af3a5:
 
-    "你轻轻地刮伤了会员 将你的爪子从大腿伸到蛋蛋的背部 紧紧地拉着它 盯着洛特尔的眼神。"
+    "你轻轻摩挲自己的阳具，利爪从大腿内侧划到睾丸后方；你紧紧拉扯着它，用挑逗的目光盯着洛萨尔。"
 
 translate schinese_rewrite lothar_battle_loop_5fe08cb3:
 
@@ -1481,7 +1481,7 @@ translate schinese_rewrite lothar_battle_loop_2f4586bc:
 
 translate schinese_rewrite lothar_battle_loop_4f54fc56:
 
-    l "你的调情... 嗯... 那很尴尬..."
+    l "你的调情……呃……真让人尴尬……"
 
 translate schinese_rewrite lothar_battle_loop_5a42ba42:
 
@@ -1489,39 +1489,39 @@ translate schinese_rewrite lothar_battle_loop_5a42ba42:
 
 translate schinese_rewrite lothar_battle_loop_c0b2a752:
 
-    "他舔嘴唇时盯着你的诱惑姿势,他的欲望因[player_flirt]而增加。"
+    "他舔着嘴唇，盯着你诱人的姿势。他的欲望增加了 [player_flirt]。"
 
 translate schinese_rewrite lothar_battle_loop_53de9d0f:
 
-    l "嗯,你什么时候变得..."
+    l "嗯……徒弟，你什么时候变得……这么让人想操了……"
 
 translate schinese_rewrite lothar_battle_loop_5e149066:
 
-    "你注意到狼在打猎 尽量不被你的诱惑激怒。"
+    "你注意到那头狼手足无措，拼命克制着自己，不让你的诱惑勾起欲火。"
 
 translate schinese_rewrite lothar_battle_loop_31d7e065:
 
-    "但很明显,他那脸色冲洗的表情说明了一切。 他的欲望因[player_flirt]而增加。"
+    "但他涨红的脸已经说明了一切。他的欲望增加了 [player_flirt]。"
 
 translate schinese_rewrite lothar_battle_loop_b5b755c1:
 
-    l "洛特,你是个英雄,不是淫秽的野兽。"
+    l "快结束吧……洛特。你是英雄，不是什么纵欲的野兽……"
 
 translate schinese_rewrite lothar_battle_loop_fe19e373:
 
-    "洛特尔在回应你的进步。"
+    "在你的步步逼近下，洛萨尔不安地扭动着身体。"
 
 translate schinese_rewrite lothar_battle_loop_19010f57:
 
-    "你已听到他的快速呼吸和呼喊声,同时紧握他的剑。[player_flirt]增加了他的欲望。"
+    "你已经听见他急促的呼吸和低哼声，他紧紧握着手中的剑。他的欲望增加了 [player_flirt]。"
 
 translate schinese_rewrite lothar_battle_loop_95234fff:
 
-    l "他妈的,我需要你的屁股..."
+    l "操……我、我需要你的屁股……徒、徒-"
 
 translate schinese_rewrite lothar_battle_loop_1c7dd32e:
 
-    "你可以告诉洛特哈已经玩弄自己 当他的手伸到裤子下面 盯着你的屁股。"
+    "你看得出来，洛萨尔的手伸进裤子里时，已经在自我抚慰了；他一眨不眨地盯着你的屁股。"
 
 translate schinese_rewrite lothar_battle_loop_ac2da90e:
 
@@ -1529,11 +1529,11 @@ translate schinese_rewrite lothar_battle_loop_ac2da90e:
 
 translate schinese_rewrite lothar_battle_loop_877a56ed:
 
-    "[player_flirt]增加了他的欲望。"
+    "他的欲望增加了 [player_flirt]。"
 
 translate schinese_rewrite lothar_battle_loop_f4e4d56f:
 
-    l "门徒,我可以在这里操你的嘴。"
+    l "别、别……徒弟。我现在就能直接操你的嘴，就、就在这里……"
 
 translate schinese_rewrite lothar_battle_loop_4562a1ba:
 
@@ -1541,11 +1541,11 @@ translate schinese_rewrite lothar_battle_loop_4562a1ba:
 
 translate schinese_rewrite lothar_battle_loop_149194b3:
 
-    l "在此之后,门徒。"
+    l "等这场结束再说，徒弟。"
 
 translate schinese_rewrite lothar_battle_loop_4878ce45:
 
-    "看来英雄不允许你逃跑。"
+    "看来这位英雄不打算让你逃走。"
 
 translate schinese_rewrite lothar_battle_loop_647bc0e1:
 
@@ -1553,11 +1553,11 @@ translate schinese_rewrite lothar_battle_loop_647bc0e1:
 
 translate schinese_rewrite lothar_battle_loop_3840b60e:
 
-    l "真的..."
+    l "真的……？"
 
 translate schinese_rewrite lothar_battle_loop_52f089f0:
 
-    l "你让我失望 我没想到我的学生会这么轻易投降。"
+    l "徒弟……你让我失望了，我没想到自己的徒弟会这么轻易投降。"
 
 translate schinese_rewrite lothar_battle_loop_22c33955:
 
@@ -1565,7 +1565,7 @@ translate schinese_rewrite lothar_battle_loop_22c33955:
 
 translate schinese_rewrite lothar_battle_loop_ad670361:
 
-    "他绕着你虚弱的形体走来走去 仔细思考他的下一步。"
+    "他绕着虚弱的你踱步，仔细思考着下一步该怎么做。"
 
 translate schinese_rewrite lothar_battle_loop2_a44ad52e:
 
@@ -1573,23 +1573,23 @@ translate schinese_rewrite lothar_battle_loop2_a44ad52e:
 
 translate schinese_rewrite lothar_battle_loop2_8daed4c0:
 
-    "他踩到你的胸口 你的健康状况下降了[enemy_damage]HP。"
+    "他踩住你的胸口。你受到[enemy_damage]点伤害。"
 
 translate schinese_rewrite lothar_battle_loop2_f053152f:
 
-    "洛萨尔控告你,踢你,你的健康状况下降[enemy_damage]HP。"
+    "洛萨尔向你冲来，狠狠踢中你。你受到[enemy_damage]点伤害。"
 
 translate schinese_rewrite lothar_battle_loop2_d54dd6ff:
 
-    l "尝尝英雄的威猛脚步。"
+    l "呵……尝尝英雄威猛的双脚吧……"
 
 translate schinese_rewrite lothar_battle_loop2_2dd4be21:
 
-    l "你的缺乏经验真的显露出来 徒弟。"
+    l "你的经验不足实在太明显了，徒弟。"
 
 translate schinese_rewrite lothar_battle_loop2_505866a5:
 
-    l "现在我向你们展示了真正的力量 与你们低劣的战斗战术相比。"
+    l "现在你见识到什么才是真正的力量了吧，相比之下，你的战术可真不入流。"
 
 translate schinese_rewrite lothar_battle_loop2_262c1b33:
 
@@ -1597,19 +1597,19 @@ translate schinese_rewrite lothar_battle_loop2_262c1b33:
 
 translate schinese_rewrite lothar_battle_loop2_07d7931d:
 
-    "洛萨尔指控你 试图踢你的胸口 但你迅速退缩 躲避攻击。"
+    "洛萨尔向你冲来，试图踢你的胸口，但你迅速向后翻滚，躲开了攻击。"
 
 translate schinese_rewrite lothar_battle_loop2_e36b23c7:
 
-    l "幸运... 你很幸运..."
+    l "幸运……你刚才真是走运……"
 
 translate schinese_rewrite lothar_battle_loop2_fa5e2ced:
 
-    l "回来,让我揍扁你!"
+    l "回来，让我狠狠操你的屁股！"
 
 translate schinese_rewrite lothar_battle_loop2_2e9d4e2d:
 
-    "英雄在腹股沟抓痕 他用两根手指 穿过他的内裤 在你面前追踪他的老二形状。"
+    "英雄挠了挠胯下，用两根手指在裆部比划，在你面前描摹着自己阴茎的轮廓。"
 
 translate schinese_rewrite lothar_battle_loop2_9918018e:
 
@@ -1617,7 +1617,7 @@ translate schinese_rewrite lothar_battle_loop2_9918018e:
 
 translate schinese_rewrite lothar_battle_loop2_74e24064:
 
-    l "别撒谎,你一定是想让我的鸡巴在你体内,不是吗?"
+    l "别装了……徒弟，你一定很想让我的鸡巴插进你体内，对吧……？"
 
 translate schinese_rewrite lothar_battle_loop2_ae2663dd:
 
@@ -1625,11 +1625,11 @@ translate schinese_rewrite lothar_battle_loop2_ae2663dd:
 
 translate schinese_rewrite lothar_battle_loop2_65b0ee54:
 
-    l "看来你的眼睛 无法远离..."
+    l "嗯……看来你的目光根本无法从……眼前这位英雄身上移开。"
 
 translate schinese_rewrite lothar_battle_loop2_71755195:
 
-    "你对他诱惑的企图感到愤慨。 诚然,你非常兴奋,思考着他的鸡鸡的味道。你的欲望增加了[enemy_flirt]。"
+    "面对他的诱惑，你咽了口唾沫。不得不承认，你兴奋得厉害，脑中想着他的鸡巴尝起来会是什么滋味。你的欲望增加了 [enemy_flirt]。"
 
 translate schinese_rewrite lothar_battle_loop2_d3cec2b5:
 
@@ -1637,35 +1637,35 @@ translate schinese_rewrite lothar_battle_loop2_d3cec2b5:
 
 translate schinese_rewrite lothar_battle_loop2_9db33e60:
 
-    "你盯着他看,给他奇怪的侧眼 你躲过了他的诱惑。"
+    "你古怪地斜睨了他一眼，躲过了他的诱惑。洛萨尔似乎有些沮丧。"
 
 translate schinese_rewrite lothar_battle_loop2_969a6d77:
 
-    "他对你欲望的攻击似乎已经失败了,因为你站在那里等待他结束他的嘲讽。你们两个都永远不会再谈论它了。"
+    "他对你欲望的攻击似乎失败了；你站在那里，等他结束挑衅。你们谁都不会再提起这件事。"
 
 translate schinese_rewrite lothar_battle_loop2_816f9945:
 
-    l "让我先喝这个高盛的 健康药水。"
+    l "让我先……喝下这瓶高级生命药水……"
 
 translate schinese_rewrite lothar_battle_loop2_efa76d45:
 
-    "洛萨尔举起他的剑,全力打击你。你的健康状况下降了[enemy_damage] HP。"
+    "洛萨尔举起长剑，全力向你劈来。你受到[enemy_damage]点伤害。"
 
 translate schinese_rewrite lothar_battle_loop2_1e8ad0f1:
 
-    "他一击的冲击把你击倒在地。"
+    "他这一击的巨大冲击力把你打倒在地。"
 
 translate schinese_rewrite lothar_battle_loop2_fdcc8185:
 
-    "你被打晕了。"
+    "你陷入眩晕，持续一回合。"
 
 translate schinese_rewrite lothar_battle_lose_ae28421f:
 
-    l "看看你..."
+    l "呵……看看你……徒弟。"
 
 translate schinese_rewrite lothar_battle_lose_8241c31f:
 
-    "你跪在草地上 长着粗粗的裤子 你已用尽了身体的能量。"
+    "你跪在草地上，大口喘息。你已经耗尽了全身的力气。"
 
 translate schinese_rewrite lothar_battle_lose_98991d26:
 
@@ -1676,19 +1676,19 @@ translate schinese_rewrite lothar_battle_lose_b0b37444:
     e "操……我的腿……"
 translate schinese_rewrite lothar_battle_lose_1a8072d4:
 
-    l "又一个赢进我口袋了!"
+    l "又一场胜利收入囊中！其实也没什么好意外的。"
 
 translate schinese_rewrite lothar_battle_lose_52119ca1:
 
-    l "考虑到你的体格 一点也不奇怪。"
+    l "以你的体格来看，一点也不意外。"
 
 translate schinese_rewrite lothar_battle_lose_45e586ad:
 
-    e "C -我能休息一下吗?"
+    e "我、我能休息一下吗？"
 
 translate schinese_rewrite lothar_battle_lose_f581a057:
 
-    l "休息吧 最便宜的五百块金子。"
+    l "休息一下？呵，行吧。这500金币赚得真轻松。"
 
 translate schinese_rewrite lothar_battle_lose_d86d9fac:
 
@@ -1696,11 +1696,11 @@ translate schinese_rewrite lothar_battle_lose_d86d9fac:
 
 translate schinese_rewrite lothar_battle_lose_43c89140:
 
-    l "也许在那之后我会考虑再跟你打一架 也许吧。"
+    l "之后我也许会考虑再和你切磋一次。也许吧。"
 
 translate schinese_rewrite lothar_battle_lose_1e28236e:
 
-    "你 跪在 草上、 紧紧地。 在 洛德哈 面前、 有 一 切 急切 的 欲望、 要 满足 你 的 欲望。"
+    "你跪在草地上，大口喘息。此刻你迫切地想在洛萨尔面前满足自己的欲望。"
 
 translate schinese_rewrite lothar_battle_lose_98991d26_1:
 
@@ -1712,19 +1712,19 @@ translate schinese_rewrite lothar_battle_lose_2b7e8369:
 
 translate schinese_rewrite lothar_battle_lose_1a8072d4_1:
 
-    l "又一个赢进我口袋了!"
+    l "又一场胜利收入囊中！其实也没什么好意外的。"
 
 translate schinese_rewrite lothar_battle_lose_2a0420a9:
 
-    l "考虑到你的精神力量 一点也不奇怪。"
+    l "以你的意志力来看，一点也不意外。"
 
 translate schinese_rewrite lothar_battle_lose_a6f697ab:
 
-    e "我太... 饥渴了 我能..."
+    e "啊啊——我……我好想要。能、能让我……休息一下吗？"
 
 translate schinese_rewrite lothar_battle_lose_f581a057_1:
 
-    l "休息吧 最便宜的五百块金子。"
+    l "休息一下？呵，行吧。这500金币赚得真轻松。"
 
 translate schinese_rewrite lothar_battle_lose_d7a43461:
 
@@ -1732,7 +1732,7 @@ translate schinese_rewrite lothar_battle_lose_d7a43461:
 
 translate schinese_rewrite lothar_battle_lose_e175649d:
 
-    l "也许在那之后我会考虑再和你打一架 也许吧。"
+    l "之后我也许会考虑再和你切磋一次……也许吧。"
 
 translate schinese_rewrite lothar_battle_lose_faa7d97b:
 
@@ -1744,15 +1744,15 @@ translate schinese_rewrite lothar_battle_lose_82822a0c:
 
 translate schinese_rewrite lothar_battle_lose_00dbc16c:
 
-    l "你没事吧?"
+    l "你还好吗？"
 
 translate schinese_rewrite lothar_battle_lose_c5810a64:
 
-    e "N-no。"
+    e "不、不好。"
 
 translate schinese_rewrite lothar_battle_lose_475921bf:
 
-    "你躺在地上,呼吸迅速... 感觉到两只强壮的手臂 把你抬上来了。"
+    "你躺在地上急促地喘息……随后感觉到两条强壮的手臂正把你抱起来。"
 
 translate schinese_rewrite lothar_battle_lose_c8fab859:
 
@@ -1760,31 +1760,31 @@ translate schinese_rewrite lothar_battle_lose_c8fab859:
 
 translate schinese_rewrite lothar_battle_lose_07261c8a:
 
-    e "谢谢..."
+    e "谢谢……洛萨尔。"
 
 translate schinese_rewrite lothar_battle_lose_4cf823b0:
 
-    l "你不能说我是个坏导师。"
+    l "呃……这下你总不能说我是个糟糕的师父了……"
 
 translate schinese_rewrite lothar_battle_lose_7838fa6c:
 
-    "英雄走得尴尬 他的手摸过你的底部 然后你就立刻在你的呼吸中颤抖。"
+    "英雄走得有些别扭，他的双手擦过你的臀部，你立刻低声扭动起来。"
 
 translate schinese_rewrite lothar_battle_lose_d4c9f9b5:
 
-    l "它是为了支持。"
+    l "这是为了扶稳你。"
 
 translate schinese_rewrite lothar_battle_lose_b1e38b70:
 
-    "他更紧紧地紧紧抱住你, 当你的整个重量沉入他的双手 在他的屁股下。"
+    "他把你抱得更紧，你全身的重量都压在他托住你屁股的双手上。"
 
 translate schinese_rewrite lothar_battle_lose_3c116f13:
 
-    "和你想否认的一样 他的柔软背感觉就像梦中沉睡 慢慢地 你失去意识"
+    "尽管你不愿承认，他柔软的后背舒服得像梦一样，你慢慢失去了意识-"
 
 translate schinese_rewrite lothar_battle_lose_1a0b2080:
 
-    l "门徒,我不记得打你那么狠。"
+    l "别这样，徒弟……我不记得自己下手有这么重……"
 
 translate schinese_rewrite lothar_battle_lose_b6b4b49a:
 
@@ -1792,19 +1792,19 @@ translate schinese_rewrite lothar_battle_lose_b6b4b49a:
 
 translate schinese_rewrite lothar_battle_lose_10d82c45:
 
-    e "嗯?"
+    e "嗯……？"
 
 translate schinese_rewrite lothar_battle_lose_9def1af6:
 
-    l "Get down."
+    l "下来。"
 
 translate schinese_rewrite lothar_battle_lose_7178b33d:
 
-    e "你能带我上床吗?"
+    e "你、你能把我带回床上吗……？"
 
 translate schinese_rewrite lothar_battle_lose_b79a65a6:
 
-    l "我不想看到狮子..."
+    l "我不想见那头狮子……"
 
 translate schinese_rewrite lothar_battle_lose_82822a0c_1:
 
@@ -1812,7 +1812,7 @@ translate schinese_rewrite lothar_battle_lose_82822a0c_1:
 
 translate schinese_rewrite lothar_battle_lose_09574c24:
 
-    "英雄什么也不说,他只用另一只手敲门进入商店。"
+    "英雄什么也没说，只用另一只手敲了敲门，走进了商店。"
 
 translate schinese_rewrite lothar_battle_lose_90c7b065:
 
@@ -1820,7 +1820,7 @@ translate schinese_rewrite lothar_battle_lose_90c7b065:
 
 translate schinese_rewrite lothar_battle_lose_6a3f6e18:
 
-    l "所以..."
+    l "那么……"
 
 translate schinese_rewrite lothar_battle_lose_8673786b:
 
@@ -1828,11 +1828,11 @@ translate schinese_rewrite lothar_battle_lose_8673786b:
 
 translate schinese_rewrite lothar_battle_lose_d7399025:
 
-    l "我已经尽了职责了 休息一下吧。"
+    l "我已经尽到职责了。休息吧。"
 
 translate schinese_rewrite lothar_battle_lose_166bcab7:
 
-    e "Lot...?"
+    e "洛特……？"
 
 translate schinese_rewrite lothar_battle_lose_9e185da1:
 
@@ -1840,27 +1840,27 @@ translate schinese_rewrite lothar_battle_lose_9e185da1:
 
 translate schinese_rewrite lothar_battle_lose_6b20c35a:
 
-    e "谢谢你送我回来。"
+    e "谢谢你把我背回来。"
 
 translate schinese_rewrite lothar_battle_lose_11b61cf8:
 
-    l "只是对面的一条街而已。"
+    l "没什么……就隔着一条街而已。"
 
 translate schinese_rewrite lothar_battle_lose_af189a0a:
 
-    l "再说,我以前从没有过门徒。"
+    l "再说了，我以前从没收过徒弟。"
 
 translate schinese_rewrite lothar_battle_lose_48a2eb91:
 
-    l "不是那两个人,他们太强壮了,不能当门徒。"
+    l "不是那两个，他们太强了，做不了我的徒弟。"
 
 translate schinese_rewrite lothar_battle_lose_cd43d83f:
 
-    l "所以,你应该感激..."
+    l "所以，你该心怀感激……"
 
 translate schinese_rewrite lothar_battle_lose_8d1a3474:
 
-    e "再次感谢..."
+    e "再次谢谢你……"
 
 translate schinese_rewrite lothar_battle_lose_06672196:
 
@@ -1876,15 +1876,15 @@ translate schinese_rewrite lothar_battle_lose_a20cefa7:
 
 translate schinese_rewrite lothar_battle_lose_1d439112:
 
-    "你醒了一段时间后, 不知道现在几点了... 但你看外面,看到阳光照耀..."
+    "过了一会儿，你醒了过来，不知道现在是什么时辰……但你向外望去，看见阳光正照耀着大地……"
 
 translate schinese_rewrite lothar_battle_lose_2b16b774:
 
-    "应该是早上..."
+    "应该是早上……"
 
 translate schinese_rewrite lothar_battle_lose_ab719b0f:
 
-    "你下床 手摇着脸 看见手掌里有条灰色的毛 仍然温暖。"
+    "你下了床，瞥了一眼自己的手，发现掌心里有一缕灰色的毛发。它依旧温热。"
 
 translate schinese_rewrite lothar_battle_lose_55ef911c:
 
@@ -1892,11 +1892,11 @@ translate schinese_rewrite lothar_battle_lose_55ef911c:
 
 translate schinese_rewrite lothar_battle_win_eaf2480d:
 
-    l "操..."
+    l "操……"
 
 translate schinese_rewrite lothar_battle_win_d8a1c3af:
 
-    l "A-ahhh."
+    l "啊、啊……"
 
 translate schinese_rewrite lothar_battle_win_dcbe178b:
 
@@ -1908,23 +1908,23 @@ translate schinese_rewrite lothar_battle_win_1e8ffa56:
 
 translate schinese_rewrite lothar_battle_win_c21547cb:
 
-    l "不。他妈的..."
+    l "不。操……"
 
 translate schinese_rewrite lothar_battle_win_78aa0a30:
 
-    e "没事,只是打拳击。"
+    e "没事……只是切磋而已……"
 
 translate schinese_rewrite lothar_battle_win_f22eb4bc:
 
-    l "去你的,我从来没见过 任何门徒这么狠狠地打他们的英雄。"
+    l "去你的，我从没见过哪个徒弟能把自己的英雄打得这么狠。"
 
 translate schinese_rewrite lothar_battle_win_eaf2480d_1:
 
-    l "操..."
+    l "操……"
 
 translate schinese_rewrite lothar_battle_win_44e5f098:
 
-    l "啊,啊... 你为什么这么他妈的..."
+    l "啊、啊……你怎么这么让人想操……"
 
 translate schinese_rewrite lothar_battle_win_951590b2:
 
@@ -1936,76 +1936,75 @@ translate schinese_rewrite lothar_battle_win_1e8ffa56_1:
 
 translate schinese_rewrite lothar_battle_win_c21547cb_1:
 
-    l "不。他妈的..."
+    l "不。操……"
 
 translate schinese_rewrite lothar_battle_win_78aa0a30_1:
 
-    e "没事,只是打拳击。"
+    e "没事……只是切磋而已……"
 
 translate schinese_rewrite lothar_battle_win_269feffe:
 
-    l "操你,我从来没见过门徒 这么努力地想搞死他们。"
+    l "去你的，我从没见过哪个徒弟这么卖力地想让自己的屁股被操。"
 
 translate schinese_rewrite lothar_battle_win_fe1f7424:
 
-    l "如果我不清醒,我会 真正抓住你的屁股,吃它就在这里。"
+    l "要不是我现在还清醒着，我真会当场抓住你的屁股狠狠舔个够。"
 
 translate schinese_rewrite lothar_battle_win_67bfe123:
 
-    l "你很幸运 因为我昨晚喝醉了。"
+    l "而且你只是走运，因为我昨晚喝醉了。"
 
 translate schinese_rewrite lothar_battle_win_ad7279d5:
 
-    e "你不是每晚都喝醉吗?"
+    e "你不是每天晚上都喝醉吗……？"
 
 translate schinese_rewrite lothar_battle_win_6111d811:
 
-    l "不,不管怎样,也许我低估了你, 但如果我处于严重状态,你甚至不能碰我!"
+    l "不。算了，也许是我低估了你，但要是我认真起来，你根本碰不到我！"
 
 translate schinese_rewrite lothar_battle_win_eaf2480d_2:
 
-    l "操..."
+    l "操……"
 
 translate schinese_rewrite lothar_battle_win_453df8a1:
 
-    e "关于"
+    e "关于赌-"
 
 translate schinese_rewrite lothar_battle_win_e64fb882:
 
-    l "没有赌注,滚开,让我休息..."
+    l "不赌了，滚开，让我休息……"
 
 translate schinese_rewrite lothar_battle_win_166bcab7:
 
-    e "Lot...?"
+    e "洛特……？"
 
 translate schinese_rewrite lothar_battle_win_1a1e56a2:
 
-    l "我说了不赌。"
+    l "我说了，不赌。"
 
 translate schinese_rewrite lothar_battle_win_6d9927f9:
 
-    e "您需要帮忙吗？"
+    e "需要我扶你吗？"
 
 translate schinese_rewrite lothar_battle_win_42700055:
 
-    l "不,现在别烦我..."
+    l "不。现在离我远点……"
 
 translate schinese_rewrite lothar_battle_win_c0615259:
 
     "你看看洛萨尔,他轻轻地呻吟着 紧地抱着他的胃。"
-
 translate schinese_rewrite lothar_battle_win_c35580ca:
 
-    "你想和他更亲近多少都行 他显然不需要你的帮助。"
+    "尽管你很想靠近他，但他显然不需要你的帮助。"
 
 translate schinese_rewrite lothar_battle_win_cb2cb16e:
 
-    "也许他很快就能克服 等你打完拳击后恢复过来。"
+    "也许等他从这场切磋中恢复过来，很快就会想开了。"
 
 translate schinese_rewrite lothar_battle_win_1cec19b9:
 
-    "否则他就会继续对你发泄他的挫折..."
+    "又或者，不管出于什么原因，他会继续把这份郁闷发泄在你身上……"
 
 translate schinese_rewrite lothar_battle_win_41c11815:
 
-    "所以你再看他一次,然后回到主干道。"
+    "现在，你觉得自己不该继续留在这里。于是你又看了他一眼，便回到了主路上。"

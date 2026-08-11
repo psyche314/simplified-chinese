@@ -3,1179 +3,1179 @@
 
 translate schinese_rewrite Snowbound_Summit_Loop_f218f235:
 
-    "雪球融化到一无所有..."
+    "雪球融化殆尽……"
 
 translate schinese_rewrite Snowbound_Summit_Loop_a6e780af:
 
-    "似乎你已经填满了这里所有的洞, 并且你能听到一个水晶的声音 震碎了距离。"
+    "看来你已经填满了这里所有的洞；远处传来水晶碎裂的声响。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_94cd9e17:
 
-    "你靠近营火,感觉温暖。"
+    "你靠近篝火，感受着它的暖意。看来雪球经过火堆附近时，每三步就会融化一些……"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6acf661c:
 
-    "它似乎可以卷雪球 周围,它会变得更大 每三个步骤, 但它会分裂 如果它得到超过12步。"
+    "雪球似乎可以在这里滚动；每滚动三步就会变大，但超过十二步便会崩散。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_a205f980:
 
-    "洞是空的,但似乎你可以用白雪填满它。也许足够大一个,但太大可能堵住路..."
+    "洞里空空如也，但看起来可以用白雪填满。也许要滚一个够大的雪球，不过太大也可能堵住道路……"
 
 translate schinese_rewrite Snowbound_Summit_Loop_66e051f6:
 
-    "这个坑深到地底,不可能走过去, 你可能需要填满一个更大的洞..."
+    "这个坑一直深入地下，无法直接走过去。你可能得用更大的雪球把它填上……"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6afe5668:
 
-    "你走过雪 从峰顶, 回到熟悉泰加森林。"
+    "你穿过积雪，离开山顶，回到熟悉的针叶林。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_581596cb:
 
-    "你检查冰块的裂缝 发现里面有一道奇怪的碎片。"
+    "你查看冰层上的裂缝，发现里面有一块奇怪的碎片。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_8811b32e:
 
-    "被咬断的碎片触摸起来有点冷 触摸的时候会像松冰柱一样响。"
+    "这块参差不齐的碎片摸起来有些冰冷，碰到时会像松动的冰柱一样哗啦作响。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6a63728c:
 
-    "碎片的表面似乎被 暗暗的闪闪银色的树枝刻着。"
+    "碎片表面似乎刻着符文，在昏暗的光线中闪烁着银光。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_242bc7fb:
 
-    "关键打击可能会减慢一个 但位置良好的打击可能会击碎冰块"
+    "“致命一击或许能让人暂缓脚步，但找准位置的一击可以击碎冰层。”"
 
 translate schinese_rewrite Snowbound_Summit_Loop_bbb82a53:
 
-    "你跪在顶峰的雪坡边缘 翻过最后的冰冻的漂流 以揭开乌龙的根。"
+    "你跪在山顶雪坡边缘，拨开最后一缕冻硬的积雪，露出乌龙的茎干。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_62163286:
 
-    "植物是深绿色的,茶叶的气味也从中流出。叶子微光微,即使在咬咬的风中,也稍微温暖。"
+    "植物呈深绿色，空气中飘来茶叶的清香。即使在刺骨寒风中，叶片也泛着微弱的暖光。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_28224bf8:
 
-    e "一定是Oolong 哈斯克尔说的 我应该挖出工厂离开。"
+    e "这一定就是哈斯凯尔说的乌龙。我该把它挖出来，然后离开。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_b9a92c9e:
 
-    "你从工厂中收获了大部分的奥隆叶叶 留下一些仍在生长的叶子。"
+    "你从植物上采下大部分乌龙叶，只留下几片仍在生长的叶子。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_3aa9c843:
 
-    "植物还活着,你可以看到 根还是和看守人的毛皮交织在一起。"
+    "植物还活着；你能看见它的根仍和看守者的毛发纠缠在一起。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_0f5b4587:
 
-    "但它似乎没有增长, 或没有你所希望的那么多。"
+    "但它似乎没有继续生长，至少没有像你希望的那样。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_1fe2f5c2:
 
-    "你的手在叶子上刷牙 试图收割剩下的叶子。"
+    "你的手拂过叶片，试图采下剩余的叶子。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_b39bc2a0:
 
-    "但植物似乎抵制你的触摸 好像它知道你已经吃得够多了。"
+    "但植物似乎抗拒你的触碰，仿佛知道你已经拿得够多了。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6261792d:
 
-    "低声回声从地上传来 你听到一个深沉的叫声。"
+    "低沉的轰鸣从地底传来，你听见一个深沉、粗哑的声音。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_811391be:
 
-    snow_caretaker "摩托,你已经吃够了..."
+    snow_caretaker "凡人，你已经拿得够多了……现在滚开，我要睡觉。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_96052372:
 
-    e "对不起,我不是故意打扰你的。"
+    e "啊，抱歉，我不是故意打扰你的。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_00c21d58:
 
-    e "嗯,你打算长出更多的Oolong吗?"
+    e "呃，你还会再种出乌龙吗？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_91c8026c:
 
-    snow_caretaker "不,直到花园的温柔 接管... 用他的斧头。"
+    snow_caretaker "不会，除非有人接手花园的照料……拿着他的斧头来。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_a7704a8c:
 
-    "你把斧子拿出来 放在Oolong工厂前面。"
+    "你取出斧子，放在乌龙植株前。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_2fb6f765:
 
-    "植物抽动,你可以看到根部略有移动, 好像它们试图伸向斧头。"
+    "植物抽动了一下；你看见根部微微移动，仿佛正试图够向斧子。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_c35d894c:
 
-    "看守人很快又从雪中再次浮出水面。"
+    "没过多久，看守者再次从雪中钻出。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_ef24759e:
 
-    snow_caretaker "道德,什么是意义 这个扰乱症 --"
+    snow_caretaker "凡人，这番打扰是什么意思——"
 
 translate schinese_rewrite Snowbound_Summit_Loop_0980e6f3:
 
-    "看守人停止了中句, 他的眼睛在扩大 因为他看到斧子在他的眼睛。"
+    "看守者的话说到一半便停住了；看见你手中的斧子时，他的双眼陡然睁大。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_3fdcd90b:
 
-    snow_caretaker "玉子的斧子... 你找到了吗?"
+    snow_caretaker "奥科的斧子……你找到了？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_5c3cad76:
 
-    e "嗯,这个吗?"
+    e "呃……是这把？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_28226db6:
 
-    snow_caretaker "是的,他的园艺斧子有很多战斧 但是这个,这个很特别。"
+    snow_caretaker "没错。他有过许多战斧，但这把园艺斧……这把很特别。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_79b7197d:
 
-    snow_caretaker "如果是在你手里的话,那么... 你会是个好园丁,不是吗?"
+    snow_caretaker "既然它在你手里……你会是个好园丁，对吧？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_fb7f78cb:
 
-    e "我想是这样吗?"
+    e "我……想来是吧？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_bf304d78:
 
-    snow_caretaker "那么,你愿意照顾花园吗?"
+    snow_caretaker "那么，你愿意照料花园吗？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_06740e6f:
 
-    e "是的,我可以接管花园。"
+    e "愿意，我可以接手花园。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_5e3b73a0:
 
-    snow_caretaker "很好,凡人,然后乌龙的生长将随你而动,从现在开始,乌龙将归你收割。"
+    snow_caretaker "很好，凡人。从现在起，乌龙的生长由你掌控；花园里的乌龙归你采收。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_02927bff:
 
-    snow_caretaker "但是要知道,凡人,你现在必须 承担照顾花园的责任。"
+    snow_caretaker "但你要明白，凡人：从今往后，你也肩负着照料花园的责任。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_e53b32d3:
 
-    e "责任是什么?"
+    e "这责任具体是什么？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6d3bb9dc:
 
-    "看守把雪从他的皮草上 粘住的雪上抹去 然后转过来找你。"
+    "看守者拍掉毛发上沾着的积雪，然后转身面向你。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_486be50b:
 
-    snow_caretaker "你会帮助欧隆成长。"
+    snow_caretaker "你要帮助乌龙生长。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_2dd370c3:
 
-    "仅用一个简短的回答,看守人就转身离开,因为看守人继续晒太阳。"
+    "看守者只简短地回答了一句，便转身离开，继续在阳光下休憩。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_cf31740c:
 
-    e "嗯,我不知道,我的意思是, 我只是想得到乌龙。"
+    e "呃……我不知道。我只是想拿到乌龙。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_ded51044:
 
-    snow_caretaker "我明白了,凡人,那你就是不配承担这个责任。"
+    snow_caretaker "我明白了，凡人。那你还不配承担这份责任。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_2471df91:
 
-    "看守队退后,他眼神缩小 当他看着你时 有点失望。"
+    "看守者后退一步，眯起眼睛，目光中带着一丝失望。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_31f76daf:
 
-    "他很快地钻进雪里 留下你一个人 拿着你带的斧头。"
+    "他迅速钻入雪中，只留下你和带来的斧子。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6fe90c91:
 
-    "标语写着:\"雪球可以滚动来填满洞, 滚动时会变大, 但12步后会分崩离析。\""
+    "牌子上写着：“雪球可以滚动来填满洞；每滚动一次都会变大，但滚满十二步后就会散掉。”"
 
 translate schinese_rewrite Snowbound_Summit_Loop_106e1c4d:
 
-    "为了打破密封晶 必须填满所有的洞"
+    "“要打破封印水晶，必须填满所有的洞。”"
 
 translate schinese_rewrite Snowbound_Summit_Loop_28e1c976:
 
-    "牌子上写着:\"雪人是雪人,一旦败坏,雪就变成原来的雪。\""
+    "牌子上写着：“雪人由雪构成；战败后，它可能会恢复原形。”"
 
 translate schinese_rewrite Snowbound_Summit_Loop_7bf4b196:
 
-    "\"在营火附近扔雪球 就会把它熔化几步\""
+    "“在篝火附近滚动雪球，会让它融化几步。”"
 
 translate schinese_rewrite Snowbound_Summit_Loop_4843177e:
 
-    "牌子上写着:\"这里,雪是浅的,雪球如果重修同样的瓷砖,就会留下雪雪。\""
+    "牌子上写着：“这里的雪层很浅；雪球如果再次经过同一格，就会在那格留下积雪。”"
 
 translate schinese_rewrite Snowbound_Summit_Loop_b15219d1:
 
-    "看守看着你亲近他 他的光芒似乎表明 他不喜欢你的出现。"
+    "看守者盯着你走近；他的目光仿佛在表明，他并不欢迎你的出现。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_b791aaa1:
 
-    e "Uh, hey."
+    e "呃，你好。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_605bb89c:
 
-    snow_caretaker "你辜负了我的信任,凡人。你没有照顾我的花园,你也没有给我带来我所需要的精华。"
+    snow_caretaker "你辜负了我的信任，凡人。你没有照料我的花园，也没有带来我需要的精华。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_86696000:
 
-    "他离你近了一步, 逼近你,。"
+    "他向你逼近一步，居高临下地压迫着你。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_fc3ae9ce:
 
-    e "我正要这么做 看守 我只是想和你谈谈。"
+    e "我……我正准备去做，看守者。我只是想先和你谈谈，看看自己有没有漏掉什么。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_e32cbb1b:
 
-    snow_caretaker "别再说谎了,凡人 如果你不打算完成交易,我只能自己从你身上解脱。"
+    snow_caretaker "别再撒谎了，凡人。你若不打算履行交易的另一半，我就只能亲自从你身上提取精华。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_1fbc5d6c:
 
-    snow_caretaker "但别担心,我的雪人会帮忙。"
+    snow_caretaker "不过别担心，我的雪人同伴会帮忙。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_d43459d4:
 
-    "看守站在你面前 他好像在等你接近他。"
+    "看守者站在你面前，似乎在等你走近。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_68457702:
 
-    e "嘿,我还以为你要睡觉了?"
+    e "嘿，我还以为你要重新睡觉了？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_3a464cbc:
 
-    "看守用空白的表情看着你。"
+    "看守者面无表情地看着你。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_fbcde52b:
 
-    snow_caretaker "你把我从深沉睡中唤醒了, 我不能这么快就睡着, 特别是当花园需要照顾的时候。"
+    snow_caretaker "是你把我从沉睡中唤醒；花园正需要照料，我不可能这么快就重新入睡。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_42ac6bb1:
 
-    e "多久这么快?"
+    e "多快才算‘这么快’？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_9b8fb9c0:
 
-    snow_caretaker "也许几年。"
+    snow_caretaker "也许要过几年。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_0d9ca0a0:
 
-    e "Mood。"
+    e "我懂。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_51ddf60d:
 
-    snow_caretaker "你现在该去花园了 而不是问些毫无价值的问题。"
+    snow_caretaker "现在你该去照料花园，而不是提些毫无意义的问题。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_65c57bcc:
 
-    e "我现在可以收获乌龙了?"
+    e "所以，我现在可以采收乌龙了？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_37370a86:
 
-    snow_caretaker "尽管你不愿意,我答应给你乌龙 在你照顾花园后,不管你怎么做。"
+    snow_caretaker "尽管你不情愿，我答应过在你照料花园后把乌龙交给你，不管你是怎么完成的。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_a0febeb4:
 
-    snow_caretaker "你对花园的照顾很好,凡人。奥隆人正在成长,它准备收获。"
+    snow_caretaker "没错，凡人。你把花园照料得很好；乌龙长势不错，已经可以采收了。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_eb5f93ba:
 
-    "你点头,当看守转身 从他的头上摘了几片叶子, 交给你。"
+    "你点点头。看守者转过身，从头顶摘下几片叶子，递给你。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_f68c16e7:
 
-    snow_caretaker "知道我的弟兄们和你一样 都满意你的工作。"
+    snow_caretaker "你要知道，我的同伴和我一样满意你的表现。欢迎你再次照料这座花园。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_504f3e6f:
 
-    "你摘下看守人的手叶, 它们温暖的触摸, 你可以感觉到它们微弱的脉冲 能量来自它们。"
+    "你从看守者手中接过叶子。它们摸起来温热，你能感到其中传来一丝能量的脉动。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_a64de47b:
 
-    e "那么,你实际上是什么意思 照顾花园?"
+    e "那么，你说的‘照料花园’究竟是什么意思？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_e735d963:
 
-    snow_caretaker "将你的精华喷洒到Oolong工厂 就像Ookko一样。"
+    snow_caretaker "你要像奥科当初那样，把自己的精华喷洒在乌龙植株上。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_41b529bd:
 
-    e "等等,你以前没这么说过！"
+    e "等等？你之前可没这么说！"
 
 translate schinese_rewrite Snowbound_Summit_Loop_40100e58:
 
-    snow_caretaker "你以前没有问过,凡人。"
+    snow_caretaker "你之前也没问，凡人。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_8364f637:
 
-    "你摇摇头 显然你期望任务会很复杂 但你没想到它会用你的\"立场\"。"
+    "你摇摇头。你显然料到这项任务会很复杂，却没想到竟然要用到你的‘精华’。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_1dcec7c8:
 
-    e "所以,我只是喷在你身上,对不对?"
+    e "所以，我只要把它喷在你身上，对吧？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_ab76f740:
 
-    snow_caretaker "是的,但是不,我猜你将会想念植物,浪费你同类的宝贵精华。我期望你给我一瓶你的药瓶,或任何更好的人,或者我可以安排一种形式,从你身上提取精华。"
+    snow_caretaker "可以，但也不可以。我猜你会错过植株，白白浪费你族类珍贵的精华。我希望你带来一小瓶自己的精华；若是别人的也行。否则，我可以安排仪式，直接从你身上提取精华。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_cda3e617:
 
-    e "还有其他人吗?"
+    e "别人的也行？所以……不一定非得是我的？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_027e0a6b:
 
-    snow_caretaker "是的,我身上有很多生物的精华, 不管是原始的,龙,甚至牛头,都足够了。"
+    snow_caretaker "是的。我已经接触过许多生灵的精华——原初神、巨龙，甚至弥诺陶洛斯的也足够。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_b8da0443:
 
-    snow_caretaker "但我更希望直接从源头提取你的新精华。"
+    snow_caretaker "但我更希望直接从源头提取你新鲜的精华。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_6186867a:
 
-    "你点头。"
+    "你点点头。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_f36efbc6:
 
-    e "那么,谁是Ookko?"
+    e "那么，奥科是谁？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_f35aeb93:
 
-    snow_caretaker "奥科是观察雪地的原始人,他的精髓是使乌龙复活的精髓,我的宗旨就是如此。"
+    snow_caretaker "奥科是守望雪国的原初神。他的精华让乌龙获得生命，也赋予了我存在的使命。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_3b215cb1:
 
-    e "最原始的吗?"
+    e "原初神？也就是说，他像神一样？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_2187a1dc:
 
-    snow_caretaker "创造世界的古老神之一,是的。"
+    snow_caretaker "没错，他是创造世界的古老神祇之一。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_218fe0a3:
 
-    snow_caretaker "他早就离开了我们的国家 但我仍然必须履行我的职责。"
+    snow_caretaker "他早已离开我们的世界，但我依然受职责所缚。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_44265542:
 
-    e "你说你睡在睡梦里?"
+    e "所以，你之前说自己在沉睡？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_f80159df:
 
-    snow_caretaker "是的,花园已经很长时间没有被管理了, 我被安置在深沉睡中, 来保护奥隆人的能源。"
+    snow_caretaker "是的。花园已经很久没人照料；为了保存乌龙所需的能量，我被置于沉睡之中。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_97ec793a:
 
-    e "还有其他人照顾花园吗?"
+    e "还有其他人照料过这座花园吗？"
 
 translate schinese_rewrite Snowbound_Summit_Loop_ea464402:
 
-    snow_caretaker "很少有人,但他们都走了,或都死了。我不记得他们的名字,但我记得他们的本质。"
+    snow_caretaker "有过一些，但他们都离开了，或者死去了。我不记得他们的名字，却记得他们的精华。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_f29a9e7e:
 
-    "看守人用空白的表情看开他 好像他在比较每个精髓的记忆一样。"
+    "看守者面无表情地移开视线，仿佛正在比较每一份精华的记忆。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_c169efa6:
 
-    snow_caretaker "你的本质不同,凡人 它让我想起了原始的。"
+    snow_caretaker "你的精华不一样，凡人。它让我想起了那位原初神。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_d7c01da7:
 
-    e "嗯,是的... R -r！"
+    e "呃，好……我这就走！"
 
 translate schinese_rewrite Snowbound_Summit_Loop_29606b85:
 
-    "你紧张地点头 试图从那怪物身边溜走。"
+    "你紧张地点头，试图从那头生物身边溜走。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_11aaf3d3:
 
-    snow_caretaker "你准备好去花园了吗?"
+    snow_caretaker "你准备好照料花园了吗？"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_8244dc1f:
 
-    e "是的,我有一瓶弥诺陶洛斯的药瓶。"
+    e "准备好了，我带来了一瓶弥诺陶洛斯的精华。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_77139e91:
 
-    "你把小瓶的精髓交给看守, 看守拿它时要点头。"
+    "你把精华小瓶递给看守者；他满意地点头接过。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_47113f4f:
 
-    snow_caretaker "牛头怪?"
+    snow_caretaker "弥诺陶洛斯？你怎么弄到的——……很好，凡人，我接受了。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_7745f806:
 
-    snow_caretaker "感谢您的服务,凡人,奥科照顾你。"
+    snow_caretaker "感谢你的服务，凡人。奥科会庇佑你。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_0a210327:
 
-    snow_caretaker "如果你想收割乌龙,一天后就可以收割,到时就可以了。"
+    snow_caretaker "如果你想采收乌龙，一天后即可动手；到那时它就成熟了。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_6186867a:
 
-    "你点头。"
+    "你点点头。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_1c09e4f1:
 
-    "你身上没有任何精华 你得先得到一个。"
+    "你身上没有任何精华……得先去弄一份。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_ad7c5290:
 
-    e "你自己从我身上提取精华怎么样?"
+    e "不如你直接从我身上提取精华？"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_dcc31a63:
 
-    snow_caretaker "我强烈反对,凡人,我的体型会很容易打碎你, 这不会是一个愉快的经历。"
+    snow_caretaker "我强烈建议你不要这么做，凡人。我的体格轻易就能把你弄伤，那不会是愉快的体验。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_85e850d5:
 
-    snow_caretaker "你最好还是把精华放进瓶子里..."
+    snow_caretaker "你还是把精华释放到瓶子里比较好……"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_ebdb0b31:
 
-    "你盯着看守的两腿之间的巨大的深处 只能想象它进入你体内会有多痛苦。"
+    "你盯着看守者两腿之间那根巨大的阳物，只能想象它插入自己体内会有多痛苦。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_8ec2dd65:
 
-    e "我可以接受, 看守。"
+    e "我承受得住，看守者。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_adc3e2cf:
 
-    "他点头。"
+    "他点了点头。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_0e0fb6ca:
 
-    snow_caretaker "好吧,凡人,那么我邀请我的雪人伙伴 协助提取。"
+    snow_caretaker "很好，凡人。那我就叫我的雪人同伴来帮忙提取。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_528e8642:
 
-    "你大声地说, 被已经挂满了的雪人包围的念头...。..而看守人却抽取你的精髓...。..是无法忍受的, 但你点头反正。"
+    "你夸张地咽了口唾沫。一想到自己被那些已经挂在那里的雪人包围，而看守者还要从你身上提取精华，你就难以忍受；可你还是点了点头。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_640c0f61:
 
-    e "也许以后,我需要考虑一下。"
+    e "还是以后吧，我……我得想想。"
 
 translate schinese_rewrite Scene_Caretaker_Tending_Menu_c7b6f524:
 
-    snow_caretaker "道德,你答应照顾我的花园, 所以你最好快点做, 否则我会从你身上提取精华。"
+    snow_caretaker "凡人，你答应过照料我的花园；所以最好尽快去做，否则我就亲自从你身上提取精华。"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_7b85b728:
 
-    "在冰雪中,你发现一个奇怪的石板。"
+    "在冰雪之间，你发现了一块奇怪的石板。"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_f02975c5:
 
-    "上面印着奇怪的标记 由古代的词和字母混合而成 几乎无法辨认出来。"
+    "石板上布满奇异的刻痕，古老符文与字母混杂其中，几乎难以辨认。"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_525884f3:
 
-    "但是,通过一些努力和很多的分辨, 你设法破译了文本。"
+    "你费了一番力气，眯着眼仔细辨认，终于解读出上面的文字。"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_e7920d9b:
 
-    "牌牌 I - 勇士的休息"
+    "石板 I——战士的歇息"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_ae188b89:
 
-    "天空烧杀时代,雷鸣不是来自云,而是来自冲突刀片,Ookko在枯萎松谷谷中冲刺。{i}{/i}"
+    "{i}“在苍穹交锋的年代，雷鸣不来自云端，而来自交错的刀锋；奥科穿行于枯松谷。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_eec6c315:
 
-    "{i}' 的碎干箱在风下的冰雪咆哮,晶状的霜冻压在每一根树枝上。他停在冰冻的溪边,它的时间被锁住了,甚至连乌鸦的笼子都被白色的寂静吞了。'{/i}"
+    "{i}“银白的树干在寒风的怒号下呻吟，晶莹的霜压弯每一根枝条。他在一条冻结的小溪旁停下——溪水的流动已被时间锁住，就连乌鸦的叫声也被白色的寂静吞没。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_6659a61c:
 
-    "{i}'厌倦了凡人的争吵和神的阴谋, 他抛下冠子和斧子, 让风抹去每一场战斗的记忆。 '{/i} ' '"
+    "{i}“他厌倦了凡人的争斗与神祇的阴谋，便丢下王冠与斧头，任风带走每一段战斗的记忆。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_9fd0b691:
 
-    "他感到渴望战争的疲软, 心中也有一种奇怪的冲动。{i}{/i}"
+    "{i}“每一步都踩碎坚硬如雪的冻土，他感到对战争的饥渴逐渐平息——心中却生出一种奇异的冲动。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_II_42c9eb48:
 
-    "牌牌二 - 巴伦十字架"
+    "石板 II——荒芜之巅"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_II_355208fa:
 
-    "松树旁的松树是Barren Crest:漂移的平原, 旋翼像黄昏的幽灵喷雾一样跳舞。 {i}{/i}"
+    "{i}“越过松林便是荒芜之巅：积雪不断变换的高原，飞雪如黄昏时幽灵般的余烬翩舞。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_II_9814e811:
 
-    "在那里,没有野兽敢游荡,天空的苍白窗帘似乎向土推动。他剥去他的盔甲和斧子,把它扔进空隙,在冰冻的地面上流下。'{i}{/i}"
+    "{i}“那里没有野兽敢于游荡，天空苍白的帷幕仿佛向大地压下。他褪去铠甲与斧头，将它们抛入虚空，然后跪在冰封的土地上。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_II_3bfb80fe:
 
-    "欧科伸出他的勇猛手,撒出种子——他自己主权意志的碎片,受到神火的温暖,但因数世纪的争斗而寒冷。{i}{/i}"
+    "{i}“在比他挖出的任何战壕都更深的绝望中，奥科伸出戴着铠甲的手，洒下种子——那是他自身君权意志的碎片，受神火温暖，却被数百年的纷争冰冷。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_III_5db9d66a:
 
-    "牌板 III - 第一流"
+    "石板 III——初芽"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_III_9804b182:
 
-    "{i}'Winter的气息在十天和黄昏的三次中占据了最高位。然而,在月光地壳下,只有一个弯曲在颤抖。'{/i}"
+    "{i}“冬日的气息统治一切，持续了三十个昼夜。然而在月光照耀的冰壳下，一根细小的卷须颤动起来。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_III_4bdfd2b9:
 
-    "它破碎了结壳的冰块 有个微裂口—— 一种微小的回声,像易碎骨头的流传。'{i}{/i}"
+    "{i}“它伴着一声轻微的脆响破冰而出——如同脆骨断裂时传来的回声。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_III_800d1765:
 
-    "{i}'Ookko, 由这个奇迹所吸引, 包围了这个地方, 周围有活冻的病房, 形成冰笼, 以遮蔽产卵,{/i}"
+    "{i}“奥科被这奇迹吸引，在四周布下由活雪构成的结界，塑出冰笼，保护这株新生之物免受雪崩巨人与迷途旅人的侵扰。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_IV_8df122a7:
 
-    "表四 - Oolong 的叶子"
+    "石板 IV——乌龙之叶"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_IV_157df80c:
 
-    "当年轻的叶子在叶子上钉起第一组叶子时,它喷出一种香味,用熔化的钢铁混合成蜂蜜黄昏。'{i}{/i}"
+    "{i}“幼苗长出第一簇叶片时，吐出一缕香气，将蜜糖般的暮色与熔化的钢铁交织在一起。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_IV_85a22030:
 
-    "{i}'Ookko拔出一片叶子,在山顶积雪中沉浸其中——它热力雕刻的蒸汽面纱向天空跳动。他尝了酒的滋味:没有火焰的温暖,没有静止的平静。'{/i}"
+    "{i}“奥科摘下一片叶子，将它浸入冒着热气的山巅积雪中——热力雕出的蒸汽帷幕向天际起舞。他品尝这杯茶：不借火焰的温暖，不止于静止的平和。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_IV_72088d2c:
 
-    "{i}在恭敬的沉默中,他在摇摇欲坠的狂欢中说出一个名字——“奥隆。”即使现在,那些吸着叶子的人在梦中也说着闪烁的东西,从一个没有人看见的地方看着。{/i}"
+    "{i}“他在旋卷的狂风中以虔敬的低语念出一个名字——‘乌龙。’直到今天，啜饮其叶的人仍会在梦中看见闪烁的幻影，仿佛有目光从凡人无法触及之处注视着他们。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_V_c32b3eb8:
 
-    "平板五 - 去年三月"
+    "石板 V——最后的行军"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_V_218b7a83:
 
-    "黎明时分,奥科再次身穿星光盔甲,在乌龙的根部大堆之前,半身被雪地底的毛圈所淹没。“{i}'At dawn shirt's first slummer, Ookko再次把自己刺穿在星光的盔甲中。'{/i}''"
+    "{i}“黎明初现，奥科再次披上星光铠甲。他跪在乌龙根系形成的根团前，半个身子埋在雪堆下纠缠的毛发卷中。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_V_f39ca126:
 
-    "{i}'他低头低头, 提出一个沉默的誓言:这个从战争遗留下来的生命, 将会在钢铁和雷电消退时持续。'{/i}"
+    "{i}“他低下头，立下无声的誓言：这个从战争余烬中诞生的生命，将在钢铁与雷鸣消散之后继续存在。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_V_0ac894e1:
 
-    "{i}号之后,他把目光从高峰会的顶峰上转开, 摇摇晃的荧光滑过脚步, 冲入聚集的阴暗中, 对抗吞噬的黑暗。 {/i}"
+    "{i}“随后，他把目光从山巅移开——旋卷的飞雪在他脚下打滑——迈入渐浓的暮色，去面对那吞噬一切的黑暗。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_V_32189ab9:
 
-    "他的靴子的指纹在这里消失,还有花园的钝斧。但是,在雪下,Oolong脉冲的根仍然根部,好像要求Primordial返回一样。'{i}{/i}"
+    "{i}“他的靴印在此消失，花园那把钝斧也一同不见踪影。然而在雪下，乌龙的根仍在搏动，仿佛在召唤原初神归来。”{/i}"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_Menu_033111ae:
 
-    "似乎我没法挖出乌龙号 没有大块的..."
+    "没有泥铲，看来你没法把乌龙挖出来……"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_be91f1d7:
 
-    "你拔出大 跪下 挖下乌龙工厂周围的雪。"
+    "你取出泥铲，跪下来挖开乌龙植株周围的积雪。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_221951aa:
 
-    "结骨咬入冰冻的大地, 你感到一种奇怪的温暖 从植物辐射出来。"
+    "泥铲咬入冻土，你感到一股奇异的暖意从植物中辐射出来。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_9881cff1:
 
-    e "我能感觉到 我几乎能尝到。"
+    e "我能感觉到……我几乎已经尝到它的味道了……"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_78fa7a1a:
 
-    "慢慢地你揭示了植物扭曲的根, 但是当你的手指紧贴在树干周围的时候, 地面在你下面震动。"
+    "你一点点露出植物扭曲的根系；可当手指合拢在茎干周围时，脚下的地面突然震颤起来。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_aed530a5:
 
-    e "哈... 那是什么?"
+    e "嗯……刚才那是什么？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_9ba4db7f:
 
-    "一个低的暴风雪把空气分开。 工厂的扣子和裂缝周围的雪, 和一种从白色喷发的呼喊形式..."
+    "一声低沉的轰鸣撕裂空气。植物周围的积雪隆起、碎裂，一个魁梧的身影从白雪中破土而出——"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_beb52857:
 
-    "它几乎使你的身高翻倍 它的身体覆盖着厚厚的 乌龟毛皮 被松散的雪和冰冷的蓝丝 射穿。"
+    "这生物几乎有你的两倍高，身上覆盖着厚厚的赤褐色毛发，毛间夹着松散的积雪与冰蓝色的条纹。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_a0b24cef:
 
-    "树枝根植在头上 树叶像皇冠一样喷出。"
+    "乌龙植株扎根在它头顶，叶片像王冠般向四周展开。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_eee69d83:
 
-    "它的眼睛是明亮的, 明亮的蓝色, 和它的气息 由冰冻的浮肿 挂在空气中,像云。"
+    "它的双眼泛着明亮的霓虹蓝，呼吸化作一团团霜雾，像云朵般悬在空中。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_e63d5379:
 
-    my "O Ookko 你终于回来了吗?"
+    my "奥……奥科？你终于回来了吗？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_3a0e9936:
 
-    "你点头 试着装腔作势 低调的发声。"
+    "你点点头，试图伪装出低沉浑厚的声音。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_060240c0:
 
-    e "是的,我回来了,我在这里收获植物。"
+    e "是的，我回来了；我来这里采收这株植物。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_7b144dc0:
 
-    "生物的眼睛很窄 鼻孔很臭 向空气中发出一团冻结。"
+    "生物眯起眼睛，喷出一股霜气。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_60dfaa7b:
 
-    my "你的气味欺骗了我,但你的声音不是,凡人。"
+    my "你的气味骗过了我，声音却骗不了我，凡人。你竟敢踏入奥科的领地？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_3983def4:
 
-    e "不,我不是八子,我只是个旅行者,我在找茶叶。"
+    e "不，我不是奥科。我只是个旅行者，来寻找茶叶。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_d30fd3c3:
 
-    "你退后一步,举起手来 做一个安抚的姿态 当你试图保持距离 你与那个流浪生物。"
+    "你后退一步，举起双手作安抚状，同时试图与这头魁梧的生物保持距离。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_96af0b44:
 
-    my "旅行者,你敢踏上大角的地盘吗?"
+    my "旅行者？你竟敢踏入奥科的领地？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_a6bc0267:
 
-    e "我只需要植物,朋友,拜托,我无意伤害你。"
+    e "我只是需要这株植物，替一个朋友取的。求你了，我没有恶意。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_fa9787f1:
 
-    my "你是来入侵我的花园 打扰我的睡衣 现在你竟敢问我的产卵?"
+    my "你闯入我的花园，打扰我的沉睡，现在竟敢索要我的后代？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_3f7dcbc2:
 
-    my "你比大胆更愚蠢,凡人..."
+    my "你不是勇敢，只是愚蠢，凡人……"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_19f0e442:
 
-    my "你胆大妄为,凡人,但八子不是没有怜悯的。"
+    my "你很大胆，凡人。但奥科并非毫无怜悯。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_fe2e36d4:
 
-    e "我可以帮你处理花园 如果你让我拿一些的话。"
+    e "如果你允许我取一些，我可以帮你照料花园。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_881a6e82:
 
-    my "我不能否认,花园被忽略太久了。"
+    my "嗯……我不能否认，这座花园荒废得太久了。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_5492d410:
 
-    my "说定了,凡人,你可以拿走一些植物 但作为交换,你必须照顾花园。"
+    my "成交，凡人。你可以取走一些植物，但作为交换，必须照料花园。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_b7c1e1d4:
 
-    my "我能闻到大角的温暖,告诉我,凡人,你是怎么拿到斧子的?"
+    my "我能闻到奥科留在你身上的温暖。告诉我，凡人，你是如何得到那把斧子的？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_5c3cad76:
 
-    e "嗯,这个吗?"
+    e "呃……这把？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_c6bd7ef9:
 
-    my "是的,他的园艺斧子有很多战斧 但是这个,这个很特别。"
+    my "没错。他有过许多战斧，但这把园艺斧……这把很特别。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_7423c229:
 
-    my "如果是在你手里的话,那么... 你会是个好园丁,不是吗?"
+    my "既然它在你手中……你应该会是个好园丁，对吧？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_d5fa49e9:
 
-    "你点头, 生物把冻冻云吹到空气中。"
+    "你点点头，那生物呼出一团霜雾。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_a9b860a4:
 
-    my "把植物拿走吧,凡人,大子看着你。"
+    my "拿走这株植物吧，凡人。奥科正在注视着你。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_f357d70a:
 
-    e "哦,就这样了?"
+    e "就这样？我可以直接拿走？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_58e05626:
 
-    my "是的,只要你答应 照顾花园。"
+    my "可以，只要你答应照料花园。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_20441bb6:
 
-    e "好吧,我会处理好的。"
+    e "好吧，我会照料它。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_e9f5c64c:
 
-    e "我该怎么打电话给你?"
+    e "我该怎么称呼你？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_2f60c810:
 
-    snow_caretaker "奥科叫我看守 我照顾花园,他不在。"
+    snow_caretaker "奥科给我取名看守者。在他离开期间，我负责照料花园。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_a052adb0:
 
-    e "哦,小玉没有给你一个名字吗?"
+    e "哦，奥科没给你一个正式的名字吗？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_7ad64d25:
 
-    "看守会仔细思考一下 你可以看到他眼里有迷惑的暗示。"
+    "看守者沉思片刻；你在他眼中看见了一丝困惑。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_45785f48:
 
-    snow_caretaker "但我对小木子来说不重要 植物是他所需要的。"
+    snow_caretaker "但对奥科而言，重要的不是我；他需要的只有这株植物。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_ccff19b4:
 
-    snow_caretaker "我和植物一起产卵 但我不是植物 我只是看管者。"
+    snow_caretaker "我与植物一同诞生，却不是植物。我仅仅是看守者。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_1e215823:
 
-    e "我能叫你\"{i}big fuzzy guys{/i}\"吗?"
+    e "我叫你‘{i}毛茸茸的大个子{/i}’，可以吗？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_5f4b3143:
 
-    snow_caretaker "不。"
+    snow_caretaker "不行。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_28697363:
 
-    "与他通常的有计划的发言相比,反应相当快。"
+    "比起他平日里斟酌再三的说话方式，这个回答来得相当快。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_d409f262:
 
-    e "好吧,公平。我是[e],顺便说一句。"
+    e "好吧，也有道理。我叫[e]，顺便说一下。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_c5d320ca:
 
-    snow_caretaker "好吧,[e],你可以把植物取走,但你知道, 你现在被绑在了木子的花园里。"
+    snow_caretaker "很好，[e]。你可以取走这株植物，但要知道，你现在已经和奥科的花园绑在了一起。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_13f09730:
 
-    "你点头,然后那个生物退后 他跪在你面前 当他弯下头来 让你看到整个植物。"
+    "你点点头。那生物退后，跪在你面前并低下头，让你看清整株植物。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_274856d2:
 
-    "他的大爪子在树叶上刷刷 你可以看到植物的根 和看守人的毛皮交织在一起。"
+    "他用巨大的爪子拂过叶片；你能看见植物的根系与看守者的毛发纠缠在一起。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_3dbc2c8f:
 
-    "你看着看守把工厂修整, 仔细地切掉一些叶子,然后把它们交给你。"
+    "你看着看守者修剪植株，小心摘下几片叶子，放进你的手中。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_2c080eb5:
 
-    e "谢谢。我很感激。"
+    e "谢谢，我很感激。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_cb2258dd:
 
-    "守护者点头 他的手掌对着剩下的叶子擦 然后站起来 再次高举你。"
+    "看守者点点头，手掌擦过剩余的叶片，然后重新站起，再次高高俯视着你。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_feda8def:
 
-    "你站在那里, 冻在原地 当你保持安静, 你的心脏跳动 在你的胸口。"
+    "你僵在原地，一言不发，心脏在胸腔里怦怦直跳。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_966dbbad:
 
-    my "最后,你又回到我身边了,不是吗?"
+    my "终于，你还是回到我身边了，对吗？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_f6e171d5:
 
-    "生物的眼睛扩大了, 它向前迈出了一步, 它的庞大形式 逼近你。"
+    "生物睁大眼睛，向前迈出一步，庞大的身躯朝你压来。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_1978c161:
 
-    my "你离开已经几个世纪了 我还以为你永远不会回来了。"
+    my "你离开……恐怕已经有几百年了。我还以为你永远不会回来。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_3da4845f:
 
-    "你退后一步,在怪物面前挥动你的手臂 但他的眼睛从未动过。"
+    "你后退一步，在那生物面前挥舞双臂，可他的目光始终没有移开。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_b94af05a:
 
-    my "虽然..."
+    my "不过……"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_f50cf693:
 
-    "他又向前一步,你感到地底的震动。"
+    "他又向前迈了一步，你感到地面在脚下震动。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_06549c78:
 
-    my "先生,但你知道我很想再照顾花园。"
+    my "我暂且安静下来吧，大人。但你要知道，我很想再次照料花园。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_dc797683:
 
-    "那个怪物背对着你 他再次走到高峰会的边缘 盯着距离。"
+    "生物背过身去，再次走向山顶边缘，凝视着远方。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_6d3ff151:
 
-    "似乎没有注意到你 或者你反应不足 也许他已经习惯了。"
+    "它似乎没有注意到你，也没有注意到你毫无回应；或许它早已习惯这样。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_28eae50c:
 
-    "你退后一步 试着在你和那个生物之间保持一些距离。"
+    "你后退一步，试图与那头生物拉开些距离。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_5b98b95e:
 
-    "怪物稍微转过头来 看着你的眼睛缩小。"
+    "那生物微微转过头，眯起眼睛注视着你。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_9b1c2351:
 
-    my "Ookko..."
+    my "奥科……"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_f8f789d7:
 
-    "你再退后一步 怪物的眼睛就会变大。"
+    "你又后退一步，那生物惊讶地睁大了眼睛。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_658d94e2:
 
-    my "你... 你是谁?"
+    my "你……你是谁？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_19e3a5a4:
 
-    e "I-"
+    e "我——"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_f3713e4f:
 
-    "你伸出手来寻找植物, 当你的手指对着叶子刷, 动物的眼睛会大得令人惊讶。"
+    "你伸手去够那株植物；当手指拂过叶片时，那生物惊讶地睁大了眼睛。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_9b02a33e:
 
-    my "等等,你在干什么,你不是..."
+    my "等等……你在做什么？你不是——你是谁？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_2da38151:
 
-    "这生物似乎感觉到你的出现 它退后一步。"
+    "那生物似乎察觉到了你的存在，向后退了一步。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_dfde5ce5:
 
-    my "你只是凡人 你是怎么进入大角的领地的?"
+    my "你只是个凡人。你是怎么进入奥科的领地的？"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_889f3197:
 
-    "你冷冻,你的心脏跳动 在你的胸口 当你试图想一个反应。"
+    "你僵住了，心脏在胸腔里怦怦跳动，努力思考着该如何回答。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_b84ffe15:
 
-    my "没关系,你是入侵者..."
+    my "无论如何，你都是入侵者……"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_4b1d8352:
 
-    "用咆哮,生物向前飞,它的爪伸展, 你几乎无法躲开这条路。"
+    "生物咆哮着扑来，利爪向前伸出；你勉强躲开了这一击。"
 
 translate schinese_rewrite Snowbound_Summit_Oolong_73f63d41:
 
-    snow_caretaker "人 阿、 容 我。 因 我 是 这 园 中 的 看守、 你 不 能 不 打 仗、 也 不 能 进 木 子 的 花园！"
+    snow_caretaker "面对我，凡人。我是这座花园的看守者——没有经过一场战斗，你休想进入奥科的花园！"
 
 translate schinese_rewrite Chilly_Ice_Cave_fd3f1cc6:
 
-    bearGuard "指挥官,我们以前检查过这个洞穴,除了几杯酒,这里是空的 但我们可以再看看。"
+    bearGuard "指挥官，我们之前检查过这座洞穴，里面空空如也……除了几只冰泥怪。不过，我们可以再快速看一眼。"
 
 translate schinese_rewrite Chilly_Ice_Cave_77482edd:
 
-    "一只守卫用鱼叉踩地,造成响亮的隆隆声。"
+    "一名熊护卫用鱼叉杵了杵地面，震出一阵巨响。"
 
 translate schinese_rewrite Chilly_Ice_Cave_0ee5a087:
 
-    d "安静 我不认为这里是空的。"
+    d "安静。我觉得这里并不空。"
 
 translate schinese_rewrite Chilly_Ice_Cave_a210401a:
 
-    "你们四个人只往洞穴里走几步 在前面的冰柱之间 出现一匹苍白的鞭子之前。"
+    "你们四人只往洞穴里走了几步，一道苍白的身影便在前方的冰柱间一闪而过。"
 
 translate schinese_rewrite Chilly_Ice_Cave_1adea531:
 
-    bearGuard "接触!"
+    bearGuard "有敌情！"
 
 translate schinese_rewrite Chilly_Ice_Cave_154a48b3:
 
-    "一个卫兵用本能扔了他的鱼叉。 被刺伤的头咬到冰冻的柱子深处,而裂缝听起来像骨头裂开。"
+    "一名护卫本能地掷出鱼叉。带倒刺的叉头深深刺入覆着霜的石柱，发出如骨头裂开般的脆响。"
 
 translate schinese_rewrite Chilly_Ice_Cave_b0590cb6:
 
-    "心跳一跳,一切都会保持,然后入口上方的天花板就来了。"
+    "一时间，一切都静止不动。随后，入口上方的天花板塌了下来。"
 
 translate schinese_rewrite Chilly_Ice_Cave_beb82b6b:
 
-    "岩石和旧的冷冻碎片在你身后坠落 在一块石头的雷鸣中, 封住洞口 以一团白尘和破碎的冰块。"
+    "岩石和早已冻住的碎屑在你们身后轰然坠落，石块的巨响震耳欲聋；洞口被白色尘雾和碎冰彻底封死。"
 
 translate schinese_rewrite Chilly_Ice_Cave_d6cf281d:
 
-    bearGuard "指挥官!"
+    bearGuard "指挥官！出口！"
 
 translate schinese_rewrite Chilly_Ice_Cave_85be2d61:
 
-    "Daggi和两名卫兵都投身于倒塌的瓦砾上,。"
+    "达吉和两名护卫扑上去推挤坠落的碎石，但较大的石板几乎纹丝不动。"
 
 translate schinese_rewrite Chilly_Ice_Cave_8824716c:
 
-    d "够了 停 你们只会埋得更深。"
+    d "够了。停下。这样只会把你们自己埋得更深。"
 
 translate schinese_rewrite Chilly_Ice_Cave_5afb8aff:
 
-    bearGuard "我们会继续的 指挥官。"
+    bearGuard "我们会继续清理，指挥官。"
 
 translate schinese_rewrite Chilly_Ice_Cave_6f0c3124:
 
-    d "守住入口,清清楚楚,大声叫喊。"
+    d "照做。守住入口，能清多少就清多少；如果身后有什么动静，就大声喊我。"
 
 translate schinese_rewrite Chilly_Ice_Cave_753f2bfe:
 
-    "他向你转过身来,下巴合在一起 一只手仍然紧紧地在他的鱼叉井上。"
+    "他转过身来，下颌绷紧，一只手仍紧紧握着鱼叉的杆柄。"
 
 translate schinese_rewrite Chilly_Ice_Cave_b9417444:
 
-    d "不管是什么原因,我也不想忘记你[e]。"
+    d "跟紧我，[e]。不管刚才是什么造成的，它还在这里；我也不想和你失散。"
 
 translate schinese_rewrite Chilly_Ice_Cave_8f61d08f:
 
-    "洞口又张开了 早期的塌陷早已消失。"
+    "洞口再次敞开，先前的塌方早已清理干净。"
 
 translate schinese_rewrite Chilly_Ice_Cave_9ce1a799:
 
-    "只有冷水的融水和你自己脚步的刮痕 现在回答你, 任何急迫的 困扰这个地方 已经走了。"
+    "现在回应你的，只有融水滴落的冰冷声响，以及靴底刮过霜层的声音；曾经笼罩此地的紧迫感早已消散。"
 
 translate schinese_rewrite Chilly_Ice_Cave_3f962433:
 
-    "从更深处传来一张冷的纸卷 后面是一块厚重的石头。"
+    "一阵冷风从更深处涌上来，紧接着传来沉重的石头摩擦声。"
 
 translate schinese_rewrite Chilly_Ice_Cave_3d6badee:
 
-    e "不。Daggi需要看到这一点。"
+    e "不行。达吉得看看这个。"
 
 translate schinese_rewrite Chilly_Ice_Cave_c6836474:
 
-    "不管洞穴里藏着什么 这已经不是你该单独处理的事情了。"
+    "不管洞穴里藏着什么，这都已经不是你该独自处理的事了。"
 
 translate schinese_rewrite Chilly_Ice_Cave_7110cc94:
 
-    "你从洞穴里出来。"
+    "你从洞穴里退了出来。"
 
 translate schinese_rewrite Chilly_Ice_Cave_5fe88461:
 
-    "洞穴几乎同时吞下外面的风,取而代之的是,只有融化的水滴和你的靴子在冻结之后磨碎,才造成混凝土的静态。"
+    "洞穴几乎一瞬间就吞没了外面的风，取而代之的是一片闷闷的寂静，只有融水滴落和靴底碾过霜层的声音偶尔将它打破。"
 
 translate schinese_rewrite Chilly_Ice_Cave_f0e07f40:
 
-    "洞穴的口还是空的,你猜头长和达格吉还在等你。"
+    "洞口依旧空无一人；你估摸着首领和达吉还在外面等你。"
 
 translate schinese_rewrite Chilly_Ice_Cave_caad4d89:
 
-    "没有附近的任何人,冰柱感觉更高, 彼此之间的阴影更深, 每一个苍白的冰霜片段 让你肩膀紧张。"
+    "身边没有其他人，冰柱显得更高，柱间的阴影也更深；每一片苍白的霜痕都让你不由得绷紧肩膀。"
 
 translate schinese_rewrite Chilly_Ice_Cave_5b70f9c1:
 
-    e "这就是卫兵说的洞穴。"
+    e "原来这就是那个护卫提到的洞穴。"
 
 translate schinese_rewrite Chilly_Ice_Cave_c99e6fdf:
 
-    "在洞穴的深处 有东西湿滑过石块 然后安静下来。"
+    "洞穴深处某处，有什么湿漉漉的东西划过石面，随后归于寂静。"
 
 translate schinese_rewrite Chilly_Ice_Cave_05ddaed7:
 
-    e "应该有人在这里。"
+    e "这里应该有人才对。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_fcb2c129:
 
-    "从瓦砾的很远的一面,你听到卫兵们用手动动石块的混凝土菌株声。"
+    "从碎石另一侧，你听见护卫们徒手挪动石块时发出的闷闷用力声。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_7be3049d:
 
-    bearGuard "几乎能搞定这个,继续!"
+    bearGuard "这个快好了，加把劲！"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_e5d47ee1:
 
-    d "他们还在玩。很好。"
+    d "他们还在忙。很好。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_a2bbdaec:
 
-    "洞穴的张开口让白日的刀片 和外面更干净的雪味。"
+    "敞开的洞口放进一缕白色日光，也带来洞外更清新的雪的气息。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_93da1d3f:
 
-    "你远离寒冷的黑暗 回到山脊上 留下洞穴。"
+    "你从冰冷的黑暗中退开，沿山脊原路返回，暂且把洞穴留在身后。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_c382cdc7:
 
-    "切碎的石头楼梯倒回到下面的地下墓穴, 恐慌和从前的乱七八糟的状态已经消失, 只有寒冷的空气能与你相遇。"
+    "凿出的石阶向下通往下方的墓室。之前的慌乱与奔逃已经消失，只剩寒气升上来迎接你。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_21ed41c6:
 
-    "切碎的石头楼梯 下方深处的深井 每一步都结冰 洞穴光中闪烁着蓝色的微光。"
+    "凿出的石阶向下延伸进更暗的竖井，每一级都覆着古老的霜，在洞穴的光线下泛着蓝光。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_940fcd84:
 
-    e "这些是刻的,不是吗?"
+    e "这些是人工凿出来的，对吧？这不只是天然通道。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_416401d5:
 
-    d "部落封了地下墓穴 在我出生前很久就不再来这里了。"
+    d "不是。要是传说没错，这是古老的墓葬阶梯。早在我出生前很久，部族就封闭了下面的墓室，不再来这里。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_a76abcca:
 
-    e "现在声音从下面传来。"
+    e "现在声音就是从下面传来的。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_27a30860:
 
-    d "很可能。"
+    d "很有可能。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_37ef0368:
 
-    "Daggi把鱼叉的尾巴栽在石头上 研究下面的黑暗 静默一分钟。"
+    "达吉把鱼叉的底端抵在石头上，默默研究了一会儿下方的黑暗。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_60b77883:
 
-    d "我们先看看下面的大厅,如果下面有什么东西在移动, 我不想在黑暗中看着它时把它往后移。"
+    d "我们先去看看下面的房间。如果有什么东西在下面活动，我不想我们盯着黑暗时，它从背后爬上来。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_faad7696:
 
-    e "你真的认为卫兵能及时清理道路吗?"
+    e "你真觉得那些护卫能及时清出路来？"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_a26a8d4c:
 
-    d "我不知道,但如果他们做不到,那么你和我会找到另一个出口。"
+    d "不知道。但如果他们做不到，你我就另找出口。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_495089f9:
 
-    "切碎的石头楼梯消失在下面的寒冷的黑暗中, 既平坦又刻意,除了人造的之外,什么都不是。"
+    "凿出的石阶消失在下方更冷的黑暗中；它们过于平整、规整，显然不可能是自然形成的。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_ea914869:
 
-    e "守卫不只是听到洞穴回声,对吧?"
+    e "墓室……护卫之前听到的不是洞穴回声……对吧？"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_71aa810b:
 
-    "你从最近的一步的边缘蹲下 刷子结霜,下面的石头是老旧的, 平滑地用脚磨着, 很久没穿过这条路了。"
+    "你蹲下身，拂去最近一级台阶边缘的霜。下面的石头古老而光滑，仿佛已经很久没人从这里经过。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_e7f06b5b:
 
-    e "如果这些噪音是从下面发出来的 一个人走得更深 将是愚蠢的。"
+    e "如果制造那些声响的东西来自下面，那我们再独自深入可就太蠢了。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_31802408:
 
-    "不过,从下面升起的薄纸条 仍然随着同样微弱,湿刮痕 听到你在入口附近听到。"
+    "不过，从下面升起的细微气流仍带着同样微弱、湿漉漉的刮擦声——你在入口附近听到过的声音。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_3f2f8687:
 
-    "同样的不舒适的刮痕 从下面上升, 昏倒但故意, 好像有人更深 在地窖听到 再次听到你停止在楼梯上。"
+    "同样令人不安的刮擦声从下方传来，微弱却刻意，仿佛墓室深处有什么东西听见你再次在台阶上停了下来。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_6a1ed7a5:
 
-    "旧的楼梯又回到了 赫德藏身的隐蔽室。"
+    "古老的阶梯向下通往赫德暂避的隐秘房间。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_2486e6cb:
 
-    "旧的楼梯消失在下面的黑暗中, 带着更冷的空气从更深的地窖里爬上来。"
+    "古老的阶梯没入下方的黑暗，将寒气从墓室更深处某个未知之所带了上来。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_5daf36eb:
 
-    "你用两只手把胸盖上的霜刷起来 并用双手把它撬开。"
+    "你拂去箱盖上的霜，双手用力将它撬开。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_c258f1f4:
 
-    "里面有人留下了两罐绿色药膏 包装在一块古老的冰块上 让他们保持冷冻。"
+    "里面放着两罐绿色药膏，周围裹着一块古冰，以便保持低温。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_08fae56a:
 
-    "胸口现在空空如也 里面有一块薄薄的冰冻壳。"
+    "箱子现在空了，内壁覆着一层薄薄的旧霜。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_4df84a96:
 
-    "在盖子下面,你发现两根铁球 包裹在一对雪莓旁边的旧布上。"
+    "插销发出脆响后松开。箱盖下面，你找到两块用旧布包着的铁锭，旁边还有两颗雪莓。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_82f512e7:
 
-    "一块石头碎片, 上面有一块腐烂的雕刻 躺在胸口的底部, 你仔细地把它捡起来, 但是它似乎是一个更大的数字的一部分..."
+    "箱底躺着一块刻痕已经褪色的石片。你小心将它捡起，却发现它似乎只是某个更大雕像的一部分……"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_4515d636:
 
-    "胸口的底部只有一块小的冻布。"
+    "敞开的箱子底部只剩下一小块冻硬的布料。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_52b10db6:
 
-    "你举起更重的盖子 发现一小堆藏物 三块铜 和一对捆绑的长矛螺丝。"
+    "你抬起更沉重的箱盖，发现一小堆藏品：三块铜料和两束捆好的苦薄荷。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_82f512e7_1:
 
-    "一块石头碎片, 上面有一块腐烂的雕刻 躺在胸口的底部, 你仔细地把它捡起来, 但是它似乎是一个更大的数字的一部分..."
+    "箱底躺着一块刻痕已经褪色的石片。你小心将它捡起，却发现它似乎只是某个更大雕像的一部分……"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_cbd750c7:
 
-    "这个箱子已经被洗干净了。"
+    "这只箱子已经被搜刮一空。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_9feb9928:
 
-    "冰面上一片苍白的冰流 切断了你的道路。"
+    "一团淡蓝色的冰泥怪在冰面上颤动着，挡住了你的去路。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_21607c03:
 
-    d "接触! 保持你的立足点, [e]！"
+    d "有敌情！站稳脚跟，[e]！"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_4ee0e47d:
 
-    "Daggi放下他的鱼叉 站在你旁边 当它喷出冷凝胶时。"
+    "那东西喷溅着冻结的凝胶向前冲来，达吉压低鱼叉，走到你身旁。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_9feb9928_1:
 
-    "冰面上一片苍白的冰流 切断了你的道路。"
+    "一团淡蓝色的冰泥怪在冰面上颤动着，挡住了你的去路。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_b89b5ef6:
 
-    "喷洒冷凝胶 迫使你打架。"
+    "那东西喷溅着冻结的凝胶冲上前来，逼得你不得不迎战。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Walk_Down_e50af07e:
 
-    "你沿着楼梯走 直到通道打开 进入一个圆圆的大厅 半个半被碎石 与倒塌的碎片。"
+    "你沿着阶梯向下走，直到通道豁然开入一间圆形房间；塌方留下的碎石几乎将房间堵住。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Walk_Down_0144bcee:
 
-    "远墙雕刻在头盔上,宽肩和严酷,即使在几个世纪的冻冻之下也是如此。"
+    "对面墙上雕刻着一个戴头盔的人像，即使被数百年的霜冻覆盖，也依旧肩宽魁梧、神情肃杀。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_616ef48f:
 
-    "角落中的形状混蛋。"
+    "角落里的身影突然一动。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_442f4d7e:
 
-    "鹿角从碎片倒塌的后面 明显地从后面掉下来 虽然你并不完全确定它的主人会注意到。"
+    "那对鹿角格外显眼地从坍塌的碎石后伸出来，尽管你不太确定它的主人是否意识到这一点。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3955bff8:
 
-    "你慢慢向前走,双手张开,看得见, 试图看到谁的鹿角藏在瓦砾后面。"
+    "你慢慢向前走去，双手张开、清晰可见，想看清藏在碎石后的鹿角属于谁。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_c03ee328:
 
-    "很快你就能看到更多 棕臂缠着他的腿 黑暗的鼻孔屏住他的呼吸 是鹿群。"
+    "没过多久，你便看清了更多：棕色的手臂紧紧环着他的双腿，黑色的口鼻屏住呼吸——那是赫德。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_257b6522:
 
-    "他的眼睛宽大,呼吸不畅,一只摇动的手在你们中间,停手。"
+    "这头麋鹿死死贴在墙边，仿佛只要石头肯收留，他就会钻进墙里。他双眼圆睁，呼吸凌乱。一只颤抖的手挡在你们之间：停下。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_257e5e30:
 
-    e "牛?"
+    e "赫德？"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_190997f2:
 
-    "没有变化。"
+    "没有任何变化。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1e01d4b2:
 
-    "你再试一次 安静点 棕榈树开着 但你声音的声音 似乎只会让他更难撑。"
+    "你再次开口，这次声音更轻，掌心向外；可你的声音似乎只让他更加绷紧。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_0c2219e6:
 
-    "你停下来,慢慢沉到一个蹲下 更小一点,不像威胁一样。"
+    "你停在原地，然后缓缓蹲下。这样更矮小，也更不像威胁。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_ede7773e:
 
-    "暂时你们都不做任何事情, 房间里唯一的噪音就是他的呼吸 和偶尔的石头滴。"
+    "有一阵子，你们谁也没有动作。房间里唯一的声响是他的呼吸，以及头顶石块偶尔沉降时发出的轻响。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b3288f09:
 
-    "你把手放在他能看到的地方 尽量不要把他挤到人群里。"
+    "你把双手留在他看得见的地方，尽量不逼近他。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_83342ab4:
 
-    "在他肩膀松开之前 长长的距离甚至有一点点松动。"
+    "过了很久，他的肩膀才稍稍放松了一点点。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3aed09b5:
 
-    "你举一只手 手举起来 手举起来 然后停下来 让他决定这是什么意思。"
+    "你微微抬起一只手，掌心向上，随后停在那里，让他自己决定这意味着什么。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_28b6a2e5:
 
-    "他的眼睛从你的脸上一直闪到你的手指上, 不确定,但好奇,尽管他自己。"
+    "他的视线不停在你的脸和手指之间来回，尽管心存疑虑，却又抑制不住好奇。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_95477bd9:
 
-    "过一会儿你又用习惯说话了。"
+    "过了一会儿，你出于习惯再次试着开口。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_0e608b34:
 
@@ -1183,35 +1183,35 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_0e608b34:
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_26f4cca3:
 
-    "他只盯着眼睛看。"
+    "他只是盯着你。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_6e29c79f:
 
-    "你指向自己 然后指向你从的隧道 然后摇头。"
+    "你指指自己，又指向来时的隧道，然后摇了摇头。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_7cc19039:
 
-    "错误的动作,他太紧张了 就像你举起武器一样,你几乎在它降落前 大声回答他。"
+    "这一步错了。他绷紧身体的速度，仿佛你刚举起了武器。你差点又要出声回答他，直到你终于反应过来。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_8e0d7ddf:
 
-    "当大牢里出现低沉的呻吟的时候,牛群在你之前就有所反应。他的手掌已经放在地上,感觉到石块的震动。"
+    "房间发出低沉、沉闷的呻吟时，赫德比你更快做出反应。他的手掌已经按在地面上，感受石头传来的震动。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_10630c5f:
 
-    "他看着你的手,肩膀,身体,呼吸的方式。"
+    "他观察着你的双手、肩膀、身体的姿态，以及你呼吸一滞时的样子。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_a6bdfc4a:
 
-    "你摸你的喉咙,然后摇动你的头 轻轻地指着他。"
+    "你摸了摸自己的喉咙，然后摇头，轻轻指向他。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_9d41c7bd:
 
-    "这能让他明白,但不多,但足够让他理解。"
+    "这一次他理解了。虽然不多，但足够了。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_6052fc39:
 
-    "你敲你的胸口。"
+    "你拍了拍自己的胸口。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_5031b55a:
 
@@ -1219,15 +1219,15 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_5031b55a:
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_dc0a2c22:
 
-    "然后你再做一次,慢一点, 使这个词的形状变得明显, 即使它本身毫无意义。"
+    "然后你又重复了一遍，这次慢得多，让这个词的口型清晰可辨，哪怕它本身对他毫无意义。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_95232b8e:
 
-    "你用手指从脚上的灰尘中拉开手指 写下你的名字 然后敲你的胸口。"
+    "你用手指在脚边的尘土上划过，写下自己的名字，然后拍了拍胸口。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1cb1e1f8:
 
-    "牛群看着整个序列,然后用拳头打自己的胸口。他再次这样做,这次更坚固。"
+    "赫德看完整套动作，随后用拳头按住自己的胸口。这一次，他按得更用力。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_700c03d9:
 
@@ -1235,811 +1235,810 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_700c03d9:
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_d8848d47:
 
-    e "牛群。"
+    e "赫德。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_45919cf1:
 
-    "至少,看起来没错,你一眼就看到 永远皱眉的笑容。"
+    "至少这个好像说对了。你从他一贯紧皱的眉头间捕捉到一丝笑意。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_27eb5ac7:
 
-    "其余的走得很艰难。"
+    "接下来就不太顺利了。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_f01fedea:
 
-    "你指自己,他指自己,你指自己,你指楼梯,他以你不懂的快速动作回答你, 当你猜错了,向前移动时,他用鹿角撞墙,试图离你而去。"
+    "你指指自己，他指指自己。你指向台阶。他用一个你无法理解的动作回应；你猜错了，向前挪动时，他为了躲开你，一只鹿角撞上了墙。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_178f6140:
 
-    "你皱眉想弄清楚你哪里出错了。"
+    "你皱起眉，努力想弄清自己哪里做错了。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_21a73b4d:
 
-    "他再研究你一阵子 再试一次。"
+    "他又打量了你许久，然后再次尝试。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_e2b515b3:
 
-    "双手指朝你方向闪动 手掌平直 手伸出来。"
+    "这一次，他把动作简化了：拍胸口表示自己；向你弹动两根手指；摊平手掌表示停下；张开手表示安全；手腕利落一挥表示不。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b5add8ca:
 
-    "你仍然怀念其中的一部分。他仍然必须重复自己的话。但他的确耐心地阻碍一个长期被误解的人。"
+    "你还是漏掉了一些，他也不得不重复示范。但他确实会耐心重复，像一个长期被人误解的人那样。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_18be7971:
 
-    "一旦他意识到你会继续尝试,他伸手往下,用手扶平一块尘土。运动是整齐的,是练习过的。"
+    "意识到你会继续尝试后，他俯身用手掌侧面把一小片尘土抹平。动作利落而熟练。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1168fc66:
 
-    "然后他开始画画。"
+    "接着，他开始画图。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_c0e24597:
 
-    "他的手指现在移动得很快,墙上的线条,石块断裂的标记, 碎石碎片放下,移到一边站到角落,转弯。"
+    "他的手指现在动得飞快：用线条表示墙壁，用标记表示石头的断裂；他把碎石片放下又挪开，代表拐角与转弯。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_9ad3ca60:
 
-    "这比任何事情都更能令你面前的人看起来像造物主的Herd。 即使是被困在角落里,被吓得半饿,他的思想也直奔结构。"
+    "这一点最能让眼前这个人看起来像大家一直谈论的那个建筑师赫德。即使被逼入绝境，恐惧几乎将他耗尽，他的思绪仍会直奔结构。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3d80ad43:
 
-    "然后他的手飞向手腕断断的绳索。"
+    "随后，他的手猛地抓向腕上的断绳。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_94e0b39c:
 
-    "他低头看着它,然后在地板上, 然后带着一股原始的挫折的光芒回到你身边。"
+    "他低头看看绳子，又看看地面，最后抬头看你，眼中闪过一丝毫不掩饰的懊恼。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_d318ddad:
 
-    "你指着绳子 张开眉毛。"
+    "你指了指绳子，挑起眉毛。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_e582ffad:
 
-    "他回到尘土中 画得够硬 留下深处的沟槽。"
+    "他重新伏到尘土上，用力画下去，深深的沟痕留在尘土中。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_5f98dfdc:
 
-    "首先洞穴口倒塌 然后一个小鹿角工作天体 掉进下面的裂缝。"
+    "他先画出洞口塌陷，然后画出一件鹿角制的小型星盘滚落到下方裂缝里的情景。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_15722366:
 
-    "在那之后,他只绘制了一条粗糙的线 古老的石块, 超越了崩溃。"
+    "之后，他只粗略画出塌方后方一段更古老的石壁。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_da3013d8:
 
-    e "你在找的东西吗?"
+    e "是你要找的东西？"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3465a30d:
 
-    "你用一只手指追踪掉下来的遗迹 然后指向通道。"
+    "你用一根手指描摹坠落的遗物，然后指向通道下方。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_ef1b2cca:
 
-    "他点头,快速和紧紧。"
+    "他迅速而紧绷地点了点头。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_fa6aefbc:
 
-    "你把手伸向一个问题中的更深层的密码处。 鹿群用一个小的、刺激的颤抖和重新绘制的星盘比地板上所有东西都大。"
+    "你向更深处的墓室摊开双手，表示疑问。赫德有些不耐烦地耸了耸肩，又把星盘画得比地上其他东西都大。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b00c6c35:
 
     "好吧，我明白了。"
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3a64795a:
 
-    e "所以它应该就在这里?"
+    e "所以，它应该就在这里的某处？"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b493404a:
 
-    "你敲打自己的胸膛, mime在下面搜索, 然后mime举起小的东西,然后把它还回去。"
+    "你拍了拍自己的胸口，做出在下方寻找的动作，然后又比划着抬起某件小东西并把它递回来。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_009c1686:
 
-    "他看着你的手 这么近,感觉就像站在刀刃下。"
+    "他紧盯着你的双手，让你感觉自己像站在刀锋之下。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_51ad5502:
 
-    "你再做一次。慢一点。"
+    "你又做了一遍。这次慢一些。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_48924038:
 
-    "这次他放出一口气和点头。"
+    "这一次，他呼出一口气，点了点头。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3eb84832:
 
-    "也许这就是成为熊部落最伟大的建筑师 所要付出的代价 但你还是不明白 为什么他现在这么害怕部落。"
+    "也许这就是成为熊族最伟大的建筑师所需要的样子，但你仍不明白他现在为何如此害怕熊族。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_a0b574a1:
 
-    "当你把上面的卫兵挤下来摇晃头 他一直盯着你看这么久 你几乎以为你又失去他了。"
+    "你比划着上方的护卫，又摇了摇头；他久久看着你，久到你几乎以为自己又让他失去了理解。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_7c1080f9:
 
-    "然后他一手拿过来 放在你旁边的地板上。"
+    "然后，他把一只手移过来，放在你手边的地面上。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1f86b7e4:
 
-    "在你升起之前,牧群伸入两块石头之间的狭窄裂缝, 拔出一个小铃头, 其大小不亚于你的手掌, 用小心的铁丝和骨头的舌头来操纵。"
+    "你还没来得及起身，赫德便把手伸进两块石头之间的窄缝，取出一只不比你手掌大多少的小铃铛。铃铛上缠着精巧的金属线，里面装着一根骨制铃舌。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_f5159b4c:
 
-    "他给它一个光电摇动, 然后立即按在你的手上 这样你就能感觉到金属中微弱的振动。"
+    "他轻轻摇了摇铃，随即把它按进你的手里，好让你感受到金属中传来的细微嗡鸣。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_e753537d:
 
-    "接下来,他指着破碎的耳朵,用沮丧的心情露出牙齿,摇晃头。聋了。或者几乎足以使他的铃声没有什么意义。"
+    "接着，他指了指自己坏掉的耳朵，懊恼地龇了龇牙，又摇了摇头。他聋了，或者至少听力差到铃声对他几乎没有意义。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_86f44e29:
 
-    "他再次敲敲钟声,把一个手指往更深处的地窖里拉,然后用一条缓慢的手指从灰尘中拖到地板上的一块裂缝处止住。"
+    "他再次敲响铃铛，指向墓室深处，然后用一根手指沿着尘土上画出的路线缓缓划过，直到停在地面平面图的一道裂缝处。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_144da017:
 
-    "信息是笨拙但足够清楚的:铃声帮助跟踪天体,但只有当有人能够比他更清楚地判断声音时。"
+    "意思笨拙却足够清楚：铃铛能帮助追踪星盘，但前提是有人能比他更准确地判断铃声。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_e58c7e7f:
 
-    e "你要我用这个来找到它?"
+    e "你想让我用这个把它找出来？"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b8bfa69f:
 
-    "牛群点头一次,尖锐而直接。他设置探测器,以便你很容易地达到它,然后退到墙边观望。"
+    "赫德干脆利落地点了一下头。他把探测铃放在你伸手就能拿到的地方，然后退回墙边观察。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1b06b5c4:
 
-    e "好吧,我去找它。"
+    e "好，我来找。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_6336dc9d:
 
-    "在你站着之前 他的手握住你的手腕一秒钟 足够长的时间确保你看着他。"
+    "你还没站起来，他的手便短暂地抓住了你的手腕。时间刚好够让你看向他。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_2b19a3d7:
 
-    "当他离开时,你点头时,他笑得一笑,他一定能看到。"
+    "他松手后，你露出微笑，点了点头；他肯定看见了。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_4738dbf2:
 
-    "牧群看到你手里的星盘 保持了完全的静止。"
+    "赫德看见你手中的星盘，整个人顿时一动不动。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_dae7cea5:
 
-    "当你握住它的时候,他用双手抢走它, 并紧紧地把手指关在它周围, 紧紧地,指关节在毛皮下苍白。"
+    "你把它递出去时，他双手一把夺过，手指紧紧攥住，连毛发下的指节都因用力而泛白。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_84192405:
 
-    "突然间,他除了呼吸外,什么都不做,胸口被压住。 自从你发现他时,他的肩膀一直充满着恐慌,他的肩膀也松了一点。"
+    "有那么一会儿，他只是把星盘按在胸口，抱着它呼吸。自你找到他以来一直盘踞在他肩头的恐慌，稍稍松动了一点。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_331892c7:
 
-    "他低头仰着它 闭上眼睛 好像感觉它本身的重量 足以固定住他。"
+    "他低下头伏在星盘上，双眼紧闭，仿佛仅仅感受它的重量就足以让自己平静下来。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_3d003712:
 
-    "在你们两个能安顿下来之前 穿过地窖的严酷刮痕。"
+    "你们还没来得及安定下来，地窖里便滚过一阵刺耳的摩擦声。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_4bf8fbb3:
 
-    "一群畜牲围着 指向大厅前方 睁大眼睛。"
+    "赫德猛地转身，双眼圆睁，指向房间前方。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_db9c559c:
 
-    "两座守护神雕像都在移动, 被冻冻的喷雾压碎了他们的基地。"
+    "两座守护者雕像动了起来，带着飞溅的冰霜从底座上硬生生挪开。"
 
 translate schinese_rewrite Conquerors_Crypt_f9f780e1:
 
-    "你和达格吉走出楼梯的那一刻 一把刀刺的刺刺滑过地窖 梳着地板上松开的霜。"
+    "你和达吉刚踏下楼梯，一阵薄如刀刃的风便钻进石室，在地面上拂过松散的霜屑。"
 
 translate schinese_rewrite Conquerors_Crypt_f0f6a18b:
 
-    "它悄悄地穿过侧边的坟墓, 并送出几粒坚硬的粒子 滑倒在石头上 在前面的东西 回答一个低的磨痕。"
+    "风声低语着掠过侧墓，砂砾在石面上窸窣滑动；前方有什么东西以低沉的摩擦声回应。"
 
 translate schinese_rewrite Conquerors_Crypt_f655694d:
 
-    "你们立刻转身,从一个密封的盖子中抽出冰霜,然后房间又倒塌,四个侧面的坟墓在寒冷中坐着,全都关闭了。"
+    "你们同时转身。一块封闭的墓盖上落下霜屑，随后石室再次归于寂静。四座侧墓浸在寒意中，全都紧闭。"
 
 translate schinese_rewrite Conquerors_Crypt_09bddd8b:
 
-    d "我听到了。"
+    d "我听见了。"
 
 translate schinese_rewrite Conquerors_Crypt_a1d1b155:
 
-    e "是啊 风不是从楼梯吹来的。"
+    e "对。而且那阵风不是从楼梯那边来的。"
 
 translate schinese_rewrite Conquerors_Crypt_b996f4ab:
 
-    d "不,不是。"
+    d "不是。确实不是。"
 
 translate schinese_rewrite Conquerors_Crypt_f30fb0cc:
 
-    d "我也从地板上感觉到了 寒冷时这种变迁的老地方 但通常不是这样。"
+    d "地面下我也感觉到了。像这种老地方，寒气一松就会移位，可是……一般不会闹出这种动静。"
 
 translate schinese_rewrite Conquerors_Crypt_bcc9b976:
 
-    "你和达格吉走出楼梯的那一刻 在黑暗前方的某个地方 石头壁炉。"
+    "你和达吉刚踏下楼梯，前方黑暗中便传来石头摩擦的声音。"
 
 translate schinese_rewrite Conquerors_Crypt_1f1e91ea:
 
-    "你们同时转身,但房间已经倒塌了 四个侧边的墓穴都停在冰冻中,全都关闭了。"
+    "你们同时转身，但石室已经再次恢复寂静。四座侧墓浸在霜层中，全都紧闭。"
 
 translate schinese_rewrite Conquerors_Crypt_09bddd8b_1:
 
-    d "我听到了。"
+    d "我听见了。"
 
 translate schinese_rewrite Conquerors_Crypt_4c81494c:
 
-    e "你也听到了吗?"
+    e "你也听到了？"
 
 translate schinese_rewrite Conquerors_Crypt_58deacfc:
 
-    d "我也从地板上感觉到了, 寒冷放松的时候,像这种变换的老地方, 但我不认为那只是寒冷。"
+    d "地面下我也感觉到了。像这种老地方，寒气一松就会移位，但我不觉得刚才只有寒气在作怪。"
 
 translate schinese_rewrite Conquerors_Crypt_d729ddcd:
 
-    "他绕着旧的供品桌转,然后停在旁边石头上留下的一点钟头上。一些细心的铁丝圈把锁住。"
+    "他转而绕过那张旧供桌，随后停在石桌旁一只小铃铛前。几圈缠得很仔细的金属丝把铃舌固定住了。"
 
 translate schinese_rewrite Conquerors_Crypt_b59ad6d0:
 
-    d "这不是埋在这里 我知道这是合用的工作 畜群做的。"
+    d "这不是这里的随葬品。我认得这种接合手艺。这是赫德做的。"
 
 translate schinese_rewrite Conquerors_Crypt_d6535ce0:
 
-    e "但是赫德死了。"
+    e "但赫德已经死了。"
 
 translate schinese_rewrite Conquerors_Crypt_042879aa:
 
-    d "那他死之前一定就在这了 我只是 我不知道为什么。"
+    d "那他一定是在死前来过这里。我只是……不知道为什么。"
 
 translate schinese_rewrite Conquerors_Crypt_b59ad6d0_1:
 
-    d "这不是埋在这里 我知道这是合用的工作 畜群做的。"
+    d "这不是这里的随葬品。我认得这种接合手艺。这是赫德做的。"
 
 translate schinese_rewrite Conquerors_Crypt_34a069d9:
 
-    e "您可以从中看出？"
+    e "从这个就能看出来？"
 
 translate schinese_rewrite Conquerors_Crypt_b9b7dddd:
 
-    d "是的,他工作总是很勤奋,即使他赶时间,如果他来这里,他来是有原因的。"
+    d "能。他一直做得很整齐，就算赶时间也一样。如果他来过这里，就一定有原因。"
 
 translate schinese_rewrite Conquerors_Crypt_36fbc912:
 
-    "地下墓穴现在仍然在使用着老机制,其监护人已经破碎。"
+    "此刻石室一片寂静，古老的机关已经耗尽，守卫也早已破碎。"
 
 translate schinese_rewrite Conquerors_Crypt_acbca6c3:
 
-    "这里除了冰冻 石头 以及任何你选择的答案 都不会再有等待你在这里了。"
+    "这里已经没有什么在等着你了，只有霜雪、石头，以及你打算从这地方得出的答案。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0f321cc0:
 
-    "楼梯又回到上面冰冻的洞穴。"
+    "楼梯通回上方那座冰封洞窟。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f4838ddb:
 
-    "你的手已经满了,你需要先放下一些东西。"
+    "你的手已经拿满了。要拿起探测铃，得先放下手里的东西。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_5338f728:
 
-    "你捡起Daggi发现的勘测铃声。 拍手是加权的, 并用线条调整, 震动在每次摇动后, 一直留在你的手指上。"
+    "你捡起达吉找到的探测铃。铃舌加了配重，还用金属丝缠绕调校过；每次摇动后，震颤都会在你指间停留片刻。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_75d2d5e2:
 
-    d "牛群做了这个寻找共鸣 听起来和他很像。"
+    d "赫德做这个是为了寻找共鸣。确实很像他的作风。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_d34b91c3:
 
-    "你捡起赫德的测钟 感觉和他刚才给你看的一样。"
+    "你捡起赫德的探测铃，掌心传来刚才他让你感受过的那阵细微嗡鸣。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8abe776b:
 
-    "他仔细观察,然后,当你们试验它的重量的时候,打一个简短的点头。"
+    "他仔细观察着你，见你掂了掂铃铛的重量，便短促地点了点头。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_e5ce8944:
 
-    "你的手已经满了,你需要先放下东西。"
+    "你的手已经拿满了。要拿起仪式凿，得先放下手里的东西。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_156716cc:
 
-    "你从地板上拿下礼仪的皮毛。铜子已经磨光,并刻刻在墓地仪式上, 但它的狭窄边缘仍然很锋利, 足以滑入沟渠周围冰冻的缝隙。"
+    "你从地上拿起仪式凿。青铜表面经过打磨，并刻有葬仪纹路；不过，窄窄的刃口仍然足够锋利，可以插进排水沟周围冻住的缝隙。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_64609167:
 
-    d "这似乎应该奏效。"
+    d "看起来应该能用。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_80483941:
 
-    "你从地板上拿下礼仪的毛皮。它铜质的面部被刻上坟墓线和老旧的石印, 但狭窄的脚尖仍然坚固,足以把石头和冰块分开。"
+    "你从地上拿起仪式凿。青铜凿面刻着墓葬线纹和古老仪式的印记，但窄尖仍足够坚固，可以撬开石头和冰层。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_6f0ef381:
 
-    "当牛群看到它时,他向前倾斜 然后尖锐地指向沟渠。"
+    "赫德看到它便俯身靠近，随即用力指向排水沟。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_720a7628:
 
-    "你不能掉在那里。"
+    "不能把它丢在那里。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a920fd0e:
 
-    "你不能把它丢在这里。"
+    "不能把它丢在这里。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_9dcd1643:
 
-    "你小心摇铃。只有一小阵小震颤才能回答你的手。不管它被什么调制,它都离这里很近。"
+    "你小心地摇了摇探测铃。铃铛只以一阵沉闷的轻颤回应你的手。不管它被调校来寻找什么，都远在这里之外。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8cd3709d:
 
-    "你按铃后,一小声接耳鸣在铃声中挥之不去。信号是微弱的,但比沉默更强大。"
+    "你摇响铃铛后，铃中残留着一缕微弱的回鸣。信号很弱，但总比一片死寂强。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a59d9256:
 
-    "铃声的振动会用足够的力量 固定在你的手指上。"
+    "这里的铃声传得更清楚了。铃铛的震动沉入你的指间，力道足以让你知道自己正在接近目标。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_effd3498:
 
-    "钟声对着你的手掌 闪亮而坚韧不拔。"
+    "探测铃在你掌中急促地颤鸣，清脆而执着。不管它追踪的是什么，现在一定就在附近了。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_82d9d83a:
 
-    "当你在沟渠上按铃时 金属的铁蹄就那么尖锐 几乎就跳到你的手里了。"
+    "你刚把探测铃斜向排水沟，金属便骤然发出尖锐的共鸣，几乎要从你手中跳出去。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_9508dc0b:
 
-    "你终于发现赫德的星盘 深埋在老顽固和冰冻的径流之间。"
+    "你低头望进被冰堵塞的沟渠，终于看见赫德的星盘——它深深卡在旧砂砾与冻结的融水之间。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_368c6426:
 
-    "Daggi靠在你旁边 他的肩膀几乎在刷刷你的肩膀 他沿着铃声的线向下拉进沟里。"
+    "达吉凑到你身边，肩膀几乎贴到你身上；他顺着铃铛牵引的方向看向排水沟深处。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_17af03db:
 
-    d "就是这样,他来这里的目的一定就是这个。"
+    d "在那里。就是那个。一定是他来这里找的东西。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_c8da94cf:
 
-    e "我能看见,但我无法摸摸它。"
+    e "我看得见，可手指伸不进去。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_fd7c58b4:
 
-    d "如果这里还有工具的话 他们就会在侧面的坟墓里。"
+    d "那就需要细长的东西。如果这里还剩什么工具，应该就在侧墓里。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_bb7eb812:
 
-    "牛群掉到你们旁边的一小圈子里 看着你们指向的方位 并用失败的约定 将他的牙齿露出来。"
+    "赫德在你身旁蹲下，看清你指向的位置后，咧了咧牙，露出懊恼而赞同的神情。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_00b24e6a:
 
-    "将一些稀薄的东西插在缝缝里 然后将他的手往上拉。"
+    "他比划着把某种细长物件楔进缝隙，然后猛地向上提了提手。一件工具。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_3f8d9d56:
 
-    "水沟的钟声又响起,下面的东西仍然在冰中快速沉积。"
+    "探测铃再次在排水沟上方嗡鸣。下面的东西仍牢牢卡在冰里。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_75a342ab:
 
-    "钟声让这里的铃声变得很不稳定 隐藏的东西被埋在瓦砾下。"
+    "铃铛在这里发出沉重而不规则的嗡响。碎石堆下藏着什么东西。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_b1c0832d:
 
-    "这里的钟声很紧张,有东西在断裂的守护者体内。"
+    "铃铛在这里疯狂颤动。破碎的守卫雕像内部卡着什么东西。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_9c89dc56:
 
-    "你手上的钟声 但信号奇怪的从石头上滑过 这里却什么也没有显示。"
+    "铃声在你手中嗡鸣，但信号诡异地穿过石头散掉了，还没能告诉你什么。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_5fb12001:
 
-    "牛群从你眼中看清了测谎钟 然后用两根手指用一个讨厌的小毛毛从他的鼻子上咬他的耳朵。"
+    "赫德看看你，又看看探测铃，随后用两根手指敲了敲自己的耳朵，鼻腔里发出一声恼火的轻哼。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_03792c9d:
 
-    "然后他指向旧的径流频道 并给你一个快速,鼓励点头。"
+    "随后他指向下方的旧排水渠，迅速而鼓励地点了点头。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_203b9e2d:
 
-    "牛群看着你手里的铃声 然后蹲下 拖着一条捷径穿过尘土 以标记沟渠的路径。"
+    "赫德注视着你手里的探测铃，接着蹲下身，在尘土中迅速划出一道线，标出排水沟的走向。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_fdceb8bd:
 
-    "他敲下频道最深处的电话 敲响铃声 然后一眼看一眼 确定你是否在听。"
+    "他敲了敲沟渠最深处，比划着轻轻摇动铃铛，然后抬眼确认你是否明白。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_afe24dab:
 
-    "当你点头时,他用自己的小点头回答 并再次敲下径流线。"
+    "你点头后，他也轻轻点了点头，又在排水线旁敲了一下。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_d6811889:
 
-    "牛群掉进你旁边的蹲下 以过度的照顾来做整件事 就像他确保你可以笑 这有多明显一样。"
+    "赫德在你身旁蹲下，故意把整件事演得格外夸张，仿佛就是要让你笑这动作有多明显。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_98ddd102:
 
-    "一只手变成沟渠接缝 另一只手把隐形的切口 推入裂缝中 向上倾斜。"
+    "一只手代表排水沟的接缝，另一只手把看不见的凿子刺进裂缝，向上一拧。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_510509dd:
 
-    "他最后看着你, 眉眉抬高, 然后用一小块热切的手指 指向频道。"
+    "最后，他抬头看你，眉毛扬起，随后用手指轻快地朝沟渠一指。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_bd76e33f:
 
-    "先在礼堂的毛皮上 然后再在沟渠上 转动他的手指 好像在用自由的杠杆一样。"
+    "赫德先指指仪式凿，再指向排水沟，接着弯曲手指，做出把什么东西撬出来的动作。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_12b35925:
 
-    "当你回头看他时, 他点头轻轻地拍拍你的手臂, 几乎很高兴你找到了你需要的东西。"
+    "你回头看他时，他迅速点了点头，还轻轻拍了拍你的手臂，找到所需工具似乎让他颇为满意。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_c5e1a959:
 
-    "坐在你旁边的牛群 画出排水沟 然后用他的手指快速刺伤 标记星盘。"
+    "赫德在你身旁蹲下，画出排水沟的样子，然后用手指快速戳了戳卡住的星盘。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a0eb5df9:
 
-    "之后他停下来 与你一起扫描地窖 眼睛从桌子移到瓦砾上 向封存的坟墓移动。"
+    "随后，他停下来和你一起扫视石室，目光从供桌移到碎石，再到封闭的墓室，最后比划出用薄楔向上撬的动作。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_04919a82:
 
-    "当你跟着他的视线在大厅周围, 他点了点头。这里的某个地方, 一定有一个足够窄的工具可以释放它。"
+    "你顺着他的目光环视石室，他便轻轻点头。这里一定藏着某种足够细的工具，可以把它弄出来。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a22ac2dc:
 
-    "从你空手而归的Daggi的目光 到了小的测量钟 然后回到旧的径流频道。"
+    "达吉从你空着的双手看向小小的探测铃，又回头看向旧排水渠。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f53ff270:
 
-    e "你真的认为铃声会找到它吗?"
+    e "你真觉得一只铃铛能找到它？"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0125f187:
 
-    "他伸出手来用一只拇指把拍掌压在掌上, 好像在他回答之前先测试他脑袋里的东西一样。"
+    "他伸手用拇指按住铃舌，仿佛先在脑中掂量了一番，才准备回答。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_cf23ec42:
 
-    d "牛群不会白费力气建造它。"
+    d "赫德不会无缘无故造它。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_9e151298:
 
-    d "先拿测量铃。"
+    d "先拿上探测铃。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0852f284:
 
-    d "如果牧羊人调整它为星盘, 它应该引导我们 它在哪里。"
+    d "如果赫德是按星盘来调校它的，它应该能带我们找到星盘。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1ad2ebc8:
 
-    "达格吉听从你手上的铃声 微微的震动消失 他的眼睛固定在通道上 穿过地板。"
+    "达吉听着你手中探测铃最后一丝微弱的震动消退，目光牢牢锁在横穿地面的沟渠上。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a257e3ee:
 
-    e "当声音改变时呢?"
+    e "等声音变了呢？"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_9c4c490e:
 
-    d "然后我们停止猜想。"
+    d "那我们就不必再猜了。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_caca1615:
 
-    d "继续敲响径流频道附近的铃声。"
+    d "继续在旧排水渠附近摇铃。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_ada36ad8:
 
-    d "当你接近时 共鸣应该会变亮。"
+    d "靠近的时候，共鸣应该会变得更清晰。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_2d9157f9:
 
-    "Daggi掉到沟渠旁的蹲下 研究冰层锁住星盘的缝合。"
+    "达吉在排水沟旁蹲下，仔细观察冰层锁住星盘的那道缝隙。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0df1e41a:
 
-    e "直入接缝?"
+    e "直接插进缝里？"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_e5e86657:
 
-    d "直通接缝。"
+    d "直接插进缝里。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_7639ad74:
 
-    d "如果冰给,星盘就自由了。"
+    d "如果冰层松开，星盘应该会和它一起脱落。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0fe1d5cd:
 
-    "他的眼睛从开阔的墓穴闪烁到空手的手,然后又回到沟渠。"
+    "他的目光从打开的墓室扫向你空着的双手，随后又回到排水沟。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_3d559f7d:
 
-    e "也就是说我们失踪了。"
+    e "所以，我们缺的就是这把凿子。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_6e16469e:
 
-    d "看起来是这样。"
+    d "看来是这样。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_63838ba3:
 
-    d "你找到了正确的工具 现在把沟口打开。"
+    d "你找对工具了。现在把排水沟撬开。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_cb7433bc:
 
-    "Daggi研究一下星盘,然后让他的眼睛穿过封闭的坟墓和被粉碎的墙壁。"
+    "达吉端详了片刻卡住的星盘，然后让目光越过封闭的墓室，扫向积满尘土的石室边缘。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_cc9564d0:
 
-    e "你认为侧边的坟墓里有工具吗?"
+    e "你觉得侧墓里有工具？"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_4bc77ec6:
 
-    d "如果这个地窖里藏着埋葬工具, 我会从那里开始。"
+    d "如果这座墓室存放过葬仪工具，我会先从那里找起。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a49c03c8:
 
-    d "我们需要一些足够窄的东西 来打开沟渠。"
+    d "我们需要某种足够细的东西，把排水沟撬开。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_29f2d6d8:
 
-    "此时此刻,达格吉只看着墓穴外的黑暗, 听着墓穴在你们周围安顿下来。"
+    "有那么一会儿，达吉只是望着墓室之间的黑暗，听着石室在你们周围慢慢沉寂下来。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8f7d6327:
 
-    e "离开后我们该怎么办?"
+    e "我们离开之后怎么办？"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_4683df49:
 
-    d "我们向考虎酋长报告 让死者保守其余的秘密。"
+    d "向卡乌胡酋长报告，剩下的秘密就让亡者自己守着吧。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_adcb8886:
 
-    d "我们拿到了要的东西 赶紧把事情办完 立刻回考胡局长那里。"
+    d "我们已经拿到来这里要找的东西了。把这件事了结，马上回去找卡乌胡酋长。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a11f9204:
 
-    "石块的支撑是用与周围的坟墓一样的葬礼风格雕刻的。"
+    "这根石柱上刻着与周围墓室相同风格的葬仪纹饰。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_d2e473a8:
 
-    "读取墓前的刻印文字, 写着: {i} 征服者之手{/i}"
+    "墓室正面刻着一行字：'{i}征服者之手{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_b44e7af9:
 
-    "你把手指放在冰冻的嘴唇下 并用长长的呻吟把盖子拉到一边。"
+    "你把手指插入冻住的边缘下方，用力把墓盖推向一旁；长长的刮擦声在石室中回荡。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_6015237b:
 
-    "里面只有旧的亚麻布 木头的碎片 和黑尘的床 里面的东西早就腐烂了。"
+    "里面除了旧麻布、脆裂的木片碎屑，以及一层因其中的东西早已腐烂而留下的黑色尘土，几乎什么都没有。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_afabe9ce:
 
-    "当你把床单剥得更远的时候, 一块礼仪式的皮革滑动片, 可以从床单下松开。"
+    "你把麻布再往旁边剥开，一把仪式凿从下面滑了出来。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1e862313:
 
-    "青铜是用埋埋刻和烟灰腐蚀的石印来工作的。它和死人一起被埋在这里,但其狭窄的边缘仍然很好,可以工作到裂缝中。"
+    "青铜凿身刻有葬仪纹饰和被烟灰熏黑的祭仪痕迹。它随亡者一同下葬，但窄刃依旧足够锋利，能插进一道裂缝。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_d12ed5c5:
 
-    "开张的坟墓除了霜冻、灰尘和旧石块之外 没有任何新东西产生。"
+    "打开的墓室里没有新的发现，只有霜、尘土和陈旧的石头。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_3d3cef58:
 
-    "读取墓前的刻印文字, 写着: {i} 征服者的眼睛{/i}"
+    "墓室正面刻着一行字：'{i}征服者之眼{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_82ee81d5:
 
-    "你和达格吉一起试盖子, 但它只磨碎了一小部分, 然后再锁住。"
+    "你和达吉一起试着推墓盖，但它只移动了一点，便再次卡死。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_ea061cb9:
 
-    d "加速,别管它。"
+    d "卡得太死了。别管它。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_410ee6b2:
 
-    "盖子的移动比其他盖子的移动更轻松,仿佛它不久前就移动了。"
+    "墓盖比其他几座更容易移动，仿佛不久前才有人动过。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_262b49cc:
 
-    "里面的石架是空的,除了破碎的床铺碎片,冰霜中新鲜的刮痕, 和角落中一根断裂的皮绳。不管挂着的皮带都不见了。"
+    "里面的石台空空如也，只有一小片撕破的铺盖、霜层上新鲜的刮痕，以及角落里卡着的一截断裂皮绳。原本挂在绳上的东西已经不见了。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_3d3296e9:
 
-    "断断的绳索和霜冻中的痕迹 使坟墓感觉不像一个坟墓 不像一个匆忙的地方。"
+    "断绳和霜层上的痕迹，让这座墓室与其说像坟墓，不如说像某人匆忙使用过的地方。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1f34892c:
 
-    "开放的坟墓仍然显示同样的刮痕 和折断的皮绳 躺在角落。"
+    "打开的墓室里依然是那些刮痕，断裂的皮绳也仍躺在角落里。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_90d3d2c7:
 
-    "读取墓前的刻印文字, 写着: {i} 征服者之声{/i}"
+    "墓室正面刻着一行字：'{i}征服者之声{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_38184085:
 
-    "你对着石块 紧紧地踩着石块 墓盖却一动不动。"
+    "你抵住石头，奋力推挤，可墓盖纹丝不动。霜层已把它封成了一整块。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1a92a692:
 
-    "读取墓前的刻印文字, 写着: {i} 征服者盾牌{/i}"
+    "墓室正面刻着一行字：'{i}征服者之盾{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_40459000:
 
-    "这个坟墓拒绝打开,盖子只有用枯燥的磨痕回答,然后才能安顿下来。"
+    "这座墓室拒绝开启。墓盖只发出一声沉闷的摩擦，便重新落回原位。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a85b8a1b:
 
-    "手指通过碎裂的守护者断裂的缝合工作, 你将一个在铜壳里织上的邮袋抽出来。 它拥有3块铜和1块小HP药水, 不知怎么活了这么多年。"
+    "你把手指伸进破碎的守卫雕像裂开的接缝，从青铜外壳里拽出一只卡住的小袋。里面有3块铜和1瓶不知如何历经岁月保存下来的小型生命药水。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1dceeb01:
 
-    "守护神的雕像只是破碎的板块和散落的石头,无论在其中移动的是什么,都消失了。"
+    "如今，守卫雕像只剩破碎的石板和散落的石块。曾在其中活动的东西已经消失了。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_e952e552:
 
-    "石头守护者不再只是雕刻 弗罗斯特一直在他们的脚下晃动。"
+    "石头守卫已经不再只是雕刻。它们脚边的霜层不断剥落。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_be501707:
 
-    "雕像描绘着一个装甲的铜质战士 在闭着的掌舵下 其被风吹过的电镀 仍然缠在重型盾牌和旧战备装备上。"
+    "这座雕像描绘的是一名面甲闭合的青铜装甲战士；风化的甲片仍包裹着沉重的盾牌和旧战场装备。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_c2d7662d:
 
-    d "建造这个地方的人 一定想保护征服者的尊严。"
+    d "比我们部族的大厅还古老。建造这里的人一定是想守护征服者的荣耀。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_731d0789:
 
-    "装甲铜像的面部几乎被穿得光滑,但其板状姿势仍然引人骄傲。 雕塑家希望这个大厅能被人们看到。"
+    "这座青铜装甲雕像的脸几乎被磨平，但披甲的姿态依旧带着凛然的傲气。雕刻者希望这间石室给人一种被监视的感觉。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_d1ea91b5:
 
-    "小钟放在桌子上,很容易找到,但你的手已经满了。"
+    "小小的探测铃就在桌上，伸手便能拿到，但你的双手已经拿满了。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8826c9f6:
 
-    "桌子上休息的是一个小的测量铃, 精细的电线和重量。Daggi把它捡起来, 把它翻过一次,然后传给你。"
+    "桌上放着一只用铁丝整齐固定、并配了重物的小型探测铃。达吉把它拿起来，在掌中转了一圈，然后递给你。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_73531665:
 
-    d "是牛群的,他不是故意丢在这里的。"
+    d "这是赫德的。他不是无缘无故把它留在这里的。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_ec201f0a:
 
-    "牛群留下的小钟 几乎就像他知道你会回来拿一样。"
+    "小小的探测铃就放在赫德留下它的地方，仿佛他知道你会回来取走它。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_2256619e:
 
-    "你把它从桌子上拿出来, 他用最小的放松 在他的肩膀紧张。"
+    "你从桌上拿起它；他看着你，肩膀的紧绷感稍稍缓和了一点。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_e855260d:
 
-    "石板被涂在灰尘中 除了最近一只手清除了 几根整洁的圆弧。"
+    "石桌上覆满尘土，除了最近有人用手扫出的几道整齐弧线外，处处都是积尘。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_c0d4a62f:
 
-    e "这个表面比其他表面最近才被使用。"
+    e "这处桌面显然比其他地方更晚才有人使用过。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_382ad860:
 
-    d "我想是的 牧群喜欢保持工作秩序。"
+    d "我想是。赫德喜欢把自己的工作收拾得井井有条，就算周围一团糟也一样。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_493e3b47:
 
-    "除了最近小心的手进行的几次扫荡之外,。"
+    "石桌上积着厚厚的灰尘，只有几道被人细心扫过的痕迹处没有积尘。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_dadb7fcf:
 
-    "印记提醒你,牧鹿在画前把地板压扁了,他甚至被逼到角落,仍然要按顺序行动。"
+    "这些痕迹让你想起赫德在画图前把地面抹平的样子。即使陷入困境，他仍会设法维持秩序。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_600fca7c:
 
-    "旧的供品桌是空的 时间已经把它拆下来 石灰和浅浅的工具标记。"
+    "旧供桌空空如也。时间只留下石粉和浅浅的工具痕迹。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_7300976c:
 
-    "你将礼仪的皮囊 推入冰冻的接缝和杠杆 向上,而Daggi 用一只手把石头钉住。"
+    "你把仪式凿刺进冻住的缝隙，向上撬动；达吉则用一只手抵住石头。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0e0f14f0:
 
-    "冰口有尖锐的报告。 石嘴唇向上, 水沟打开, 赫德的星盘裂开。 礼仪的毛巾从你的手滑落到河道旁边的地板上。"
+    "冰层发出一声脆响，裂开了。石边松动，排水沟随之打开，赫德的星盘从中脱出，落入你的掌心。仪式凿从你手中滑落，哐当一声掉在沟渠旁的地面上。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_56890675:
 
-    "Daggi用拇指擦干净天体 喘口气。"
+    "达吉用拇指擦去星盘上的污物，短促地呼出一口气。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f1b084b6:
 
-    d "有,是的,就是这样。"
+    d "在那里……对，就是它。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f657debc:
 
-    "在你们两人都说得更多之前 深层的磨擦就穿过地窖 两个守护神雕像开始移动。"
+    "在你们任何一人开口前，一阵深沉的摩擦声便滚过石室。两座守卫雕像开始移动。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1bb1af6c:
 
-    "你把礼仪的皮毛 工作到沟渠里, 而牧羊人 固定的石头边缘 在你的手腕上。"
+    "你把仪式凿塞进排水沟，赫德则在你手腕旁扶稳石边。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8ae25f83:
 
-    "古老的冰块 沟渠裂开 牛群的天花板终于松到了你的手里。"
+    "陈旧的冰层顽强地发出啪的一声，随即裂开。排水沟随之打开，赫德的星盘终于从中脱出，带着黑色融水和古老砂砾的滑腻污迹落入你手中；仪式凿从你指间掉下，撞在靴子旁的石地上。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_ef2267ef:
 
-    "星盘仍然深植于冰冻的缝隙中 无法单独用手指自由。"
+    "星盘仍卡在冻住的缝隙深处，只靠你的手指无法把它弄出来。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_0a03a7e4:
 
-    "你需要一些薄的坚固的 足以把沟渠打开的东西。"
+    "你需要某种既细又结实的东西，才能把排水沟撬开。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f40f516c:
 
-    "浅水沟切断了房间 很可能是要从坟墓里 搬走融化的水。"
+    "一道浅浅的排水沟横穿石室，似乎原本是用来把墓室的融水排走的。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f40f516c_1:
 
-    "浅水沟切断了房间 很可能是要从坟墓里 搬走融化的水。"
+    "一道浅浅的排水沟横穿石室，似乎原本是用来把墓室的融水排走的。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8a032fed:
 
-    "里面有两块铁块, 裹着旧布, 两瓶HP小药水,。"
+    "你挖进标记过的碎石堆，从碎石下撬出一个被压住的小小藏物。里面有用旧布包着的2块铁锭，还有2瓶在寒冷中完好无损的小型生命药水。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_f78f0f78:
 
-    "落下的石头是冷的、潮湿的和古老的。 没有任何关于堆积物的表象能超越一个事实,那就是部分的舱位显然已经硬下来了。"
+    "坍落的石头又冷又潮，早已陈旧不堪。除了石室的一部分显然曾重重塌落外，这堆石头没有任何特别之处。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_287304a5:
 
-    "你从碎石堆中清除出来,但只是碎石、冷冻的灰尘和倒塌时拖下来的旧碎石。"
+    "你翻找碎石堆，但里面只有碎裂的石头、冻住的尘土，以及被坍塌卷下来的旧碎片。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_46da3bcf:
 
-    "你再把几块石头移到一边去,但堆积物的其余部分只是碎石。不管这里有什么重要的东西,都已经找到。"
+    "你又挪开几块石头，但剩下的不过是一堆瓦砾。这里真正重要的东西已经找到了。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_8e1a1d71:
 
-    "伟大的坟墓已经分裂 并被风吹过 一边, 但运动 在前厅 门前 现在更重要。"
+    "巨大的墓室一侧已经裂开，并因年久而风化，但此刻石室前方的动静更重要。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_208182fb:
 
-    "中央墓穴占了大厅的主导地位,但老化和崩塌已经打破了其石壳的一部分。 达格吉默默研究破坏情况以换取一拍。"
+    "中央墓室占据了石室的中心，但岁月和坍塌已经毁坏了它部分石壳。达吉默默端详着损毁处，片刻没有说话。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_ef6f1d2e:
 
-    d "新的破坏 意味着有人触动了坟墓。"
+    d "新鲜的损伤。这意味着有人动过这座墓。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_65fe5d39:
 
-    e "会不会是雪崩?"
+    e "会不会是雪崩造成的？"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_b267132e:
 
-    d "它可以。"
+    d "有可能。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_66f81dc5:
 
-    "伟大的坟墓像一座祭坛一样 坐在大厅的中心 但一面已经破碎 并且从小就衰落。"
+    "巨大的墓室位于石室中央，像一座祭坛；但其中一侧早已因岁月而破裂、倾斜。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_4065d414:
 
-    "你盯着剩下的残渣和骨头碎片看 但征服者的残骸已经一无所有了。"
+    "你凝视着残留的残渣和骨骼碎片，但征服者的遗骸早已荡然无存。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_7e003f21:
 
-    "这里的一切早已腐烂,只剩下尘土和旧石块。"
+    "这里曾经存在的一切早已腐朽殆尽，只留下尘土和陈旧的石头。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_043a8273:
 
-    "你和达格吉都朝地窖前走去 就像移动石块的刮痕 涌向大吼一样。"
+    "你和达吉同时转向石室前方，移动石块的刮擦声渐渐变成轰鸣。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_d7eab190:
 
-    d "星盘唤醒了他们。"
+    d "是那块星盘把它们唤醒了。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_44f6d883:
 
-    e "然后我们先打破它们。"
+    e "那我们先把它们打碎。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_4c4c6cd2:
 
-    "两个守护神的雕像用冰霜和古老的坚果 将扳手从他们的祭坛上解脱出来。"
+    "两座守卫雕像伴着霜屑和古老砂砾飞散，挣脱了底座。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_1ad8b3fc:
 
-    "群落将回收的天体板紧紧地紧地紧地紧地紧紧地紧地紧地紧地紧紧地紧紧地紧地紧地紧地地紧地紧地紧。"
-
+    "赫德紧紧攥住找回的星盘；石头摩擦的声音再次在石室中回荡，他随之退缩。"
 translate schinese_rewrite Crypt_Statues_Awaken_8bbaa425:
 
-    "在地窖前面 守护神的雕像都撕裂了他们的基地 并用僵硬的 蓄意的混蛋朝你转过来。"
+    "石室前方，两座守卫雕像在石头摩擦的刺耳声中挣脱底座，以僵硬而刻意的动作转向你。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_64c76bf8:
 
-    "牧群从地板上抢走一块断裂的石头,左雕像的点,然后右,然后在你旁边方形。"
+    "赫德抓起地上一截断裂的石头，先指向左边的雕像，又指向右边，然后在你身旁摆开架势。"

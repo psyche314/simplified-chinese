@@ -3,7 +3,7 @@
 
 translate schinese_rewrite Jog_Dialogue_448e88ae:
 
-    e "喂!乔格?"
+    e "你好！乔格？"
 
 translate schinese_rewrite Jog_Dialogue_f7921651:
 
@@ -11,23 +11,23 @@ translate schinese_rewrite Jog_Dialogue_f7921651:
 
 translate schinese_rewrite Jog_Dialogue_91d0f62b:
 
-    e "你在慢跑吗?"
+    e "你是乔格吗？"
 
 translate schinese_rewrite Jog_Dialogue_e9575ac9:
 
-    j "是的。我认出你的屁股。"
+    j "是、是的。我认出了你的屁股。"
 
 translate schinese_rewrite Jog_Dialogue_0584414f:
 
-    j "洛萨尔的门徒 信使 外人?"
+    j "洛萨尔的门徒、信使、外来者？"
 
 translate schinese_rewrite Jog_Dialogue_42ab47ad:
 
-    e "是的,我的名字是[e]。"
+    e "对，我叫[e]。"
 
 translate schinese_rewrite Jog_Dialogue_7a43fde7:
 
-    j "我盯着你..."
+    j "嘿嘿……我可一直盯着你呢……还有你的屁股……明白我的意思吗？"
 
 translate schinese_rewrite Jog_Dialogue_d7bf05f9:
 
@@ -35,67 +35,67 @@ translate schinese_rewrite Jog_Dialogue_d7bf05f9:
 
 translate schinese_rewrite Jog_Dialogue_cea61cd1:
 
-    j "别弄坏任何东西,罗特的命令。"
+    j "只是别在这里弄坏任何东西——这是洛特的命令。"
 
 translate schinese_rewrite Jog_Dialogue_a71007f0:
 
-    e "哦!非常感谢你,乔格。"
+    e "哦！太谢谢你了，乔格。"
 
 translate schinese_rewrite Jog_Dialogue_670841a4:
 
-    e "嘿,乔格!"
+    e "嘿，乔格！"
 
 translate schinese_rewrite Jog_Dialogue_45be28bc:
 
-    j "不是那个拍脸的快递员吗?[e]。"
+    j "这不是那个屁股拍得啪啪响的信使吗！嗨，[e]。"
 
 translate schinese_rewrite Jog_Normal_Talk_8ff6718f:
 
-    j "怎么了,库里尔?" nointeract
+    j "怎么了，信使？" nointeract
 
 translate schinese_rewrite Jog_Normal_Talk_e1b4b9b5:
 
-    e "其他花花公子呢?"
+    e "其他人呢？"
 
 translate schinese_rewrite Jog_Normal_Talk_edf38b14:
 
-    j "安布和洛萨尔?" nointeract
+    j "安布和洛萨尔？" nointeract
 
 translate schinese_rewrite Jog_Normal_Talk_58e0fbb5:
 
-    "正如你将要问的, 你意识到你没有 穿正确的衣服来评判..."
+    "你正要开口，却意识到自己穿的衣服不对，没资格评判别人……"
 
 translate schinese_rewrite Jog_Lothar_Training_d608835b:
 
-    j "库里尔,你确定你能搞定吗?"
+    j "信使，你确定自己应付得来吗？"
 
 translate schinese_rewrite Jog_Lothar_Training_314eca71:
 
-    j "洛特告诉我们,你连训练假人都打不过。"
+    j "洛特说，你连训练假人都打不过。"
 
 translate schinese_rewrite Jog_Lothar_Training_5ebadbf1:
 
-    e "这不是真的。"
+    e "才不是这样。"
 
 translate schinese_rewrite Jog_Lothar_Training_27bc135c:
 
-    j "为什么洛特会撒谎呢?"
+    j "那洛特为什么要在这件事上撒谎？"
 
 translate schinese_rewrite Jog_Lothar_Training_772a9682:
 
-    "你不知道该说什么..."
+    "你不知道该说什么……"
 
 translate schinese_rewrite Jog_Lothar_Training_4c0a8685:
 
-    j "没关系,因为我有个任务来自他。"
+    j "这不重要。因为我确实接到了他的任务，而我觉得这正好是训练你的绝佳机会。"
 
 translate schinese_rewrite Jog_Lothar_Training_924d27d3:
 
-    e "是什么?"
+    e "是什么？"
 
 translate schinese_rewrite Jog_Lothar_Training_d2600c43:
 
-    j "我们要潜入山羊部落的核心。"
+    j "我们要潜入山羊部落的核心地带。"
 
 translate schinese_rewrite Jog_Lothar_Training_1ea97b2d:
 
@@ -103,139 +103,139 @@ translate schinese_rewrite Jog_Lothar_Training_1ea97b2d:
 
 translate schinese_rewrite Jog_Lothar_Training_98b00ceb:
 
-    j "我从洛特那里听说了一切,你做得很好。"
+    j "我已经从洛特那里听说了一切。你干得不错，信使。"
 
 translate schinese_rewrite Jog_Lothar_Training_39182b12:
 
-    j "但你太信任了 我们得检查山羊是不是在撒谎。"
+    j "但你太容易相信别人了。我们得确认山羊是不是在撒谎。我一点也不会惊讶他们真的在撒谎。"
 
 translate schinese_rewrite Jog_Lothar_Training_2a03d930:
 
-    j "他说你没有胆子去面对山羊。"
+    j "他说你没种去面对山羊。"
 
 translate schinese_rewrite Jog_Lothar_Training_9c54f0e2:
 
-    j "别担心,我会在那里看着你的屁股,比方说,也许从字面上来说也是一样。"
+    j "所以这就是你的训练。别担心，我会在旁边看着你的屁股——打个比方，也可能是字面意义上的看着。"
 
 translate schinese_rewrite Jog_Lothar_Training_e4c0c14f:
 
-    j "他说,你一无所获 即使你成功地进入了他们的部落。"
+    j "他说，哪怕你已经成功进入了他们的部落，你还是一无所获。"
 
 translate schinese_rewrite Jog_Lothar_Training_15f0701e:
 
-    j "没用的 但我们会解决的。"
+    j "那可不行。不过我们会把这事补上的。"
 
 translate schinese_rewrite Jog_Lothar_Training_6f57a41c:
 
-    j "不管怎样 我们得找出山羊到底在干些什么。"
+    j "不管怎样，我们都得弄清楚山羊究竟在打什么主意。"
 
 translate schinese_rewrite Jog_Lothar_Training_607b1c0c:
 
-    e "所以..."
+    e "所以……"
 
 translate schinese_rewrite Jog_Lothar_Training_e1a8650b:
 
-    e "你认为他们在做什么?"
+    e "你觉得他们在打什么主意？"
 
 translate schinese_rewrite Jog_Lothar_Training_1e310360:
 
-    j "我不知道,根据他们最近的活动 似乎他们在寻找什么。"
+    j "我不知道。根据他们最近的动向来看，他们似乎在找什么东西。"
 
 translate schinese_rewrite Jog_Lothar_Training_87107475:
 
-    j "除非他们在森林中央脱裤子 否则我不会感兴趣。"
+    j "除非他们是在森林中央脱裤子，否则我才懒得感兴趣。"
 
 translate schinese_rewrite Jog_Lothar_Training_47e7942f:
 
-    e "他们有吗?"
+    e "他们有过吗？"
 
 translate schinese_rewrite Jog_Lothar_Training_1501d0e9:
 
-    j "也许有,那是当侦察员的特惠,你可以看到各种东西。"
+    j "也许吧。侦察兵的好处就在这里——什么稀奇古怪的东西都能看见。"
 
 translate schinese_rewrite Jog_Lothar_Training_bf825c4a:
 
-    e "童子军是做什么的?"
+    e "嗯，侦察兵是做什么的？"
 
 translate schinese_rewrite Jog_Lothar_Training_cc082576:
 
-    j "当心危险,是第一个探索新区域的人。"
+    j "留意危险、带头探索新区域之类的。"
 
 translate schinese_rewrite Jog_Lothar_Training_1a58be18:
 
-    j "有时候我确实看到有人脱裤子 所以我喜欢我做的事。"
+    j "有时候我确实能看见有人脱裤子，所以我才喜欢这份差事。"
 
 translate schinese_rewrite Jog_Lothar_Training_d255c973:
 
-    e "你不想是那个... 脱裤子的人吗?"
+    e "你难道不更想成为那个……帮他们脱裤子的人？"
 
 translate schinese_rewrite Jog_Lothar_Training_497e4581:
 
-    j "什么 你的脑子里充斥着 比我更淫荡的东西 我无法忍受成为这里第二个最角质的人。"
+    j "什么？你脑子里的下流念头比我还多，我可不能容忍自己成为这里第二好色的人。"
 
 translate schinese_rewrite Jog_Lothar_Training_100baa4b:
 
-    e "我是说,你喜欢看远方的人 而不是跟别人交往吗?"
+    e "我的意思是，比起和人打交道，你更喜欢从远处观察别人吗？"
 
 translate schinese_rewrite Jog_Lothar_Training_bed7e178:
 
-    j "我看不出有什么不对,如果这是我擅长的,那就是它。"
+    j "我不觉得那有什么问题。既然这是我擅长的，那就这样呗。"
 
 translate schinese_rewrite Jog_Lothar_Training_54d4952d:
 
-    e "公平。"
+    e "说得也是。"
 
 translate schinese_rewrite Jog_Lothar_Training_f1effd07:
 
-    j "另外,如果我需要任何性爱...。..我会先来找你...。..因为你是所有这一切,是不是你。"
+    j "而且，如果我想找人做爱，第一个就会来找你——你不是一直都很乐意吗？"
 
 translate schinese_rewrite Jog_Lothar_Training_2a31ed0c:
 
-    e "M - maybe?"
+    e "也、也许？"
 
 translate schinese_rewrite Jog_Lothar_Training_24e28dbc:
 
-    "轻轻的慢笑。"
+    "乔格轻轻笑了起来。"
 
 translate schinese_rewrite Jog_Lothar_Training_2b28d25c:
 
-    j "我已经提前侦察过了 确定我们最大的障碍 就是部落入口的两个警卫。"
+    j "我刚才已经提前侦察过了，确定我们最大的障碍是部落入口的两个守卫。"
 
 translate schinese_rewrite Jog_Lothar_Training_8f17d807:
 
-    j "你建议我们怎么对付他们?"
+    j "你觉得该怎么对付他们？"
 
 translate schinese_rewrite Jog_Lothar_Training_ec0a65b5:
 
-    e "嗯... 你觉得怎么样?"
+    e "呃……你觉得呢？"
 
 translate schinese_rewrite Jog_Lothar_Training_80f17ee8:
 
-    j "我能看出我们有两种方法可以接近。"
+    j "我看有两种办法可以接近。"
 
 translate schinese_rewrite Jog_Lothar_Training_f0ad2a79:
 
-    j "首先,我看到山羊部落外墙附近有一道石墙 我们可以爬上岩石跳过墙。"
+    j "第一种，我看到山羊部落外墙附近有一面岩壁。我们可以爬上去，翻过墙。"
 
 translate schinese_rewrite Jog_Lothar_Training_9145174a:
 
-    j "或者我可以射箭 分散两个警卫的注意力 然后我们偷偷溜进去。"
+    j "或者，我可以射一箭，把两个守卫从入口引开。然后我们偷偷溜进去。"
 
 translate schinese_rewrite Jog_Lothar_Training_5e733535:
 
-    j "不管怎样,我们都要快一点。"
+    j "不管选哪种，我们都得快。"
 
 translate schinese_rewrite Jog_Lothar_Training_1328e229:
 
-    j "你觉得如何?" nointeract
+    j "你觉得呢？" nointeract
 
 translate schinese_rewrite Jog_Lothar_Training_690be16e:
 
-    e "我会选择..."
+    e "我选……分散注意力？"
 
 translate schinese_rewrite Jog_Lothar_Training_4ba3281c:
 
-    j "好吧。"
+    j "好，那就这么办。"
 
 translate schinese_rewrite Jog_Lothar_Training_faa7d97b:
 
@@ -243,175 +243,175 @@ translate schinese_rewrite Jog_Lothar_Training_faa7d97b:
 
 translate schinese_rewrite Jog_Lothar_Training_cf6bcb30:
 
-    e "乔格,你怎么拿起射箭的?"
+    e "乔格，你是怎么学会射箭的？"
 
 translate schinese_rewrite Jog_Lothar_Training_a4ed5cf0:
 
-    j "我从来都不是个好幸存者。"
+    j "这……怎么说呢……我从来就不擅长独自求生。"
 
 translate schinese_rewrite Jog_Lothar_Training_70b84424:
 
-    j "我很小的时候就独自一人 像个小孩子一样。"
+    j "我很小的时候就被留下独自生活了，真的特别小，像个小孩一样。"
 
 translate schinese_rewrite Jog_Lothar_Training_ab989c47:
 
-    j "告诉你,我从不喜欢待在村子里 大部分时间我到森林去玩。"
+    j "还有件事得告诉你：我从来不喜欢待在村里。大多数时候我都去森林里玩。"
 
 translate schinese_rewrite Jog_Lothar_Training_0af3dc39:
 
-    j "我早早把弓捡起来 并不是一个令人兴奋的故事,我只是在外面练习安布。"
+    j "我很早就拿起了弓；没什么精彩的故事，我只是和安布一起在外面练习。"
 
 translate schinese_rewrite Jog_Lothar_Training_30aabf79:
 
-    j "但我很久后才跟他住在一起。"
+    j "不过，我是很久以后才和他一起住的。"
 
 translate schinese_rewrite Jog_Lothar_Training_00ea2360:
 
-    e "你练习过很多吗?"
+    e "你练得很多吗？"
 
 translate schinese_rewrite Jog_Lothar_Training_8fcd8f9d:
 
-    j "当然了 说到这个 是安布在镇上雕刻和设置了射箭场。"
+    j "当然。说起来，镇里的射箭场还是安布亲手刻出来、搭起来的。"
 
 translate schinese_rewrite Jog_Lothar_Training_71ac22ca:
 
-    j "我们在村里的时候就在外面混。"
+    j "我们在村里的时候经常去那里消磨时间。"
 
 translate schinese_rewrite Jog_Lothar_Training_bdf5e14e:
 
-    j "但有时,熊和我 另有所图。"
+    j "不过有时候，那头熊和我会去干点别的。"
 
 translate schinese_rewrite Jog_Lothar_Training_1eee6c19:
 
-    j "这么说吧 那时候我处理的东西 比弓还重。"
+    j "只能说，那种时候我手里拿的东西，可比我的弓沉重多了。"
 
 translate schinese_rewrite Jog_Lothar_Training_0013fb52:
 
-    e "..."
+    e "……沉重多了？"
 
 translate schinese_rewrite Jog_Lothar_Training_e580fec2:
 
-    j "如果我解释一下 就不会那么好玩了 [e]。"
+    j "要是我解释清楚了，就没那么有趣了，[e]。"
 
 translate schinese_rewrite Jog_Lothar_Training_8760c7a4:
 
-    e "我会选择..."
+    e "我选……潜行？"
 
 translate schinese_rewrite Jog_Lothar_Training_4ba3281c_1:
 
-    j "好吧。"
+    j "好，那就这么办。"
 
 translate schinese_rewrite Jog_Lothar_Training_74c0edcd:
 
-    e "乔格 你怎么被指定为侦察员的?"
+    e "那么……乔格，你是怎么被指定为侦察兵的？"
 
 translate schinese_rewrite Jog_Lothar_Training_7dba1335:
 
-    j "角色自然而然地出现在我身上。"
+    j "这个角色很自然地就落到了我头上。"
 
 translate schinese_rewrite Jog_Lothar_Training_1bc4428a:
 
-    j "我出生了... 嗯... 不像其他人那么强壮。"
+    j "我出生时……怎么说呢，没有其他人那么强壮。"
 
 translate schinese_rewrite Jog_Lothar_Training_08b467f6:
 
-    j "但是,你知道,它有它的好处, 尽管那些其他人的嘲笑和所有。"
+    j "不过嘛，这也有好处，尽管其他人总爱烦人地嘲笑我。"
 
 translate schinese_rewrite Jog_Lothar_Training_b29c0448:
 
-    j "我可以很容易地逃脱人们的发现 并且我也可以融入小骗子 其他人不能。"
+    j "我很容易避开别人的察觉，也能钻进其他人进不去的小缝隙。"
 
 translate schinese_rewrite Jog_Lothar_Training_9ab8d17c:
 
-    e "这听起来有用。"
+    e "听起来挺有用。"
 
 translate schinese_rewrite Jog_Lothar_Training_32aa90e9:
 
-    "慢跑看过去 笑得笑得出来。"
+    "乔格看了过来，嘴角勾起一抹笑。"
 
 translate schinese_rewrite Jog_Lothar_Training_7f14f4ef:
 
-    j "你根本不知道躲起来能拿到多少福利。"
+    j "你可不知道，光是躲起来就能享受到多少好处。"
 
 translate schinese_rewrite Jog_Lothar_Training_7ba49542:
 
-    j "这么说吧 乐斯民菲尔德以自己的名义 活到鲁斯特之前。"
+    j "只能说，乐斯民菲尔德这个名字里的“欲望”，可不是白叫的。"
 
 translate schinese_rewrite Jog_Lothar_Training_0bfa5f0f:
 
-    j "性爱后有时会留下东西。"
+    j "有时候做完爱，会留下些东西。"
 
 translate schinese_rewrite Jog_Lothar_Training_4707b364:
 
-    j "说到这个,。"
+    j "说到这个，免费送你一个小提示。"
 
 translate schinese_rewrite Jog_Lothar_Training_6ef4031b:
 
-    j "你店里那个蜥蜴朋友包了一大包。"
+    j "你在店里的那个蜥蜴朋友，家伙可是大得很。继续往前之前，你最好先做好心理准备。"
 
 translate schinese_rewrite Jog_Lothar_Training_734ba8f5:
 
-    "对你恶意的慢眨眼。"
+    "乔格朝你坏坏地眨了眨眼。"
 
 translate schinese_rewrite Jog_Lothar_Training_6092ec23:
 
-    j "我也许从经验中不知道,哈哈。"
+    j "我可能亲身体验过，也可能没有。哈哈。"
 
 translate schinese_rewrite Jog_Lothar_Training_a968419e:
 
-    "很快... 你和乔格到达山羊部落。"
+    "不久后……你和乔格抵达了山羊部落。"
 
 translate schinese_rewrite Jog_Lothar_Training_9b0cb92c:
 
-    "你躲在灌木丛后面。"
+    "你躲到灌木丛后面。"
 
 translate schinese_rewrite Jog_Lothar_Training_740732b9:
 
-    j "准备好,我射箭。"
+    j "准备好。我来射一箭。"
 
 translate schinese_rewrite Jog_Lothar_Training_eff8f55b:
 
-    j "一旦山羊去调查 之后,我们将把它带进部落。"
+    j "等山羊去调查箭落在哪里，我们就赶紧溜进部落。"
 
 translate schinese_rewrite Jog_Lothar_Training_7edf1262:
 
-    j "保持身体低低 趴在地上。"
+    j "身体尽量贴低，伏在地上。"
 
 translate schinese_rewrite Jog_Lothar_Training_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Jog_Lothar_Training_93933b83:
 
-    "你和乔格停在石墙边。"
+    "你和乔格在岩壁前停下。"
 
 translate schinese_rewrite Jog_Lothar_Training_3db81432:
 
-    j "你应该能在缝隙上找到买的东西。"
+    j "你应该能在岩缝里找到落脚点。"
 
 translate schinese_rewrite Jog_Lothar_Training_be498226:
 
-    j "当你达到一定高度时,就跳过墙。"
+    j "爬到一定高度后，直接翻过墙去。"
 
 translate schinese_rewrite Jog_Lothar_Training_a60bdef1:
 
-    j "另一边有灌木丛来缓冲你的跌倒。"
+    j "另一边有灌木丛，可以缓冲你落地时的冲击。"
 
 translate schinese_rewrite Jog_Lothar_Training_83fa10b1:
 
-    "慢跑盯着你的屁股看。"
+    "乔格盯着你的屁股。"
 
 translate schinese_rewrite Jog_Lothar_Training_1d6570d5:
 
-    j "你还有一些垫子可以帮你降落,它们不只是对眼睛的愉悦。"
+    j "你那儿还有点缓冲垫，正好能帮你落地。它们可不只是看着养眼而已。"
 
 translate schinese_rewrite Jog_Lothar_Training_2116348c:
 
-    "你和乔格找到通往酋长小屋窗户的路。"
+    "计划进行得很顺利。你和乔格一路来到酋长小屋的窗边。"
 
 translate schinese_rewrite Jog_Lothar_Training_7eb028bb:
 
-    "你听到谈话从里面流出来。"
+    "你听见屋内的谈话声飘了出来。"
 
 translate schinese_rewrite Jog_Lothar_Training_82091822:
 
@@ -419,391 +419,391 @@ translate schinese_rewrite Jog_Lothar_Training_82091822:
 
 translate schinese_rewrite Jog_Lothar_Training_f9e4b388:
 
-    k "这太难了 福克 这不可能。"
+    k "这太难了。弗坎，这根本不可能。"
 
 translate schinese_rewrite Jog_Lothar_Training_bcf8625c:
 
-    "你听到卡里呻吟声。"
+    "你听见卡里在呻吟。"
 
 translate schinese_rewrite Jog_Lothar_Training_de185e2c:
 
-    f "你只需要像我们通常那样 赋予它力量。"
+    f "你只要像我们平时那样，用力把它弄进去就行了。"
 
 translate schinese_rewrite Jog_Lothar_Training_07ee055c:
 
-    k "太紧了,不会穿过去。"
+    k "太紧了，根本塞不进去。"
 
 translate schinese_rewrite Jog_Lothar_Training_567dd6c7:
 
-    f "不如我们给他们点油 放松一下?"
+    f "要不我们给它们抹点油，让它们松一松？"
 
 translate schinese_rewrite Jog_Lothar_Training_344aa336:
 
-    k "你要求太多了,不可能适合的。"
+    k "你要求得太过分了，根本不可能塞得进去。"
 
 translate schinese_rewrite Jog_Lothar_Training_2ef9cfa7:
 
-    f "我们以前也做过,现在为什么不用呢?"
+    f "我们以前明明成功过，为什么现在不行了？"
 
 translate schinese_rewrite Jog_Lothar_Training_ed1372b0:
 
-    k "事情变了 情况变了。"
+    k "情况变了。那个东西变大了。"
 
 translate schinese_rewrite Jog_Lothar_Training_1b15e498:
 
-    "你听到谈话声就脸红,你看乔格。"
+    "听着这段谈话，你的脸颊发热，转头看向乔格。"
 
 translate schinese_rewrite Jog_Lothar_Training_591a075a:
 
-    "乔格用肮脏的笑容看着你。"
+    "乔格正带着下流的笑容看着你。"
 
 translate schinese_rewrite Jog_Lothar_Training_912d8371:
 
-    j "{size=30} 好吧,我没想到那。 {/size}"
+    j "{size=30}嗯，我可没想到会听见这个。{/size}"
 
 translate schinese_rewrite Jog_Lothar_Training_a1e06bf6:
 
-    e "{size=30} 我们该怎么办?{/size}"
+    e "{size=30}我们该怎么办？{/size}"
 
 translate schinese_rewrite Jog_Lothar_Training_84b45f52:
 
-    "棚屋里的两个人又开始说话了。"
+    "小屋里的两个人又开始交谈。"
 
 translate schinese_rewrite Jog_Lothar_Training_5781f082:
 
-    k "弗坎,你不会让乐斯民菲尔德同意的。"
+    k "弗坎，你不可能让乐斯民菲尔德同意这件事。"
 
 translate schinese_rewrite Jog_Lothar_Training_5f5be285:
 
-    "卡里叹气。"
+    "卡里叹了口气。"
 
 translate schinese_rewrite Jog_Lothar_Training_552c3ed8:
 
-    f ".一定有办法。"
+    f "……一定有办法。"
 
 translate schinese_rewrite Jog_Lothar_Training_bb197bef:
 
-    k "他们的防御太紧了。"
+    k "他们的防线太严密了。"
 
 translate schinese_rewrite Jog_Lothar_Training_8449470e:
 
-    k "你已经尝试了休战,结果如何?"
+    k "你已经试过休战了。结果怎么样？他们短期内不会放松警惕的。"
 
 translate schinese_rewrite Jog_Lothar_Training_69cf8182:
 
-    k "你要求他们太多 你觉得这符合他们的议程吗?"
+    k "你向他们要求得太多了。你觉得这符合他们的计划吗？"
 
 translate schinese_rewrite Jog_Lothar_Training_cb69d2ba:
 
-    "你听到弗坎大叹了口气。"
+    "你听见弗坎重重地叹了口气。"
 
 translate schinese_rewrite Jog_Lothar_Training_c42b6e09:
 
-    k "弗坎,你必须看大局。"
+    k "弗坎，你得看清大局。"
 
 translate schinese_rewrite Jog_Lothar_Training_7dc0015e:
 
-    "事情又开始变得有意义了。"
+    "事情又逐渐变得清晰起来。"
 
 translate schinese_rewrite Jog_Lothar_Training_41117292:
 
-    "在你旁边,乔格转动他的眼睛。"
+    "你身旁的乔格翻了个白眼。"
 
 translate schinese_rewrite Jog_Lothar_Training_3ae06940:
 
-    j "{size=30} 瘸子。 {/size}"
+    j "{size=30}无聊。{/size}"
 
 translate schinese_rewrite Jog_Lothar_Training_2261e291:
 
-    f "卡里,是的,大局是 我们冲突的中心是车队袭击。"
+    f "卡里，没错，重点就在于大局。我们冲突的核心是商队遇袭。"
 
 translate schinese_rewrite Jog_Lothar_Training_73a9c278:
 
-    f "故事不相干,我们应该调查一下 如果我们能找到什么 就能缓解与乐斯民菲尔德的紧张关系。"
+    f "那些说法对不上。我们应该查清楚这件事。如果能找到什么线索，或许就能缓和我们和乐斯民菲尔德之间的紧张关系。"
 
 translate schinese_rewrite Jog_Lothar_Training_e23a8c25:
 
-    "你的眼睛闪耀着 这似乎是有价值的信息。"
+    "你的双眼一亮。这似乎是很有价值的情报。"
 
 translate schinese_rewrite Jog_Lothar_Training_50da8814:
 
-    "乔格似乎同意你的观点 因为你觉得他的手 紧地紧紧地紧地紧地紧紧地紧紧地紧地紧紧地紧地紧地地紧紧地紧地地紧地地紧地。"
+    "乔格似乎也认同你的想法，因为你感觉到他的手收紧，握住了你的手腕。"
 
 translate schinese_rewrite Jog_Lothar_Training_a4f0ca21:
 
-    "村里有个警告。"
+    "村子里响起了警报。"
 
 translate schinese_rewrite Jog_Lothar_Training_dc04250a:
 
-    goatguard "有入侵的迹象 搜遍每个角落!"
+    goatguard "发现入侵者的踪迹了。搜遍每个角落！"
 
 translate schinese_rewrite Jog_Lothar_Training_9c6666cd:
 
-    j "{size=30}Crap! 该是消失的时候了。 {/size}"
+    j "{size=30}糟了！该消失了。{/size}"
 
 translate schinese_rewrite Jog_Lothar_Training_c3da33ab:
 
-    "乔格拉你走,你尽力跟上 冲刺的土狼,没那么容易。"
+    "乔格拉着你往前跑，你拼命想跟上这只飞奔的鬣狗，但没那么容易。"
 
 translate schinese_rewrite Jog_Lothar_Training_271d96a5:
 
-    "乔格如何以这么快的速度移动 却又不怎么吵闹 让你感到惊讶。"
+    "乔格居然能以这么快的速度移动，却几乎不发出声音，这让你惊叹不已。"
 
 translate schinese_rewrite Jog_Lothar_Training_7a7c5445:
 
-    "你没有乔格那么优雅 但你尽力了。"
+    "你没有乔格那么敏捷优雅，但还是尽了最大努力。"
 
 translate schinese_rewrite Jog_Lothar_Training_b3cf026d:
 
-    "然而,你的重脚步意味着 你无法失去山羊警卫的踪迹 很快地堵住你们两个。"
+    "然而，你沉重的脚步让你们没法甩开紧追不舍的山羊守卫。"
 
 translate schinese_rewrite Jog_Lothar_Training_5ccdc49f:
 
-    j "该死!我们不能一直跑!"
+    j "该死！不能再这么跑下去了！"
 
 translate schinese_rewrite Jog_Lothar_Training_fe87ec8e:
 
-    j "改变计划!"
+    j "改变计划！"
 
 translate schinese_rewrite Jog_Lothar_Training_f00932fe:
 
-    "乔格带你进入灌木丛。"
+    "乔格带着你钻进一片灌木丛。"
 
 translate schinese_rewrite Jog_Lothar_Training_6681e327:
 
-    "你到处看,除了叶子,什么都看不见。"
+    "你环顾四周，只看见满眼的枝叶。"
 
 translate schinese_rewrite Jog_Lothar_Training_06f198fc:
 
-    "你确信这不是一个好藏身之处。叶子不够密集,无法隐藏你们两个。"
+    "你很确定这里不是个好的藏身处。枝叶不够茂密，藏不住你们两个人。"
 
 translate schinese_rewrite Jog_Lothar_Training_5787f181:
 
-    "就像你要去问乔格发生了什么, 乔格拉你走 把你推到灌木丛后面的角落里。"
+    "你正要问乔格这是怎么回事，他却拉住你，把你推进灌木丛后方一个隐蔽的夹角。"
 
 translate schinese_rewrite Jog_Lothar_Training_92cfb191:
 
-    "你插进洞穴 乔格紧紧跟着你。"
+    "你挤进夹角，乔格也跟着挤了进来。"
 
 translate schinese_rewrite Jog_Lothar_Training_818c99be:
 
-    "\" Nook \" 仅够两个。"
+    "这个夹角刚好只能容下两个人。"
 
 translate schinese_rewrite Jog_Lothar_Training_45d85bb7:
 
-    "乔格靠在你身上 安排灌木丛 遮挡外面的视线。"
+    "乔格贴着你，整理好灌木，挡住外面的视线。"
 
 translate schinese_rewrite Jog_Lothar_Training_14f39257:
 
-    "约格堵住了入口 你基本上就困在原地。"
+    "乔格挡住了入口，你基本上被困在了原地。"
 
 translate schinese_rewrite Jog_Lothar_Training_1201a542:
 
-    "你背靠墙 乔格背靠你。"
+    "你背靠着墙，乔格的后背贴着你。"
 
 translate schinese_rewrite Jog_Lothar_Training_87be2bbf:
 
-    j "{size=30} 别动。{/size}"
+    j "{size=30}别动。{/size}"
 
 translate schinese_rewrite Jog_Lothar_Training_9fe95bb7:
 
-    "你想听乔格的建议 但你觉得很难做到 因为有一部分人拒绝保持沉默。"
+    "你想听从乔格的建议，可有一部分身体却不肯安静下来，让你很难做到。"
 
 translate schinese_rewrite Jog_Lothar_Training_a047b33c:
 
-    "当乔格早点回到太空时 他的屁股就落在你的裤裤前。"
+    "乔格刚才退进这个空间时，屁股正好落在你的胯前。"
 
 translate schinese_rewrite Jog_Lothar_Training_bb3c2176:
 
-    "封闭空间的热量 让你的气息发热。"
+    "奔跑后灼热的呼吸，让这片狭窄空间也热了起来。"
 
 translate schinese_rewrite Jog_Lothar_Training_7caa2ba0:
 
-    "你不知道把手放在哪里 但不知怎么他们降落在乔格的狭腰上。"
+    "你不知道该把手放在哪里，可不知怎的，双手却落在了乔格纤细的腰上。"
 
 translate schinese_rewrite Jog_Lothar_Training_479b27cc:
 
-    "乔格的短裤结构非常薄 你可以轻而易举地感受到他屁股的光彩。"
+    "乔格内裤的布料薄得惊人，你轻易就能感受到他臀部的柔软。"
 
 translate schinese_rewrite Jog_Lothar_Training_47064251:
 
-    "近距离和封闭的空间让你感到头痛。"
+    "如此近的距离和逼仄的空间让你一阵晕眩。"
 
 translate schinese_rewrite Jog_Lothar_Training_3494db80:
 
-    "你的老二引起注意 尖尖沿着乔格屁股的裂缝。"
+    "你的阴茎勃然挺立，顶端擦过乔格的臀缝。"
 
 translate schinese_rewrite Jog_Lothar_Training_224c29c6:
 
-    "你希望乔格没有注意到它。"
+    "你希望乔格没有察觉。"
 
 translate schinese_rewrite Jog_Lothar_Training_a187e81f:
 
-    "那时,乔格转过身来 以他眉毛的调皮奖励你。"
+    "就在这时，乔格转过身来，淘气地挑了挑眉。"
 
 translate schinese_rewrite Jog_Lothar_Training_9d45f771:
 
-    "你听从他的建议,冻结住你的阴茎 你的阴茎是勃起的,但至少它还是静止不动。"
+    "你听从他的建议，僵在原地。阴茎虽仍勃起，至少没有再动。"
 
 translate schinese_rewrite Jog_Lothar_Training_b4d6619a:
 
-    "那一刻 外面有条偷盗的痕迹。"
+    "就在这时，外面传来一阵窸窣声。"
 
 translate schinese_rewrite Jog_Lothar_Training_a394744a:
 
-    "乔格更深入地深入你。"
+    "乔格更加贴近你。"
 
 translate schinese_rewrite Jog_Lothar_Training_723215d9:
 
-    "他的背部躺在你的身体里。"
+    "他的后背紧贴着你的身体。"
 
 translate schinese_rewrite Jog_Lothar_Training_974f7d70:
 
-    "他皮肤的温暖 散布在你的胸肌和胃里。"
+    "他肌肤的温度透过你的胸膛，蔓延到腹部。"
 
 translate schinese_rewrite Jog_Lothar_Training_522bf826:
 
-    "你的鸡巴在温暖的温暖中 穿透你的身体。"
+    "温暖传遍你的身体时，你的阴茎也一阵发颤。"
 
 translate schinese_rewrite Jog_Lothar_Training_cc4efd1c:
 
-    "你的骨骼穿着腰带 搭帐篷。"
+    "你的勃起在缠腰布下撑起一顶帐篷。"
 
 translate schinese_rewrite Jog_Lothar_Training_b2fd451b:
 
-    "连你都觉得你的鸡巴很热 你想知道乔格是怎么处理的吗?"
+    "连你自己都觉得阴茎滚烫。它正夹在乔格的臀瓣之间，你不禁想知道他是怎么忍受的。"
 
 translate schinese_rewrite Jog_Lothar_Training_9b961348:
 
-    "慢慢的 慢慢的移动 你放松点。"
+    "窸窣声渐渐远去。你稍稍放松下来。"
 
 translate schinese_rewrite Jog_Lothar_Training_fed7fbef:
 
-    "一旦你放松了警惕 你的鸡鸡就会漏掉一些预药。"
+    "你一放松警惕，阴茎便渗出了一点前液。"
 
 translate schinese_rewrite Jog_Lothar_Training_3b738a22:
 
-    "你内裤湿透了,你用尖笔刷内裤的地方。"
+    "你能感觉到内裤渐渐湿了。龟头擦过内裤的地方被前液弄得黏腻。"
 
 translate schinese_rewrite Jog_Lothar_Training_9c1efa6d:
 
-    "你尽量移动头部 可以看到你老二染上污点的湿点。"
+    "你努力挪动脑袋，看见阴茎留下的湿痕。"
 
 translate schinese_rewrite Jog_Lothar_Training_f2b6ce5a:
 
-    "看见你湿内衣的眼神让你兴奋 你感觉到你的阴茎脉搏 和更多的预感 让他们走出你的阴茎。"
+    "看到湿掉的内裤让你兴奋起来。你感觉阴茎一阵阵搏动，更多前液从中渗出。"
 
 translate schinese_rewrite Jog_Lothar_Training_f0f21904:
 
-    "你内裤上的湿点变大了。"
+    "内裤上的湿痕越来越大。"
 
 translate schinese_rewrite Jog_Lothar_Training_4f0addf4:
 
-    "乔格的屁股就在你的老二前面。"
+    "乔格的屁股正好悬在你的阴茎前。"
 
 translate schinese_rewrite Jog_Lothar_Training_9eb41ce6:
 
-    "随着你的老二释放出更多的预毒 液体渗漏穿过你的内裤前部 污点了乔格的短裤后部。"
+    "你的阴茎不断渗出前液，液体透过内裤前方，沾湿了乔格内裤的后面。"
 
 translate schinese_rewrite Jog_Lothar_Training_f0767c2b:
 
-    "你想说点什么,但命运似乎对你造成残酷的打击。"
+    "你想说点什么，可命运似乎偏偏要捉弄你。"
 
 translate schinese_rewrite Jog_Lothar_Training_4735f7c1:
 
-    goatguard "也许他们在这里。"
+    goatguard "也许他们就在这儿。"
 
 translate schinese_rewrite Jog_Lothar_Training_a80bd4b1:
 
-    "山羊们宣布他们的存在。"
+    "山羊们出声宣告了自己的存在。"
 
 translate schinese_rewrite Jog_Lothar_Training_17a61f6f:
 
-    "乔格 摇晃得更深了点。"
+    "乔格在夹角里又往里挪了挪。"
 
 translate schinese_rewrite Jog_Lothar_Training_3f510ad3:
 
-    "当他移动时,乔格的屁股很紧张。"
+    "他一动，乔格的臀部便绷紧了。"
 
 translate schinese_rewrite Jog_Lothar_Training_8769aea5:
 
-    "他的屁股脸部捏紧你的骨骼。"
+    "他的臀瓣夹住了你的勃起。"
 
 translate schinese_rewrite Jog_Lothar_Training_d190a387:
 
-    "电力的震动 通过你。"
+    "一阵电流般的震颤穿过你的身体。"
 
 translate schinese_rewrite Jog_Lothar_Training_81766e13:
 
-    "你知道你必须把它吞下去 免得暴露在危险中。"
+    "你感觉呻吟就要冲出喉咙。你知道必须把它咽回去，否则就会暴露。"
 
 translate schinese_rewrite Jog_Lothar_Training_1cebd300:
 
-    "鸡鸡的内裤快穿透了。"
+    "你的阴茎绷得发紧，仿佛马上就要戳破内裤。"
 
 translate schinese_rewrite Jog_Lothar_Training_7b86de91:
 
-    "也许即使通过乔格的短裤 和他准备的洞..."
+    "甚至穿过乔格的内裤，戳进他已然准备好的穴里……"
 
 translate schinese_rewrite Jog_Lothar_Training_7e1bcfa5:
 
-    "也许能感觉到它对你的影响 乔格又把他的屁股收紧了几次。"
+    "乔格似乎察觉到自己带给你的感觉，又收紧臀部几次。"
 
 translate schinese_rewrite Jog_Lothar_Training_b1a19c57:
 
-    "这对你的影响是电动的。"
+    "这让你浑身像通了电一样。"
 
 translate schinese_rewrite Jog_Lothar_Training_7c0eaadf:
 
-    "乔格的柔软脸颊 快速地按摩你的骨骼。"
+    "乔格柔软的臀瓣快速地一阵阵揉弄着你的勃起。"
 
 translate schinese_rewrite Jog_Lothar_Training_dc2a9cbf:
 
-    "你在所有正确的地方都受到打击, 你可以感觉到你的血 奔流到你的骨骼。"
+    "他的动作次次撞在最要命的位置，你能感觉到血液疯狂涌向阴茎。"
 
 translate schinese_rewrite Jog_Lothar_Training_5f2ef3d5:
 
-    "你牙齿紧紧,快要射精了。"
+    "你咬紧牙关，射精的边缘越来越近。"
 
 translate schinese_rewrite Jog_Lothar_Training_429b354e:
 
-    "乔格突然离开。"
+    "就在即将释放的关头，乔格突然移开了。"
 
 translate schinese_rewrite Jog_Lothar_Training_a782aac9:
 
-    "你把他拉回来。"
+    "你把他拉了回来。"
 
 translate schinese_rewrite Jog_Lothar_Training_650a3e72:
 
-    e "等等,你不担心被抓吗? {size=30}{/size}"
+    e "{size=30}等等！你不担心被抓到吗？{/size}"
 
 translate schinese_rewrite Jog_Lothar_Training_8d74ec9e:
 
-    j "被抓住?"
+    j "被抓到？"
 
 translate schinese_rewrite Jog_Lothar_Training_61b654d9:
 
-    "乔格抬起眉毛 看看你湿内裤的前面。"
+    "乔格挑起眉毛，看向你湿透的内裤前方。"
 
 translate schinese_rewrite Jog_Lothar_Training_ee275b4b:
 
-    "在他眼神下 你的阴茎抽搐引起注意。"
+    "在他的注视下，你的阴茎因这份关注而抽动了一下。"
 
 translate schinese_rewrite Jog_Lothar_Training_b57b0f61:
 
-    "它渴望释放。"
+    "它渴望得到释放。"
 
 translate schinese_rewrite Jog_Lothar_Training_2e174b1d:
 
-    "慢跑的笑容恶毒。"
+    "乔格坏笑起来。"
 
 translate schinese_rewrite Jog_Lothar_Training_f4035700:
 
-    j "也许你该担心被抓。"
+    j "也许该担心被抓到的人是你。"
 
 translate schinese_rewrite Jog_Lothar_Training_1d9d35d5:
 
-    "乔格张开双臂 以正常的声音继续前进。"
+    "乔格张开双臂，用平常的声音继续说道。"
 
 translate schinese_rewrite Jog_Lothar_Training_03c847eb:
 
@@ -811,451 +811,451 @@ translate schinese_rewrite Jog_Lothar_Training_03c847eb:
 
 translate schinese_rewrite Jog_Lothar_Training_5c673153:
 
-    e "什么时候?"
+    e "什么时候？"
 
 translate schinese_rewrite Jog_Lothar_Training_83cb2a2d:
 
-    j "当那个性感的呻吟从你的嘴里出来的时候。"
+    j "就在你那声性感的呻吟漏出来的时候。"
 
 translate schinese_rewrite Jog_Lothar_Training_9bb99280:
 
-    "你以为你压抑了那呻吟,但显然你没有。"
+    "你的脸颊涨得通红，乔格笑了起来。你以为自己压住了那声呻吟，看来并没有。"
 
 translate schinese_rewrite Jog_Lothar_Training_59b016e6:
 
-    j "谢谢你今天给我展示了很多东西 总的来说你确实帮助我完成了任务。"
+    j "谢谢你今天让我见识了这么多。总的来说，你确实帮我完成了任务。我会向洛萨尔报告的。"
 
 translate schinese_rewrite Jog_Lothar_Training_8233b00a:
 
-    "乔格触摸了书状的背部 里面有你预留的污渍。"
+    "乔格摸了摸内裤后面被你的前液沾湿的地方。"
 
 translate schinese_rewrite Jog_Lothar_Training_e4671c48:
 
-    "他用手指摩擦 对你发笑。"
+    "他用手指捻了捻，冲你咧嘴一笑。"
 
 translate schinese_rewrite Jog_Lothar_Training_bb36a334:
 
-    j "很高兴知道你在运动什么。"
+    j "不错，终于知道你带着多大的家伙了。"
 
 translate schinese_rewrite Jog_Lothar_Training_fd7d0339:
 
-    j "更早之前的事情只是个挑逗,也许将来我会告诉你 我可以用我的屁股做什么。"
+    j "刚才那些还只是开胃菜。以后说不定我会让你看看，我这屁股还能玩出更多花样。"
 
 translate schinese_rewrite Jog_Lothar_Training_5c591fd1:
 
-    "Jogs笑着消失在树林里 就像你脸上的火焰 和尴尬。" nointeract
+    "乔格笑了起来，消失在树林中，而你的脸因羞耻烧得通红。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_0e4c8860:
 
-    e "校长,我在找梅树,你能告诉我它在哪里吗?"
+    e "师、师父，我在找李子树，你能指给我在哪儿吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_6dc0a3cf:
 
-    e "阿蒂,我在找李子树 你能告诉我它在哪里吗?"
+    e "阿蒂，我在找李子树，你能指给我在哪儿吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_4098e5a8:
 
-    ar "普拉姆... 你一定是为那小屁孩做家务吧,小狗?"
+    ar "李子……你一定是在替那个调皮的乔格做杂活吧，小狗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_8bbfef47:
 
-    e "是的,安布告诉我,你给了他一些苹果 而不是,是不是没有梅子 留在整个农场?"
+    e "嗯、嗯，安布说你给了他一些苹果代替。农场里一颗李子都不剩了吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_6ab2a945:
 
-    ar "看,有人偷走了这些多汁的小混蛋, 他们就在收获的树林里。"
+    ar "听着，有人偷走了这些水灵灵的小混蛋；它们原本就长在收获林里。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_8f856c94:
 
-    ar "你指望他们深夜偷偷溜到我那里 像一个适当的小偷,但是没有, 那个人在光天化日之下抢走了我的收成。"
+    ar "你本来会以为那家伙会像个真正的小偷一样，深更半夜偷偷摸到我这儿来；可不是——他偏偏在光天化日之下拿走了我的收成。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_7ddb0dd2:
 
-    e "没有人见过他们吗?"
+    e "从来没人看见他们吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_780e3020:
 
-    ar "听着,小狗,这些是盗贼,他们有规律 他们知道我们的稻草人在哪里巡逻。"
+    ar "听着，小狗，这些贼总是按规律行动。他们知道稻草人的巡逻路线，像真正的害虫一样偷偷摸到李子旁边。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_d704713e:
 
-    ar "他们播种了一段时间的种子 他们知道我们睡觉的时候 工作的时候 远离土地的时候。"
+    ar "他们早就暗中踩好点了：知道我们什么时候睡觉、什么时候干活、什么时候不在地里。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_16ad629c:
 
-    e "那么,也许你可以抓住这些盗贼 如果你只是抓他们 出戒备,对不对?"
+    e "那你只要趁他们毫无防备时抓住他们，不就能逮到这些贼了吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_97b29b80:
 
-    ar "不,我需要照顾我的庄稼, 而不是抓住大黄蜂 像暴躁的老猎犬。"
+    ar "不行，我得照料庄稼，没工夫像条暴躁的老猎犬一样去抓偷李子的贼。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_e1a5405e:
 
-    "亚瑟暂停一下。"
+    "亚瑟停顿了一下。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_ec2b9166:
 
-    ar "我的意思是,这些卑鄙小人是偷偷摸摸的 但如果小狗想帮助消灭害虫 就像你对山龟码头所做的那样 没人能阻止你。"
+    ar "我的意思是，这些混蛋很会躲。不过，要是小狗想帮忙除掉害虫——就像你上次对付陆鲨那样——我也不会拦着你。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_7d807496:
 
-    e "我是否... 得到奖赏?"
+    e "我……能得到奖励吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_5f7a7c8a:
 
-    ar "你已经和另一个家伙有过一次了 小狗狗。"
+    ar "你不是已经从另一个家伙那里拿到过一次了吗，小狗。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_eb5f2d46:
 
-    "Arthur指向乐斯民菲尔德的某处方向。"
+    "亚瑟朝乐斯民菲尔德的方向随手指了指。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_57064ab4:
 
-    ar "如果你想帮忙,我知道一些对你可能有用的事。我数了三次我的梅子不见了。"
+    ar "如果你想帮忙，我倒是知道一条对你可能有用的情报。我数过了，我的李子一共丢过三次。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_a68f52a7:
 
-    ar "我每早上八点检查林园花园 第一天我看见他们失踪 第二天下午2点 第二次 4点 第三天 大概12点左右。"
+    ar "我每天早上八点检查收获林。第一次发现李子不见时，是下午两点；第二次嘛，是四点；第三次，大概是十二点左右。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_1e4d7261:
 
-    e "他们是在特定时间来的吗?"
+    e "他们是在某个固定时间出现的吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_0c8f4ddd:
 
-    ar "也许是在农地里等你 在那段时间里你会抓住小偷。"
+    ar "我说过了，他们是有规律地来的。你或许可以在那个时间左右守在农田里，当场抓住小偷。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_e69a7083:
 
-    ar "都预言好了,小狗 一旦你在农场工作了几十年,你就看到了。"
+    ar "这都只是推测，小狗。可我在农场干了几十年，什么情况没见过。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_6eadaf0a:
 
-    "亚瑟叹气 看着无尽的田野。"
+    "亚瑟叹了口气，望向一望无际的田野。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_44960d48:
 
-    ar "Welp、工作时间。"
+    ar "好了，该干活了。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_cc6111a7:
 
-    ar "祝你好运 找小偷 小狗 但待在农场里 这样我就能保护你 免受任何威胁。"
+    ar "祝你抓贼顺利，小狗。不过待在农场里，这样真有威胁时我才能保护你。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_c7f4b7b8:
 
-    e "谢谢,M -master。"
+    e "谢、谢谢你，师父。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_05376674:
 
-    e "谢谢,阿蒂。"
+    e "谢谢，阿蒂。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_Inquire_3f030f5d:
 
-    e "师父,我再问一次,我该怎样抓贼?"
+    e "师父，我能再问一次该怎么抓住小偷吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_Inquire_43e23dc8:
 
-    e "阿蒂,我该怎么办才能再抓到小偷?"
+    e "阿蒂，我再抓小偷的话该怎么做？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_Inquire_9219fe18:
 
-    ar "很容易的,早上的时候, 绕着树丛走, 在那里的收成树林里, 羽毛在。"
+    ar "很简单。早上的时候，去那边的收获林绕一圈——李子就长在那里。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_Inquire_354646fc:
 
-    ar "如果他们贪得无厌 想要更多多汁的梅子 你会看到他们在那里。"
+    ar "如果他们还贪心，想再偷些水灵灵的李子，你就会在那里看见他们。"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_Inquire_2e0e5329:
 
-    e "哦,再次感谢你们!"
+    e "哦！再次谢谢你！"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_Inquire_deef2f01:
 
-    ar "好,好小狗。"
+    ar "好，好，小狗。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_b3d216a9:
 
-    e "乔格,有什么不对吗?"
+    e "乔格，出什么事了吗？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_59945ea0:
 
-    j "你什么意思,我脸上有东西?"
+    j "你是说我脸上有什么？难道安布又把水桶弄坏了？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_3e7c581c:
 
-    e "不,我的意思是一般的, 但发生了什么事 桶...？"
+    e "不，我是说你整体看起来不太对劲。不过，水桶又怎么了……？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_76789085:
 
-    j "问问安比,你想知道吗?"
+    j "啊，想知道就去问安布。不过我现在手头还有件别的事。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_9c18a15c:
 
-    a "嘿,小朋友,很高兴见到你。"
+    a "嘿，小家伙。很高兴见到你。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_3fb1cb68:
 
-    "一只熟悉的红色熊在无意中走路,手头上有几只相似的彩色苹果。"
+    "一只熟悉的红色熊不经意地走来，手里拿着几个颜色相近的苹果。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_e0f2125c:
 
-    j "阿宾,你有那些珍贵的红梅子吗?"
+    j "安布，你拿到那些珍贵的红李子了？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_df0f5fb0:
 
-    a "哦,关于那个,我只看到树上有几个腐烂的, 但是Arty给了我这些健康的长相"
+    a "哦，说起这个……我只在树上看到几颗烂李子，不过阿蒂倒是给了我这些看起来挺健康的——"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_749cfd80:
 
-    j "你个白痴,这些是苹果 不是梅子,那老狗告诉你比真的更好吃吗?"
+    j "你这个蠢货，这是苹果！不是李子。那条老狗是不是告诉你，这些比真正的李子还好吃？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_bffee593:
 
-    a "等等,你在跟踪我吗?"
+    a "等等，你在跟踪我？你怎么知道……"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_e3c9ac92:
 
-    j "你这个笨蛋。"
+    j "你这蠢货。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_b8b67533:
 
-    "臭土狼对无脑的安布大笑。"
+    "那只尖酸刻薄的鬣狗朝一脸茫然的安布咧嘴一笑。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_14117f2e:
 
-    j "我问了一个篮子,发生了什么事?"
+    j "我让你拿的是一篮子，篮子呢？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_b1f3a375:
 
-    a "上次我检查它们都很好 但今天李子都消失了 我只能看到草地上有些红汁的污渍。"
+    a "我上次检查时还好好的，可今天李子全没了；我只能在草地上看到一些红色汁液的污渍。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_ba16a4b4:
 
-    e "有人从农场偷东西吗?"
+    e "有人从农场偷走了东西？我大白天可没看到有人这么干。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_05a4fd30:
 
-    j "我看到的是,有人为这些多汁的婴儿而饥渴 我会想念他们的。"
+    j "看来，是有人馋上这些水灵灵的小宝贝了。我会想念它们的。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_6c1b7787:
 
-    "你注意到乔格从安布抢取苹果 之前,你正在向一个红果。"
+    "你注意到乔格从安布手里抢过苹果，随后大口啃起其中一个红色果子。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_753797d9:
 
-    e "你不会知道是谁拿走了梅子吧?"
+    e "你不打算查出是谁拿走了李子吗？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_1f431793:
 
-    j "不,安布和我早就知道是谁干的。"
+    j "不用，安布和我已经知道是谁干的了。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_999bd7db:
 
-    a "等等 我不知道是谁偷了你的梅子。"
+    a "等、等等，我不知道是谁偷了你的李子。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_5bb80a41:
 
-    e "我也没有。"
+    e "我也不知道。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_9866ae96:
 
-    "乔格又咬了一口苹果 发出响亮的响声。"
+    "乔格又咬了一口苹果，接连发出响亮的嘎吱声。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_3671e98f:
 
-    j "好吧,如果你想知道那里有什么, 做我的客人, 去问亚瑟关于那个区域, 并跟随那条线索,或者任何安布在谈论的东西。"
+    j "好吧，你要是想知道外面有什么，就请自便。去问问亚瑟那一带的情况，顺着那条线索查下去——或者照安布说的做，随你。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_fe8b36bc:
 
-    j "安布和我在这里巡视和修路有段时间了 但你还是要小心。"
+    j "安布和我已经在这里巡查、修路有一阵子了，不过你还是得小心。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_cd75e2f3:
 
-    j "如果你能安全地走过去 他们也能安全地走过去。"
+    j "如果你走那条路都没事，他们走起来就更不会有事了。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_14e9b6d5:
 
-    a "普尼朋友,我应该跟你去 额外的安全。"
+    a "小家伙，我应该陪你去，这样更安全。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_db90bb99:
 
-    "你听到安布的声音会更暖和 但很快会消失 就像熊手上的约格扬克斯一样 很难将安布拖到他手上。"
+    "听到安布这么说，你心里暖了一下，但这感觉很快便消散了——乔格狠狠拽住那只熊的手，把安布拖向自己。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_0c9cf0a8:
 
-    j "你留下来,我还没吃完你的腹肌。"
+    j "你留下！我还没玩够你的腹肌呢。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_95d7112e:
 
-    j "抱歉,安布太忙了,他不能和你一起去[e]。"
+    j "抱歉，[e]。安布太忙了，没法陪你去。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_8a93bdbd:
 
-    e "没关系,我可以自己处理。"
+    e "没事，我自己能应付。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_1d0fc1e2:
 
-    "安布利在坐着干草堆的时候 让你笑得难堪。"
+    "安布坐到干草堆上，朝你露出一个尴尬的笑容。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_23ac6cc2:
 
-    j "但是,不管怎样,如果你能帮我拿回一些李子, 我会教你如何做一个穿孔式的打击。"
+    j "不过话说回来，如果你能帮我找回一些李子，我就教你怎么使出穿刺打击。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_7bfb4651:
 
-    e "是这样吗?"
+    e "就……这样？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_33dd65c9:
 
-    "乔格给你一眼一眼 然后笑一笑。"
+    "乔格斜眼看了你一眼，随即轻笑起来。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_30a614b7:
 
-    j "你什么时候学会这样说话的?"
+    j "你什么时候学会这么说话了？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_73420d35:
 
-    j "好吧,安布会给你400个金子 够你贪婪的屁股吗?"
+    j "好吧，安布还会给你400枚金币，够满足你这贪婪的屁股了吗？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_ac7f43e9:
 
-    e "我想这足够我贪婪的屁股了。"
+    e "我想，这够满足我这贪婪的屁股了。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_f13d36d7:
 
-    j "好,现在让你的屁股 在那里,并给我带回梅子 在我得到它之前,我得到它。"
+    j "很好，现在把你的屁股带出去，把我的李子带回来——趁我还没先抓住你的屁股。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_79114e0b:
 
-    e "也许我晚点再去看。"
+    e "也许我晚点再去看看。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_b2e57b61:
 
-    j "泡泡不等了 但我会吃我的苹果 直到你的懒屁股回来。"
+    j "李子可不会等人，不过我就先啃着苹果，等你这懒屁股回来。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_3d65667c:
 
-    "在他们交谈之前,你们要告别。"
+    "两人向你挥手道别，随后聊起了他们自己的事。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_0e97eca1:
 
-    "听不到他们的谈话,你就马上离开。"
+    "你听不见他们的谈话，于是匆匆离开。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_e7cda083:
 
-    e "乔格,我想我会去找你的梅子,我该做什么?"
+    e "乔格，我打算去找你的李子。你说我该怎么做来着？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_7c71b49a:
 
-    j "好,你不能让这些多汁的魔鬼 浪费在别人的肚子里,就像精液一样。"
+    j "很好，你可不能让这些水灵灵的小恶魔浪费在别人的肚子里——就像精液一样。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_d94c27a1:
 
-    "乔格让你笑得不愉快 故意舔他的嘴唇。"
+    "乔格露出邪恶的笑容，意味深长地舔了舔嘴唇。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_553298f9:
 
-    j "去那个老农家吧 他会告诉你问题 阻止小偷 帮我把梅子拿回来 如果它们不是在别人的肚子里的话。"
+    j "去老农那里，他会告诉你这事的情况。阻止小偷，顺便帮我把李子拿回来——要是它们还没进别人肚子的话。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_24ccf0c3:
 
-    e "有什么需要我小心的吗?"
+    e "有什么需要我注意的吗？"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_27c841c5:
 
-    "土狼盯着你一阵子 然后再从他的苹果里咬一口。"
+    "鬣狗盯着你看了一会儿，然后又从自己的苹果上咬了一口。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_2c405ba7:
 
-    j "别从农场里走出来,你知道的 更陌生的危险。"
+    j "别走出农场，明白吗？外面的陌生人可是很危险的。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_d44e5b62:
 
-    j "有人可能会拿走你的钱 可能把你屁股吃掉 说不定是比喻。"
+    j "有人会拿走你的钱，甚至把你的屁股吃掉——当然，只是打个比方。"
 
 translate schinese_rewrite Jog_Bandit_Meet_Quest_Inquire_7115ea73:
 
-    e "右转。"
+    e "好、好的。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_56fdbe7a:
 
-    e "关于梅子..."
+    e "说到李子……"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1b2d8036:
 
-    "看着你,他的脸立刻变严重了。"
+    "乔格瞥了你一眼，脸色立刻变得严肃起来。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_de1c3315:
 
-    j "你抓住了小偷?"
+    j "你抓到那个小偷了？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_92f16cc0:
 
-    e "是的。"
+    e "对。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_54c0be6e:
 
-    e "是只老鼠 他说他是强盗什么的。"
+    e "是只鼠人，他说自己是强盗之类的。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_cf6b48e3:
 
-    j "他怎么了?"
+    j "他怎么了？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_c05d3456:
 
-    e "我让他拿了梅子就走了。"
+    e "呃……我让他拿着李子走了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b00f9d2e:
 
-    e "但他不会回来了,这是最重要的事,对吧?"
+    e "但他不会再回来了，这才是最重要的，对吧？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_2b635f62:
 
-    j "也许,他为什么来这里?"
+    j "也许吧，他为什么会来这里？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_398bcdfa:
 
-    e "他,呃,嗯,他觉得他很安全,因为有土狼。"
+    e "他、呃，呃……他以为有鬣狗在，就安全了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_81aa04ff:
 
-    "乔格抬起眉毛,你肯定他的眼神不好。"
+    "乔格扬了扬眉毛，你很确定他的目光并不友善。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_49246578:
 
-    j "关于我的什么?"
+    j "和我有关？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_ed9d0ede:
 
-    e "是的,他说沿着土狼的线 一定能保证他的安全。"
+    e "对，他说有鬣狗在会保护他。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_28a29dd3:
 
-    e "我这儿有梅子。"
+    e "嗯，我把李子带回来了，就在这里。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_23c60c13:
 
-    j "我开始习惯了这些苹果的味道。"
+    j "呃、呃，不过我都快习惯这些苹果的味道了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_cf1167ef:
 
-    e "我打得他很惨 他好像不会回来了。"
+    e "我把他揍得够呛。他看起来不会再回来了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_9773434e:
 
-    e "我也不这么认为,他求我留着梅子 我没还给他。"
+    e "我也这么想。不过他求我把李子留给他，我没还回去。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_2de3a988:
 
-    j "好,现在我终于可以享受这些李子了 免得这些小妖精挡路了。"
+    j "很好，现在终于可以不受这些烦人的小畜生打扰，好好享用李子了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_f0a0a70c:
 
-    "乔格听起来很无私 尽管把梅子拿回来 几乎没有任何情感。"
+    "乔格的语气毫无兴趣。尽管拿回了李子，他几乎没有流露出任何情绪。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_912927ea:
 
-    e "你知道他吗?"
+    e "你认识他？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b4fa3fc0:
 
@@ -1263,19 +1263,19 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b4fa3fc0:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_e4cb7ac5:
 
-    e "他之前说起一只土狼 我以为它说的是腹肌。"
+    e "他之前提到过鬣狗，我还以为他说的是——"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_213afb95:
 
-    j "你觉得如何?"
+    j "你觉得呢？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_6535c757:
 
-    e "Ah?"
+    e "啊？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_d215981f:
 
-    e "我跟着他到农场外面去了。"
+    e "嗯，我跟着他出了农场。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b4fa3fc0_1:
 
@@ -1283,107 +1283,107 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b4fa3fc0_1:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_fc4f2e72:
 
-    j "我没告诉你不要出去吗?"
+    j "我不是告诉过你别出去吗？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b1fb7d4c:
 
-    e "是的 但我想看看他是谁。"
+    e "是、是的，但我想看看他是谁。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_6cabd9d9:
 
-    j "你真的不听,对吧?"
+    j "你根本没在听，对吧？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_14261e80:
 
-    "乔格 叹气。"
+    "乔格叹了口气。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_cbdbf618:
 
-    j "我知道你当时选择转移那些山羊的注意力时 鲁莽得不得了。"
+    j "你当时选择去引开那些山羊时，我就知道你鲁莽得简直要命。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_da622ac7:
 
-    j "你发现了什么?"
+    j "所以，你查到什么了？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_30bc96f5:
 
-    e "他是只老鼠,我跟着他到他们的藏身处。"
+    e "他是只鼠人，我跟着他去了他们的藏身处。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_6ab4687b:
 
-    e "我看见鲨鱼,我想他可能是强盗的。"
+    e "我看见了一条鲨鱼，我觉得他可能是强盗的人。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_16c0650b:
 
-    e "我在那里被抓住了。"
+    e "然后……我在那里被抓住了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_01cc306b:
 
-    e "我不知道该怎么办,所以我撒谎了, 说我是一个新兵, 只是出来。"
+    e "我不知道该怎么办，只好谎称自己是新招募的成员，才得以脱身。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_27ddaf2a:
 
-    j "O-ok。"
+    j "哦、哦。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_c8e615f4:
 
-    j "你知道红色食物的事吗?"
+    j "你知道那个红色食物的事？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_f781326f:
 
-    e "我不知道,我只是猜测,我猜。"
+    e "我不知道，只是猜的，算是吧。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_c0eebb2d:
 
-    j "什么?你现在是土匪了?"
+    j "所、所以呢？你现在成强盗了？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_5f435be0:
 
-    e "他们认为我是,但其实不是。"
+    e "他们以为我是，但其实不是。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_30bc0c54:
 
-    j "你在开玩笑吗?"
+    j "你现在是在开玩笑吗？那条鲨鱼就这样放你走了？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_b0b48626:
 
-    e "Y -yeah。"
+    e "是、是啊。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_9f37517e:
 
-    j "."
+    j "……无聊。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_5a2b0c40:
 
-    j "他们有没有说... 关于土狼的事?"
+    j "他们有没有提到……鬣狗？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_92f16cc0_1:
 
-    e "是的。"
+    e "对。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_d494d9b3:
 
-    e "我刚刚赢了他,他说他不会再来了。"
+    e "我刚好赢了他一回，他说不会再来了。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_426e5ab5:
 
-    j "你信任他吗?"
+    j "你就信他？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_84e7f73f:
 
-    e "是的,我知道。"
+    e "对，我信。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_c1fe543f:
 
-    j "你会相信一个土匪吗?"
+    j "你会相信一个强盗？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_3a14a5ef:
 
-    e "我相信一个刚被殴打的土匪。"
+    e "我相信一个刚被揍过的强盗。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_3b37cfc7:
 
-    e "不是真的 但我现在得接受他的话。"
+    e "也不算吧，但现在我只能暂且相信他的话。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1adc08d8:
 
@@ -1391,11 +1391,11 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1adc08d8:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_9ab19e39:
 
-    e "呃,我没想到那部分会过去。"
+    e "……呃，我没把那部分想清楚。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_12f4457a:
 
-    e "不过他确实提到Lussterfield的一只土狼。"
+    e "不过，他确实提到过乐斯民菲尔德有一只鬣狗。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_a5a6fa0b:
 
@@ -1403,7 +1403,7 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_a5a6fa0b:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_8d76519e:
 
-    j "你不能太粗心。"
+    j "你不能这么粗心大意。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1adc08d8_1:
 
@@ -1411,71 +1411,71 @@ translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_1adc08d8_1:
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_9ab19e39_1:
 
-    e "呃,我没想到那部分会过去。"
+    e "……呃，我没把那部分想清楚。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_12f4457a_1:
 
-    e "不过他确实提到Lussterfield的一只土狼。"
+    e "不过，他确实提到过乐斯民菲尔德有一只鬣狗。"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_70ae7c5d:
 
-    j "还有土狼,哈。"
+    j "还有鬣狗，嗯？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_213afb95_1:
 
-    j "你觉得如何?"
+    j "你觉得呢？"
 
 translate schinese_rewrite Jog_Return_Bandit_Meet_Quest_6535c757_1:
 
-    e "Ah?"
+    e "啊？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_d84c5efc:
 
-    j "他在说我,你觉得呢?"
+    j "他说的是我，你觉得呢？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_26de6fe0:
 
-    e "我想他是在说另一个土狼?"
+    e "我觉得他说的是另一只鬣狗？也许他在别的地方见过一只鬣狗。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_2d4618b3:
 
-    j "不,我敢肯定,他在谈论我。"
+    j "不、不，我很确定他说的就是我。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_67e6ee5b:
 
-    j "现在,是我帮助了那些家伙吗?"
+    j "所以，我就是帮过那些人的那个？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_900d1dda:
 
-    e "我在想 也许你认识他?"
+    e "我只是在想，也许你……认识他？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_3b259224:
 
-    j "你觉得我帮那些家伙占了村子的便宜吗?"
+    j "你觉得我帮那些人欺压村民了？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_de54dc83:
 
-    e "当然不是,我喜欢你,乔格。"
+    e "当然不是，我对你很有好感，乔格。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_1f66d807:
 
-    e "你根本不像他们。"
+    e "你和他们完全不一样。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_cde5a5ec:
 
-    "乔格拳头紧紧盯着你。"
+    "乔格松开拳头，盯着你。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_1d32c660:
 
-    j "为什么你这么认为?"
+    j "你为什么这么想？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_48dc4429:
 
-    e "我觉得你很机智,很风趣 而且你对朋友很好。"
+    e "嗯，我觉得你既机灵又幽默，而且你对朋友特别好。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_18ed5aef:
 
-    e "我看不出来。"
+    e "他们身上可没有这些优点。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_b4fa3fc0:
 
@@ -1483,23 +1483,23 @@ translate schinese_rewrite Jog_Bandit_Ask_End_b4fa3fc0:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_68894f63:
 
-    "乔格向外看,他的脸充满困惑。"
+    "乔格移开视线，脸上满是困惑。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_75b24aca:
 
-    j "哈。"
+    j "嗯？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_c07d1989:
 
-    j "塞巴斯没有警告你我的事吗?"
+    j "塞巴斯没提醒过你要小心我吗？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_16831bc7:
 
-    e "我觉得这不重要 真的。"
+    e "我觉得那根本不重要。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_a2da7475:
 
-    e "我亲眼所见 你是个好朋友。"
+    e "我亲眼看到的，你是个很好的朋友。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_b4fa3fc0_1:
 
@@ -1507,55 +1507,55 @@ translate schinese_rewrite Jog_Bandit_Ask_End_b4fa3fc0_1:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_3327a0de:
 
-    j "右转。"
+    j "好、好吧。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_c3fc3d96:
 
-    j "是谁教你用嘴里黄油说话的,是不是亚瑟?"
+    j "谁教你说话这么甜的，是亚瑟吗？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_3dd6a59e:
 
-    e "不,不,真的,我是认真的,乔格。"
+    e "不，真的不是，我是真心这么想的，乔格。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_956be20e:
 
-    "土狼思考一分钟。"
+    "鬣狗思索了片刻。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_6ab089c5:
 
-    j "...S-shit."
+    j "……该、该死。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_e7e3fee3:
 
-    j "你知道,我一直在想一个方法 知道你会怎么想我 很长一段时间, 我从来没有期待 答案。"
+    j "你知道吗，我一直在想办法知道你怎么看我，想了很久，完全没料到你会这么回答。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_ca93db12:
 
-    j "通常我不会要求你帮我买梅子, 如果不是看到你会有什么反应。"
+    j "要不是想看看你会有什么反应，我通常不会让你帮我拿李子。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_fd652b7c:
 
-    e "你本可以直接问我的。"
+    e "那你直接问我不就好了。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_3e9e6629:
 
-    j "是的,但那不好玩。"
+    j "是啊，但那样就没意思了。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_c6a1cf8b:
 
-    "乔格笑。"
+    "乔格轻笑起来。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_4a977777:
 
-    j "我认识他们 土匪 很久以前我就是他们的一员了。"
+    j "我认识他们，那些强盗。我很久以前也是他们中的一员。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_a76f081c:
 
-    j "我真的以为我一辈子都会是土匪 我以为它成为我的一部分。"
+    j "我真的以为自己会一辈子当强盗，以为那已经成了我的一部分。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_44e56039:
 
-    j "但我被开除了,因为我不够凶猛。"
+    j "但我因为不够凶狠，被他们赶了出来。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_a01f5f59:
 
@@ -1563,15 +1563,15 @@ translate schinese_rewrite Jog_Bandit_Ask_End_a01f5f59:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_bfe6a121:
 
-    j "因为家里除了我没有其他贼了。"
+    j "因为那伙人里，除了我没有其他小偷。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_cc31ec5d:
 
-    j "很有趣,我喜欢。"
+    j "那段日子很有意思，我很喜欢。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_5681eb4e:
 
-    "看起来乔格说起来可不好玩 而你却很关心地盯着他看。"
+    "乔格说这话时一点也不像是在享受，你担忧地看着他。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_039446e9:
 
@@ -1579,15 +1579,15 @@ translate schinese_rewrite Jog_Bandit_Ask_End_039446e9:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_5f2588ba:
 
-    j "他是那个不见人性最差的笨蛋。"
+    j "他就是那种看不见人性最阴暗面的蠢货。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_69b1ea80:
 
-    j "也许你也是个笨蛋。"
+    j "也许你也是个蠢货。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_f2f2dd62:
 
-    e "我是?"
+    e "我吗？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_9396e944:
 
@@ -1595,51 +1595,51 @@ translate schinese_rewrite Jog_Bandit_Ask_End_9396e944:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_e19eeae9:
 
-    "他装笑。"
+    "他咧嘴一笑。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_edbbe909:
 
-    j "鲁特,作为一个村英雄 他是另一种不惜一切代价 保护朋友的蠢蛋 不论对错。"
+    j "还有洛哥，作为村里的英雄，他也是另一种蠢货——不论对错，都会不惜一切保护朋友。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_e572e1b3:
 
-    j "你当他的门徒真幸运,你知道的。"
+    j "你能成为他的门徒，真的很幸运，你知道吗？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_b846c3e7:
 
-    j "如果我像奥利一样 我会责备你整整一年 因为没向我列名单 偷偷溜到强盗那里。"
+    j "而且——如果我是奥利，我肯定会因为你不听我的话、偷偷跑去找强盗而骂你整整一年。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_169a8da3:
 
-    e "他会的,但他是说真的。"
+    e "他会的。但他也是出于好意。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_43783ae1:
 
-    j "我知道,他是一个不错的蜥蜴。"
+    j "我知道。总的来说，他是只不错的蜥蜴。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_920f7c52:
 
-    j "他没有做错什么 有时我只是偏执。"
+    j "他也没对我做错什么。只是有时候，我会疑神疑鬼。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_434160a3:
 
-    j "我讨厌那种感觉,但它不断回来 我不知道该怎么办。"
+    j "我讨厌那种感觉，可它总会卷土重来，我永远不知道该怎么办。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_1fa9872d:
 
-    j "我看见你的时候,它就一直在那里, 就像我看见其他人的时候一样。"
+    j "每次见到你时，那种感觉都会出现，就像我见到其他所有人的时候一样。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_57157362:
 
-    j "那种感觉 让我做一些我后悔的事 使我更害怕。"
+    j "而那种感觉会让我做出事后后悔的事，这反而让我更加害怕。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_7f8629fd:
 
-    j "我不想再有这种感觉了。"
+    j "我再也不想有那种感觉了。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_a8587b60:
 
-    e "我不会让这种情况发生,乔格。"
+    e "我不会让那种事发生的，乔格。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_b4fa3fc0_2:
 
@@ -1647,23 +1647,23 @@ translate schinese_rewrite Jog_Bandit_Ask_End_b4fa3fc0_2:
 
 translate schinese_rewrite Jog_Bandit_Ask_End_18192d59:
 
-    "土狼偶尔会第一次抬头看。"
+    "那只鬣狗隔了好一会儿才抬起头。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_ee9d2cd5:
 
-    j "我想我会信任你 不管有什么价值。"
+    j "不管有没有用，我想我会相信你。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_f6115226:
 
-    j "不过..."
+    j "不过……对，我不说这些丧气话了。"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_4e593c82:
 
-    j "我答应过要再次奖励你什么?"
+    j "嗯，我之前说要奖励你的东西是什么来着？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_70007cd8:
 
-    e "你答应要教我一门技艺?"
+    e "你答应教我一个技能？"
 
 translate schinese_rewrite Jog_Bandit_Ask_End_b9cdc77a:
 
@@ -1671,15 +1671,15 @@ translate schinese_rewrite Jog_Bandit_Ask_End_b9cdc77a:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_d84c5efc:
 
-    j "他在说我,你觉得呢?"
+    j "他说的是我，你觉得呢？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_d6ad2897:
 
-    e "我想他是在说另一个土狼?"
+    e "我觉得他说的是另一只鬣狗？也许——"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_724c769b:
 
-    j "哦,多巧啊,我让你知道,他说的是我。"
+    j "哦？真巧。那我现在告诉你，他说的就是我。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_5b41a77f:
 
@@ -1687,75 +1687,75 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_5b41a77f:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_2c803b14:
 
-    j "现在,是我帮他们的人吗?"
+    j "所以，我就是帮过他们的那个？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_900d1dda:
 
-    e "我在想 也许你认识他?"
+    e "我只是在想，也许你……认识他？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_3b1aef58:
 
-    j "明白了,现在你认为我帮他们 赢得了村子的优势吗?"
+    j "明白了。那你觉得我帮他们占村子的便宜了吗？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_b6169c96:
 
-    e "当然不是,我看起来很..."
+    e "当然不是，我对你很有——"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_e9cbd11b:
 
-    "乔格看起来很不耐烦 他紧紧握紧拳头。"
+    "乔格显得不耐烦，紧紧攥起拳头。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_cadff56e:
 
-    j "你们都一样,塞巴斯当时到底跟你说了什么?"
+    j "你们都一样。塞巴斯当时到底跟你说了什么，嗯？说我是个背后捅刀子的骗子和小偷？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_275c4199:
 
-    e "我可以..."
+    e "我能——"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_e5c080d9:
 
-    j "我生来就是个小偷 总是个小偷 而我却总是一无是处？"
+    j "说我是天生的小偷，永远都是小偷，除了惹麻烦什么都不会？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_553468e1:
 
-    j "为什么你不说说你第一次见到我 那一刻的想法呢?"
+    j "你为什么不把你第一次见到我时、第一秒想到的事直接说出来？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_5bfaa31d:
 
-    "你暂停。"
+    "你停顿了一下。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_2b3b28c3:
 
-    j "现在我明白为什么他们这么喜欢你了 他最喜欢的新室友哈哈。"
+    j "现在我明白他们为什么那么喜欢你了。他最喜欢的新室友，哈。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_f0aa1917:
 
-    e "乔格 我觉得这不公平。"
+    e "乔格，我觉得你这样说不公平——"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_df0f15c8:
 
-    j "公平就像每次出事时 总是我的问题一样？"
+    j "公平？每次出了什么问题，就总是我的错，这也叫公平？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_fc322f5d:
 
-    j "或者说好像我总是在计划, 利用他的财富,就像一只血友病虫 吸出宿主的血一样。"
+    j "还是说我一直在耍心机，利用他的财富，就像血蠕虫吸食宿主的血一样。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_930479f8:
 
-    e "乔格,我只是在说那个偷老鼠贼说了什么,别无其他。"
+    e "乔格，我只是在说那个鼠人小偷说的话，没别的意思。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_96c26c67:
 
-    "你试着让乔格冷静下来一点 但他仍然盯着你。"
+    "你试图让乔格冷静一点，但他仍然直直地盯着你。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_82fac779:
 
-    j "我也是个老鼠吗?"
+    j "我也是老鼠吗？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_86f5c891:
 
-    e "不,乔,你不是。"
+    e "不，乔格。你不是。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_b4fa3fc0:
 
@@ -1763,19 +1763,19 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_b4fa3fc0:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_a06df48d:
 
-    "他突然冻僵了。"
+    "他突然僵住了。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_9e6c091b:
 
-    e "你不是小偷,你不是强盗 你是我的朋友,乔格。"
+    e "你不是小偷，也不是强盗，你是我的朋友，乔格。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_4cb2f65e:
 
-    e "我真心把你看成一体 不管那些土匪怎么说。"
+    e "不管那些强盗说了什么，我都真的把你当朋友。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_68b570c3:
 
-    "土狼需要几秒钟才能冷静下来 他正在避开你关心的目光。"
+    "那只鬣狗花了几秒钟才平静下来，躲避着你担忧的目光。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_c9b014d2:
 
@@ -1783,7 +1783,7 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_c9b014d2:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_b205335d:
 
-    e "你们是好人。"
+    e "你是个好人。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_b4fa3fc0_1:
 
@@ -1791,19 +1791,19 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_b4fa3fc0_1:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_d8a5e1a5:
 
-    "他几乎快要流泪了, 几滴眼泪和咳嗽 远离一整个哭泣。"
+    "他几乎要哭出来了，只差几声哽咽和咳嗽，就会彻底崩溃。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_6dcde1b0:
 
-    e "无论过去发生什么 对你现在的现在 都毫无意义。"
+    e "无论过去发生过什么，都不能定义现在的你。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_fb4e3321:
 
-    e "我相信你,乔格。"
+    e "而且我相信你，乔格。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_13da5ec9:
 
-    "他的眼睛很湿,但好像在犹豫。"
+    "乔格困惑地看着你。他的眼里泛着泪光，但看起来正在强忍着。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_e0264660:
 
@@ -1815,23 +1815,23 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_b4fa3fc0_2:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_bef66ed7:
 
-    j "请按下键好吗?"
+    j "能、能请你走开吗？"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_9240fc72:
 
-    "你不敢看乔格的脸 他也躲得离你很远。"
+    "你不敢看乔格的脸，他也躲得离你远远的。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_97b88a39:
 
-    j "我们稍后再谈。"
+    j "我们之后再聊。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_5e88868a:
 
-    "他可能曾经是强盗的一部分,但被指责做他没做的事 肯定不容易。"
+    "他大概确实曾是强盗的一员，但被指控做过自己没做的事，肯定不好受。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_62dd8021:
 
-    "但最终你却强迫他 任凭他自己的想法。"
+    "但你最终还是照做了，留下他独自整理思绪。"
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_04e6ebfe:
 
@@ -1839,39 +1839,39 @@ translate schinese_rewrite Jog_Bandit_Accuse_End_04e6ebfe:
 
 translate schinese_rewrite Jog_Bandit_Accuse_End_c43b2bee:
 
-    "你只能希望他过一段时间 回到正常的慢跑状态。"
+    "你只能希望过些时候，他会恢复平时那副开朗的样子。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_c73fa029:
 
-    j "Hey."
+    j "嘿。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_f66a4f49:
 
-    "乔格走近你,步步缓慢。"
+    "乔格迈着懒散的步子朝你走来。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_f5130342:
 
-    e "你好,乔格。"
+    e "你好，乔格。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_23c0170f:
 
-    "你们两个都不说话 都投身于尴尬的视线比赛。"
+    "你们俩都没有说话，只能尴尬地对视。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_3eaf962a:
 
-    j "上次,我不再是我自己了。"
+    j "上次我不是我自己。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_7b21da20:
 
-    j "谢谢你没有离开我 直到我告诉你,但是。"
+    j "谢谢你没有离开我——嗯，至少在我叫你走之前没有。不过……"
 
 translate schinese_rewrite Jog_Return_Bandit_End_fcf8c0dc:
 
-    j "Uh."
+    j "呃。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_d606e5c5:
 
-    j "谢谢您的话。"
+    j "谢谢你说的那些话。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_1de57cfc:
 
@@ -1879,111 +1879,111 @@ translate schinese_rewrite Jog_Return_Bandit_End_1de57cfc:
 
 translate schinese_rewrite Jog_Return_Bandit_End_cf926f23:
 
-    e "这不是你的错,乔格。"
+    e "那真的不是你的错，乔格。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_fbadbfc3:
 
-    e "我们有时都有这样的突发事件。"
+    e "我们有时都会有那样失控爆发的时刻。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_4d5a8698:
 
-    j "我只是觉得你在做什么很奇怪, 我没想到。"
+    j "只是你当时的举动让我觉得很奇怪，我没想到你会那样。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_8dbb424d:
 
-    "他又停了一会儿 让你笑一笑。"
+    "他又停顿了一下，朝你露出一丝笑容。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_6f17c344:
 
-    j "我在那里哭得真难看,不是吗?"
+    j "我当时哭得特别难看，对吧？"
 
 translate schinese_rewrite Jog_Return_Bandit_End_68988311:
 
-    j "一点也不热 事实上 挺有骨气的。"
+    j "那一点也不性感。事实上，简直让人完全硬不起来。"
 
 translate schinese_rewrite Jog_Return_Bandit_End_063c5c0b:
 
-    j "我答应过要奖励你,所以我们把事情办完。"
+    j "不过，没错。我答应过要奖励你，那我们就把这事办完吧。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_5d54ff17:
 
-    j "这就是我说的,穿孔吹。"
+    j "这招叫“穿刺打击”。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_63669387:
 
-    j "顺便说一句,这不是要吹你的敌人的老二。"
+    j "顺便说一句，这可不是给敌人的鸡巴吹箫。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_3cb61074:
 
-    "慢跑指着他的斜眼。"
+    "乔格指了指自己微微眯起的眼睛。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_7e9f71be:
 
-    j "在这里,你只要花点时间 来看看他们的弱点。"
+    j "你只要花点时间仔细观察一会儿，就能找到他们的弱点。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_3d54de6b:
 
-    j "当你攻击时,你保证会狠狠打击他们。"
+    j "攻击时，你就能保证狠狠击中他们。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_9d6b492a:
 
-    j "一件事是,当你仔细观察它们时, 你暴露了自己易受攻击的弱点。"
+    j "不过，仔细观察他们时，也会把脆弱的自己暴露在对方的攻击下。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_cd80767d:
 
-    e "我能不能不仔细看他们?"
+    e "我能不能别凑那么近看？"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_c864c818:
 
-    j "那你就找不到他们的弱点了 你这个笨蛋。"
+    j "不然你就找不到他们的弱点了，蠢货。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_cdde08af:
 
-    j "所以,知道何时使用它们 是一个巨大的技能 你需要学会成为大师。"
+    j "所以，学会判断什么时候使用这招，是你成为大师所必须掌握的一项重要技巧。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_e57fdf58:
 
-    j "就是这样,没什么,但我想你会很快学会的。"
+    j "就是这样，虽然不算什么高深的东西，但我想你很快就能学会。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_6f0d9a97:
 
-    j "我很懒 所以我现在得先走了 这是我答应的黄金 回头见 [e]。"
+    j "而且我这人很懒，现在得走了。这是我答应给你的钱。回头见，[e]。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_8333c200:
 
-    e "See you."
+    e "回头见。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_48a0e297:
 
-    msg "你学会了\"电击吹\"的技巧。"
+    msg "你学会了技能“穿刺打击”。"
 
 translate schinese_rewrite Jog_Teach_Critical_Skill_3e48f566:
 
-    msg "你得到250个经验点。"
+    msg "你获得了 250 点经验值。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_5d3a34ab:
 
-    "你发现乔格不耐烦地拍他的脚。"
+    "你发现乔格正不耐烦地跺着脚。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_452da39b:
 
-    j "你花了足够长的时间。"
+    j "让你们等得够久了。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_8f8d2253:
 
-    a "别理他,你没事 我们确实需要和你谈谈。"
+    a "别理他，你没事就好。不过我们确实有件事要和你谈谈。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_d4dc1b17:
 
-    "你无法真正想到他们想从你身上得到什么 - - - 也许兰德哈克人出了什么事?"
+    "你实在想不出他们会有什么事找你——难道农田那边的陆鲨出了什么问题？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_7928d363:
 
-    e "发生什么坏事了吗?"
+    e "出什么事了吗？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_b9f08a04:
 
@@ -1991,11 +1991,11 @@ translate schinese_rewrite Jog_Wuldon_Quest_b9f08a04:
 
 translate schinese_rewrite Jog_Wuldon_Quest_9a58adc6:
 
-    a "不。"
+    a "没有。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_42aa881c:
 
-    "他们都互相看一眼。"
+    "他们对视了片刻。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_ec344aee:
 
@@ -2003,23 +2003,23 @@ translate schinese_rewrite Jog_Wuldon_Quest_ec344aee:
 
 translate schinese_rewrite Jog_Wuldon_Quest_18c86859:
 
-    e "...好吧,好吧,什么是 也许坏的事情 发生了什么事?"
+    e "……好吧，那到底发生了什么可能不太好的事？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_683809ce:
 
-    j "我们知道你最近去过狼人领地。"
+    j "嗯，我们知道你最近去过狼人领地。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_caa85629:
 
-    "你从来没有告诉他这一点,但肯定。"
+    "你从没告诉过他这件事，不过，算了。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_a22eebf6:
 
-    j "我们在农场里发现了一个。"
+    j "而且我们在农田那边发现了一只。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_0d9d47b1:
 
-    e "他是在攻击人吗?"
+    e "他在攻击人吗？！"
 
 translate schinese_rewrite Jog_Wuldon_Quest_7695b917:
 
@@ -2027,423 +2027,423 @@ translate schinese_rewrite Jog_Wuldon_Quest_7695b917:
 
 translate schinese_rewrite Jog_Wuldon_Quest_363760c0:
 
-    a "不... 还没有我们所能知道的, 但它有农民在边缘。"
+    a "没有……至少目前看来没有，但这让农民们都很不安。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_cc863ce7:
 
-    a "没有什么比大坏狼更 外面的你家外面吓唬你 毫无意义。"
+    a "家门口突然出现一只大坏狼，谁都会被吓得魂不附体。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_214b3a22:
 
-    "听起来不像一般的狼人 他们会立刻攻击农夫。"
+    "那……听起来不太像你认识的那些普通狼人。他们早就攻击农民了。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_4896c26c:
 
-    e "你知道他们在外面干什么吗?"
+    e "你知道他们在那儿做什么吗？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_238e7597:
 
-    "慢转令人不适。"
+    "乔格不自在地挪了挪身子。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_0aaae29e:
 
-    j "我担心的是,没人能想出办法。"
+    j "这正是让我烦恼的地方。没人能弄清楚。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_4f3593c2:
 
-    j "他总是知道我什么时候在看 趁我还没看到他在干嘛之前离开。"
+    j "他似乎总能察觉我在观察他，等我看清他在做什么之前就离开了。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_24ec5dc0:
 
-    a "每当有人鼓起勇气 站出来和他说话时 他一字不提地站起来消失。"
+    a "每当有人鼓起勇气走过去和他搭话，他就会起身，一言不发地消失。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_915505cd:
 
-    "这更奇怪,一个安静的狼人?"
+    "……那就更奇怪了。安静的狼人？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_dd1adb9a:
 
-    "一种想法开始 抓你的大脑。"
+    "一个念头开始在你的脑海里挠来挠去。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_bce509eb:
 
-    e "这个狼人是什么样子的?"
+    e "这只狼人长什么样？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_dd3a3bbc:
 
-    "乔格的姿势恢复了信心 对他来说更自然一些。"
+    "乔格恢复了自信的姿态，这对他来说自然多了。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_15eefad1:
 
-    j "很简单,他热得要命。"
+    j "哦，这简单。他性感得要命。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_a0212c50:
 
-    "该死的。"
+    "该死。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_891fc0e8:
 
-    j "好吧,你一点都不好玩,他是个大块头,深蓝色狼人 肚子大,肌肉大。"
+    j "好吧好吧，你真没意思。他是一只体型巨大、深蓝色的狼人，有个大肚子，肌肉也很发达。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_88df1c6a:
 
-    "是啊,这是你预期的。"
+    "对，这基本就是你预想的样子。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_30d8bc35:
 
-    j "他还拿着这把奇怪的弯刀 我们认为他用来割草?"
+    j "他还有一把奇怪的弯刀，我们觉得他可能一直在用它割附近的草？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_6bd0085d:
 
-    j "知道那是谁吗?"
+    j "你知道他可能是谁吗？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_2bd43118:
 
-    e "对,他叫沃尔登。"
+    e "知道。他叫伍尔顿。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_44a9a229:
 
-    e "他只是在为他一个病得很重的朋友 收集药品。"
+    e "他只是在为一个病得很重的朋友采集药材。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_48ed2b12:
 
-    a "很好,我们很确定他没有恶意,但是..."
+    a "哦，那就好。我们很确定他没有恶意，但是……"
 
 translate schinese_rewrite Jog_Wuldon_Quest_afbdf4b1:
 
-    a "农民们不会让他留下来的。"
+    a "我们还是得和他谈谈。农民们可不会乐意让他继续待在那里。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_c53b9c84:
 
-    "沃顿可能不会对这两个人中的任何一个 告诉他不要给武罗买药反应很好。"
+    "伍尔顿要是听到他们俩让他别再给伏罗采药，恐怕不会有什么好反应。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_fd4be28f:
 
-    "如果你问,也许它会有效?"
+    "也许你去问他会有用？"
 
 translate schinese_rewrite Jog_Wuldon_Quest_83797f01:
 
-    e "别担心,我去找他谈谈 谢谢你告诉我这件事。"
+    e "别担心，我去和他谈谈。谢谢你告诉我这件事。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_a1c75126:
 
-    a "没问题,谢谢你的照顾。"
+    a "没问题，也谢谢你愿意处理。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_e4191a2a:
 
-    j "一定要问他他怎么总能知道我在哪里!"
+    j "记得问问他为什么总能发现我在哪里！"
 
 translate schinese_rewrite Jog_Wuldon_Quest_abda1e4a:
 
-    e "收到,收到,我晚点再跟你们谈。"
+    e "知道了，知道了。回头再找你们。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_37e1f1c3:
 
-    "好吧,你得去说服狼人。"
+    "好吧。你得去说服一只狼人了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_18fe3705:
 
-    e "乔格,我是来训练的。"
+    e "乔格，我是来训练的。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_e600cd0a:
 
-    "乔格从他的干草地上跳下来。"
+    "乔格从干草垛上跳了下来。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_f785cef8:
 
-    j "完美的时机。我们走吧。"
+    j "时机正好。我们走。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_c4086d54:
 
-    e "我们要去哪里?"
+    e "我们要去哪儿？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_20b80bf1:
 
-    j "森林附近的灌木丛会好起来的。"
+    j "森林附近的灌木丛就行。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_b9f6bb9c:
 
-    e "我们该怎么办?"
+    e "我们要做什么？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_7428efc6:
 
-    j "你会知道的。"
+    j "到时候你就知道了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_a838e0e0:
 
-    e "我需要准备什么吗?"
+    e "我需要准备什么吗？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_82d7ded8:
 
-    j "把你的英俊的自己带来。"
+    j "带上你这张帅脸就行。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_ea03e3b9:
 
-    j "20个问题都问够了,我在那里等你。"
+    j "别再问这二十个问题了。我在那里等你。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_1962914c:
 
-    "你们打算建议 你们两个可以一起去旅行 但当你转弯时 你看到他已经失踪了。"
+    "你正要提议一起过去，可刚转过拐角，就发现他已经不见了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_8491e5b8:
 
-    "你到达森林,这里宁静宁静。"
+    "你来到森林。这里宁静祥和。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_6248a843:
 
-    "找不到乔格。"
+    "哪儿都找不到乔格。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_bcde38c5:
 
-    e "乔格?你在吗?"
+    e "乔格？你在吗？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_02cda242:
 
-    "你得到的唯一答案就是鸟儿的鸣叫。"
+    "你得到的唯一回答是鸟儿的啁啾声。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_4211b0c4:
 
-    "就像你怀疑这是不是恶作剧一样 你感觉自己屁股被捏了一下。"
+    "你正纳闷这是不是恶作剧，突然感到屁股被掐了一下。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_33ce38fc:
 
-    j "那是你惩罚我等这么久的惩罚。"
+    j "这是你让我等这么久的惩罚。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_d333a3bf:
 
-    "乔格从阴影中浮现出来。"
+    "乔格从阴影中现身。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_e52165e5:
 
-    "他带着一篮子的浆果 似乎有不同的种类。"
+    "他提着一篮看起来各式各样的浆果。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_5c609639:
 
-    e "你那里有什么,乔格?"
+    e "你拿的是什么，乔格？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_43a2d3c1:
 
-    e "我们是不是要去摘莓?"
+    e "我们要去摘浆果吗？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_9752d2ec:
 
-    j "我们的孩子在树林里翻滚吗?"
+    j "我们是要像孩子一样在树林里撒欢吗？不是。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_bf07d712:
 
-    j "我要教你们做侦察员的关键技能。"
+    j "我要教你一项侦察兵必不可少的技能。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_924d27d3:
 
-    e "是什么?"
+    e "是什么？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_aaf07927:
 
-    j "伪装艺术。"
+    j "伪装术。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_6df8025b:
 
-    e "这听起来很酷。"
+    e "听起来很酷。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_eaa0a922:
 
-    j "而且非常有用。"
+    j "而且非常实用。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_6cc867db:
 
-    e "但果子怎么会牵涉进来?"
+    e "但浆果和这有什么关系？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_8582534f:
 
-    "乔格摇篮子。"
+    "乔格晃了晃篮子。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_8270ebc0:
 
-    j "你不会在野外带油漆吧?"
+    j "你总不会带着颜料跑到荒野里来吧？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_879634cc:
 
-    e "不。"
+    e "不会。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_e7da5408:
 
-    j "宾果。但是这些浆果可以到处找到。只要你了解自己的颜色,你基本上可以混合任何你所需的 完美的伪装。"
+    j "答对了。不过这些浆果到处都有。只要你了解颜色，就基本能调出完美伪装所需的任何色调。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_6ac99167:
 
-    e "听起来不错。"
+    e "听起来挺有意思。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_85d83fe9:
 
-    j "好的。现在,脱光。"
+    j "好。现在，脱衣服。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_ad8f48d1:
 
-    "你对需求感到惊讶。"
+    "你被这个要求惊到了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_790c5b80:
 
-    e "脱衣舞?为什么?"
+    e "脱衣服？为什么？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_e3bc7524:
 
-    j "导致浆果污渍, 我不会让你责怪我 毁了你的衣服以后。"
+    j "因为浆果会染色，我可不想之后你怪我把你的衣服弄坏了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_743e5839:
 
-    j "而且,这让这个教训更有趣。"
+    j "而且这样上课会有趣得多。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_19022f52:
 
-    "慢慢地向你眨眼。"
+    "乔格淘气地朝你眨了眨眼。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_4d14a03f:
 
-    j "别浪费时间了 把衣服脱了。"
+    j "别浪费时间。把衣服脱了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_5290c77d:
 
-    j "你不害羞吧?"
+    j "你不会害羞吧？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_5d25027a:
 
-    e "不……"
+    e "不会……"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_86dfce74:
 
-    "你脱下你的腰带。"
+    "你脱得只剩一条缠腰布。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_57ef6df3:
 
-    "尽管乔格也只是站在他的短裤里 你忍不住觉得有点自觉。"
+    "尽管乔格也只穿着内裤站在那里，你还是不由得有些不好意思。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_c8027eae:
 
-    "慢跑哨声。"
+    "乔格吹了声口哨。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_30de0b66:
 
-    j "Nice bod."
+    j "身材不错。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_4b01a27e:
 
-    e "乔格,焦点。"
+    e "乔格，专心点。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_a423411c:
 
-    j "我是。"
+    j "我很专心啊。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_a7868852:
 
-    "他把眼睛集中在你暴露的尸体上时 这么说。"
+    "他说着，目光却落在你暴露的身体上。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_23236483:
 
-    e "乔格,认真点。"
+    e "乔格，认真点。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_9660dd78:
 
-    j "好吧,放松一点,或者我需要帮你。"
+    j "好了，放松一点……不然可能得让我来帮你。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_b285ef14:
 
-    j "不管怎么说,看看这个。"
+    j "总之，看这个。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_8fb47169:
 
-    "乔格抓了几只蓝色和金色的浆果。"
+    "乔格抓起一把蓝色和金色的浆果。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_35c6c913:
 
-    "他用他的爪子把他们弄得团团转。你感到惊讶的是,浆果慢慢地变绿色, 颜色与你周围叶子的颜色吻合。"
+    "他用爪子把它们捣成糊状。令你惊讶的是，浆果渐渐变成了和周围树叶颜色一致的绿色。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_b851e15c:
 
-    e "这是惊人的。"
+    e "太神奇了。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_e7f841e9:
 
-    "你们真的敬畏。"
+    "你由衷地感到惊叹。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_0e609d17:
 
-    j "你可以得到你想要的任何颜色 只要你知道如何结合它们。"
+    j "只要知道怎么调配，你想要什么颜色都能调出来。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_52124093:
 
-    "乔格在混合中加了几颗金莓, 颜色变形为更亮的绿绿色。"
+    "乔格又往混合物里加了几颗金色浆果，颜色变成了更明亮的祖母绿色。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_f0712253:
 
-    j "有了阴影,你可以创造阴影的幻觉。"
+    j "加上一些阴影色，就能制造出阴影的错觉。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_d0a0f53a:
 
-    j "再加上,你不仅可以使用浆果,你周围的一切都可以用作材料。"
+    j "而且不只是浆果能用。周围的一切都可以当作材料。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_eaee73d2:
 
-    "为了展示,乔格捡起一些土壤 用一些红莓泥做泥浆。"
+    "为了示范，乔格捡起一些泥土，又把它和几颗红色浆果揉在一起。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_c46275e1:
 
-    "浆果的亮红变得更铜化。然后你就会意识到他想模仿什么。"
+    "浆果鲜亮的红色变得更像铜色。你这才意识到他想模仿什么。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_2a032647:
 
-    e "那是血吗?"
+    e "那是血吗？"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_5fd27299:
 
-    j "没错,至少是假血。"
+    j "没错。至少，是假血。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_926d38be:
 
-    j "当试图带领敌人走假路时 很有用。"
+    j "想把敌人引向错误的踪迹时，这很有用。"
 
 translate schinese_rewrite Jog_Ole_Training_Scene_efcd41db:
 
-    j "现在,放在有趣的部分上。"
+    j "现在，进入有趣的部分。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_24c5ec78:
 
-    e "你好吗,乔格?"
+    e "你最近怎么样，乔格？"
 
 translate schinese_rewrite Jog_Ask_How_Doing_e2de1f19:
 
-    j "只是练习射箭。"
+    j "就练练射箭。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_3643a1d9:
 
-    j "我是球队的侦察员。"
+    j "我是队伍里的侦察兵。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_7319cda1:
 
-    j "所以团队在接近敌人之前 得靠我拍几张照片。"
+    j "所以我们接近敌人、和他们近身交战前，队伍要靠我先射中几箭。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_1b1650ec:
 
-    "然后,乔格环顾四周,低调地低声低语。"
+    "接着，乔格环顾四周，压低声音耳语起来。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_629fc2cf:
 
-    j "还有 如果你听到镇上有人 低语说一个符合我档案的小偷。"
+    j "还有，如果你听见镇上有人悄悄议论，说有个小偷和我的特征很相符……"
 
 translate schinese_rewrite Jog_Ask_How_Doing_01f2d519:
 
-    j "我可以发誓不是我干的。"
+    j "我发誓那绝对不是我。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_37a3c5d8:
 
-    "乔格眨眼看你。"
+    "乔格朝你眨了眨眼。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_5c03ac6b:
 
-    e "嗯..."
+    e "呃……好吧。"
 
 translate schinese_rewrite Jog_Ask_How_Doing_29227e9d:
 
-    "你不知道如何去改变它。"
+    "你完全不知道该怎么理解。"
 
 translate schinese_rewrite Jog_Ask_Amble_de56a969:
 
@@ -2451,71 +2451,71 @@ translate schinese_rewrite Jog_Ask_Amble_de56a969:
 
 translate schinese_rewrite Jog_Ask_Amble_68b9f216:
 
-    j "那块木头?"
+    j "那块木头？"
 
 translate schinese_rewrite Jog_Ask_Amble_ecd24179:
 
-    j "我想他没事。"
+    j "我觉得他还不错。"
 
 translate schinese_rewrite Jog_Ask_Amble_e291175d:
 
-    j "每个团队必须有一个肉类护垫,你就可以了。"
+    j "每支队伍都得有个肉盾，正好我们有他。"
 
 translate schinese_rewrite Jog_Ask_Amble_f6271eac:
 
-    e "我不认为他只是你的肉料... 对不对?"
+    e "我觉得他对你来说不只是肉盾……对吧？"
 
 translate schinese_rewrite Jog_Ask_Amble_fa1e4dd4:
 
-    j "不是工具箱里最尖的钉子 如果你懂我的意思的话。"
+    j "他可不是最聪明的那个，你懂我的意思吧。"
 
 translate schinese_rewrite Jog_Ask_Amble_b0dc4a0b:
 
-    j "但是,有了这样的身体,你为什么需要大脑?"
+    j "不过话说回来，有那样的身材，干吗还需要脑子？"
 
 translate schinese_rewrite Jog_Ask_Amble_67274057:
 
-    "乔格 责备你。"
+    "乔格用胳膊肘碰了碰你。"
 
 translate schinese_rewrite Jog_Ask_Amble_7e6abc6c:
 
-    j "此外,风景很美,不是吗?"
+    j "而且这风景不错，对吧？"
 
 translate schinese_rewrite Jog_Ask_Lothar_097b2d98:
 
-    e "你对Lotthar有什么看法,乔格?"
+    e "洛萨尔对你来说是什么样的人，乔格？"
 
 translate schinese_rewrite Jog_Ask_Lothar_3f6bfd29:
 
-    j "现在你们一定知道 洛特是村里的英雄。"
+    j "嗯，你现在应该知道了，洛哥是村里的英雄。"
 
 translate schinese_rewrite Jog_Ask_Lothar_0404ab33:
 
-    j "他也是一个很好的领袖!"
+    j "他还是个非常优秀的领袖！"
 
 translate schinese_rewrite Jog_Ask_Lothar_8830de33:
 
-    "乔格的语气中很少有真诚的痕迹。"
+    "乔格的语气中难得流露出一丝真诚。"
 
 translate schinese_rewrite Jog_Ask_Lothar_00be9f9e:
 
-    e "Ehm..."
+    e "呃……"
 
 translate schinese_rewrite Jog_Ask_Lothar_b457b0f4:
 
-    j "你也许对罗特印象不好。"
+    j "你对洛哥的印象可能不太好。"
 
 translate schinese_rewrite Jog_Ask_Lothar_8f6a0f8e:
 
-    j "我知道他有时候会遇到什么。"
+    j "我知道他有时候给人的感觉不太好。"
 
 translate schinese_rewrite Jog_Ask_Lothar_5c8419e3:
 
-    j "但是他心里有每个人的最大利益。"
+    j "但他是真心为所有人着想。"
 
 translate schinese_rewrite Jog_Ask_Lothar_1a60a167:
 
-    j "千万别告诉他我说了这些 否则我永远听不见结局。"
+    j "只是千万别告诉他这是我说的，不然他能念叨得我耳根子永远不得清净。"
 
 translate schinese_rewrite Jog_Ask_Lothar_2b03b73d:
 
@@ -2527,7 +2527,7 @@ translate schinese_rewrite Jog_Ask_Lusterfield_2dedfb7c:
 
 translate schinese_rewrite Jog_Ask_Lusterfield_a619ec14:
 
-    j "这里不错。"
+    j "这地方不算差。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_88861419:
 
@@ -2535,39 +2535,39 @@ translate schinese_rewrite Jog_Ask_Lusterfield_88861419:
 
 translate schinese_rewrite Jog_Ask_Lusterfield_1087d040:
 
-    j "这里有些有趣的人物。"
+    j "这里有些挺有意思的人。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_8bc16b8b:
 
-    j "例如,商店的蜥蜴。"
+    j "比如店里的那只蜥蜴。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_6e665586:
 
-    j "我不明白为什么人们会到处 免费送药。"
+    j "我不明白人们为什么会到处免费送药。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_bce8c5b8:
 
-    j "但我不是在抱怨。"
+    j "但我也没抱怨。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_74c54712:
 
-    j "这意味着团队有 更多的预算 用于其他事情。"
+    j "这样队伍就有更多预算用在其他事情上。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_d8aa5cf2:
 
-    j "狮子,塞巴斯蒂..."
+    j "还有那头狮子，塞巴斯蒂——……塞巴斯。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_70887afb:
 
-    j "假设我们有一些历史。"
+    j "只能说，我们之间有些过往。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_e196989a:
 
-    e "嗯?"
+    e "嗯？什么过——"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_b3b6f0fb:
 
-    j "酒馆的酒馆巴基普没事。"
+    j "酒馆老板还不错。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_d6f478a9:
 
@@ -2579,27 +2579,27 @@ translate schinese_rewrite Jog_Ask_Lusterfield_25c7ac3b:
 
 translate schinese_rewrite Jog_Ask_Lusterfield_2ed36206:
 
-    j "尊重男人。"
+    j "我很敬重他。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_50f340c2:
 
-    j "但你不想看看他在装什么吗?"
+    j "不过，你不想看看他胯下藏着什么吗？"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_ad4c7271:
 
-    e "嗯..."
+    e "呃……我没注意。"
 
 translate schinese_rewrite Jog_Ask_Lusterfield_c6a1cf8b:
 
-    "乔格笑。"
+    "乔格轻笑起来。"
 
 translate schinese_rewrite Jog_Dialogue_End_323e23d6:
 
-    e "就是这样,谢谢你这么多 与我相处,乔格。"
+    e "就这样了，多谢你一直耐心听我说，乔格。"
 
 translate schinese_rewrite Jog_Dialogue_End_a933d18f:
 
-    j "是啊,\"保持锋利,我的徒弟\",哈哈。"
+    j "是啊。‘保持警觉，我的门徒’，呵。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_51a554e3:
 
@@ -2607,15 +2607,15 @@ translate schinese_rewrite Jog_Amble_Outfit_01_51a554e3:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_91452208:
 
-    "他们俩都发现你 点头来确认你的出现 狂浪和问候你。"
+    "他们俩都发现了你。乔格点头示意，安布挥手向你打招呼。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_19e2fd3e:
 
-    a "嘿,是罗特的追随者 你今天在这里做什么?"
+    a "嘿。洛哥的门徒。今天来这里做什么？你穿的又是什么？"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_ec0ac84a:
 
-    "你感觉到两双眼睛 扫描你的身体。"
+    "你感觉到两道目光扫过你的身体。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_0533eebe:
 
@@ -2627,11 +2627,11 @@ translate schinese_rewrite Jog_Amble_Outfit_01_5fe6030f:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_72524946:
 
-    e "这只是份工作 你觉得这身衣服怎么样?"
+    e "这只是一份工作。所以，你觉得这套衣服怎么样？"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_471003e9:
 
-    a "我认为它很棒。"
+    a "我觉得很棒。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_ca992bed:
 
@@ -2639,23 +2639,23 @@ translate schinese_rewrite Jog_Amble_Outfit_01_ca992bed:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_3b63f3ef:
 
-    a "它展示你的所有资产。"
+    a "它把你的优点全都展现出来了。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_e2e7b8fc:
 
-    j "顺便说一句,你运动的好资产。"
+    j "顺便说一句，你这身材真不错。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_d9801d53:
 
-    a "这些带子可用于急救治疗。"
+    a "这些带子在急救时可以用来包扎。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_b7544f1f:
 
-    j "或者绑人下来 如果你听懂我的话。"
+    j "或者用来把人捆起来，如果你明白我的意思。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_c6f7b61f:
 
-    a "不过没有内衣也行。"
+    a "不过没有那件内衫也行。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_2cc9d4bc:
 
@@ -2667,27 +2667,27 @@ translate schinese_rewrite Jog_Amble_Outfit_01_cd723d4d:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_ff516529:
 
-    "乔格和Angble点头 你看着他们 突然想到一些事情。"
+    "乔格和安布点了点头。你看着他们，突然想起一件事。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_c548d0da:
 
-    e "等我们讨论这个话题时 我能问个问题吗?"
+    e "既然说到这个，我能问个问题吗？"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_3ea0102f:
 
-    a "继续。"
+    a "问吧。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_8846c244:
 
-    e "你为什么穿得这么少 冒险家?"
+    e "你们作为冒险者，为什么穿得这么少？"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_15174b43:
 
-    "你的问题令他们感到惊讶。"
+    "他们俩似乎对你的问题感到惊讶。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_a7a353c5:
 
-    a "当然,这是为了恐吓。通常我会赢得一半的战斗。当敌人看到一大批肌肉朝他们冲来的时候。"
+    a "当然是为了威慑。通常敌人看到一大块肌肉朝他们踩过来，我就已经赢了一半。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_7dca3914:
 
@@ -2695,23 +2695,23 @@ translate schinese_rewrite Jog_Amble_Outfit_01_7dca3914:
 
 translate schinese_rewrite Jog_Amble_Outfit_01_3e32b0c9:
 
-    j "更别说被迷上的机会了,而且,它缩短了时间 来享受任何战斗的乐趣。"
+    j "这是为了敏捷和灵活。这样不容易被东西勾住。而且还能更快进入每场战斗最有趣的部分。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_3e05971e:
 
-    "乔格 grins 对你发号施令。"
+    "乔格意味深长地朝你咧嘴一笑。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_406fe208:
 
-    j "你应该试试看,看看它能给你带来什么。"
+    j "你也该试试，看看它能把你带到哪里。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_cf292d90:
 
-    "你紧张地吞咽。"
+    "你紧张地咽了咽口水。"
 
 translate schinese_rewrite Jog_Amble_Outfit_01_700dc167:
 
-    e "好的,谢谢你的反馈。"
+    e "好吧。谢谢你们的反馈。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_51a554e3:
 
@@ -2719,27 +2719,27 @@ translate schinese_rewrite Jog_Amble_Outfit_03_51a554e3:
 
 translate schinese_rewrite Jog_Amble_Outfit_03_91452208:
 
-    "他们俩都发现你 点头来确认你的出现 狂浪和问候你。"
+    "他们俩都发现了你。乔格点头示意，安布挥手向你打招呼。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_be96019e:
 
-    a "这身衣服很可爱,但绝对不适合战斗,你很可能自己去旅行。"
+    a "这套衣服很可爱，但绝对不适合战斗。你很可能会被自己绊倒。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_c19be9cb:
 
-    j "另一种向对手屈服的天才方式。"
+    j "又一种把自己拱手送给对手的高明办法。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_f89941c7:
 
-    a "但它很可爱,因为穿在镇上,它让我想把你包起来,带你回家。"
+    a "不过在镇上穿倒是很可爱。让我想把你裹起来带回家。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_109288fb:
 
-    j "是的,你被结了结了 让我想把你像礼物一样打开。"
+    j "是的。你被绳结捆了起来。这让我想像拆礼物一样把你打开。"
 
 translate schinese_rewrite Jog_Amble_Outfit_03_191343ce:
 
-    e "好吧,好吧,我明白了,谢谢!"
+    e "嗯……好吧，好吧……我明白了。谢谢！"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_b05d5fac:
 
@@ -2747,35 +2747,35 @@ translate schinese_rewrite Jog_Amble_Outfit_02_b05d5fac:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_f4c74ba3:
 
-    e "嘿,伙计们,这个..."
+    e "嘿，伙计们。这……"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_cf022a63:
 
-    "在你开始解释之前 他们开始检查你的装备。"
+    "你还没来得及解释，他们就开始检查你的衣服。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_a647213c:
 
-    "他们的拍拍你的大腿 和内裤让你稍稍兴奋。"
+    "他们拍打你大腿和胯部的动作，让你微微兴奋起来。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_82cad102:
 
-    "你希望你能够隐藏你开始有的骨骼, 但服装使得它不可能。"
+    "你希望能藏住开始勃起的阴茎，但这套衣服让你无处遮掩。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_3b4a2baf:
 
-    e "伙计们,停下。"
+    e "伙计们，停下。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_54d2fbed:
 
-    e "伙计们..."
+    e "伙计们……停下。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_bb15fe1e:
 
-    "至少比什么都没有好。"
+    "安布停了下来，但乔格没有。至少，比什么都没有好。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_14663823:
 
-    "你试着冷静下来 但乔格的手指 跟着你的新衣服走来走去很难。"
+    "乔格的手指沿着你的新衣服滑动，你努力让自己冷静下来，却很难做到。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_ba1b5f65:
 
@@ -2783,11 +2783,11 @@ translate schinese_rewrite Jog_Amble_Outfit_02_ba1b5f65:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_828d35d2:
 
-    e "你们俩似乎比冒险家的盔甲更喜欢它。"
+    e "你们喜欢这套新衣服的什么地方？看起来你们比起真正的冒险者盔甲，更喜欢它。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_44b857bb:
 
-    a "因为它非常令人想起我们的服装, 除了奇怪的东西 包在你的腿上,这就是。"
+    a "因为它和我们的装束很像，除了你腿上缠着的那个奇怪东西。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_18aafa8e:
 
@@ -2795,7 +2795,7 @@ translate schinese_rewrite Jog_Amble_Outfit_02_18aafa8e:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_18bc9b0b:
 
-    "你忍不住在这个问题的含意下 停下来。"
+    "这个问题暗示的意思让你不由得停顿了一下。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_0ae009ea:
 
@@ -2803,51 +2803,51 @@ translate schinese_rewrite Jog_Amble_Outfit_02_0ae009ea:
 
 translate schinese_rewrite Jog_Amble_Outfit_02_0dbe3672:
 
-    "你觉得这很热。"
+    "你觉得这非常刺激。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_9a8da447:
 
-    "突然间,一系列弹出的声音 把你引出你的记忆中。"
+    "突然，一连串啪嗒声把你从遐想中惊醒。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_caa6fb91:
 
-    j "嘿,裤子要脱了,你只要扣下腰带的按钮。"
+    j "嘿。这条裤子本来就是要脱下来的。你只要解开腰带上的扣子就行。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_7e5387f1:
 
-    a "真的吗,你设计得很好,你看起来真的像球队的一部分。"
+    a "真的吗？这设计真棒。现在，你看起来真的像我们的一员了。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_77414c90:
 
-    "你可以感觉到乔格的敏捷手指 以高超的技巧 解开按钮时 男孩们滑下来了。"
+    "乔格灵巧地解开扣子，你能感觉到皮套裤往下滑。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_f7b181d2:
 
-    "你很快地扇了乔格的手 抓住了那些家伙 在他们完全倒下之前 把你留在你的书状里。"
+    "你赶紧拍开乔格的手，在皮套裤彻底滑落前抓住它，最后只剩内裤的你站在那里。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_40934724:
 
-    e "伙计们 别开玩笑了 服装不是这么使用的。"
+    e "伙计们，别开玩笑了。这套衣服不是这么用的。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_169797ae:
 
-    "虽然你脑子里想着 你怀疑你是否错了 他们是否是对的。"
+    "不过你心底还是忍不住怀疑，也许错的是你，他们才是对的。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_8c3c6de3:
 
-    "毕竟,这身衣服是给酒馆准备的。"
+    "毕竟，这套衣服本来就是给酒馆用的。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_7de89526:
 
-    "无论哪种方式,你都需要在事情变得失控之前逃跑。"
+    "不管怎样，你得在事态变得更失控前逃走。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_89fc3091:
 
-    "你按回按钮 并远离射击场。"
+    "你重新扣好扣子，转身离开射击场。"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_4bcca145:
 
-    j "嘿,我们还没检查完衣服呢!"
+    j "嘿，我们还没检查完这套衣服呢！"
 
 translate schinese_rewrite Jog_Amble_Outfit_02_46c6ab29:
 
@@ -2859,35 +2859,35 @@ translate schinese_rewrite Amble_Dialogue_aa9a8699:
 
 translate schinese_rewrite Amble_Dialogue_588ac63f:
 
-    a "[e]。"
+    a "嘿，[e]。"
 
 translate schinese_rewrite Amble_Dialogue_d8d1bf2e:
 
-    a "你现在穿得和我们一样 却没穿运动服。"
+    a "你……现在穿得和我们一样，只是少了那件护裆。"
 
 translate schinese_rewrite Amble_Dialogue_f9e67d67:
 
-    a "嘿,[e]..."
+    a "嘿，[e]……以前没在这附近见过你……"
 
 translate schinese_rewrite Amble_Dialogue_23c16d36:
 
-    e "我只是在村里走来走去 发现了你们两个!"
+    e "我只是逛了逛村子，发现了你们两个！"
 
 translate schinese_rewrite Amble_Dialogue_9c83f499:
 
-    a "我们不介意 经常来..."
+    a "我们不介意。既然你现在也是我们的一员，就多来走动吧……"
 
 translate schinese_rewrite Amble_Dialogue_d70ab2fe:
 
-    e "上次我甚至没认识你 也没跑那么多步。"
+    e "算是吗？自从上次以来，我都没怎么了解你和乔格……"
 
 translate schinese_rewrite Amble_Dialogue_0204a4bf:
 
-    a "我们总是在这里, 如果我们不是已经出去 狩猎在下午。"
+    a "我们一直都在，如果下午没有出去打猎的话。"
 
 translate schinese_rewrite Amble_Dialogue_09955b5a:
 
-    a "把自己当家一样对待 这是我们通常练习的地方。"
+    a "把这里当自己家吧，我们平时就在这里训练。"
 
 translate schinese_rewrite Amble_Dialogue_71c9810a:
 
@@ -2895,7 +2895,7 @@ translate schinese_rewrite Amble_Dialogue_71c9810a:
 
 translate schinese_rewrite Amble_Dialogue_1658385d:
 
-    a "这是他的,这里的假人从不动,所以别担心了。"
+    a "这是他的。这里的假人从来不会动，所以少操心一件事。"
 
 translate schinese_rewrite Amble_Dialogue_d896417d:
 
@@ -2907,19 +2907,19 @@ translate schinese_rewrite Amble_Dialogue_aa9a8699_1:
 
 translate schinese_rewrite Amble_Dialogue_588ac63f_1:
 
-    a "[e]。"
+    a "嘿，[e]。"
 
 translate schinese_rewrite Amble_Normal_Talk_5ce11562:
 
-    a "[e]?你在想什么?" nointeract
+    a "[e]？你在想什么？" nointeract
 
 translate schinese_rewrite Amble_Normal_Talk_e1b4b9b5:
 
-    e "其他花花公子呢?"
+    e "那其他人呢？"
 
 translate schinese_rewrite Amble_Normal_Talk_602e6952:
 
-    a "我的团队?" nointeract
+    a "我的队伍？" nointeract
 
 translate schinese_rewrite Amble_Ole_Training_de33b095:
 
@@ -2931,39 +2931,39 @@ translate schinese_rewrite Amble_Ole_Training_ebb2afb6:
 
 translate schinese_rewrite Amble_Ole_Training_a09ee073:
 
-    e "你和乔格旅行的时间比我长得多。"
+    e "你和乔格出门历练的时间比我长多了。"
 
 translate schinese_rewrite Amble_Ole_Training_b760ddd9:
 
-    a "正确。"
+    a "没错。"
 
 translate schinese_rewrite Amble_Ole_Training_026bfe9f:
 
-    e "所以你意味着你有更多的战斗经验。"
+    e "也就是说，你的战斗经验比我丰富。"
 
 translate schinese_rewrite Amble_Ole_Training_210c06eb:
 
-    a "是。"
+    a "是的。"
 
 translate schinese_rewrite Amble_Ole_Training_0ceac477:
 
-    e "安波,这样的话,你有什么战技能教我吗?"
+    e "既然这样，安布，你有什么战斗技巧可以教我吗？"
 
 translate schinese_rewrite Amble_Ole_Training_5b9749a1:
 
-    a "嗯... 我想是的。"
+    a "嗯……我想应该有。"
 
 translate schinese_rewrite Amble_Ole_Training_28765077:
 
-    e "这是伟大的。"
+    e "太好了。"
 
 translate schinese_rewrite Amble_Ole_Training_0ae7ddde:
 
-    e "你以为什么时候能教我?"
+    e "你觉得什么时候能教我？"
 
 translate schinese_rewrite Amble_Ole_Training_03c75f9b:
 
-    a "现在如何,我的小朋友?"
+    a "就现在怎么样，我的小不点朋友？"
 
 translate schinese_rewrite Amble_Ole_Training_577e4bd1:
 
@@ -2971,11 +2971,11 @@ translate schinese_rewrite Amble_Ole_Training_577e4bd1:
 
 translate schinese_rewrite Amble_Ole_Training_f78c2279:
 
-    "从射箭场另一端传来的声音。"
+    "一道声音从射击场另一头传来。"
 
 translate schinese_rewrite Amble_Ole_Training_8b47b126:
 
-    j "等一下!"
+    j "等一下！"
 
 translate schinese_rewrite Amble_Ole_Training_6db0516e:
 
@@ -2983,11 +2983,11 @@ translate schinese_rewrite Amble_Ole_Training_6db0516e:
 
 translate schinese_rewrite Amble_Ole_Training_c32ee83b:
 
-    j "你是奉鲁特的命令来的吗?"
+    j "你是受洛哥之托来的吗？"
 
 translate schinese_rewrite Amble_Ole_Training_a817dd70:
 
-    e "不是真的,但这是为送信员训练..."
+    e "不完全是。不过这是信使训练的一部分……"
 
 translate schinese_rewrite Amble_Ole_Training_92965c87:
 
@@ -2995,19 +2995,19 @@ translate schinese_rewrite Amble_Ole_Training_92965c87:
 
 translate schinese_rewrite Amble_Ole_Training_801288ab:
 
-    j "抱歉 朋友 帮不了你 我们在乐斯民菲尔德的训练由Lot监督。"
+    j "抱歉，朋友。这我帮不了你。乐斯民菲尔德的训练由洛萨尔监督。"
 
 translate schinese_rewrite Amble_Ole_Training_3643c182:
 
-    j "我们不会做任何额外的训练,除非先经过他。"
+    j "不先经过他同意，我们不会进行任何额外训练。"
 
 translate schinese_rewrite Amble_Ole_Training_d4993d94:
 
-    e "但是..."
+    e "可是……"
 
 translate schinese_rewrite Amble_Ole_Training_5b089749:
 
-    j "我们不制定规则。"
+    j "规矩不是我们定的。"
 
 translate schinese_rewrite Amble_Ole_Training_59ad9096:
 
@@ -3015,15 +3015,15 @@ translate schinese_rewrite Amble_Ole_Training_59ad9096:
 
 translate schinese_rewrite Amble_Ole_Training_1c8a96c3:
 
-    "轻轻的摇摆。"
+    "安布耸了耸肩。"
 
 translate schinese_rewrite Amble_Ole_Training_2b87488f:
 
-    a "乔格说的没错,得先通知Rot。"
+    a "乔格说得对。得先通知洛哥。"
 
 translate schinese_rewrite Amble_Ole_Training_681e3962:
 
-    "你叹气。"
+    "你叹了口气。"
 
 translate schinese_rewrite Amble_Ole_Training_e53c6fed:
 
@@ -3035,11 +3035,11 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_d0e7ea2d:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_db60e514:
 
-    a "我就知道他会同意的 他是个好人。"
+    a "太棒了。我就知道他会同意。他真是个好人。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_3f7c5517:
 
-    j "颜色让我吃惊 我当时有50到50岁。"
+    j "真让我惊讶。我本来有一半把握他会同意，另一半觉得不会。看来他确实喜欢你。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_546aaac0:
 
@@ -3047,11 +3047,11 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_546aaac0:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_38dc0924:
 
-    e "所以,回到技能培训。"
+    e "那么，继续技能训练吧。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_681d664c:
 
-    a "是的,这很有趣 [e],我会教你如何在战斗中 正确击败敌人。"
+    a "没错。这很有意思。[e]，我会教你如何在战斗中好好碾碎敌人。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_2ee980da:
 
@@ -3059,7 +3059,7 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_2ee980da:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_617164c3:
 
-    a "但我得先准备好,给我点时间?"
+    a "不过我得先准备一下。给我一点时间，好吗？"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_2e8a5fe0:
 
@@ -3067,11 +3067,11 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_2e8a5fe0:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_a1134b02:
 
-    a "回头见,[e]。"
+    a "待会儿在这里见，[e]。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_70ddc782:
 
-    "训练速度比你预想的要快。"
+    "安布比你预想得更快投入训练。他兴冲冲地走去准备了。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_085bcf34:
 
@@ -3079,47 +3079,47 @@ translate schinese_rewrite Amble_Ole_Training_Lothar_085bcf34:
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_5dff4ad8:
 
-    e "乔格,你能不能教我一些新技能?"
+    e "那乔格，你也会教我一些新技能吗？"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_b96acf5d:
 
-    "乔格思考。"
+    "乔格思索着。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_a3fd992c:
 
-    j "干嘛不呢 就像那个笨蛋说的。"
+    j "呃，为什么不呢？就像那个大块头说的，这会很有趣。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_467ca80f:
 
-    "乔格的双眼闪耀着一股恶毒的光芒。"
+    "乔格的眼睛闪烁着淘气的光芒。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_089d7b97:
 
-    j "同样,我也需要为这一教训做好准备,我向你保证,这一教训对我们两个都很好玩。"
+    j "同样，我也得为这堂课做些准备。我保证这堂课对我们两个来说都会很有趣。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_a60a6a96:
 
-    e "..."
+    e "……好吧。"
 
 translate schinese_rewrite Amble_Ole_Training_Lothar_fd27dbb3:
 
-    "乔格滚蛋。"
+    "乔格窸窸窣窣地走远了。"
 
 translate schinese_rewrite Amble_Lothar_Training_a39ae20a:
 
-    a "训练 你确定你能应付得来吗 小屁孩？"
+    a "要训练？你确定自己扛得住吗，小东西？"
 
 translate schinese_rewrite Amble_Lothar_Training_33fa59ca:
 
-    a "我们从洛特那里听说 你几乎应付不了粘液。"
+    a "我们听洛哥说，你对付一只史莱姆都够呛。"
 
 translate schinese_rewrite Amble_Lothar_Training_89eee3c7:
 
-    e "不是真的,我路上打过很多泥巴。"
+    e "那不是真的。我一路上打败过很多史莱姆。"
 
 translate schinese_rewrite Amble_Lothar_Training_01894521:
 
-    a "他不是这么说的。"
+    a "他可不是这么说的。"
 
 translate schinese_rewrite Amble_Lothar_Training_c08d8386:
 
@@ -3131,19 +3131,19 @@ translate schinese_rewrite Amble_Lothar_Training_84b16e0b:
 
 translate schinese_rewrite Amble_Lothar_Training_cc759cb6:
 
-    a "不管怎么说,他说你要和我一起去训练。"
+    a "不管怎样，他确实说过要让你和我一起训练。"
 
 translate schinese_rewrite Amble_Lothar_Training_37d399ce:
 
-    a "它会证明你是否有能力 加入团队。"
+    a "这能证明你到底有没有足够的力量成为队伍的一员。"
 
 translate schinese_rewrite Amble_Lothar_Training_9d2f2d12:
 
-    e "好。"
+    e "好吧。"
 
 translate schinese_rewrite Amble_Lothar_Training_64c7bbd9:
 
-    a "跟我来,准备一个苦不堪言的训练课。"
+    a "跟我来，做好接受艰苦训练的准备。"
 
 translate schinese_rewrite Amble_Lothar_Training_dec7ccff:
 
@@ -3151,11 +3151,11 @@ translate schinese_rewrite Amble_Lothar_Training_dec7ccff:
 
 translate schinese_rewrite Amble_Lothar_Training_bc380d88:
 
-    "你们两个在环礁湖附近的森林停车。"
+    "你们在苍耀湖附近的森林停下。"
 
 translate schinese_rewrite Amble_Lothar_Training_5d45a640:
 
-    a "好了,小龙,开始砍吧。"
+    a "好了，小龙。开始砍吧。"
 
 translate schinese_rewrite Amble_Lothar_Training_ecb1401c:
 
@@ -3163,11 +3163,11 @@ translate schinese_rewrite Amble_Lothar_Training_ecb1401c:
 
 translate schinese_rewrite Amble_Lothar_Training_92796454:
 
-    "轻轻的停顿 困惑地看着你。"
+    "安布停下来，困惑地看着你。"
 
 translate schinese_rewrite Amble_Lothar_Training_9aedd728:
 
-    a "卢特希望你跟他一样强壮,对吧?"
+    a "当然。这是我平时锻炼力量的方式。洛哥想让你像他一样变强，对吧？"
 
 translate schinese_rewrite Amble_Lothar_Training_121d1a20:
 
@@ -3175,27 +3175,27 @@ translate schinese_rewrite Amble_Lothar_Training_121d1a20:
 
 translate schinese_rewrite Amble_Lothar_Training_a899c8ab:
 
-    "地上的斧子是一针见血的。"
+    "安布指了指地上的一把斧头。"
 
 translate schinese_rewrite Amble_Lothar_Training_d76bdb54:
 
-    a "那也是我的斧头 你可以用它。"
+    a "那是我的另一把斧头。你可以用它。"
 
 translate schinese_rewrite Amble_Lothar_Training_7dc58651:
 
-    "安布利恢复了工作 你拿起斧头思考你的处境。"
+    "安布继续干活。你捡起斧头，思考着自己的处境。"
 
 translate schinese_rewrite Amble_Lothar_Training_7ab8df83:
 
-    "你附近有棵大树和一棵小树。"
+    "你附近有一棵大树和一棵小树。"
 
 translate schinese_rewrite Amble_Lothar_Training_10176b4e:
 
-    "大树的大小与树的大小差不多,安布正在切。 它很容易使你矮小。 砍掉它需要很多能量。"
+    "这棵大树和安布正在砍的那棵差不多粗；它轻易就能让你显得矮小。砍倒它需要很大力气。"
 
 translate schinese_rewrite Amble_Lothar_Training_fabba0dc:
 
-    "小树的大小大约是您两倍。树干较薄,这样,与另一棵相比,倒下这棵树比较容易。"
+    "小树大约是你的两倍高。它的树干更细，所以应该比另一棵更容易砍倒。"
 
 translate schinese_rewrite Amble_Lothar_Training_127b90ad:
 
@@ -3203,15 +3203,15 @@ translate schinese_rewrite Amble_Lothar_Training_127b90ad:
 
 translate schinese_rewrite Amble_Lothar_Training_3abcf478:
 
-    "你举起斧子和挥杆 斧子切入树皮,你从撞击中握起手来。"
+    "你举起斧头挥了下去。斧刃砍进树皮，冲击震得你的手臂发麻。"
 
 translate schinese_rewrite Amble_Lothar_Training_53645d39:
 
-    "这份工作比看起来要难。"
+    "这活儿比看上去难。"
 
 translate schinese_rewrite Amble_Lothar_Training_2d8d22cc:
 
-    a "你肩膀摆动,而不是肩膀摆动。"
+    a "用肩膀挥，不要只用手臂。"
 
 translate schinese_rewrite Amble_Lothar_Training_69740393:
 
@@ -3219,7 +3219,7 @@ translate schinese_rewrite Amble_Lothar_Training_69740393:
 
 translate schinese_rewrite Amble_Lothar_Training_794efd2c:
 
-    a "让我展示给你们看。"
+    a "我示范给你看。"
 
 translate schinese_rewrite Amble_Lothar_Training_cc29f67c:
 
@@ -3227,19 +3227,19 @@ translate schinese_rewrite Amble_Lothar_Training_cc29f67c:
 
 translate schinese_rewrite Amble_Lothar_Training_1aa033a9:
 
-    "他从后面包围你。"
+    "他从背后环住你。"
 
 translate schinese_rewrite Amble_Lothar_Training_4ff4e3e7:
 
-    "接触密切后,你感到温暖模糊。"
+    "你从贴近的接触中感受到一阵毛茸茸的暖意。"
 
 translate schinese_rewrite Amble_Lothar_Training_8a432a64:
 
-    "调整你的姿势 让你感到更平滑的第二次秋千。"
+    "安布纠正了你的站姿，你第二次挥砍时感觉顺畅多了。"
 
 translate schinese_rewrite Amble_Lothar_Training_70f7d9f1:
 
-    a "更好。"
+    a "好多了。"
 
 translate schinese_rewrite Amble_Lothar_Training_16c33780:
 
@@ -3247,27 +3247,27 @@ translate schinese_rewrite Amble_Lothar_Training_16c33780:
 
 translate schinese_rewrite Amble_Lothar_Training_8027d74f:
 
-    "点头 微笑 回到他的工作 留下你的。"
+    "安布点了点头，微笑着回到自己的工作旁，把你留在那里继续干活。"
 
 translate schinese_rewrite Amble_Lothar_Training_00fc2730:
 
-    "你对一个伐木者太缺乏经验了 无法去追那棵大树。"
+    "你的伐木经验太少，砍不了那棵大树。"
 
 translate schinese_rewrite Amble_Lothar_Training_e75efc04:
 
-    "再说,要努力工作,还要努力工作。"
+    "而且，光靠蛮力不够，还得讲究方法。"
 
 translate schinese_rewrite Amble_Lothar_Training_aa9c64fc:
 
-    "你拿起斧头,准备砍小树。"
+    "你拿起斧头，准备砍倒那棵小树。"
 
 translate schinese_rewrite Amble_Lothar_Training_1f9dff36:
 
-    "突然间,有人大喊大叫。"
+    "突然，一声咆哮传来。"
 
 translate schinese_rewrite Amble_Lothar_Training_7f7287c5:
 
-    a "等等!"
+    a "住手！"
 
 translate schinese_rewrite Amble_Lothar_Training_a4d7bbda:
 
@@ -3275,15 +3275,15 @@ translate schinese_rewrite Amble_Lothar_Training_a4d7bbda:
 
 translate schinese_rewrite Amble_Lothar_Training_1f25b469:
 
-    a "你在做什么?"
+    a "你在干什么？"
 
 translate schinese_rewrite Amble_Lothar_Training_0c220409:
 
-    e "购物... 树?"
+    e "砍……树？"
 
 translate schinese_rewrite Amble_Lothar_Training_aefda267:
 
-    a "不是这个!"
+    a "不能砍这棵！"
 
 translate schinese_rewrite Amble_Lothar_Training_1ea97b2d:
 
@@ -3291,23 +3291,23 @@ translate schinese_rewrite Amble_Lothar_Training_1ea97b2d:
 
 translate schinese_rewrite Amble_Lothar_Training_46961dc6:
 
-    a "这需要时间才能成长。"
+    a "它还需要时间才能长大。"
 
 translate schinese_rewrite Amble_Lothar_Training_1758f2c6:
 
-    e "这有区别吗?"
+    e "这有什么区别吗？"
 
 translate schinese_rewrite Amble_Lothar_Training_a6be5e3c:
 
-    a "当然！"
+    a "当然有！"
 
 translate schinese_rewrite Amble_Lothar_Training_51867de1:
 
-    a "大自然是可贵的,我们必须尊重它所提供的生命。"
+    a "大自然值得敬畏。它孕育了我们，我们必须尊重它。"
 
 translate schinese_rewrite Amble_Lothar_Training_7923e6ce:
 
-    a "如果我们削减所有的树苗, 我们甚至有足够的木材 在未来收获?"
+    a "如果把所有树苗都砍掉，今后我们还有足够的木材可采吗？"
 
 translate schinese_rewrite Amble_Lothar_Training_738610f2:
 
@@ -3319,31 +3319,31 @@ translate schinese_rewrite Amble_Lothar_Training_4996d38e:
 
 translate schinese_rewrite Amble_Lothar_Training_2ec7ef7c:
 
-    a "没关系,我不该对你吼,你也是新来的。"
+    a "没事，我也不该朝你吼。你也是刚接触这行。"
 
 translate schinese_rewrite Amble_Lothar_Training_6039d4a7:
 
-    "你们俩的节奏很舒服 最后,地面上有一大堆木头。"
+    "你们渐渐形成了默契的节奏。最终，地上堆起了一大堆原木。"
 
 translate schinese_rewrite Amble_Lothar_Training_5129380e:
 
-    a "哇。这是相当的练习。"
+    a "呼，这锻炼可真够呛。"
 
 translate schinese_rewrite Amble_Lothar_Training_31dc0814:
 
-    "你点头 训练是出乎意料的。"
+    "你点了点头。这场训练出乎意料，但你确实更了解安布了。"
 
 translate schinese_rewrite Amble_Lothar_Training_c5a262fd:
 
-    a "库瑞尔,那不坏 继续这样,我肯定你很快会更坚强。"
+    a "信使，干得不错。继续下去，我相信你很快就会变强。"
 
 translate schinese_rewrite Amble_Lothar_Training_faaa1496:
 
-    a "你永远也不会像他那么坚强 但还是会有所改进。"
+    a "你永远不可能像他那么强，但至少会有所进步。"
 
 translate schinese_rewrite Amble_Lothar_Training_d8a184b8:
 
-    e "...谢谢?"
+    e "……谢谢？"
 
 translate schinese_rewrite Amble_Lothar_Training_f6872efa:
 
@@ -3351,39 +3351,39 @@ translate schinese_rewrite Amble_Lothar_Training_f6872efa:
 
 translate schinese_rewrite Amble_Lothar_Training_669fd024:
 
-    a "然而,信使们,明白有时自然也会很危险。"
+    a "不过，信使，你要明白，大自然有时也很危险。"
 
 translate schinese_rewrite Amble_Lothar_Training_9e15db04:
 
-    e "你什么意思?"
+    e "你的意思是？"
 
 translate schinese_rewrite Amble_Lothar_Training_a38fc0f6:
 
-    a "爸爸也是伐木者 他发现森林里有很多奇怪的事情。"
+    a "我爸爸以前也是伐木工。他在森林里遇到过许多怪事。"
 
 translate schinese_rewrite Amble_Lothar_Training_1260045d:
 
-    a "他经常警告我们森林里有树皮, 那些保护自然的人。"
+    a "他以前警告过我们森林里的树精——那是些极端保护自然的人。"
 
 translate schinese_rewrite Amble_Lothar_Training_a149575e:
 
-    a "但是除了崇拜大树的山羊之外 我从来没见过这种生物。"
+    a "不过，除了崇拜那棵发光大树的山羊，我从没见过那样的生物。"
 
 translate schinese_rewrite Amble_Lothar_Training_cbd4b3b1:
 
-    a "或者爸爸在说山羊的事?"
+    a "又或者，爸爸说的就是那些山羊？"
 
 translate schinese_rewrite Amble_Lothar_Training_6602ad90:
 
-    a "不管怎样,我肯定没什么好担心的。"
+    a "不管怎样，我相信没什么好担心的。"
 
 translate schinese_rewrite Amble_Lothar_Training_a54d72e3:
 
-    "轻轻的抓头和笑容。"
+    "安布挠了挠头，笑了起来。"
 
 translate schinese_rewrite Amble_Lothar_Training_163bc2f7:
 
-    "你思考这个传说。"
+    "你思索着这个传说。"
 
 translate schinese_rewrite Amble_Lothar_Training_08a963e8:
 
@@ -3391,7 +3391,7 @@ translate schinese_rewrite Amble_Lothar_Training_08a963e8:
 
 translate schinese_rewrite Amble_Lothar_Training_dd6e671f:
 
-    a "派尼快递,我肯定你训练时都出汗了 我们应该在这个环礁湖里洗洗。"
+    a "小不点信使，你训练得肯定满身是汗。我们去苍耀湖里洗洗吧。"
 
 translate schinese_rewrite Amble_Lothar_Training_35fd5a15:
 
@@ -3403,7 +3403,7 @@ translate schinese_rewrite Amble_Lothar_Training_27d6013a:
 
 translate schinese_rewrite Amble_Lothar_Training_6ff45593:
 
-    "你看看清澈的水晶。"
+    "你看着清澈见底的湖水。"
 
 translate schinese_rewrite Amble_Lothar_Training_b1d64c76:
 
@@ -3411,27 +3411,27 @@ translate schinese_rewrite Amble_Lothar_Training_b1d64c76:
 
 translate schinese_rewrite Amble_Lothar_Training_9c3e0b29:
 
-    "简洁的格弗草。"
+    "安布哈哈大笑。"
 
 translate schinese_rewrite Amble_Lothar_Training_0ca24a33:
 
-    a "当然了,我做过很多次了。"
+    a "当然安全。我已经在这里洗过很多次了。"
 
 translate schinese_rewrite Amble_Lothar_Training_4990c437:
 
-    a "你和乔格一样 到处没有隐蔽的危险。"
+    a "你和乔格一样，总觉得哪里都有隐藏的危险。"
 
 translate schinese_rewrite Amble_Lothar_Training_819e79be:
 
-    a "至少我确定这里没有危险。"
+    a "嗯，至少我确定这里没有危险。"
 
 translate schinese_rewrite Amble_Lothar_Training_9d2f2d12_1:
 
-    e "好。"
+    e "好吧。"
 
 translate schinese_rewrite Amble_Lothar_Training_86dfce74:
 
-    "你脱下你的腰带。"
+    "你脱掉衣服，直到只剩一条缠腰布。"
 
 translate schinese_rewrite Amble_Lothar_Training_45b36013:
 
@@ -3439,23 +3439,23 @@ translate schinese_rewrite Amble_Lothar_Training_45b36013:
 
 translate schinese_rewrite Amble_Lothar_Training_0b0f6d63:
 
-    a "来吧,水真的很轻松。"
+    a "来吧，水里舒服得很。"
 
 translate schinese_rewrite Amble_Lothar_Training_99541952:
 
-    "从你的毛皮里滴水。"
+    "水珠从你的毛发上滴落。"
 
 translate schinese_rewrite Amble_Lothar_Training_9dc31a80:
 
-    e "为什么你这样做?"
+    e "你干吗泼我？"
 
 translate schinese_rewrite Amble_Lothar_Training_af5a8b2c:
 
-    a "让你停止浪费时间。"
+    a "为了让你别再浪费时间。"
 
 translate schinese_rewrite Amble_Lothar_Training_44c11ec5:
 
-    "你大哭大哭 一边踏进水里。"
+    "你噘着嘴走进水中。"
 
 translate schinese_rewrite Amble_Lothar_Training_a0d410ab:
 
@@ -3467,19 +3467,19 @@ translate schinese_rewrite Amble_Lothar_Training_af650652:
 
 translate schinese_rewrite Amble_Lothar_Training_542551cd:
 
-    e "这是很好的。"
+    e "这里真舒服。"
 
 translate schinese_rewrite Amble_Lothar_Training_deb16359:
 
-    a "是的..."
+    a "是啊……"
 
 translate schinese_rewrite Amble_Lothar_Training_e20a7d71:
 
-    "安布利放出满足的呻吟 当他仰着头闭上眼睛的时候。"
+    "安布仰头闭眼，发出满足的呻吟。"
 
 translate schinese_rewrite Amble_Lothar_Training_f747c667:
 
-    "你试着放松 但有些东西吸引了你的注意力 从你眼睛的角落。"
+    "你试着放松，但余光中的某个东西吸引了你的注意。"
 
 translate schinese_rewrite Amble_Lothar_Training_06418ccf:
 
@@ -3487,7 +3487,7 @@ translate schinese_rewrite Amble_Lothar_Training_06418ccf:
 
 translate schinese_rewrite Amble_Lothar_Training_12f69db8:
 
-    "你转过头不看。"
+    "你竭力不去看。"
 
 translate schinese_rewrite Amble_Lothar_Training_933a644c:
 
@@ -3499,19 +3499,19 @@ translate schinese_rewrite Amble_Lothar_Training_d8a61409:
 
 translate schinese_rewrite Amble_Lothar_Training_328058ac:
 
-    "你不得不怀疑它完全勃起时会有多大。"
+    "你不禁好奇，等它完全勃起后会有多大。"
 
 translate schinese_rewrite Amble_Lothar_Training_62693d8c:
 
-    "公鸡这么大,能看清楚血管的细节。"
+    "那根鸡巴太大了，你能清楚看见上面的血管纹路。"
 
 translate schinese_rewrite Amble_Lothar_Training_5ed96bd9:
 
-    "有些血管脉冲是血泵穿透它们时的脉冲。"
+    "血液流过时，几根血管一阵阵搏动。"
 
 translate schinese_rewrite Amble_Lothar_Training_21e60453:
 
-    "突然间,水不再感到放松了。"
+    "突然，这水没那么让人放松了。"
 
 translate schinese_rewrite Amble_Lothar_Training_e67fa1a3:
 
@@ -3523,7 +3523,7 @@ translate schinese_rewrite Amble_Lothar_Training_6341139c:
 
 translate schinese_rewrite Amble_Lothar_Training_d03e0e53:
 
-    "粉红色的皇冠 正在偷窥近尖。"
+    "龟头顶端露出了一小截粉红色的冠状部位。"
 
 translate schinese_rewrite Amble_Lothar_Training_fe5fe9bb:
 
@@ -3531,11 +3531,11 @@ translate schinese_rewrite Amble_Lothar_Training_fe5fe9bb:
 
 translate schinese_rewrite Amble_Lothar_Training_2596c7ff:
 
-    "你纳闷他是怎么把所有人都融入进来的?"
+    "你不禁好奇他是怎么把这么大的东西全塞进去的。"
 
 translate schinese_rewrite Amble_Lothar_Training_c1ca572b:
 
-    "从你的角度来看 书状看起来已经伸展到断点了。"
+    "在你看来，那条内裤已经被撑到快要裂开了。"
 
 translate schinese_rewrite Amble_Lothar_Training_7cb74a94:
 
@@ -3543,11 +3543,11 @@ translate schinese_rewrite Amble_Lothar_Training_7cb74a94:
 
 translate schinese_rewrite Amble_Lothar_Training_49d37dc9:
 
-    "你紧张地吞咽 你感觉到你的腰巾前 上升。"
+    "你紧张地咽了口唾沫，感觉自己的缠腰布前方也支了起来。"
 
 translate schinese_rewrite Amble_Lothar_Training_9e8cf183:
 
-    "这不是一个好情况。"
+    "情况不妙。"
 
 translate schinese_rewrite Amble_Lothar_Training_f37eb080:
 
@@ -3555,11 +3555,11 @@ translate schinese_rewrite Amble_Lothar_Training_f37eb080:
 
 translate schinese_rewrite Amble_Lothar_Training_ed053066:
 
-    "你挖出环礁湖的水 把它泼到你脸上。"
+    "你捧起苍耀湖的水，泼到自己脸上。"
 
 translate schinese_rewrite Amble_Lothar_Training_c0fd5635:
 
-    "你摇摇晃的脑袋 来清除你的头脑。"
+    "你猛地甩了甩头，想让自己清醒过来。"
 
 translate schinese_rewrite Amble_Lothar_Training_18e21f84:
 
@@ -3567,23 +3567,23 @@ translate schinese_rewrite Amble_Lothar_Training_18e21f84:
 
 translate schinese_rewrite Amble_Lothar_Training_2bab4561:
 
-    "大熊呻吟,睁开眼睛。"
+    "巨熊呻吟一声，睁开眼睛。"
 
 translate schinese_rewrite Amble_Lothar_Training_7803f4b0:
 
-    a "太舒服了 我又睡着了吗?"
+    a "舒服过头了。我是不是又睡着了？"
 
 translate schinese_rewrite Amble_Lothar_Training_0666468b:
 
-    "昂布尔转身向你微笑。"
+    "安布转过身，朝你微笑。"
 
 translate schinese_rewrite Amble_Lothar_Training_c3f37521:
 
-    a "抱歉,我希望你发现这泡泡在环礁湖里。"
+    a "抱歉。希望你也像我一样，享受这次在湖里的浸泡。"
 
 translate schinese_rewrite Amble_Lothar_Training_5f29fbb0:
 
-    "你的嘴很干,只能点头。"
+    "你口干舌燥，只能点头。"
 
 translate schinese_rewrite Amble_Lothar_Training_b9ca5077:
 
@@ -3591,11 +3591,11 @@ translate schinese_rewrite Amble_Lothar_Training_b9ca5077:
 
 translate schinese_rewrite Amble_Lothar_Training_d75eeca4:
 
-    a "好。我们回去吧?"
+    a "好。我们回去吧？"
 
 translate schinese_rewrite Amble_Lothar_Training_6aac5314:
 
-    "安波不等你的回答,就站起来 水流出他的身体。"
+    "安布没等你回答就站起身，水流从他的身体上淌落。"
 
 translate schinese_rewrite Amble_Lothar_Training_14c75ee2:
 
@@ -3603,15 +3603,15 @@ translate schinese_rewrite Amble_Lothar_Training_14c75ee2:
 
 translate schinese_rewrite Amble_Lothar_Training_b8b2ce2e:
 
-    "清清你的喉咙 并施压。"
+    "你清了清嗓子，勉强挤出声音。"
 
 translate schinese_rewrite Amble_Lothar_Training_a1c8554c:
 
-    e "安布利,也许你可以先回去,我想在这里再浸泡一会儿。"
+    e "安布，也许你可以先自己回去。我想在这里再泡一会儿。"
 
 translate schinese_rewrite Amble_Lothar_Training_cc9e8aa3:
 
-    a "好,小朋友,我告诉洛特你跟我结束了训练。"
+    a "好吧，小不点。我会告诉洛哥你已经和我训练完了。回村里见。"
 
 translate schinese_rewrite Amble_Lothar_Training_d351a918:
 
@@ -3619,19 +3619,19 @@ translate schinese_rewrite Amble_Lothar_Training_d351a918:
 
 translate schinese_rewrite Amble_Lothar_Training_45adff28:
 
-    "他向你挥手。"
+    "他朝你挥了挥手。"
 
 translate schinese_rewrite Amble_Lothar_Training_9298969b:
 
-    "用一只手遮住你的骨骼 用另一只手向他挥手。"
+    "你一只手遮住勃起，另一只手向他挥手回应。"
 
 translate schinese_rewrite Amble_Lothar_Training_388eb240:
 
-    "他身体的水流下 冷淡的颤抖。"
+    "安布抖了抖身体，把水甩掉。"
 
 translate schinese_rewrite Amble_Lothar_Training_d815126d:
 
-    "你看到的只是他的老二 在他的短裤里摇晃。"
+    "你能看到的只有他的鸡巴在内裤里晃来晃去。"
 
 translate schinese_rewrite Amble_Lothar_Training_ddb6e6d4:
 
@@ -3639,11 +3639,11 @@ translate schinese_rewrite Amble_Lothar_Training_ddb6e6d4:
 
 translate schinese_rewrite Amble_Lothar_Training_d1e923f7:
 
-    "它使轮廓更加清晰。"
+    "这样一来轮廓就更加清晰了。"
 
 translate schinese_rewrite Amble_Lothar_Training_e657627f:
 
-    "转过身来 以你另一副惊人的景象 来奖励你。"
+    "安布转过身，给了你另一道惊人的风景。"
 
 translate schinese_rewrite Amble_Lothar_Training_f9e0271a:
 
@@ -3651,31 +3651,31 @@ translate schinese_rewrite Amble_Lothar_Training_f9e0271a:
 
 translate schinese_rewrite Amble_Lothar_Training_a0a733c3:
 
-    "安波叶,他的屁股 弹簧与他的每一个步骤。"
+    "安布离开时，他的屁股随着每一步弹动。"
 
 translate schinese_rewrite Amble_Lothar_Training_f407b3d4:
 
-    "安波消失后,你完全放松到水中。然而,你们中有一部分人拒绝冷静下来。"
+    "安布消失在视野中后，你彻底放松地躺进水里。然而，你身体有一部分拒绝平静下来。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9ac7cf24:
 
-    a "Puny朋友,你在这里!"
+    a "小不点，你在这里！"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_cb425fb7:
 
-    e "游戏对话是 安布 你在找我吗?"
+    e "安布，你在找我吗？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d0e50c36:
 
-    a "哦,是的,我们不是要去 接受技能训练吗?"
+    a "没错。我们不是要开始技能训练吗？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4e1070cb:
 
-    e "是的 但我没想到你会这么投入。"
+    e "是啊，但我没想到你会这么投入。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_dad18d94:
 
-    a "当然,我们什么都要用我们拥有的一切做!"
+    a "当然。无论做什么，我们都要使出浑身解数！"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_e478e865:
 
@@ -3683,7 +3683,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_e478e865:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_f022caa2:
 
-    "转动和波浪,以便你顺从。"
+    "安布转过身，挥手示意你跟上。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_ee89007c:
 
@@ -3695,19 +3695,19 @@ translate schinese_rewrite Amble_Ole_Training_Scene_3cb7739f:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c3786cda:
 
-    a "怎么了?"
+    a "怎么了？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_5d8ee48a:
 
-    e "我们要去哪里 我们不是在这里训练吗？"
+    e "我们要去哪儿？不是在这里训练吗？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_e359f166:
 
-    "你在射箭训练场做手势。"
+    "你指了指射箭训练场。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_5d1161e9:
 
-    a "当然不是 我们要去别的地方接受特别训练 跟我来。"
+    a "傻朋友，当然不是。我们要去别的地方进行这次特别训练。跟我来。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_36f80a9b:
 
@@ -3715,15 +3715,15 @@ translate schinese_rewrite Amble_Ole_Training_Scene_36f80a9b:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_83b7176c:
 
-    "他 向 路 上 的 人 挥 手、 呼 喊、 点 头。 因 他 的 身 子 疲 倦、 你 默 默 地 追 在 安 伯 身 后。"
+    "他一路上向遇到的每个人挥手、打招呼、点头致意。你被他的身形衬得格外渺小，默默跟在安布身后。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c0861881:
 
-    "你只能仰慕你面前的风景。"
+    "你忍不住欣赏眼前的风景。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_72df042b:
 
-    "安布利的大屁股摆动 和弹跳 与每只熊的脚步。"
+    "安布的大屁股随着这头熊的每一步摇摆、弹动。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4ebdad8d:
 
@@ -3731,19 +3731,19 @@ translate schinese_rewrite Amble_Ole_Training_Scene_4ebdad8d:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c9b8cdaf:
 
-    "你必须同意。"
+    "你不得不承认。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_04a969ed:
 
-    "你们俩继续静默的旅程,你们从后面公开欣赏安布的资产,安布则自喜自喜。"
+    "你们继续沉默地赶路。安布在前方愉快地哼着歌，你从身后毫不掩饰地欣赏着他的身材。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6e485cba:
 
-    "最后,你到达了伐木场。"
+    "终于，你们到了伐木场。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9d2dcd9c:
 
-    a "我们到了!"
+    a "到了！"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4007e1ff:
 
@@ -3755,35 +3755,35 @@ translate schinese_rewrite Amble_Ole_Training_Scene_bc196448:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_a1f996dc:
 
-    e "为什么我们在这里?"
+    e "我们为什么来这里？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_131ba3a8:
 
-    a "因为这个教训跟树有关,傻蛋。"
+    a "因为这堂课和树有关啊，傻瓜。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_e9daa6d9:
 
-    "他看着你,好像你已经看得很清楚了。"
+    "他看着你，仿佛这再明显不过。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_69d6e974:
 
-    e "战斗技巧如何与树木挂钩?"
+    e "战斗技巧怎么会和树有关？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_e9bdd514:
 
-    a "你可以从自然中学到很多东西,我带你去看,但是在那之前..."
+    a "你能从大自然中学到很多。我会展示给你看。不过在那之前……"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_03cd4f2b:
 
-    a "让我来做这个..."
+    a "让我先做这件事……"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_622c3bee:
 
-    "向前一步,开始拆除你的盔甲。"
+    "安布大步走到你面前，开始脱你的盔甲。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_77a11d01:
 
-    "板块和肩部碎片用重击击落地上。"
+    "甲片和护肩沉重地砸落在地。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_18b3e9e0:
 
@@ -3795,7 +3795,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_cf343cfe:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_dfa153eb:
 
-    a "我正准备你参加训练!"
+    a "当然是为了给训练做准备！"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_11929dba:
 
@@ -3803,11 +3803,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_11929dba:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_81ebe667:
 
-    "什么样的训练需要你裸体?"
+    "什么样的训练会要求你一丝不挂？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_1d99fdac:
 
-    "答案出现在你脑海中 脸颊红了。"
+    "一个答案浮现在你的脑海中，你的脸颊红了起来。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_7493f6af:
 
@@ -3815,11 +3815,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_7493f6af:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4a8f3f66:
 
-    "手指解开你的盔甲的皮带 照你说的做。"
+    "你一边说着，一边解开盔甲上的带子。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c6554a81:
 
-    "最后,你发现自己只站在你的书状里。"
+    "最后，你发现自己只穿着内裤站在那里。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d274fe06:
 
@@ -3827,7 +3827,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_d274fe06:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_bc890c5e:
 
-    a "好了,我们准备好了!"
+    a "好了。我们准备好了！"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_57379f5a:
 
@@ -3835,7 +3835,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_57379f5a:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_981dca79:
 
-    "此时此刻,你忍不住要问。"
+    "这时，你忍不住问道。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_34767d57:
 
@@ -3843,35 +3843,35 @@ translate schinese_rewrite Amble_Ole_Training_Scene_34767d57:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6c4e5b40:
 
-    a "这是冒险家的训练,所以当然, 你必须看的部分。"
+    a "这是冒险者的训练，所以当然得穿得像个冒险者。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_cc64560c:
 
-    a "这就是乔格告诉我的。"
+    a "乔格就是这么告诉我的。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d8453bb0:
 
-    a "你以为我为什么穿成这样到处走?"
+    a "你觉得我为什么总是穿成这样？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4d901698:
 
-    "闪闪发亮的笑容 仿佛这是世界上最合乎逻辑的事情。"
+    "安布朝你露出灿烂的笑容，仿佛这是世上最合乎逻辑的事。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d8b48ff4:
 
-    "你不知道如何用这种逻辑来争论,这既毫无意义,也绝对不合理。"
+    "你不知道该怎么反驳这套逻辑。它既毫无道理，又完全说得通。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_cf28f725:
 
-    e "但为什么把盔甲的其他部分都脱了?"
+    e "可为什么要把盔甲的其他部分也脱掉？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_1d642d4c:
 
-    "他的短裤后部的乱七八糟 很快会拉出什么东西。"
+    "安布在内裤后面摸索了一阵，很快掏出一样东西。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9f55e2c7:
 
-    a "这是给你的。"
+    a "这个给你。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_0ee48921:
 
@@ -3883,51 +3883,51 @@ translate schinese_rewrite Amble_Ole_Training_Scene_75fdec74:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6fb6bdc2:
 
-    e "为什么?"
+    e "呃……为什么？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_0e5f7402:
 
-    "看上去和你一样困惑。"
+    "安布脸上的困惑不亚于你。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_ada30d41:
 
-    e "我该拿这个做什么?"
+    e "我的意思是……我该拿它做什么？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_f6ebbe57:
 
-    a "当然穿上,你还能用它做什么?"
+    a "当然是穿上啊！不然还能拿来做什么？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_84c364d4:
 
-    e "再次... 为什么?"
+    e "还是……为什么？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_6c4e5b40_1:
 
-    a "这是冒险家的训练,所以当然, 你必须看的部分。"
+    a "这是冒险者的训练，所以当然得穿得像个冒险者。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_cc64560c_1:
 
-    a "这就是乔格告诉我的。"
+    a "乔格就是这么告诉我的。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d8453bb0_1:
 
-    a "你以为我为什么穿成这样到处走?"
+    a "你觉得我为什么总是穿成这样？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4d901698_1:
 
-    "闪闪发亮的笑容 仿佛这是世界上最合乎逻辑的事情。"
+    "安布朝你露出灿烂的笑容，仿佛这是世上最合乎逻辑的事。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d8b48ff4_1:
 
-    "你不知道如何用这种逻辑来争论,这既毫无意义,也绝对不合理。"
+    "你不知道该怎么反驳这套逻辑。它既毫无道理，又完全说得通。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d8703e59:
 
-    a "Hurry up."
+    a "快点。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_883cbf69:
 
-    "轻轻地扔下你的书状。"
+    "安布把内裤扔给你。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_17e5f132:
 
@@ -3939,7 +3939,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_99f0fed5:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_414fc3a2:
 
-    "你不太清楚从这些信息中 有何感想。"
+    "你不太确定自己该作何感想。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_025f9fb5:
 
@@ -3947,19 +3947,19 @@ translate schinese_rewrite Amble_Ole_Training_Scene_025f9fb5:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_55144e1c:
 
-    "当你穿上短裤时 你就会觉得那很性感。"
+    "你穿上内裤，发现这感觉相当刺激。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_f61f1a50:
 
-    e "为什么只有简报?"
+    e "为什么只有内裤？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_a07dab3c:
 
-    a "如果你在训练期间有铁零件 他们会切开你,你会受伤的。"
+    a "训练时如果身上有铁制部件，它们会嵌进你的身体。你会受伤的。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_547a4591:
 
-    a "我们不希望这样。"
+    a "我们可不想那样。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4cb5765c:
 
@@ -3967,11 +3967,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_4cb5765c:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_b03194de:
 
-    "这是有道理的..."
+    "这倒也说得通……"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_63ba9289:
 
-    a "来吧。现在是训练的时候。"
+    a "来吧。训练时间到了。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c4c43b72:
 
@@ -3979,7 +3979,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_c4c43b72:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_23735f7c:
 
-    a "普尼朋友,你如何用一挥就砍下这棵树?"
+    a "小不点，你要怎么只挥一斧就砍倒这棵树？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9ae48b57:
 
@@ -3987,11 +3987,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_9ae48b57:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_2cb91bd7:
 
-    e "我不知道。"
+    e "我……我不知道。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_a59b6c9a:
 
-    a "普尼朋友,你很幸运 因为我要教你这个。"
+    a "小不点，你真幸运，因为我要教你。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_be011780:
 
@@ -3999,23 +3999,23 @@ translate schinese_rewrite Amble_Ole_Training_Scene_be011780:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_eb66b43a:
 
-    "说实话,这听起来相当惊人。"
+    "说真的，听起来很厉害。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_56c9eea7:
 
-    a "当然。我们为什么在这里?"
+    a "当然。不然我们来这里干什么？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_fd24b978:
 
-    "立在树前 检查一下几秒钟。"
+    "安布站到树前，观察了几秒。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_10d02d0a:
 
-    "然后,他把斧头硬地推进后备箱,斧头在后备箱中间切开。"
+    "然后，他用力把斧头砍进树干。斧头砍进了大约一半的树干。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9e34e97f:
 
-    "然而,这棵树仍然未动。"
+    "然而，树却纹丝不动。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_105c8c84:
 
@@ -4023,11 +4023,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_105c8c84:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_181ff7c6:
 
-    "斧子打开伤口时的树冠锈牙。"
+    "安布扭动卡在树里的斧头，随着斧刃撕开伤口，树冠沙沙作响。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_9d7c4a01:
 
-    "树开始在你眼前摇摆。"
+    "树开始在你眼前摇晃。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_8c2f189a:
 
@@ -4035,27 +4035,27 @@ translate schinese_rewrite Amble_Ole_Training_Scene_8c2f189a:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_029fb406:
 
-    a "Hng!"
+    a "哼！"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d0f24406:
 
-    "安布利用咕噜把斧子拔出来。"
+    "安布闷哼一声拔出斧头。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_5dab7443:
 
-    "树从自己的重量上爬过, 森林在着陆时颤抖。"
+    "树自身的重量让它向一侧倒下。落地时，森林的地面都震颤起来。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_ffb9abb9:
 
-    "你被吸食了。"
+    "你目瞪口呆。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_643b3b81:
 
-    a "如何呢?"
+    a "怎么样？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_22095138:
 
-    e "这..."
+    e "这……这太厉害了。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_dec893b9:
 
@@ -4063,31 +4063,31 @@ translate schinese_rewrite Amble_Ole_Training_Scene_dec893b9:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_030329dc:
 
-    a "我教你。"
+    a "我会教你的。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_348413f6:
 
-    a "这是我从一个伐木工人身上 学到的。"
+    a "这是我当伐木工时学会的。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_2f6baa09:
 
-    a "每棵树都有一个核心 一旦被削弱 你更容易让它掉下来。"
+    a "每棵树都有树心，只要削弱它，就更容易让树倒下。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_4685b410:
 
-    a "这一点也适用于敌人。"
+    a "敌人也一样。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_381f206f:
 
-    a "只需要找到核心。"
+    a "只要找到他们的核心就行。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_f7621ca4:
 
-    e "一个人如何做到这一点?"
+    e "要怎么做？"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_af4e086b:
 
-    a "很简单 我们的核心就在我们的腹部纽扣上。"
+    a "很简单。我们的核心就在肚脐附近。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_987e3d37:
 
@@ -4095,11 +4095,11 @@ translate schinese_rewrite Amble_Ole_Training_Scene_987e3d37:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_992139af:
 
-    "你很难相信。"
+    "你觉得这实在难以置信。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_77a4061f:
 
-    a "我给你看。"
+    a "我来给你看看。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_148e3149:
 
@@ -4107,35 +4107,35 @@ translate schinese_rewrite Amble_Ole_Training_Scene_148e3149:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_8432e069:
 
-    "并不痛,但你被一种头晕感攻击了。"
+    "这不算太疼，但一阵眩晕感袭来。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_004332a0:
 
-    e "啊..."
+    e "啊……"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_b39538ae:
 
-    "世界在转动 瞬息间你感觉要坠落。"
+    "天旋地转，你短暂地感觉自己就要倒下。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_47ca5707:
 
-    "就像风把你吹走了一样。"
+    "感觉像是肺里的空气都被打了出去。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_20459b99:
 
-    "你背靠在地上,有一点点的振动 当你抬头看,阳光在森林的树冠上闪耀。"
+    "你背部着地摔在地上。脑中嗡的一声，你抬起头，看见阳光透过森林的树冠洒下。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_befc87b0:
 
-    e "Oof。"
+    e "呃。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d4781850:
 
-    a "普尼朋友,这太疯狂了,如果这就是我教你新技能的结果, 随时随地来找我吧。"
+    a "小不点，这感觉真狂野。如果教你新技能会得到这样的回报，你随时都可以来找我。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_d30d9b98:
 
-    e "嗯..."
+    e "嗯……嗯……对。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_135c1d6a:
 
@@ -4143,7 +4143,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_135c1d6a:
 
 translate schinese_rewrite Amble_Ole_Training_Scene_32360cc6:
 
-    "这是... 一个惊人的训练。"
+    "这……真是一次精彩的训练。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_2dedfb7c:
 
@@ -4151,23 +4151,23 @@ translate schinese_rewrite Amble_Ask_Lusterfield_2dedfb7c:
 
 translate schinese_rewrite Amble_Ask_Lusterfield_88fdc460:
 
-    a "这个镇子很棒 这里有很多好人 我认识他们中的大部分人！"
+    a "镇子很棒。这里有很多好人。我认识其中大多数，所以你来问我就对了！"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_1e96fc0d:
 
-    a "所以我帮忙建造了城里大部分的建筑 从爸爸那里捡来的。"
+    a "我从小就跟着爸爸当伐木工。所以镇里大多数建筑都是我帮忙建的，这门手艺也是跟爸爸学的。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_3f04151d:
 
-    "安布利的眼睛在提到他父亲时 有点暗淡 但他又恢复了理智。"
+    "提到父亲时，安布的眼神黯淡了些，但很快又重新振作起来。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_6fbdc346:
 
-    e "小酒馆怎么样?"
+    e "酒馆怎么样？"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_8c73a502:
 
-    a "酒馆的甘蔗比你想象的要古老。"
+    a "酒馆里的凯恩比你想象的还要年长。他在我还只是一只小熊崽时，就已经在经营酒馆了。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_9e14003f:
 
@@ -4175,43 +4175,43 @@ translate schinese_rewrite Amble_Ask_Lusterfield_9e14003f:
 
 translate schinese_rewrite Amble_Ask_Lusterfield_e5961362:
 
-    a "他能把力量 化为像裁缝一样精细的 东西 实在是太神奇了。"
+    a "更令人惊叹的是，他竟然能把自己的力量锤炼成裁缝这样细腻的手艺。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_77ead26b:
 
-    a "你能想象我在缝纫桌吗?"
+    a "你能想象我坐在缝纫台前吗？哈哈。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_37592623:
 
-    e "商店呢?"
+    e "那商店呢？"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_befee3d3:
 
-    a "奥勒人很好,你不会这么认为 但事故发生频率比伐木时要高。"
+    a "奥利人很好,你不会这么认为 但事故发生频率比伐木时要高。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_be9629f4:
 
-    "巨大的森林和巨大的斧头?"
+    "大树倒下加上一把巨斧？这简直是灾难配方。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_30f13181:
 
-    a "欧里已经给我补过多次补过补。"
+    a "奥利帮我包扎过很多次。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_cc265291:
 
-    a "以前非常接近塞巴斯。"
+    a "我以前和塞巴斯关系很亲近。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_bcda57e5:
 
-    a "但自从罗特和乔格和我组成一个团体后 他就会不时地给我们邪恶的眼睛。"
+    a "但自从洛哥把我和乔格组成一队后，他就时不时用那种阴沉的眼神看我们。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_937703a1:
 
-    "安布列尔皱眉。"
+    "安布皱起眉头。"
 
 translate schinese_rewrite Amble_Ask_Lusterfield_400e88ee:
 
-    a "乔格告诉我我想象的 也许他是对的。"
+    a "乔格告诉我那只是我的想象。也许他说得对。"
 
 translate schinese_rewrite Amble_Ask_How_Doing_2400df22:
 
@@ -4219,19 +4219,19 @@ translate schinese_rewrite Amble_Ask_How_Doing_2400df22:
 
 translate schinese_rewrite Amble_Ask_How_Doing_1c4c838e:
 
-    a "没有做什么。"
+    a "没做什么。"
 
 translate schinese_rewrite Amble_Ask_How_Doing_1db603d1:
 
-    a "和乔格出去玩 并努力工作在 anvil。"
+    a "就是和乔格待在一起，顺便在铁砧上干活。"
 
 translate schinese_rewrite Amble_Ask_How_Doing_c75f36e5:
 
-    a "把盔甲上的毛骨悚然 熨出刀尖。"
+    a "修整盔甲的毛刺，再把刀刃磨利。"
 
 translate schinese_rewrite Amble_Ask_How_Doing_00633eca:
 
-    a "但说实话,我只是在等晚上到来 所以真正的乐趣开始在酒馆。"
+    a "不过说实话，我只是在等夜幕降临，好去酒馆开始真正的快乐时光。"
 
 translate schinese_rewrite Amble_Ask_Lothar_2097b8f6:
 
@@ -4239,35 +4239,35 @@ translate schinese_rewrite Amble_Ask_Lothar_2097b8f6:
 
 translate schinese_rewrite Amble_Ask_Lothar_a1c5eca7:
 
-    a "他是我的榜样 他也应该是你的。"
+    a "他是我的榜样，也应该成为你的榜样。"
 
 translate schinese_rewrite Amble_Ask_Lothar_6b2c2279:
 
-    a "乔格和我在鲁特发现我们时 情况不太好。"
+    a "洛哥找到我和乔格时，我们的状况可不太好。"
 
 translate schinese_rewrite Amble_Ask_Lothar_3e55750b:
 
-    a "是他帮我们找干净的衣服 食物 和羊肉之后。"
+    a "是他帮我们弄到干净的衣服和食物。那时山羊的事情刚刚发生。"
 
 translate schinese_rewrite Amble_Ask_Lothar_8186b1fc:
 
-    a "我们欠他很多钱。"
+    a "我们欠他的太多了。"
 
 translate schinese_rewrite Amble_Ask_Lothar_aa474a85:
 
-    e "为什么你这么喜欢他?"
+    e "你为什么这么喜欢他？"
 
 translate schinese_rewrite Amble_Ask_Lothar_6b56ea75:
 
-    a "他是个简单的人 如果你好好对待他 你会得到同样的待遇。"
+    a "他是个简单的人。只要你对他好，他也会同样对你好。"
 
 translate schinese_rewrite Amble_Ask_Lothar_b4e4aed5:
 
-    a "我喜欢简单的东西。如果你放松一点,生活就不必那么复杂了。"
+    a "而且我喜欢简单的东西。只要放轻松，生活没必要搞得那么复杂。"
 
 translate schinese_rewrite Amble_Ask_Lothar_c49f352b:
 
-    a "这就是我看待事物的方式。"
+    a "我就是这么看待事情的。"
 
 translate schinese_rewrite Amble_Ask_Lothar_815bfb88:
 
@@ -4275,11 +4275,11 @@ translate schinese_rewrite Amble_Ask_Lothar_815bfb88:
 
 translate schinese_rewrite Amble_Ask_Lothar_5ba5a265:
 
-    a "山羊车事故发生后 我们认为我们需要更好的道路保护。"
+    a "山羊的马车出事后，我们觉得需要更好地保护道路。"
 
 translate schinese_rewrite Amble_Ask_Lothar_f687201f:
 
-    a "而且,罗特从村里的名声中 得到了很多金子, 他刚把金子赠给我们 来帮助杀死怪物。"
+    a "而且洛哥凭着在村里的声望赚了不少金子，他把金子都送给我们，让我们帮忙消灭怪物。"
 
 translate schinese_rewrite Amble_Ask_Lothar_8a876d19:
 
@@ -4287,27 +4287,27 @@ translate schinese_rewrite Amble_Ask_Lothar_8a876d19:
 
 translate schinese_rewrite Amble_Ask_Jog_192662ed:
 
-    a "我喜欢这个小东西。"
+    a "我喜欢那个小不点。"
 
 translate schinese_rewrite Amble_Ask_Jog_dcb06a63:
 
-    a "我们是完全相反的,但 这可能是为什么我们工作 这么好在一起。"
+    a "我们完全相反，但也许正因为如此，我们才能配合得这么好。"
 
 translate schinese_rewrite Amble_Ask_Jog_099a6a6e:
 
-    a "洛特一直告诉我,我倾向于参战,这是坏习惯,我必须踢,不知道怎么踢。"
+    a "洛哥总说我老是冲进战场。这是我必须改掉的坏习惯，但我完全不知道该怎么改。"
 
 translate schinese_rewrite Amble_Ask_Jog_da076756:
 
-    a "乔格以他伟大的侦察和射箭技巧救了我很多次。"
+    a "所以我总是陷入困境。乔格凭着出色的侦察和射箭技巧，已经救过我很多次了。"
 
 translate schinese_rewrite Amble_Ask_Jog_2f59ebc3:
 
-    a "我很高兴他有我的后盾。"
+    a "知道他会在我身后支持我，我很高兴。"
 
 translate schinese_rewrite Amble_Ask_Jog_d58dfe05:
 
-    a "我也有他。"
+    a "我也会支持他。"
 
 translate schinese_rewrite Amble_Patrol_Quest_a2c06dc8:
 
@@ -4315,7 +4315,7 @@ translate schinese_rewrite Amble_Patrol_Quest_a2c06dc8:
 
 translate schinese_rewrite Amble_Patrol_Quest_85d9118a:
 
-    e "当我帮你处理土地码头时 你提到过经常在农场巡逻。"
+    e "上次我帮你们对付陆鲨时，你提到会定期巡查农场。"
 
 translate schinese_rewrite Amble_Patrol_Quest_6345b002:
 
@@ -4323,39 +4323,39 @@ translate schinese_rewrite Amble_Patrol_Quest_6345b002:
 
 translate schinese_rewrite Amble_Patrol_Quest_48942efa:
 
-    a "我经常在农场巡逻 一切都还好吗 小朋友?"
+    a "对，我会定期巡查农场。怎么了，小不点？"
 
 translate schinese_rewrite Amble_Patrol_Quest_3eb93e31:
 
-    e "似乎没人经常去农田..."
+    e "嗯，似乎没什么别人会经常去农田……我想知道你知不知道为什么？"
 
 translate schinese_rewrite Amble_Patrol_Quest_49a2e909:
 
-    a "啊,我现在明白了。"
+    a "啊，我明白了。"
 
 translate schinese_rewrite Amble_Patrol_Quest_2f0662d6:
 
-    "他脸上的笑容是傻笑的。"
+    "他脸上露出憨憨的笑容。"
 
 translate schinese_rewrite Amble_Patrol_Quest_118964c1:
 
-    a "农田很平和 山羊们没有攻击过的地方之一。"
+    a "农田那边很平静。那是山羊没有攻击过的少数地方之一，而且据我们所知，那个方向也没有部落。"
 
 translate schinese_rewrite Amble_Patrol_Quest_202c2d18:
 
-    a "所以,鲁特认为他低于他。"
+    a "所以，洛哥觉得那地方不值得他去。"
 
 translate schinese_rewrite Amble_Patrol_Quest_e0bf6a30:
 
-    "看着你的右手边,乔格在那边晃悠。"
+    "你看向右边，乔格正懒洋洋地待在那里。"
 
 translate schinese_rewrite Amble_Patrol_Quest_136fc8ef:
 
-    e "乔格呢?"
+    e "那乔格呢？"
 
 translate schinese_rewrite Amble_Patrol_Quest_e3d23c9a:
 
-    j "我该怎么办,偷偷摸摸地听小麦?一个侦察员对一群人有用,而不是对农场的敌人有用。"
+    j "我还能做什么？偷偷摸摸地绕来绕去，听小麦说话吗？侦察兵对付一群人时才有用，对农场里的敌人可没用。"
 
 translate schinese_rewrite Amble_Patrol_Quest_14906c69:
 
@@ -4363,55 +4363,55 @@ translate schinese_rewrite Amble_Patrol_Quest_14906c69:
 
 translate schinese_rewrite Amble_Patrol_Quest_677495d2:
 
-    a "所以我才要照顾他们!"
+    a "所以只好由我来处理了！"
 
 translate schinese_rewrite Amble_Patrol_Quest_5b9d8d25:
 
-    e "照顾那个大区域不是有很多事要做吗?"
+    e "不过，照看那么大一片区域，不会很辛苦吗？"
 
 translate schinese_rewrite Amble_Patrol_Quest_cba13866:
 
-    "熊在下巴下划痕,好像深思熟虑。"
+    "那头熊挠了挠下巴，仿佛陷入沉思。"
 
 translate schinese_rewrite Amble_Patrol_Quest_865ee4ac:
 
-    a "我从没想过!"
+    a "我从没想过这个问题！"
 
 translate schinese_rewrite Amble_Patrol_Quest_6101e73c:
 
-    a "我想有时候会有点过火。"
+    a "我想有时候确实会有点忙不过来。"
 
 translate schinese_rewrite Amble_Patrol_Quest_58b2b611:
 
-    "他笑得很开心。"
+    "他开心地笑了起来。"
 
 translate schinese_rewrite Amble_Patrol_Quest_b0ac769c:
 
-    a "我唯一真正的问题是,我的巡逻有时必须进入夜间。"
+    a "倒也没到让我吃不消的程度。真正的问题是，我有时得巡查到晚上。"
 
 translate schinese_rewrite Amble_Patrol_Quest_9b948e85:
 
-    e "你在黑暗中怎么巡逻?"
+    e "……你在黑暗中怎么巡查？你又看不见，而且我知道你的其他感官也没那么敏锐。"
 
 translate schinese_rewrite Amble_Patrol_Quest_048d4769:
 
-    a "我不能做所有我被要求做的事情 在我巡视期间, 但我可以减少怪物的数量。"
+    a "嗯，我没法在巡查时把所有要求都完成，但我能减少怪物的数量。"
 
 translate schinese_rewrite Amble_Patrol_Quest_87e1592f:
 
-    e "你有特殊策略吗?"
+    e "你有什么特殊策略之类的吗？"
 
 translate schinese_rewrite Amble_Patrol_Quest_3b948bff:
 
-    "你从男人身上得到一股好意。"
+    "那人给了你一个善意的耸肩。"
 
 translate schinese_rewrite Amble_Patrol_Quest_2728f0e5:
 
-    a "不,我只是等一个土石咬我的腿。"
+    a "没什么。我只要等陆鲨咬我的腿，然后狠狠揍它一顿。"
 
 translate schinese_rewrite Amble_Patrol_Quest_39293c58:
 
-    a "问题解决了。"
+    a "问题解决。"
 
 translate schinese_rewrite Amble_Patrol_Quest_72a33094:
 
@@ -4419,23 +4419,23 @@ translate schinese_rewrite Amble_Patrol_Quest_72a33094:
 
 translate schinese_rewrite Amble_Patrol_Quest_970eb8cd:
 
-    e "我不会讨论这个问题。"
+    e "我不打算对此发表评论。"
 
 translate schinese_rewrite Amble_Patrol_Quest_9a09f01c:
 
-    e "你还有其他任务去巡逻 除了兰德尔斯以外吗?"
+    e "除了陆鲨，你巡查时还要处理其他事情吗？"
 
 translate schinese_rewrite Amble_Patrol_Quest_f3d5b5c6:
 
-    a "当然,那里有各种各样的事情需要处理。"
+    a "当然！那边有各种各样的事情等着处理。"
 
 translate schinese_rewrite Amble_Patrol_Quest_5c5e9223:
 
-    "你脖子上缠着一只胳膊, 将他的拳头压在你的头发上, 给你一个不痛的,但你的头发现在一团糟。"
+    "安布用胳膊搂住你的脖子，用拳头揉乱你的头发，给你来了个揉头。并不疼，但你的头发现在乱糟糟的。"
 
 translate schinese_rewrite Amble_Patrol_Quest_02da319d:
 
-    a "我有一个好主意!"
+    a "我想到个好主意！"
 
 translate schinese_rewrite Amble_Patrol_Quest_8a21b579:
 
@@ -4447,23 +4447,23 @@ translate schinese_rewrite Amble_Patrol_Quest_608b27c1:
 
 translate schinese_rewrite Amble_Patrol_Quest_fefd98da:
 
-    a "你和我一起去吗?"
+    a "你要和我一起去吗？"
 
 translate schinese_rewrite Amble_Patrol_Quest_a703f702:
 
-    e "我不明白为什么,听起来很有趣！"
+    e "我想不出理由拒绝。听起来可能会很有趣！"
 
 translate schinese_rewrite Amble_Patrol_Quest_2e87efa6:
 
-    a "几乎像上次我带你去的地方一样有趣。"
+    a "几乎和上次我带你去的地方一样有趣。"
 
 translate schinese_rewrite Amble_Patrol_Quest_3ee2496e:
 
-    "安布利不是开玩笑的 当他说这个,这是事实的表白,似乎。 记住你对安布利的特殊训练,让你感到尴尬, 感觉安布利似乎没有被感染。"
+    "他说这话并不是在逗你，对他来说似乎只是陈述事实。想起你和安布的特别训练，你羞得脸红，而安布似乎完全不受影响。"
 
 translate schinese_rewrite Amble_Patrol_Quest_d5c7bd07:
 
-    e "Well..."
+    e "嗯……"
 
 translate schinese_rewrite Amble_Patrol_Quest_48761336:
 
@@ -4471,11 +4471,11 @@ translate schinese_rewrite Amble_Patrol_Quest_48761336:
 
 translate schinese_rewrite Amble_Patrol_Quest_c09dfe48:
 
-    a "也许这次不行 小家伙 田里太公开了！"
+    a "这次可能不行，小家伙。田野里太公开了！"
 
 translate schinese_rewrite Amble_Patrol_Quest_8d51cd8e:
 
-    a "我有名声要维护。"
+    a "我得维护自己的名声。"
 
 translate schinese_rewrite Amble_Patrol_Quest_cae40ea4:
 
@@ -4483,23 +4483,23 @@ translate schinese_rewrite Amble_Patrol_Quest_cae40ea4:
 
 translate schinese_rewrite Amble_Patrol_Quest_a35daf2b:
 
-    "假设他是认真的最好。"
+    "最好还是相信他是认真的。"
 
 translate schinese_rewrite Amble_Patrol_Quest_35e4352d:
 
-    a "不过我以后不会拒绝的。"
+    a "不过，改天来点别的，我倒不会拒绝。"
 
 translate schinese_rewrite Amble_Patrol_Quest_5854a2a6:
 
-    "当你觉得自己没有开玩笑的时候 你突然又被另一个尝试打中了。"
+    "你正以为自己终于躲过调侃，突然又迎来一次袭击。"
 
 translate schinese_rewrite Amble_Patrol_Quest_0dfc5bdb:
 
-    "最糟糕的是,你很肯定他甚至不想要取笑你 他完全诚实,不小心弄乱了你的心。"
+    "最糟的是，你很确定他甚至不是故意逗你。他完全是发自真心，却无意间撩拨着你的心。"
 
 translate schinese_rewrite Amble_Patrol_Quest_9e8781d2:
 
-    e "好吧 很高兴知道可能还会有下次 说实话。"
+    e "……好吧，说实话，知道以后还有机会也不错。"
 
 translate schinese_rewrite Amble_Patrol_Quest_b18a4c25:
 
@@ -4507,27 +4507,27 @@ translate schinese_rewrite Amble_Patrol_Quest_b18a4c25:
 
 translate schinese_rewrite Amble_Patrol_Quest_4fa1983f:
 
-    e "你想什么时候出去告诉我?"
+    e "你想什么时候带我出去见识一下？"
 
 translate schinese_rewrite Amble_Patrol_Quest_f29b3043:
 
-    "安布利给了你无忧无虑的摇摆。"
+    "安布无忧无虑地耸了耸肩。"
 
 translate schinese_rewrite Amble_Patrol_Quest_e0652732:
 
-    a "只要你有空,只要你有空,给我消息,我会带你来巡逻。"
+    a "你有空的时候都行。告诉我一声，我就带你去巡查。"
 
 translate schinese_rewrite Amble_Patrol_Quest_9d2f2d12:
 
-    e "好。"
+    e "好吧。"
 
 translate schinese_rewrite Amble_Patrol_Quest_02c4df3f:
 
-    e "现在吗?"
+    e "现在？"
 
 translate schinese_rewrite Amble_Patrol_Quest_79745361:
 
-    a "你现在不有空吗 小朋友?"
+    a "哦？小不点，你现在没空吗？"
 
 translate schinese_rewrite Amble_Patrol_Quest_9b0b9376:
 
@@ -4535,23 +4535,23 @@ translate schinese_rewrite Amble_Patrol_Quest_9b0b9376:
 
 translate schinese_rewrite Amble_Patrol_Quest_b39467dd:
 
-    e "我刚刚想起了,我还有别的事要做。"
+    e "我刚想起来，我还有别的事要做。"
 
 translate schinese_rewrite Amble_Patrol_Quest_aac5625a:
 
-    a "当然,不用解释。"
+    a "当然，不用解释。"
 
 translate schinese_rewrite Amble_Patrol_Quest_f29b3043_1:
 
-    "安布利给了你无忧无虑的摇摆。"
+    "安布无忧无虑地耸了耸肩。"
 
 translate schinese_rewrite Amble_Patrol_Quest_770c9947:
 
-    a "祝你好运,[e] 如果你想去农场,随时可以回来。"
+    a "祝你忙别的事顺利，[e]。想来农场参观，随时都可以回来。"
 
 translate schinese_rewrite Amble_Patrol_Farm_436731b3:
 
-    e "安波,我准备和你一起去巡逻了。"
+    e "安布！我准备好和你一起巡查了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_088aff47:
 
@@ -4559,59 +4559,59 @@ translate schinese_rewrite Amble_Patrol_Farm_088aff47:
 
 translate schinese_rewrite Amble_Patrol_Farm_b4165890:
 
-    a "啊,很高兴看到你兴奋的来,小朋友。"
+    a "啊，很高兴看到你这么期待，小不点。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7a8fe5db:
 
-    a "你是第一个真正关心 农场里发生的事的人。"
+    a "你是第一个真正对农田发生的事感兴趣的人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ef859b93:
 
-    "快乐的巨人似乎一点也不为这个事实烦恼 虽然他见到你似乎很高兴。"
+    "不过，这位快乐的巨人似乎一点也不介意，反而很高兴见到你。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7a0ab94f:
 
-    "再说一次,他看谁都很高兴。"
+    "话说回来，他见到谁似乎都很高兴。"
 
 translate schinese_rewrite Amble_Patrol_Farm_90e7d5bd:
 
-    e "我无法想象为什么 外面没有威胁。"
+    e "我实在想不出为什么。外面又不是没有威胁。"
 
 translate schinese_rewrite Amble_Patrol_Farm_a6ee2ffe:
 
-    "安布利扭伤了他的脖子后部。"
+    "安布挠了挠后颈。"
 
 translate schinese_rewrite Amble_Patrol_Farm_36d980be:
 
-    a "是啊,他们说人们很无聊 说话太多, 而且他们太笨 无法交谈。"
+    a "嗯，他们都说那些人无聊又话多，蠢得连聊天都不会，而他们觉得我正合适。"
 
 translate schinese_rewrite Amble_Patrol_Farm_277c1358:
 
-    a "不用说,他们觉得我很适合。"
+    a "不用说，他们觉得我再合适不过了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_568339bd:
 
-    "他似乎知道他的名声,很难相信这不会让他心烦意乱,但他的脸却毫不掩饰。"
+    "安布顽皮地朝你眨了眨眼。他似乎知道自己的名声。很难相信这不会让他难过，但他的脸上没有露出丝毫迹象。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e87c3183:
 
-    e "也许我也是个很适合的人 谁知道呢。"
+    e "也许我也很合适，谁知道呢。"
 
 translate schinese_rewrite Amble_Patrol_Farm_cb0bf12f:
 
-    "轻笑 狠狠地拍你背部 让你跌倒。"
+    "安布大笑起来，重重拍了拍你的后背，力道大得让你踉跄。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7e394b17:
 
-    a "农夫至少会喜欢你的 你们对山地人的努力 并没有被忽略。"
+    a "我觉得你会！至少农民们会喜欢你。你对付陆鲨的努力可没有被忽视。"
 
 translate schinese_rewrite Amble_Patrol_Farm_537d0057:
 
-    "口供让你不自在 脸红脸红。"
+    "这句话让你措手不及，脸上泛起红晕。"
 
 translate schinese_rewrite Amble_Patrol_Farm_dade9fba:
 
-    e "真的吗 我以为外面没人看见我。"
+    e "真的吗？我还以为没人看见我在那边……"
 
 translate schinese_rewrite Amble_Patrol_Farm_73862874:
 
@@ -4619,43 +4619,43 @@ translate schinese_rewrite Amble_Patrol_Farm_73862874:
 
 translate schinese_rewrite Amble_Patrol_Farm_cc4c5887:
 
-    a "哦,传闻厂里充满了你的故事 每个人都想知道谁是英俊的年轻龙。"
+    a "当然！关于你的传闻已经传遍了。大家都想知道那个英俊的年轻龙人是谁。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e9cd7c70:
 
-    e "他们真的叫我帅哥吗?"
+    e "他们真的说我英俊？"
 
 translate schinese_rewrite Amble_Patrol_Farm_c291beb3:
 
-    "轻轻的摇摆。"
+    "安布微微耸了耸肩。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ed387567:
 
-    a "有时候,虽然他们主要说,当他们叫你'有点太帅了,不适合你。'你的调情显然让几个农夫看得一清二楚!"
+    a "有时候吧，不过他们主要是在说你“帅得有点过头了”。看来你的调情让几个农民大饱眼福！"
 
 translate schinese_rewrite Amble_Patrol_Farm_8d69e72c:
 
-    "即使你没有调情 对付你打过的每一对敌人 想想有多少随机的人 发现你的行动 也有点尴尬。"
+    "就算你没有对战斗过的每个敌人都调情，想到可能有多少路人看到了你的举动，还是有点尴尬。"
 
 translate schinese_rewrite Amble_Patrol_Farm_141b5167:
 
-    "即使这个想法让你有点兴奋。"
+    "……尽管这个想法还是让你有点兴奋。"
 
 translate schinese_rewrite Amble_Patrol_Farm_3e4cb8a4:
 
-    e "嗯,我们该走了,是吗?"
+    e "咳。嗯。我们该出发了，对吧？"
 
 translate schinese_rewrite Amble_Patrol_Farm_8bd58a00:
 
-    "安布利把他的头扔回一个 欢笑的欢笑中 然后再带你走向农地。"
+    "安布仰头发出爽朗的大笑，然后带你朝农田走去。"
 
 translate schinese_rewrite Amble_Patrol_Farm_779f4b6b:
 
-    a "随你便,小朋友 看看阿瑟会不会像上次那样提你。"
+    a "如你所愿，小不点。看看老亚瑟会不会像上次那样提到你。要是他真提了，你可别跑太远。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ea44f960:
 
-    a "我不想花一半的巡逻费追你。"
+    a "我可不想花掉半个巡查时间去追你。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b090ca65:
 
@@ -4667,23 +4667,23 @@ translate schinese_rewrite Amble_Patrol_Farm_51dad4eb:
 
 translate schinese_rewrite Amble_Patrol_Farm_a5248884:
 
-    "安布利的屁股不怎么隐蔽 他总是穿的滑稽装备。"
+    "安布总穿着那身清凉装备，他的屁股实在藏不住。"
 
 translate schinese_rewrite Amble_Patrol_Farm_afaee3da:
 
-    a "那么,Puny朋友。"
+    a "所以，小不点。"
 
 translate schinese_rewrite Amble_Patrol_Farm_baf6c83c:
 
-    "他用屁股引诱你 把你从冥想状态中打出来。"
+    "安布把你从他的屁股引诱出的冥想状态中惊醒。"
 
 translate schinese_rewrite Amble_Patrol_Farm_1a2adcc2:
 
-    a "除了兰德豪斯以外, 在农地里你能找到的主要危险是什么?"
+    a "除了陆鲨，农田里还能遇到的主要危险是什么？"
 
 translate schinese_rewrite Amble_Patrol_Farm_ba97d75e:
 
-    e "嗯... 人数不多,不过我说稻草人。"
+    e "呃……其实没多少，不过我觉得是稻草人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7f12857d:
 
@@ -4691,11 +4691,11 @@ translate schinese_rewrite Amble_Patrol_Farm_7f12857d:
 
 translate schinese_rewrite Amble_Patrol_Farm_e71ca707:
 
-    a "这里的稻草人有点{i}too{/i} 擅长吓跑稻草人,有时也会吓跑稻草人。"
+    a "这里的稻草人有时在吓走乌鸦之类的东西方面，{i}实在{/i}太厉害了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Amble_Patrol_Farm_2588546b:
 
@@ -4703,19 +4703,19 @@ translate schinese_rewrite Amble_Patrol_Farm_2588546b:
 
 translate schinese_rewrite Amble_Patrol_Farm_d38ea768:
 
-    "安白突然间停下来 转过身来看看你。"
+    "安布突然停下，转身看向你。"
 
 translate schinese_rewrite Amble_Patrol_Farm_1b7b666e:
 
-    a "我从来没想过,我想知道他是不是也教他们?"
+    a "我还真没想过这个。我想知道他是不是也会教它们？"
 
 translate schinese_rewrite Amble_Patrol_Farm_70f086a9:
 
-    "他教书是什么意思?"
+    "他说的“教”是什么意思？布料也能教吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_f98d506e:
 
-    e "你是什么意思,教书。"
+    e "你说教是什么意思？"
 
 translate schinese_rewrite Amble_Patrol_Farm_aa5194d5:
 
@@ -4723,83 +4723,83 @@ translate schinese_rewrite Amble_Patrol_Farm_aa5194d5:
 
 translate schinese_rewrite Amble_Patrol_Farm_3365aa99:
 
-    a "为什么,我们第一站的腐烂!"
+    a "当然是我们的第一站！"
 
 translate schinese_rewrite Amble_Patrol_Farm_9081b0d1:
 
-    a "我们要教一个新造的稻草人 如何吓唬乌鸦。"
+    a "我们要教一只新做的稻草人怎么吓跑乌鸦。说不定还能教它对付陆鲨。"
 
 translate schinese_rewrite Amble_Patrol_Farm_861e64e6:
 
-    a "我研究最后那把刀有段时间了 他们不太擅长握斧子。"
+    a "最后这个我已经琢磨一阵子了。它们不太擅长挥斧头。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e98d449b:
 
-    e "我们到底要在哪里做这个?"
+    e "我们到底要在哪里、怎么做？"
 
 translate schinese_rewrite Amble_Patrol_Farm_b88b3070:
 
-    "安布利看起来有点困惑 你的问题, 好像这些应该 东西你已经知道。"
+    "安布对你的问题感到有些困惑，仿佛这些本来都是你该知道的事。"
 
 translate schinese_rewrite Amble_Patrol_Farm_343ab56e:
 
-    a "那边的农舍。"
+    a "哪里？就是那边的农舍。"
 
 translate schinese_rewrite Amble_Patrol_Farm_016794fc:
 
-    "在小麦田里舒适地坐着的遥远的农舍,。"
+    "安布指向远处麦田里一座舒适的农舍。"
 
 translate schinese_rewrite Amble_Patrol_Farm_2a0e7d4a:
 
-    "不是农地只有小麦,而是主要植物。"
+    "当然，农田里也不只有小麦，只是小麦占了大多数。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6f33f4db:
 
-    a "怎样才能教东西呢?"
+    a "怎么教？当然是教任何东西都一样，把它示范给它看。"
 
 translate schinese_rewrite Amble_Patrol_Farm_cd5d701e:
 
-    a "就像我教你如何打核心一样。"
+    a "就像我教你攻击核心那样。"
 
 translate schinese_rewrite Amble_Patrol_Farm_2e4c51a1:
 
-    "你嘲笑他,他给你一个机会 让你用银盘子报仇。"
+    "你对此露出一抹坏笑。他把一个复仇的机会拱手送到了你面前。"
 
 translate schinese_rewrite Amble_Patrol_Farm_edc905ca:
 
-    e "所以你要去吸是鸡巴?"
+    e "所以你要含他的鸡巴？"
 
 translate schinese_rewrite Amble_Patrol_Farm_876ce0f6:
 
-    "看着你,完全迷惑。"
+    "安布完全困惑地看着你。"
 
 translate schinese_rewrite Amble_Patrol_Farm_00549cc8:
 
-    a "怎么会,那和训练有什么关系?"
+    a "不？为什么要？这和训练有什么关系？"
 
 translate schinese_rewrite Amble_Patrol_Farm_4e866d02:
 
-    e "Wha -bu"
+    e "什、什——"
 
 translate schinese_rewrite Amble_Patrol_Farm_fd79c36d:
 
-    a "况且稻草人甚至连鸡巴都没有 你总有一天会说最疯狂的话的,小朋友!"
+    a "再说，稻草人根本没有鸡巴。你有时真会说些稀奇古怪的话，小不点！"
 
 translate schinese_rewrite Amble_Patrol_Farm_c69152e0:
 
-    "他一定在耍你 这男人不可能是认真的。"
+    "他一定是在逗你。这个人不可能是认真的。"
 
 translate schinese_rewrite Amble_Patrol_Farm_4db96756:
 
-    "以防万一,你会同意的。"
+    "你决定先顺着他，保险起见。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f3366ddc:
 
-    e "是的,哈哈。我当然知道!"
+    e "对，哈哈。我确实会！"
 
 translate schinese_rewrite Amble_Patrol_Farm_3819d919:
 
-    a "看吧,你为什么同意我的看法?"
+    a "看吧，就是这样！你干吗同意我的话？"
 
 translate schinese_rewrite Amble_Patrol_Farm_a20cefa7:
 
@@ -4807,7 +4807,7 @@ translate schinese_rewrite Amble_Patrol_Farm_a20cefa7:
 
 translate schinese_rewrite Amble_Patrol_Farm_6622efe8:
 
-    "你最好现在跟着他。"
+    "现在还是跟着他比较好。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e09a6557:
 
@@ -4815,7 +4815,7 @@ translate schinese_rewrite Amble_Patrol_Farm_e09a6557:
 
 translate schinese_rewrite Amble_Patrol_Farm_10b4f6ac:
 
-    "时间飞逝时,你玩得很开心,或者... 无论你和安布在一起有什么。很难知道如何看待他。就像他不断在两种模式之间转换, 很难跟上。"
+    "和安布待在一起时，时间总是过得很快；不过，你们之间究竟算是什么关系呢？他仿佛总在两种状态之间来回切换，让人很难跟上。"
 
 translate schinese_rewrite Amble_Patrol_Farm_45fb9cac:
 
@@ -4827,35 +4827,35 @@ translate schinese_rewrite Amble_Patrol_Farm_f8b56267:
 
 translate schinese_rewrite Amble_Patrol_Farm_0fbfdc03:
 
-    "并不是你见过最大的农场, 但是它可以舒适地接待一个家庭, 并留有空间。"
+    "这不是你见过最大的农场，但住下一家人还绰绰有余。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5ab0c3bb:
 
-    "当你终于把目光 带到农场的前面时 你看到门廊上有人 轻轻摇动着摇椅 手里拿着雪茄。"
+    "当你终于把目光移向农场正面时，看见有人在门廊上坐在摇椅里轻轻摇晃，手里夹着一支雪茄。"
 
 translate schinese_rewrite Amble_Patrol_Farm_96c9bdb0:
 
-    "他似乎是某种牧羊人-- 老了,从事物的外观来看。尽管如此,他看起来充满了生命。"
+    "看样子他是个牧羊人——从外表看年纪很大。尽管如此，这人看起来仍然充满活力。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0ad18a1e:
 
-    "兴奋的笑容在农民的脸上蔓延 当他耐心等待你们两个接近时。"
+    "你们俩同时发现了对方。农民脸上绽开兴奋的笑容，耐心等着你们走近。"
 
 translate schinese_rewrite Amble_Patrol_Farm_4878ee52:
 
-    a "你好,亚瑟先生!"
+    a "你好，亚瑟先生！"
 
 translate schinese_rewrite Amble_Patrol_Farm_d5601cb1:
 
-    "亚瑟先生的笑容 变成了有点刺激的混乱。"
+    "“亚瑟先生”的笑容变成了略带恼火的困惑表情。"
 
 translate schinese_rewrite Amble_Patrol_Farm_91e60343:
 
-    ar "我不是叫你叫我阿蒂吗?"
+    ar "我不是告诉过你叫我阿蒂吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_81d062d0:
 
-    a "我还记得,我只是礼貌些,因为我带了一位客人来巡逻。"
+    a "我记得！只是因为我带了一位想一起巡查的客人，所以才这么礼貌。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b066dd1c:
 
@@ -4863,31 +4863,31 @@ translate schinese_rewrite Amble_Patrol_Farm_b066dd1c:
 
 translate schinese_rewrite Amble_Patrol_Farm_5d388e67:
 
-    ar "我明白,但没必要正式的。"
+    ar "我明白，但没必要这么正式。"
 
 translate schinese_rewrite Amble_Patrol_Farm_14cd1046:
 
-    ar "他肯定超越了这些地方的手续。"
+    ar "在这附近，他绝对把“正式”发挥到了极致。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6c223db8:
 
-    "当你看着Arty眼中的恶毒的饥饿时 你就会变成红桃。"
+    "你看向阿蒂眼中贪婪的欲望时，脸一下子红透了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0776ad1b:
 
-    e "亚瑟先生,我为不合适道歉。"
+    e "抱歉，是我失礼了，亚瑟先生。"
 
 translate schinese_rewrite Amble_Patrol_Farm_763bbdf9:
 
-    ar "请暂时叫我Arty吧,别胡说八道,如果有的话,我更希望你更不合适。"
+    ar "请暂时叫我阿蒂吧。别这么说，如果可以的话，我反而希望你更放肆一点。"
 
 translate schinese_rewrite Amble_Patrol_Farm_a4e824fd:
 
-    ar "如果你喜欢这个声音, 你总是欢迎来玩玩..."
+    ar "如果你喜欢这样，随时欢迎来我家找乐子……"
 
 translate schinese_rewrite Amble_Patrol_Farm_51f6b85a:
 
-    "老头子用眉毛的眨眼和眨眼说这个。不管多么有趣,你都有理由相信他是认真的, 如果他的缓慢增长的暴增是值得的。"
+    "老人说着眨了眨眼，还挑了挑眉。尽管语气很顽皮，但你相当确定他是认真的——他逐渐鼓起的下体就是证据。"
 
 translate schinese_rewrite Amble_Patrol_Farm_3c08b624:
 
@@ -4899,15 +4899,15 @@ translate schinese_rewrite Amble_Patrol_Farm_f2dd3899:
 
 translate schinese_rewrite Amble_Patrol_Farm_81aa4915:
 
-    e "不!没有!没有,没有,没有。"
+    e "不！不！不是那种事。"
 
 translate schinese_rewrite Amble_Patrol_Farm_99e70186:
 
-    "阿蒂发出失望的叹息声。"
+    "阿蒂失望地叹了口气。"
 
 translate schinese_rewrite Amble_Patrol_Farm_1e8b3819:
 
-    ar "我还以为你们俩玩得很开心呢。"
+    ar "哎呀，我还以为你们两个已经一起找过乐子了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_942aec22:
 
@@ -4919,71 +4919,71 @@ translate schinese_rewrite Amble_Patrol_Farm_9e606d75:
 
 translate schinese_rewrite Amble_Patrol_Farm_c865c10e:
 
-    a "是的,事实上,我们以前已经有过了!"
+    a "是啊！事实上，我们以前已经做过了！"
 
 translate schinese_rewrite Amble_Patrol_Farm_4f8a783e:
 
-    "可惜,你没有办法表达你的尴尬。"
+    "如果还能再红一点，你肯定会红得更厉害。可惜你实在找不到合适的方式表达自己的窘迫。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5702c2db:
 
-    ar "然后呢?和我怀疑的一样好?"
+    ar "怎么样？和我想的一样棒吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_32ebe75e:
 
-    "阿蒂的摇摆曲子 轻轻的笑容 在他的嘴唇上弹奏。"
+    "安布朝阿蒂耸了耸肩，嘴角挂着一丝笑意。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6cc6afa1:
 
-    a "我认为更好。"
+    a "我觉得更棒。"
 
 translate schinese_rewrite Amble_Patrol_Farm_06a58fc0:
 
-    ar "哦,太好了,如果你想的话,这个报价肯定还在!"
+    ar "哦，太好了。你想来的话，这个邀请一直有效！"
 
 translate schinese_rewrite Amble_Patrol_Farm_2ed87076:
 
-    "您只能点头。"
+    "你只能点头。"
 
 translate schinese_rewrite Amble_Patrol_Farm_c2d58ba8:
 
-    ar "我只是个农夫,如果有的话,我应该分别谈谈你们两个。"
+    ar "我只是个农民。真要说起来，应该是我恭敬地称呼你们两个才对。"
 
 translate schinese_rewrite Amble_Patrol_Farm_02d61672:
 
-    ar "但我已经领先了 你叫什么名字,小狗?"
+    ar "不过我扯远了。小家伙，你叫什么名字？"
 
 translate schinese_rewrite Amble_Patrol_Farm_340a4782:
 
-    "这是你第一次被叫来,你可以回忆起-- 正确的词会渐渐孵化, 但含义是明白的。"
+    "这是你记得的第一次有人这么叫你——严格来说应该是“幼龙”，但意思你明白。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b8798de8:
 
-    ar "喂?"
+    ar "喂？"
 
 translate schinese_rewrite Amble_Patrol_Farm_22483c57:
 
-    "看来你冻结了几秒钟 来处理他说的话。"
+    "看来你花了几秒钟才回过神来，理解他说的话。"
 
 translate schinese_rewrite Amble_Patrol_Farm_718644ff:
 
-    e "抱歉,我是[e]。"
+    e "啊，抱歉。我叫[e]。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ec1fe05a:
 
-    "阿蒂给了你看起来真正的笑容。"
+    "阿蒂朝你露出一个看起来发自真心的笑容。"
 
 translate schinese_rewrite Amble_Patrol_Farm_91baf5f6:
 
-    ar "一个极好的名字,如果不是在这些地方特别常见的话。"
+    ar "真是个好名字，只是这一带不太常见。"
 
 translate schinese_rewrite Amble_Patrol_Farm_fd5ed9a8:
 
-    e "我也喜欢你的名字,阿蒂。"
+    e "我……我也喜欢你的名字，阿蒂。"
 
 translate schinese_rewrite Amble_Patrol_Farm_acaa5dc8:
 
-    "牧羊人怀疑你 但决定放弃话题。"
+    "牧羊人狐疑地看了你一眼，但决定不再纠结这个话题。"
 
 translate schinese_rewrite Amble_Patrol_Farm_9d58ab4f:
 
@@ -4991,31 +4991,31 @@ translate schinese_rewrite Amble_Patrol_Farm_9d58ab4f:
 
 translate schinese_rewrite Amble_Patrol_Farm_ebc7d6dd:
 
-    ar "稻草人已经处于学习期的开始,如果我们拖延太长,它可能变成哑巴。"
+    ar "稻草人已经开始学习了，要是再拖下去太久，它可能会变成废品。"
 
 translate schinese_rewrite Amble_Patrol_Farm_694874f5:
 
-    a "带他出来,我这个小朋友,我要教他怎么吓跑乌鸦和山贼！"
+    a "把它带出来吧！我和我的小不点朋友会教它怎么吓走乌鸦和陆鲨！"
 
 translate schinese_rewrite Amble_Patrol_Farm_c56c0120:
 
-    "亚瑟步入农场的速度很快, 之后只有几瞬间, 这个人带着一个略微颤抖的稻草人再次出现。"
+    "亚瑟快步走进农场，没过多久就带着一只微微抽搐的稻草人出来了。"
 
 translate schinese_rewrite Amble_Patrol_Farm_bf4e34bd:
 
-    ar "我把他留在这里陪你,如果需要我的话,我会在屋里睡午觉。"
+    ar "我暂时把它留在这里给你们。如果需要我，我会回屋里补个早觉。"
 
 translate schinese_rewrite Amble_Patrol_Farm_bd43a8e5:
 
-    "安布利给他点头 开始把稻草人拖到空地上。"
+    "安布朝他点了点头，开始费力地把稻草人拖向空地。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f3c937d9:
 
-    e "那么,我们有什么特别的事情要教稻草人吗?"
+    e "所以，我们要做什么特别的事来教稻草人吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_379b7e9c:
 
-    a "不,小朋友,他一直在学习,现在他学会了 将人从他们的怀抱中拖走。"
+    a "不用，小不点。它一直都在学习！就连现在，它也在学习如何拽住别人的胳膊把人拖走。"
 
 translate schinese_rewrite Amble_Patrol_Farm_87609acd:
 
@@ -5023,23 +5023,23 @@ translate schinese_rewrite Amble_Patrol_Farm_87609acd:
 
 translate schinese_rewrite Amble_Patrol_Farm_0c3b4584:
 
-    e "我们应该教他这个吗?"
+    e "我们应该教它这个吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_35a9056f:
 
-    "无忧无虑的熊给你一记号。"
+    "悠闲的熊朝你耸了耸肩。"
 
 translate schinese_rewrite Amble_Patrol_Farm_93ee391e:
 
-    a "为什么不呢,除了农夫,没人能到这附近去,稻草人知道得分 如果他们攻击我,那只是巡逻才更有趣。"
+    a "为什么不呢？这里除了农民没人会来，而且稻草人知道规矩。要是它们攻击我，嗯，那也只是让巡查变得更有趣。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f732e3ce:
 
-    "至少可以说是一个令人担忧的思考过程。"
+    "这思路至少可以说是令人担忧。"
 
 translate schinese_rewrite Amble_Patrol_Farm_88580fbe:
 
-    e "好吧,我想我们看看情况如何。"
+    e "好吧，那就看看会怎样。"
 
 translate schinese_rewrite Amble_Patrol_Farm_4e9363ea:
 
@@ -5047,55 +5047,55 @@ translate schinese_rewrite Amble_Patrol_Farm_4e9363ea:
 
 translate schinese_rewrite Amble_Patrol_Farm_17dc296b:
 
-    a "对的!生命的到来就是生命。"
+    a "没错！顺其自然。"
 
 translate schinese_rewrite Amble_Patrol_Farm_84eb2c77:
 
-    "熊改变了对稻草人的控制 把它推到农田里。"
+    "熊调整了一下抓稻草人的姿势，把它插进农田的土里。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f2585994:
 
-    a "比如说,你觉得我该先教稻草人什么?"
+    a "比如说！你觉得我该先教稻草人什么？"
 
 translate schinese_rewrite Amble_Patrol_Farm_8dfb5e66:
 
-    e "我不知道... 如何吓人?"
+    e "我不知道……怎么吓人？"
 
 translate schinese_rewrite Amble_Patrol_Farm_035e960e:
 
-    a "这很简单。这里!"
+    a "这简单。看好了！"
 
 translate schinese_rewrite Amble_Patrol_Farm_42662357:
 
-    "牙尖尖牙尖牙尖牙尖牙尖牙牙尖尖牙尖牙尖牙尖牙后,牙。"
+    "安布仰起头，露出牙齿。低沉的咆哮开始从喉咙里传出。"
 
 translate schinese_rewrite Amble_Patrol_Farm_c96f31e4:
 
-    "它迅速形成大吼声, 充斥空气 并留下回声几分钟。"
+    "那声音很快升级成震耳欲聋的咆哮，响彻空气，回声持续了好几分钟。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b5001483:
 
-    "熊看着你,略受伤害,你只明白为什么你看到自己在恐惧中背弃了他。"
+    "熊转头看向你，似乎有些受伤。直到发现自己害怕地退离了他，你才明白原因。"
 
 translate schinese_rewrite Amble_Patrol_Farm_cdb4673c:
 
-    e "对不起,他,我第一次看到你 看上去除了快乐和甜美之外 什么都像样。"
+    e "抱歉，嘿嘿——只是效果太好了！这是我第一次见你露出除了开心和乖巧以外的表情。"
 
 translate schinese_rewrite Amble_Patrol_Farm_144330b8:
 
-    a "我知道,我必须努力维持友好熊的形象 我们看起来并不完全无害。"
+    a "我知道。要维持友善熊的形象可得下不少功夫。我们看起来可不算无害。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ad115aaa:
 
-    "公平地说,你可以看到他的意思。你以前从未意识到他的牙齿有多尖锐, 他的爪子有多大-- 他站在你面前的事实。"
+    "公平地说，你现在明白他的意思了。之前你从未意识到他的牙齿有多锋利、爪子有多大——更没注意到他比你高出一尺多。"
 
 translate schinese_rewrite Amble_Patrol_Farm_3425e4e4:
 
-    "最好还是改变话题。"
+    "最好换个话题。"
 
 translate schinese_rewrite Amble_Patrol_Farm_4ce50a6f:
 
-    e "我想稻草人现在应该已经学会了 我们怎么查?"
+    e "我觉得稻草人现在应该学会了。我们怎么确认？"
 
 translate schinese_rewrite Amble_Patrol_Farm_51025aa8:
 
@@ -5103,55 +5103,55 @@ translate schinese_rewrite Amble_Patrol_Farm_51025aa8:
 
 translate schinese_rewrite Amble_Patrol_Farm_0b534566:
 
-    "它立刻开始摇动。它开始温柔地拖着树枝与树枝对立, 发出一棵痛苦的树的声音。"
+    "它立刻开始颤抖。起初是树枝相互摩擦的轻响，仿佛是受苦的树发出的声音。"
 
 translate schinese_rewrite Amble_Patrol_Farm_03c47d6d:
 
-    "它的结束声是... 你会想象一棵树尖叫的声音会听起来像。"
+    "最后的声音是……你想象中一棵树尖叫起来会发出的声音。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e37a38f4:
 
-    e "惊人的效率。"
+    e "效率高得吓人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_8e4fa289:
 
-    "熊用笑容向你转弯。"
+    "熊转过身，朝你露出坏笑。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7c7f985b:
 
-    a "现在,给我一秒钟, 下一个需要一段时间。"
+    a "对吧？现在给我一点时间，接下来这个要花一会儿。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6c7a0c8e:
 
-    e "... 你现在教它什么?"
+    e "……你现在要教它什么？"
 
 translate schinese_rewrite Amble_Patrol_Farm_6d3a2b6d:
 
-    e "难道不是吓坏了它必须做的吗?"
+    e "它不是只要会吓人就够了吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_0eddac3b:
 
-    "嘲笑是你们立即的反应。"
+    "你立刻爆发出一阵哄堂大笑。"
 
 translate schinese_rewrite Amble_Patrol_Farm_7c66bb51:
 
-    a "可能大多数都是吧,不过我养了个拳手。"
+    a "大多数情况下是！但只要有我在，我就要把它培养成一名战士。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b36f01b8:
 
-    "安布利开始打空气 不停地跑来跑去 好像他只有一条腿可以继续前进。"
+    "安布开始对着空气出拳，来回蹦跳，仿佛只有一条腿能动。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5f5d48de:
 
-    e "你在做什么?"
+    e "你、你在干什么？"
 
 translate schinese_rewrite Amble_Patrol_Farm_d6e130ab:
 
-    "他看起来像个疯子 一个危险 重达200磅的疯子。"
+    "他看起来像个疯子——一个危险的、足有两百磅重的疯子。"
 
 translate schinese_rewrite Amble_Patrol_Farm_1e371d43:
 
-    a "我教他拳击,他们不携带武器, 所以我练习了一下,看看我能不能打败这种泥土!"
+    a "我在教它拳击！它们不带武器，所以我一直在练习看看能不能用这招打败陆鲨！"
 
 translate schinese_rewrite Amble_Patrol_Farm_37589c8a:
 
@@ -5159,15 +5159,15 @@ translate schinese_rewrite Amble_Patrol_Farm_37589c8a:
 
 translate schinese_rewrite Amble_Patrol_Farm_89e4d00e:
 
-    "他可能会把你的脊椎像树枝一样折断。"
+    "他大概能像折断树枝一样折断你的脊椎。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ff77b352:
 
-    e "所以,嗯,你教这个的时候可以说话吗?"
+    e "呃……你教它的时候，我们可以聊天吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_bc437b94:
 
-    a "是啊,要等一阵子 所以聊天最好玩了！"
+    a "当然！这得花一会儿，聊天才最有趣！"
 
 translate schinese_rewrite Amble_Patrol_Farm_8153ba6b:
 
@@ -5175,7 +5175,7 @@ translate schinese_rewrite Amble_Patrol_Farm_8153ba6b:
 
 translate schinese_rewrite Amble_Patrol_Farm_75c619c9:
 
-    "最好的开端就是作为冒险家的共通点。"
+    "你能想到的最好开场白，就是谈谈你们作为冒险者的共同点。"
 
 translate schinese_rewrite Amble_Patrol_Farm_445b6beb:
 
@@ -5183,15 +5183,15 @@ translate schinese_rewrite Amble_Patrol_Farm_445b6beb:
 
 translate schinese_rewrite Amble_Patrol_Farm_ed7cbdb1:
 
-    a "做冒险家就是帮助人们。"
+    a "嗯！当冒险者就是要帮助别人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5e8bf3f5:
 
-    a "帮助人们是很有趣的!即使有时帮助意味着跳进充满愤怒的鸡群的坑里去收集鸡肉。"
+    a "帮助别人很有趣！就算有时所谓的帮助，是跳进满是愤怒的鸡的坑里捡鸡蛋。"
 
 translate schinese_rewrite Amble_Patrol_Farm_9ffec77a:
 
-    a "别人笑我帮他们的时候,我不会用这个换任何东西!"
+    a "我帮助别人时，他们会对我微笑。我愿意用世上的任何东西来交换这份回报！"
 
 translate schinese_rewrite Amble_Patrol_Farm_d8c22196:
 
@@ -5199,51 +5199,51 @@ translate schinese_rewrite Amble_Patrol_Farm_d8c22196:
 
 translate schinese_rewrite Amble_Patrol_Farm_a2a89a64:
 
-    e "好吧,如果你得到一份你不想的工作呢?"
+    e "好吧，那么……如果你接到一份不想做的工作呢？比如对方是个坏人之类的？"
 
 translate schinese_rewrite Amble_Patrol_Farm_781566c0:
 
-    "熊的拳击速度在瞬间减慢 在你意识到并恢复速度之前。"
+    "熊的出拳暂时慢了下来，你察觉到后，他又恢复了速度。"
 
 translate schinese_rewrite Amble_Patrol_Farm_d6a0e712:
 
-    a "我不会帮他们,如果他们笑 意味着大多数人不会,我为什么要帮他们?"
+    a "我不会帮他们！如果他们的笑容意味着大多数人都笑不出来，我为什么要帮他们？"
 
 translate schinese_rewrite Amble_Patrol_Farm_29638e93:
 
-    a "况且,我认为任何人都不是天生的好坏!"
+    a "而且，我不觉得有人天生就是好人或坏人！只分当下做得好不好。"
 
 translate schinese_rewrite Amble_Patrol_Farm_c2ae6fb1:
 
-    e "那些把你关进牢里的人怎么办 他们不是坏人吗?"
+    e "那欺骗你的人呢？他们难道不是坏人？遇到这种事你会怎么办？"
 
 translate schinese_rewrite Amble_Patrol_Farm_949b82ba:
 
-    "在他的盒子里,笑容难听 -- -- 这个问题对于他来说是很有趣的,因为有些原因。"
+    "安布一边出拳一边微笑，不知为何，这个问题似乎让他觉得很有趣。"
 
 translate schinese_rewrite Amble_Patrol_Farm_8061ff9a:
 
-    a "取决于他们让我做什么 或者他们如何欺骗我。"
+    a "要看他们让我做了什么，或者他们是怎么骗我的。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6e529922:
 
-    a "通常我拍拍他们背部 告诉他们不要再做一次。"
+    a "通常？我会拍拍他们的背，告诉他们别再这么做；或者笑着承认他们骗过了我。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5db0a695:
 
-    a "有时候我必须做更多的事情。这让我没有乐趣去杀人或监禁,但有时这是我看到的唯一解决办法。"
+    a "有时我不得不做得更多。杀人或监禁并不能让我开心，但有时那是我能想到的唯一办法。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b5858c47:
 
-    "再说一遍,他说得非常清楚,吓到你了。"
+    "他把这话说得异常清楚，再一次让你感到害怕。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e9daa2bd:
 
-    "你有种感觉,他会像松鼠一样轻易地杀死一个人-- 这一切都取决于他的情况。"
+    "你感觉对他来说，杀一个人和杀一只松鼠一样容易——一切都取决于具体情况。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6b7eff08:
 
-    "你脑子里充满了问题, 但是你不能在最后的这个问题之后 自己去问他们。"
+    "你脑子里有一大堆问题在打转，但听了刚才那句，你怎么也问不出口。"
 
 translate schinese_rewrite Amble_Patrol_Farm_1bae045b:
 
@@ -5251,35 +5251,35 @@ translate schinese_rewrite Amble_Patrol_Farm_1bae045b:
 
 translate schinese_rewrite Amble_Patrol_Farm_95bbfd27:
 
-    a "你为什么这样做?"
+    a "你为什么要这么做？"
 
 translate schinese_rewrite Amble_Patrol_Farm_a02f1f15:
 
-    "您在休克中抬头看。"
+    "你震惊地抬起头。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5a89ac8b:
 
-    e "因为我喜欢,我喜欢冒险,帮助..."
+    e "因为我喜欢。我喜欢冒险，喜欢帮助别人……但我最喜欢的还是认识新的人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_b6a04182:
 
-    e "至少,我想这就是为什么我喜欢它的原因 很难知道这样的事。"
+    e "至少我觉得这是原因。像这种事很难说清楚。"
 
 translate schinese_rewrite Amble_Patrol_Farm_fcb05fb3:
 
-    "他一动就点点头 但意识到这可能会让稻草人 产生错误的想法。"
+    "安布一边移动一边点头，却意识到这样可能会给稻草人错误的暗示。"
 
 translate schinese_rewrite Amble_Patrol_Farm_acdba4f3:
 
-    a "我明白了。"
+    a "我明白。"
 
 translate schinese_rewrite Amble_Patrol_Farm_60a0abc8:
 
-    a "我知道,当我没有帮助,或努力去理解 我周围发生了什么。"
+    a "不过，你有没有怀疑过自己？我在帮不上忙，或者难以理解周围发生的事时，就会怀疑自己。"
 
 translate schinese_rewrite Amble_Patrol_Farm_eb9c5718:
 
-    e "你是说一般的游戏吗?"
+    e "你是说一般意义上的怀疑？"
 
 translate schinese_rewrite Amble_Patrol_Farm_035e74da:
 
@@ -5287,27 +5287,27 @@ translate schinese_rewrite Amble_Patrol_Farm_035e74da:
 
 translate schinese_rewrite Amble_Patrol_Farm_0c6eb1b3:
 
-    a "不,每个人都怀疑自己。我问你是否怀疑过 你是否有能力成为冒险家—— 是否对别人来说更好。"
+    a "不。每个人都会怀疑自己。我是在问，你有没有怀疑过自己是否有能力成为冒险者——或者让别人来做是不是更好。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0200fb1e:
 
-    "有个问题你从未想过 当你考虑一下时,你很可能是个相当糟糕的冒险家。"
+    "这是你从未想过的问题。仔细想想，你在大多数方面都算不上一个好冒险者。"
 
 translate schinese_rewrite Amble_Patrol_Farm_36eee853:
 
-    "但周围的人似乎很欣赏你的所作所为 所以也许没必要担心?"
+    "但身边的人似乎认可你所做的一切。所以，也许没什么好担心的？"
 
 translate schinese_rewrite Amble_Patrol_Farm_84be01e8:
 
-    e "是的,但从来没有足够 真正重要的。"
+    e "是啊，但还远远不够，根本算不上什么。"
 
 translate schinese_rewrite Amble_Patrol_Farm_0e4c7c36:
 
-    e "你?"
+    e "你呢？"
 
 translate schinese_rewrite Amble_Patrol_Farm_89b7afae:
 
-    "安布利的面容形成了自我贬损的微笑 即使他继续打拳击 也是完美无缺的。"
+    "安布脸上浮现出自嘲的笑容，出拳的动作却依然完美无瑕。"
 
 translate schinese_rewrite Amble_Patrol_Farm_8e4268eb:
 
@@ -5315,71 +5315,71 @@ translate schinese_rewrite Amble_Patrol_Farm_8e4268eb:
 
 translate schinese_rewrite Amble_Patrol_Farm_2a0d634c:
 
-    e "然后你做什么?"
+    e "那你会怎么办？"
 
 translate schinese_rewrite Amble_Patrol_Farm_f317f056:
 
-    a "我挣扎时总是做的事..."
+    a "我遇到困难时一向如此——"
 
 translate schinese_rewrite Amble_Patrol_Farm_2bac1769:
 
-    a "相信自己是好人 找到前进的道路。"
+    a "相信自己本来就是个好人，然后想办法继续前进。"
 
 translate schinese_rewrite Amble_Patrol_Farm_c7e71f68:
 
-    a "我的问题大多会消失,只要我狠狠揍他们一拳。"
+    a "大多数问题，只要我用力揍上几拳，往往就会消失。那些揍不好的，我就找人来解决。"
 
 translate schinese_rewrite Amble_Patrol_Farm_3fd82587:
 
-    "你张开嘴问一个问题 但意识到熊一直不停地说话。"
+    "你张嘴想问，但发现熊还没有停下说话。"
 
 translate schinese_rewrite Amble_Patrol_Farm_fefec6d1:
 
-    a "在你问之前,如果这不起作用,我做什么?"
+    a "而且，别急着问如果这样也没用我会怎么办。我还是会试试。"
 
 translate schinese_rewrite Amble_Patrol_Farm_ca0e65ef:
 
-    a "放弃就无处可去 战斗吧 愤怒吧"
+    a "放弃解决不了任何问题。所以战斗吧，必要时就发怒。想办法爬到水面——"
 
 translate schinese_rewrite Amble_Patrol_Farm_5e464ca2:
 
-    "熊突然停止移动。"
+    "熊突然停下了动作。"
 
 translate schinese_rewrite Amble_Patrol_Farm_2f9d376a:
 
-    a "我比想象的早完成了那个!"
+    a "我比想象中更快完成了！"
 
 translate schinese_rewrite Amble_Patrol_Farm_ec659829:
 
-    a "接下来的少数需要更集中的注意力, 因为它们涉及实际感觉出 土地开发-- 即使是我教也很难教。"
+    a "接下来几个动作需要更集中注意力，因为要真正感受陆鲨——就连我也很难教别人这个。"
 
 translate schinese_rewrite Amble_Patrol_Farm_5019e043:
 
-    a "我们可以改天再谈,小朋友。"
+    a "小不点，我们改天再聊完吧。"
 
 translate schinese_rewrite Amble_Patrol_Farm_8653c8f4:
 
-    e "O -OK。"
+    e "好、好吧。"
 
 translate schinese_rewrite Amble_Patrol_Farm_758874ca:
 
-    "喜悦的巨人再次向你展示了 你从未想过的强度。你应该害怕吗?还是更尊重他?"
+    "这位快乐的巨人又一次展现出你从未想过他拥有的强烈一面。你该害怕吗？还是应该更加敬重他？"
 
 translate schinese_rewrite Amble_Patrol_Farm_80e485d2:
 
-    "很难说。那个叫你战斗直到死亡本身降临的人 正在用一根手指对着地板 在一个稻草人面前摇晃。"
+    "很难说。那个告诉你要战斗到死的人，此刻正用一根手指压着地面，在稻草人面前扭来扭去。"
 
 translate schinese_rewrite Amble_Patrol_Farm_548663ca:
 
-    "他有些不对劲,现在你知道了,你想知道更多。"
+    "他有些不对劲。现在你知道了，也想了解更多。"
 
 translate schinese_rewrite Amble_Patrol_Farm_6bd9e1bd:
 
-    "但是,现在,你必须满足自己 知道他关心你, 并有一个理论上的积极目标。"
+    "不过现在，你只能先满足于知道他在乎你，而且至少有一个理论上积极的目标。"
 
 translate schinese_rewrite Amble_Patrol_Farm_1f9a1fec:
 
-    "我的意思是,最糟糕的是什么 你可以做 当你的生活目标 是让人们笑。"
+    "毕竟，一个人生目标是让人微笑的人，最坏又能坏到哪里去？"
 
 translate schinese_rewrite Amble_Patrol_Farm_a20cefa7_1:
 
@@ -5387,11 +5387,11 @@ translate schinese_rewrite Amble_Patrol_Farm_a20cefa7_1:
 
 translate schinese_rewrite Amble_Patrol_Farm_b617aa58:
 
-    "几小时后,阿姆布完成教稻草人。"
+    "几个小时后，安布终于教完了稻草人。"
 
 translate schinese_rewrite Amble_Patrol_Farm_99778fde:
 
-    "大部分是不均衡的, 除了在这里和那儿的片刻, 他把你当作一个 学生的模拟训练榜样。"
+    "除此之外没发生什么大事，只有几次他把你当作示范用的训练人偶，教给他的学生看。"
 
 translate schinese_rewrite Amble_Patrol_Farm_9b5e1530:
 
@@ -5399,35 +5399,35 @@ translate schinese_rewrite Amble_Patrol_Farm_9b5e1530:
 
 translate schinese_rewrite Amble_Patrol_Farm_07adc02e:
 
-    "似乎Arty醒了 出来一下 你看到一个小木板 上面有玉米。"
+    "看起来阿蒂醒来后出来了一会儿，因为你看到一只小木盘，上面放着玉米。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e04650c8:
 
-    "有两张纸条 与它相提并论。"
+    "旁边还有两张纸条。"
 
 translate schinese_rewrite Amble_Patrol_Farm_2e209e32:
 
-    "一本写着: “对两位可爱的绅士来说,我帮我种田, 我把玉米留下。它不多, 但我可以保证,它是好东西, 以爱和关心来养大。”"
+    "其中一张写着：‘给两位帮我照看农场的可爱先生，这是我送的玉米。虽然不多，但我保证它们是用心照料、精心种出来的好东西。’"
 
 translate schinese_rewrite Amble_Patrol_Farm_08dd9408:
 
-    "接下来,你清楚地想到了Arty画的这张小脸:“如果你愿意接受我的提议,这就是我房子的方向。如果我对你的看法是对的,你会很开心的。”"
+    "下一张纸条上画着阿蒂画的小笑脸，显然是给你的：‘如果你什么时候想接受我的邀请，这里是我家的地址。如果我没猜错你的话，你一定会玩得很开心。’"
 
 translate schinese_rewrite Amble_Patrol_Farm_4bdd7fde:
 
-    "红红,你把一块玉米从桌子上拿下来, 把纸条塞进你的包里,你以后可能需要它。"
+    "你红着脸从桌上拿起一根玉米，把纸条塞进包里。以后也许用得上。"
 
 translate schinese_rewrite Amble_Patrol_Farm_d565e233:
 
-    "上面写着一个字条。"
+    "还有一张纸条附在旁边。"
 
 translate schinese_rewrite Amble_Patrol_Farm_03b9e3df:
 
-    "安布利带领你们继续巡逻 你们两个在吃阿蒂的玉米。"
+    "安布带你继续巡查，你们一边吃着阿蒂的玉米，一边随意聊着几句。"
 
 translate schinese_rewrite Amble_Patrol_Farm_fffb4829:
 
-    "它真的是好玉米。"
+    "这玉米确实很好吃。"
 
 translate schinese_rewrite Amble_Patrol_Farm_02a75b90:
 
@@ -5447,7 +5447,7 @@ translate schinese_rewrite Amble_Patrol_Farm_7d5437ca:
 
 translate schinese_rewrite Amble_Patrol_Farm_d9f870cb:
 
-    "即使他有时还是说不通。"
+    "尽管他有时还是让人摸不着头脑。"
 
 translate schinese_rewrite Amble_Patrol_Farm_3d91a2a7:
 
@@ -5455,35 +5455,35 @@ translate schinese_rewrite Amble_Patrol_Farm_3d91a2a7:
 
 translate schinese_rewrite Amble_Patrol_Farm_b677057a:
 
-    a "你玩得开心吗?"
+    a "所以，你玩得开心吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_2ae6d1ca:
 
-    "你花点时间想想今天。"
+    "你花了片刻回想这一天。"
 
 translate schinese_rewrite Amble_Patrol_Farm_4ac26754:
 
-    "没有什么事情要做,但是看到房子和人真好, 帮了大忙也很好。"
+    "虽然没做太多事，但看看房屋和人们也挺不错。能帮上忙也很好。"
 
 translate schinese_rewrite Amble_Patrol_Farm_e1e7cf90:
 
-    e "我不知道我是否玩得开心 但我很享受。"
+    e "我不知道算不算开心，但我确实很享受。"
 
 translate schinese_rewrite Amble_Patrol_Farm_19f6b646:
 
-    "很高兴终于有个人 喜欢和他一起巡逻。"
+    "安布朝你咧嘴一笑，终于有人喜欢和他一起巡查，他显得很高兴。"
 
 translate schinese_rewrite Amble_Patrol_Farm_46617245:
 
-    "熊跑到你身上 把你抱在熊的怀抱里。"
+    "熊跑到你身边，顺势把你拉进一个熊抱。"
 
 translate schinese_rewrite Amble_Patrol_Farm_8977bcf3:
 
-    a "真是个好消息,普尼朋友!"
+    a "这真是个好消息，小不点！"
 
 translate schinese_rewrite Amble_Patrol_Farm_81f41d02:
 
-    a "有一天你愿意再去巡逻吗?"
+    a "你以后还愿意再来巡查吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_bc3d0837:
 
@@ -5491,47 +5491,47 @@ translate schinese_rewrite Amble_Patrol_Farm_bc3d0837:
 
 translate schinese_rewrite Amble_Patrol_Farm_87d41023:
 
-    e "我想我会!"
+    e "我想我愿意！"
 
 translate schinese_rewrite Amble_Patrol_Farm_048feb75:
 
-    e "但现在,我应该去整理我的东西了,今天太辛苦了。"
+    e "不过现在，我该去整理一下东西了。今天真是漫长的一天。"
 
 translate schinese_rewrite Amble_Patrol_Farm_577a31b2:
 
-    "模糊点头。"
+    "安布老成地点了点头。"
 
 translate schinese_rewrite Amble_Patrol_Farm_f3c97dca:
 
-    a "它有。"
+    a "确实。"
 
 translate schinese_rewrite Amble_Patrol_Farm_64c39215:
 
-    a "一定要好好享受外面的生活!"
+    a "出去后记得好好享受！"
 
 translate schinese_rewrite Amble_Patrol_Farm_92ce049c:
 
-    "很难不笑不笑 周围的大摇摆。"
+    "有这个大块头在身边，实在很难不笑。"
 
 translate schinese_rewrite Amble_Patrol_Farm_030f98e7:
 
-    e "我试试,你也一样,好吗?"
+    e "我会的。你也一样，好吗？"
 
 translate schinese_rewrite Amble_Patrol_Farm_03ecf6e3:
 
-    a "总是,小朋友,总是。"
+    a "永远如此，小不点，永远如此。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_21885734:
 
-    a "普尼朋友,我有个小请求要请你帮个小忙。"
+    a "小不点，我想请你帮个小忙。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_571d09a5:
 
-    "安布利看着你 满眼都是甜甜和纯洁的眼神。"
+    "安布看着你，眼里满是甜蜜和天真。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_a84b8e8f:
 
-    "其实相当激烈。"
+    "其实，这事还挺严重的。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_8b0f1a4d:
 
@@ -5539,35 +5539,35 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_8b0f1a4d:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_fc3a40b6:
 
-    a "太棒了!"
+    a "太棒了！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_80ea9533:
 
-    "他紧紧拥抱你 把你抱在身边"
+    "他紧紧抱住你，带着你转起圈来。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_4e9cb60b:
 
-    "感觉很好,除了你肺里所有的空气 都被强力排出肺外"
+    "感觉很棒，只是你肺里的空气全被强行挤了出去。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_5ba17e85:
 
-    e "阿波,求你了,我喘不过气了。"
+    e "……安布……求你了……我喘不过气。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_94357036:
 
-    a "对不起,Puny朋友,我很高兴听到你能帮上忙。"
+    a "哦！抱歉，小不点，听说你愿意帮忙我太高兴了。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_1072b38d:
 
-    "他轻轻地把你放下来。"
+    "他轻轻把你放回地面。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_01280011:
 
-    a "这件事必须尽快完成 我忙着和洛特做这个。"
+    a "这件事必须尽快完成，而我一直忙着和洛哥处理事情，没时间做。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_b5382edf:
 
-    e "我可以花几天时间做吗?"
+    e "我花几天时间做完可以吗？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_658a2ef3:
 
@@ -5575,11 +5575,11 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_658a2ef3:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_a3378ef6:
 
-    a "最好不要,但理论上一切都会好起来的。"
+    a "最好不要，但理论上应该没问题。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_bf8f84fb:
 
-    "安布利咳嗽到手,然后伸直背部,将手放在背后,模仿一名军官。"
+    "安布先对着手咳嗽一声，然后挺直腰，把手背到身后，模仿军官的姿势。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_82c5f9fa:
 
@@ -5587,91 +5587,91 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_82c5f9fa:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_02a05f62:
 
-    a "经常有人必须去查查他们的数字 否则就会变成无害。"
+    a "隔一段时间，就得有人去清理它们的数量，或者用其他方式让它们失去威胁。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_3d8e499c:
 
-    e "山头经常攻击人还是什么?"
+    e "陆鲨经常攻击人之类的吗？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_2418ba39:
 
-    "安布列斯突然间想到他接下来要说的话。 结果发现这个问题可能比你想的要复杂得多。"
+    "安布停下来思考接下来该说什么。事实证明，这个问题可能比你想象的复杂。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_3ad05164:
 
-    a "不,不确切,虽然他们有时会。"
+    a "不，不能完全这么说，虽然它们有时确实会攻击人。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_c7e528c5:
 
-    a "他们是领土生物 攻击他们认为属于他们的人。"
+    a "它们是有领地意识的生物，会攻击任何闯入它们认定属于自己的地盘的东西。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_bbfeb8db:
 
-    e "那为什么他们有这么大的问题?"
+    e "那它们为什么会造成这么大的问题？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_5a8f07c7:
 
-    a "他们确实在境外打猎, 这样做,撕裂田地, 农民们工作如此辛苦, 很难照顾。"
+    a "嗯，它们确实会跑到领地外捕猎，也因此会毁掉农民辛苦耕作的田地。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_fa0c7b3d:
 
-    a "所以你才负责巡逻 驱赶那些本不该去的地方的 土匪"
+    a "所以，你的工作就是巡查这一带，把不该出现在这里的陆鲨赶走。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_4a55765d:
 
-    "轻轻的笑容, 走出他的军事印象 对他更随意,更亲切的自我。"
+    "安布微微一笑，收起军官腔，恢复了平时随和亲人的样子。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_f558aa5a:
 
-    a "我通常在空闲时间去那里做警卫..."
+    a "我平时有空就会去那边做些守卫工作……"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_2834983e:
 
-    "低调对他来说这和正常人的言语一样响亮。"
+    "安布俯身靠到你耳边，压低声音神秘兮兮地耳语——对他来说，这音量几乎和普通人说话一样大。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_7132bb9e:
 
-    a "但我现在得留在这里照顾这两个人。"
+    a "但现在我得留在这里照顾那两个家伙。你懂的，确保他们身体健康、精神饱满。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_e0e4a66d:
 
-    a "Anyways!"
+    a "总之！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_79e7d3c2:
 
-    "他从你身边走来,喊叫着,当他离你远走高飞,从附近的约格那里发出痛苦的吼叫,他显然在倾听谈话。"
+    "安布一边远离你一边大声喊道，附近偷听这段对话的乔格痛苦地叫了一声。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_f646e09a:
 
-    a "出去打猎一些土豪[e]!"
+    a "出去猎杀些陆鲨吧，[e]！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_a4c4caaf:
 
-    e "你叫我我的名字!"
+    e "你刚才叫我的名字！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_926d310b:
 
-    a "不知道你在说什么,Punny Friend."
+    a "不知道你在说什么，小不点。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_4a99c05c:
 
-    a "不管怎么说,谢谢你出去帮我做这个。"
+    a "不管怎样，谢谢你愿意出去帮我处理这件事。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_f12e1d39:
 
-    e "是的,你猜对了。"
+    e "好，交给我吧。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_1b1d1073:
 
-    e "但是,嗯,我该为你对付多少鲨鱼?"
+    e "不过，呃……你要我帮你处理多少只陆鲨？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_dc7986bd:
 
-    a "哦。对。"
+    a "哦，对。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_7e32cbe7:
 
-    a "我通常做的25美分,大概3点左右!"
+    a "就按我平时数量的八分之一吧，也就是大约三只！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_80357197:
 
@@ -5679,50 +5679,50 @@ translate schinese_rewrite Amble_Ask_Patrol_Task_80357197:
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_ab994785:
 
-    "你突然感到非常感激 他是个盟友 而不是敌人。"
+    "你突然非常庆幸他是盟友而不是敌人。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_301cccce:
 
     e "听、听起来不错！"
 translate schinese_rewrite Amble_Ask_Patrol_Task_ff7d9dac:
 
-    e "你怎么知道我真的打败了他们?"
+    e "你怎么知道我真的打败了它们？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_34a64cf9:
 
-    a "我信任你,但我知道,知道是镇上最好的消息来源。"
+    a "嗯，我相信你，不过……我会知道的。认识镇上最可靠的情报来源之一，自然有这种好处。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_8a05b5b9:
 
-    e "公平,我处理陆地鲨鱼后就回来！"
+    e "没问题。处理完这些陆鲨我就回来！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_bc1165af:
 
-    a "Puny Friend!"
+    a "小不点！"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_a518af79:
 
-    e "是吗?"
+    e "……怎么了？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_320b2166:
 
-    a "土地再次成为问题。"
+    a "陆鲨又开始成为问题了。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_e9c5ec9e:
 
-    e "我想你想让我再清理一遍?"
+    e "我是不是该再去清理它们？"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_02643c5e:
 
-    a "那会很有帮助的,小朋友。"
+    a "那会很有帮助，小不点。"
 
 translate schinese_rewrite Amble_Ask_Patrol_Task_40976935:
 
-    e "好吧,我来拿。"
+    e "好吧，我接下了。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_fba2453e:
 
-    e "我完成了山崩!"
+    e "我把陆鲨处理完了！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_7ad89eb8:
 
@@ -5730,11 +5730,11 @@ translate schinese_rewrite Amble_Report_Patrol_Task_7ad89eb8:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_a0153810:
 
-    a "我知道你还没打3分 一只小鸟一直在向我通报你的最新进展。"
+    a "我知道你还没打败三只。一直有只小鸟在告诉我你的进度。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_c77aa16b:
 
-    a "你能做到的 我相信你 普尼朋友 完成后再回来。"
+    a "你可以的，我相信你，小不点。完成后再回来。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_be06a96f:
 
@@ -5742,71 +5742,71 @@ translate schinese_rewrite Amble_Report_Patrol_Task_be06a96f:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_c2f510b5:
 
-    a "普尼朋友,我知道我数学不好 但我知道你没有打过3只鲨鱼。"
+    a "小不点，我数学虽然不好，但我知道你还没打败三只陆鲨。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_c784ed3a:
 
-    a "做完事后回来向我报告!"
+    a "完成后回来向我报告！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_0b672209:
 
-    a "啊 普尼朋友 我看到你和那些土匪的生意结束了！"
+    a "啊！小不点！我看得出来你已经处理完陆鲨了！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_1590dbe9:
 
-    e "你怎么知道?"
+    e "你怎么知道的？"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_13e9fc02:
 
-    a "有人一直向我通报你的最新进展。"
+    a "一直有人在向我汇报你的进度。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_a7013467:
 
-    "你... 你不会想那会有什么影响。"
+    "你……还是别去想这意味着什么了。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_fff2b4ae:
 
-    a "你也有一个人的表情 刚刚打过三条鲨鱼。"
+    a "你看起来也像刚和三只陆鲨打过一架。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_334c3d38:
 
-    e "这是什么样的表情?"
+    e "这是什么样子？"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_8baa9034:
 
-    "突然变成一个大笑脸 背后扇你一巴掌。"
+    "安布咧嘴一笑，拍了拍你的后背。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_9938a5f5:
 
-    a "累了,Puny朋友 累了,但满足了。"
+    a "累了，小不点。很累，但很满足。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_a0df4116:
 
-    "一边说一边说一边说着一个令人担忧的调皮笑脸, 一边在嘴唇上玩耍。"
+    "安布暂时停下话头，唇边浮起一个令人不安的淘气笑容。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_dbc79649:
 
-    a "鲁特也过来看看我们是否知道你在哪里。"
+    a "洛哥也来过，问我们知不知道你在哪里。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_3ebafa45:
 
-    e "你跟他说了什么?"
+    e "你告诉他什么了……？"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_c4d7c3d4:
 
-    "安布利抓了他的头的侧 片刻,好像试图回忆 发生了什么事。"
+    "安布挠了挠头，像是在努力回忆发生了什么。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_ffc29af7:
 
-    "如果他看起来不像是想 满口笑来笑的话 那会很有说服力的。"
+    "要不是他看起来正拼命忍住放声大笑的冲动，这话倒还挺有说服力。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_34e0e7f5:
 
-    a "啊,我刚刚告诉他我派你去执行危险的任务。"
+    a "啊，我就告诉他，我派你去执行一项危险任务了。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_f0066fa8:
 
-    a "他看起来正准备杀了我 说我们正要出去 立刻帮你。"
+    a "他看起来差点就要杀了我，说我们要立刻出发去帮你。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_dde7dcc3:
 
@@ -5822,7 +5822,7 @@ translate schinese_rewrite Amble_Report_Patrol_Task_1e9e8466:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_6300879a:
 
-    a "但是,如果有人问起,我什么都没说。"
+    a "不过，如果有人问起，我什么都没说。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_88f0a92c:
 
@@ -5834,31 +5834,31 @@ translate schinese_rewrite Amble_Report_Patrol_Task_bd7e5fed:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_ff59d46e:
 
-    a "他放松了 然后回到他老地方 当我们告诉你乔格在确保你安全的时候。"
+    a "我们告诉他乔格会确保你的安全后，他才放松下来，回到平时待的地方。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_1f5f4eb7:
 
-    j "而不是因为我没有先告诉他而对我大喊大叫。"
+    j "在他因为我没先告诉他这件事而冲我大喊之后，可不是这样。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_3a2a26c4:
 
-    a "对 我没在听 所以我忘了一切。"
+    a "对，就那件事。我当时没怎么听，所以全忘了。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_4665f189:
 
-    "在挖耳朵时装作是装的假象。"
+    "安布装作在掏耳朵。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_e0bb7efb:
 
-    a "不管怎么说,谢谢你把鲨鱼处理好!"
+    a "不管怎样，谢谢你帮忙处理那些陆鲨！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_692037b9:
 
-    a "我真的没有给你任何大奖赏。"
+    a "我其实没有什么丰厚的奖励给你。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_c6b5ba0e:
 
-    a "但有时冒险家就是这样的。"
+    a "但冒险者有时就是这样。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_30f0ec79:
 
@@ -5866,15 +5866,15 @@ translate schinese_rewrite Amble_Report_Patrol_Task_30f0ec79:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_25de6e38:
 
-    "安布利似乎真正是真心诚意的。"
+    "安布看起来是真心这么想的。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_cf9e64d5:
 
-    "你今天的确帮助了很多人 对付了那些山地人。"
+    "你今天处理陆鲨，确实帮助了很多人。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_b00144c3:
 
-    "你感觉更像英雄。"
+    "你感觉自己更像个英雄了。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_85e96f71:
 
@@ -5882,11 +5882,11 @@ translate schinese_rewrite Amble_Report_Patrol_Task_85e96f71:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_a8f345e8:
 
-    a "你又做了一次Puny Friend!"
+    a "你又做到了，小不点！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_16c0a1f1:
 
-    a "感谢您一直如此的好友!"
+    a "一如既往地谢谢你做我的好朋友！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_62cd4714:
 
@@ -5898,19 +5898,19 @@ translate schinese_rewrite Amble_Report_Patrol_Task_bec446f6:
 
 translate schinese_rewrite Amble_Report_Patrol_Task_b270a781:
 
-    "他把你放下,仍然微笑。"
+    "他依旧笑着把你放下。"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_9091b534:
 
-    a "也许吧,但我还是很感激!"
+    a "也许吧，但我还是很感激！"
 
 translate schinese_rewrite Amble_Report_Patrol_Task_09497927:
 
-    "他满怀赞美之情 只能脸红脸红。"
+    "面对他接连不断的夸赞，你除了脸红之外什么也做不了。"
 
 translate schinese_rewrite Amble_Dialogue_End_ebe727c3:
 
-    e "我认为现在仅此而已。"
+    e "我想暂时就这些了。"
 
 translate schinese_rewrite Amble_Dialogue_End_5faed9f2:
 
@@ -5918,51 +5918,51 @@ translate schinese_rewrite Amble_Dialogue_End_5faed9f2:
 
 translate schinese_rewrite Amble_Dialogue_End_849b2aab:
 
-    a "不需要,谢谢你也抽出时间来。"
+    a "不用客气，也谢谢你愿意抽时间陪我。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_cff65d3d:
 
-    e "嘿,乔格,你觉得小精灵怎么样?"
+    e "嘿，乔格，你怎么看豺狼人？"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_c5e01851:
 
-    j "什么?[e]？"
+    j "什么……豺狼人？[e]，你问这个，是因为我看起来像豺狼人吗？"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_90c3d4e3:
 
-    e "我只是想知道你怎么看他们,因为..."
+    e "不、不！我只是想知道你怎么看他们。毕竟……你知道，我们住得离他们很近。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_1bd0da0a:
 
-    j "我不怎么想他们,他们对我来说只是野外的另一种生物。"
+    j "哦。嗯，我不太会去想他们。对我来说，他们只不过是荒野里的另一种生物。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_6f96978b:
 
-    j "他们不是真的我喜欢的人 这么说吧。"
+    j "他们不太算是我喜欢的那类人，就这么说吧。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_becb3a19:
 
-    j "但是我知道他们通常一起猎杀 由一个领袖领导 而其余的分散在平原上。"
+    j "不过……我知道他们通常会在首领带领下一起狩猎，其余成员则分散在平原上。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_30874436:
 
-    e "有意思,你觉得他们有时会听什么声音吗?"
+    e "有意思，你觉得他们有时会跟随某种声音吗？"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_ab8f576d:
 
-    "乔格看着你时 眼神都睁着眼。"
+    "乔格看着你，眼睛微微眯了起来。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_2d211da7:
 
-    j "听着 [e] 我知道笛子出了什么事 你可以用笛声吸引那些小精灵。"
+    j "听着，[e]。我知道那支笛子发生了什么，你可以用笛声吸引那些豺狼人，但现在已经不管用了。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_5dfc7fe6:
 
-    j "如果你想拿的话,我反正自己拿了那个东西。"
+    j "你想要的话就拿去吧，反正那东西本来就是我自己偷来的。"
 
 translate schinese_rewrite Jog_Ask_About_Gnolls_8dc63a3b:
 
-    "至少他似乎不知道你从笛子里看到了什么..."
+    "你松了口气，至少他似乎不知道你从笛子上看到了什么……"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_1727673b:
 
@@ -5970,7 +5970,7 @@ translate schinese_rewrite Lothar_Ask_About_Gnolls_1727673b:
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_4455cee3:
 
-    l "Gnolls!在哪里?"
+    l "豺狼人！在哪儿？"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_ae3314d9:
 
@@ -5978,32 +5978,31 @@ translate schinese_rewrite Lothar_Ask_About_Gnolls_ae3314d9:
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_bdfdbfaa:
 
-    e "不,不是在这里,只是一般而言。"
+    e "不，不是说这里。只是泛泛而谈。"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_19bd7f21:
 
-    l "这些邪恶的生物必须全部被打败 把他们从地图上抹去 我们不能让他们在平原上自由漫步！"
+    l "呼……这些邪恶的生物必须全部消灭，把它们从地图上抹去！不能让它们在平原上自由游荡！"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_423ba927:
 
     e "冷静下来,洛萨尔,他们没那么坏。"
-
 translate schinese_rewrite Lothar_Ask_About_Gnolls_75685291:
 
-    l "还不坏,他们是卑鄙的,恶心的动物 给每个人带来危险,比土匪还糟糕!"
+    l "没那么严重？它们是卑鄙、恶心、会给所有人带来危险的生物，比强盗还糟糕！"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_a658f5c1:
 
-    e "我不认为他们比土匪还差 他们只是喜欢玩耍。"
+    e "我不觉得它们比强盗更糟……它们只是喜欢玩闹。"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_bb826e7c:
 
-    e "但是,你打算怎么做 阻止他们,如果你... 打算?"
+    e "不过，如果你……打算阻止它们，你准备怎么做？"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_98c3464f:
 
-    l "我还有更重要的事要做 徒弟 他们只是我的英雄事业的麻烦。"
+    l "什、什么？呃……我……我还有更重要的任务要处理，门徒。它们不过是我英雄事业中的小麻烦。"
 
 translate schinese_rewrite Lothar_Ask_About_Gnolls_1429c7ce:
 
-    e "对..."
+    e "好吧……"

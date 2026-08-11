@@ -3,431 +3,431 @@
 
 translate schinese_rewrite Split_Trail_Loop_0b620d89:
 
-    "你碰到草丛下的一个胡萝卜植物。"
+    "你在草丛下发现了一株胡萝卜。"
 
 translate schinese_rewrite Split_Trail_Loop_17da5b77:
 
-    "你拿了胡萝卜 工厂几小时后可能会补充。"
+    "你捡起一根胡萝卜，这株植物大概几小时后就会重新长出来。"
 
 translate schinese_rewrite Split_Trail_Loop_d90591c2:
 
-    "工厂里好像没有胡萝卜 也许晚点再来..."
+    "这株植物里似乎没有胡萝卜，也许晚些时候再来看看……"
 
 translate schinese_rewrite Split_Trail_Loop_9b2f2b1b:
 
-    "你不确定... 你是否应该带着手中的花离开。"
+    "你不太确定……是否该带着手里的花离开。"
 
 translate schinese_rewrite Split_Trail_Loop_2dd49d8c:
 
-    msg "您是否想要离开此区域, 地牢状态将无法保存。"
+    msg "你要离开这里吗？地牢的状态不会被保存。"
 
 translate schinese_rewrite Split_Trail_Loop_a878fa1e:
 
-    "仔细读读这个标志 你注意到在标志的角落里 隐藏了几条线。"
+    "你仔细阅读告示牌，注意到牌子角落里藏着几行字……"
 
 translate schinese_rewrite Split_Trail_Loop_1e81db67:
 
-    "它说..."
+    "上面写着……"
 
 translate schinese_rewrite Split_Trail_Loop_057b2615:
 
-    "要接受猎人的弓, 必须把桶子放在 真正的胡萝卜周围,{i}{/i}"
+    "{i}想得到猎人的弓，就必须在真正的胡萝卜四周和四角摆放木桶……{/i}"
 
 translate schinese_rewrite Split_Trail_Loop_b5709d4d:
 
-    "牌子附近的胡萝卜植物突然抽搐。"
+    "告示牌旁的胡萝卜植株突然抽搐起来……"
 
 translate schinese_rewrite Split_Trail_Loop_808f81da:
 
-    "从胡萝卜树上滴下猎弓 感谢那些送礼物的人 把它捡起来。"
+    "一把猎弓从胡萝卜植株中掉了出来。你向赐予你这份礼物的人道谢，然后把它捡了起来。"
 
 translate schinese_rewrite Split_Trail_Loop_3ec1d6c4:
 
-    "看来你已经拥有了弓 灌木慢慢停止抽搐。"
+    "看来你已经拥有这把弓了，灌木慢慢停止了抽搐……"
 
 translate schinese_rewrite Split_Trail_Loop_56bc5980:
 
-    "文字下面似乎有东西 或许你应该晚点回来... 在参观洞穴之后。"
+    "字迹下面似乎还藏着什么，也许你该在拜访洞窟后……过一阵子再回来看看。"
 
 translate schinese_rewrite Split_Trail_Loop_509dcf5e:
 
-    "你手里的鲜花..."
+    "手中的花枯萎了……"
 
 translate schinese_rewrite Split_Trail_Loop_cc558204:
 
-    "地上有一朵花。"
+    "地上……有一朵花。"
 
 translate schinese_rewrite Split_Trail_Loop_f093c0a7:
 
-    "你注意到灌木丛挡住了你前面的通道..."
+    "你注意到灌木挡住了前方的小路……"
 
 translate schinese_rewrite Split_Trail_Loop_08d1e649:
 
-    "灌木丛中间有幅小画..."
+    "灌木中央有一幅小小的图画……"
 
 translate schinese_rewrite Split_Trail_Loop_bb0ec76a:
 
-    "花朵和锅里的东西?"
+    "某种东西……花。还有某种东西……在罐子里？"
 
 translate schinese_rewrite Split_Trail_Loop_e4bc7423:
 
-    "你快点把画放回去 也许有东西可以清除这灌木丛。"
+    "你赶紧把图画放回原处，也许有什么东西能移开这片灌木。"
 
 translate schinese_rewrite Split_Trail_Loop_6fbeccd5:
 
-    "你进入分道东北。"
+    "你进入了分岔小径的东北方。"
 
 translate schinese_rewrite Split_Trail_Loop_9b2f2b1b_1:
 
-    "你不确定... 你是否应该带着手中的花离开。"
+    "你不太确定……是否该带着手里的花离开。"
 
 translate schinese_rewrite Split_Trail_Loop_1635364a:
 
-    "你伸入前面的通道 似乎通往森林深处..."
+    "你走上前方的小路，它似乎通向森林更深处……"
 
 translate schinese_rewrite Split_Trail_Loop_5a996af5:
 
-    "你走一步... 最终,你注意到前面有一口老井..."
+    "你沿着这条路走……最终注意到前方有一口老井……"
 
 translate schinese_rewrite Split_Trail_Loop_d89d2071:
 
-    "你走进了阴凉的井里。"
+    "你走进了这口沉寂的井。"
 
 translate schinese_rewrite Split_Trail_Loop_9b2f2b1b_2:
 
-    "你不确定... 你是否应该带着手中的花离开。"
+    "你不太确定……是否该带着手里的花离开。"
 
 translate schinese_rewrite Split_Trail_Loop_1635364a_1:
 
-    "你伸入前面的通道 似乎通往森林深处..."
+    "你走上前方的小路，它似乎通向森林更深处……"
 
 translate schinese_rewrite Split_Trail_Loop_dac3171f:
 
-    "你走一步... 最终,你看到前面有个洞穴..."
+    "你沿着这条路走……最终看到前方有一座洞窟……"
 
 translate schinese_rewrite Split_Trail_Loop_58eda9c8:
 
-    "你走向洞穴入口..."
+    "你朝洞窟入口走去……"
 
 translate schinese_rewrite Split_Trail_Loop_52786787:
 
-    "草地上有大麻..."
+    "草地上有一个罐子……"
 
 translate schinese_rewrite Split_Trail_Loop_942390d6:
 
-    "似乎一条路已经打开了..."
+    "似乎有一条路解锁了……"
 
 translate schinese_rewrite Split_Trail_Werewolf_7b7a5e55:
 
-    "当你穿过森林时,你遇到了一个狼人。"
+    "你穿过森林时，遇到了一只狼人。"
 
 translate schinese_rewrite Split_Trail_Werewolf_aa740c79:
 
-    "立刻,你开始向相反的方向跑去 但很快你就会看到一个黑暗的人物。"
+    "你立刻开始朝相反方向跑去，但很快，一个黑影映入眼帘。"
 
 translate schinese_rewrite Split_Trail_Werewolf_f7dd4053:
 
-    e "操..."
+    e "该死……"
 
 translate schinese_rewrite Split_Trail_Caproot_0b620d89:
 
-    "你碰到草丛下的一个胡萝卜植物。"
+    "你在草丛下发现了一株胡萝卜。"
 
 translate schinese_rewrite Split_Trail_Caproot_4f2b7598:
 
-    "当你捡起胡萝卜时 似乎需要更多力量才能拔出。"
+    "你捡起胡萝卜时，发现它需要比平时更大的力气才能拔出来。"
 
 translate schinese_rewrite Split_Trail_Caproot_3daaa82a:
 
-    "你用你身体的力量拉起胡萝卜 只会让泥巴倒地。"
+    "你使出全身力气把胡萝卜拔了出来，却笨拙地摔倒在地。"
 
 translate schinese_rewrite Split_Trail_Caproot_4aef5d77:
 
-    "当你抬头看,你只看到胡萝卜开始自作自受... 它绝对不是胡萝卜。"
+    "你抬头一看，只见胡萝卜开始伸展开来……它绝对不是胡萝卜。"
 
 translate schinese_rewrite Split_Trail_Caproot_827cb48b:
 
-    "树根怪兽现在几乎比你大两倍... 你需要保护自己。"
+    "卡普鲁特怪物现在几乎有你的两倍大……你得保护好自己。"
 
 translate schinese_rewrite Chelforte_Cavern_Enter_ebd85903:
 
-    "洞穴的入口现在似乎被封锁了。"
+    "洞穴的……入口暂时似乎被堵住了……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_88c40028:
 
-    "你跳进水里 迅速离开洞穴..."
+    "你跳进水里，迅速离开了洞穴……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_9cdb018f:
 
-    "回头看 沃尔登和武罗还在工作 得快点回来才能回来。"
+    "你回头看去，伍尔顿和伏罗还在工作，你得赶紧回去和他们会合。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_c4ff8585:
 
-    "在洞穴尽头的墙上发现一个小洞。从山洞倒塌后的一小堆岩石的脚看,洞穴被暴露出来。"
+    "你在洞窟尽头的墙上发现了一个小洞，位置大约在墙壁中段。看洞口下方那小堆石头，应该是洞窟坍塌后才露出来的。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_e6d22e0b:
 
-    msg "工作在进行中!"
+    msg "施工中！"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_499a581c:
 
-    "附近还有怪物,你决定 最好不要让自己被困住 而鼻涕虫..."
+    "附近还有怪物，你决定最好别让自己困在这里，免得那些诺斯费拉图……在洞窟里挥舞着肉块。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_717f859c:
 
-    "决定你暂时不应该进去 你转身继续探险一段时间。"
+    "你决定暂时不进去，于是转身继续探索了一会儿。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_3dc67d59:
 
-    "你看着你面前的废墟..."
+    "你看着面前的瓦砾……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_a28bc05d:
 
-    "看来你根本穿不透它。"
+    "看起来你根本挤不过去。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_4002b44e:
 
-    "你试着看看费拉尔狼人 与你遇到的普通狼人大不相同。"
+    "你试着看清那只狂野狼人……它和你遇到过的普通狼人截然不同……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_9de04ace:
 
-    "你面前的怪物 脸上缺乏同情心 只有野生的本能。"
+    "面前的怪物脸上没有一丝怜悯……只有野兽般的本能。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_cf0329a9:
 
-    "你记得沃顿告诉你他的过去吗? 看见他这样的男人的无生命的光芒 只会给你带来悲伤和悔恨..."
+    "你想起伍尔顿曾告诉过你的过去……如今看到一个和他相似、只剩下空壳的人，不禁感到悲伤与悔恨……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_77d72b5d:
 
-    "不管他是谁 现在都无所谓了。"
+    "不管他曾经是谁，现在都不重要了。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_bccb361f:
 
-    "野兽的叫声。"
+    "野兽发出长嚎。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_c3797b68:
 
-    "它全力冲向你 没时间思考了..."
+    "它全力向你冲来，现在已经没时间思考了……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_32931211:
 
-    "自从你上次拜访洞穴后 入口就被密封了。"
+    "自从你上次来时发生塌方，洞口就一直被严严实实地封住……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_7c732532:
 
-    "你看着前面的紧密洞 你注意到瓦砾的另一边有个动画..."
+    "你看着面前狭窄的洞口，注意到瓦砾另一侧有个身影在移动……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_721bf256:
 
-    "你面前的洞太小了 无法穿透。"
+    "面前的洞口太小，你钻不过去。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_13094814:
 
-    "也许... 如果你有足够的灵活性, 你可以穿过洞..."
+    "也许……如果你的敏捷足够高，就能钻过这个洞……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_cd2e94dc:
 
-    "但是,非常可能你 被困在洞里, 而这个数字正在接近你。"
+    "但那个身影正朝你逼近，你很可能会卡在洞里。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_63ec601c:
 
-    "你爬进紧闭的洞里 呼出你体内的所有空气。"
+    "你爬进狭窄的洞口，呼出体内所有的空气……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_8a600863:
 
-    "无论你呼吸了多少, 你很快就会意识到 你无法做到。"
+    "不管你怎么呼吸，很快还是意识到自己撑不住了。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_8a074efa:
 
-    "为了逃跑 你失去了30个健康。"
+    "为了逃出去，你损失了30点生命值。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_001621ee:
 
-    "幸运的是,你逃脱了无伤大雅 但你相信,如果你再试一次,你可以做到。"
+    "幸运的是，你毫发无伤地逃了出来，但你觉得……也许再试一次就能钻进去。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_e3c61ec7:
 
-    "你挺过来的,很容易。"
+    "你相当轻松地钻了过去。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_dbd7a24f:
 
-    "很快,你就在洞的另一边, 没有数字的注意。"
+    "很快，你来到了洞口另一侧，没有被那个身影发现。"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_c55d1030:
 
-    "洞穴入口似乎被封锁了..."
+    "洞穴入口似乎被堵住了……"
 
 translate schinese_rewrite Chelforte_Cavern_Loop_2dd49d8c:
 
-    msg "您是否想要离开此区域, 地牢状态将无法保存。"
+    msg "你要离开这里吗？地牢的状态不会被保存。"
 
 translate schinese_rewrite Chelforte_Discovery_6cc9490e:
 
-    "洞太高了,你无法轻易到达。"
+    "这个洞口有点太高了，你很难轻易够到。"
 
 translate schinese_rewrite Chelforte_Discovery_b74e38d1:
 
-    "尽管如此,你还是鼓起勇气 跳上大门。"
+    "尽管如此，你还是鼓起勇气，跃向洞口。"
 
 translate schinese_rewrite Chelforte_Discovery_c6111082:
 
-    "当你的手抓住隧道的嘴时, 你感到它开始在你的体重下倾斜。"
+    "你的双手抓住隧道口时，感觉它在你的重量下开始松动。"
 
 translate schinese_rewrite Chelforte_Discovery_62ae172c:
 
-    "被压扁了,你开始往上爬 一半的半速跳进隧道里。"
+    "你惊慌地开始向上攀爬，一边把自己往上拉，一边借力跃入隧道。"
 
 translate schinese_rewrite Chelforte_Discovery_95f5d601:
 
-    "隧道的嘴要宽一点 毕竟说完做完了 但你已经进来了。"
+    "一切结束后，隧道口明显宽敞了不少，但你总算进来了。"
 
 translate schinese_rewrite Chelforte_Discovery_a1f4d607:
 
-    "洞穴里面似乎已经松开了一些岩石。仔细看,可以看到下面的石头有毛线裂缝, 洞穴里留下的震动造成的骨折。"
+    "塌方似乎让这里的一些岩石变得松动。仔细看去，你能看到脚下石头上的发丝般细纹——那是塌方震动留下的裂痕。"
 
 translate schinese_rewrite Chelforte_Discovery_6cf30ec1:
 
-    "幸运的是,你上面的岩石看起来很稳定 很明显不受那些岩石的影响 并且很容易撞上坠机。"
+    "幸运的是，你上方的岩石看起来非常稳固，显然没有受到任何导致下方岩石易于塌落的影响。"
 
 translate schinese_rewrite Chelforte_Discovery_5d429dd0:
 
-    "隧道的对角向下,一个小小东西。 当你走过日益幽闭的恐惧隧道时, 你开始注意到一个温柔的蓝色的光芒 从你面前发出来。"
+    "隧道斜向下延伸，短短一段而已。你沿着越来越令人窒息的隧道向下走时，开始注意到前方透来柔和的蓝光。"
 
 translate schinese_rewrite Chelforte_Discovery_2bc3aa10:
 
-    "当你最终从洞的另一边出来时, 你会发现自己身处一个大洞穴, 一片完全黑色的天花板,上面有苔, 但是屋顶上有晶体, 温柔地反射着从池塘里到房间另一端的蓝光。"
+    "当你终于从洞口另一侧钻出来时，发现自己置身于一座宽阔的洞窟中。布满苔藓的穹顶一片漆黑，唯有顶部的水晶在房间另一头池塘的蓝光映照下，隐隐闪烁。"
 
 translate schinese_rewrite Chelforte_Discovery_92d2131d:
 
-    "尽管你深陷地下,但你还是觉得你在看着夜空。这是一个令人迷惑的景象,在晶体中不停地跳着灯光。"
+    "尽管身处地下深处，你却仿佛在仰望夜空。这景象令人着迷，水晶中的光芒不停跃动。"
 
 translate schinese_rewrite Chelforte_Discovery_ac2d3b06:
 
-    "走出迷茫 走向光明之源。"
+    "你从恍惚中回过神来，朝光源走去。"
 
 translate schinese_rewrite Chelforte_Discovery_60c676f7:
 
-    "正如你们所想的,洞口尽头的水能发出光芒。无论水本身,还是其中的微小生物,你都不能知道。"
+    "正如你所想，洞穴尽头的水在发光。你无法判断究竟是水本身，还是其中某种微小生物发出的光。"
 
 translate schinese_rewrite Chelforte_Discovery_54adc15a:
 
-    "你应该去向武罗和沃登报告。"
+    "你应该去把这件事报告给伏罗和伍尔顿。"
 
 translate schinese_rewrite Chelforte_Discovery_854a09b9:
 
-    "向墙上的洞走去,你意识到你犯了一个小错误。 很容易从隧道下去。无法反言。"
+    "你朝墙上的洞口走去，这才意识到自己犯了个小错误。下隧道相当容易，可往上就不是那么回事了。"
 
 translate schinese_rewrite Chelforte_Discovery_3959010e:
 
-    "当你试图回到洞里时 尽管这样,你很快会发现自己被困住了。"
+    "尽管如此，你还是试着往洞里退，却很快发现自己卡住了。"
 
 translate schinese_rewrite Chelforte_Discovery_c59ca116:
 
-    "你试图向后退,从隧道后退, 但发现你无法, 当岩石向下推 向你的侧面, 让你的手臂找到很少的买家 推倒自己。"
+    "你试着向后退，想从隧道里退出来，却发现自己动弹不得：岩石从两侧压住你，让你的手臂几乎找不到借力向后推的位置。"
 
 translate schinese_rewrite Chelforte_Discovery_d930a4d2:
 
-    "在那一刻,你意识到你在哪里。"
+    "就在那一刻，你意识到自己身处何处。"
 
 translate schinese_rewrite Chelforte_Discovery_62cec831:
 
-    "被困在洞穴里的一个小隧道里 洞穴里容易有洞穴。"
+    "你被困在一座容易塌方的洞窟里一条狭小的隧道中。"
 
 translate schinese_rewrite Chelforte_Discovery_86b23af6:
 
-    "突然间,小刺 石头刺在你皮肤上 不再那么不重要。"
+    "突然，原本不值一提的碎石轻轻扎进皮肤的刺痛，也不再那么无关紧要。"
 
 translate schinese_rewrite Chelforte_Discovery_2ada0d44:
 
-    "空间的匮乏, 以至于你的手臂被困住, 让你的呼吸振奋起来, 当你与上升的恐慌感战斗。"
+    "空间狭窄得连手臂或脑袋都被卡住，让你在不断涌起的恐慌中呼吸越来越急促。"
 
 translate schinese_rewrite Chelforte_Discovery_b2bcf265:
 
-    "你被困住了,没有其他办法 你开始为沃罗和沃登大喊大叫。"
+    "你就这样被困着，别无他法，只能开始大声呼喊伏罗和伍尔顿。"
 
 translate schinese_rewrite Chelforte_Discovery_a8e781cf:
 
-    "很快,你听到远足的回声 逐渐地在附近成长。"
+    "很快，你听见远处的脚步声越来越近，回音在隧道中荡开。"
 
 translate schinese_rewrite Chelforte_Discovery_592c6690:
 
-    w "-ne?!"
+    w "——？！"
 
 translate schinese_rewrite Chelforte_Discovery_1d8aed5b:
 
-    e "我在这里,在墙上的洞里!"
+    e "我在这里！墙上的洞里！"
 
 translate schinese_rewrite Chelforte_Discovery_7a79c259:
 
-    "你的声音在耳边耳聋, 从隧道墙上回响。"
+    "你的声音在耳边震耳欲聋，回荡在隧道壁间。"
 
 translate schinese_rewrite Chelforte_Discovery_5831190e:
 
-    "听到你的声音后,靴子走得更快, 直到它们只停在你头上几英尺。"
+    "听到你的声音后，那双靴子的主人加快脚步，直到停在你头顶上方几英尺处。"
 
 translate schinese_rewrite Chelforte_Discovery_7be847b6:
 
-    w "你安全吗,小家伙?"
+    w "小家伙，你还安全吗？！"
 
 translate schinese_rewrite Chelforte_Discovery_f1ed9578:
 
-    "你从没听说狼人这么害怕过 他听起来很担心。"
+    "你从没听过这只狼人如此害怕；他的声音几乎因担忧而陷入恐慌。"
 
 translate schinese_rewrite Chelforte_Discovery_d6a70a0b:
 
-    e "嘴里满是泥土,我被困在洞里,否则,我没事。"
+    e "呜呜。嘴里全是泥，而且我卡在洞里了。除此之外，我没事。"
 
 translate schinese_rewrite Chelforte_Discovery_de3eff2f:
 
-    w "没有迫在眉睫的危险吗?"
+    w "没有迫在眉睫的危险？"
 
 translate schinese_rewrite Chelforte_Discovery_879634cc:
 
-    e "不。"
+    e "没有。"
 
 translate schinese_rewrite Chelforte_Discovery_68802571:
 
-    "你从你的上面听到了一种愤怒的叹息。"
+    "你听见头顶传来一声无奈的叹息。"
 
 translate schinese_rewrite Chelforte_Discovery_2a874f44:
 
-    w "别再吓唬我了。"
+    w "请别再这样吓我了。"
 
 translate schinese_rewrite Chelforte_Discovery_deb1149f:
 
-    "你对此无话可说。"
+    "对此你无话可说。"
 
 translate schinese_rewrite Chelforte_Discovery_0842ff34:
 
-    w "你身处险境吗?"
+    w "你有危险吗？"
 
 translate schinese_rewrite Chelforte_Discovery_e83f6bf0:
 
-    e "不是任何直接的危险,不是。"
+    e "暂时没有。"
 
 translate schinese_rewrite Chelforte_Discovery_b92dc53d:
 
-    w "很好。"
+    w "那就好。"
 
 translate schinese_rewrite Chelforte_Discovery_9e33da31:
 
-    w "我猜你被卡住了?"
+    w "我猜你只是被卡住了？"
 
 translate schinese_rewrite Chelforte_Discovery_09d52514:
 
-    "你试着扭动你的手臂, 并再次发现你的空间太小了 你甚至不能稍微调整一下。"
+    "你试着扭动手臂，却再次发现空间太小，甚至无法稍微调整姿势。"
 
 translate schinese_rewrite Chelforte_Discovery_f6e7974a:
 
-    e "是的,但真的很不舒服 你能帮我出去吗?"
+    e "是，但真的很不舒服。你能想办法把我弄出来吗？"
 
 translate schinese_rewrite Chelforte_Discovery_1978becf:
 
-    w "有可能把你挖出来 但需要一段时间。"
+    w "可以把你挖出来，但会花点时间。"
 
 translate schinese_rewrite Chelforte_Discovery_c0e17316:
 
-    v "我们可以把他留在下面一段时间 看看他有没有学过。"
+    v "我们也可以先把他留在下面一会儿，看看他能不能吸取教训。"
 
 translate schinese_rewrite Chelforte_Discovery_4b91c5d5:
 
@@ -435,159 +435,159 @@ translate schinese_rewrite Chelforte_Discovery_4b91c5d5:
 
 translate schinese_rewrite Chelforte_Discovery_d15f6b5e:
 
-    "从你上面那无聊的乌龟来看 沃尔登似乎也向武罗 表明了他的想法。"
+    "从你头顶传来的沉闷撞击声判断，伍尔顿似乎已经明确表达了他对这个主意的看法。"
 
 translate schinese_rewrite Chelforte_Discovery_d978df91:
 
-    v "我开玩笑的,当然我不会把他丢在这里。"
+    v "我开玩笑的，当然不会把他留在下面。"
 
 translate schinese_rewrite Chelforte_Discovery_0a506840:
 
-    w "这就是为什么我轻轻地打你。"
+    w "所以我才只是轻轻敲你。"
 
 translate schinese_rewrite Chelforte_Discovery_f605e5d0:
 
-    e "嘿,你们能等会再吵吗?"
+    e "喂，你们俩能不能之后再斗嘴？我现在真的很想出去！"
 
 translate schinese_rewrite Chelforte_Discovery_731cb499:
 
-    "你几乎可以感觉到他们俩从上面俯视你。"
+    "短暂的沉默后，你几乎能感觉到他们俩从上方低头看着你。"
 
 translate schinese_rewrite Chelforte_Discovery_e22ba4a8:
 
-    w "也许我们应该把他留在这里。"
+    w "也许我们该把他留在这里。"
 
 translate schinese_rewrite Chelforte_Discovery_ff8c49a6:
 
-    e "请不要。"
+    e "别这样。"
 
 translate schinese_rewrite Chelforte_Discovery_12bab30b:
 
-    "你听到隧道外的软鼻涕声。"
+    "你听见隧道外传来一声轻轻的哼气。"
 
 translate schinese_rewrite Chelforte_Discovery_785935a7:
 
-    w "好吧,好吧,我们会带你出去的。"
+    w "好吧，好吧。我们这就把你弄出来。"
 
 translate schinese_rewrite Chelforte_Discovery_716cc667:
 
-    w "让我们先拿一下铲子——这里的地面似乎足够松散,很容易把你挖出来。"
+    w "等我们一下，先拿铲子——这里的地面似乎很松，应该很容易就能把你挖出来。"
 
 translate schinese_rewrite Chelforte_Discovery_9f09bd66:
 
-    e "请你留下好吗 我不想一个人呆在这里。"
+    e "你能留下来吗？我不想一个人被留在下面。"
 
 translate schinese_rewrite Chelforte_Discovery_c83a13e1:
 
-    w "好吧,我坐你隧道旁边。"
+    w "……好吧。我坐在隧道旁陪你。"
 
 translate schinese_rewrite Chelforte_Discovery_0a4b1a09:
 
-    "你听到一个静静的移动的声音, 然后是狼人坐下来时的软软的捕鲸声。"
+    "你听见轻微的挪动声，接着传来一声轻响，狼人坐了下来。"
 
 translate schinese_rewrite Chelforte_Discovery_70496631:
 
-    w "抱歉打扰你,武罗,但你能..."
+    w "伏罗，麻烦你一下，不过你能不能——"
 
 translate schinese_rewrite Chelforte_Discovery_ac37fc8b:
 
-    v "别担心,我去拿铲子。"
+    v "别担心，我去拿铲子。"
 
 translate schinese_rewrite Chelforte_Discovery_333d60a7:
 
-    "听说另一个狼人的脚步越来越遥远了 很快就只有你和沃顿了。"
+    "你听见另一只狼人的脚步声渐渐远去。很快，这里只剩下你和伍尔顿。"
 
 translate schinese_rewrite Chelforte_Discovery_580403c9:
 
-    "你们谁也别说,尽管如此,你们还是觉得安全多了。你们可以听到沃尔登的呼吸,他运动的微小震动。"
+    "你们谁也没有说话。尽管如此，你感觉安全多了。你能听见伍尔顿的呼吸，以及他动作时发出的细微窸窣声。"
 
 translate schinese_rewrite Chelforte_Discovery_0738f19a:
 
-    "你知道他在这里,他为你保持警惕。"
+    "你知道他就在这里，也知道他正警醒地守着你。"
 
 translate schinese_rewrite Chelforte_Discovery_0fe4f290:
 
-    "在你意识到之前 武罗已经拿起铲子回来了。"
+    "你还没反应过来，伏罗已经带着铲子回来了。"
 
 translate schinese_rewrite Chelforte_Discovery_30f9e4e5:
 
-    "你听到有人要找到铲子的脚步声了。"
+    "你听见有人去找铲子的脚步声。"
 
 translate schinese_rewrite Chelforte_Discovery_5cbb563f:
 
-    v "我决定留下来,确保你没事。"
+    v "嘿。我决定留下来，确保你能平安出来。"
 
 translate schinese_rewrite Chelforte_Discovery_b1115493:
 
-    e "你现在不是应该和沃尔登在一起吗?"
+    e "你现在不是应该和伍尔顿在一起吗？"
 
 translate schinese_rewrite Chelforte_Discovery_6a3c6911:
 
-    "你明显感觉到 武罗在挥手 完全无视思想。"
+    "你明显感觉到伏罗挥了挥手，直接把这个念头否定了。"
 
 translate schinese_rewrite Chelforte_Discovery_bceb1302:
 
-    v "他会给我拿铲子。"
+    v "他会替我拿铲子的。"
 
 translate schinese_rewrite Chelforte_Discovery_89b5ed4c:
 
-    "你们两个在尴尬的寂静中等待 你感觉有块石头挖进你的胃里。"
+    "你们俩在尴尬的沉默中等待。你感觉有块石头硌着肚子。"
 
 translate schinese_rewrite Chelforte_Discovery_5589205c:
 
-    v "下面舒服吗?"
+    v "你在下面还舒服吗？"
 
 translate schinese_rewrite Chelforte_Discovery_9e175e04:
 
-    e "不,我很想离开这里,如果我说的是实话的话。"
+    e "不。我说实话，我更想赶紧离开这里。"
 
 translate schinese_rewrite Chelforte_Discovery_9adc788b:
 
-    v "你会在下面待一会儿 介意我问你一个严肃的问题吗?"
+    v "嗯，你还要在下面待一会儿。介意我问你个严肃的问题吗？"
 
 translate schinese_rewrite Chelforte_Discovery_09d94b0f:
 
-    v "我想多了解一下 救了我的人。"
+    v "我想更多了解一下那个救了我的人。"
 
 translate schinese_rewrite Chelforte_Discovery_45808c0c:
 
-    e "当然,我不明白为什么不。"
+    e "当然，我没理由拒绝。"
 
 translate schinese_rewrite Chelforte_Discovery_616a093e:
 
-    "如果你能听到笑容, 你敢肯定,你刚才做到了。"
+    "如果笑容也能被听见，你很确定自己刚才听到了。"
 
 translate schinese_rewrite Chelforte_Discovery_5506c81a:
 
-    v "太棒了!"
+    v "太好了！"
 
 translate schinese_rewrite Chelforte_Discovery_854aafac:
 
-    v "那么,你对未来有什么希望吗?"
+    v "那么，你对未来有什么期望吗？"
 
 translate schinese_rewrite Chelforte_Discovery_5fc16bf2:
 
-    "开始摇摆,对死人来说,所有事情都考虑过了。"
+    "一上来就问这么直接的问题啊。考虑到你是个死人，倒也说得通。"
 
 translate schinese_rewrite Chelforte_Discovery_47a9e1cb:
 
-    e "你到底是什么意思?"
+    e "你具体是什么意思？"
 
 translate schinese_rewrite Chelforte_Discovery_443b51d3:
 
-    v "说真的,你到底想要它是什么意思?"
+    v "你想怎么理解都行。比如说，你有没有什么愿望，想让狼人和拉斯特菲尔德之间发生些什么？"
 
 translate schinese_rewrite Chelforte_Discovery_371ac666:
 
-    "弗罗再次问了一些问题 你并没有好好考虑。"
+    "伏罗又一次问起了你几乎从未认真思考过的问题。"
 
 translate schinese_rewrite Chelforte_Discovery_d46f5f38:
 
-    e "我... 不知道。"
+    e "我……不知道。"
 
 translate schinese_rewrite Chelforte_Discovery_afc2fa28:
 
-    v "来吧,一定有{i} 东西{/i}。"
+    v "拜托，总得有{i}什么吧{/i}。"
 
 translate schinese_rewrite Chelforte_Discovery_72a33094:
 
@@ -595,275 +595,275 @@ translate schinese_rewrite Chelforte_Discovery_72a33094:
 
 translate schinese_rewrite Chelforte_Discovery_de87e21d:
 
-    e "我想知道是什么导致了对山羊的战争 为什么魔法消失了。"
+    e "我想知道是什么引发了和山羊族的战争。魔法为什么正在消失。"
 
 translate schinese_rewrite Chelforte_Discovery_58649503:
 
-    e "为什么我在这里。"
+    e "我为什么会在这里。"
 
 translate schinese_rewrite Chelforte_Discovery_51ea47d8:
 
-    "你听到你上面的笑声。"
+    "你听见头顶传来一声轻笑。"
 
 translate schinese_rewrite Chelforte_Discovery_4ce6e4fc:
 
-    v "我想沃顿会回来 所以我会简短的 但是..."
+    v "我想伍尔顿快回来了，所以就长话短说，但是……"
 
 translate schinese_rewrite Chelforte_Discovery_25ed9f30:
 
-    v "我希望你们想出办法。"
+    v "希望你能找出答案。"
 
 translate schinese_rewrite Chelforte_Discovery_a387861f:
 
-    "沃罗直立起来,靠在墙上,至少你觉得他有。"
+    "伏罗挺直身子，靠在墙上。至少你觉得他是这么做的。"
 
 translate schinese_rewrite Chelforte_Discovery_3711272b:
 
-    v "你花了足够长的时间。"
+    v "你可真够慢的。"
 
 translate schinese_rewrite Chelforte_Discovery_113af265:
 
-    w "我要用铲子打爆你的头。"
+    w "我要拿这把铲子敲你的脑袋。"
 
 translate schinese_rewrite Chelforte_Discovery_3a587ff2:
 
-    "两个声音都离你非常近 沃顿好像没听见他的脚步声就走了。"
+    "现在两人的声音都近在头顶。看来伍尔顿走过来了，只是你没听见他的脚步。"
 
 translate schinese_rewrite Chelforte_Discovery_d49b2f1f:
 
-    w "我建议你闭上耳朵,如果可以的话..."
+    w "如果可以，建议你捂住耳朵。要是做不到……我只能替你默哀了。"
 
 translate schinese_rewrite Chelforte_Discovery_44db0946:
 
-    "沃尔登说,沃尔登握着他的铲子,然后用全部的力将铁铲砸到地上。至少,你希望它能完全有效,因为填满你耳朵的金属叮当使你觉得好像是你的头骨裂成两半。"
+    "说完，伍尔顿握紧铲子，用尽全力砸向地面。至少你希望他确实使出了全力，因为充斥耳中的金属撞击声让你感觉仿佛是自己的头骨被劈成了两半。"
 
 translate schinese_rewrite Chelforte_Discovery_3e519f96:
 
-    "紧接着是另一个耳朵分裂的梨子, 沃罗的铲子击中了地面。"
+    "紧接着又是一声震耳欲聋的巨响，伏罗的铲子也砸中了地面。"
 
 translate schinese_rewrite Chelforte_Discovery_3b68b900:
 
-    "数小时以来,你只能听到 石头上金属的敲击声, 地板稳定地为狼人铺路。"
+    "接下来几小时，你能听到的只有金属敲击石头的声响，以及两只狼人使劲挖掘时的喘息声。"
 
 translate schinese_rewrite Chelforte_Discovery_eb74b22a:
 
-    "和他们一样聪明, 他们挖对角下来, 利用洞穴的自然结构 来减少所需的工作。"
+    "他们挖得很聪明，顺着洞窟的天然结构斜向下挖，减少了所需的工作量。"
 
 translate schinese_rewrite Chelforte_Discovery_12959514:
 
-    "最终,沃尔登靴子的一角 进入你的视野。"
+    "不知过了多久，伍尔顿的靴尖进入了你的视野。"
 
 translate schinese_rewrite Chelforte_Discovery_4abb79e4:
 
-    e "小心点,你离我越来越近了！"
+    e "小心这一段！你就快到我这里了！"
 
 translate schinese_rewrite Chelforte_Discovery_36202dbc:
 
-    "你得到的只是疲倦的呼声 同意。"
+    "你只能得到几声疲惫的应答。"
 
 translate schinese_rewrite Chelforte_Discovery_17e78cd2:
 
-    "即使洞穴后地板变弱了 速度仍然很快 两人为你做了大量工作。"
+    "即使塌方后地面变得更松软，这依然是很快的速度，而他们为了救你所做的工作量也大得惊人。"
 
 translate schinese_rewrite Chelforte_Discovery_10bf244a:
 
-    "幸好他们也靠近你找到的洞穴。"
+    "幸运的是，他们也越来越接近你发现的洞穴。"
 
 translate schinese_rewrite Chelforte_Discovery_9f05b6d0:
 
-    "岩石上的金属声音现在更加温和,他们的铲子仍然穿透了地球,但以前没有这种精致。"
+    "金属敲击岩石的声音现在柔和多了。他们的铲子依旧刺入泥土，却不再像之前那样粗暴。"
 
 translate schinese_rewrite Chelforte_Discovery_3a5a6589:
 
-    "你的耳朵仍然痛,但现在你的大脑有思考的空间, 你的嗓音不再被金属的尖叫所淹没。"
+    "你的耳朵仍在隐隐作痛，但现在脑中终于有了思考的余地，金属的尖啸也不再淹没你的声音。"
 
 translate schinese_rewrite Chelforte_Discovery_a9042998:
 
-    "铁铲越靠近 泥土和石头越多。"
+    "不过，这个洞依旧让人极不舒服。铲子越靠近，越多泥土和石块从顶上落到你的头上。"
 
 translate schinese_rewrite Chelforte_Discovery_97bf0d94:
 
-    "在头30分钟内 第一道铲子就在你上方。"
+    "不到三十分钟，第一把铲子就在你上方破土而出。"
 
 translate schinese_rewrite Chelforte_Discovery_62e60f3f:
 
-    "你已感到宽慰,因为是你越狱的一部分。你轻轻地转动手腕,伸展身体,使身体在以前无法伸展的地方伸展。"
+    "随着囚禁你的空间被挖开一部分，你立刻感到一阵轻松。你轻轻转动手腕，伸展此前无法活动的身体。"
 
 translate schinese_rewrite Chelforte_Discovery_69b7db16:
 
-    "首先你的手,然后你的头,最后,你的肩膀。"
+    "铲子一点一点挖出更多你的身体。先是双手，然后是头，最后是肩膀。"
 
 translate schinese_rewrite Chelforte_Discovery_1e1e11b5:
 
-    "一旦他们到达你身体的一部分 他们就能到达 铲子就停止了。"
+    "他们一挖到能够触及你身体的部位，就停下了铲子。"
 
 translate schinese_rewrite Chelforte_Discovery_e983b468:
 
-    "你感到一对强壮的手伸出来轻轻拉住你,很难不痛哭出来,因为你的肚子撕碎了地面,碎块的石头在你的皮肤上拖动。"
+    "你感觉到一双强壮的手伸下来，轻轻把你往外拽。肚子擦过地面时，尖锐的碎石划过皮肤，你很难不痛呼出声。"
 
 translate schinese_rewrite Chelforte_Discovery_5b0a2e91:
 
-    "半个身体现在都出来了 手继续拉你 但另一对开始往背上挖。"
+    "现在你有一半身体露在外面。那双手继续拉你，另一双手则开始轻拍你的后背。"
 
 translate schinese_rewrite Chelforte_Discovery_3785103d:
 
-    v "你真的需要被清洗, 你看起来像雕像。"
+    v "你真该好好清理一下，看起来像尊雕像。"
 
 translate schinese_rewrite Chelforte_Discovery_379c25e7:
 
-    e "有岩石和灰尘雨在你身上持续数小时 最终会这样对你。"
+    e "让岩石和尘土连续几个小时往身上落，当然会变成这样。"
 
 translate schinese_rewrite Chelforte_Discovery_8eb229a5:
 
-    "当你的腿终于离开隧道, 你的身体完全没有隧道, 你发现自己被扔在某人的 - 沃顿 - 背上像一袋土豆。"
+    "当你的双腿终于离开隧道，身体彻底脱困时，你发现自己被扔到某个人——伍尔顿——的背上，像一袋土豆。"
 
 translate schinese_rewrite Chelforte_Discovery_e651ec1a:
 
-    e "没事了,我出来了,我出来了 我的腿还在工作,沃尔登！"
+    e "没事！我出来了！我出来了！我的腿还能动，伍尔顿！"
 
 translate schinese_rewrite Chelforte_Discovery_604bd8f9:
 
-    "沃顿开始奔向隧道的口 仿佛你什么都没说。"
+    "伍尔顿仿佛没听见你的话，开始朝隧道口跑去。"
 
 translate schinese_rewrite Chelforte_Discovery_4f6196fd:
 
-    w "我知道 但你很脏 现在我们也是。"
+    w "我知道，但你脏兮兮的，现在我们也一样了。"
 
 translate schinese_rewrite Chelforte_Discovery_dcfdd6b9:
 
-    "一个令人困惑的陈述,但你太累了,现在不能争辩。"
+    "这句话让人摸不着头脑，但你现在累得没力气争辩。"
 
 translate schinese_rewrite Chelforte_Discovery_4217a17d:
 
-    "隧道里唯一的声音是 沃尔登脚在地上的回声 象钟声一样稳定地跳动。"
+    "隧道里只剩伍尔顿的脚步声在地面上回荡，节奏稳定得像时钟滴答。"
 
 translate schinese_rewrite Chelforte_Discovery_3854316e:
 
-    "不久你就会发现自己 盯着你从那进进的水池看。"
+    "没过多久，你发现自己正盯着那个你之前进来的水池。"
 
 translate schinese_rewrite Chelforte_Discovery_1a7c45b3:
 
-    w "你愿意进去吗?"
+    w "你准备好进去了吗？"
 
 translate schinese_rewrite Chelforte_Discovery_abc4599f:
 
-    e "你不会扔我什么的吧?"
+    e "你不会把我扔进去之类的吧？"
 
 translate schinese_rewrite Chelforte_Discovery_0090c603:
 
-    "沃顿摇头,他的皮草 刷在你肚子上。"
+    "伍尔顿摇摇头，皮毛蹭过你的肚子。"
 
 translate schinese_rewrite Chelforte_Discovery_b6536947:
 
-    w "我觉得你应该休息一下 被困在洞里不好玩。"
+    w "我觉得你该休息一下。卡在洞里可不是什么有趣的经历。"
 
 translate schinese_rewrite Chelforte_Discovery_5b5d3a9f:
 
-    "就像沃顿把你打倒一样 叹息从嘴唇里逃出来了。"
+    "伍尔顿把你放下时，你唇间溢出一声叹息。"
 
 translate schinese_rewrite Chelforte_Discovery_d53a6b79:
 
-    e "不是。"
+    e "确实不是。"
 
 translate schinese_rewrite Chelforte_Discovery_9091bd0b:
 
-    e "你们这些狼人似乎喜欢这种经历。"
+    e "不过你们狼人好像很喜欢这种体验。"
 
 translate schinese_rewrite Chelforte_Discovery_7a074a4b:
 
-    "沃顿需要一秒钟才能拿到 那时他就大笑了。"
+    "伍尔顿愣了一秒才反应过来，随即放声大笑。"
 
 translate schinese_rewrite Chelforte_Discovery_cb2364c7:
 
-    w "有些人没有 我很高兴我从未遇到过结节。"
+    w "有些狼人不喜欢——我很庆幸自己从没被迫经历过打结，肯定是这样。"
 
 translate schinese_rewrite Chelforte_Discovery_d80387a3:
 
-    "你举眉毛 看着沃登的手臂在你身边 把你拉到半死半活的拥抱里。"
+    "你挑了挑眉，伍尔顿则把手臂绕过你的侧身，将你半随意地搂住。"
 
 translate schinese_rewrite Chelforte_Discovery_d34f1092:
 
-    w "天知道这样会让多轮或拥抱更难。"
+    w "天知道那会让连续来上几轮，或者抱在一起，更加困难。"
 
 translate schinese_rewrite Chelforte_Discovery_22984b3a:
 
-    "当你在努力寻找一个正确的答案的时候 沃尔登让你离开。"
+    "你努力想找个合适的回应，伍尔顿却松开了你。"
 
 translate schinese_rewrite Chelforte_Discovery_cd5b0928:
 
-    w "让我们清理干净,好吗?"
+    w "好了。我们去把自己洗干净，好吗？"
 
 translate schinese_rewrite Chelforte_Discovery_d402cd4f:
 
-    "蓝色狼人立即将炮弹射入水中 将整个下半部的水覆盖在水面上。"
+    "蓝色狼人立刻一头扎进水里，溅起的水花淋湿了你的整个下半身。"
 
 translate schinese_rewrite Chelforte_Discovery_209f2355:
 
-    "受此启发,你开始运行 并做同样的。"
+    "受此启发，你助跑几步，也做了同样的事。"
 
 translate schinese_rewrite Chelforte_Discovery_62952ca2:
 
-    "最初的潜水足够让你的皮肤恢复到棕色的颜色, 而不是以前的枯燥灰色。"
+    "当你入水时，能感觉到岩石从皮毛间脱落。最初这一潜就足以让你的皮肤恢复棕色，不再是之前那种暗灰色。"
 
 translate schinese_rewrite Chelforte_Discovery_9cf795fd:
 
-    "沉入黑暗深处 你花点时间擦擦身体 推开越来越多的岩石 直到你感到自由。"
+    "你沉入黑暗的深处，花了片刻揉搓身体，把一块又一块松动的石头弄掉，直到身上干净得差不多。"
 
 translate schinese_rewrite Chelforte_Discovery_1f21cbdc:
 
-    "一旦完成,你伸向表面, 游向火炬灯。"
+    "洗完后，你朝水面游去，向着火把的光亮游过去。"
 
 translate schinese_rewrite Chelforte_Discovery_b5491e4e:
 
-    "呼吸时你的头会从水中抽出来。"
+    "你冲出水面，深吸了一口气。"
 
 translate schinese_rewrite Chelforte_Discovery_ee558b92:
 
-    e "如果你放火炬 我们就不能呼吸吗?"
+    e "我们把火把点起来后，不会就没法呼吸了吗？"
 
 translate schinese_rewrite Chelforte_Discovery_2ef5ea12:
 
-    "蓝狼人给你一小点压力。"
+    "蓝色狼人对你轻轻耸了耸肩。"
 
 translate schinese_rewrite Chelforte_Discovery_840880d4:
 
-    w "我在天花板上打了一个洞 记得吗?"
+    w "我不是在天花板上开了个洞吗，记得？"
 
 translate schinese_rewrite Chelforte_Discovery_7964bb37:
 
-    w "不知道这是否足以提供三个人 和火炬, 但只有一个方法 找出答案,对不对?"
+    w "不知道够不够给三个人和一支火把供氧，不过试试就知道了，对吧？"
 
 translate schinese_rewrite Chelforte_Discovery_f90b4630:
 
-    "不知你脸上的恐怖表情 沃尔登回到了他们把你救出来的隧道。"
+    "伍尔顿不顾你脸上惊恐的表情，转身走向他们把你挖出来的隧道。你震惊了片刻，只好跟上。"
 
 translate schinese_rewrite Chelforte_Discovery_306508b6:
 
-    e "嘿,你在开玩笑吧?"
+    e "喂，你是在开玩笑吧？"
 
 translate schinese_rewrite Chelforte_Discovery_d9725aca:
 
-    "沃登给你一个轻松的笑容。"
+    "伍尔顿轻松地笑了一声。"
 
 translate schinese_rewrite Chelforte_Discovery_e2f9da0f:
 
-    w "你觉得怎么样,小家伙?"
+    w "小家伙，你觉得呢？"
 
 translate schinese_rewrite Chelforte_Discovery_288ed531:
 
-    e "你在耍我。"
+    e "你在逗我。"
 
 translate schinese_rewrite Chelforte_Discovery_2a660715:
 
-    w "Attaboy."
+    w "这才对嘛。"
 
 translate schinese_rewrite Chelforte_Discovery_66a4b614:
 
-    e "不管我说什么,你都打算这么说吗?"
+    e "不管我怎么说，你本来都打算这么回答的吗？"
 
 translate schinese_rewrite Chelforte_Discovery_e593ffb8:
 
-    "狼人冷漠地冷漠 眼神闪耀着玩耍。"
+    "伍尔顿露出淘气的笑容，眼中闪着顽皮的光。"
 
 translate schinese_rewrite Chelforte_Discovery_b56b3bd7:
 
@@ -871,15 +871,15 @@ translate schinese_rewrite Chelforte_Discovery_b56b3bd7:
 
 translate schinese_rewrite Chelforte_Discovery_bd557ac5:
 
-    "你感觉你从他身上得到的最多 至少现在。"
+    "你感觉他现在至少只会告诉你这么多。"
 
 translate schinese_rewrite Chelforte_Discovery_c004858b:
 
-    w "那么,有什么对隧道感兴趣的吗?"
+    w "那么，那条隧道里有什么有趣的东西吗？"
 
 translate schinese_rewrite Chelforte_Discovery_41702f8a:
 
-    "你拿出最好的笑容。"
+    "你露出自认为最得意的坏笑。"
 
 translate schinese_rewrite Chelforte_Discovery_f1642409:
 
@@ -887,23 +887,23 @@ translate schinese_rewrite Chelforte_Discovery_f1642409:
 
 translate schinese_rewrite Chelforte_Discovery_2bf90d56:
 
-    w "啊,这是肯定的。很好。"
+    w "啊，那就是有了。很好。"
 
 translate schinese_rewrite Chelforte_Discovery_d7d98e72:
 
-    "即使沃尔登猜对了,他也可能怀疑自己。"
+    "你能做的最好选择就是不回答，这样至少还能保留一丝暧昧。就算伍尔顿猜对了，也可能仍然会怀疑自己。"
 
 translate schinese_rewrite Chelforte_Discovery_5ef4a8a1:
 
-    "你们两个最终到达隧道入口 在那里,一个困困的沃罗 坐在他背对着墙。"
+    "你们最终来到隧道入口，伏罗正背靠墙壁，睡眼惺忪地坐在那里。"
 
 translate schinese_rewrite Chelforte_Discovery_bd087adc:
 
-    "沃登弯腰轻轻地摇动他朋友的沉睡。"
+    "伍尔顿弯下腰，轻轻摇醒他那位昏昏欲睡的朋友。"
 
 translate schinese_rewrite Chelforte_Discovery_bf14a88d:
 
-    w "来吧,我们必须完成挖掘隧道。"
+    w "来吧，我们得把隧道挖完。"
 
 translate schinese_rewrite Chelforte_Discovery_bcbcf61a:
 
@@ -911,31 +911,31 @@ translate schinese_rewrite Chelforte_Discovery_bcbcf61a:
 
 translate schinese_rewrite Chelforte_Discovery_c249a61a:
 
-    v "你可以休息一会 [e] 隧道快完工了 我想完成它。"
+    v "你可以先休息一会儿，[e]，隧道快挖好了，我想亲手把它完成。呃，和伍尔顿一起。"
 
 translate schinese_rewrite Chelforte_Discovery_abe08ab0:
 
-    "另一只狼人卷着眼睛 毫无仪式地撞击地面。"
+    "另一只狼人翻了个白眼，毫不客气地向地面铲去。"
 
 translate schinese_rewrite Chelforte_Discovery_10923144:
 
-    "沃顿之后的乌罗人开始冲刺 也开始尽他的责任。"
+    "伏罗赶紧跟上伍尔顿，也开始干起自己的那份活。"
 
 translate schinese_rewrite Chelforte_Discovery_ecba45f5:
 
-    "你漂流到铲子的尖锐处 狼人俩的咕噜声自推。"
+    "你在铲子的刺耳摩擦声和两只狼人逼迫自己继续工作的喘息声中渐渐睡着。"
 
 translate schinese_rewrite Chelforte_Discovery_47f3b820:
 
-    "这很可怕背景噪音 但你现在太累了 根本不在乎。"
+    "这背景噪音糟透了，但你现在累得根本不在乎。"
 
 translate schinese_rewrite Chelforte_Discovery_789ae6f1:
 
-    "地面比我想的软。"
+    "地面比我想的软……"
 
 translate schinese_rewrite Chelforte_Discovery_a2cba0a2:
 
-    "不是..."
+    "不……抱怨……"
 
 translate schinese_rewrite Chelforte_Discovery_a20cefa7:
 
@@ -943,127 +943,127 @@ translate schinese_rewrite Chelforte_Discovery_a20cefa7:
 
 translate schinese_rewrite Chelforte_Discovery_cfed2e52:
 
-    "地面又回到了坚硬的岩石, 也回到了你的怨恨。"
+    "地面又变回坚硬的岩石，这让你非常懊恼。"
 
 translate schinese_rewrite Chelforte_Discovery_b117c302:
 
-    "你无法好好照顾自己 你累了 他们找到了洞穴。"
+    "你实在提不起精神去在意。你很累，而他们找到了洞窟。这才是最重要的。"
 
 translate schinese_rewrite Chelforte_Discovery_2f321537:
 
-    w "终于醒了,小家伙?"
+    w "终于醒了，小家伙？"
 
 translate schinese_rewrite Chelforte_Discovery_06beacd0:
 
-    "他轻轻地说这个 好像害怕扰乱你的睡梦一样。"
+    "他温柔地说着，仿佛怕惊扰你的睡眠。"
 
 translate schinese_rewrite Chelforte_Discovery_23b271ca:
 
-    e "先生。"
+    e "唔……"
 
 translate schinese_rewrite Chelforte_Discovery_46cc3b0c:
 
-    "沃顿轻轻地笑 以你的懒惰的语气。"
+    "伍尔顿被你困倦的语气逗得轻轻笑了起来。"
 
 translate schinese_rewrite Chelforte_Discovery_a3310f81:
 
-    "看着他,你看见他站在你身边 看着洞穴的屋顶。"
+    "你看向一旁，发现他就在你身边，正抬头望着洞窟顶部。"
 
 translate schinese_rewrite Chelforte_Discovery_9e816633:
 
-    w "你在这里找到了一个美丽的地方,小家伙。"
+    w "小家伙，你在这里找到的地方真美。"
 
 translate schinese_rewrite Chelforte_Discovery_01aa1423:
 
-    w "这就是我叫你幸运符时的意思。"
+    w "这就是我称你为幸运符的原因，小家伙。"
 
 translate schinese_rewrite Chelforte_Discovery_f5309ad4:
 
-    "你倒在地上 试图找一个更柔软的地方。"
+    "你在地板上挪动了一下，试图找个柔软些的位置。"
 
 translate schinese_rewrite Chelforte_Discovery_1e2c4240:
 
-    e "Mrrf 谢谢..."
+    e "唔。谢谢……"
 
 translate schinese_rewrite Chelforte_Discovery_f4cba0cd:
 
-    "你伸展一下,试图解决你背部的紧张。"
+    "你伸了伸懒腰，试图舒展背部的紧绷感。几声关节轻响后，身体顿时放松下来。"
 
 translate schinese_rewrite Chelforte_Discovery_4fdda857:
 
-    w "看来你睡在地上有点困难。"
+    w "看来你不太适合睡在地上。"
 
 translate schinese_rewrite Chelforte_Discovery_e4b2888b:
 
-    "狼人更近一点 让你的肩膀和他几乎碰不着。"
+    "狼人挪得更近了些，让你的肩膀和他的肩膀恰好没有碰到一起。"
 
 translate schinese_rewrite Chelforte_Discovery_e8953bbc:
 
-    w "你介意我帮忙吗?"
+    w "介意我帮你吗？"
 
 translate schinese_rewrite Chelforte_Discovery_2cedc68f:
 
-    "你的反应不是说话 而是更接近沃顿。"
+    "你没有回答，只是朝伍尔顿挪近了一些。"
 
 translate schinese_rewrite Chelforte_Discovery_287cee54:
 
-    "伍尔顿转身面对你 一个微笑 告诉你你需要知道的一切。"
+    "伍尔顿转过身面对你，脸上的浅笑已经说明了一切。"
 
 translate schinese_rewrite Chelforte_Discovery_91ecc23b:
 
-    "蓝狼人把他的手臂包在你面前 当他的另一只手臂往下移动 抓住你的腿。"
+    "蓝色狼人伸手环过你的胸前，同时另一只手往下移，抓住你的腿。"
 
 translate schinese_rewrite Chelforte_Discovery_82be1317:
 
-    w "这里。"
+    w "来。"
 
 translate schinese_rewrite Chelforte_Discovery_a0bc3f2d:
 
-    "沃顿轻轻地把你拉起来 慢慢地把你冲到他的胸口上 准备放手。"
+    "伍尔顿轻柔地抱起你，慢慢把你拉到自己胸前，哪怕你有一点反抗，他也会立刻松手。"
 
 translate schinese_rewrite Chelforte_Discovery_9b93fcf1:
 
-    "让它发生,你发现自己 被窝在狼人旁边 他的下巴躺在你的头上 在你的角之间。"
+    "任由他这么做，你发现自己被安置在狼人身旁，他的下巴正搁在你两只角之间的头顶上。"
 
 translate schinese_rewrite Chelforte_Discovery_93aaab83:
 
-    "从他的软肚子到肌肉手臂 你用来做枕头。"
+    "他很温暖。从柔软的腹部到你用来当枕头的结实手臂，他的整个身体都散发着热量，宛如一个人形壁炉。"
 
 translate schinese_rewrite Chelforte_Discovery_79edddef:
 
-    "他的另外一只手臂躺在你的肚子上 手袖手旁观地抓着手伸手可及的毛皮。"
+    "他的另一只手臂搭在你的腹部，手掌漫不经心地抓挠着触手可及的毛发。"
 
 translate schinese_rewrite Chelforte_Discovery_b89ec288:
 
-    w "更好?"
+    w "好点了吗？"
 
 translate schinese_rewrite Chelforte_Discovery_6628e018:
 
-    "他已经知道了,但他想听你说, 骄傲,或取笑你,你看不出来。"
+    "他其实已经知道答案，却还是想听你亲口说出来。是为了自尊，还是为了逗你，你就不得而知了。"
 
 translate schinese_rewrite Chelforte_Discovery_a38c9e6e:
 
-    "说词太累了,你只会在靠近沃登的地方发牢骚。"
+    "你累得说不出话，只是更加贴近伍尔顿。"
 
 translate schinese_rewrite Chelforte_Discovery_18075836:
 
-    "这对他来说已经足够了,因为他在你的上方 释放出满足的叹息。"
+    "看来这已经足够回答他了，因为他在你头顶上方满足地叹了口气。"
 
 translate schinese_rewrite Chelforte_Discovery_3ad2bfa1:
 
-    "你不愿打破快乐的沉默 但你有几个问题要问大狼。"
+    "你不愿打破这份愉快的沉默，但还有几个问题想问那只大狼。"
 
 translate schinese_rewrite Chelforte_Discovery_27cd17eb:
 
-    "至少他还能按着你的回答。"
+    "至少他回答时还能抱着你。"
 
 translate schinese_rewrite Chelforte_Discovery_5d70a179:
 
-    e "对不起,我想最好还是自己想办法解决。"
+    e "抱歉，我想还是自己想办法弄清楚比较好。"
 
 translate schinese_rewrite Chelforte_Discovery_a4011cb9:
 
-    "狼人的内容表达方式看起来很紧张 就像你说的。"
+    "你这么说时，狼人的满足表情变得有些勉强。"
 
 translate schinese_rewrite Chelforte_Discovery_6f73479c:
 
@@ -1071,143 +1071,143 @@ translate schinese_rewrite Chelforte_Discovery_6f73479c:
 
 translate schinese_rewrite Chelforte_Discovery_eb175b65:
 
-    "他转回到原来的位置。"
+    "他挪回了原来的位置。"
 
 translate schinese_rewrite Chelforte_Discovery_7fc8eccc:
 
-    "安静地,你再说话, 每个字都有一个挑战 形成。"
+    "你悄声重新开口，每个字都像是费力拼出来的。"
 
 translate schinese_rewrite Chelforte_Discovery_fc21b246:
 
-    e "沃尔登... 沃罗在哪里?"
+    e "伍尔顿……伏罗呢？"
 
 translate schinese_rewrite Chelforte_Discovery_818653e1:
 
-    w "他正在检查这个地区的矿物质。"
+    w "他在查看这附近的矿物。"
 
 translate schinese_rewrite Chelforte_Discovery_36a3fc58:
 
-    w "显然他们很有前途。"
+    w "听说那些矿物很有希望。"
 
 translate schinese_rewrite Chelforte_Discovery_a638a145:
 
-    "这是被一个大号的哈欠所标出。"
+    "说完这句话，他打了个巨大的哈欠。"
 
 translate schinese_rewrite Chelforte_Discovery_e039e74d:
 
-    e "我们睡在这里?"
+    e "我们……呃。我们要睡在这里？"
 
 translate schinese_rewrite Chelforte_Discovery_82ff00ca:
 
-    w "我们计划好了,如果你有事情要处理,没关系。"
+    w "我们本来就是这么打算的。如果你还有事要处理，也没关系。"
 
 translate schinese_rewrite Chelforte_Discovery_8099357d:
 
-    "即使你想,你也太累了,不能去,今天太辛苦了。"
+    "就算你想去做，你也累得没力气了。今天实在太漫长。"
 
 translate schinese_rewrite Chelforte_Discovery_a9a6a397:
 
-    e "Mrrg。"
+    e "呜……"
 
 translate schinese_rewrite Chelforte_Discovery_6f9f1db8:
 
-    w "同意。"
+    w "我同意。"
 
 translate schinese_rewrite Chelforte_Discovery_f1ede524:
 
-    "尽管这么说 你们俩还是睁大眼睛 开心地喝酒。"
+    "尽管这么说，你们还是睁着眼睛待了一会儿，享受着此刻的氛围。"
 
 translate schinese_rewrite Chelforte_Discovery_c18f640d:
 
-    "很难不,考虑到温暖的, 硬的一团糟 插到你的背上。"
+    "毕竟，你的后背正被一个温暖而坚硬的凸起顶着，很难不注意到。"
 
 translate schinese_rewrite Chelforte_Discovery_02a72d67:
 
-    "你们俩都没有直接承认 或自己的勃起, 不愿意做更多,只是现在调情, 像你这样疲惫。"
+    "你们谁都没有明说，也没有承认自己的勃起；在疲惫之下，此刻都不愿做出超越调情的事。"
 
 translate schinese_rewrite Chelforte_Discovery_ff92cae2:
 
-    "当然,沃尔登没有让你睡着 而不告诉你他知道, 他的手 漂流得越来越远, 更深入你的肚子, 直到它偶尔刷刷你的小费 当他抓伤你。"
+    "当然，伍尔顿也没让你安稳睡去，非得让你知道他已经察觉：他的手在你的腹部不断向下，抓挠时偶尔会擦过你的龟头。"
 
 translate schinese_rewrite Chelforte_Discovery_4b2c9838:
 
-    "你唯一能对狼人报仇的就是 经常调整一下 拖着他的船道。"
+    "狼人身上你唯一能报复他的方式，就是时不时调整姿势，轻轻蹭动他的阴茎。"
 
 translate schinese_rewrite Chelforte_Discovery_f7e4dd5e:
 
-    "每次你这样,沃尔登都会放出一小声咆哮 轻轻地朝你背上隆。"
+    "每次你这么做，伍尔顿都会发出一声轻微的低吼，轻轻地顶向你的后背。"
 
 translate schinese_rewrite Chelforte_Discovery_27992cd5:
 
-    "最终,你们两个安静下来, 回来抱抱,不开玩笑。"
+    "最终，你们安静下来，不再互相逗弄，重新依偎在一起。"
 
 translate schinese_rewrite Chelforte_Discovery_a9a8f7de:
 
-    "你可以告诉沃顿现在 可能因为沃罗 自己现在还不能继续前进 但他的身体慢慢地放松 就像洞穴温柔的光芒让他沉睡。"
+    "你看得出伍尔顿此刻在克制自己，不再更进一步——大概是因为伏罗在场——但洞窟柔和的光芒让他渐渐困倦，身体也慢慢放松下来。"
 
 translate schinese_rewrite Chelforte_Discovery_ade813dd:
 
-    "就像躺在夜空下 晶状的岩石 闪烁着数千色的星形 远如远处的恒星。"
+    "这就像躺在夜空下，晶莹的岩石闪烁着成千上万种色彩，如同遥远高空的繁星。"
 
 translate schinese_rewrite Chelforte_Discovery_5e9dfc25:
 
-    "没有月亮可以提供光, 但是池塘的蓝色微光 符合角色井, 沉着地淹没了洞穴。"
+    "没有月亮提供光亮，但池塘微弱的蓝光正好取代了它，让洞窟沉浸在宁静之中。"
 
 translate schinese_rewrite Chelforte_Discovery_ef129b57:
 
-    "你不知道你什么时候睡着 那一刻你看着墙壁 下一刻你被沃顿的 抚摸你的脖子吵醒。"
+    "你不知道自己是什么时候睡着的。前一刻你还在看着洞壁，下一刻就被伍尔顿亲昵地蹭着脖子弄醒了。"
 
 translate schinese_rewrite Chelforte_Discovery_c93ba645:
 
-    w "虽然我不想说,但我们必须走了,小家伙。"
+    w "虽然我很不愿意这么说，但我们该出发了，小家伙。"
 
 translate schinese_rewrite Chelforte_Discovery_ab28e3dd:
 
-    "所以他说,他离开你,站起来。"
+    "说着，他从你身边退开，站起身来。"
 
 translate schinese_rewrite Chelforte_Discovery_af71426f:
 
-    "你不知道你什么时候睡着 那一刻你看着墙壁 下一刻你被沃顿轻轻地推你醒了。"
+    "你不知道自己是什么时候睡着的。前一刻你还在看着洞壁，下一刻就被伍尔顿轻轻推醒了。"
 
 translate schinese_rewrite Chelforte_Discovery_1e7cdb55:
 
-    w "来吧,我们该走了。"
+    w "来吧，我们该出发了。"
 
 translate schinese_rewrite Chelforte_Discovery_8462893c:
 
-    "仍然有点昏昏欲睡,你站起来,伸展一下,醒来。"
+    "你还有些迷糊，起身伸了伸懒腰，让自己清醒过来。"
 
 translate schinese_rewrite Chelforte_Discovery_50ed8b3a:
 
-    w "沃罗在洞口睡觉。"
+    w "伏罗在洞窟入口睡觉。"
 
 translate schinese_rewrite Chelforte_Discovery_1a4c232b:
 
-    "你看着他,在中间的伸展, 感觉有点可笑。"
+    "你在伸懒腰的中途抬头看向他，觉得自己这副样子有点滑稽。"
 
 translate schinese_rewrite Chelforte_Discovery_4ea1b3fd:
 
-    e "为什么?"
+    e "为什么？"
 
 translate schinese_rewrite Chelforte_Discovery_128811de:
 
-    w "他显然想给我们一些空间什么的。"
+    w "他说想给我们腾点空间之类的。"
 
 translate schinese_rewrite Chelforte_Discovery_9bcab37b:
 
-    w "我想打呼噜是他最大的原因。"
+    w "我觉得最大的原因是他受不了自己的鼾声。"
 
 translate schinese_rewrite Chelforte_Discovery_c77cf443:
 
-    "沃尔登检查,看你是否准备好走, 并转向出口。"
+    "伍尔顿确认你已经准备好出发，转身朝出口走去。"
 
 translate schinese_rewrite Chelforte_Discovery_52e24e7f:
 
-    w "我们该走了 免得他的打呼噜 引起另一个洞穴。"
+    w "我们最好在他的鼾声再次引发塌方前出发。"
 
 translate schinese_rewrite Chelforte_Discovery_73d7b3cf:
 
-    "你们一起跑到水坑。"
+    "你们一起小跑到水洞。"
 
 translate schinese_rewrite Chelforte_Discovery_f05954e4:
 
@@ -1215,7 +1215,7 @@ translate schinese_rewrite Chelforte_Discovery_f05954e4:
 
 translate schinese_rewrite Chelforte_Discovery_6c741e9e:
 
-    "他看上去像昏倒在脚上 身高的荒谬。"
+    "考虑到他堆成的那个夸张形状，他看起来像是站着睡着了。"
 
 translate schinese_rewrite Chelforte_Discovery_efe8be86:
 
@@ -1223,27 +1223,27 @@ translate schinese_rewrite Chelforte_Discovery_efe8be86:
 
 translate schinese_rewrite Chelforte_Discovery_ebf38758:
 
-    "沃罗又出来又发脾气又发脾气 被放倒在地上。"
+    "伏罗喘着气、气冲冲地走了出来。有人把他重新放到地上，他闷闷不乐了足足一分钟。"
 
 translate schinese_rewrite Chelforte_Discovery_5b887d4d:
 
-    v "我知道是因为很难叫醒我 但请不要吓唬我。"
+    v "我知道是因为我很难叫醒，但你下次别再这样吓我了。"
 
 translate schinese_rewrite Chelforte_Discovery_3a7e4a9e:
 
-    "伍尔顿的摇摆。"
+    "伍尔顿耸了耸肩。"
 
 translate schinese_rewrite Chelforte_Discovery_be988d7a:
 
-    w "没有承诺。"
+    w "不保证。"
 
 translate schinese_rewrite Chelforte_Discovery_f2dfed0a:
 
-    "沃罗一直在看沃尔登。"
+    "伏罗只是继续盯着伍尔顿。"
 
 translate schinese_rewrite Chelforte_Discovery_0991b613:
 
-    w "好吧,好吧,我会把它移到 列表的方式列表 唤醒你。"
+    w "好吧，好吧，我会把这种叫醒方式往后排。"
 
 translate schinese_rewrite Chelforte_Discovery_80c6eacb:
 
@@ -1251,19 +1251,19 @@ translate schinese_rewrite Chelforte_Discovery_80c6eacb:
 
 translate schinese_rewrite Chelforte_Discovery_583cd602:
 
-    v "好了,现在我醒了,我有话要说。"
+    v "好吧。既然我醒了，有几件事要说。"
 
 translate schinese_rewrite Chelforte_Discovery_ce22499c:
 
-    v "首先,洞穴是一个令人难以置信的发现。我们不仅可以邀请其他部落访问,而且该地区的一些矿石也非常罕见。"
+    v "首先，这座洞窟真是惊人的发现。不仅可以邀请其他部族来参观，那里的某些矿石还极其稀有。"
 
 translate schinese_rewrite Chelforte_Discovery_cc712d78:
 
-    v "第二,我饿了,我们要回家吃饭。"
+    v "其次，我饿了。我们得回家吃东西。"
 
 translate schinese_rewrite Chelforte_Discovery_f40cb36a:
 
-    w "我们的供给怎么了?"
+    w "我们的补给呢？"
 
 translate schinese_rewrite Chelforte_Discovery_7f811e1e:
 
@@ -1271,19 +1271,19 @@ translate schinese_rewrite Chelforte_Discovery_7f811e1e:
 
 translate schinese_rewrite Chelforte_Discovery_3c8edb50:
 
-    v "我... 吃了他们。"
+    v "呃……我吃了。"
 
 translate schinese_rewrite Chelforte_Discovery_8ce062c7:
 
-    v "之前我突然饿得要命 之后我又吃光了所有的食物。"
+    v "刚才我突然感到一阵强烈的饥饿，回过神来时，食物已经全被我吃光了。"
 
 translate schinese_rewrite Chelforte_Discovery_91e4a95c:
 
-    "令人难以置信的关于, 但没有什么 你真正可以做的。"
+    "虽然这非常令人担忧，但你也实在无能为力。"
 
 translate schinese_rewrite Chelforte_Discovery_8ff58ff8:
 
-    e "我们回家吗?"
+    e "所以我们要回家？"
 
 translate schinese_rewrite Chelforte_Discovery_cf359301:
 
@@ -1291,91 +1291,91 @@ translate schinese_rewrite Chelforte_Discovery_cf359301:
 
 translate schinese_rewrite Chelforte_Discovery_74401855:
 
-    v "很抱歉我无法和你谈谈我们之前提到的 但我猜我们见面猎杀乌菲的时候 和以前一样好。"
+    v "抱歉，我没能和你谈谈我们之前提到的事，不过我想，等我们去猎杀乌菲时再谈也不迟。"
 
 translate schinese_rewrite Chelforte_Discovery_22e179b0:
 
-    "怀疑,但必须这样做。"
+    "你对此表示怀疑，但也只能这样了。"
 
 translate schinese_rewrite Chelforte_Discovery_cff0bbdc:
 
-    e "没关系,我相信你总有一天会告诉我的。"
+    e "没关系。我相信你总有一天会告诉我的。"
 
 translate schinese_rewrite Chelforte_Discovery_31f2b853:
 
-    e "我们可以..."
+    e "我们随时可以——"
 
 translate schinese_rewrite Chelforte_Discovery_1e6922af:
 
-    "乌罗胃里传来一股响亮的声音 打断了你的思绪。"
+    "伏罗的肚子发出一声响亮的咕噜，打断了你的思绪。"
 
 translate schinese_rewrite Chelforte_Discovery_85eaf53b:
 
-    e "没关系,我们给你弄点吃的吧。"
+    e "算了。先给你弄点吃的。"
 
 translate schinese_rewrite Chelforte_Discovery_7f02fe7e:
 
-    "你们三个对水稍稍感到惊慌。没有东西可以让水进入,但你们三个已经用够水了。"
+    "你们三人有些沮丧地看着水面。除此之外也没有别的办法，而你们也已经喝够水了。"
 
 translate schinese_rewrite Chelforte_Discovery_14afba7d:
 
-    "越过犹豫不决的状态 你们三个一起走回家的第一步 一起跳进去。"
+    "不再犹豫，你们三人一起踏上回家的第一步，潜入水中。"
 
 translate schinese_rewrite Chelforte_Discovery_04137203:
 
-    "在你回家的旅途中,交谈很少, 思考被昨晚的事件所占据, 或者计划攻占乌菲。"
+    "回家的路上，你们很少交谈，思绪都被昨晚发生的事，或是打倒乌菲的计划占据。"
 
 translate schinese_rewrite Chelforte_Discovery_1d31e0ee:
 
-    "在你知道之前 你回到了沃顿家。"
+    "你还没回过神，就已经回到了伍尔顿家。"
 
 translate schinese_rewrite Chelforte_Discovery_26b34d99:
 
-    v "好吧,我想我们分开的方式现在。"
+    v "好吧，我想我们暂时要分开了。"
 
 translate schinese_rewrite Chelforte_Discovery_6a109a94:
 
-    v "我们打算抢取补给品 或者准备在接下来的几天里 攻占乌菲。"
+    v "接下来几天，我们会收集补给，或者做其他准备来解决乌菲。我建议你也这么做。"
 
 translate schinese_rewrite Chelforte_Discovery_86ff6451:
 
-    v "等我们准备好了 回来杀了那个混蛋。"
+    v "等我们都准备好后，回到这里，我们一起出去杀了那个混蛋。"
 
 translate schinese_rewrite Chelforte_Discovery_4dc52f08:
 
-    "武罗走到你身边 向你伸出双臂。"
+    "伏罗走到你面前，张开双臂抱住了你。"
 
 translate schinese_rewrite Chelforte_Discovery_61ba5ae3:
 
-    v "沃顿和我从小就是朋友 他是我从未有过的哥哥。"
+    v "我和伍尔顿从小就是朋友。他就像我从未拥有过的兄弟。"
 
 translate schinese_rewrite Chelforte_Discovery_52dbd08d:
 
-    "你几乎提到乌菲,但别自言自语了 看着一个兄弟和另一个兄弟断绝关系很可悲, 但在这种情况下,这是完全合理的。"
+    "你差点提到乌菲，却及时停住了。看着一个兄弟与另一个兄弟决裂令人难过，但这一次完全情有可原。"
 
 translate schinese_rewrite Chelforte_Discovery_4ae3a0b4:
 
-    v "谢谢你帮我们 也感谢你们给沃尔登公司。"
+    v "谢谢你帮助我们，也谢谢你陪着伍尔顿。"
 
 translate schinese_rewrite Chelforte_Discovery_c1bc130b:
 
-    v "这比你知道的还重要 我希望我还有办法还你钱。"
+    v "这份情谊比你想象的更重要，我真希望自己能做些什么，哪怕只是开始偿还这份恩情。"
 
 translate schinese_rewrite Chelforte_Discovery_88b608ff:
 
-    v "但我没有,所以我只能说谢谢你。"
+    v "但我做不到。所以我只能说，谢谢你。"
 
 translate schinese_rewrite Chelforte_Discovery_37f7d903:
 
-    "你一个字不说就抱他回来 你对此无话可说。"
+    "你一言不发地回抱住他。对此你无话可说。"
 
 translate schinese_rewrite Chelforte_Discovery_5ac7dcbe:
 
-    "你们两个长期被拥抱 武罗想弥补他永远不会有的时间。"
+    "你们拥抱了很久，伏罗试图弥补那段他永远也无法拥有的时光。"
 
 translate schinese_rewrite Chelforte_Discovery_2dc15d54:
 
-    "当它最终结束, 武罗退缩, 寻找... 空。"
+    "拥抱终于结束时，伏罗退开了一步，看起来……空洞无神。"
 
 translate schinese_rewrite Chelforte_Discovery_fa453b82:
 
@@ -1383,95 +1383,95 @@ translate schinese_rewrite Chelforte_Discovery_fa453b82:
 
 translate schinese_rewrite Chelforte_Discovery_c19fea77:
 
-    "他那样说,他给你一个悲伤的笑容, 和头在里面。"
+    "说完，他对你露出悲伤的笑容，转身走进屋里。"
 
 translate schinese_rewrite Chelforte_Discovery_375e9e50:
 
-    "伍尔顿站在门边 有点尴尬 嘴上笑着苦笑。"
+    "伍尔顿有些局促地站在门边，嘴角挂着苦涩又甜蜜的笑容。"
 
 translate schinese_rewrite Chelforte_Discovery_b3b0fe34:
 
-    "他向前走 直到他离你不到一英尺远。"
+    "他向前走来，直到离你不到一英尺。"
 
 translate schinese_rewrite Chelforte_Discovery_516f9609:
 
-    "你看着他的脸,看着他的脸,看着你。"
+    "你抬头看着他的脸，他也低头望着你。此刻的他，用温柔来形容最合适。"
 
 translate schinese_rewrite Chelforte_Discovery_c1c4cb6f:
 
-    w "我想告诉你很多事。"
+    w "我有很多话想告诉你。"
 
 translate schinese_rewrite Chelforte_Discovery_c7877a2f:
 
-    "他的脸痛得要命。"
+    "他的脸因痛苦而皱成一团。"
 
 translate schinese_rewrite Chelforte_Discovery_92debfdb:
 
-    w "但我想等到我们和乌菲打完之后再说 否则..."
+    w "但我想等我们和乌菲战斗之后再说。否则……"
 
 translate schinese_rewrite Chelforte_Discovery_4fe238fc:
 
-    "你仔细点着他的头 然后按住他 这样你就可以在他耳边低语了。"
+    "你小心地点点头，示意他俯身下来，好让你能在他耳边低语。"
 
 translate schinese_rewrite Chelforte_Discovery_aa0c7cb0:
 
-    e "我理解。"
+    e "我明白。"
 
 translate schinese_rewrite Chelforte_Discovery_c01e1536:
 
-    "所以说,你抓住沃尔登两边的头 轻轻地吻他的脸颊。"
+    "说着，你捧住伍尔顿的脸颊，轻轻吻了吻他的脸。"
 
 translate schinese_rewrite Chelforte_Discovery_77aa761b:
 
-    "当你撤退时,沃尔登就呆在那里, 看着你悲哀的眼神。"
+    "你退开后，伍尔顿仍站在原地，悲伤地看着你。"
 
 translate schinese_rewrite Chelforte_Discovery_b5c9b02b:
 
-    w "您有。"
+    w "你明白。"
 
 translate schinese_rewrite Chelforte_Discovery_19f2655c:
 
-    "蓝色狼人的叹息 他站立后退。"
+    "蓝色狼人站直身体，叹了口气。"
 
 translate schinese_rewrite Chelforte_Discovery_c4990880:
 
-    w "保持安全,对我们两个来说。"
+    w "保重。为了我们两个人。"
 
 translate schinese_rewrite Chelforte_Discovery_35a572e0:
 
-    "你给他一个悲哀的微笑。"
+    "你对他露出悲伤的笑容。"
 
 translate schinese_rewrite Chelforte_Discovery_7cfd1808:
 
-    e "你不是说要保护我安全吗?"
+    e "我以为你说过会保护我？"
 
 translate schinese_rewrite Chelforte_Discovery_a603ee09:
 
-    w "我说过我会尝试的。"
+    w "我说过我会尽力。"
 
 translate schinese_rewrite Chelforte_Discovery_7b5add91:
 
-    "他一时停顿, 收集他的想法。"
+    "他停顿片刻，整理着思绪。"
 
 translate schinese_rewrite Chelforte_Discovery_ded60609:
 
-    w "我希望我能答应我,。"
+    w "我希望自己能承诺一定会做到。"
 
 translate schinese_rewrite Chelforte_Discovery_ad944cdb:
 
-    "困难重重 你给他一个安心的笑容。"
+    "你费了很大力气，才对他露出安慰的笑容。"
 
 translate schinese_rewrite Chelforte_Discovery_3445e722:
 
-    e "你尽你所能 沃罗和我都知道。"
+    e "你已经尽力了。伏罗和我都知道。"
 
 translate schinese_rewrite Chelforte_Discovery_23be8d4c:
 
-    "怀着沉重的心,沃尔登转过身来。"
+    "伍尔顿心情沉重地转过身去。"
 
 translate schinese_rewrite Chelforte_Discovery_cfbcb80c:
 
-    w "我知道,但我最好的朋友注定要死 我只能看电视。"
+    w "我知道。但如果我最好的朋友注定要死，而我只能眼睁睁看着，那么我的“尽力”也没什么用。"
 
 translate schinese_rewrite Chelforte_Discovery_72a33094_1:
 
@@ -1479,115 +1479,115 @@ translate schinese_rewrite Chelforte_Discovery_72a33094_1:
 
 translate schinese_rewrite Chelforte_Discovery_de0d00e1:
 
-    e "我们把他带回来一阵子 我们会报仇的。"
+    e "我们让他回来了一段时间，现在要为他复仇。"
 
 translate schinese_rewrite Chelforte_Discovery_f432ca3d:
 
-    "伍尔顿在门口停了下来。当他最后说话时,他的声音很疲倦,但决心坚定。"
+    "伍尔顿在门口停下。最终开口时，他的声音疲惫，却充满决心。"
 
 translate schinese_rewrite Chelforte_Discovery_f8d21319:
 
-    w "是的,我非常感激我拥有的一切, 我会尽我最大的努力 珍惜它。你帮助了我,现在你也在帮我完成这一切。"
+    w "是。我无比感激自己拥有的一切，也会在还能拥有时尽力珍惜。你帮我做到了这一点，现在也在帮我完成这一切。"
 
 translate schinese_rewrite Chelforte_Discovery_823e59d7:
 
-    w "我们会报仇 我会查出是谁干的 确保他不能再操我的东西了。"
+    w "我们会复仇，我会找出那个造成这一切的人，确保他再也不能动我的人分毫。"
 
 translate schinese_rewrite Chelforte_Discovery_97e88f0e:
 
-    w "要做到这一点,我们都要活下去 武器要精锐 药水要装满。"
+    w "要做到这一点，我们都得活下来。磨利武器，备好药水……能做什么就做什么，做好准备。"
 
 translate schinese_rewrite Chelforte_Discovery_905f9c94:
 
-    "沃尔登短暂地转过身来再看看你。"
+    "伍尔顿短暂地回头看了你一眼。"
 
 translate schinese_rewrite Chelforte_Discovery_48380a13:
 
-    w "我期待再次见到你。"
+    w "等你准备好后，我很期待再次见到你。"
 
 translate schinese_rewrite Chelforte_Discovery_f3008618:
 
-    "沃顿带着真实的笑容走进他的家 让你独自处理所有从最后几分钟开始的事情。"
+    "于是，伍尔顿脸上带着真挚的笑容走进家门，留下你独自消化过去几分钟发生的一切。"
 
 translate schinese_rewrite Chelforte_Discovery_3646a7e7:
 
-    "是时候回家了。"
+    "该回家了。"
 
 translate schinese_rewrite Chelforte_Discovery_f02c0096:
 
-    "沃尔登站在门边有点尴尬。"
+    "伍尔顿有些局促地站在门边。"
 
 translate schinese_rewrite Chelforte_Discovery_54867737:
 
-    w "你知道我的感受,但是..."
+    w "你知道我的心意，但是……谢谢你。保重，小家伙。"
 
 translate schinese_rewrite Chelforte_Discovery_69a90bf7:
 
-    e "我会的,要坚强起来跟乌菲打,对吧?"
+    e "我会的。为了和乌菲战斗，我得保持坚强，对吧？"
 
 translate schinese_rewrite Chelforte_Discovery_d73e09c8:
 
-    w "是啊,这将是一场艰难的战斗。"
+    w "没错。这会是一场艰苦的战斗。"
 
 translate schinese_rewrite Chelforte_Discovery_cf788e3b:
 
-    "沃顿转过身 走进他家 留下你一个人。"
+    "伍尔顿挥手道别，转身走进家门，留下你独自一人。"
 
 translate schinese_rewrite Chelforte_Discovery_ca35251b:
 
-    "是该回家的时候了。"
+    "该回家了。"
 
 translate schinese_rewrite Chelforte_Discovery_7cc84a7b:
 
-    msg "你得到了一个水平 向上点和300金。"
+    msg "你获得了一个升级点和300金币。"
 
 translate schinese_rewrite Chelforte_Nosferat_80b59c53:
 
-    "你遇到一个鼻孔..."
+    "你遇到了一只诺斯费拉图……"
 
 translate schinese_rewrite Chelforte_Wuldon_a391ad25:
 
-    "沃顿从把摘轴 撞到墙上转过身来。"
+    "伍尔顿把镐子从墙上拔出，转过身来。"
 
 translate schinese_rewrite Chelforte_Wuldon_af4a74f6:
 
-    "像这样看着他,你以为你能理解 为什么农民们害怕他。"
+    "看着这样的他，你似乎明白了农夫们为什么会害怕他。"
 
 translate schinese_rewrite Chelforte_Wuldon_93ce62f4:
 
-    "他的肌肉在毛皮下膨胀,毛皮与在矿井中辛勤劳动的灰尘和汗水交织在一起。 所有这些背景都与他手上的尖利金属砍刀和在坚固石墙上形成的洞有关。"
+    "他的肌肉在毛发下隆起，皮毛上沾满了在矿井里辛苦劳作留下的尘土和汗水。手中锋利的金属镐子，以及坚硬石墙上逐渐形成的洞口，更衬出了这一切。"
 
 translate schinese_rewrite Chelforte_Wuldon_060f6cf3:
 
-    w "你有什么问题要问我吗?"
+    w "你有什么问题要问我吗？"
 
 translate schinese_rewrite Chelforte_Wuldon_5db474b4:
 
-    e "你觉得我该先到哪里探险?"
+    e "你觉得我应该先探索哪里？"
 
 translate schinese_rewrite Chelforte_Wuldon_b91fd81b:
 
-    "沃顿给你一拳, 将他的砍刀放在地上, 并靠在地上。"
+    "伍尔顿耸了耸肩，把镐子放到地上，靠在上面。"
 
 translate schinese_rewrite Chelforte_Wuldon_d5ea2fc5:
 
-    w "我不知道 所以你才要探寻 找出洞穴的这个地方有什么值得的。"
+    w "我不知道。所以才让你去探索，看看这部分洞窟里有没有什么值得注意的东西。"
 
 translate schinese_rewrite Chelforte_Wuldon_ed28b10c:
 
-    e "还有什么要记住的吗?"
+    e "还有什么需要注意的吗？"
 
 translate schinese_rewrite Chelforte_Wuldon_34255009:
 
-    w "我不认为任何人会想杀你, 但是他们肯定会给任何人带来不便。"
+    w "一路上尽量解决你看到的威胁。我不觉得它们会试图杀了你，但肯定会给任何想在这里工作的人添麻烦。"
 
 translate schinese_rewrite Chelforte_Wuldon_4357bfb3:
 
-    e "好吧,那我就上路了。"
+    e "好吧。那我先走了。"
 
 translate schinese_rewrite Chelforte_Wuldon_918d29ca:
 
-    "沃顿给你点头 在他的肩膀上砍他的手。"
+    "伍尔顿点了点头，把镐子扛到肩上。"
 
 translate schinese_rewrite Chelforte_Wuldon_5bf98721:
 
@@ -1595,7 +1595,7 @@ translate schinese_rewrite Chelforte_Wuldon_5bf98721:
 
 translate schinese_rewrite Chelforte_Wuldon_d3e9d18d:
 
-    w "幸好我免了你观光费。"
+    w "算你走运，我免了你的参观费。"
 
 translate schinese_rewrite Chelforte_Wuldon_72a33094:
 
@@ -1603,11 +1603,11 @@ translate schinese_rewrite Chelforte_Wuldon_72a33094:
 
 translate schinese_rewrite Chelforte_Wuldon_65eb36c3:
 
-    "沃顿似乎不介意,因为他只是 伸出手来用微笑来打发你的头发。"
+    "你之前还真没意识到自己一直盯着他。不过伍尔顿似乎并不介意，只是笑着伸手揉了揉你的头发。"
 
 translate schinese_rewrite Chelforte_Wuldon_774434f8:
 
-    e "很公平,我来这里 是因为我想问你一件事。"
+    e "你喜欢就好。不过我来这里其实是想问你一件事。"
 
 translate schinese_rewrite Chelforte_Wuldon_f1d90117:
 
@@ -1615,175 +1615,175 @@ translate schinese_rewrite Chelforte_Wuldon_f1d90117:
 
 translate schinese_rewrite Chelforte_Wuldon_4ba05d5a:
 
-    "伍尔顿暂时放下他的摘轴 让你得到他的全心全意的注意。"
+    "伍尔顿暂时放下镐子，专心听你说。"
 
 translate schinese_rewrite Chelforte_Wuldon_5db474b4_1:
 
-    e "你觉得我该先到哪里探险?"
+    e "你觉得我应该先探索哪里？"
 
 translate schinese_rewrite Chelforte_Wuldon_bceabb6d:
 
-    "狼人小的裂缝, 给这个问题真正的想法。"
+    "狼人微微动了动身子，认真思考着这个问题。"
 
 translate schinese_rewrite Chelforte_Wuldon_fcc012ea:
 
-    w "我不知道,这就是为什么我们要你帮忙探险。"
+    w "我不知道。我们想让你帮忙探索，很大程度上就是因为这个。你总是能发现有趣的东西。"
 
 translate schinese_rewrite Chelforte_Wuldon_80e9ca7e:
 
-    e "所以,我基本上是你的幸运符。"
+    e "所以，我基本上就是你的幸运符。"
 
 translate schinese_rewrite Chelforte_Wuldon_4b9d8911:
 
-    "温登点头 有点羊毛。"
+    "伍尔顿有些腼腆地点了点头。"
 
 translate schinese_rewrite Chelforte_Wuldon_0eacedc6:
 
-    w "那样你就能适应我们无法进入的空间。"
+    w "除此之外，你还能钻进我们进不去的缝隙。"
 
 translate schinese_rewrite Chelforte_Wuldon_c5a39378:
 
-    e "没有别的原因我在这里吗?"
+    e "我在这里就没有别的理由了吗？"
 
 translate schinese_rewrite Chelforte_Wuldon_95934182:
 
-    w "...你擅长战斗, 并消除威胁 对我们来说将是非常有益的?"
+    w "……你很擅长战斗，替我们清除威胁会非常有帮助？"
 
 translate schinese_rewrite Chelforte_Wuldon_19303305:
 
-    "你摇头,知道他在回避问题。"
+    "你摇了摇头，知道他在回避问题。"
 
 translate schinese_rewrite Chelforte_Wuldon_4eb0adf8:
 
-    e "我知道你可以用足够的时间和精力 自己做这些事。"
+    e "我知道，只要有足够的时间和精力，这些事你自己也能做。"
 
 translate schinese_rewrite Chelforte_Wuldon_d44bee6a:
 
-    w "没错,我也不缺那些东西。"
+    w "那……确实如此。我也不是没有时间和精力。"
 
 translate schinese_rewrite Chelforte_Wuldon_09727994:
 
-    "他看着武罗。"
+    "他瞥了伏罗一眼。"
 
 translate schinese_rewrite Chelforte_Wuldon_b3ef7511:
 
-    w "通常情况下,现在我们和武罗在计时器上。"
+    w "通常是这样。不过现在有伏罗在，我们可是在和时间赛跑。"
 
 translate schinese_rewrite Chelforte_Wuldon_7e4918bf:
 
-    w "但是,是的,你是对的。"
+    w "但没错，你说得对。"
 
 translate schinese_rewrite Chelforte_Wuldon_6c719bee:
 
-    e "正确选择什么。"
+    e "对什么？"
 
 translate schinese_rewrite Chelforte_Wuldon_b83b8ab8:
 
-    "你们两个很清楚你的意思 但沃登在附近的武罗 说起来好像很尴尬。"
+    "你们俩都明白自己指的是什么，但伍尔顿似乎不好意思当着伏罗的面说出来。"
 
 translate schinese_rewrite Chelforte_Wuldon_690e28da:
 
-    w "我们要你在这里。"
+    w "我们希望你留在这里。"
 
 translate schinese_rewrite Chelforte_Wuldon_815e4040:
 
-    "你对沃顿眼神狭隘 沃顿不高兴。"
+    "你眯起眼睛看着伍尔顿，他不高兴地扭捏起来。"
 
 translate schinese_rewrite Chelforte_Wuldon_4e4f5c51:
 
-    w "是的,他想让你来主要是因为我要你来,你高兴了吗?"
+    w "没错，他主要是因为我想让你留下才希望你留下。现在满意了吧？"
 
 translate schinese_rewrite Chelforte_Wuldon_0f55e9ff:
 
-    e "事实上,我是。"
+    e "事实上，我很满意。"
 
 translate schinese_rewrite Chelforte_Wuldon_fcce1475:
 
-    w "幸好我喜欢你 其他人早就被打平了。"
+    w "……算你走运，我喜欢你。不然换作别人，你现在早就被我打趴下了。"
 
 translate schinese_rewrite Chelforte_Wuldon_e5aa2963:
 
-    "满足于你得到的东西, 你转过身 带着微笑。"
+    "得到了想要的答案，你笑着转过身去。"
 
 translate schinese_rewrite Chelforte_Wuldon_0f3202da:
 
-    e "幸好你喜欢我。"
+    e "那还好你喜欢我。"
 
 translate schinese_rewrite Chelforte_Wuldon_025bb35c:
 
-    "如果他能惹你 你就能惹他。"
+    "既然他能捉弄你，你当然也能捉弄他。"
 
 translate schinese_rewrite Chelforte_Wuldon_5356a0a2:
 
-    "在你开始探索之前 你最后听到的 沃顿的消息 是一个模糊的烦恼的抱怨。"
+    "你重新开始探索前，最后听到的伍尔顿的话，是一声带着几分恼意的嘟囔。"
 
 translate schinese_rewrite Chelforte_Wuldon_0014f80e:
 
-    w "你不是刚来过这里吗?"
+    w "你不是刚刚才来过这里吗？"
 
 translate schinese_rewrite Chelforte_Wuldon_9f82fb28:
 
-    e "是的,但我有点忘了我在找什么。"
+    e "……是啊。但我好像忘了自己要找什么。"
 
 translate schinese_rewrite Chelforte_Wuldon_ff23bb65:
 
-    "伍尔顿在被一个男人 看着狗追逐自己的尾巴的困惑中摇头晃脑。"
+    "伍尔顿摇了摇头，神情像是看着一条追着自己尾巴转圈的狗，既好笑又困惑。"
 
 translate schinese_rewrite Chelforte_Wuldon_ce987370:
 
-    w "我不知道我是否希望这是 由怪物打你的头,或不是。"
+    w "我不知道该希望这是怪物打了你的头造成的，还是不该希望。"
 
 translate schinese_rewrite Chelforte_Wuldon_412d9d9d:
 
-    w "这两种选择都具有令人担忧的影响。"
+    w "这两种可能都很令人担忧。"
 
 translate schinese_rewrite Chelforte_Wuldon_af2cdd74:
 
-    "他一如既往是个混蛋。"
+    "他一如既往地混蛋。"
 
 translate schinese_rewrite Chelforte_Wuldon_77568443:
 
-    e "如果是怪物打我,它一定也让我想起了。"
+    e "如果真是怪物打了我，那它肯定连这段记忆也一起打没了。"
 
 translate schinese_rewrite Chelforte_Wuldon_a2d61b4b:
 
-    e "拜托,让我想起我的任务?"
+    e "现在，拜托了。提醒我一下我的任务？"
 
 translate schinese_rewrite Chelforte_Wuldon_c16bfb9d:
 
-    "狼人给一个无助的尖锐的尖锐。"
+    "狼人无奈地耸了耸肩。"
 
 translate schinese_rewrite Chelforte_Wuldon_0d0c42dc:
 
-    w "你正在探索附近地区 寻找任何有趣的东西 清除路上看到的任何怪物。"
+    w "你要探索附近区域，找找有没有有趣的东西，并清除沿途遇到的怪物。"
 
 translate schinese_rewrite Chelforte_Wuldon_a144760a:
 
-    e "明白了。"
+    e "知道了。"
 
 translate schinese_rewrite Chelforte_Wuldon_de397181:
 
-    e "我稍后再跟你谈。"
+    e "我之后再和你聊。"
 
 translate schinese_rewrite Chelforte_Wuldon_c2888060:
 
-    w "希望别问同样的问题。"
+    w "嗯。希望下次别再是同一个问题。"
 
 translate schinese_rewrite Chelforte_Vurro_f04e4f94:
 
-    v "哦,嘿,[e] 很高兴看到你和沃登单独相处了几分钟。"
+    v "哦，嘿，[e]。很高兴看到你能在独自和伍尔顿待了几分钟后活着回来。"
 
 translate schinese_rewrite Chelforte_Vurro_33120eff:
 
-    "当你把自己弄干的时候,你看到沃罗 到处都空空无一人。"
+    "你擦干身体时，看到伏罗有些茫然地四处张望。"
 
 translate schinese_rewrite Chelforte_Vurro_9fce886a:
 
-    e "侦察顺利吗?"
+    e "侦察还顺利吗？"
 
 translate schinese_rewrite Chelforte_Vurro_698f37ff:
 
-    v "嗯。是的。"
+    v "嗯。还行。"
 
 translate schinese_rewrite Chelforte_Vurro_480bdadd:
 
@@ -1791,27 +1791,27 @@ translate schinese_rewrite Chelforte_Vurro_480bdadd:
 
 translate schinese_rewrite Chelforte_Vurro_82634624:
 
-    e "你在那里做得很好吗?"
+    e "你还好吗？"
 
 translate schinese_rewrite Chelforte_Vurro_ff742d09:
 
-    "你从棕色狼人身上得到温柔的摇动头部。"
+    "棕色狼人轻轻摇了摇头。"
 
 translate schinese_rewrite Chelforte_Vurro_cf846ccb:
 
-    v "我会没事的 发生这么多事后 呆在这个洞穴里真奇怪。"
+    v "我会没事的。经历了那么多之后，再待在这座洞窟里感觉很奇怪。"
 
 translate schinese_rewrite Chelforte_Vurro_5d6c8add:
 
-    v "...我不喜欢想有多少人埋在这里。"
+    v "……我不喜欢去想，我有多少族人埋在这里。"
 
 translate schinese_rewrite Chelforte_Vurro_2a42b266:
 
-    "你们俩默默地站在那里片刻。"
+    "你们都沉默地站了一会儿。"
 
 translate schinese_rewrite Chelforte_Vurro_84c45187:
 
-    v "你知道,即使现在, 我害怕我会拒绝这里。"
+    v "你知道吗，就算到了现在，我还是害怕自己会在这里变身。"
 
 translate schinese_rewrite Chelforte_Vurro_b12985a0:
 
@@ -1819,27 +1819,27 @@ translate schinese_rewrite Chelforte_Vurro_b12985a0:
 
 translate schinese_rewrite Chelforte_Vurro_0674c708:
 
-    "沃登用他的重量 将武罗拉下隧道。"
+    "伍尔顿猛地发力冲出水面，借助自己的重量把伏罗拽进了隧道。"
 
 translate schinese_rewrite Chelforte_Vurro_8492bd8d:
 
-    "沃登土地湿润,但胜利 他转身等待沃罗出现。"
+    "伍尔顿湿淋淋地落地，却一脸得意。他转过身，等着伏罗出现。"
 
 translate schinese_rewrite Chelforte_Vurro_51c6c7f7:
 
-    "不久后,一个愤怒的棕褐狼人又露面,干毛现在恢复到其肥嫩的状态。"
+    "没过多久，一只恼火的棕色狼人重新浮出水面，干燥的皮毛又恢复成湿漉漉的样子。"
 
 translate schinese_rewrite Chelforte_Vurro_7e0af7a0:
 
-    v "你已经把我扔进去一次了 为什么还要这样。"
+    v "你已经把我扔进去过一次了。为什么还要再来一次？"
 
 translate schinese_rewrite Chelforte_Vurro_a2d8e44d:
 
-    "伍尔顿给了我们一阵。"
+    "伍尔顿耸了耸肩。"
 
 translate schinese_rewrite Chelforte_Vurro_5ef4c3ae:
 
-    w "我看得出你又开始沮丧了 所以我想帮你感觉好点。"
+    w "我看你又开始消沉了，所以想帮你振作起来。"
 
 translate schinese_rewrite Chelforte_Vurro_65cabcbf:
 
@@ -1847,55 +1847,55 @@ translate schinese_rewrite Chelforte_Vurro_65cabcbf:
 
 translate schinese_rewrite Chelforte_Vurro_dd6a31fe:
 
-    v "好吧 但你得解释一下我干干的时候 我们在这里对[e]做什么。"
+    v "好吧。但你得在我晾干的时候，向[e]解释我们为什么在这里。"
 
 translate schinese_rewrite Chelforte_Vurro_78e712e4:
 
-    w "公平公平。"
+    w "公平就是公平。"
 
 translate schinese_rewrite Chelforte_Vurro_9c521750:
 
-    "沃尔登转向你。"
+    "伍尔顿转向你。"
 
 translate schinese_rewrite Chelforte_Vurro_63f65e63:
 
-    w "好了,小家伙,我们的目标就是在这里做一个通风口, 清除使我们与其它地区隔绝的废墟, 并找到任何可能让我们感兴趣的地点。"
+    w "好，小家伙。我们来这里的目标，是建造通风井，清理挡住我们通往其他区域的部分瓦砾，并寻找任何可能感兴趣的地点。"
 
 translate schinese_rewrite Chelforte_Vurro_c146cfb1:
 
-    w "我和武罗会处理前两个案子 不过他不会拒绝额外的帮助 如果你愿意的话。"
+    w "前两件事主要由我和伏罗负责，不过如果你愿意帮忙，他也不会拒绝额外的援手。"
 
 translate schinese_rewrite Chelforte_Vurro_0e1e5d72:
 
-    w "你的工作主要是探险,我看你在粘土国家的表现。"
+    w "你的主要任务是探索。看过你在史莱姆之地的表现后，我相信你一定能发现有趣的东西。"
 
 translate schinese_rewrite Chelforte_Vurro_48549906:
 
-    w "这儿有把摘轴,你需要它才能得到任何重要的东西。"
+    w "给你一把镐子，想挖出什么重要东西就得用它。"
 
 translate schinese_rewrite Chelforte_Vurro_b6cddd25:
 
-    w "我们清楚了吗?"
+    w "明白了吗？"
 
 translate schinese_rewrite Chelforte_Vurro_ed7274fe:
 
-    "你给伍尔顿点头。"
+    "你朝伍尔顿点了点头。"
 
 translate schinese_rewrite Chelforte_Vurro_50f664fa:
 
-    w "完美。 请退后。"
+    w "很好。请退后。"
 
 translate schinese_rewrite Chelforte_Vurro_2898d4e9:
 
-    "你尽可能远离沃尔登。只要你越过某种隐形线, 沃尔登就会开始暴力摇晃,到处喷洒水。"
+    "你小心翼翼地尽可能远离伍尔顿。刚越过某条看不见的界线，伍尔顿便开始剧烈抖动身体，水花四处飞溅。"
 
 translate schinese_rewrite Chelforte_Vurro_efbd22af:
 
-    w "好与新。"
+    w "焕然一新。"
 
 translate schinese_rewrite Chelforte_Vurro_02140273:
 
-    "狼人利用这个机会 放下他的包 并取出一个摘轴。"
+    "狼人趁机放下背包，取出一把镐子。"
 
 translate schinese_rewrite Chelforte_Vurro_7fdacbf9:
 
@@ -1903,15 +1903,15 @@ translate schinese_rewrite Chelforte_Vurro_7fdacbf9:
 
 translate schinese_rewrite Chelforte_Vurro_5e5915d7:
 
-    "褐狼发现你时 手怀中有个小石头 正在转身。"
+    "棕色狼人抱着一块小巨石转身时发现了你。"
 
 translate schinese_rewrite Chelforte_Vurro_0d3fc131:
 
-    v "你好 [e] 有什么需要帮忙的吗?"
+    v "你好 [e]。有什么我能帮你的吗？"
 
 translate schinese_rewrite Chelforte_Vurro_74fe9d3d:
 
-    e "不,我做得够好,我在问你要不要帮忙?"
+    e "不用，我这边应付得来。我其实是在想，你要不要帮忙？"
 
 translate schinese_rewrite Chelforte_Vurro_e9deefcb:
 
@@ -1919,227 +1919,226 @@ translate schinese_rewrite Chelforte_Vurro_e9deefcb:
 
 translate schinese_rewrite Chelforte_Vurro_c2523471:
 
-    v "我想我手头有好东西, 但如果你想帮忙,请便。"
+    v "我觉得这边我已经处理得很好了，不过你要是想帮忙，尽管来吧。"
 
 translate schinese_rewrite Chelforte_Vurro_62a32bc9:
 
-    e "好吧,我该怎么处理这件事呢?"
+    e "好吧，那我该怎么做？"
 
 translate schinese_rewrite Chelforte_Vurro_8ca10b84:
 
-    v "从那边的堆里捡起石头 把它们拖到角落里。"
+    v "从那边的石堆里捡些石头，拖到角落去。"
 
 translate schinese_rewrite Chelforte_Vurro_0a4ce564:
 
-    e "听起来不错,我需要休息时会停下来的。"
+    e "听起来不错。需要休息时我就停下来。"
 
 translate schinese_rewrite Chelforte_Vurro_e19250f6:
 
-    v "当然,我们仍然需要你探险！"
+    v "当然。毕竟我们还需要你继续探索！"
 
 translate schinese_rewrite Chelforte_Vurro_77eb8817:
 
-    e "我愿意 但我需要节省探险的能量。"
+    e "我想帮，但得留点体力探索。"
 
 translate schinese_rewrite Chelforte_Vurro_c6174b6c:
 
-    v "没关系,谢谢你的到来！"
+    v "没关系！谢谢你过来问我！"
 
 translate schinese_rewrite Chelforte_Vurro_e1a361f3:
 
-    "微笑的狼人转过身来 开始再次搬动岩石。"
+    "微笑的狼人转过身，又开始搬运石头。"
 
 translate schinese_rewrite Chelforte_Vurro_cd962345:
 
-    "也许你不该再打扰他 除非你想帮忙。"
+    "除非你想帮忙，否则也许不该再去打扰他。"
 
 translate schinese_rewrite Chelforte_Vurro_7f70bbca:
 
-    "沃罗在擦他的眉毛上的汗水 当你再次找到他时。"
+    "你再次找到伏罗时，他正在擦额头上的汗。"
 
 translate schinese_rewrite Chelforte_Vurro_84ff3a7d:
 
-    v "你是来帮忙的吗?"
+    v "你是来帮忙的吗？"
 
 translate schinese_rewrite Chelforte_Vurro_55992b1f:
 
-    e "我有点厌倦了探险 所以如果你不介意的话 我想我会跳上去的。"
+    e "我有点探索腻了，所以如果你不介意，我想来搭把手。"
 
 translate schinese_rewrite Chelforte_Vurro_7f34facb:
 
-    "乌罗发现你上下下 发现你疲惫不堪。"
+    "伏罗上下打量着你，注意到你已经筋疲力尽。"
 
 translate schinese_rewrite Chelforte_Vurro_c8819342:
 
-    v "你看起来像你需要休息,[e]。"
+    v "你看起来需要休息一下，[e]。要是我再让你干活，伍尔顿会把我撕碎的。"
 
 translate schinese_rewrite Chelforte_Vurro_5d91811c:
 
-    e "你确定吗 那些石头看起来很重。"
+    e "你确定？那些石头看起来挺重的。"
 
 translate schinese_rewrite Chelforte_Vurro_772a32a7:
 
-    v "不,我坚持,[e] 去休息一会,看看沃尔登是否需要帮助。"
+    v "不，我坚持，[e]。去休息一会儿，或者看看伍尔顿需不需要帮忙。"
 
 translate schinese_rewrite Chelforte_Vurro_8228c5e2:
 
-    "你得到的只是沃罗的笑容 当他再次开始搬石头的时候。"
+    "你得到的只有伏罗的一个微笑，因为他又开始搬运石头。"
 
 translate schinese_rewrite Chelforte_Vurro_9fdc718a:
 
     "看到伏罗不想浪费时间 可以理解 你马上跟他一起。"
-
 translate schinese_rewrite Chelforte_Vurro_a2622cda:
 
-    "你们两个花时间聊天和开玩笑 偶尔会收到一个讨厌的沃尔登的石子 砸到后脑勺。"
+    "你们俩一边聊天打趣，一边消磨时间；偶尔，恼火的伍尔顿会朝你们后脑勺扔来一颗小石子。"
 
 translate schinese_rewrite Chelforte_Vurro_e8bd2563:
 
-    "你们俩开始一起搬石头 分享闲聊 笑一笑。"
+    "说完，你们俩开始一起搬石头，一边闲聊，一边始终笑个不停。"
 
 translate schinese_rewrite Chelforte_Vurro_e7a0226f:
 
-    e "对不起,我觉得我现在负担不起了。"
+    e "抱歉，我觉得自己现在实在抽不出时间。"
 
 translate schinese_rewrite Chelforte_Vurro_8ab8d3d9:
 
-    "狼人的笑容告诉你 他不介意。"
+    "狼人露出一丝浅笑，表示他并不介意。"
 
 translate schinese_rewrite Chelforte_Vurro_b6d4813e:
 
-    v "好吧,但一定要来到这里 告诉我,如果有什么 很酷的事情发生,好吗?"
+    v "好吧，不过要是发生什么有趣的事，记得过来告诉我，好吗？"
 
 translate schinese_rewrite Chelforte_Vurro_1bfe657f:
 
-    "他暂停片刻。"
+    "他停顿了片刻。"
 
 translate schinese_rewrite Chelforte_Vurro_5dfb2795:
 
-    v "如果你有麻烦,或者尖叫。"
+    v "要是遇到麻烦，就大声喊。"
 
 translate schinese_rewrite Chelforte_Vurro_bd5b0267:
 
-    "武罗又开始搬石头了 沃罗开始搬石头。"
+    "伏罗觉得休息够了，又开始搬运石头。"
 
 translate schinese_rewrite Vurro_Cave_Help_e8bd2563:
 
-    "你们俩开始一起搬石头 分享闲聊 笑一笑。"
+    "说完，你们俩开始一起搬石头，一边闲聊，一边始终笑个不停。"
 
 translate schinese_rewrite Vurro_Cave_Help_6c7e25f6:
 
-    "你用武罗运石头的时间 已经造成50个HP损伤。"
+    "你和伏罗搬石头时损失了50点生命值。"
 
 translate schinese_rewrite Vurro_Cave_Help_4e57787f:
 
-    "尽管如此,洞穴的水还是稍微缓解了肌肉的疼痛,因为你喝了它。你得到了200 EXP。"
+    "不过，你喝下洞窟里的水后，肌肉的酸痛稍稍缓解了。你获得了200点经验值。"
 
 translate schinese_rewrite Vurro_Cave_Help_91f1d522:
 
-    msg "您现在是 [pc.level] 级别! 请检查您的库存以分配级别点。"
+    msg "你现在是[pc.level]级！查看背包，分配你的升级点数。"
 
 translate schinese_rewrite Vurro_Cave_Help_ece49167:
 
-    "您还捡起一块石块。"
+    "你还捡到了一块板岩。"
 
 translate schinese_rewrite Chelforte_Cavern_Ward_a30ae46e:
 
-    "你看你面前的脉搏岩石..."
+    "你看着面前那块脉动的岩石……"
 
 translate schinese_rewrite Chelforte_Cavern_Ward_63309e96:
 
-    "奇怪的是 流水所激活的岩石 这里也能看到..."
+    "被流动的水激活的那块岩石也出现在这里，真奇怪……"
 
 translate schinese_rewrite Chelforte_Cavern_Ward_53976138:
 
-    "你摇头。"
+    "你摇了摇头。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore1_1fdf53f3:
 
-    "你盯着矿脉看 墙里好像有矿物质。"
+    "你盯着矿脉，墙壁里似乎有一些矿物……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore1_f0ce74f4:
 
-    "但是,你没有工具 提取矿石..."
+    "然而，你没有提取矿石的工具……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore1_d9888168:
 
-    "你拿出你的摘轴 并开始打击它 与矿石。"
+    "你拿出镐子，开始用它敲击矿石。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore1_636e0bac:
 
-    "过了几段漫长而痛苦的时光 你终于得到了铁矿石。"
+    "经过一番漫长而艰苦的敲打，你终于获得了一块铁矿石。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore1_8d7da241:
 
-    "矿山可能还会补充 最终。"
+    "暂时没什么可挖的了……也许矿脉最终会重新生成……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore2_1fdf53f3:
 
-    "你盯着矿脉看 墙里好像有矿物质。"
+    "你盯着矿脉，墙壁里似乎有一些矿物……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore2_f0ce74f4:
 
-    "但是,你没有工具 提取矿石..."
+    "然而，你没有提取矿石的工具……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore2_d9888168:
 
-    "你拿出你的摘轴 并开始打击它 与矿石。"
+    "你拿出镐子，开始用它敲击矿石。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore2_57401d29:
 
-    "过了几段漫长而痛苦的时光 你终于得到了一块岩浆。"
+    "经过一番漫长而艰苦的敲打，你终于获得了一块磁石矿。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore2_8d7da241:
 
-    "矿山可能还会补充 最终。"
+    "暂时没什么可挖的了……也许矿脉最终会重新生成……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore3_1fdf53f3:
 
-    "你盯着矿脉看 墙里好像有矿物质。"
+    "你盯着矿脉，墙壁里似乎有一些矿物……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore3_f0ce74f4:
 
-    "但是,你没有工具 提取矿石..."
+    "然而，你没有提取矿石的工具……"
 
 translate schinese_rewrite Chelforte_Cavern_Ore3_d9888168:
 
-    "你拿出你的摘轴 并开始打击它 与矿石。"
+    "你拿出镐子，开始用它敲击矿石。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore3_596554b3:
 
-    "过了几段漫长而痛苦的时光 你终于得到了铜矿石。"
+    "经过一番漫长而艰苦的敲打，你终于获得了一块铜矿石。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore3_8d7da241:
 
-    "矿山可能还会补充 最终。"
+    "暂时没什么可挖的了……也许矿脉最终会重新生成……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_1d7ad46b:
 
-    "你看那个标志 上面写着切尔福特洞穴 画着巨大的狼人和山洞里的岩石。"
+    "你看着告示牌……上面写着“切尔福特洞窟”，还画着一只巨大的狼人和洞里的岩石……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_697e01bc:
 
-    "它似乎预示着前面的危险。"
+    "这似乎是在示意前方有危险。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_fdd0f5a9:
 
-    "摇头,小心进洞穴..."
+    "你摇了摇头，小心翼翼地走进洞窟……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_784896c6:
 
-    "你注意到在灌木丛里有个小生物... 它似乎渴望在你的背包里种植物..."
+    "你注意到灌木丛里正藏着一只小生物……它似乎很想要你背包里的某种植物……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a599dd03:
 
-    "不过... 看来你不知道怎么把它引出来... 也许你需要向某个人学习..."
+    "然而……你似乎不知道该怎么把它引出来……也许你需要向某个人学习……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7:
 
@@ -2147,15 +2146,15 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7:
 
 translate schinese_rewrite Cavern_Entrance_Loop_95226dee:
 
-    "你失去了一块汉普, 和生物还在里面。"
+    "你失去了一份麻，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_1:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762_1:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_1:
 
@@ -2163,15 +2162,15 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_1:
 
 translate schinese_rewrite Cavern_Entrance_Loop_c4467c2e:
 
-    "你丢了一块金吉儿 那只怪物还在里面。"
+    "你失去了一块姜，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_2:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762_2:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_2:
 
@@ -2179,15 +2178,15 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_2:
 
 translate schinese_rewrite Cavern_Entrance_Loop_efa64d93:
 
-    "你失去了一块里德, 和生物还在里面。"
+    "你失去了一根芦苇，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_3:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762_3:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_3:
 
@@ -2195,43 +2194,43 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_3:
 
 translate schinese_rewrite Cavern_Entrance_Loop_173b8db3:
 
-    "你失去了一块迷迭香, 和生物还在里面。"
+    "你失去了一株迷迭香，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_4:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_8a4ca899:
 
-    "胡萝卜很快地回到灌木丛中 带着奇怪的花儿回来。"
+    "它迅速把胡萝卜叼回灌木丛……然后带着一朵奇怪的花回来……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_79ba4270:
 
-    "当花触摸你的毛皮时,你可以立即感受到花的效果, 仔细地把它储存在你的包里。"
+    "那朵花碰到你的毛发时，你立刻感受到了它的效果，于是小心地把它收进包里。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_72e5ad9a:
 
-    "感谢那个小生物 它眨眼就回到灌木丛里。"
+    "你向小生物道谢，它朝你眨了眨眼，又退回灌木丛中。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_8a4ca899_1:
 
-    "胡萝卜很快地回到灌木丛中 带着奇怪的花儿回来。"
+    "它迅速把胡萝卜叼回灌木丛……然后带着一朵奇怪的花回来……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_410d02b0:
 
-    "当你仔细看一看,你就会意识到 这只是一个菊花。"
+    "你仔细一看，发现那只不过是一朵菊花。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_72e5ad9a_1:
 
-    "感谢那个小生物 它眨眼就回到灌木丛里。"
+    "你向小生物道谢，它朝你眨了眨眼，又退回灌木丛中。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_5:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_4d9ad675:
 
-    "胡萝卜很快会回灌木丛... 但它不会给你任何回报..."
+    "它迅速把胡萝卜叼回灌木丛……却什么也没还给你……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_4:
 
@@ -2239,15 +2238,15 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_4:
 
 translate schinese_rewrite Cavern_Entrance_Loop_7df2caa2:
 
-    "也许... 你需要一个更高的{color=#d1e431}Charrisma{/color} 对于这个小生物, 或者再试一次。"
+    "也许……你需要更高的{color=#d1e431}魅力{/color}才能打动这只小生物，或者再试一次。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_6:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762_4:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_5:
 
@@ -2255,15 +2254,15 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_5:
 
 translate schinese_rewrite Cavern_Entrance_Loop_78a61ade:
 
-    "你失去了一块贝利, 和生物还在里面。"
+    "你失去了一份大麦，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_7:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762_5:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_6:
 
@@ -2271,15 +2270,15 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_6:
 
 translate schinese_rewrite Cavern_Entrance_Loop_358fc31b:
 
-    "你失去了一块菊花, 和生物还在里面。"
+    "你失去了一朵菊花，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_242191df_8:
 
-    "你给它一块..."
+    "你给了它一小块……"
 
 translate schinese_rewrite Cavern_Entrance_Loop_20d69762_6:
 
-    "似乎不欣赏礼物 它从你手里抢走了一块东西。"
+    "它似乎并不领情，直接从你手里把那一块抢走了。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_7:
 
@@ -2287,8 +2286,8 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_7:
 
 translate schinese_rewrite Cavern_Entrance_Loop_983d4d28:
 
-    "你失去了一块草原的格蕾丝, 和生物还在里面。"
+    "你失去了一份圣恩草，而那只生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_2dd49d8c:
 
-    msg "您是否想要离开此区域, 地牢状态将无法保存。"
+    msg "你要离开这里吗？地牢的状态不会被保存。"

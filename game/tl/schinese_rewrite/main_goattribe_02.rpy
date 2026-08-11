@@ -3,23 +3,23 @@
 
 translate schinese_rewrite kechioeren_gem_finished_836b55a4:
 
-    "你把宝石扔进窝里了,很合身!"
+    "你把宝石放进放大镜里，严丝合缝！"
 
 translate schinese_rewrite kechioeren_gem_finished_4c68247d:
 
-    "也许现在你可以使用它..."
+    "也许现在你可以用它了……"
 
 translate schinese_rewrite kechioeren_loupe_gem_912a6c3e:
 
-    "你把宝石从露台上拆开 把它放回原处。"
+    "你把宝石从放大镜里取出来，放回了原本的位置。"
 
 translate schinese_rewrite kechioeren_loupe_gem_aa17b5a1:
 
-    "你拿起桌子下面的卷轴, 上面似乎有一些旧的污点, 你只能看到绿色宝石下面。"
+    "你捡起桌下的卷轴，上面似乎有些古老的污渍，只有透过绿宝石才能看见。"
 
 translate schinese_rewrite kechioeren_loupe_gem_4600f043:
 
-    "将尘埃抹去,你突然感觉 一种熟悉感 冲洗在你身上, 好像你见过这卷卷轴, 或者你自己写的。"
+    "你拍去灰尘，突然感到一阵熟悉感涌上心头，仿佛你以前见过这卷轴，或者它就是你亲手写的。"
 
 translate schinese_rewrite kechioeren_loupe_gem_89393dc4:
 
@@ -27,167 +27,167 @@ translate schinese_rewrite kechioeren_loupe_gem_89393dc4:
 
 translate schinese_rewrite kechioeren_loupe_gem_8cc22a2c:
 
-    "你觉得卷轴在呼唤你 所以你决定保留它。"
+    "你感觉卷轴在呼唤你，于是决定把它留下。"
 
 translate schinese_rewrite kechioeren_loupe_gem_1b97fc2a:
 
-    msg "彩色卷轴保存符被添加到您的库存中。 您可以使用此项目体验过去。"
+    msg "沾污的卷轴纪念品已加入你的物品栏。你可以使用该物品，体验它的过去。"
 
 translate schinese_rewrite main_kechioeren_conference_e7d8f37d:
 
-    "你看到将军站在窗帘外边,他似乎疲惫不堪,面具脱了,他用严酷的表情看着你。"
+    "你看到将军站在帘子旁。他看起来筋疲力尽，面具也摘了下来，正神情严肃地看着你。"
 
 translate schinese_rewrite main_kechioeren_conference_dfee6459:
 
-    k "你要什么?"
+    k "你想干什么？"
 
 translate schinese_rewrite main_kechioeren_conference_0e38e34a:
 
-    e "我是来见局长的,他没事吧?"
+    e "我来看看酋长。他没事吧？"
 
 translate schinese_rewrite main_kechioeren_conference_9462a50d:
 
-    "他看着你,然后在窗帘上, 然后又回到你身上。"
+    "他看了看你，又看了看帘子，随后再次看向你。"
 
 translate schinese_rewrite main_kechioeren_conference_edcec538:
 
-    k "不,他没有,走开,别烦他。"
+    k "不，他不好。滚开。别再烦他。"
 
 translate schinese_rewrite main_kechioeren_conference_82889954:
 
-    e "等等,发生了什么事。"
+    e "等等，发生什么事了？"
 
 translate schinese_rewrite main_kechioeren_conference_5ee1001c:
 
-    k "发生什么事了 你和你的村落都发生了。"
+    k "发生什么事？还不是因为你。因为你和你那愚蠢的村子。"
 
 translate schinese_rewrite main_kechioeren_conference_2cec54b4:
 
-    k "你差点杀了我的酋长 你知道吗 你的牛跟你说的吗？"
+    k "你差点杀了我的酋长，知道吗？你的公牛没告诉你？"
 
 translate schinese_rewrite main_kechioeren_conference_7c0f3fb0:
 
-    e "对不起 我都不知道他瞒着你。"
+    e "听我说，对不起。我甚至不知道他把这件事瞒着你。"
 
 translate schinese_rewrite main_kechioeren_conference_16ea7224:
 
-    k "我不管,快离开这。"
+    k "你知道吗？我不在乎。赶紧离开这里。"
 
 translate schinese_rewrite main_kechioeren_conference_515435af:
 
-    "卡里转身离开你。"
+    "卡里转过身，离你而去。"
 
 translate schinese_rewrite main_kechioeren_conference_e6d22e0b:
 
-    msg "工作在进行中!"
+    msg "开发中！"
 
 translate schinese_rewrite main_kechioeren_conference_5bfd4017:
 
-    "桌子上有个卢布,但不管用。"
+    "桌上有一把放大镜，但它坏了。"
 
 translate schinese_rewrite main_kechioeren_conference_f1444e06:
 
-    "你注意到在槽内有一个空位, 好像有东西不见了。"
+    "你注意到放大镜里有个空槽，似乎少了什么东西。"
 
 translate schinese_rewrite main_kechioeren_conference_631dc9b6:
 
-    "也许你可以找到方法来修复它, 或者找一个知识丰富的人来帮忙。"
+    "也许你能想办法修好它，或者找个足够懂行的人帮忙。"
 
 translate schinese_rewrite main_kechioeren_conference_29fde476:
 
-    "宝石嵌入巢穴 你试图用它来环顾房间。"
+    "把宝石嵌入放大镜后，你试着用它观察房间四周。"
 
 translate schinese_rewrite kechioeren_search_loop_e9e31053:
 
-    "山羊部落的山周围, 你注意到附近有一片绿树, 你接近取一个。"
+    "在山羊部落的山间，你注意到附近有一丛绿灌木，便走过去采了一株。"
 
 translate schinese_rewrite kechioeren_search_loop_6fcfb0c6:
 
-    "你把它放在包里,你现在有[item_number]荷瑞汉。"
+    "你把它放进袋子里，现在有 [item_number] 株霍特霍恩。"
 
 translate schinese_rewrite kechioeren_search_loop_4536ffcd:
 
-    "你把它放在包里,现在有[item_number]荷瑞赫犬。"
+    "你把它放进袋子里，现在有 [item_number] 株霍特霍恩。"
 
 translate schinese_rewrite kechioeren_search_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在附近搜寻了一会儿，但周围似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite Kechioeren_Welcome_4ef3920d:
 
-    "你走向大门 看到两个守卫站在那里 盯着你。"
+    "你朝大门走去，看见两名卫兵站在那里，正盯着你。"
 
 translate schinese_rewrite Kechioeren_Welcome_aacb2565:
 
-    e "嘿,我可以进去吗?"
+    e "嘿……我可以进去吗？"
 
 translate schinese_rewrite Kechioeren_Welcome_7a352d19:
 
-    "警卫不情愿地从他口袋里拿了一张纸 把你的脸和图纸比起来。"
+    "卫兵不情愿地从口袋里掏出一张纸，把你的脸和上面的画像对照了一番。"
 
 translate schinese_rewrite Kechioeren_Welcome_13971371:
 
-    goatguard "局长和将军正在休息,但是... 他们命令你... 以访客身份进入。"
+    goatguard "酋长和将军正在休息，不过……他们吩咐过，你可以作为访客进去……"
 
 translate schinese_rewrite Kechioeren_Welcome_a3f91334:
 
-    goatguard "酋长正在休息,但他命令你 可以进入我们的部落,作为访客。"
+    goatguard "酋长正在休息，但他吩咐过，你可以以访客身份进入我们部落。"
 
 translate schinese_rewrite Kechioeren_Welcome_b9f1536b:
 
-    goatguard "但是... 我们会监视你的。"
+    goatguard "不过……呃……我们会盯着你的。"
 
 translate schinese_rewrite Kechioeren_Welcome_20caf69f:
 
-    goatguard "所以,不要做任何奇怪的事情。"
+    goatguard "所以，别做什么奇怪的事。"
 
 translate schinese_rewrite Kechioeren_Welcome_7e187960:
 
-    goatguard "特别是上次... 你狠狠地打我们的时候。"
+    goatguard "尤其是上次……你把我们打得够呛。"
 
 translate schinese_rewrite Kechioeren_Welcome_f799ca3c:
 
-    e "对不起。"
+    e "哦……对不起。"
 
 translate schinese_rewrite Kechioeren_Welcome_e21d79be:
 
-    goatguard "再说上次你非法闯入时 我们把你打得那么惨..."
+    goatguard "再说了，上次你擅闯时，我们也把你打得够呛……"
 
 translate schinese_rewrite Kechioeren_Welcome_7acf90b1:
 
-    e "你很幸运有将军..."
+    e "哼，那只是因为你们有将军撑腰，算你们走运……"
 
 translate schinese_rewrite Kechioeren_Welcome_caf1e4be:
 
-    goatguard "管它呢,小心你的屁股 在我们部落,否则不只是我们两个人,你正在战斗。"
+    goatguard "随便你。在我们部落里给我小心点，不然你要对付的就不只是我们两个了。"
 
 translate schinese_rewrite Kechioeren_Welcome_2e26a92a:
 
-    e "嗯..."
+    e "呃……好吧。"
 
 translate schinese_rewrite Furkan_Dialogue_23413a48:
 
-    f "库里尔 欢迎 请坐。"
+    f "信使，欢迎。请坐。"
 
 translate schinese_rewrite Furkan_Dialogue_c6f94e6f:
 
-    e "Chief..."
+    e "酋长……"
 
 translate schinese_rewrite Furkan_Dialogue_1efd9bbe:
 
-    f "叫我弗坎,我们不要求你正式。"
+    f "叫我弗坎就好。你不用这么正式。"
 
 translate schinese_rewrite Furkan_Dialogue_07ae76aa:
 
-    e "没事,我四处看看。"
+    e "呃……没事，我就随便四处看看。"
 
 translate schinese_rewrite Furkan_Dialogue_ccdcb24c:
 
-    f "当然。"
+    f "好。"
 
 translate schinese_rewrite Furkan_Dialogue_f2de3991:
 
-    f "警卫..."
+    f "卫兵……？"
 
 translate schinese_rewrite Furkan_Dialogue_87bfc1e3:
 
@@ -195,39 +195,39 @@ translate schinese_rewrite Furkan_Dialogue_87bfc1e3:
 
 translate schinese_rewrite Furkan_Dialogue_48a2c4af:
 
-    f "所以..."
+    f "那么……"
 
 translate schinese_rewrite Furkan_Dialogue_6eac4101:
 
-    f "非常感谢你帮我走出洞穴。"
+    f "非常感谢你帮我离开山洞。"
 
 translate schinese_rewrite Furkan_Dialogue_33dd9d5d:
 
-    f "将军说你打得他很重,不是吗?"
+    f "将军告诉我，你把他打得很重，对吧？"
 
 translate schinese_rewrite Furkan_Dialogue_24ed6012:
 
-    e "嗯..."
+    e "嗯……是他主动要求打的……"
 
 translate schinese_rewrite Furkan_Dialogue_de57760b:
 
-    f "将军告诉我你在洞穴里勇敢地和怪物作战。"
+    f "将军告诉我，你勇敢地和山洞里的怪物战斗。"
 
 translate schinese_rewrite Furkan_Dialogue_e424ec5b:
 
-    e "我们一起做的,他帮我很多。"
+    e "其实是我们一起做到的。他帮了我……很多。"
 
 translate schinese_rewrite Furkan_Dialogue_7cf0b6cd:
 
-    f "我知道,但你在这里证明了你的价值。"
+    f "我知道。不过，你已经证明了自己的价值。"
 
 translate schinese_rewrite Furkan_Dialogue_08ca6612:
 
-    f "所以,如果我们需要什么, 你会很乐意帮忙...？"
+    f "所以，如果我们有什么需要，你愿意帮个忙……？"
 
 translate schinese_rewrite Furkan_Dialogue_05245476:
 
-    e "嗯... 为什么是我?"
+    e "嗯……为什么是我？"
 
 translate schinese_rewrite Furkan_Dialogue_10dcb4b0:
 
@@ -235,27 +235,27 @@ translate schinese_rewrite Furkan_Dialogue_10dcb4b0:
 
 translate schinese_rewrite Furkan_Dialogue_f595ef63:
 
-    f "证明我承诺与你的村庄和平相处。"
+    f "这是为了证明我与贵村和解的决心。"
 
 translate schinese_rewrite Furkan_Dialogue_1ebc4141:
 
-    f "证明我们毕竟可以友好相处。"
+    f "也是为了表明，我们终究可以友好相处。"
 
 translate schinese_rewrite Furkan_Dialogue_0062e4e6:
 
-    e "呃...如果我拒绝呢?"
+    e "呃……如果我说不呢？"
 
 translate schinese_rewrite Furkan_Dialogue_a0fe8375:
 
-    f "当然,你可以。"
+    f "当然可以。"
 
 translate schinese_rewrite Furkan_Dialogue_2d273805:
 
-    "酋长嘲笑你,他似乎知道你的心往何方走..."
+    "酋长冲你咧嘴一笑，似乎已经猜到你的心思了……你根本不可能说不。"
 
 translate schinese_rewrite Furkan_Dialogue_480be166:
 
-    "他知道这一点。"
+    "而且，他知道这一点。"
 
 translate schinese_rewrite Furkan_Dialogue_fa2a6aae:
 
@@ -263,7 +263,7 @@ translate schinese_rewrite Furkan_Dialogue_fa2a6aae:
 
 translate schinese_rewrite Furkan_Dialogue_bdf6a85b:
 
-    f "Couri-"
+    f "信使——"
 
 translate schinese_rewrite Furkan_Dialogue_b9df45c1:
 
@@ -275,31 +275,31 @@ translate schinese_rewrite Furkan_Dialogue_3ec57d49:
 
 translate schinese_rewrite Furkan_Dialogue_1969bdbc:
 
-    "他的面颊变得红了 头目几乎马上避开视线。"
+    "他的脸颊一下子红了许多，酋长几乎立刻就移开了视线。"
 
 translate schinese_rewrite Furkan_Dialogue_bb052833:
 
-    f "小心天气,天气越来越冷了,快递员。"
+    f "注意天气，信使。天要冷起来了。"
 
 translate schinese_rewrite Furkan_Dialogue_fbfb4027:
 
-    e "Y-y。"
+    e "是、是的。"
 
 translate schinese_rewrite Furkan_Dialogue_261ee5af:
 
-    "他等了几秒钟才转向你 无意间让你的老二一眼。"
+    "他等了几秒才转过身来，视线却不小心落在了你的阴茎上。"
 
 translate schinese_rewrite Furkan_Dialogue_7c56f12b:
 
-    "你可以听到一个响亮的声音。"
+    "你听见一声响亮的吞咽声。"
 
 translate schinese_rewrite Furkan_Dialogue_04558c1e:
 
-    f "...Alright."
+    f "……好吧。"
 
 translate schinese_rewrite Furkan_Normal_Talk_f85cdcd1:
 
-    f "你好吗,库里尔?" nointeract
+    f "信使，最近过得怎么样？" nointeract
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_1577a57f:
 
@@ -311,7 +311,7 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_8dd38bbf:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_e2c849c1:
 
-    f "上次我听到他的时候 他指责我们种植石块 但我们和它无关。"
+    f "我上次听到关于他的消息时，他指责我们安放了那块石头。但这跟我们无关。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_62e5c77c:
 
@@ -319,7 +319,7 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_62e5c77c:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_905ed109:
 
-    f "我没想到会发现自己又一个敌人 却袖手旁观 但我现在理解了 我也会警告将军。"
+    f "我没想到自己什么都没做，却会平白多出一个敌人，不过我现在明白了，我也会警告将军。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_e3d92251:
 
@@ -327,7 +327,7 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_e3d92251:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_905ed109_1:
 
-    f "我没想到会发现自己又一个敌人 却袖手旁观 但我现在理解了 我也会警告将军。"
+    f "我没想到自己什么都没做，却会平白多出一个敌人，不过我现在明白了，我也会警告将军。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_515e655b:
 
@@ -335,75 +335,75 @@ translate schinese_rewrite Furkan_Warn_Lothar_Hunt_515e655b:
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_f54bcd16:
 
-    "看着他眼中的担忧,你忍不住感到内疚, 仿佛这一切都是因为你的决定。"
+    "看到他眼中的忧虑，你不禁感到一阵愧疚，仿佛一切都是你的决定造成的。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_668c363c:
 
-    f "谢谢 库里尔 我会确保部落准备好迎接一切来临。"
+    f "谢谢你，信使。我会确保部落准备好应对接下来的一切。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_da537325:
 
-    f "如果它不得不归结为它,我们别无选择,只能反击。我们不会低估一只狼。"
+    f "如果事情真走到那一步，我们也别无选择，只能反击。我们不会小看一匹狼。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_2dfa8b79:
 
-    e "我希望它不会变成那样。"
+    e "希望不会走到那一步。"
 
 translate schinese_rewrite Furkan_Warn_Lothar_Hunt_2ddbcce4:
 
-    "他闭上眼睛点头。"
+    "他闭上眼睛，点了点头。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_8f22601c:
 
-    f "[e],你刚好准时。"
+    f "[e]，你来得正是时候。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_d161fb8c:
 
-    f "部落已经讨论过了, 我们认为我们需要在黑暗的森林里 取得进步 以了解更多关于魔石的线索。"
+    f "部落已经讨论过了，我们认为需要深入黑暗森林，进一步调查那块魔法石。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_c746db02:
 
-    f "可能和洞穴里发生的事有关。"
+    f "这可能与山洞里发生的某件事有关。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_c9544fd5:
 
-    f "石头,我们的盆地,歌莱姆,所有的一切 都可能和里面的东西有关。"
+    f "那块石头、我们的水盆、魔像……这一切或许都和里面的某件事有关。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_b3a93a86:
 
-    f "我们再次请求你们的帮助。"
+    f "我们再一次请求你的帮助。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_ce0a52eb:
 
-    e "我?"
+    e "我？"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_973d13ec:
 
-    f "是的,我说过,部落不能让任何人 冒险进入黑暗的森林。"
+    f "是。正如我所说，目前部落抽不出人手进入黑暗森林。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_3358d6f0:
 
-    f "但我们已经尽了一切所能 让你更容易接受。"
+    f "但我们已经尽可能把路给你铺平了。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_9d73b3dc:
 
-    k "警卫们已经清空了通往黑暗森林的道路。"
+    k "卫兵已经清理出通往黑暗森林的路。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_22906b41:
 
-    "卡里走过去,在地图上标出一条路。"
+    "卡里走过来，在你的地图上标出一条路线。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_6e3964d9:
 
-    k "使用这条路你不应该有麻烦 但是当你在森林里的时候,要小心。"
+    k "走这条路应该不会遇到什么麻烦。不过进入森林后，一定要小心。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_c7730bf7:
 
-    k "凭你的战斗能力,你应该能处理好自己 但要小心。"
+    k "以你的战斗能力，应该能保护好自己。但务必谨慎。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_c1af551d:
 
-    k "黑暗敌人的敌人比我更危险 更无情。"
+    k "希望自从我们上次交手以来，你一直在训练。黑暗森林里的敌人比我危险得多，也绝不会手下留情。"
 
 translate schinese_rewrite Furkan_Ask_Werewolf_Quest_0af36474:
 
@@ -423,31 +423,31 @@ translate schinese_rewrite Furkan_Ask_Chief_3ec57d49:
 
 translate schinese_rewrite Furkan_Ask_Chief_4830a8a8:
 
-    f "做局长,我这工作不擅长。"
+    f "当酋长。我不太擅长这份工作。"
 
 translate schinese_rewrite Furkan_Ask_Chief_a950b4ba:
 
-    f "但父亲死后 总得有人接管部落。"
+    f "但父亲去世后，总得有人接管部落。"
 
 translate schinese_rewrite Furkan_Ask_Chief_e7b347c0:
 
-    e "在你成为酋长之前是什么感觉?"
+    e "在你成为酋长之前，日子是什么样的？"
 
 translate schinese_rewrite Furkan_Ask_Chief_ee74f590:
 
-    f "我告诉你这些只是因为我相信你不会告诉别人。"
+    f "我只告诉你这些，是因为我相信你不会告诉别人。"
 
 translate schinese_rewrite Furkan_Ask_Chief_f560317b:
 
-    e "嗯..."
+    e "呃……好吧。"
 
 translate schinese_rewrite Furkan_Ask_Chief_2f172d20:
 
-    f "我从来不选择当酋长 我出去探险 发现整个世界。"
+    f "当酋长从来不是我的选择。那时我在外冒险，探索整个世界。"
 
 translate schinese_rewrite Furkan_Ask_Chief_9a731bb0:
 
-    f "只是我和我父亲之间 发生了某种情况。"
+    f "只是后来我和父亲之间发生了一些事。"
 
 translate schinese_rewrite Furkan_Ask_Chief_7bda1598:
 
@@ -455,23 +455,23 @@ translate schinese_rewrite Furkan_Ask_Chief_7bda1598:
 
 translate schinese_rewrite Furkan_Ask_Chief_63f175fd:
 
-    e "什么情况?"
+    e "什么事……？"
 
 translate schinese_rewrite Furkan_Ask_Chief_da8998eb:
 
-    f "关于他退休的事。"
+    f "关于他要退休的事。"
 
 translate schinese_rewrite Furkan_Ask_Chief_4e7d97f1:
 
-    f "我们吵了一架 说真的 我后来离开了我的部落。"
+    f "我们大吵了一架，而且吵得很凶。之后我离开了部落。"
 
 translate schinese_rewrite Furkan_Ask_Chief_42dfff8a:
 
-    e "你父亲的事我很抱歉..."
+    e "对你父亲的遭遇，我很抱歉……"
 
 translate schinese_rewrite Furkan_Ask_Chief_2f75163c:
 
-    f "我只希望我们所共有的最后一句话是不同的。"
+    f "我只希望我们最后说的那些话，不是那样。"
 
 translate schinese_rewrite Furkan_Ask_Chief_3ec57d49_1:
 
@@ -479,23 +479,23 @@ translate schinese_rewrite Furkan_Ask_Chief_3ec57d49_1:
 
 translate schinese_rewrite Furkan_Ask_Chief_bb4d40e9:
 
-    f "你问我现在当局长的事,我换话题了吗?"
+    f "你刚才问我现在当酋长的事，我是不是把话题扯远了……？"
 
 translate schinese_rewrite Furkan_Ask_Chief_749b3029:
 
-    e "有点,但你继续..."
+    e "算是吧，不过你继续说……"
 
 translate schinese_rewrite Furkan_Ask_Chief_17f8699d:
 
-    f "我理解如果我不是我父亲最好的领袖。"
+    f "总得有人来当酋长。如果我没能像父亲那样成为一名好领袖，我也能理解。"
 
 translate schinese_rewrite Furkan_Ask_Chief_b89555a7:
 
-    f "但我会让我的部落重新繁荣 不管付出什么代价。"
+    f "但我会让我的部落再次繁荣起来。不惜一切代价。"
 
 translate schinese_rewrite Furkan_Ask_Chief_008fe06a:
 
-    e "我相信你会的,富坎。"
+    e "我相信你能做到，弗坎。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_94be90a5:
 
@@ -503,23 +503,23 @@ translate schinese_rewrite Furkan_Ask_Goat_Tribe_94be90a5:
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_3bab8e64:
 
-    f "我该说,在你来之后,在经历了这么多麻烦之后..."
+    f "还算不错吧。自从你来了，以及之后发生的那些麻烦……部落发生了翻天覆地的变化。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_e0c76982:
 
-    f "我不应该感到惊讶 熊更难受。"
+    f "我不该感到意外。熊族的情况更糟。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_1d0e5d7c:
 
-    e "嗯?"
+    e "嗯……？"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_779d3e75:
 
-    f "我们的部落完全被原始的树枝中的魔法所操纵 我的弓是其中之一。"
+    f "我们部落完全依靠原初符文中的魔力运转。我的弓就是其中之一。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_14ad9db5:
 
-    f "但是现在每个人都必须保持他们的魔法用法 我们唯一的能量来源就是古老的树。"
+    f "但现在大家都必须节省魔力，唯一的能量来源就是那棵古树。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_ff94180a:
 
@@ -527,55 +527,55 @@ translate schinese_rewrite Furkan_Ask_Goat_Tribe_ff94180a:
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_332c558b:
 
-    e "因为你要接管那棵古老的树?"
+    e "因为你想接管那棵古树？"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_0aa353d2:
 
-    f "不,不,我只需要收获剩下的能量, 那些卢斯特人从不使用这些能量。"
+    f "不。不是接管，我只是需要收集剩下的能量，而且那些乐斯民菲尔德人反正也没用过。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_ddcb5e0d:
 
-    f "即便如此,它也不足以给部落里每个人带来足够的魔法, 再加上高的干耗成本, 仅仅用来运输能源。"
+    f "即便如此，它提供的魔力也不够部落所有人使用，更别提运输能量本身还要付出高昂的维护成本。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_225f00cd:
 
-    f "我希望我们能找到原始的符文。"
+    f "希望我们能找到原初符文。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_2730a023:
 
-    e "这对你的部落真的有那么重要吗?"
+    e "对你们部落来说，真的有那么重要吗……？"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_86a6fcd2:
 
-    f "看看周围的一切, 它不是由物理结构维持的, 而是维持整个部落的神奇能量。"
+    f "看看你周围的一切，这里不是靠实体结构维持的，而是靠支撑整个部落的魔法能量。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_2c7425f2:
 
-    f "守护者会保护山上那些白马王子。"
+    f "守护者……他们曾经守护着山上的那些符文。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_faa85cfc:
 
-    f "他们逃跑了,在树枝被偷走之后... 现在... 创建他们的盆地也被偷走了。"
+    f "符文被偷走后，他们就逃跑了……现在……孕育他们的水盆也被偷走了。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_c2168ed4:
 
-    f "我会处理的 但我需要一个士兵,像你这样的士兵。"
+    f "我会想办法处理这件事。但我需要一名士兵，一个像你这样的士兵。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_acbf65a9:
 
-    e "我..."
+    e "我……"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_8edad32a:
 
-    e "你真的认为我能给你的部落带来繁荣吗?"
+    e "你真的相信我能让你的部落繁荣起来……？"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_dd250f12:
 
-    f "我需要一个冒险家, 和一个朋友,我可以信任。"
+    f "我需要一名冒险者，也需要一个我能信任的朋友。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_04b6d52a:
 
-    f "你到达后 世界上发生的一切 都与你有关。"
+    f "你来到这个世界后发生的一切，都和你脱不了关系。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_05b26ca9:
 
@@ -583,19 +583,19 @@ translate schinese_rewrite Furkan_Ask_Goat_Tribe_05b26ca9:
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_d8ba1ffa:
 
-    e "我明白... 但似乎责任重大。"
+    e "我明白了……但这责任未免太重了。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_5887bf10:
 
-    f "别紧张,时间会到来 当你证明你的价值的时候。"
+    f "别担心。总有一天，你会证明自己的价值。"
 
 translate schinese_rewrite Furkan_Ask_Goat_Tribe_e54fa2db:
 
-    e ".我理解。"
+    e "……我明白。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9f459336:
 
-    f "库里尔,你在这里做什么?"
+    f "信使，你在这里做什么？"
 
 translate schinese_rewrite Furkan_Meet_Flower_2191ddfc:
 
@@ -603,15 +603,15 @@ translate schinese_rewrite Furkan_Meet_Flower_2191ddfc:
 
 translate schinese_rewrite Furkan_Meet_Flower_9a4a72ab:
 
-    "你思考该怎么做。"
+    "你思索着该怎么办。"
 
 translate schinese_rewrite Furkan_Meet_Flower_f1d595d2:
 
-    e "U-uh..."
+    e "呃、呃……"
 
 translate schinese_rewrite Furkan_Meet_Flower_1c20429a:
 
-    f "你在前哨站做什么?" nointeract
+    f "你在前哨做什么？" nointeract
 
 translate schinese_rewrite Furkan_Meet_Flower_64d6fd6f:
 
@@ -619,15 +619,15 @@ translate schinese_rewrite Furkan_Meet_Flower_64d6fd6f:
 
 translate schinese_rewrite Furkan_Meet_Flower_b852df63:
 
-    "弗坎显然因为你的诚实而感到沮丧。"
+    "弗坎显然被你的坦诚弄得措手不及。"
 
 translate schinese_rewrite Furkan_Meet_Flower_7f1f4bf9:
 
-    f "我敢肯定,公牛永远不会 想要你告诉我这一点。"
+    f "我相信那头公牛绝不会希望你把这件事告诉我。"
 
 translate schinese_rewrite Furkan_Meet_Flower_51ba7498:
 
-    f "但我很感激你做到了。"
+    f "但我很感激你告诉了我。"
 
 translate schinese_rewrite Furkan_Meet_Flower_0c4dff3f:
 
@@ -635,23 +635,23 @@ translate schinese_rewrite Furkan_Meet_Flower_0c4dff3f:
 
 translate schinese_rewrite Furkan_Meet_Flower_d025e883:
 
-    f "你要找的花是部落周围土地的原生植物。"
+    f "来，我帮你。你要找的花原产于部落周围这片土地。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b953fdd4:
 
-    f "我将带领你们到那里。"
+    f "我带你去。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9f7a838f:
 
-    "弗坎向你挥波 你跟着他穿过树林。"
+    "弗坎朝你挥挥手，你跟着他穿过树林。"
 
 translate schinese_rewrite Furkan_Meet_Flower_adf82238:
 
-    e "我只是在这里觅食。"
+    e "我只是来采集东西的。"
 
 translate schinese_rewrite Furkan_Meet_Flower_7396dacc:
 
-    "弗坎将他的眼睛缩窄在了你身上 你汗汗如雨下,但试着在表面保持平静。"
+    "弗坎眯起眼睛看着你。你紧张得直冒汗，却努力让表面看起来镇定。"
 
 translate schinese_rewrite Furkan_Meet_Flower_3e8c84e5:
 
@@ -659,15 +659,15 @@ translate schinese_rewrite Furkan_Meet_Flower_3e8c84e5:
 
 translate schinese_rewrite Furkan_Meet_Flower_1b7b515c:
 
-    f "如果你这么说的话。"
+    f "你这么说的话。"
 
 translate schinese_rewrite Furkan_Meet_Flower_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Furkan_Meet_Flower_385c0737:
 
-    f "你能告诉我你在寻找什么吗?"
+    f "能告诉我你在采什么吗？"
 
 translate schinese_rewrite Furkan_Meet_Flower_e42aa7d0:
 
@@ -675,31 +675,31 @@ translate schinese_rewrite Furkan_Meet_Flower_e42aa7d0:
 
 translate schinese_rewrite Furkan_Meet_Flower_4759947f:
 
-    f "也许是只生长在部落周围的花朵?"
+    f "难道是只有部落附近才会生长的花？"
 
 translate schinese_rewrite Furkan_Meet_Flower_fe1957e0:
 
-    "弗坎对你笑得一清二楚 你忍不住看到他眼中的失望。"
+    "弗坎意味深长地朝你笑了笑。你不禁从他眼中看到了失望。"
 
 translate schinese_rewrite Furkan_Meet_Flower_14ecafde:
 
-    e "Erm... Yes..."
+    e "呃……是……"
 
 translate schinese_rewrite Furkan_Meet_Flower_5666b9a6:
 
-    f "这朵花是唯一独特的东西 生长在这个区域。 我怀疑你会为其他任何东西而觅食。"
+    f "这片区域唯一独特的植物就是这种花。我不觉得你会来采别的东西。"
 
 translate schinese_rewrite Furkan_Meet_Flower_65cfbf14:
 
-    f "跟我来,我带你们去花丛。"
+    f "跟我来。我带你去花丛那里。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9f7a838f_1:
 
-    "弗坎向你挥波 你跟着他穿过树林。"
+    "弗坎朝你挥挥手，你跟着他穿过树林。"
 
 translate schinese_rewrite Furkan_Meet_Flower_c86fda0e:
 
-    "当你走进空地时,你会惊讶地喘气。"
+    "走进空地时，你惊讶地倒吸一口气。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1ad421c5:
 
@@ -707,39 +707,39 @@ translate schinese_rewrite Furkan_Meet_Flower_1ad421c5:
 
 translate schinese_rewrite Furkan_Meet_Flower_57358218:
 
-    f "惊人的目光,不是吗?"
+    f "景色很美，对吧？"
 
 translate schinese_rewrite Furkan_Meet_Flower_93124f98:
 
-    "您只能点头。"
+    "你只能点头。"
 
 translate schinese_rewrite Furkan_Meet_Flower_57a69ec8:
 
-    "鲜花花丛覆盖着空地 花朵看起来像小的太阳发炎球。"
+    "空地上遍布着色彩鲜艳的花丛，花朵看起来像一团团小小的旭日。"
 
 translate schinese_rewrite Furkan_Meet_Flower_689bc226:
 
-    "它们释放出一种非常放松的香味。"
+    "它们散发着令人十分放松的香气。"
 
 translate schinese_rewrite Furkan_Meet_Flower_e4e21ec1:
 
-    e "这些是什么..."
+    e "这些是什么……"
 
 translate schinese_rewrite Furkan_Meet_Flower_9f8afdb5:
 
-    f "他们被称为母亲,我们用他们做食虫者,以帮助他们治疗肿胀、寒冷、发烧等等。他们确是伟大的装饰植物。"
+    f "它们叫菊花。我们把它们用于药敷，帮助消肿、治疗感冒、发烧等等。它们也是很棒的观赏植物。"
 
 translate schinese_rewrite Furkan_Meet_Flower_bed71e3a:
 
-    f "你来是为了他们,对吧?"
+    f "你就是为了它们来的，对吧？那就快点采吧。"
 
 translate schinese_rewrite Furkan_Meet_Flower_91572878:
 
-    e "我想哈斯凯尔也教我来这个地方。"
+    e "我想哈斯凯尔也教过我来这里。"
 
 translate schinese_rewrite Furkan_Meet_Flower_df39c768:
 
-    f "老龙和他对鲜花的爱..."
+    f "那条老龙和他对花的痴爱……不过我还是可以帮你采这些漂亮的菊花。"
 
 translate schinese_rewrite Furkan_Meet_Flower_21dfb209:
 
@@ -747,11 +747,11 @@ translate schinese_rewrite Furkan_Meet_Flower_21dfb209:
 
 translate schinese_rewrite Furkan_Meet_Flower_1df5dbd0:
 
-    "然后,你遇到一些事情。"
+    "这时，你突然想起一件事。"
 
 translate schinese_rewrite Furkan_Meet_Flower_c40670e3:
 
-    e "弗坎,你应该回部落吗?"
+    e "弗坎，你不是应该回部落吗？你怎么会有时间帮我做这个？我不该占用你这么多时间。"
 
 translate schinese_rewrite Furkan_Meet_Flower_f9e23f89:
 
@@ -759,23 +759,23 @@ translate schinese_rewrite Furkan_Meet_Flower_f9e23f89:
 
 translate schinese_rewrite Furkan_Meet_Flower_02ce7ad8:
 
-    f "连局长也偶尔需要休息一下,这正是我需要的。"
+    f "就连酋长也得偶尔休息一下。这正是我需要的。"
 
 translate schinese_rewrite Furkan_Meet_Flower_2b5df11e:
 
-    "他的眼神很远。"
+    "他的眼神飘向远方。"
 
 translate schinese_rewrite Furkan_Meet_Flower_999507a1:
 
-    f "我有很多回忆。"
+    f "我在这里有很多回忆。"
 
 translate schinese_rewrite Furkan_Meet_Flower_46012649:
 
-    f "当卡里和我年轻的时候 我们会躲在灌木丛里 玩捉迷藏。"
+    f "我们小时候会躲在花丛里玩捉迷藏。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b0de7255:
 
-    f "不记得上次我们 远程做这种事的时候了。"
+    f "我都想不起上次我们做类似事情是什么时候了。"
 
 translate schinese_rewrite Furkan_Meet_Flower_777bb660:
 
@@ -783,7 +783,7 @@ translate schinese_rewrite Furkan_Meet_Flower_777bb660:
 
 translate schinese_rewrite Furkan_Meet_Flower_490c0458:
 
-    f "这是成长的一部分, 只是没想到现在 我们都在裁决一个部落。"
+    f "这就是成长的一部分，只是没想到如今我们竟然都在统治一个部落。"
 
 translate schinese_rewrite Furkan_Meet_Flower_3ec57d49:
 
@@ -795,31 +795,31 @@ translate schinese_rewrite Furkan_Meet_Flower_3420193f:
 
 translate schinese_rewrite Furkan_Meet_Flower_5a045dfa:
 
-    f "说到将军 谢谢你上次救了我。"
+    f "说起将军，还是要谢谢你上次救了我。"
 
 translate schinese_rewrite Furkan_Meet_Flower_883d47f8:
 
-    e "那不算什么。"
+    e "那没什么。"
 
 translate schinese_rewrite Furkan_Meet_Flower_a4a5ea14:
 
-    f "不过,我更希望你能够 以非对抗的方式处理与卡里的遭遇。"
+    f "不过，我更希望你当时能和卡里和平解决那场冲突。"
 
 translate schinese_rewrite Furkan_Meet_Flower_904a8994:
 
-    f "如果每一个解决办法都是暴力,则实现休战的步骤将是困难的。"
+    f "如果每次都用暴力解决问题，迈向停战的路会很难走。"
 
 translate schinese_rewrite Furkan_Meet_Flower_cc6934a1:
 
-    e "我不是故意的,我试着解释清楚,但他们攻击了。"
+    e "我不是故意的。我试着解释，但他们先动手了。"
 
 translate schinese_rewrite Furkan_Meet_Flower_009fd39c:
 
-    f "我代表他们向你道歉,他们太担心了,无法清楚思考。"
+    f "我也想代他向你道歉。他太担心了，没法冷静思考。"
 
 translate schinese_rewrite Furkan_Meet_Flower_8b500cfe:
 
-    f "幸好没有人受重伤。"
+    f "幸好没人受重伤。"
 
 translate schinese_rewrite Furkan_Meet_Flower_12f97466:
 
@@ -831,11 +831,11 @@ translate schinese_rewrite Furkan_Meet_Flower_e936a061:
 
 translate schinese_rewrite Furkan_Meet_Flower_326d57d8:
 
-    f "感谢它。"
+    f "我很感激。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1839735a:
 
-    f "不过,你可能会得到一些态度 从卡里。"
+    f "不过，你可能会受到卡里的一些冷言冷语。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1ea97b2d:
 
@@ -843,19 +843,19 @@ translate schinese_rewrite Furkan_Meet_Flower_1ea97b2d:
 
 translate schinese_rewrite Furkan_Meet_Flower_f55cf9e9:
 
-    f "这个人不穿他的情绪 在他的袖子上, 但我认识他,因为他是一个小兔子。"
+    f "他不轻易表露情绪，但我从他还是一只小鹿时就认识他了。"
 
 translate schinese_rewrite Furkan_Meet_Flower_004ebaf5:
 
-    f "他失去你手让他烦恼,当然,当时他不是最强壮的。"
+    f "败在你手里让他很难受。当然，那时候他并不在最佳状态。"
 
 translate schinese_rewrite Furkan_Meet_Flower_e25a33de:
 
-    f "但他以自己是部落里最强壮的战士为傲... 失去魔法给他带来沉重打击。"
+    f "但他一直以自己是部落里最强的战士为傲……这里魔力的消失对他打击很大。"
 
 translate schinese_rewrite Furkan_Meet_Flower_4116d77d:
 
-    e "那我该怎么办?"
+    e "那我能做什么？"
 
 translate schinese_rewrite Furkan_Meet_Flower_a99b297c:
 
@@ -863,31 +863,31 @@ translate schinese_rewrite Furkan_Meet_Flower_a99b297c:
 
 translate schinese_rewrite Furkan_Meet_Flower_9dda09b4:
 
-    f "这不是你需要做的 而是他需要做的。"
+    f "不是你该做什么，而是他该做什么。"
 
 translate schinese_rewrite Furkan_Meet_Flower_da92c0d9:
 
-    f "我建议他放弃 但我知道他太固执了。"
+    f "我会劝他放下，但我知道他固执得很。"
 
 translate schinese_rewrite Furkan_Meet_Flower_57572bb3:
 
-    f "...事实上,他很失望 他不在洞穴里。"
+    f "……说实话，他只是遗憾自己没在山洞里。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1518291e:
 
-    e "好吧 下次我会小心的。"
+    e "好吧……下次我会小心的。"
 
 translate schinese_rewrite Furkan_Meet_Flower_ec281920:
 
-    f "我听说你和凯瑞吵架了。"
+    f "我听说了你和卡里的战斗。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b360207e:
 
-    "你的脸脸红了 想着失败。"
+    "想起那次落败，你的脸颊泛起红晕。"
 
 translate schinese_rewrite Furkan_Meet_Flower_0dd6c55c:
 
-    e "我..."
+    e "我……"
 
 translate schinese_rewrite Furkan_Meet_Flower_f19ed38e:
 
@@ -895,19 +895,19 @@ translate schinese_rewrite Furkan_Meet_Flower_f19ed38e:
 
 translate schinese_rewrite Furkan_Meet_Flower_42a30ca9:
 
-    f "你很幸运我们没有出去杀人。"
+    f "你该庆幸我们不是奔着杀人去的。"
 
 translate schinese_rewrite Furkan_Meet_Flower_37094268:
 
-    f "也许不是卡里。"
+    f "不过卡里可能不是。"
 
 translate schinese_rewrite Furkan_Meet_Flower_c8d0b9e8:
 
-    f "世界上不是每个人都会如此仁慈。"
+    f "世上不是每个人都会像我们这样仁慈。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b647f53c:
 
-    f "你需要更加坚强。"
+    f "你得变强。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1fc00be2:
 
@@ -915,27 +915,27 @@ translate schinese_rewrite Furkan_Meet_Flower_1fc00be2:
 
 translate schinese_rewrite Furkan_Meet_Flower_750afe80:
 
-    f "很好,卡里会同意我的。"
+    f "很好。卡里肯定会赞同我。"
 
 translate schinese_rewrite Furkan_Meet_Flower_37708619:
 
-    f "他提到看到了你的潜力。"
+    f "他说他看到了你的潜力。"
 
 translate schinese_rewrite Furkan_Meet_Flower_26d47a8b:
 
-    e "他有吗?"
+    e "他说的？"
 
 translate schinese_rewrite Furkan_Meet_Flower_1b4d3091:
 
-    f "是的,而且他很少 错误的他的评估。"
+    f "是，而且他的判断很少出错。"
 
 translate schinese_rewrite Furkan_Meet_Flower_d66bbe98:
 
-    f "所以更努力地训练,世界是一个危险的地方。"
+    f "那就更加努力地训练。这个世界很危险。"
 
 translate schinese_rewrite Furkan_Meet_Flower_8d7d00d5:
 
-    e "谢谢你的关心 弗坎。"
+    e "谢谢你的关心，弗坎。"
 
 translate schinese_rewrite Furkan_Meet_Flower_34bef44c:
 
@@ -943,35 +943,35 @@ translate schinese_rewrite Furkan_Meet_Flower_34bef44c:
 
 translate schinese_rewrite Furkan_Meet_Flower_b03a33c7:
 
-    "你看见弗坎笑容中 有一股遗憾的尖刺痕。"
+    "你从弗坎的笑容里看出一丝懊悔。"
 
 translate schinese_rewrite Furkan_Meet_Flower_0383c348:
 
-    e "我相信你不是故意的。"
+    e "我相信你也不是想让事情变成那样。"
 
 translate schinese_rewrite Furkan_Meet_Flower_1150de86:
 
-    f "你这么说真好 但战争就是战争 人们被情绪蒙蔽了眼。"
+    f "你这么说真好，但战争就是战争。人们被情绪蒙蔽了双眼。"
 
 translate schinese_rewrite Furkan_Meet_Flower_dae2f07e:
 
-    f "我不在场,不代表我没有让它发生。"
+    f "我当时不在那里，不代表这件事不是因我而起。"
 
 translate schinese_rewrite Furkan_Meet_Flower_2486aec9:
 
-    f "卡里可以绑架你 拷问信息 只因为他担心我。"
+    f "卡里可能只是因为担心我，就把你绑走，严刑逼供。"
 
 translate schinese_rewrite Furkan_Meet_Flower_99e801f0:
 
-    f "这场战争也是如此。"
+    f "那场战争也是如此。"
 
 translate schinese_rewrite Furkan_Meet_Flower_3529f1ae:
 
-    f "我的人民为复仇而出,为生命而生。"
+    f "我的族人是为了复仇而战。以命偿命。"
 
 translate schinese_rewrite Furkan_Meet_Flower_c93dcf71:
 
-    f "我们杀死了许多人和许多人。"
+    f "我们杀了很多人，也有很多人被杀。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9dfae6ff:
 
@@ -979,23 +979,23 @@ translate schinese_rewrite Furkan_Meet_Flower_9dfae6ff:
 
 translate schinese_rewrite Furkan_Meet_Flower_760387ee:
 
-    "你只要静静地站在他身边。"
+    "你只是安静地陪在他身边。"
 
 translate schinese_rewrite Furkan_Meet_Flower_83797185:
 
-    f "值得吗?"
+    f "值得吗？"
 
 translate schinese_rewrite Furkan_Meet_Flower_e950c8a9:
 
-    f "包括我自己的家庭在内的家庭被分散。"
+    f "许多家庭支离破碎，我的家人也不例外。"
 
 translate schinese_rewrite Furkan_Meet_Flower_4ad06120:
 
-    f "只是因为我们被暂时的情绪蒙蔽了眼皮。"
+    f "只因为我们都被一时的情绪蒙蔽了。"
 
 translate schinese_rewrite Furkan_Meet_Flower_866e1e57:
 
-    f "身为酋长,那只是幽灵 与我同在坟墓里。"
+    f "作为酋长，这会是纠缠我至死的心魔。"
 
 translate schinese_rewrite Furkan_Meet_Flower_777bb660_1:
 
@@ -1003,19 +1003,19 @@ translate schinese_rewrite Furkan_Meet_Flower_777bb660_1:
 
 translate schinese_rewrite Furkan_Meet_Flower_2685deec:
 
-    "你给他一个慰藉。"
+    "你安慰地碰了碰他。"
 
 translate schinese_rewrite Furkan_Meet_Flower_099b5725:
 
-    e "至少你现在想修好它。"
+    e "至少你现在正在努力弥补。"
 
 translate schinese_rewrite Furkan_Meet_Flower_7198e351:
 
-    f "我不认为这样的事情 永远可以固定, 但我会尽力。"
+    f "我不认为这种事能真正弥补，但我会尽力。"
 
 translate schinese_rewrite Furkan_Meet_Flower_9bb13b8a:
 
-    f "但是,这不应该是你需要担心的事情。 但我很感激你允许我把它从我的胸膛里拿出来。"
+    f "但这不该是你需要担心的事。不过，谢谢你让我把这些话说出来。"
 
 translate schinese_rewrite Furkan_Meet_Flower_d2b2d8c6:
 
@@ -1023,19 +1023,19 @@ translate schinese_rewrite Furkan_Meet_Flower_d2b2d8c6:
 
 translate schinese_rewrite Furkan_Meet_Flower_293a7e61:
 
-    f "我印象深刻 你是如何处理与卡里和卫兵的遭遇的。"
+    f "你处理和卡里以及卫兵的冲突时，给我留下了深刻印象。"
 
 translate schinese_rewrite Furkan_Meet_Flower_98fa2410:
 
-    "你对赞美感到羞耻。"
+    "你因这句夸奖而脸红。"
 
 translate schinese_rewrite Furkan_Meet_Flower_183f44c9:
 
-    e "我只是做了每个人都会做的事。"
+    e "我只是做了任何人都会做的事。"
 
 translate schinese_rewrite Furkan_Meet_Flower_deb8bb58:
 
-    f "不是的,不是每个人都能 保持开放和理性的思维。"
+    f "那不是真的。不是每个人都能在那种时候保持开放而理智的头脑。"
 
 translate schinese_rewrite Furkan_Meet_Flower_2d7004d7:
 
@@ -1043,11 +1043,11 @@ translate schinese_rewrite Furkan_Meet_Flower_2d7004d7:
 
 translate schinese_rewrite Furkan_Meet_Flower_f0e140a2:
 
-    f "情感会让人变得更好。"
+    f "人往往会被情绪左右。"
 
 translate schinese_rewrite Furkan_Meet_Flower_12846717:
 
-    f "有时候,他们宁愿打架 也不愿说话。"
+    f "有时候，他们宁愿动手，也不愿好好谈谈。"
 
 translate schinese_rewrite Furkan_Meet_Flower_3a15838f:
 
@@ -1055,11 +1055,11 @@ translate schinese_rewrite Furkan_Meet_Flower_3a15838f:
 
 translate schinese_rewrite Furkan_Meet_Flower_6316c11a:
 
-    e "我相信事情会好转的。"
+    e "我相信事情会朝好的方向发展。"
 
 translate schinese_rewrite Furkan_Meet_Flower_b2f23908:
 
-    f "希望如此,因为还有什么选择?"
+    f "希望如此。否则还能怎样？"
 
 translate schinese_rewrite Furkan_Meet_Flower_65ef0dc2:
 
@@ -1067,19 +1067,19 @@ translate schinese_rewrite Furkan_Meet_Flower_65ef0dc2:
 
 translate schinese_rewrite Furkan_Meet_Flower_b2dbbcab:
 
-    f "看看我们周围。"
+    f "看看周围。"
 
 translate schinese_rewrite Furkan_Meet_Flower_acdc4d16:
 
-    "你既迷惑又困惑 田地很美,但就是这样。"
+    "你照做了，却感到困惑。这片田野很美，但也就仅此而已。"
 
 translate schinese_rewrite Furkan_Meet_Flower_59ee44dc:
 
-    e "是的,花朵是华丽的。"
+    e "是啊，这些花真美。"
 
 translate schinese_rewrite Furkan_Meet_Flower_12d23130:
 
-    f "但没有人在这里欣赏他们。"
+    f "但没人来欣赏它们。"
 
 translate schinese_rewrite Furkan_Meet_Flower_72a5daad:
 
@@ -1087,11 +1087,11 @@ translate schinese_rewrite Furkan_Meet_Flower_72a5daad:
 
 translate schinese_rewrite Furkan_Meet_Flower_8948316c:
 
-    f "但现在,什么都没有。"
+    f "可现在，什么都没有了。"
 
 translate schinese_rewrite Furkan_Meet_Flower_75f1f519:
 
-    f "卢斯特民在战后不会来这里, 没有支持,我们的人民也不得不从虫熊中撤退。"
+    f "战争之后，乐斯民菲尔德人不再来这里，而没有他们的支持，我们的族人也不得不躲避熊地精的侵扰。"
 
 translate schinese_rewrite Furkan_Meet_Flower_777bb660_2:
 
@@ -1103,7 +1103,7 @@ translate schinese_rewrite Furkan_Meet_Flower_5937009a:
 
 translate schinese_rewrite Furkan_Meet_Flower_b8b37730:
 
-    f "抱歉,在这里能回忆起过去的许多回忆。"
+    f "抱歉。来到这里勾起了许多往事。"
 
 translate schinese_rewrite Furkan_Meet_Flower_cdbff688:
 
@@ -1111,7 +1111,7 @@ translate schinese_rewrite Furkan_Meet_Flower_cdbff688:
 
 translate schinese_rewrite Furkan_Meet_Flower_916f8424:
 
-    f "我很高兴能回到这里 和一位鲁斯特福克人 重创新的记忆。"
+    f "不用道歉。能回到这里，和一位乐斯民菲尔德人创造新的回忆，我很高兴。"
 
 translate schinese_rewrite Furkan_Meet_Flower_e754d87c:
 
@@ -1119,15 +1119,15 @@ translate schinese_rewrite Furkan_Meet_Flower_e754d87c:
 
 translate schinese_rewrite goat_talking_sequence_76c41dec:
 
-    "你看那两只山羊在桶子上偷懒。"
+    "你看着两个山羊懒洋洋地靠在木桶上。"
 
 translate schinese_rewrite goat_talking_sequence_15951bbb:
 
-    e "你们不是应该去训练吗?"
+    e "嘿、嘿……你们不是该训练吗？"
 
 translate schinese_rewrite goat_talking_sequence_d8d2238d:
 
-    gt "我们没看到我们在训练大脑吗?"
+    gt "我们正在训练。你没看见我们在训练大脑吗……？"
 
 translate schinese_rewrite goat_talking_sequence_c18eb48e:
 
@@ -1135,62 +1135,62 @@ translate schinese_rewrite goat_talking_sequence_c18eb48e:
 
 translate schinese_rewrite goat_talking_sequence_5684a1fd:
 
-    gt "...为什么你在这里外人... 你不是应该 胡闹 周围的色鬼..."
+    gt "……你这个外来者来这里干什么……你不是该和那些乐斯民菲尔德人鬼混吗……"
 
 translate schinese_rewrite goat_talking_sequence_db6f8434:
 
     e "喂——说话放尊重点……"
 translate schinese_rewrite goat_talking_sequence_dd01cb77:
 
-    gt "嘿... 别担心,我们都看到了 当你他妈的那只虫熊。"
+    gt "呵……别担心，你和那只熊地精鬼混时，我们可都看见了。"
 
 translate schinese_rewrite goat_talking_sequence_2d05bb27:
 
-    e "我没有。"
+    e "我、我没有。"
 
 translate schinese_rewrite goat_talking_sequence_2b38e02c:
 
-    gt "也许这就是为什么我们的酋长喜欢你的原因。"
+    gt "也许这就是我们酋长喜欢你的原因。"
 
 translate schinese_rewrite goat_talking_sequence_097ffb2d:
 
-    gt "别管我们,我们不会在魔法回来之前 训练这些垃圾。"
+    gt "现、现在……别烦我们。魔力恢复之前，我们才不会拿这些破烂训练。"
 
 translate schinese_rewrite goat_talking_sequence_b6c14cb6:
 
-    e "为什么你们这么吝啬?"
+    e "你们怎么这么小气？"
 
 translate schinese_rewrite goat_talking_sequence_6c7f3d78:
 
-    gt "我知道你在干嘛 甚至在魔法学校里也想打败我们?"
+    gt "因为这不关你的事。啊，我知道你在打什么主意——想在魔法课上也赢过我们？"
 
 translate schinese_rewrite goat_talking_sequence_1e35e1ef:
 
-    e "所以,你嫉妒我更有能力吗?"
+    e "所以，你们是嫉妒我比你们更有本事？"
 
 translate schinese_rewrite goat_talking_sequence_795ce74b:
 
-    gt "我们是受过训练的士兵 而不是随便的山羊般的无头羊。"
+    gt "嘿！我们可是受过训练的士兵，不是什么随便一个长得像山羊的非山羊，救了我们酋长就到处把自己当英雄。"
 
 translate schinese_rewrite goat_talking_sequence_3a22914a:
 
-    gt "你让我们因为没看管我们的头目而遭责备。"
+    gt "你害得我们因为没保护好酋长而挨了训。"
 
 translate schinese_rewrite goat_talking_sequence_6e95d101:
 
-    gt "N -现在..."
+    gt "现、现在……别烦我们。"
 
 translate schinese_rewrite goat_training_battle_3f1230e1:
 
-    "你看山羊在你面前射箭 他的手有点颤抖。"
+    "你看着面前那只练习射箭的山羊，他的手微微发抖。"
 
 translate schinese_rewrite goat_training_battle_ae7fa8f2:
 
-    "他背叛了你。"
+    "他转过身来看你。"
 
 translate schinese_rewrite goat_training_battle_eec3ccd7:
 
-    gt "我希望我能回去用我的手杖,而不是弓和矛。"
+    gt "我真希望能回去用法杖，而不是弓和长矛。那样容易多了……"
 
 translate schinese_rewrite goat_training_battle_cfed5b5b:
 
@@ -1198,7 +1198,7 @@ translate schinese_rewrite goat_training_battle_cfed5b5b:
 
 translate schinese_rewrite goat_training_battle_b52f9fcb:
 
-    gt "你怎么了?"
+    gt "你怎么了……？"
 
 translate schinese_rewrite goat_training_battle_e16e600a:
 
@@ -1206,23 +1206,23 @@ translate schinese_rewrite goat_training_battle_e16e600a:
 
 translate schinese_rewrite goat_training_battle_af3a5f73:
 
-    e "我想跟你一起训练..."
+    e "我想和你一起训练……"
 
 translate schinese_rewrite goat_training_battle_8380b43c:
 
-    gt "我需要个训练伙伴 不像其他山羊有心情打仗。"
+    gt "嗯……我确实需要一个训练伙伴，而且其他山羊也没心情打架……"
 
 translate schinese_rewrite goat_training_battle_08c5cd6c:
 
-    gt "好吧,把你们所有的钱都给我。"
+    gt "好吧，让我看看你的全部本事。"
 
 translate schinese_rewrite goat_training_battle_854d6aae:
 
-    e "嗯..."
+    e "嗯……我该走了。"
 
 translate schinese_rewrite goat_training_battle_f999bd1a:
 
-    gt "去吧,我还有一车牛眼要拍。"
+    gt "对，走吧。我还有一车靶心要射呢。"
 
 translate schinese_rewrite Furkan_Ask_How_Doing_9aff63bd:
 
@@ -1230,7 +1230,7 @@ translate schinese_rewrite Furkan_Ask_How_Doing_9aff63bd:
 
 translate schinese_rewrite Furkan_Ask_How_Doing_1f84e315:
 
-    f "我在阅读文件。"
+    f "我在看文件。"
 
 translate schinese_rewrite Furkan_Ask_How_Doing_3388a208:
 
@@ -1238,15 +1238,15 @@ translate schinese_rewrite Furkan_Ask_How_Doing_3388a208:
 
 translate schinese_rewrite Furkan_Ask_How_Doing_44637710:
 
-    "酋长盯着你看 他似乎期望你做点什么..."
+    "酋长盯着你，似乎在等你做点什么……"
 
 translate schinese_rewrite Furkan_Ask_How_Doing_85e75e5e:
 
-    e "我暂时离开你。"
+    e "我先不打扰你了。"
 
 translate schinese_rewrite Furkan_Ask_How_Doing_5e823501:
 
-    f "谢谢,[e]。"
+    f "谢谢，[e]。"
 
 translate schinese_rewrite Furkan_Dialogue_End_dc8c519d:
 
@@ -1254,19 +1254,19 @@ translate schinese_rewrite Furkan_Dialogue_End_dc8c519d:
 
 translate schinese_rewrite Furkan_Dialogue_End_930f0f51:
 
-    f "好,再见。"
+    f "好。回头见。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_861df8dc:
 
-    "你手握着彩色的卷轴 透过你的身体 掌握着熟悉的能量导线。"
+    "你手里握着那卷沾污的卷轴，一股熟悉的能量流过你的身体。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c3a6eb57:
 
-    "突然间,你周围的世界 变化和模糊。"
+    "突然，周围的世界开始移动、模糊。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c45f3f1e:
 
-    "很快,你就会发现自己 站在一个不同的地方, 一个充满温暖和光明的地方。"
+    "很快，你发现自己站在另一个地方，一个充满温暖与光明的地方。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_a20cefa7:
 
@@ -1282,11 +1282,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_4c40c2b1:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ff82cc4f:
 
-    "他生动地回忆着那一天,仿佛昨天一样。"
+    "那一天的一切他都记得清清楚楚，仿佛就在昨天。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2d1baaaa:
 
-    "夜里燃起火光,空气中充满了钟声和笑声。"
+    "夜色被温暖的火光照亮，空气中回荡着铃铛声和笑声。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_cb1b0ce1:
 
@@ -1294,7 +1294,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_cb1b0ce1:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d2e07fda:
 
-    "他后来被选中领导仪式,这是对像他这样的年轻山羊的极大荣誉,因为每个人都在向部落的未来领袖看望。"
+    "他被选中在稍后主持仪式，对他这样年轻的山羊来说是莫大的荣誉，因为所有人都在仰望部落未来的领袖。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_24c67aba:
 
@@ -1302,11 +1302,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_24c67aba:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_fa21a46b:
 
-    "有些人在跳舞,有些人在唱歌,有些人只是坐在火边,享受温暖。"
+    "有人在跳舞，有人在歌唱，也有人只是围坐在火堆旁享受温暖。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_41f72901:
 
-    "到处布置了时滞 卖食物和饮料 闻到甜食的气味。"
+    "四周搭起了摊位，售卖食物和饮料，甜食的香气在空气中飘荡。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_609616ed:
 
@@ -1314,7 +1314,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_609616ed:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ef46ea57:
 
-    "他向人们致意,接受他们的祝贺, 一直在寻找某人。"
+    "他一边向人们打招呼、接受祝贺，一边寻找着某个人。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_88d79712:
 
@@ -1322,7 +1322,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_88d79712:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f55c951b:
 
-    "突然,一个熟悉的声音喊叫他,他转过身去看他父亲、部落首领Tevfik, 以及后面的长老们。"
+    "突然，一个熟悉的声音呼唤他。他转过身，看见特夫菲克——他的父亲、部落的酋长——身后还跟着几位长老。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b5405dfe:
 
@@ -1330,27 +1330,27 @@ translate schinese_rewrite Keepsake_Furkan_Festival_b5405dfe:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f54eca03:
 
-    "这只年轻的山羊走到他父亲面前,他的心脏在胸口跳动。"
+    "年轻的山羊走向父亲，心脏在胸腔里怦怦直跳。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_4e23cbe2:
 
-    "Tevfik是一个令人难以接受的人物,尽管他高,他的角弯曲,狂妄地弯曲,他的眼睛尖锐而尖锐。"
+    "特夫菲克身材高大，气势逼人；他的角威严地弯曲着，双眼锐利而深邃。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_fd28836b:
 
-    "老山羊曾经经历过许多战斗 但他仍然坚挺 他的存在要求部落里每一只山羊都尊敬他。"
+    "这只老山羊一生经历过无数战斗，但依旧站得笔直、强健，威严让部落里的每只山羊都肃然起敬。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_6a52f766:
 
-    f "是的,父亲?"
+    f "是，父亲？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_a9b1926d:
 
-    tv "我儿子,好久不见... 你长成一头年轻漂亮的山羊了,不是吗?"
+    tv "我的儿子，好一阵子没见了……你已经长成一只出色的小伙子了，对吧？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_de22021a:
 
-    tv "今天对于你和我们部落来说 是一个特别的日子。"
+    tv "今天对你、对我们的部落来说都是特殊的一天。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_0c4d3cbc:
 
@@ -1358,39 +1358,39 @@ translate schinese_rewrite Keepsake_Furkan_Festival_0c4d3cbc:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1d82703d:
 
-    tv "今晚你帮我领会仪式 我毫不怀疑你会做得好。"
+    tv "今晚你会帮我主持仪式，我相信你一定能做得很好。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_72a35e28:
 
-    f "我很荣幸,父亲 但我不确定我是否准备好了。"
+    f "我……我很荣幸，父亲，但我不确定自己准备好了。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_cddcf1ac:
 
-    tv "你准备好了,我的孩子 我的长辈教了你很多,他们说你学得很快。"
+    tv "你已经准备好了，我的儿子。长老们把你教得很好，他们都说你学得很快。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_dbdd6fc3:
 
-    "长者们同意点头,当Tevfik打破 进入一个柔软的微笑。"
+    "长老们赞同地点点头，特夫菲克也露出了温和的笑容。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c8789a52:
 
-    tv "我相信你们一定干得很棒 部落里每个人都仰慕你们。"
+    tv "你会做得很棒的，我对此深信不疑。部落里的每个人都对你寄予厚望，无论结果如何，他们都会为你感到骄傲。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_9414a232:
 
-    f "是的,父亲。"
+    f "是，父亲。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3b7498ab:
 
-    tv "...你脑子里有什么想法吗?"
+    tv "……你是不是有什么心事？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_766e96e2:
 
-    "Tevfik在儿子的呼声中感觉到犹豫不决,他关切地看着他。"
+    "特夫菲克察觉到儿子声音中的犹豫，关切地看着他。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c3fef5b4:
 
-    f "卡里在哪里?"
+    f "卡里呢？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_705f30eb:
 
@@ -1398,19 +1398,19 @@ translate schinese_rewrite Keepsake_Furkan_Festival_705f30eb:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ddaed51a:
 
-    tv "卡里?"
+    tv "卡里……？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_dd94c39e:
 
-    "Tevfik的表情暗淡了片刻, 他俯视着盒子, 向外看,眼视遥远。"
+    "特夫菲克的神情暗了一瞬。他低头看向盒子，又移开视线，目光变得悠远。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_a2106337:
 
-    tv "自从节日开始我就没见过他 他应该在这里... 某处。"
+    tv "节日开始后我就没见过他，他应该在这里……某个地方。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_14297a91:
 
-    tv "别担心他,他知道他的角色 仪式开始时他会来。"
+    tv "别担心他。他知道自己的职责，仪式开始时他会出现的。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2ab8f26c:
 
@@ -1418,23 +1418,23 @@ translate schinese_rewrite Keepsake_Furkan_Festival_2ab8f26c:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_957d13fa:
 
-    tv "Furk-"
+    tv "弗坎——"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_adb5e4ea:
 
-    g "头儿 有件事你需要看看。"
+    g "咳，酋长，有件事你需要看看。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c135f23a:
 
-    "供应商在Tevfik接近他们时打断了Tevfik,他手里拿着一个小装置,亮蓝色的微光发光。"
+    "小贩走过来打断了特夫菲克，手里拿着一个小装置，幽幽地发出明亮的蓝光。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ace831ee:
 
-    "Tevfik看着装置,然后挥舞长老们离开。"
+    "特夫菲克看了看装置，然后挥手让长老们离开。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_6b0afaef:
 
-    tv "去准备仪式吧 儿子 我等时机到时会去的。"
+    tv "去为仪式做准备吧，我的儿子。时间到了我会到场。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_75eff30f:
 
@@ -1442,11 +1442,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_75eff30f:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_698ec04e:
 
-    f "是的...父亲..."
+    f "好……父亲……"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_e195a607:
 
-    "年轻的山羊站在那里呆了一会儿, 当他仰望夜空时, 突然有什么东西越过他的眼睛。"
+    "年轻的山羊站在那里片刻，抬头望向夜空时，眼中突然闪过一丝异样。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_224d3279:
 
@@ -1454,7 +1454,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_224d3279:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b31c509f:
 
-    "他上山去了,他知道只有一处地方 训练的Mage -in。"
+    "他一路爬上山坡，知道受训中的法师只有一个地方会去。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_31da276b:
 
@@ -1466,7 +1466,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_3329e40f:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_e9cc79c1:
 
-    f "Boo..."
+    f "嘿……"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f7f61310:
 
@@ -1474,15 +1474,15 @@ translate schinese_rewrite Keepsake_Furkan_Festival_f7f61310:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1f2b5464:
 
-    f "卡里,你在这里做什么?"
+    f "卡里，你怎么在这里？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ad4ed13d:
 
-    "卡里转过身来,他的眼睛睁大了,令人惊讶。"
+    "卡里转过身，惊讶得瞪大了眼睛。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_37e89e22:
 
-    k "哦,巴克,对不起,我应该去参加庆典..."
+    k "哦！巴基！抱歉。我本该在节日现场……现在几点了？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_45731374:
 
@@ -1490,11 +1490,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_45731374:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b129e8bc:
 
-    f "没事,我只是来找你。"
+    f "没事，我只是来找你。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b4151c13:
 
-    f "买了些奶酪卷 以防你今年没去摊位。"
+    f "给你买了些芝士卷，以防你今年不去摊位。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_7edab37b:
 
@@ -1506,11 +1506,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_907c244e:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_cf5c00eb:
 
-    k "你准备好参加仪式了吗?"
+    k "那么，你准备好参加仪式了吗？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_769c23c8:
 
-    f "我是,我想..."
+    f "我想是吧……"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c06c4e2c:
 
@@ -1518,11 +1518,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_c06c4e2c:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ddfe63ad:
 
-    f "我不知道,我把流水倒进每个人的盆子里,然后我看着他们,说几句话..."
+    f "我不知道。我得把流动的水倒进每个人的水盆里，然后看着他们，说一些祝词……"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_dcb591fe:
 
-    f "他们一直看着我 看着我 我不知道我能不能做到。"
+    f "一直以来，他们都在看着我。仰望着我……我不知道自己能不能做到。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_97cf05ea:
 
@@ -1530,19 +1530,19 @@ translate schinese_rewrite Keepsake_Furkan_Festival_97cf05ea:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ceb0856c:
 
-    k "你行的,宝贝 你是酋长的儿子,如果你漏了一两句话 他们不会怪你的。"
+    k "你能做到的，巴基。你是酋长的儿子，就算漏说一两句，他们也不会怪你——不过我相信你不会。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3dd5dfa5:
 
-    f "你怎么能这么肯定?"
+    f "你怎么能这么肯定？你以前从没做过这个。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_74842a99:
 
-    k "是的,但我了解你 我知道Tevfik 也许你会比他做得更好。"
+    k "没错，但我了解你。我也了解特夫菲克，也许你会比他做得更好。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_9bb3287b:
 
-    "这只年轻的山羊 轻轻地拍拍他的背部 轻轻地用手指 擦破他的斗篷的薄薄材料。"
+    "年轻的山羊安抚地拍了拍他的后背，手指短暂地擦过他斗篷的薄料。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2b9f78b0:
 
@@ -1550,15 +1550,15 @@ translate schinese_rewrite Keepsake_Furkan_Festival_2b9f78b0:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_81166aff:
 
-    "他想问凯里一些事, 一些他多年来一直想说的话, 但是现在时机不对。"
+    "他想问卡里一件事，一件他想说了很多年的事，但现在不是时候。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_0906c9ef:
 
-    k "总有一天你会是头儿,这只是第一步。"
+    k "你总有一天会成为酋长，而这只是第一步。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_de12a77b:
 
-    f "你相信吗?"
+    f "你真的这么相信？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2c3daae7:
 
@@ -1566,7 +1566,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_2c3daae7:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_078b4718:
 
-    f "我不像父亲,我不是战士,我不是领袖,我从不准备当酋长。"
+    f "我不像父亲，我不是战士，也不是领袖。我永远都没准备好当酋长。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_681af883:
 
@@ -1574,11 +1574,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_681af883:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_26cf2b13:
 
-    k "我也没准备好当魔法师 但我别无选择 我不能让我的魔法白白浪费。"
+    k "我当初也没准备好成为法师，但我别无选择，不能让自己的魔力白白浪费。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_79feeeaf:
 
-    k "你也一样,你生来就是那个角, 这意味着你才是部落的领队。你可能还没有准备好,但这并不意味着你不配。"
+    k "你也一样。你生来就有那支角，这意味着你就是带领部落的人。你也许还没做好准备，但这不代表你没有资格。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_dc5f376a:
 
@@ -1586,11 +1586,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_dc5f376a:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d23b4699:
 
-    f "但你从不休息,自从你从父亲开始训练后... 我甚至不记得我们最后一次见面。"
+    f "可自从你开始跟父亲训练后，你就从不停歇……我甚至想不起我们上次见面是什么时候了。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_663b6962:
 
-    f "我们以前一起走过节日 你很喜欢这些卷子 你吃光了所有值得的货摊 现在你连碰都没碰。"
+    f "我们以前总一起逛节日，你特别喜欢这些芝士卷，能把整摊都吃光；可现在你连碰都没碰。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_476e80cb:
 
@@ -1598,19 +1598,19 @@ translate schinese_rewrite Keepsake_Furkan_Festival_476e80cb:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2db20c47:
 
-    "他们两人静默无声,因节庆场响起的铃声而间断。"
+    "两人陷入沉默，节日场地传来的隐约铃声打破了寂静。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_de0a4563:
 
-    k "Buckie,我在分散你的注意力吗?"
+    k "巴基，我是不是打扰你了？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c4c89f95:
 
-    "卡里低声低语,眼睛低落。"
+    "卡里压低目光，轻声说道。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_51852e3e:
 
-    k "我从你的眼睛里看得出来 你没有专注在仪式上 而是大老远来找我？"
+    k "我从你的眼睛里看得出来，你根本没在专心想仪式，反而一路跑来找我。到底为什么？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_952f970b:
 
@@ -1618,31 +1618,31 @@ translate schinese_rewrite Keepsake_Furkan_Festival_952f970b:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1b01369e:
 
-    f "不,不是那样的,我只是,我想你,你很忙,我以为你躲得远远的。"
+    f "不，不是那样。我只是……我想你了。而且你一直那么忙，我还以为你是在躲着我。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_284a6cdb:
 
-    k "我们可以在下游时谈谈。"
+    k "我们下山的时候可以聊。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_f98f9aeb:
 
-    f "自从我们开始训练以来,我一直在想 我们曾经一起打猎 一起冒险 一起玩乐。"
+    f "卡里，自从我们开始训练以来，我满脑子想的都是以前一起打猎的日子、那些冒险，以及我们一起度过的快乐时光。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3e51d8b8:
 
-    f "有时候... 有时我希望事情能永远这样。"
+    f "有时候……有时候我真希望一切能永远保持那样。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_243e2749:
 
-    k "仪式即将举行"
+    k "仪式马上就要开始——"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_5fe1d0c7:
 
-    f "我希望我能做个普通的山羊, 不是酋长的儿子, 不是领导部落的人。"
+    f "我只想做一只普通的山羊，不是酋长的儿子，也不是那个必须带领部落的人。我只想和你在一起，就像从前那样。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c6af9165:
 
-    k "Buckie..."
+    k "巴基……"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8f4744ba:
 
@@ -1650,7 +1650,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_8f4744ba:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_78decdcd:
 
-    f "你从来没有错过过那些日子吗?"
+    f "你就从来不会想念那些日子吗？那时我们只是两个孩子，在森林里到处跑，爬上山顶，在星空下睡觉？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_97cf05ea_1:
 
@@ -1658,7 +1658,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_97cf05ea_1:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_24ba13be:
 
-    k "你不能这样,宝贝 你是酋长的儿子,铃响时你必须在场。"
+    k "你不能这样，巴基。你是酋长的儿子，钟声响起时你必须到场。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8b227a80:
 
@@ -1666,23 +1666,23 @@ translate schinese_rewrite Keepsake_Furkan_Festival_8b227a80:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b50b1f5d:
 
-    "相反,他吞噬了他的恐惧,伸出手来触摸卡里的手。"
+    "但他咽下恐惧，伸手去碰卡里的手。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2d95891d:
 
-    f "父亲会确保一切顺利 就像以前所有的节日一样。"
+    f "父亲会确保一切顺利，就像之前每一场节日一样。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_e890332f:
 
-    f "求你了,凯里,让我在这里多待一会儿。"
+    f "求你了，卡里。让我在这里再待一会儿。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_135025ee:
 
-    "年轻的山羊走近了, 直到他们鼻涕的小指尖 互相触碰, 暂时,一切都似乎没变。"
+    "年轻的山羊靠得更近，直到他们的鼻尖彼此相触，刹那间，万物仿佛静止。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_9b5738db:
 
-    f "留在我身边。"
+    f "就这样陪我待在这里。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3ed9dfe7:
 
@@ -1698,11 +1698,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_bd33250e:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_119dbb5f:
 
-    "那时他看不到山外的世界 但是现在 他看着弗坎 看着他坚定不移的目光。"
+    "那时，他看不见群山之外的世界，但如今……他望着弗坎，望着他坚定不移的目光，以及唇边淡淡的微笑。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_c0267827:
 
-    "那些日子早已逝去,但他们的感情没有改变,他们从未改变。"
+    "那些日子早已过去，但他们的感情没有变，从未改变。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_372b06a0:
 
@@ -1710,11 +1710,11 @@ translate schinese_rewrite Keepsake_Furkan_Festival_372b06a0:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_fb65eb7d:
 
-    "他们的嘴唇短暂地触摸了一下, 就像他们年轻时在瀑布边梳过一样。"
+    "他们的嘴唇短暂相触，就像年少时在瀑布边彼此擦过的唇。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2237817b:
 
-    "它只持续了不到一秒钟, 但足以让他们的脊椎都颤抖。"
+    "只持续了不到一秒，却足以让他们脊背发颤。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_7bbbb0b4:
 
@@ -1726,31 +1726,31 @@ translate schinese_rewrite Keepsake_Furkan_Festival_8fe8af71:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8fffa4c9:
 
-    k "巴克?"
+    k "巴基……？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_392f835b:
 
-    k "如果有人看见我们怎么办?"
+    k "如果……如果有人看见我们怎么办？"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ce24fda6:
 
-    f "他们不会。"
+    f "不会的。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_4a77562e:
 
-    "他伸出手来抓卡里的手 引导他们躲在桌子下面。"
+    "他伸手抓住卡里的手，带着他躲到桌下。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ea9422c0:
 
-    f "父亲会忙于仪式。"
+    f "父亲会忙着主持仪式。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_e3aafc76:
 
-    "他低声叫喊,把鹿推到地板上。"
+    "他低声说道，把那只鹿进一步压到地板上。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_ed86801d:
 
-    "他无法摆脱胃里沉浸的不安感 他喜欢这样和富坎在一起。"
+    "他无法摆脱胃里那股不安感——他居然喜欢这样和弗坎待在一起。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_4b6e119c:
 
@@ -1758,7 +1758,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_4b6e119c:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b5c393e7:
 
-    "即使Tevfik打算继续下去,他也会非常清楚,这种事情是不可能的。"
+    "即使他打算继续下去，特夫菲克也会让他清楚地知道这种事不可能发生。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_3bf7baa1:
 
@@ -1766,7 +1766,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_3bf7baa1:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_640c07dd:
 
-    "今晚,他被提醒 温暖的拥抱 他自己的童年朋友, 但他知道他永远无法告诉 任何人,他们之间到底发生了什么。"
+    "今晚，他想起了儿时好友温暖的拥抱，但他知道，今晚两人之间真正发生的一切，他永远无法告诉任何人。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_448d38e5:
 
@@ -1778,7 +1778,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_64df09ef:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_71205807:
 
-    "将半食不果腹的卷子放走后,他犹豫不决地拿起用自己的种子湿透的卷轴,在一团乱之后清扫整个晚上。"
+    "他把吃了一半的芝士卷收起来，迟疑地拿起那些浸满他们精液的卷轴，收拾残局，直到夜深。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_1cccd4ef:
 
@@ -1786,19 +1786,19 @@ translate schinese_rewrite Keepsake_Furkan_Festival_1cccd4ef:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_47cf3bbe:
 
-    "他并不打算和他最好的朋友做爱 但感觉很自然和正确 好像他们注定要在一起一样。"
+    "他本没打算在那上面和最好的朋友做爱，但这一切感觉自然而正确，仿佛他们注定要在一起。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_5ea907c9:
 
-    "他满脑子都是这个想法 直到他走到仪式的入口。"
+    "直到他走到仪式入口前，这个念头一直盘旋在脑海中。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_719a01c1:
 
-    "他深吸一口气,踩到Tevfik的侧面。"
+    "他深吸一口气，走到特夫菲克身旁。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_8738f0a4:
 
-    tv "你迟到了,我的孩子。"
+    tv "你迟到了，我的儿子。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d7c55b71:
 
@@ -1806,20 +1806,19 @@ translate schinese_rewrite Keepsake_Furkan_Festival_d7c55b71:
 
 translate schinese_rewrite Keepsake_Furkan_Festival_b3371096:
 
-    "声音中有一种不可分的愤怒, 但富坎知道的比质疑他是否知道。"
+    "他的声音里带着一丝难以辨认的怒意，但弗坎很清楚，自己最好不要去问父亲是不是知道了什么。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d760d6a5:
 
-    f "对不起,我被 赶上的东西 --"
+    f "对不起，我刚才被事情绊住了——"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_a28e69a0:
 
-    tv "确保不会再发生这种事。"
+    tv "别再有下次。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_d08fa283:
 
     "弗坎 慢点头。"
-
 translate schinese_rewrite Keepsake_Furkan_Festival_9414a232_1:
 
-    f "是的,父亲。"
+    f "是，父亲。"

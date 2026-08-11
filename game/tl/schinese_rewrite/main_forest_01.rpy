@@ -3,11 +3,11 @@
 
 translate schinese_rewrite main_green_forest_f3df80e5:
 
-    gt "嘿,你,你旅行的目的是什么?"
+    gt "嘿，你！你来这里做什么？"
 
 translate schinese_rewrite main_green_forest_e31207d0:
 
-    e "只是探索而已!"
+    e "只是到处逛逛！"
 
 translate schinese_rewrite main_green_forest_612a17d9:
 
@@ -15,155 +15,155 @@ translate schinese_rewrite main_green_forest_612a17d9:
 
 translate schinese_rewrite main_green_forest_6d7a8709:
 
-    e "好,我明白了,谢谢你提醒我！"
+    e "好吧，我明白了！谢谢你提醒我！"
 
 translate schinese_rewrite main_alchemists_cabin_cbb6bd7c:
 
-    "再一次,你发现了同样的芽, 这次它更大, 黄水果在通常的两个叶子下。"
+    "你又发现了那株小芽，这一次它大了许多，平常的两片叶子下面还结着一颗淡黄色的果实。"
 
 translate schinese_rewrite main_alchemists_cabin_c6157549:
 
-    "它大部分都和树上的其他纤维混合在一起, 几乎仿佛它属于这里一样。"
+    "它几乎和树上其他冷杉融为一体，仿佛本来就属于这里。"
 
 translate schinese_rewrite main_alchemists_cabin_f84659d4:
 
-    "你伸出手抓住芽芽, 突然间,一个熟悉的声音 吸引了你的注意力。"
+    "你伸手想抓住那株小芽，突然，一个熟悉的声音吸引了你的注意。"
 
 translate schinese_rewrite main_alchemists_cabin_44276ca5:
 
-    h "你以为你在干嘛 孩子。"
+    h "你这是在做什么，小家伙？"
 
 translate schinese_rewrite main_alchemists_cabin_6be92e1e:
 
-    "是哈斯凯尔,老龙从小屋走出来。"
+    "原来是哈斯克尔，那条老龙从他的小屋里走了出来。"
 
 translate schinese_rewrite main_alchemists_cabin_345648fb:
 
-    e "我当时在取草药,可以不..."
+    e "呃……我只是来采草药的，难道……不行吗？"
 
 translate schinese_rewrite main_alchemists_cabin_7f25484a:
 
-    "哈斯凯尔看着你的手方向 一只摇晃的发芽还在你手掌上摇晃。"
+    "哈斯克尔看向你伸出的手，那株扭动的小芽还在你的掌心里蹦跶。"
 
 translate schinese_rewrite main_alchemists_cabin_c9ee51ff:
 
-    h "山羊店主派你来的吗?"
+    h "是那个山羊商店老板让你来的吗？"
 
 translate schinese_rewrite main_alchemists_cabin_fdc766f3:
 
-    e "我在找一个叫Eversprout的小菜 格维德给了我找到它的线索 我跟着水果来到这里。"
+    e "我是在找一种叫作永生芽的魔法饰品，格维德给了我寻找它的线索，我就一路跟着果实找到了这里。"
 
 translate schinese_rewrite main_alchemists_cabin_95c1ecbb:
 
-    "龙叹气,他朝你走来 直到你们都处在壁树下。"
+    "龙叹了口气，朝你走来，直到你们一起站在冷杉树下。"
 
 translate schinese_rewrite main_alchemists_cabin_790310bb:
 
-    h "他到底跟你说了什么?"
+    h "啧，他到底跟你说了什么？"
 
 translate schinese_rewrite main_alchemists_cabin_0c6a1960:
 
-    e "他刚卖给我卷轴 等等 你知道小芽吗?"
+    e "他只是卖给我一张卷轴——等等，你知道这株小芽的事？"
 
 translate schinese_rewrite main_alchemists_cabin_78d92e77:
 
-    "你放松拳头, 芽芽很快弹到哈斯凯尔的身边。"
+    "你松开拳头，小芽立刻蹦到哈斯克尔身旁。"
 
 translate schinese_rewrite main_alchemists_cabin_93c6cb34:
 
-    "他在树叶上拍拍一拍 然后再让它回到树上。"
+    "他轻轻拍了拍叶子，然后任由它回到那些蓬乱的树丛中。"
 
 translate schinese_rewrite main_alchemists_cabin_a1ce6a51:
 
-    h "我当然知道 芽发来自我的花园 帮助照看草药和花。"
+    h "当然知道！这株小芽来自我的花园，平时会帮我照料草药和花朵。"
 
 translate schinese_rewrite main_alchemists_cabin_d75f0564:
 
-    h "他是一个刚出生的精神, 一个天生就像另一个 灵魂的甜点, 但他有他自己的想法。"
+    h "它是一个初生的灵体，和其他有灵性的魔法饰品一样诞生，但它有自己的意识。"
 
 translate schinese_rewrite main_alchemists_cabin_4cf86ea3:
 
-    e "我还以为你只知道那三个小东西呢。"
+    e "我还以为那三件魔法饰品就是全部了。"
 
 translate schinese_rewrite main_alchemists_cabin_2381274b:
 
-    h "我可不会很乐意让你把我的花园标价 放在玻璃瓶里。"
+    h "我可不会乐意让你把我的花园帮手装进玻璃瓶里，啧……"
 
 translate schinese_rewrite main_alchemists_cabin_2018efa8:
 
-    "哈斯凯尔再喝一口,然后他随意走进花园,带着小芽回来。"
+    "哈斯克尔又喝了一口茶，然后若无其事地走进花园，带着一株小芽回来。"
 
 translate schinese_rewrite main_alchemists_cabin_e5e7b6f9:
 
-    h "在这里,拿去。"
+    h "给，拿去吧。"
 
 translate schinese_rewrite main_alchemists_cabin_959bb4a2:
 
-    e "哦,这是..."
+    e "哦？这是什么……？"
 
 translate schinese_rewrite main_alchemists_cabin_c7897e01:
 
-    h "精神留下的发芽之一, 它应该援引类似的效果, 仿佛它是一个小甜点。"
+    h "这是那灵体寄居过的其中一株小芽，应该也能产生类似魔法饰品的效果。"
 
 translate schinese_rewrite main_alchemists_cabin_72c73954:
 
-    h "结果是减少的,但与真正的一样,精神上也是一样。"
+    h "效果会弱一些，但和真正的魔法饰品一样具有灵性。"
 
 translate schinese_rewrite main_alchemists_cabin_b73b6cb7:
 
-    e "非常感谢你,哈斯凯尔。"
+    e "太谢谢你了，哈斯克尔。"
 
 translate schinese_rewrite main_alchemists_cabin_bd41a4e6:
 
-    h "下次Gwydyon要卖给你我的东西时 记得用他没用的晶体塞住他的嘴。"
+    h "下次格维德恩还想把我的东西卖给你时，记得用他那些一文不值的水晶把他的嘴堵上。"
 
 translate schinese_rewrite main_alchemists_cabin_69491b20:
 
-    h "现在,让我喝完茶,别再找那个小婴儿了,他要怕你一阵子了。"
+    h "现在，让我把茶喝完。小家伙，别再去找那株小芽了，它暂时会怕你一阵子。"
 
 translate schinese_rewrite main_alchemists_cabin_cd2aa067:
 
-    "你点头,在哈斯凯尔轻轻笑 回到他的小屋之前。"
+    "你点点头，哈斯克尔轻笑一声，回到了他的小屋。"
 
 translate schinese_rewrite main_woodland_outpost_134a4208:
 
-    "在山羊的老前哨下面 你再次发现了隐藏的芽 一如既往地摇动着 与自然频率同步的节奏。"
+    "在山羊族的旧前哨下，你再次发现了那株藏起来的小芽。它一如既往地扭动着，节奏与自然的律动合拍。"
 
 translate schinese_rewrite main_woodland_outpost_c3d914a9:
 
-    e "别再跑掉了!"
+    e "你他妈的别再跑了！"
 
 translate schinese_rewrite main_woodland_outpost_554537ac:
 
-    "你愤怒地抓住它, 这一次小芽 被困在你的棕榈。"
+    "你气冲冲地抓住了它，这一次，小芽被牢牢困在你的掌心里。"
 
 translate schinese_rewrite main_woodland_outpost_65ab4a45:
 
-    e "哈哈,是的!"
+    e "哈哈，抓到了！"
 
 translate schinese_rewrite main_woodland_outpost_e327378a:
 
-    "细小的发芽的抽搐,好像被你的力量伤害了一样。你的眼睛变宽了,你的手立刻松开。"
+    "小芽抽搐起来，像是被你的力道弄疼了似的不断颤动。你瞪大眼睛，立刻松开了手。"
 
 translate schinese_rewrite main_woodland_outpost_72d88318:
 
-    "突然它从你的手跳下来, 你试图抓住它 再次,但一旦它 触到地面, 它再次消失。"
+    "它突然从你手里跳了出去。你又试着抓住它，可它一落地，便再次消失了。"
 
 translate schinese_rewrite main_woodland_outpost_b57712fd:
 
-    "你急着踩地 竟然为了逃避 利用你的同情心来操纵它 真是难以置信。"
+    "你不耐烦地跺着脚。难以置信，它居然利用你的同情心来逃跑。"
 
 translate schinese_rewrite main_woodland_outpost_2c3b668e:
 
-    "但没时间让你失望了 你应该再追它。"
+    "但你没时间继续懊恼，应该再追上去。问题是，你根本不知道它跑到哪里去了……"
 
 translate schinese_rewrite main_woodland_outpost_21d7e940:
 
-    "你走到山羊部落的入口 有两个警卫站在那里。"
+    "你走到山羊族入口，那里站着两名守卫。"
 
 translate schinese_rewrite main_woodland_outpost_4a5579c6:
 
-    "其中一人立即冲进去,一瞬间,将军朝你走来,仍然疲惫不堪。"
+    "其中一人立刻冲了进去，片刻后，将军朝你走来，看起来依旧疲惫不堪。"
 
 translate schinese_rewrite main_woodland_outpost_78c284fa:
 
@@ -171,7 +171,7 @@ translate schinese_rewrite main_woodland_outpost_78c284fa:
 
 translate schinese_rewrite main_woodland_outpost_cca30a87:
 
-    e "他没事,他叫我叫你的卫兵把他带回去。"
+    e "他没事，他让我请你们的守卫把他带回去。"
 
 translate schinese_rewrite main_woodland_outpost_c2205134:
 
@@ -183,51 +183,51 @@ translate schinese_rewrite main_woodland_outpost_dcd86e92:
 
 translate schinese_rewrite main_woodland_outpost_c52956bf:
 
-    k "好吧,谢谢,库里尔。"
+    k "好吧……谢谢你，信使。"
 
 translate schinese_rewrite main_woodland_outpost_57642efc:
 
-    "你可以在他的声音里感受到一丝感激 即使他没有大声说出来。"
+    "即使他没有明说，你还是能从他的声音里察觉到一丝感激。"
 
 translate schinese_rewrite main_woodland_outpost_82c5b073:
 
-    k "你应该休息一会,我来处理。"
+    k "你应该去休息一会儿，我现在来接手。"
 
 translate schinese_rewrite main_woodland_outpost_f9973791:
 
-    "他给你一些纸。"
+    "他递给你几张纸。"
 
 translate schinese_rewrite main_woodland_outpost_94e12146:
 
-    k "我想有些秘方应该对你有用。"
+    k "这是我觉得对你会很有用的几张配方。"
 
 translate schinese_rewrite main_woodland_outpost_44668cc5:
 
-    k "铁剑和斧头。"
+    k "铁剑和铁斧的配方。"
 
 translate schinese_rewrite main_woodland_outpost_4509fa69:
 
-    e "听起来太棒了,多谢了!"
+    e "啊，太好了。多谢！"
 
 translate schinese_rewrite main_woodland_outpost_f622bd2d:
 
-    k "我们晚点再谈 我们两个需要恢复一段时间。"
+    k "我们之后再聊，我们俩都需要休养一阵子。"
 
 translate schinese_rewrite main_woodland_outpost_88472ec0:
 
-    e "See you!"
+    e "回头见！"
 
 translate schinese_rewrite main_woodland_outpost_56af5341:
 
-    "你到达山羊部落的大门 警卫们就混乱地看着你。"
+    "你来到山羊族的大门前，守卫们困惑地看着你。"
 
 translate schinese_rewrite main_woodland_outpost_135a5f89:
 
-    "看来现在没人管山羊部落了。"
+    "看来现在已经没人负责山羊族的事务了。"
 
 translate schinese_rewrite main_woodland_outpost_d7796cd2:
 
-    "将军还在洞穴里,如你所想。"
+    "正如你所料，将军还在洞穴里。"
 
 translate schinese_rewrite main_woodland_outpost_bb213eab:
 
@@ -235,175 +235,175 @@ translate schinese_rewrite main_woodland_outpost_bb213eab:
 
 translate schinese_rewrite main_woodland_outpost_da9cd745:
 
-    "首领还在洞穴里。"
+    "而首领还在洞穴里。"
 
 translate schinese_rewrite main_woodland_outpost_146c26b8:
 
-    "你决定警卫不让你进去 然后你就回到主干道。"
+    "你认定守卫不会让你进去，于是转身回到主路上。"
 
 translate schinese_rewrite main_mossy_freshwater_f68a08be:
 
-    "仅仅在苔河的洞穴里, 你再次发现同样的发芽, 它再次摇动, 抽搐着水流。"
+    "就在长满苔藓的河流洞穴里，你又发现了同一株小芽。它再次扭动起来，随着水流一阵阵抽搐。"
 
 translate schinese_rewrite main_mossy_freshwater_cdc43bd0:
 
-    "你走向河岸, 在它从你的手掌中溜走之前, 并再次摇动。"
+    "你朝河岸走去，它却从你的手中滑脱，再次扭动着逃走了。"
 
 translate schinese_rewrite main_mossy_freshwater_436b3870:
 
-    e "啊!它是如何再次逃脱的呢?"
+    e "啊！它怎么又逃掉了？"
 
 translate schinese_rewrite main_mossy_freshwater_4706c9aa:
 
-    "你左转右转头, 看不到方向, 但你应该追逐它,以免它再次消失。"
+    "你左右转头，完全看不出它往哪个方向跑了，但你得在它再次消失前追上去。"
 
 translate schinese_rewrite ancient_tree_chop_b54e12b4:
 
-    "你从附近的树上砍掉一些木头 你收集了[chopped_wood] Wooden日志。"
+    "你从附近的树上砍下一些木头。你收集到了 [chopped_wood] 根木头。"
 
 translate schinese_rewrite ancient_tree_chop_b201a95a:
 
-    "您总共失去了 [lost_hp] HP。"
+    "你总共损失了 [lost_hp] 点生命值。"
 
 translate schinese_rewrite ancient_tree_chop_176da485:
 
-    "你没有足够的hp 让你继续消耗你的能量 在砍木头上,你决定 这是更好的 你继续你的道路上。"
+    "你的生命值不足，无法继续用砍树消耗体力，于是决定继续赶路。"
 
 translate schinese_rewrite ancient_tree_chop_a229b0ad:
 
-    "你看看包里,除了你的手,你什么也砍不掉,你可能需要一把斧头。"
+    "你翻遍背包，除了徒手以外没有任何能砍木头的东西。这种时候你大概需要一把斧头。"
 
 translate schinese_rewrite tree_chopping_8bd7ba34:
 
-    "你失去了太多的HP 继续砍木头。"
+    "你损失了太多生命值，无法继续砍树。"
 
 translate schinese_rewrite sparkling_lagoon_drink_e8ac8bd3:
 
-    "你把牛头怪的精华倒进池塘里 水中白液体的滴滴和滴滴。"
+    "你把牛头怪的精华倒进池塘，白色液体一滴又一滴地与水混合。"
 
 translate schinese_rewrite sparkling_lagoon_drink_5dd59d30:
 
-    "很快,你看... 水清空了 一种奇怪的植物开始从水中浮出水面。"
+    "很快，你看到……水变清了，一株奇异的植物开始从水中浮现。"
 
 translate schinese_rewrite sparkling_lagoon_drink_8ae79518:
 
-    "你一碰花就感觉到花的效果 一定是小菜一碟。"
+    "你一碰到它就能感受到其中的力量，它一定是件魔法饰品。"
 
 translate schinese_rewrite sparkling_lagoon_drink_7eacecbf:
 
-    "你小心放在包里 起来前先谢谢水。"
+    "你小心地把它收进背包，然后起身前向水面道谢。"
 
 translate schinese_rewrite sparkling_lagoon_drink_868d48c6:
 
-    "当你仔细看一看 你就会意识到那只是一剂恩典..."
+    "仔细一看，你才发现那只是一株恩典草……"
 
 translate schinese_rewrite sparkling_lagoon_drink_b0710454:
 
-    "你把植物放进你的包里 继续你的冒险。"
+    "你把植物放进背包，继续你的冒险。"
 
 translate schinese_rewrite sparkling_lagoon_drink_484eb984:
 
-    "你用桶子从环礁湖里喝水 水的清新能量 回收了一部分HP和MP。"
+    "你用水桶舀起泻湖的水喝下，清凉的水流恢复了你的一部分生命值和魔法值。"
 
 translate schinese_rewrite sparkling_lagoon_drink_1778dec4:
 
-    "透过你的包,没有东西能维持足够的水 让你喝,你意识到你需要一个水桶。"
+    "你翻遍背包，没有什么能装下足够的水供你饮用。你意识到自己需要一个水桶，只好沮丧地继续赶路。"
 
 translate schinese_rewrite sparkling_lagoon_drink_d45e1edf:
 
-    "你看环礁湖,你的胃现在仍然充满水。你需要花点时间才能再次从环礁湖喝酒。"
+    "你看着泻湖，此刻你的肚子里还装满了水。你需要过一会儿才能再次饮用泻湖的水。"
 
 translate schinese_rewrite green_forest_loop_e59928dc:
 
-    "你环顾绿林一阵子 但附近似乎没什么值得注意的。"
+    "你在绿林中环顾了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite green_forest_loop_6795ba31:
 
-    "当你在森林中搜索时 绿色的群落从无辜的灌木中 渗入你体内 覆盖着你的粘糊糊的东西。"
+    "你搜寻森林时，一团绿色的东西从一株无害的灌木中猛扑向你，把你浑身都覆盖上了黏液。"
 
 translate schinese_rewrite green_forest_loop_ef997b7d:
 
-    "你 挣扎、 挥臂、 使 弥撒 远离 你。 其 果 果 成 了 绿色 的 粘液、 你 的 视觉 明亮 了。"
+    "你挣扎着挥动双臂，把那团东西甩开。视线恢复后，你才发现那是一只绿色史莱姆。"
 
 translate schinese_rewrite green_forest_loop_ec9039c2:
 
-    "你环顾绿林,在阳光下 看到灌木丛里有红色的红色东西,你捡起来了,是红莓。"
+    "你在明亮的阳光下环顾绿林，看到灌木丛里有一抹红色，便走过去把它捡了起来。原来是一颗红浆果。"
 
 translate schinese_rewrite green_forest_loop_3a490989:
 
-    "你把红莓装进包里 你现在有[item_number]红莓了。"
+    "你把红浆果放进背包，现在有 [item_number] 颗红浆果。"
 
 translate schinese_rewrite green_forest_loop_88e4ec00:
 
-    "你把红莓装进包里 你现在有[item_number]红莓了。"
+    "你把红浆果放进背包，现在有 [item_number] 颗红浆果。"
 
 translate schinese_rewrite green_forest_loop_7f533c9c:
 
-    "你环顾绿林,在阳光下 看到灌木丛里有色蓝色的东西,你捡起来了,是蓝色的白莓。"
+    "你在明亮的阳光下环顾绿林，看到灌木丛里有一抹蓝色，便走过去把它捡了起来。原来是一颗蓝浆果。"
 
 translate schinese_rewrite green_forest_loop_b2dcd073:
 
-    "你把蓝莓装进包里 你现在有[item_number]蓝莓了。"
+    "你把蓝浆果放进背包，现在有 [item_number] 颗蓝浆果。"
 
 translate schinese_rewrite green_forest_loop_c44940ab:
 
-    "你把蓝莓装在包里 你现在有[item_number]蓝莓。"
+    "你把蓝浆果放进背包，现在有 [item_number] 颗蓝浆果。"
 
 translate schinese_rewrite green_forest_loop_89ec9253:
 
-    "当你走在森林周围, 你发现了一条废弃的土路 覆盖着叶子, 这条路似乎被遗忘了很长一段时间, 除了一对脚印。"
+    "你在森林里行走时，发现了一条被落叶覆盖的废弃土路。这条路似乎已经被遗忘很久了，只有一对脚印表明曾有人走过。"
 
 translate schinese_rewrite green_forest_loop_a49cea3d:
 
-    "你沿着这条小路走走,需要几分钟时间到达终点,在那里你可以看到一棵巨大的古树。你决定检查一下周围的一小段时间。"
+    "你沿着小径走了几分钟，来到尽头，看见一棵巨大的古树立在路中央。你决定在周围查看一会儿。"
 
 translate schinese_rewrite green_forest_loop_e59928dc_1:
 
-    "你环顾绿林一阵子 但附近似乎没什么值得注意的。"
+    "你在绿林中环顾了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite green_forest_loop_511df20f:
 
-    "当你走在森林里的时候, 你感觉自己左脚上好像有什么东西, 你低头看, 并且意识到它是一个岩石。"
+    "你穿过森林时，感觉左脚上像踩到了什么东西。你低头一看，原来是一块石头。"
 
 translate schinese_rewrite green_forest_loop_e1ac0667:
 
-    e "一定是塞巴斯要我收集的石头。"
+    e "一定是那块石头……不，是塞巴斯让我收集的石头。"
 
 translate schinese_rewrite green_forest_loop_18961dfc:
 
-    e "我想我已经足够了,我要回去向塞巴斯报告。"
+    e "我想我已经收集到足够多的……石头了。得回去向塞巴斯报告。"
 
 translate schinese_rewrite green_forest_loop_e7c8eaf3:
 
-    "你把石头放进你的包里 你现在有[item_number]石头了。"
+    "你把石头放进背包，现在有 [item_number] 块石头。"
 
 translate schinese_rewrite summery_farmland_loop_f5a6843c:
 
-    "你来到农田的大麦田, 用你的刀子,捡起一粒大麦。"
+    "你在农田里遇到一片大麦田，用镰刀收割了一茬大麦。"
 
 translate schinese_rewrite summery_farmland_loop_549261cb:
 
-    "你把大麦放进包里 你现在有[item_number]大麦了。"
+    "你把大麦放进背包，现在有 [item_number] 份大麦。"
 
 translate schinese_rewrite summery_farmland_loop_1633ad3e:
 
-    "你遇到农田里的一片大麦田 但你需要一只手杖来收获它们。"
+    "你在农田里遇到一片大麦田，但需要镰刀才能收割。"
 
 translate schinese_rewrite summery_farmland_loop_0acccf7f:
 
-    "你遇到一个稻草人 田野上, 它似乎不知道你的存在。"
+    "你在田里撞见一个稻草人，它似乎没有察觉到你的存在。"
 
 translate schinese_rewrite summery_farmland_loop_75491390:
 
-    "你遇到田野上的泥石码头 看来你不知道你的存在。"
+    "你在田里遇到一只陆鲨，它似乎没有察觉到你的存在。"
 
 translate schinese_rewrite summery_farmland_loop_ab0d88aa:
 
-    "在农场附近,你找到了一份 详细描述过程的废纸 来制作一个..."
+    "你在农场附近发现了一张遗留的纸，上面详细写着制作……骑士腿甲的步骤。"
 
 translate schinese_rewrite summery_farmland_loop_72cb7862:
 
-    "{i} 制作著名骑士的烹饪品,使用4块铁、2块软织物和一带带子。{/i}"
+    "{i}制作著名骑士的腿甲，需要 4 块铁、2 块软布和一条带子。{/i}"
 
 translate schinese_rewrite summery_farmland_loop_28cfe685:
 
@@ -411,123 +411,123 @@ translate schinese_rewrite summery_farmland_loop_28cfe685:
 
 translate schinese_rewrite summery_farmland_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite summery_farmland_loop_e91ba75d_1:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite ancient_tree_loop_5ec750a1:
 
-    "当你正在搜索这个区域时,你听到一个微弱的钟声从你身后树后面响起,你转过身去环顾四周,但是没有人。"
+    "你搜寻这片区域时，听到身后树林后方传来微弱的铃声。你转身四处张望，却没有看到任何人。"
 
 translate schinese_rewrite ancient_tree_loop_15e9f5b1:
 
-    "另一串钟声让你失去防御能力 突然,一个角形人 突然跳进你的视线中心。"
+    "又一阵铃声响起，让你失去防备。突然，一个头上长角的身影手持木矛跳入你的视野中央。"
 
 translate schinese_rewrite ancient_tree_loop_dc8dbdfd:
 
-    gt "以主之名,以无礼之名,我将免除你肮脏的命运!"
+    gt "放肆！以吾主之名，我将把你从不洁的命运中解脱出来！"
 
 translate schinese_rewrite ancient_tree_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite ancient_tree_loop_6f01ab1b:
 
-    "当你在森林里游荡的时候,你突然感到左腿有尖锐的疼痛。感觉好像有一千针刺入你的腿。"
+    "你在森林中漫步时，左腿突然传来一阵剧痛，仿佛有一千根针刺进了你的腿。"
 
 translate schinese_rewrite ancient_tree_loop_eecd97a4:
 
-    "陷阱的重量立刻导致你绊倒倒在地上。你看着它,意识到你踏入了一个熊陷阱。"
+    "陷阱的重量让你立刻绊倒，摔在地上。你低头一看，才发现自己踩中了捕兽夹。"
 
 translate schinese_rewrite ancient_tree_loop_fb7fa5e9:
 
-    "你花了几分钟才摆脱这个陷阱, 但伤口留下几滴血 在草地上。你的HP下降了20。"
+    "你花了几分钟才摆脱捕兽夹，但伤口在草地上留下了几滴血。你的生命值下降了 20 点。"
 
 translate schinese_rewrite ancient_tree_loop_90ff1c7f:
 
-    "你环顾古老的树,在明亮的太阳下 看到树丛里有黄色的东西,你捡起来了,那是金莓。"
+    "你在古树周围环顾，在明亮的阳光下看到灌木丛里有一抹黄色，便走过去捡了起来。原来是一颗金色浆果。"
 
 translate schinese_rewrite ancient_tree_loop_0c0256fc:
 
-    "你把金莓装进包里 你现在有[item_number]金莓了。"
+    "你把金色浆果放进背包，现在有 [item_number] 颗金色浆果。"
 
 translate schinese_rewrite ancient_tree_loop_0d9c03fa:
 
-    "你把金莓装进包里 你现在有[item_number]金莓了。"
+    "你把金色浆果放进背包，现在有 [item_number] 颗金色浆果。"
 
 translate schinese_rewrite ancient_tree_loop_4b974228:
 
-    "你在环礁湖周围游荡了一段时间, 但似乎没有什么特别的明显, 直到你看到森林中间的潮湿河。"
+    "你在泻湖周围徘徊了一会儿，似乎没有发现任何特别之处，直到你看见森林中央有一条湿漉漉的河流。"
 
 translate schinese_rewrite ancient_tree_loop_5cc6c659:
 
-    "眼神是令人叹为观止的体验,因为你甚至可以闻到流水的新鲜气味。 苔的草味给了你不可逾越的能量。"
+    "眼前的景象令人叹为观止，你甚至能闻到流水的清新气息。苔藓的青草气息赋予你无穷的活力。"
 
 translate schinese_rewrite ancient_tree_loop_af895a77:
 
-    "你拿出你的地图 标记位置 这是摩西淡水。"
+    "你拿出地图，在这里做了标记。这就是苔藓清泉。"
 
 translate schinese_rewrite ancient_tree_loop_e91ba75d_1:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite ancient_tree_loop_3aef2234:
 
-    "你在古树周围游荡了一段时间 就在你决定回来之前 你注意到远处森林里有一片蓝色的光环。"
+    "你在古树周围徘徊了一会儿，正准备返回时，注意到远处森林里有一道蓝色光晕。"
 
 translate schinese_rewrite ancient_tree_loop_2feecdfe:
 
-    "从你所处的位置看,它看起来像有魔法精华的东西。你慢慢地走向这个区域, 在你面前发现了一个明亮的蓝色环礁湖。"
+    "从你站的地方看，那似乎是什么带有魔法气息的东西。你慢慢走过去，发现面前是一片明亮的蓝色泻湖。"
 
 translate schinese_rewrite ancient_tree_loop_e91ba75d_2:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite sparkling_lagoon_loop_752145e3:
 
-    "环礁湖周围,你注意到附近有小花儿, 你去捡起来,那是一朵松花。"
+    "在泻湖附近，你注意到旁边有一小片花丛，走过去捡起一朵，原来是亚麻花。"
 
 translate schinese_rewrite sparkling_lagoon_loop_bde92c53:
 
-    "你把麻花放进包里 你现在有[item_number]的松花。"
+    "你把亚麻花放进背包，现在有 [item_number] 朵亚麻花。"
 
 translate schinese_rewrite sparkling_lagoon_loop_c2ae7326:
 
-    "你把麻花放进包里 你现在有[item_number]的松花。"
+    "你把亚麻花放进背包，现在有 [item_number] 朵亚麻花。"
 
 translate schinese_rewrite sparkling_lagoon_loop_0c517644:
 
-    "你环顾着闪亮的环礁湖, 在明亮的太阳下,你看到灌木丛里有红色的东西, 你去拿起来,那是个红色的白莓。"
+    "你在闪光泻湖周围环顾，在明亮的阳光下看到灌木丛里有一抹红色，便走过去把它捡了起来。原来是一颗红浆果。"
 
 translate schinese_rewrite sparkling_lagoon_loop_3a490989:
 
-    "你把红莓装进包里 你现在有[item_number]红莓了。"
+    "你把红浆果放进背包，现在有 [item_number] 颗红浆果。"
 
 translate schinese_rewrite sparkling_lagoon_loop_88e4ec00:
 
-    "你把红莓装进包里 你现在有[item_number]红莓了。"
+    "你把红浆果放进背包，现在有 [item_number] 颗红浆果。"
 
 translate schinese_rewrite sparkling_lagoon_loop_e3eefdaf:
 
-    "你环顾着闪亮的环礁湖, 在明亮的太阳下,你看到灌木丛里有色蓝色的东西, 你去拿它。它是一个蓝色的白莓。"
+    "你在闪光泻湖周围环顾，在明亮的阳光下看到灌木丛里有一抹蓝色，便走过去把它捡了起来。原来是一颗蓝浆果。"
 
 translate schinese_rewrite sparkling_lagoon_loop_b2dcd073:
 
-    "你把蓝莓装进包里 你现在有[item_number]蓝莓了。"
+    "你把蓝浆果放进背包，现在有 [item_number] 颗蓝浆果。"
 
 translate schinese_rewrite sparkling_lagoon_loop_c44940ab:
 
-    "你把蓝莓装在包里 你现在有[item_number]蓝莓。"
+    "你把蓝浆果放进背包，现在有 [item_number] 颗蓝浆果。"
 
 translate schinese_rewrite sparkling_lagoon_loop_c4468641:
 
-    "在环礁湖沿线 你发现了一份残存的纸 详细说明了制造水桶的过程。"
+    "你在泻湖边发现了一张遗留的纸，上面详细写着水桶的制作方法。"
 
 translate schinese_rewrite sparkling_lagoon_loop_6248f077:
 
-    "它说做木桶需要6个木和4个石球。你在日记上记下食谱。"
+    "上面写着，制作木制水桶需要 6 根木头和 4 个史莱姆球。你把这份配方记在日志里。"
 
 translate schinese_rewrite sparkling_lagoon_loop_28cfe685:
 
@@ -535,151 +535,151 @@ translate schinese_rewrite sparkling_lagoon_loop_28cfe685:
 
 translate schinese_rewrite sparkling_lagoon_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite sparkling_lagoon_loop_e91ba75d_1:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite mossy_freshwater_loop_c78bb1b6:
 
-    "在河周围,你游荡, 捡起一棵植物, 那是一只Reed。"
+    "你在河边徘徊，捡起了一株植物，原来是芦苇。"
 
 translate schinese_rewrite mossy_freshwater_loop_cf967e5f:
 
-    "你把Reed放进你的包里 你现在有[item_number] Reed了。"
+    "你把芦苇放进背包，现在有 [item_number] 株芦苇。"
 
 translate schinese_rewrite mossy_freshwater_loop_a5ea90ba:
 
-    "你把Reed放进包里 你现在有[item_number] Reeds了。"
+    "你把芦苇放进背包，现在有 [item_number] 株芦苇。"
 
 translate schinese_rewrite mossy_freshwater_loop_55cb61f1:
 
-    "河岸一带,你注意到附近有一小块小花, 你去捡起来,那是圣人。"
+    "沿着河岸走时，你注意到旁边有一小片花丛，走过去捡起一朵，原来是鼠尾草。"
 
 translate schinese_rewrite mossy_freshwater_loop_04a4170f:
 
-    "你把圣花放进包里 你现在有[item_number]圣花了。"
+    "你把鼠尾草放进背包，现在有 [item_number] 株鼠尾草。"
 
 translate schinese_rewrite mossy_freshwater_loop_f3e88ff2:
 
-    "你把圣花放进包里 你现在有[item_number]红花。"
+    "你把鼠尾草放进背包，现在有 [item_number] 株鼠尾草。"
 
 translate schinese_rewrite mossy_freshwater_loop_0471f10b:
 
-    "你走在河边, 并且注意到一些闪亮的东西... 这是一个食谱。"
+    "你沿着河边走，注意到有样东西在闪闪发光……原来是一张配方。"
 
 translate schinese_rewrite mossy_freshwater_loop_15e9e757:
 
-    "你快点过来捡起来 上面写着..."
+    "你赶紧走过去把它捡起来。上面写着……"
 
 translate schinese_rewrite mossy_freshwater_loop_ff5935ea:
 
-    "{i}... 制造一小块... 用两块黏土球和两块木头的木头...{/i}"
+    "{i}……制作泥铲……需要两个史莱姆球和两块木头。{/i}"
 
 translate schinese_rewrite mossy_freshwater_loop_f037af02:
 
-    "...你把笔记收起来, 它似乎你已经学会了 如何做一个粗糙的。"
+    "……你把纸条收起来，看来你已经学会制作泥铲了。"
 
 translate schinese_rewrite mossy_freshwater_loop_7ab5ba61:
 
-    "沿着河走一阵子之后 你决定沿着河下游走。"
+    "沿着河流走了一会儿后，你决定顺流而下。"
 
 translate schinese_rewrite mossy_freshwater_loop_4d13f8eb:
 
-    "河水冲到你的腿上 需要很长的时间来探索森林。"
+    "河水不断拍打着你的双腿，你花了很长时间才探索完这片森林。"
 
 translate schinese_rewrite mossy_freshwater_loop_2d3f5440:
 
-    "很快,你就会注意到一座废弃的桥 标志着河流的突然断端, 如果不算周围的洪水,。"
+    "很快，你注意到一座废弃的桥，它标志着河流的突然终点——不算包围此地的洪水的话。"
 
 translate schinese_rewrite mossy_freshwater_loop_8d02a7d8:
 
-    "你拿出地图 检查周围 这个地方一定是河边的交叉口。"
+    "你拿出地图查看周围，这里一定就是河畔渡口。"
 
 translate schinese_rewrite mossy_freshwater_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite mossy_freshwater_loop_e9de0dcf:
 
-    "你看着河里 发现水下有微粒的东西。"
+    "你朝河里看去，发现水下有些颗粒状的东西。"
 
 translate schinese_rewrite mossy_freshwater_loop_ae8ac4b1:
 
-    "你用你的土筋 很快挖出一块粘土 仔细地放在你的包里。"
+    "你用泥铲挖出一块黏土，小心地把它收进背包。"
 
 translate schinese_rewrite mossy_freshwater_loop_06648869:
 
-    "你现在有[item_num]粘土碎片了。"
+    "你现在有 [item_num] 块黏土。"
 
 translate schinese_rewrite mossy_freshwater_loop_7a4dea47:
 
-    "你赤手空拳地挖泥土... 但徒劳无益,似乎行不通。"
+    "你试着用徒手挖开泥巴……但毫无用处，看来这样根本行不通。"
 
 translate schinese_rewrite mossy_freshwater_loop_0ba9ac66:
 
-    "你决定继续前进,也许你需要一些小东西,可以挖..."
+    "你决定继续前进，也许你需要某种能挖掘的小工具……"
 
 translate schinese_rewrite mossy_freshwater_loop_fd01265d:
 
-    "在河床下 你发现了一些微弱的光芒 隐藏在岩石深处的东西。"
+    "你在河床下发现了某种微微发光的东西，深深藏在岩石之间。"
 
 translate schinese_rewrite mossy_freshwater_loop_b4f1ef41:
 
-    "你用你带来的土 挖遍光滑的沙子和水下泥土。"
+    "你拿出随身携带的泥铲，在水下挖开平滑的沙子和泥土。"
 
 translate schinese_rewrite mossy_freshwater_loop_06a740d9:
 
-    "很快,洞就变得很深了 以至于你注意到一枝发光的蓝色树枝。"
+    "很快，坑挖得足够深了，你注意到一根散发蓝光的树枝。"
 
 translate schinese_rewrite mossy_freshwater_loop_9e9f2c2c:
 
-    "推一推,你拉出树枝, 感觉一个强大的 光环在你的身体中凝结..."
+    "你稍稍用力，便将树枝拔了出来，一股强大的气息在你体内涌动……"
 
 translate schinese_rewrite mossy_freshwater_loop_bc4d7076:
 
-    "它必须是小节。"
+    "这一定是一件魔法饰品。"
 
 translate schinese_rewrite mossy_freshwater_loop_f0df0c49:
 
-    "你小心放进包里 离水远点。"
+    "你小心地把它放进背包，然后离开水边。"
 
 translate schinese_rewrite mossy_freshwater_loop_7a4dea47_1:
 
-    "你赤手空拳地挖泥土... 但徒劳无益,似乎行不通。"
+    "你试着用徒手挖开泥巴……但毫无用处，看来这样根本行不通。"
 
 translate schinese_rewrite mossy_freshwater_loop_0ba9ac66_1:
 
-    "你决定继续前进,也许你需要一些小东西,可以挖..."
+    "你决定继续前进，也许你需要某种能挖掘的小工具……"
 
 translate schinese_rewrite mossy_freshwater_loop_296a0bf4:
 
-    "沿着河走一阵子之后 你决定爬上上游 探索上面的森林。"
+    "沿着河流走了一会儿后，你决定逆流而上，探索上方的森林。"
 
 translate schinese_rewrite mossy_freshwater_loop_f41a40bc:
 
-    "当你一偷看,你看到一个巨大的红旗 在你面前, 这是一个老旧的废弃定居点 似乎由山羊建造。"
+    "你刚探出头，就看见前方飘着一面巨大的红旗。那是一处废弃已久的聚居地，似乎是山羊族建造的。"
 
 translate schinese_rewrite mossy_freshwater_loop_97331535:
 
-    "你拿出你的地图 并标记位置, 这个地方必须是林地前哨。"
+    "你拿出地图标记位置，这里一定就是林地前哨。"
 
 translate schinese_rewrite mossy_freshwater_loop_dd81e7d4:
 
-    "沿着河走一阵子之后, 你休息在滑雪的岩石上..."
+    "沿河走了一会儿后，你在一块湿滑的岩石上坐下来休息……"
 
 translate schinese_rewrite mossy_freshwater_loop_adcef476:
 
-    "哎哟!"
+    "哎哟！"
 
 translate schinese_rewrite mossy_freshwater_loop_4c85091a:
 
-    "你的屁股下面有东西 但幸运的是,这只是个小字条..."
+    "你的屁股底下似乎压着什么东西，不过幸好只是一张小纸条……"
 
 translate schinese_rewrite mossy_freshwater_loop_c9ab56ee:
 
-    "制造软软的纤维... 纤维... 霉霉1{i}{/i}"
+    "{i}软布制作方法……{/i}"
 
 translate schinese_rewrite mossy_freshwater_loop_0fd98fba:
 
@@ -687,59 +687,59 @@ translate schinese_rewrite mossy_freshwater_loop_0fd98fba:
 
 translate schinese_rewrite mossy_freshwater_loop_f3fcd3e8:
 
-    "沿着河走一阵子之后,你决定上山旅行。"
+    "沿河走了一会儿后，你决定继续逆流而上。"
 
 translate schinese_rewrite mossy_freshwater_loop_14bb8b3d:
 
-    "你沿着河岸走,走到水流向的地方, 爬上,爬上,直到你看到一个巨大的瀑布。"
+    "你沿着河岸逆着水流前进，不断上行攀爬，直到看见一座巨大的瀑布。"
 
 translate schinese_rewrite mossy_freshwater_loop_52d25bed:
 
-    "看来你已经到达了桑德锡尔克星座 讲出你的地图 并标出位置。"
+    "看来你已经抵达断丝瀑布，你拿出地图标记了这里。"
 
 translate schinese_rewrite mossy_freshwater_loop_e91ba75d_1:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite woodland_outpost_loop_b9952a9e:
 
-    "当你在探索前哨时,一个巨型棕色生物的阴影会朝你身旁飞去。你立刻被推倒在地上。"
+    "你探索前哨时，一只巨大的棕色生物的身影朝你猛扑过来。你瞬间被撞倒在地。"
 
 translate schinese_rewrite woodland_outpost_loop_e4ba1378:
 
-    "你可以感觉到棕色身材的盔甲 与你的身体相撞, 你挣扎了一段时间,然后离开生物。"
+    "你能感觉到棕色身影的铠甲撞在身上，挣扎了一会儿才从那生物身下脱身。"
 
 translate schinese_rewrite woodland_outpost_loop_716e94fa:
 
-    "当你试着站起来 清楚地看清他的身材时 你发现他是个虫熊 他拿着他的大毛毛 对你咆哮不已。"
+    "你试着站起来，看清那个身影后，才发现那是一只熊地精。它手持钉锤，正朝你愤怒地咆哮。"
 
 translate schinese_rewrite woodland_outpost_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite woodland_outpost_loop_e91ba75d_1:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite woodland_outpost_loop_48fb9183:
 
-    "当你环视林地周围时, 你会注意到在你的视线周围 有一种不寻常的阴影。"
+    "你环顾林地时，注意到视野边缘有一道不寻常的影子。"
 
 translate schinese_rewrite woodland_outpost_loop_a6e00f15:
 
-    "你转过身去,看到它的形体, 凝聚你的视野。你注意到它的鹿角, 和它面具背后的眼神。"
+    "你转向那个身影，它庞大的身躯遮住了你的视线。你注意到它的鹿角，以及面具后的双眼。"
 
 translate schinese_rewrite woodland_outpost_loop_8e39c3eb:
 
-    "眼神... 有点扭曲的熟悉 你感觉自己以前也经历过这种情况。"
+    "眼前的景象……以某种扭曲的方式让你感到熟悉，仿佛你以前经历过同样的情形。"
 
 translate schinese_rewrite woodland_outpost_loop_dd733f9a:
 
-    "夜里被一个神秘人物追逐 被一个神秘人物追赶。"
+    "夜里被困在森林中，还被一个神秘身影追赶。"
 
 translate schinese_rewrite woodland_outpost_loop_b21316a8:
 
-    "身高接近..."
+    "那个身影靠近了……你感到肌肉紧绷起来，随时都准备逃跑……"
 
 translate schinese_rewrite woodland_outpost_loop_fc645303:
 
@@ -747,27 +747,27 @@ translate schinese_rewrite woodland_outpost_loop_fc645303:
 
 translate schinese_rewrite woodland_outpost_loop_2e6480a3:
 
-    my "谁,你是谁?"
+    my "你是谁？"
 
 translate schinese_rewrite woodland_outpost_loop_2b40a022:
 
-    e "啊？"
+    e "嗯？"
 
 translate schinese_rewrite woodland_outpost_loop_32516365:
 
-    "而不是你记忆中无法理解的语言, 你听到一个年轻的声音 从数字中冒出来。"
+    "你记忆中那些无法理解的语言没有再次响起，取而代之的是从那个身影处传来的年轻声音。"
 
 translate schinese_rewrite woodland_outpost_loop_b95cc4d6:
 
-    "这鹿,颜色亮亮,手握着杖。"
+    "这只鹿身上色彩鲜亮，手里还拿着一根权杖。"
 
 translate schinese_rewrite woodland_outpost_loop_54935489:
 
-    e "嗯... 我是[e]。"
+    e "呃……我是 [e]。"
 
 translate schinese_rewrite woodland_outpost_loop_317229cd:
 
-    my "你从哪儿来... 和... 你为什么在这里..."
+    my "你来自哪里……而且……为什么会在半夜出现在这里……"
 
 translate schinese_rewrite woodland_outpost_loop_9119c4e7:
 
@@ -775,7 +775,7 @@ translate schinese_rewrite woodland_outpost_loop_9119c4e7:
 
 translate schinese_rewrite woodland_outpost_loop_e628981d:
 
-    e "你... 让我想起某人。"
+    e "你……让我想起了一个人。"
 
 translate schinese_rewrite woodland_outpost_loop_6723c2e1:
 
@@ -783,11 +783,11 @@ translate schinese_rewrite woodland_outpost_loop_6723c2e1:
 
 translate schinese_rewrite woodland_outpost_loop_9c5abfe1:
 
-    e "那个把我送到这里的恶魔。"
+    e "把我送到这里来的恶魔。"
 
 translate schinese_rewrite woodland_outpost_loop_4b83c24d:
 
-    my "所以,你就是那个快递员。"
+    my "所以，你就是那个信使。"
 
 translate schinese_rewrite woodland_outpost_loop_d7bf05f9:
 
@@ -799,63 +799,63 @@ translate schinese_rewrite woodland_outpost_loop_a4000d3b:
 
 translate schinese_rewrite woodland_outpost_loop_2dd895ab:
 
-    my "我猜你问过你的好友,奇米。"
+    my "我猜你之前打听过你那位朋友奇姆的事。"
 
 translate schinese_rewrite woodland_outpost_loop_d38f2198:
 
-    e "Y -yes..."
+    e "是、是的……？"
 
 translate schinese_rewrite woodland_outpost_loop_bfa6bbab:
 
-    my "游戏对话是 酋长现在在哪里?"
+    my "首领现在在哪里……？"
 
 translate schinese_rewrite woodland_outpost_loop_1e600dce:
 
-    e "W -什么头目?"
+    e "什、什么首领？"
 
 translate schinese_rewrite woodland_outpost_loop_2fe34dda:
 
-    my "你以前见过他 他以前见过你。"
+    my "弗坎……你以前见过他，他也见过你。"
 
 translate schinese_rewrite woodland_outpost_loop_03d7ead2:
 
-    my "他在哪里?"
+    my "他在哪里……"
 
 translate schinese_rewrite woodland_outpost_loop_9c6176b1:
 
-    e "嗯,我不知道。"
+    e "呃，我不知道。"
 
 translate schinese_rewrite woodland_outpost_loop_13cf55be:
 
-    my "听着,你知道什么信息,你就会洒出豆子 鲁斯特福人把他带走了吗?"
+    my "听着，你知道的任何消息都得一五一十地说出来。是乐斯民菲尔德的人把他带走了吗？"
 
 translate schinese_rewrite woodland_outpost_loop_5819885f:
 
-    e "不,我敢肯定,没有人敢绑架你的头。"
+    e "不，我敢肯定没人敢绑架你们的首领。"
 
 translate schinese_rewrite woodland_outpost_loop_f7cd9910:
 
-    e "但是,我想到一件事。"
+    e "但是……我倒是想起一件事。"
 
 translate schinese_rewrite woodland_outpost_loop_4afcdf9c:
 
-    my "啊？"
+    my "嗯？"
 
 translate schinese_rewrite woodland_outpost_loop_7864d137:
 
-    e "我确实遇到了一个歌舞女神... 这么大的。"
+    e "我确实遇到过一个魔像……有那么大。"
 
 translate schinese_rewrite woodland_outpost_loop_2847a96a:
 
-    my "Gellem?"
+    my "魔像？"
 
 translate schinese_rewrite woodland_outpost_loop_70890ddc:
 
-    e "那儿满是苔。"
+    e "它浑身长满苔藓，就在那边。"
 
 translate schinese_rewrite woodland_outpost_loop_db425602:
 
-    "你指向河边。"
+    "你指向河流。"
 
 translate schinese_rewrite woodland_outpost_loop_fc645303_1:
 
@@ -863,7 +863,7 @@ translate schinese_rewrite woodland_outpost_loop_fc645303_1:
 
 translate schinese_rewrite woodland_outpost_loop_b328ad41:
 
-    my "我想我知道他在哪里..."
+    my "我想我知道他在哪里了……"
 
 translate schinese_rewrite woodland_outpost_loop_b62414e7:
 
@@ -871,27 +871,27 @@ translate schinese_rewrite woodland_outpost_loop_b62414e7:
 
 translate schinese_rewrite woodland_outpost_loop_2b40a022_1:
 
-    e "啊？"
+    e "嗯？"
 
 translate schinese_rewrite woodland_outpost_loop_6a2ac76e:
 
-    my "来吧,我们该走了..."
+    my "来吧，我们该走了……"
 
 translate schinese_rewrite woodland_outpost_loop_ce0a52eb:
 
-    e "我?"
+    e "我？"
 
 translate schinese_rewrite woodland_outpost_loop_83f30ffd:
 
-    my "我需要一只手。"
+    my "我需要帮手。"
 
 translate schinese_rewrite woodland_outpost_loop_dc806ac7:
 
-    e "真的?我甚至都不认识你。"
+    e "真的？我甚至都不认识你。"
 
 translate schinese_rewrite woodland_outpost_loop_02a3da0f:
 
-    my "我知道你,你... 你要跟我走,快递。"
+    my "我认识你。你……无论如何都得跟我走，信使。"
 
 translate schinese_rewrite woodland_outpost_loop_72a33094:
 
@@ -899,256 +899,255 @@ translate schinese_rewrite woodland_outpost_loop_72a33094:
 
 translate schinese_rewrite woodland_outpost_loop_937a8a1a:
 
-    "你和神秘人物等待太阳升起。"
+    "你和那个神秘身影等到太阳升起后才继续前进。"
 
 translate schinese_rewrite woodland_outpost_loop_e91ba75d_2:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite woodland_outpost_loop_b629b50c:
 
-    "在沿着森林走一阵子之后 你决定深入森林深处。"
+    "沿着森林走了一会儿后，你决定深入森林。"
 
 translate schinese_rewrite woodland_outpost_loop_b40e55d3:
 
-    "你发现这棵树似乎比以前更稠密 几乎覆盖了上面的天空。"
+    "你发现这里的树木似乎比之前更加茂密，几乎遮住了头顶的天空。"
 
 translate schinese_rewrite woodland_outpost_loop_e91ba75d_3:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite woodland_outpost_loop_0b22f34c:
 
-    "在前哨附近,你记得佛坎的灌木丛 捡起某种植物,是菊花。"
+    "在前哨附近，你想起弗坎提到的那片灌木，采到了一株植物，原来是菊花。"
 
 translate schinese_rewrite woodland_outpost_loop_95390042:
 
-    "你把花放进包里 你现在有了[item_number] 菊花。"
+    "你把花放进背包，现在有 [item_number] 朵菊花。"
 
 translate schinese_rewrite woodland_outpost_loop_813404ca:
 
-    "你把花放进包里 你现在有[item_number]菊花了。"
+    "你把花放进背包，现在有 [item_number] 朵菊花。"
 
 translate schinese_rewrite woodland_outpost_loop_e91ba75d_4:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite damp_cave_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite damp_cave_loop_e91ba75d_1:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite damp_cave_loop_e91ba75d_2:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite damp_cave_loop_e91ba75d_3:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite damp_cave_loop_e91ba75d_4:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite alchemists_cabin_loop_edc03792:
 
-    "在小木屋附近,你游荡,从花园里捡到植物, 那是一只大麻。"
+    "在小屋周围，你四处闲逛，从花园里采到了一株植物，原来是大麻。"
 
 translate schinese_rewrite alchemists_cabin_loop_c27b0ffa:
 
-    "你把大麻放进包里 你现在有[item_number]大麻了。"
+    "你把大麻放进背包，现在有 [item_number] 株大麻。"
 
 translate schinese_rewrite alchemists_cabin_loop_51ad78bd:
 
-    "你把大麻放进包里 你现在有[item_number]大麻了。"
+    "你把大麻放进背包，现在有 [item_number] 株大麻。"
 
 translate schinese_rewrite alchemists_cabin_loop_13893b58:
 
-    "在小木屋附近,你游荡,从花园里捡到某种植物, 那是一棵格蕾丝的草。"
+    "在小屋周围，你四处闲逛，从花园里采到了一株植物，原来是恩典草。"
 
 translate schinese_rewrite alchemists_cabin_loop_06c240e9:
 
-    "你把草药放进包里 你现在有[item_number]药草了。"
+    "你把恩典草放进背包，现在有 [item_number] 株恩典草。"
 
 translate schinese_rewrite alchemists_cabin_loop_06c240e9_1:
 
-    "你把草药放进包里 你现在有[item_number]药草了。"
+    "你把恩典草放进背包，现在有 [item_number] 株恩典草。"
 
 translate schinese_rewrite alchemists_cabin_loop_e91ba75d:
 
-    "你在附近找了一段时间 但附近似乎没什么值得注意的。"
+    "你在周围搜寻了一会儿，但附近似乎没有什么值得注意的东西。"
 
 translate schinese_rewrite alchemists_cabin_loop_07d928ef:
 
-    "在小屋周围,你游荡, 并捡起一个特定的植物, 这是一个迷迭香。"
+    "在小屋周围，你四处闲逛，采到了一株植物，原来是迷迭香。"
 
 translate schinese_rewrite alchemists_cabin_loop_aef11256:
 
-    "你把迷迭香放进包里 你现在有[item_number]迷迭香了。"
+    "你把迷迭香放进背包，现在有 [item_number] 株迷迭香。"
 
 translate schinese_rewrite alchemists_cabin_loop_5622ab4d:
 
-    "你把迷迭香放进你的包里 你现在有[item_number]迷迭香了。"
+    "你把迷迭香放进背包，现在有 [item_number] 株迷迭香。"
 
 translate schinese_rewrite alchemists_cabin_loop_2fba35cf:
 
-    "在小木屋周围,你游荡,发现地上有小撞撞,你把它挖出来,它就是一片姜汁。"
+    "在小屋周围，你四处闲逛，注意到地上有个小土包，挖开后……原来是一块生姜。"
 
 translate schinese_rewrite alchemists_cabin_loop_65e95ca8:
 
-    "你把姜放进你的包里 你现在有[item_number]姜了。"
+    "你把生姜放进背包，现在有 [item_number] 块生姜。"
 
 translate schinese_rewrite alchemists_cabin_loop_c45c6227:
 
-    "你把姜放进你的包里 你现在有[item_number]姜了。"
+    "你把生姜放进背包，现在有 [item_number] 块生姜。"
 
 translate schinese_rewrite scene_slime_sex_7652cf4c:
 
-    "你的意识在继续,这只粘液怎么能以如此屈辱的方式打败你?你抓住草地,祈祷黏液会离开你。"
+    "你的意识还在延续。区区一只史莱姆怎么会用如此令人羞耻的方式击败你？你抓紧草地，祈求史莱姆放过你。"
 
 translate schinese_rewrite scene_slime_sex_a1d58699:
 
-    "但是它没有。"
+    "但它没有。"
 
 translate schinese_rewrite scene_slime_sex_1b9337db:
 
-    "相反,粘液会向你倾斜。你可以感觉到它的存在每秒都越来越近, 直到它接触你的毛皮。"
+    "相反，史莱姆扭动着朝你爬来。你能感觉到它的存在每一秒都在靠近，直到它接触到你的毛发。"
 
 translate schinese_rewrite scene_slime_sex_162528bb:
 
-    "你感到手臂有冷滑的痕迹 这条路留下一身黏糊糊的残渣。"
+    "你感到有什么冰冷的东西滑过手臂，经过之处留下一层黏滑的残液。"
 
 translate schinese_rewrite scene_slime_sex_da2b53d2:
 
-    "你只能看着它围绕你的手臂, 你的身体抽搐在粘液的触碰下稍稍地。"
+    "你只能眼睁睁看着它缠上双臂，身体在史莱姆的触碰下微微抽搐。"
 
 translate schinese_rewrite scene_slime_sex_0d1ebb74:
 
-    "粘液继续攻击你无助的身体 其附着将你的手臂紧紧绑住 而其余的则穿过你的身体 让你的手臂行动不力。"
+    "史莱姆继续侵袭你毫无反抗之力的身体，它的触肢越缠越紧，身体其他部分则在你身上游走，让你的双臂几乎无法动弹。"
 
 translate schinese_rewrite scene_slime_sex_db3334a7:
 
-    "你无法对抗迫使你下沉的粘液, 你也无法抵抗在它控制下 挣扎的冲动, 你安静地哭泣,祈祷它会后退第二秒。"
+    "你什么都做不了，只能任由史莱姆把你压倒，也无法抵抗在它控制下扭动挣扎的冲动。你轻声呜咽，祈祷它下一秒就会退开。"
 
 translate schinese_rewrite scene_slime_sex_96ff7f13:
 
-    "你试图把粘粘物质从你身上推开,但是它只会变得更坚固,越是挣扎,越是轻易地将它提前化,它就会很快从你的胸口滑到下腹部。"
+    "你试着把黏稠的物质从身上推开，可它反而变得更加紧实。你越挣扎，就越方便它继续前进；它很快便从你裸露的胸膛滑向下腹。"
 
 translate schinese_rewrite scene_slime_sex_398cf691:
 
-    "不知何故,粘液已经到了你的腰巾, 你已经可以感觉到 冷感 漂浮的弥撒 通过薄布,。"
+    "史莱姆毫不费力地爬到了你的缠腰布，你已经能透过薄薄的布料感到那团滴落的黏液的冰冷触感，你的阴茎随之抽动。"
 
 translate schinese_rewrite scene_slime_sex_f791e414:
 
-    e "W -什么..."
+    e "你、你……在做什么……"
 
 translate schinese_rewrite scene_slime_sex_f6a57a38:
 
-    "[e] 感觉越来越敏感,因为你的私人部分被单纯的粘液攻击。 你挥动手臂,希望与它战斗,但已经紧紧地关在原处。"
+    "[e]越来越敏感，因为那只史莱姆正肆意侵犯你的私处。你挥动手臂，试图与它抗争，但双臂早已被牢牢固定住。"
 
 translate schinese_rewrite scene_slime_sex_1d6f585d:
 
-    "你试图滑向后退,但身体拒绝服从你的命令。相反,你被迫忍受入侵,因为粘液沿着你的阴茎的封面爬来爬去。"
+    "你试图向后挪动，可身体拒绝听从你的指令。相反，你只能忍受这场侵入，看着史莱姆沿着阴茎外侧向上爬。"
 
 translate schinese_rewrite scene_slime_sex_23c9fec3:
 
-    e "A-ahhhhh...."
+    e "啊、啊啊啊……"
 
 translate schinese_rewrite scene_slime_sex_3bdca4bc:
 
-    "一秒钟,你想象它会继续 向你的腿, 但一旦粘液 滑倒自己 在你的腰巾下, 你意识到它在做什么。"
+    "有那么一瞬间，你以为它会继续爬向双腿；但史莱姆一钻进你的缠腰布下，你就明白了它在做什么。"
 
 translate schinese_rewrite scene_slime_sex_2165b1c9:
 
-    "你从来没有想过是什么感觉, 有某人, 或什么直接触摸你的生殖器 像这样,粘液是很明显的活着, 你可以感觉到它脉搏 在你的老二上, 准备迎接下一次攻击。"
+    "你从未想过让某人，或某种东西，就那样直接触碰你的生殖器会是什么感觉。史莱姆显然是活的，你能感到它在你的阴茎上搏动，准备发动下一次袭击。"
 
 translate schinese_rewrite scene_slime_sex_17e24080:
 
-    "突然,粘液吞没了你的整个公鸡,没有留下任何空间。随着公鸡周围的压力增加,你大声呻吟,担心它为你储存的东西。"
+    "突然，史莱姆包住了你的整根阴茎，周围不留一丝空隙。阴茎周围的压力不断增加，你大声呻吟起来，害怕它接下来会对你做什么。"
 
 translate schinese_rewrite scene_slime_sex_df607395:
 
-    e "哈... 不..."
+    e "哈、啊啊啊……不……从我身上滚开！"
 
 translate schinese_rewrite scene_slime_sex_e2af583b:
 
-    "你唯一能做的就是看着,你只是一个旁观者 旁观你的身体正在发生的一切。不管你有多紧张, 你都不能阻止它去它想去的地方。"
+    "你唯一能做的就是看着这一切，你不过是自己身体遭遇的一切的旁观者。无论你多么用力，都无法阻止它想去哪里就去哪里。"
 
 translate schinese_rewrite scene_slime_sex_52201cb7:
 
-    "你摇头,别人会怎么想?"
+    "你摇了摇头。要是别人看见你这样躺在草地上，被区区一只史莱姆控制，他们会怎么想？"
 
 translate schinese_rewrite scene_slime_sex_c87ffdc0:
 
-    "感觉在困扰着你 让你的大脑 发出所有错误的信号 让你可能享受到这个。"
+    "这种感觉令人心神不宁，你的大脑不断发出错误信号，仿佛你竟然在享受这一切。"
 
 translate schinese_rewrite scene_slime_sex_50b4ace9:
 
-    e "Noo。"
+    e "不要……"
 
 translate schinese_rewrite scene_slime_sex_2454043a:
 
-    "你试图抗拒性冲动的感觉 但你脑中的本能 让你放松 拥抱感觉。"
+    "你试图抵抗逐渐产生性兴奋的感觉，可脑海中的本能却告诉你放松下来，拥抱这份感觉。"
 
 translate schinese_rewrite scene_slime_sex_b7a2ed5a:
 
-    "粘液开始以正常的速度上下移动。你的身体紧张,你的鸡巴越来越难,因为每个脉搏都穿透你的大脑。"
+    "史莱姆开始有规律地上下移动。你的身体绷紧了，随着每一次脉动在脑海中炸开，你的阴茎变得越来越硬。"
 
 translate schinese_rewrite scene_slime_sex_c6d1fb78:
 
-    "黏液让你感到颤抖,你的鸡巴在软橡胶纹理的触摸下在抽动。你感觉到黏液正在用你的身体进行实验,扭动和反面地对待你的成员。"
+    "史莱姆发出的软绵绵的声音让你战栗，你的阴茎在柔软、富有弹性的触感下不断跳动。你能感觉到史莱姆在试探你的身体，围绕着你的阴茎扭转。"
 
 translate schinese_rewrite scene_slime_sex_f4c22d45:
 
-    "一直以来,它一直有不同的运动 直到性想法让你神志不清。"
+    "它继续变换动作了一阵，直到淫乱的念头压倒你的意识。你脑中只剩下那黏糊糊的生物在你阴茎上的感觉。这感觉……异常美妙。"
 
 translate schinese_rewrite scene_slime_sex_38ea0c8e:
 
-    e "Ahhhh- A-hhhh."
+    e "啊啊啊——啊、啊啊。"
 
 translate schinese_rewrite scene_slime_sex_85e20509:
 
-    "你紧紧地捏紧你的眼睛,希望避免看到等待你的最终尊严。 但压力继续有增无减,直到你阴茎上的黏液开始抽搐。"
+    "你紧紧闭上双眼，希望不去目睹等待着你的最后一重屈辱。但压力丝毫没有减弱，直到包裹着你阴茎的史莱姆开始抽搐。"
 
 translate schinese_rewrite scene_slime_sex_aa2c925a:
 
-    "每一阵血流,你都越来越接近高潮。你躺在那无助无助的身躯,你的身体在痛苦中颤抖。你觉得大声喊叫,你不应该享受这些,但你做到了。"
-
+    "每一次抽动都让你更接近高潮。你无助地躺在那里，身体因痛苦而颤抖。你几乎想放声哭喊，告诉自己不该如此享受，可你确实享受着。"
 translate schinese_rewrite scene_slime_sex_1223f9cc:
 
-    e "我想... 不,我不能,别这样。"
+    e "我、我觉得……我……不，我不行……停、停下……"
 
 translate schinese_rewrite scene_slime_sex_0644dfe7:
 
-    "你知道你没有理性思考,但你忍不住要屈服 在生物的掌握下,看着它弹到你的老二上。你唯一能感觉到的就是压力的上升,等待爆炸。"
+    "你知道自己已经无法理智思考，却还是只能屈服于这生物的掌控，看着它在你的阴茎上跳动。你唯一能感受到的，就是不断积聚、等待爆发的压力。"
 
 translate schinese_rewrite scene_slime_sex_d911cff9:
 
-    e "哈!"
+    e "哈——啊啊啊啊！！！"
 
 translate schinese_rewrite scene_slime_sex_15896e16:
 
-    "你再也忍不住了,你的脑海在快乐和痛苦的打击下被关闭。"
+    "你再也无法忍耐，意识在快感与痛苦的侵袭下停止运转。阴茎最后抽动了一下，随后你将一股又一股的精液射得满身都是。"
 
 translate schinese_rewrite scene_slime_sex_c6734a03:
 
-    "你可以感觉到自己的精液流到哪里, 在一瞬间被吞噬的欲望释放之后, 就会感到自己的精液流到哪里, 你甚至可以感觉到舌头上落着一些东西, 你的大脑已经无法正常运转了。"
+    "你能感觉到自己的精液四处流淌，积蓄已久的欲望一口气倾泻而出，甚至有一些落到了舌头上，你的大脑再也无法正常运作。"
 
 translate schinese_rewrite scene_slime_sex_b768f5e4:
 
-    "你的阴茎僵硬,粘液似乎对你的表现很满意, 但是它没有移动, 质量继续封住你的成员, 即使你已经来了。"
+    "你的阴茎依旧坚硬。史莱姆似乎对你的表现很满意，但它没有离开，反而继续包裹着你的性器，即使你已经射精，它也没有松开。"
 
 translate schinese_rewrite scene_slime_sex_96c19334:
 
-    "你喘着沉重的气,你无法想象看到自己被抬到膝盖上,被迫像这样的抽筋。你的胸部、胳膊和大腿都被你的腿塞满了。有些甚至会冲到黏液上。"
+    "你大口喘息，无法想象自己竟会这样被逼得跪倒并射精。你的胸口、双臂和大腿上全都沾满了自己的精液，甚至还有一些滴在史莱姆身上。"
 
 translate schinese_rewrite scene_slime_sex_8016cc63:
 
-    "不久之后,你就能感觉到粘液吸收了足够的精液样本,慢慢退缩,释放了对手臂的握力。"
+    "过了一小会儿，你感到史莱姆已经吸收了足够的精液样本。它缓缓退去，同时松开了缠在你手臂上的触肢。"
 
 translate schinese_rewrite scene_slime_sex_d4f4d1f3:
 
-    "在你看到它离开之前, 你已经用尽了所有精力 在下流的行为, 你再次倒在草地上,。"
+    "在你看见它离开之前，你就已经因这场邪恶的行为耗尽了所有力气，再次倒在草地上，这一次，连意识也渐渐消失了。"

@@ -97,7 +97,7 @@ translate schinese_rewrite strings:
     new "清偿债务"
 
     old "Tending New Wounds"
-    new "处理新伤"
+    new "照料新伤"
 
     old "Adventure Discovery"
     new "冒险发现"

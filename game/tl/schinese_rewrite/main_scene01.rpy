@@ -3,487 +3,487 @@
 
 translate schinese_rewrite scene_masturbation_6a87edce:
 
-    "毫不犹豫地想 你的手在身体上徘徊。"
+    "你毫不犹豫地开始抚摸自己的身体。"
 
 translate schinese_rewrite scene_masturbation_c469aa8f:
 
-    "每一次触摸都感觉过度敏感 自己手的光滑抚摸 让你感觉很痒。"
+    "每一次触碰都敏感得过分，光滑的手掌抚过皮肤，带来一阵酥痒。"
 
 translate schinese_rewrite scene_masturbation_d16f97a2:
 
-    e "Oh-h..."
+    e "噢……"
 
 translate schinese_rewrite scene_masturbation_f7661362:
 
-    "你右手从脖子跑到你的性感胸膛 慢慢地抚摸手指对着它 轻轻地上下跳动到你最轻的触摸。"
+    "你的右手从脖颈滑到性感的胸膛，手指缓缓摩挲；哪怕最轻的触碰，也让胸肌柔软地上下起伏。"
 
 translate schinese_rewrite scene_masturbation_e9e51a04:
 
-    "当你的手指碰到乳头时 就会发出轻的气喘。"
+    "手指触到乳头时，你轻轻倒吸一口气。"
 
 translate schinese_rewrite scene_masturbation_c27771d9:
 
-    "你全身的紧绷 就像皮肤受到电击一样。"
+    "你的全身骤然绷紧，仿佛皮肤遭到电击。"
 
 translate schinese_rewrite scene_masturbation_10bc33b9:
 
-    "你闭上眼睛 轻轻地露出自己的乳头 然后再放出另一根气喘。"
+    "你闭上眼睛，轻轻拨弄自己的乳头，又发出一声喘息。"
 
 translate schinese_rewrite scene_masturbation_13242a35:
 
-    "不断取笑自己的乳头 让你感到兴奋。"
+    "不停挑逗自己的乳头，让你兴奋得发颤。"
 
 translate schinese_rewrite scene_masturbation_cb8dca52:
 
-    "它是如此的敏感 你的胸部肌肉抽搐 与触摸。"
+    "它敏感得过分，每一次触摸都让胸肌痉挛。"
 
 translate schinese_rewrite scene_masturbation_c9f36473:
 
-    "最终,你用你大部分的力气 压住它。"
+    "最后，你用尽力气捏住它。"
 
 translate schinese_rewrite scene_masturbation_a4abf8b7:
 
-    e "啊哈!"
+    e "哼啊——！"
 
 translate schinese_rewrite scene_masturbation_96219358:
 
-    "你大声地呻吟 店里其他人会听到你的声音。"
+    "你呻吟得太大声，店里其他人或许都听得见。"
 
 translate schinese_rewrite scene_masturbation_ae12a6ab:
 
-    "但你不再在乎了 你的另一只手开始在下面游荡 朝你的胃飞去。"
+    "但你已经顾不上了。另一只手开始向下游移，擦过腹部。"
 
 translate schinese_rewrite scene_masturbation_711c6759:
 
-    "它毫不费力地到达了腰围。"
+    "它毫不费力地摸到了遮裆布。"
 
 translate schinese_rewrite scene_masturbation_43f8c0c0:
 
-    "你的手环绕这个区域 摸着布 摸着下面的东西"
+    "你的手在那片区域摸索，隔着布料摩挲着下面的东西。"
 
 translate schinese_rewrite scene_masturbation_941661bb:
 
-    "很快,你发现一个硬起来的腰包下面, 它每秒都在增长。"
+    "很快，你发现遮裆布下已经硬了起来，而且每一秒都在变大。"
 
 translate schinese_rewrite scene_masturbation_bd36a089:
 
-    "你再也不能抱住你的怒火 你的蛋蛋都满了。"
+    "你的欲望再也压抑不住，蛋蛋也涨得发胀。"
 
 translate schinese_rewrite scene_masturbation_9da4332e:
 
-    "粗织物制造了足够的摩擦 让你的鸡巴马上会漏掉。"
+    "你隔着遮裆布拨弄鸡巴，粗糙的布料带来足够的摩擦，立刻让它渗出前液。"
 
 translate schinese_rewrite scene_masturbation_8c6541b9:
 
-    "你的手掌在追踪你的老二的形状 当你用腰巾围着你的抽搐成员时 就会变得非常明显。"
+    "你的手掌沿着鸡巴的形状游走；用遮裆布裹住这根抽动的肉棒时，轮廓格外明显。"
 
 translate schinese_rewrite scene_masturbation_cd07466c:
 
-    "房间变得这么热, 你汗流得流得流满地。"
+    "房间越来越闷热，你大汗淋漓。"
 
 translate schinese_rewrite scene_masturbation_449a5fd3:
 
-    "你的老二在期待中颤抖 你越来越急于释放出这些欲望和饥饿。"
+    "你的鸡巴在期待中抽动，越来越急切地想释放积压的欲望与饥渴。"
 
 translate schinese_rewrite scene_masturbation_d23a3db7:
 
-    e "哈..."
+    e "哈……操……"
 
 translate schinese_rewrite scene_masturbation_43bc3b7a:
 
-    "你卸下你的腰带 床单上到处都是预购金。"
+    "你笨拙地脱下遮裆布，前液洒得床单上到处都是。"
 
 translate schinese_rewrite scene_masturbation_2299d41d:
 
-    "但你所看到的只是你的脉搏和僵硬的棍子 它在你胃部滑倒之前再猛击一次。"
+    "映入眼帘的只有那根搏动而坚硬的肉棒；它拍在腹部，随后又弹起。"
 
 translate schinese_rewrite scene_masturbation_142d4fba:
 
-    "当你的公鸡完全勃起的时候 你轻轻地抓住它。"
+    "鸡巴完全勃起后，你轻轻握住它。"
 
 translate schinese_rewrite scene_masturbation_1adb5708:
 
-    "很明显,你的手无法适应你的老二, 所以你放慢了速度, 上下调慢, 试图进入一个有节奏的步伐。"
+    "你的手明显无法完全包住它，于是你缓慢地上下撸动，试着找到规律。"
 
 translate schinese_rewrite scene_masturbation_8473832e:
 
-    "一只手捏着乳头 另一只手抚摸着自己的成员 舔着嘴唇。"
+    "一只手捏着乳头，另一只手抚摸肉棒，你还微微舔了舔嘴唇。"
 
 translate schinese_rewrite scene_masturbation_5a6be1a9:
 
-    e "O-oh... P-please."
+    e "哦……求你。"
 
 translate schinese_rewrite scene_masturbation_31b4a1b6:
 
-    "你抚摸你的公鸡, 刮你的包皮。"
+    "你上下撸动鸡巴，指尖擦过包皮。"
 
 translate schinese_rewrite scene_masturbation_2efe62ff:
 
-    "你大脑的欲望和欲望 正在逐渐形成 无法回头的状态。"
+    "脑中的欲望越积越多，逐渐逼近无法回头的地步。"
 
 translate schinese_rewrite scene_masturbation_a16c9247:
 
-    "你闭上眼睛 想象别人触摸你 就在这 有人握住你的手 把自己推到你湿润的入口。"
+    "你闭上眼睛，想象有人此刻抚摸着你；他握住你的双手，将身体抵向你湿润的入口。"
 
 translate schinese_rewrite scene_masturbation_bcdef41c:
 
-    "让自己离开一会儿 让人抓住你那淫秽的身体 感觉真好。"
+    "放任自己沉溺片刻，把这具被欲望支配的身体交给别人掌控，感觉一定好极了。"
 
 translate schinese_rewrite scene_masturbation_185eb191:
 
-    "你呻吟和呻吟, 想到你爱的人, 你想象他的鸡巴抽动, 耐心地等待着你。"
+    "你一边呻吟、闷哼，一边想着心爱的人；你想象着他的鸡巴正一下一下地搏动，耐心等着你。"
 
 translate schinese_rewrite scene_masturbation_e85360b1:
 
-    e "Hnnnn-ngh..."
+    e "嗯啊……"
 
 translate schinese_rewrite scene_masturbation_459dd9dc:
 
-    "当你意识到房间变得热得多时 你的步伐会越来越快。"
+    "随着房间愈发燥热，你的动作也越来越快。"
 
 translate schinese_rewrite scene_masturbation_e39aff8a:
 
-    "你脑子里现在只有不饱的口渴 你越来越重了。"
+    "此刻，你脑中只剩下永不满足的渴望，呼吸也越来越粗重。"
 
 translate schinese_rewrite scene_masturbation_9bbc8d33:
 
-    "超载感官越来越难以忍受了 你几乎昏倒了 但你接近高潮了。"
+    "过度的刺激几乎让你失去意识，而你也已经危险地逼近高潮。"
 
 translate schinese_rewrite scene_masturbation_a1441c4e:
 
-    "你的手仍然在上下跳动 在你的老二上, 越来越快和更快。"
+    "你的手仍在鸡巴上不停地上下撸动，速度越来越快。"
 
 translate schinese_rewrite scene_masturbation_1c456ef6:
 
-    "你的腿在抖动 与中风的步伐, 你紧紧地抓住床单。"
+    "你的双腿随着抽动的节奏颤抖，把床单攥得更紧。"
 
 translate schinese_rewrite scene_masturbation_ca8ac7c4:
 
-    "在你的成员用绳子和绳子发作之前 一声大叫的喘出来。"
+    "一声响亮的喘息从你口中迸出，紧接着肉棒喷出一股又一股精液。"
 
 translate schinese_rewrite scene_masturbation_8b0a32b4:
 
-    e "AAAHHH-Hgh!"
+    e "啊啊啊——！"
 
 translate schinese_rewrite scene_masturbation_faee904c:
 
-    "你大喊大叫,就像全身抽搐 兴奋剂的数量。"
+    "你放声尖叫，身体也因强烈的快感而阵阵抽搐。"
 
 translate schinese_rewrite scene_masturbation_454c5956:
 
-    "有些精液落在你脸上 有些滴在你胸口上 全都像乱糟糟的一样在你身体上乱飞。"
+    "精液有的落在脸上，有的顺着胸口滴下，四处飞溅，把你的身体弄得一团糟。"
 
 translate schinese_rewrite scene_masturbation_a091f9e2:
 
-    "你的老二还在脉搏中 边上最后几滴精液在滑动。"
+    "你的鸡巴仍在一阵阵搏动，残余的几滴精液也随之滴落到一旁。"
 
 translate schinese_rewrite scene_masturbation_27a21ad9:
 
-    e "F -fuck..."
+    e "操……"
 
 translate schinese_rewrite scene_masturbation_ec9604f6:
 
-    "你的身体感觉就像被排干到核心 你倒在床上。"
+    "你感觉身体的力气被彻底抽空，整个人瘫倒在床上。"
 
 translate schinese_rewrite scene_masturbation_238a635b:
 
-    "如果能和别人分享这一快乐,那太好了,但你现在很满意了。"
+    "要是能和别人分享这份快乐就好了……不过，眼下你已经满足了。"
 
 translate schinese_rewrite scene_masturbation_9f56daa9:
 
-    "你甚至不费心清理一下自己, 毕竟这是你未来的一份工作。"
+    "你连清理身体都懒得做，反正这事可以留给未来的自己。"
 
 translate schinese_rewrite scene_masturbation_a0fb88e6:
 
-    "慢慢地,你的眼睛再次闭上,然后溜走,然后睡着。"
+    "你再次缓缓合上双眼，意识逐渐飘远，沉沉睡去。"
 
 translate schinese_rewrite scene_masturbation_a20cefa7:
 
-    "……"
+    "..."
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_a5ce36c4:
 
-    "你的胸口在塞巴斯'基尔特的面前 和他柔软的双腿 猛击。"
+    "看到塞巴斯的苏格兰短裙和柔软双腿，你的胸口怦怦直跳。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b4b112b5:
 
-    s "欢迎... 顾客,你在找什么?"
+    s "欢、欢迎……客人，您、您想找什么？"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_a30a0e48:
 
-    "塞巴斯正忙着和顾客谈话 让你完全控制着 探索他的身体。"
+    "塞巴斯正忙着和客人交谈，你可以随意探索他的身体。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_ec367c08:
 
-    "你从没想过有一天你会看到塞巴斯的老二 至少今天不会。"
+    "你从没想过有一天会看到塞巴斯的鸡巴，至少没想过会是今天。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3f253899:
 
-    "但另一方面,你知道你会为它做任何事。"
+    "但另一方面，你知道自己愿意为它做任何事。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_25f3b637:
 
-    "你轻轻地摸他的大腿..."
+    "你轻轻抚摸他的大腿……又粗又圆润。他的毛比你想象中还要蓬乱。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b3d7c66d:
 
-    "当你按住他的肌肉时, 它会硬起来,而塞巴斯却在和顾客说话。"
+    "你按上他的肌肉时，它绷紧了；塞巴斯则一边和客人说话，一边结结巴巴。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_0604645b:
 
-    "他似乎不介意你感觉他的腿很粗糙 所以你决定再往前走。"
+    "……他似乎并不介意你触摸他结实的大腿。于是你决定继续往上探。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_f8af25e5:
 
-    "你把手往上滑,他的大腿很柔软,你每次摸他都能感觉到他颤抖。"
+    "你的手继续向上游移。他的大腿内侧柔嫩得惊人。你的每次触碰都让他微微发颤。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b1e52adb:
 
-    s "你来对地方了 我们有一个科莱克..."
+    s "您来对地方了。我们有一整套……啊……武、武器……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_24420a3d:
 
-    "Customer" "你,你没事吧?"
+    "顾客" "你、你没事吧？"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3f1e5336:
 
-    s "是的,我很好。"
+    s "没、没事……我很好。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_2d7be9d0:
 
-    "塞巴斯在你到达他脚下时 大声叫喊。"
+    "你碰到短裙下的隆起时，塞巴斯竟然叫出了声。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_fe4c8d16:
 
-    "他如此努力地保持冷静 当你做你的事情, 所以你再次在它上, 只是他妈的与他。"
+    "你做着自己的事时，他拼命想维持镇定，于是你又轻轻戳了戳那里，故意逗弄他。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_03cdb146:
 
-    s "Hnnnngh..."
+    s "嗯啊……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_0fd975ae:
 
-    "顾客转过身看那头受苦的狮子。"
+    "客人转过头，看向那头坐立不安的狮子。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3c306248:
 
-    s "没什么 我只是..."
+    s "没、没什么。我只是在……吹口哨。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_56e8e3f0:
 
-    "狮子对你的触摸非常敏感 你为他的尴尬感到非常兴奋。"
+    "这头狮子对你的触碰敏感得出奇。看到他尴尬，你兴奋得不得了。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_c63049a6:
 
-    "快点,你抬起手,把他的脚拉下来。"
+    "你迅速伸手，拉下他的短裙。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_a20cefa7:
 
-    "……"
+    "..."
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_219d5d97:
 
-    "他的裙子很容易脱下来, 当它到达他的老二, 它滑动了一点点, 几乎打你的鼻子。"
+    "他的短裙很轻易就脱了下来；滑到鸡巴处时，那东西轻轻弹动，差点撞上你的鼻子。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_e065398c:
 
-    s3 "不要... 发出太多噪音。"
+    s3 "别……弄出太大声音。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_a1f2a4f0:
 
-    "塞巴斯低头看着你低声说话 他似乎很严肃。"
+    "塞巴斯低头对你耳语。他显然很在意不能暴露身份。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_a53472a7:
 
-    "你现在在盯着店主的暴露成员 半个藏在毛皮的杂草丛里。"
+    "你盯着店主裸露的肉棒，它半藏在凌乱的毛发丛中。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_99eb3e52:
 
-    "他的老二非常漂亮,你稍稍刷一刷, 使塞巴斯呻吟。"
+    "他的鸡巴美得惊人，你轻轻擦过它，惹得塞巴斯呻吟起来。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_7bbe4f51:
 
-    s "我要50块金子,这是..."
+    s "我出五十金币。这很标——哈、哈啊——啊啊啊……哈……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_efd70413:
 
-    "Customer" "塞巴斯先生,你没事吧?"
+    "顾客" "塞巴斯先生，您还好吗？如果您不方便，我下次再来。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_cd2eac6b:
 
-    s "不,我正要打喷嚏..."
+    s "不……哈啊……我、我刚才是要打喷嚏……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_082d65b2:
 
-    s "但是它没有出来。"
+    s "但、但没打出来。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_7182e131:
 
-    "Customer" "O-ok..."
+    "顾客" "好、好的……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_2b544da6:
 
-    "如果你不秘密查他的老二 你几乎笑得要死。"
+    "要不是你正偷偷摆弄他的鸡巴，你差点就笑出声了。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_f6b18674:
 
-    "塞巴斯似乎很紧张要设置一个有说服力的前线。"
+    "塞巴斯似乎很紧张，努力装出若无其事的样子。但这丝毫没妨碍你取悦他。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_f8df59d1:
 
-    "你继续摸他的重蛋蛋 柜台下面 杯子就感觉很满。"
+    "你继续在柜台下抚弄他沉甸甸的睾丸。仅仅将它托在掌中，就能感到里面满满当当。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_7845ca7d:
 
-    "几乎感觉你控制着他的身体 每次他决定说话 你就拉着他的老二 让他吱吱作响。"
+    "感觉你几乎掌控了他的身体；每当他想开口，你就拉一下他的鸡巴，逗得他发出细小的尖叫。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_e57662f4:
 
-    "但最终,他的成员已经完全勃起, 骨瘦如柴的人自己倒回去了。"
+    "但最终，他的肉棒完全勃起，包皮也自行向后退去。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_50a0aac5:
 
-    "他的老二在抽搐 很明显塞巴斯在指示你接受 所以你们很乐于服从。"
+    "他的鸡巴一阵抽动，显然是在示意你继续，于是你欣然照办。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_632d8517:
 
-    "你的爪子在摸他的老二,靠靠近一点就能感觉到温暖。"
+    "你的爪子握住他的鸡巴。只要靠近一些，你就能感受到它的温度。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_401bebf8:
 
-    "你想用你的嘴来承受它,但你的头很容易撞到桌子的顶部。所以你用你的手代替。"
+    "你很想把它含进嘴里，可你的头轻易就撞到了桌面，只好改用手。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_23caf500:
 
-    "更像是在室友工作的时候 握住他的肥狮鸡巴。"
+    "握住室友那根肥硕的狮人鸡巴，感觉像做梦一样；更别提还是在他工作的地方。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_fa12d92c:
 
-    "尽管如此,你还是开始把他的皮包皮拉到底部 暴露出他的光滑头。"
+    "不过，你还是开始把他的包皮拉到底，露出湿润的龟头。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_fee1d243:
 
-    "他的老二已经用预选药在打滚了 咬着你的腿。"
+    "他的鸡巴已经开始滴出前液，顺着流到你的腿上。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_6fb56928:
 
-    "吸气气味很强 你可以感觉到他阴茎的气味 渗透到你所有的感官。"
+    "那股麝香般的气味浓烈无比。你感觉他的鸡巴气息渗入了自己的每一种感官。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_da300666:
 
-    "让你想取悦他 令他感到被爱 最重要的是 兴奋。"
+    "这让你想取悦他，让他感到被爱，更重要的是，让他兴奋起来。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_9c0c1301:
 
-    "所以你就努力工作 将手掌包在他肿胀的会员身上 然后开始上下。"
+    "于是你握住他肿胀的肉棒，上下开始撸动。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3fc9de27:
 
-    "塞巴斯的下半身都颤抖了 他显然很虚弱 和顾客说话。"
+    "塞巴斯的整个下半身都在发抖。他一边和客人说话，一边被室友揉弄着鸡巴，明显坐立不安。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_6444c3fc:
 
-    "店主用他的臀部向你猛打, 想让你保持爱护他。"
+    "店主用力朝你顶了顶胯，示意你继续取悦他。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_60ea3c44:
 
-    "你抬头看着他扭曲的脸, 仍然英俊的像他一样, 但他的呼吸越来越短,越来越重。"
+    "你抬头看见他扭曲的脸；他依旧英俊，但呼吸越来越短促、沉重。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b0021ab9:
 
-    "他的老二每中风都不停地跳动 轻轻摸。"
+    "他的鸡巴随着每次撸动搏动，在你最轻微的触碰下颤动不已。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_7c522a3f:
 
-    "你的手从他的球底朝顶部 从他的球底朝顶部 将他赶到他最敏感的地方。"
+    "你的手从他睾丸底部一路向上，擦过他最敏感的地方。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_5f86eeb1:
 
-    "塞巴斯在默默地尖叫,他磨牙, 努力不大声呻吟。"
+    "塞巴斯在无声尖叫；他咬紧牙关，拼命不让呻吟漏出来。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b7f391ce:
 
-    "Customer" "先生,这是萨拉的匕首吗?"
+    "顾客" "先生，这把匕首卖吗——"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3deb95f9:
 
-    s "啊,啊,啊,啊,啊,啊,啊,啊,他妈的。"
+    s "啊啊……哈啊……嘶——嘶嘶……操、操……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_26c153b6:
 
-    "Customer" "先生..."
+    "顾客" "先、先生……？"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_5610ecfa:
 
-    s "他妈的,呃,嗯,嗯,嗯,嗯..."
+    s "操……呃嗯……这、这是……出、出售的……对……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b2bad737:
 
-    s "对不起!"
+    s "对、对不起！"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_43ec0658:
 
-    "尽管你尽了最大的努力来取悦他 塞巴斯却在桌子上摇摆不定 以保持他的尖叫需求。"
+    "尽管你竭尽全力取悦他，塞巴斯还是猛拍桌面，压住自己想要尖叫的冲动。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_bb9d19ed:
 
-    "你在他的老二上温柔的气息 让它发抖。"
+    "你温热的呼吸喷在他的鸡巴上，让它剧烈抽动。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_6120ade9:
 
-    "他无意识地把自己塞进你的手里 你可以感觉到它越来越近了。"
+    "他无意识地向你的手里挺动；你能感觉到他越来越接近极限。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_138df5f1:
 
-    "你把你的口罩放在他的老二下面 闻他的臭味。"
+    "你把口鼻凑到他的鸡巴下方，嗅着那股浓烈的气味。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_cd8f1def:
 
-    "等待他把他的货都放进你那淫荡的脸。"
+    "你的鼻尖轻轻顶着它，等着他把所有精液射到你淫荡的脸上。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_05d8253a:
 
-    "他能感觉到你的脸 与他坚强的成员对立 对你每一件事都发抖。"
+    "他能感觉到你的脸贴着他粗壮的肉棒，随着你的一举一动而剧烈颤抖。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_366442df:
 
-    "你的老二也变硬了 你对他的老二的气味非常兴奋。"
+    "你的鸡巴也硬了起来；他的气味让你无比兴奋。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_c4d0d871:
 
-    "他的预精又漏水了 淋湿到你的皮草上 高潮快到了,他急得要命。"
+    "他的前液又渗了出来，滴落在你的毛发上。高潮近在眼前，他不停扭动着身体。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_15ef1361:
 
-    s "A--ahh..."
+    s "啊——啊……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_e749b1c0:
 
-    s "F-fuck."
+    s "操。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_094a908a:
 
-    "Customer" "我想我下次再来。"
+    "顾客" "呃……我还是下次再来吧。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_99817a4f:
 
-    "你嘴里的棒子抽动 表示一股种子爆发了。"
+    "你嘴里的肉棒抽动了一下，示意一股精液已经涌出。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_1cd3c22a:
 
-    "你可以感觉到顾客离开的时候 塞巴斯喷发在你脸上。"
+    "塞巴斯射得满脸都是时，你感觉到客人已经离开了。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_83818b4e:
 
-    "像火山一样 厚厚白精液在桌子下喷发 不停地不停。"
+    "浓稠的白色精液像火山喷发般在桌下飞溅，久久不停。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_cfb9f1f6:
 
-    "赛 巴 斯 的 些 精 液、 在 你 的 舌 上、 俯 望 西 巴、 就 私 私 吞 下 來。"
+    "一些塞巴斯的精液落在你舌头上；你抬头望着他，纵情将其吞下。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_23ccdae6:
 
-    "店主在愉快之后筋疲力尽 他笑着看着你。"
+    "这场欢愉过后，店主筋疲力尽。他低头看着你，露出一丝微笑。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_29ea94b5:
 
@@ -491,79 +491,79 @@ translate schinese_rewrite Scene_Sebas_Under_Counter_29ea94b5:
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_1c88cffa:
 
-    "你对他笑笑 脸都湿透了。"
+    "你也对他笑了笑，脸上沾满了他的精液。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_63fa1503:
 
-    s3 "你这样看起来真的很可爱..."
+    s3 "你这样子真的很可爱……呵呵。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_8cb52a13:
 
-    "他的腿越来越弱 他的老二还在抽筋 卵子的滴水从蛋蛋里漏了出来。"
+    "他的双腿越来越无力，鸡巴仍在痉挛，滴滴精液顺着睾丸流下。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_8a681f1f:
 
-    "你像一个饥饿的农民一样舔他老二剩下的精液,直到他的老二恢复正常状态。"
+    "你像饥饿的农夫般舔掉他鸡巴上残留的精液，直到它恢复正常。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_c2e6c0b6:
 
-    "现在他已经消耗了全部的能量,商店里没有人,他倒在地上,倒在地上。"
+    "他现在已经耗尽了所有力气。店里没有其他人，于是他倒下，瘫在地上。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_47671c2f:
 
-    s3 "你喜欢吗?"
+    s3 "你喜欢这样？"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_6361c8c3:
 
-    e "是的..."
+    e "嗯……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_faeee4f5:
 
-    s3 "我想我失去了顾客..."
+    s3 "我想我把客人吓跑了……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_e42b4ed3:
 
-    s3 "但我想和你一起做,所以它的价值 苏oo值,呵呵。"
+    s3 "但我就是想和你一起做，所以再怎么折腾也值，呵呵。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_af0a8b63:
 
-    s3 "真是太神奇了,比如,我不知道该怎么形容。"
+    s3 "太棒了。嗯……我都不知道该怎么形容。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_bddef053:
 
-    e "你让我如此他妈的角质,塞巴。"
+    e "你把我弄得太他妈兴奋了，塞巴斯。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_2a3aa344:
 
-    s3 "我愿意吗?哈哈。"
+    s3 "是吗？哈哈。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_43497adc:
 
-    s3 "我们必须再做一次,Croomeie,但别这样 我不能让你在公众面前取笑我的鸡巴。"
+    s3 "我们还得再来一次，室友。不过别在这里——我可不想让你在大庭广众之下逗弄我的鸡巴。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_71434e13:
 
-    s3 "如果别人发现怎么办?"
+    s3 "要是被别人发现怎么办？这主意也太疯狂了。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_e3869323:
 
-    e "我建议我们下次上床睡觉?"
+    e "下次我们去床上，怎么样？"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_5c6c6d3b:
 
-    s3 "对,然后我也可以帮你。"
+    s3 "嗯，嗯。那样我也能好好帮你……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_b7623574:
 
-    s3 "Well... A-ahem."
+    s3 "嗯……咳咳。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3522c8bd:
 
-    e "D - 你想...？"
+    e "那、那你想……？"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_0789e84d:
 
-    s3 "我很快就有客人了 我得让奥勒下来 继续他的工作。"
+    s3 "我很快就有客人了 我得让奥利下来 继续他的工作。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_3388a208:
 
@@ -571,921 +571,921 @@ translate schinese_rewrite Scene_Sebas_Under_Counter_3388a208:
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_53472b19:
 
-    "和你失望的一样 你明白他毕竟是店主 也许下次..."
+    "虽然你很失望，但你明白他毕竟是店主。也许下次吧……"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_725d35f0:
 
-    "但是通过他的面部表情 你也许能感觉到 他对这个想法不太兴奋。"
+    "不过从他的表情来看，你似乎能感觉到他对这个提议没那么兴奋。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_d16ba721:
 
-    "你只能希望不是因为你吸鸡巴的技巧。"
+    "你只能希望不是因为你的口交技术太差。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_7de4fb46:
 
-    s3 "我现在得收拾了 你也该洗了!"
+    s3 "对……我得收拾了。你也该清理一下！"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_7d29b710:
 
-    e "好吧。。。。"
+    e "好……保重，塞巴斯。"
 
 translate schinese_rewrite Scene_Goat_Lose_3689a1fa:
 
-    "你... 被困在森林里,你的能量从战斗中耗尽。"
+    "你……被困在森林里，战斗耗尽了你的体力。"
 
 translate schinese_rewrite Scene_Goat_Lose_bb69ecde:
 
-    "猎人正在跟踪你 当你从他身边爬走 就像玩猎物一样。"
+    "山羊猎人跟在你身后，看着你爬着逃离，仿佛在戏弄自己的猎物。"
 
 translate schinese_rewrite Scene_Goat_Lose_27db5529:
 
-    "你抓住草地 继续拖着自己过..."
+    "你抓住一小片草地，继续拖着身体向前……"
 
 translate schinese_rewrite Scene_Goat_Lose_b60b37bd:
 
-    gt "像你这样无礼的人..."
+    gt "像你这样的无礼之徒……我们本有一套严格的教训规矩。"
 
 translate schinese_rewrite Scene_Goat_Lose_0edb86f7:
 
-    gt "村子里充满了傲慢,所以我们才要清洗它。"
+    gt "村子里充满了无礼之徒。正因如此，我们才不得不清洗那里。"
 
 translate schinese_rewrite Scene_Goat_Lose_11e2be78:
 
-    gt "只要我们的酋长允许我们..."
+    gt "要是我们的首领准许我们就好了……"
 
 translate schinese_rewrite Scene_Goat_Lose_91dfc767:
 
-    e "闭嘴..."
+    e "闭嘴……放我走。"
 
 translate schinese_rewrite Scene_Goat_Lose_69a043ba:
 
-    gt "来,你以为我会那么容易就放你走吗?"
+    gt "怎么，你以为我会这么轻易放你走？"
 
 translate schinese_rewrite Scene_Goat_Lose_1909df66:
 
-    "你可以看到山羊遮蔽你的阴影,他跪在你身后,用力拉你的腿。"
+    "山羊的影子笼罩着你。他跪到你身后，用力扯住你的腿。"
 
 translate schinese_rewrite Scene_Goat_Lose_0292c121:
 
     e "操……从我身上滚开。"
 translate schinese_rewrite Scene_Goat_Lose_78bf3372:
 
-    "他什么都不说,只爱抚你的身体 就像那是他的财产一样。"
+    "他不再说话，只把你的身体当成自己的所有物般抚摸。"
 
 translate schinese_rewrite Scene_Goat_Lose_794057c1:
 
-    e "滚开!"
+    e "滚开！"
 
 translate schinese_rewrite Scene_Goat_Lose_0723a08b:
 
-    "山羊继续动他的手,无视你的恳求,从肩到腰感觉。"
+    "山羊继续移动着手，完全无视你的哀求。从你的肩膀一路摸到腰间。"
 
 translate schinese_rewrite Scene_Goat_Lose_da0a386f:
 
-    "你对他触摸感到害怕 他一直用手 穿过你的管子 直到他碰到你的屁股。"
+    "你在他的触碰下颤抖；他的手不停抚过你的下身，直到摸到你的屁股。"
 
 translate schinese_rewrite Scene_Goat_Lose_45e275dd:
 
-    e "W -什么..."
+    e "你、你要干什么……"
 
 translate schinese_rewrite Scene_Goat_Lose_28c5c8d8:
 
-    gt "我以前没见过像你一样的面孔... 但这样肯定行..."
+    gt "我以前从没见过像你这样的长相……不过这个倒是很合适……"
 
 translate schinese_rewrite Scene_Goat_Lose_798b8159:
 
-    e "放开我,也许我会让你活..."
+    e "操，我会毫不留情地杀了你。放开我，说不定我还能让你活——"
 
 translate schinese_rewrite Scene_Goat_Lose_865bdedc:
 
-    gt "闭上你的嘴,傲慢,我现在控制着你了。"
+    gt "闭嘴，无礼之徒。现在你由我掌控。"
 
 translate schinese_rewrite Scene_Goat_Lose_e0bc7e8e:
 
-    "你太疲惫了,无法反击 所以你看着他发牢骚 把你挤得屁滚尿流。"
+    "你太疲惫了，根本无力反抗，只能看着他随意揉捏你的屁股，毫无顾忌。"
 
 translate schinese_rewrite Scene_Goat_Lose_5638889d:
 
-    "但是... 令人惊讶的是,他对你非常温柔,即使很强烈, 他的柔软的触摸让你发疯。"
+    "但……出乎意料的是，他对你非常温柔，哪怕动作仍带着强硬。他柔软的触碰让你快要发疯。"
 
 translate schinese_rewrite Scene_Goat_Lose_69e23c93:
 
-    "你可以感觉到他的温暖 喷到你的背上, 他的气息在你的脖子上痒痒。"
+    "你能感到他的体温从背后传来，呼吸拂过你的脖颈，痒得让人发颤。"
 
 translate schinese_rewrite Scene_Goat_Lose_a6970c5e:
 
-    gt "你的屁股很漂亮。"
+    gt "你的屁股不错。"
 
 translate schinese_rewrite Scene_Goat_Lose_3839cda1:
 
-    "山羊在你的耳边轻轻地低语 你可以从粗鲁的声音里 感觉到他的欲望。"
+    "山羊在你耳边轻声低语；光是那沙哑的声音，你就能察觉到他的欲望。"
 
 translate schinese_rewrite Scene_Goat_Lose_be035371:
 
-    "他轻轻地掀开你的腰巾 揭开你公鸡在森林里暴露的画面。"
+    "他轻轻掀起你的兜裆布，让你在森林中裸露的鸡巴暴露无遗。"
 
 translate schinese_rewrite Scene_Goat_Lose_96956be1:
 
-    e "N -noo。"
+    e "不、不要……放开我。"
 
 translate schinese_rewrite Scene_Goat_Lose_231af4db:
 
-    gt "别骗自己 你也想要这个 对吧?"
+    gt "别自欺欺人了。你也想要这个，不是吗？我会把你填满……真、真的填得满满的。"
 
 translate schinese_rewrite Scene_Goat_Lose_d338029e:
 
-    "他越来越接近,直到肚子碰到你的背。"
+    "你感觉山羊猎人粗大的鸡巴压在你的背上。他不断靠近，直到他的肚子贴上你的后背。"
 
 translate schinese_rewrite Scene_Goat_Lose_f345b9df:
 
-    "然后,他的手握住你的肩膀 你可以感觉到他已经准备好参加主要活动了。"
+    "接着，他一手按住你的肩膀；你能感觉到他已经准备好迎接正戏。"
 
 translate schinese_rewrite Scene_Goat_Lose_711f287f:
 
-    e "Hnnnn-ArgHHHH!"
+    e "啊啊啊——！"
 
 translate schinese_rewrite Scene_Goat_Lose_9397a84e:
 
-    "当山羊毫无警告地把自己推进你的身体时 你就会尖叫。"
+    "山羊毫无预兆地将自己顶进你的身体，你发出一声尖叫。"
 
 translate schinese_rewrite Scene_Goat_Lose_df0553fd:
 
-    "它还没有润滑,所以你入口的内部似乎... 不太平坦。"
+    "还没有充分润滑，所以你的入口内部似乎……凹凸不平。"
 
 translate schinese_rewrite Scene_Goat_Lose_789db212:
 
-    "你可以感觉到他的外皮 与你的直肠的墙壁划伤。"
+    "你能感觉到他的包皮摩擦着你的直肠壁。"
 
 translate schinese_rewrite Scene_Goat_Lose_35a35456:
 
-    "山羊的咕噜声很享受 他可能真的喜欢粗糙。"
+    "山羊愉悦地低吼。他大概真的喜欢粗暴的方式。"
 
 translate schinese_rewrite Scene_Goat_Lose_754e6100:
 
-    "他把自己逼进你的紧密洞里 把你塞进你的屁股里 深藏不露。"
+    "他强行挤进你紧致的穴，狠狠顶撞你的屁股，只为插得更深。"
 
 translate schinese_rewrite Scene_Goat_Lose_773b18b3:
 
-    "他很容易就退出了, 已经有预积漏出 从他的直立成员一线。"
+    "他轻易地抽了出来；他勃起的肉棒顶端已经渗出前液。"
 
 translate schinese_rewrite Scene_Goat_Lose_b5ecb88c:
 
-    "它伤害了很多,你从来没有感觉过 外国物体进入你的身体, 更别说僵硬的山羊公鸡。"
+    "这很痛，你从未感受过异物进入体内，更别说还是一根硬邦邦的山羊鸡巴。"
 
 translate schinese_rewrite Scene_Goat_Lose_50243b28:
 
-    "但尽管你不愿意承认 但它让你非常兴奋 甚至热。"
+    "但即使你不愿承认，它也让你无比兴奋，浑身发热。"
 
 translate schinese_rewrite Scene_Goat_Lose_4d97b9fc:
 
-    "山羊再次将臀部插进你的身体 这次比较平滑 但还是很粗糙。"
+    "山羊又一次用胯部顶进你体内，这次顺滑了一些，却依旧粗暴。"
 
 translate schinese_rewrite Scene_Goat_Lose_2cf60594:
 
-    "他把自己塞进你体内 等你的入口湿了 速度就会越来越快。"
+    "他再次挤进你体内；你的入口越来越湿，他的速度也越来越快。"
 
 translate schinese_rewrite Scene_Goat_Lose_af0695e1:
 
-    gt "我知道你喜欢这样 你喜欢被我们操吗?"
+    gt "看来你很喜欢这样。你喜欢被我们粗暴地干，对吗？"
 
 translate schinese_rewrite Scene_Goat_Lose_7a2199a0:
 
-    e "N -noo -A -F -F！"
+    e "不、不要——啊——操！停下！"
 
 translate schinese_rewrite Scene_Goat_Lose_2cdec28b:
 
-    "山羊只朝你微笑 他肯定已经看到你的鸡巴抽搐 和从他推力中硬起来了。"
+    "山羊只是对你笑了笑；他一定已经看见你的鸡巴因他的抽插而抽动、变硬。"
 
 translate schinese_rewrite Scene_Goat_Lose_d04c8970:
 
-    "你永远不会想到你让这个陌生人 把你带走 像这样闯入你的身体。"
+    "你从没想过自己会让这个彻头彻尾的陌生人这样占有你、侵入你的身体。"
 
 translate schinese_rewrite Scene_Goat_Lose_3b849c19:
 
-    "但是... 他很温柔 即使你知道他是在利用你做他的快乐玩具。"
+    "但……他对这件事又温柔得过分，哪怕你知道他只是把你当作泄欲的玩具。"
 
 translate schinese_rewrite Scene_Goat_Lose_9145304c:
 
-    "在某些时候,你停止挣扎 甚至按你的屁股 在他的老二更深, 感觉它越来越深。"
+    "不知不觉间，你停止了挣扎，甚至把屁股更深地压向他的鸡巴，感受它一点点深入。"
 
 translate schinese_rewrite Scene_Goat_Lose_2f86e673:
 
-    gt "没想到你这么渴 我喜欢。"
+    gt "没想到你这么……饥渴，我喜欢。"
 
 translate schinese_rewrite Scene_Goat_Lose_606a6b54:
 
-    "狩猎者不停地不停地打你 每一波浪都会让你的大脑充满欢乐。"
+    "猎人没有停下，反而持续撞击你的臀部；每一波冲击都将淫欲的狂喜送入你的脑海。"
 
 translate schinese_rewrite Scene_Goat_Lose_aa7e5a13:
 
-    "你无法摆脱这种感觉 那种希望他像你应该那样 让你满的感觉。"
+    "你无法摆脱这种感觉——渴望他把你填满，仿佛这就是你本该得到的。"
 
 translate schinese_rewrite Scene_Goat_Lose_505bc6ab:
 
-    "你的肌肉慢慢放松 不断侵入你的入口。"
+    "你的肌肉在入口持续被侵入的过程中慢慢放松。"
 
 translate schinese_rewrite Scene_Goat_Lose_4795d2b2:
 
-    "你被他的大腿对着你的拍打声所压倒 伴着山羊的欢乐的欢呼声。"
+    "山羊大腿拍打着你的大腿，伴随着他闷闷的愉悦低吼；你彻底沉浸在这声音里。"
 
 translate schinese_rewrite Scene_Goat_Lose_898961a4:
 
-    "你对每一推力都大声呻吟 你的呼吸模式越来越快 更强劲。"
+    "每次顶撞你都会大声呻吟；你们两人的呼吸越来越急促而粗重。"
 
 translate schinese_rewrite Scene_Goat_Lose_8262f8c2:
 
-    "他非常擅长让你感觉... 被爱,他将身体压到你身上... 这种亲密的触摸让你的心跳加速。"
+    "他非常擅长让你感到……被爱；他将身体贴上你，这亲密的触碰让你的心跳加速。"
 
 translate schinese_rewrite Scene_Goat_Lose_0d74124c:
 
-    "当你感觉到他握在肩膀上时 他的步伐会更快。"
+    "当你感觉到他抓住你肩膀的手越来越紧时，他的节奏也随之加快。"
 
 translate schinese_rewrite Scene_Goat_Lose_dd7bce1b:
 
-    "你感觉到你体内 充满了强大的高潮..."
+    "你感觉强烈的高潮正在体内聚集……"
 
 translate schinese_rewrite Scene_Goat_Lose_2e48ae48:
 
-    "他把他的成员推到你最深处时 你都能听到他的低调的叫声 他的鸡巴都在你体内。"
+    "当他把肉棒顶到你体内最深处时，你听见他低沉的闷哼；他的鸡巴全都插在你体内……"
 
 translate schinese_rewrite Scene_Goat_Lose_c41c62a7:
 
     e "呃啊……哈、哈……"
 translate schinese_rewrite Scene_Goat_Lose_1aa32583:
 
-    "你颤抖欲绝,想把自己拉开,但他推回去 他像流水的绳子一样 将你屁眼的绳子和绳子塞进你的洞里。"
+    "你剧烈颤抖，想把自己抽离，他却将你顶了回去。他在你的穴里射精，一股又一股的液体灌满你的肛门。"
 
 translate schinese_rewrite Scene_Goat_Lose_8c49f102:
 
-    "当你达到强烈的高潮时,你猛然地抽打你的身体, 你回头看他的老二, 他仍然在抽出种子 在你无法忍受的洞里。"
+    "你达到强烈高潮，身体疯狂痉挛；你回头看着他的鸡巴，他仍在你贪婪的穴中不断射精。"
 
 translate schinese_rewrite Scene_Goat_Lose_87a983a0:
 
-    "几秒钟后,你就能感觉到他的温暖 卵子从你身体上涌下来 有些甚至从你的地道里溢出来 使草地上乱成一团糟。"
+    "短短几秒里，你感觉他的温热精液在体内奔涌，其中一些甚至从你的通道溢出，把草地弄得一团糟。"
 
 translate schinese_rewrite Scene_Goat_Lose_ea14a475:
 
-    "最终,猎人收回他的长度, 喷洒大量的精液到你的屁股和大腿上。"
+    "最终，山羊猎人抽出他的肉棒，将大量精液喷洒在你的屁股和大腿上。"
 
 translate schinese_rewrite Scene_Goat_Lose_d3724201:
 
-    "快乐永远也不会消退 你仍然可以感觉到他阴茎的形状 即使他拔出来时你还是能体会到。"
+    "欢愉对你来说始终没有消退；即使他抽出去了，你仍能感觉到他的鸡巴留在体内的形状。"
 
 translate schinese_rewrite Scene_Goat_Lose_ab68be70:
 
-    "洞穴裂开 漏水 山羊的积蓄滴 他声称你是他的财产。"
+    "你的穴张开着，山羊的精液一滴又一滴地流出；他仿佛在宣告你是他的所有物。"
 
 translate schinese_rewrite Scene_Goat_Lose_32d90b33:
 
-    gt "你,你是我的,知道吗?"
+    gt "你、你是我的。明白吗？下次别再挣扎了，我会好好对你，无礼之徒。"
 
 translate schinese_rewrite Scene_Goat_Lose_6e93ccc3:
 
-    "你太累了,无法回应... 你脑子里充满了对丑闻的欲望。"
+    "你累得连回应都做不到……脑海里已经被欲望填得满满当当。"
 
 translate schinese_rewrite Scene_Goat_Lose_b175884f:
 
-    "山羊在你屁股上打他的老二, 弹跳最后几滴在你上, 当他坐起来。"
+    "山羊坐起身时，用鸡巴拍了拍你的屁股，把最后几滴精液弹到你身上。"
 
 translate schinese_rewrite Scene_Goat_Lose_6b90bebd:
 
-    gt "我必须走了,但是你多来几次。"
+    gt "我现在得走了。不过，记得多来找我，呵。"
 
 translate schinese_rewrite Scene_Goat_Lose_dfb02fed:
 
-    "你靠在地上 看着山羊穿上自己的腰带。"
+    "你瘫倒在地，看着山羊穿上自己的兜裆布。"
 
 translate schinese_rewrite Scene_Goat_Lose_90428d54:
 
-    "他跳到你身边拿起他的武器 你的眼睛变得模糊了 他把你一个人留在森林里 被他的精液覆盖。"
+    "他绕到你身边捡起武器。山羊离开后，你的视线逐渐模糊，只剩下自己独自躺在森林里，浑身沾满他的精液。"
 
 translate schinese_rewrite Scene_Goat_Win_37b8cc4d:
 
-    "你随便摸摸 抚摸你的蛋蛋 即使你的腰带在那里, 而你细心地对猎人眨眼。"
+    "你若无其事地隔着兜裆布揉弄自己的蛋蛋，同时朝山羊猎人勾了个充满诱惑的媚眼。"
 
 translate schinese_rewrite Scene_Goat_Win_3e9a583d:
 
-    "山羊猎手对你的策略很惊讶 即使他的鸡巴抽搐在他的腰衣下面。"
+    "山羊猎人对你的策略感到惊讶，尽管他的鸡巴已经在兜裆布下抽动。"
 
 translate schinese_rewrite Scene_Goat_Win_ae0c540f:
 
-    "你慢慢地脱下你的包和外衣 把你的肌肉骨骼 暴露给猎人。"
+    "你慢慢卸下背包和束腰外衣，向山羊猎人露出肌肉发达的躯干。"
 
 translate schinese_rewrite Scene_Goat_Win_15e96f61:
 
-    "狩猎者喘气,显然不 期待你脱下你的衬衫。"
+    "山羊猎人倒吸一口气，显然没想到你会脱掉上衣。"
 
 translate schinese_rewrite Scene_Goat_Win_0159c7d1:
 
-    "精疲力尽的猎人摸着他的鸡鸡和蛋蛋 即使他的腰带在路上, 看着你直接的眼睛,就像他一样。"
+    "疲惫的山羊猎人隔着兜裆布抚摸鸡巴和睾丸，动作间直直看着你的眼睛。"
 
 translate schinese_rewrite Scene_Goat_Win_bad0796b:
 
-    "你笑着开始滚动你的臀部 就像你已经进入狩猎者, 眨眼地抚摸着你的屁股一样。"
+    "你咧嘴一笑，开始扭动胯部，仿佛已经插进山羊猎人体内，同时妩媚地朝他眨眼。"
 
 translate schinese_rewrite Scene_Goat_Win_d36e1ae7:
 
-    "狩猎者大呼小叫 他的欲望完全征服了他。"
+    "山羊猎人呜咽起来，此刻欲望已经彻底占据了他。"
 
 translate schinese_rewrite Scene_Goat_Win_6e13cc8e:
 
-    "移开你的腰巾,你抚摸你硬硬的公鸡 让它在几分钟内完全勃起。"
+    "你脱下兜裆布，抚弄逐渐硬起的鸡巴，短短几分钟便让它完全勃起。"
 
 translate schinese_rewrite Scene_Goat_Win_2ee6e44d:
 
-    "猎人摘下他的腰带 开始慢慢地自慰。"
+    "山羊猎人脱下自己的兜裆布，开始缓慢地自慰。"
 
 translate schinese_rewrite Scene_Goat_Win_80eb0dae:
 
-    gt "你想尝尝这个吗?"
+    gt "你想要这个，对吧？"
 
 translate schinese_rewrite Scene_Goat_Win_372e1a64:
 
-    "猎人说,在你撞到他之前 把他推到树上。"
+    "山羊猎人说着，你冲向他，将他按在树上。"
 
 translate schinese_rewrite Scene_Goat_Win_9d263961:
 
-    "剥光他的衣服,你就能感觉到 你们俩的老二互相摩擦。"
+    "你剥光他的衣服，能感觉到你们两人的鸡巴彼此摩擦。"
 
 translate schinese_rewrite Scene_Goat_Win_a4b85678:
 
-    e "我得到一块这个,你会照我说的做。"
+    e "我要享用这个，而你要按我说的做。"
 
 translate schinese_rewrite Scene_Goat_Win_ad02d6f1:
 
-    "你对他说, 磨你的臀部 和他对着, 而你的阴茎擦在一起。"
+    "你一边说，一边用胯部磨蹭他的胯部，让你们的鸡巴互相摩擦。"
 
 translate schinese_rewrite Scene_Goat_Win_8530bc66:
 
-    gt "你可能赢了... 但我不会轻易屈服..."
+    gt "你也许赢了……但我不会这么轻易屈服……！"
 
 translate schinese_rewrite Scene_Goat_Win_69994bb5:
 
-    "猎人说,从你的阴茎摩擦中呻吟 互相摩擦。"
+    "山羊猎人呻吟着说，声音中带着两根鸡巴摩擦的快感。"
 
 translate schinese_rewrite Scene_Goat_Win_4893a21f:
 
-    e "你输了... 闭上嘴,拿走它!"
+    e "你输了……闭嘴，乖乖受着……！"
 
 translate schinese_rewrite Scene_Goat_Win_38be9881:
 
-    "猎人试图抵制 试图推你离开他。"
+    "山羊猎人试图把你从身上推开，进行抵抗。"
 
 translate schinese_rewrite Scene_Goat_Win_94b05632:
 
-    "坚持住,用尾巴摸他的老二几次, 他慢慢的反击的意志开始消失。"
+    "你稳住身体，用尾巴抚弄了几下他的鸡巴；他反抗的意志逐渐消退。"
 
 translate schinese_rewrite Scene_Goat_Win_00fb5969:
 
-    e "你跟我一样想要这个 你只是不愿意承认和接受。"
+    e "你和我一样想要这个，只是你还不肯承认、不肯接受。"
 
 translate schinese_rewrite Scene_Goat_Win_a4e456e4:
 
-    gt "你凭什么认为..."
+    gt "你凭什么以为……自己能占有我？像你这样的外来者……不过是无礼之徒！"
 
 translate schinese_rewrite Scene_Goat_Win_c47cf47c:
 
-    e "闭嘴,不是我们所有人!"
+    e "闭嘴，不是所有外来者都这样！你的鸡巴硬成这样……还有你呻吟、呜咽的样子……都说明了事实。"
 
 translate schinese_rewrite Scene_Goat_Win_21c7d0aa:
 
-    gt "你个无礼的外人,你赔我钱... 我会亲自找到你,确保!"
+    gt "你会为此付出代价，无礼的外来者……我会亲自追踪你，确保你逃不掉！"
 
 translate schinese_rewrite Scene_Goat_Win_3829dba6:
 
-    e "看着那强悍的猎人 试图打起架来... 即使你输了。"
+    e "哎呀，看看这位强硬的山羊猎人，就算输了还在努力装腔作势……"
 
 translate schinese_rewrite Scene_Goat_Win_9ab0184e:
 
-    "你们俩都性欲旺盛 猎人抵制你们的进步 显然不想在威胁你们的时候 潜伏在底部。"
+    "你们都欲火焚身，山羊猎人却抵抗着你的进攻；他显然不想当下面那个，还在出言威胁你。"
 
 translate schinese_rewrite Scene_Goat_Win_06b49941:
 
-    "你们俩都裸着 鸡巴都硬的 不停地抽筋 乞求释放。"
+    "你们都赤身裸体，鸡巴又硬又跳，恨不得立刻释放出来。"
 
 translate schinese_rewrite Scene_Goat_Win_f37ac2ac:
 
-    "你用猎手的洞排好你的鸡巴 然后再吐口水 慢慢地把鸡巴推进他体内 即使他的肛门圈一开始抵抗。"
+    "你将鸡巴对准山羊猎人的穴，先朝那里吐了口唾沫；即使他的肛门括约肌起初有所抵抗，你还是慢慢把鸡巴推进他体内。"
 
 translate schinese_rewrite Scene_Goat_Win_15d2337a:
 
-    gt "求你别这样!"
+    gt "啊啊啊……操、操……！请、请停下……别这样！哈、哈嗯嗯！"
 
 translate schinese_rewrite Scene_Goat_Win_248d0c24:
 
-    "狩猎者在呻吟前求饶 你的老二终于溜进他的紧闭洞里 让你也呻吟了。"
+    "山羊猎人先是哀求，随后发出呻吟；你的鸡巴终于滑进他紧致的穴，让你也呻吟起来。"
 
 translate schinese_rewrite Scene_Goat_Win_f4271e58:
 
-    e "你这么紧,我敢打赌,我敢打赌..."
+    e "你真紧……我敢说你已经有一阵子没被插过了……！别担心，我会温柔些，直到不必再温柔为止~"
 
 translate schinese_rewrite Scene_Goat_Win_1ad761f7:
 
-    "慢慢地把你的臀部向前推 让你的老二更深 猎人呻吟 和呜咽。"
+    "你缓慢而温柔地向前顶动胯部，让鸡巴插得更深；山羊猎人随之呻吟、呜咽。"
 
 translate schinese_rewrite Scene_Goat_Win_522ca525:
 
-    gt "他妈的,太好了,请多给我一点..."
+    gt "啊啊……操……好舒服！请……再多给我一些……！"
 
 translate schinese_rewrite Scene_Goat_Win_b3950f2e:
 
-    "猎人呻吟,同时乞求你做更多, 他的欲望终于打破了他的反击的意志。"
+    "山羊猎人呻吟着求你加大动作；他的欲望终于击溃了反抗的意志。"
 
 translate schinese_rewrite Scene_Goat_Win_7b11c665:
 
-    "你轻轻地向前 缓慢地向前 猎人紧紧的肛门壁 挤压你的老二 每一推都让你呻吟。"
+    "你温柔却缓慢地向前顶动；山羊猎人紧致的肛壁每次都在按摩你的鸡巴，让你不住呻吟。"
 
 translate schinese_rewrite Scene_Goat_Win_2806d6e0:
 
-    "你的推力使猎人呻吟, 而你缓慢地操他 在树底。"
+    "你的抽插让山羊猎人呻吟；你在树下缓慢地干着他。"
 
 translate schinese_rewrite Scene_Goat_Win_e2c68282:
 
-    gt "他妈的是的... 更快... 我需要更多..."
+    gt "操，没错……快一点……我还要……更用力……无礼之徒！"
 
 translate schinese_rewrite Scene_Goat_Win_0a1e0ef8:
 
-    "听说猎人求你干他 更难让你兴奋 你还没有强迫你 因为那样太容易了。"
+    "听到山羊猎人求你更用力地干他，你兴奋不已；不过你还没满足他，毕竟那样未免太容易了。"
 
 translate schinese_rewrite Scene_Goat_Win_9f593084:
 
-    e "还没有,你不想结束 很快... 你猎人?"
+    e "还不行，你可不想这么快就结束……对吧，山羊猎人？~"
 
 translate schinese_rewrite Scene_Goat_Win_4d10b6c6:
 
-    "猎人呻吟在哭泣之前 他渴望更用力的推力 但你不会给他。"
+    "山羊猎人呻吟后又开始呜咽；他渴望更猛烈的顶撞，而你偏不给他。"
 
 translate schinese_rewrite Scene_Goat_Win_cc37166f:
 
-    e "别担心,你很快就会更难推了!"
+    e "别急，你很快就能享受到更猛烈的撞击……！~"
 
 translate schinese_rewrite Scene_Goat_Win_1a44d7e4:
 
-    "你回答继续慢慢地操他 即使你觉得他的洞松了 你也不会更用力。"
+    "你继续慢慢干他，尽管能感觉到他的穴已经逐渐放松，你仍不打算加大力度。"
 
 translate schinese_rewrite Scene_Goat_Win_ea7b6e5b:
 
-    "猎人洞现在已经松开 足够你加速推力 几乎全部拉出 之前你把鸡鸡 击回他的前列腺。"
+    "山羊猎人的穴已经放松到足以让你加快抽插；你几乎完全抽出，再猛地将鸡巴顶回去，撞上他的前列腺。山羊猎人因此呻吟得更加响亮，而你的速度也越来越快。"
 
 translate schinese_rewrite Scene_Goat_Win_78a5d339:
 
-    gt "他妈的是的,这就是我想要的..."
+    gt "操、操，没错！这就是……我想要的……更用力……更快……更粗暴！~"
 
 translate schinese_rewrite Scene_Goat_Win_d3f365f7:
 
-    e "很好,你正在学习你的地方 暂时,不用担心 你会得到所有这一切!"
+    e "很好，你暂时学会了自己的位置。别担心，这些都会给你的！~"
 
 translate schinese_rewrite Scene_Goat_Win_e81ec858:
 
-    "更用力,更快,更粗糙 你大声呻吟, 这反过来使狩猎者呻吟 更响亮你的鸡巴 反复打他的前列腺。"
+    "你更用力、更快、更粗暴地顶撞，大声呻吟；你的鸡巴反复撞击山羊猎人的前列腺，让他呻吟得更响亮。"
 
 translate schinese_rewrite Scene_Goat_Win_fd703854:
 
-    "感谢你们有如此强的耐力 否则你们现在就能保住 猎人呻吟 和你的节奏 使你们每次击打前列腺时 都大喊大叫。"
+    "你庆幸自己体力惊人，否则现在早就射了；山羊猎人呻吟着跟上你的节奏，每次撞到前列腺，你们的呻吟都会更响亮。"
 
 translate schinese_rewrite Scene_Goat_Win_cfeb6614:
 
-    gt "用力,让我成为你的婊子!"
+    gt "操——好爽！~ 再用力，把我干成你的婊子！~ 让所有人都听见我是多么淫荡！~"
 
 translate schinese_rewrite Scene_Goat_Win_39725a28:
 
-    e "你看看... 你享受得太多了... 不是吗,猎人?"
+    e "哎呀，看看……你享受得太过头了……不是吗，山羊猎人？~"
 
 translate schinese_rewrite Scene_Goat_Win_f311c830:
 
-    gt "请再操我一次 傲慢无礼的人"
+    gt "是、是的！~ 请、请再多干我一点，无礼之徒！~"
 
 translate schinese_rewrite Scene_Goat_Win_146b7fb5:
 
-    "你继续他妈的狩猎者 满足他的愿望, 现在他挤压他的肛门墙 围绕你的老二 试图让你更快的积蓄。"
+    "你继续干着山羊猎人，满足他的愿望；现在他正用肛壁紧紧夹住你的鸡巴，想让你更快射出来。"
 
 translate schinese_rewrite Scene_Goat_Win_04708565:
 
-    e "别用你的肛门挡住我的老二,我还不想马上抽筋,松开它们,否则我就拉出来走人"
+    e "别用肛壁夹我的鸡巴。我还不想射，放松，不然我就抽出来走人了~"
 
 translate schinese_rewrite Scene_Goat_Win_a0d95a20:
 
-    "猎人顺从他 并用一阵呜咽松开他的肛门墙, 他非常想要你的精液 但你不会真正退出 并离开。虽然他不需要知道这一点。"
+    "山羊猎人照办，呜咽着放松肛壁。他渴望你的精液，却不知道你根本不会真的抽身离开。他没必要知道这一点~"
 
 translate schinese_rewrite Scene_Goat_Win_9c908939:
 
-    "你继续拉 几乎所有的方式 之前,你的家伙撞回, 每一次它打猎人的前列腺 是粗糙, 越来越难和更快。"
+    "你继续几乎完全抽出，再猛地将鸡巴捅回去；每次撞上山羊猎人的前列腺，都比上一次更粗暴、更用力、更快。"
 
 translate schinese_rewrite Scene_Goat_Win_644686c6:
 
-    "狩猎者大喊大叫 继续配合你的节奏 他需要你的精液 和他自己需要的精液一样。"
+    "山羊猎人呻吟得更响，继续跟上你的抽插节奏；他和你一样渴望你的精液，也同样渴望自己射出来。"
 
 translate schinese_rewrite Scene_Goat_Win_7f696d52:
 
-    "你抓住猎人的腿 用它们作为把手 这样你就能用最难、最快和最粗暴的方式操他。"
+    "你抓住山羊猎人的双腿，把它们当作把手，这让你能以自己能做到的最大力度、最快速度和最粗暴的方式干他。"
 
 translate schinese_rewrite Scene_Goat_Win_46da772c:
 
-    "你们两个都大声地呻吟着 从所有狂欢的洪水 淹没了你们的身体, 很快你们会同时消沉,但还没有..."
+    "狂喜充满你们的身体，让你们的呻吟越来越响。很快你们就会一起射精，但还不是现在……现在你们都欲火焚身、欲望满溢，不能停下。"
 
 translate schinese_rewrite Scene_Goat_Win_e90fd303:
 
-    gt "操... 我要... 集合!"
+    gt "操……我、我要……射了！~"
 
 translate schinese_rewrite Scene_Goat_Win_ef9b8b87:
 
-    "猎人呻吟,在他射他的负荷 在他的胸部,胸肌,胃 和一些他的鼻子。"
+    "山羊猎人呻吟着，随后发出淫荡的吼叫，将精液射得满胸口、胸肌、肚子，还有一些落在鼻吻上。"
 
 translate schinese_rewrite Scene_Goat_Win_883ed827:
 
-    "你感觉到他的肛门墙在挤压你的鸡鸡 压力太大了 感觉你的蛋蛋在发抖 暗示你快被卡住了。"
+    "你感觉他的肛壁在鸡巴周围痉挛，紧紧夹住它；这压力太大了，你的蛋蛋开始发麻，告诉你也快要射了。"
 
 translate schinese_rewrite Scene_Goat_Win_1ee14d69:
 
-    e "好孩子! 现在轮到我了!"
+    e "乖孩子……现在……轮到我了！~"
 
 translate schinese_rewrite Scene_Goat_Win_8c98e984:
 
-    "你回答几乎一路上都拉出来 在你用你所有的力气 把你的老二撞回他屁股里前 最后一次。"
+    "你说着，几乎完全抽出鸡巴，随后用尽全力最后一次猛撞进他的屁股。"
 
 translate schinese_rewrite Scene_Goat_Win_5d6771a6:
 
-    "咆哮,你射穿你背心深处的猎人 将他的肛门墙画成珍珠白色。"
+    "你咆哮着，将精液射进山羊猎人体内深处，把他的肛壁染成珍珠般的白色。"
 
 translate schinese_rewrite Scene_Goat_Win_cfe0342d:
 
-    "你们两个都崩溃了 地上的猎人 你站在他上面 你的老二还埋在他的屁股里。"
+    "你们同时倒下；山羊猎人躺在地上，而你压在他身上，鸡巴仍深埋在他的屁股里。"
 
 translate schinese_rewrite Scene_Goat_Win_83fa7484:
 
-    "你等着你的蛋蛋完全被排干 然后再拉出来 从猎手的破洞里流出一串精液 渗入他的尾毛。"
+    "你等到蛋蛋彻底排空才抽出；一股精液从山羊猎人被蹂躏得不成样子的穴中流出，顺着他的尾巴毛发淌下。"
 
 translate schinese_rewrite Scene_Goat_Win_c4b917d2:
 
-    gt "我本以为我会生气... 但我没有生气... 你还是..."
+    gt "操、操、太爽了……我的屁股好痛……我本来以为自己会生气……但我没有……你依然是个……无礼的外来者！~"
 
 translate schinese_rewrite Scene_Goat_Win_469e4b7c:
 
-    e "我很高兴你... 开心自己,哦,闭嘴,你爱它,你知道!"
+    e "我很高兴你……享受其中，哦，闭嘴吧，你明明喜欢得不得了，自己也清楚！~ 我该走了；你知道该怎么做才能让这一切再次发生，回头见！~"
 
 translate schinese_rewrite Scene_Goat_Win_8b2ecaed:
 
-    "收拾好东西再换衣服 留下满满的猎羊人。"
+    "你收拾好东西，穿上衣服，把满身精液的山羊猎人留在身后。"
 
 translate schinese_rewrite scene_buggbear_lose_0e4abf44:
 
-    "你输了一次与捉住你 和他身体拉拉的虫熊的战斗 你和他握手抗争 这使得你们都倒在地上。"
+    "你输掉了战斗。熊地精抓住你，将你拉向自己的身体；你拼命挣扎，结果两人一起摔倒在地。"
 
 translate schinese_rewrite scene_buggbear_lose_6b2d3664:
 
-    "你全力以赴 努力摆脱虫熊的束缚 野兽比大多数人更强大 你打破自由的企图失败了。"
+    "你使出全身力气想挣脱熊地精的束缚，但这头野兽比大多数敌人都强，你的尝试失败了。"
 
 translate schinese_rewrite scene_buggbear_lose_bf080d18:
 
-    e "让我去,你这个大白痴,我警告你 如果你不不,你会后悔的,下次我们见面!"
+    e "放开我，你这个大蠢货！我警告你，要是不放，咱们下次见面时你会后悔的！"
 
 translate schinese_rewrite scene_buggbear_lose_a15a645c:
 
-    "虫熊的咕噜声却不松手 野兽却用老二来压你的屁股。"
+    "熊地精低吼着，却没有松手，反而开始用鸡巴磨蹭你的屁股。"
 
 translate schinese_rewrite scene_buggbear_lose_e9d2f3c0:
 
-    "不过,你们两个还是穿着衣服,所以你的腰带挡路了。"
+    "然而你们都还穿着衣服，兜裆布挡在中间。"
 
 translate schinese_rewrite scene_buggbear_lose_1aedcd32:
 
-    "现在你知道这到底要什么 但你不想让它发生在你身上。"
+    "你羞愤交加地挣扎着，终于明白这头野兽想做什么，可你不想让它得逞。"
 
 translate schinese_rewrite scene_buggbear_lose_bc11c534:
 
-    "你的斗争是徒劳的,你必须再休息一下, 虫熊的公鸡已经很难从你试图打破自由。"
+    "你的挣扎徒劳无功，只好再次停下来喘息；你试图挣脱时，熊地精的鸡巴已经硬了起来。"
 
 translate schinese_rewrite scene_buggbear_lose_e2c920da:
 
-    "虫熊再次用自己的手 踩着你的屁股, 他的硬鸡巴 猛地在你背上 用力地抽动,是巨大的和厚的。"
+    "熊地精再次用身体磨蹭你的屁股；它那根硬邦邦的鸡巴抵着你的后背，又粗又大。"
 
 translate schinese_rewrite scene_buggbear_lose_f5a2cae9:
 
-    "你不能让这个野兽有它的方式 与你的方式,当然,你的洞会被摧毁 如果它这样做。"
+    "你不能让这头野兽随心所欲，否则你的穴肯定会被彻底毁掉。"
 
 translate schinese_rewrite scene_buggbear_lose_36a26acc:
 
-    e "我不想成为你的垃圾,你又丑又蠢,所以我为什么要让你跟我走?"
+    e "放开我，你这个蠢货！我不想当你的精液垃圾桶；你又丑又蠢，我凭什么让你为所欲为？！"
 
 translate schinese_rewrite scene_buggbear_lose_a0ce22fc:
 
-    "虫熊比以前更凶狠地咆哮和折磨你 似乎他不喜欢被叫成这么多名字。"
+    "熊地精低吼着，比之前更用力地磨蹭你；看来它很不喜欢你接连不断的辱骂。"
 
 translate schinese_rewrite scene_buggbear_lose_cbb91c69:
 
-    "它会将你的腰带脱去, 将你的裸体 暴露在彼此之间。"
+    "它脱下你的兜裆布，也脱下自己的，向彼此暴露出赤裸的身体。"
 
 translate schinese_rewrite scene_buggbear_lose_56db0d1c:
 
-    e "你他妈在干嘛 我没说你可以操我 你这白痴！"
+    e "你他妈在干什么？我没说你可以干我，你这个白痴！"
 
 translate schinese_rewrite scene_buggbear_lose_275c4651:
 
-    "虫熊咆哮 摘除你剩下的衣服 包括你的信使包 塞巴斯的魅力和武器。"
+    "熊地精低吼着，脱掉你剩下的衣物，包括你的信使包、塞巴斯的护符和武器。"
 
 translate schinese_rewrite scene_buggbear_lose_1dee39ff:
 
-    "看来虫熊很生气 你不停地叫它名字。"
+    "看来你不停骂它，让熊地精彻底恼火了。"
 
 translate schinese_rewrite scene_buggbear_lose_82809f51:
 
-    "你努力挣脱自由,知道如果你不这样做, 你就不能走一阵子, 你会昏过去,因为你累坏了。"
+    "你挣扎着想逃脱；你知道如果失败，自己会有一阵子走不了路，还会因疲惫而昏过去。"
 
 translate schinese_rewrite scene_buggbear_lose_f5f251db:
 
-    "可惜那头野兽比你强得多。"
+    "它把你牢牢按住，让你的挣扎变得徒劳；可悲的是，这头野兽比你强得多。"
 
 translate schinese_rewrite scene_buggbear_lose_b05b6c8b:
 
-    "虫熊开始用老二对着屁股磨 虫熊呻吟 你知道它会很快开始操你。"
+    "熊地精开始用鸡巴磨蹭你的屁股，发出呻吟；你知道它很快就要干你了。"
 
 translate schinese_rewrite scene_buggbear_lose_f9e00384:
 
-    e "让我走,我会做你想做的事, 你比我强得多...。..我应该让你操我, 并用它做。"
+    e "让我动一动，我就按你的要求来。你比我强太多了……我还是让你干完算了。"
 
 translate schinese_rewrite scene_buggbear_lose_899c808e:
 
-    "虫熊没有松开它 反而把鸡巴压在你屁股上 又呻吟了。"
+    "熊地精没有放松力道，反而用鸡巴磨蹭你的屁股，又呻吟了一声。"
 
 translate schinese_rewrite scene_buggbear_lose_0fc6ee51:
 
-    "你意识到与如此强大的野兽斗争毫无意义 很容易就战胜了你 你愚蠢地与它斗争。"
+    "你意识到，和这样强大的野兽挣扎毫无意义；它轻易压制了你，你真不该反抗。"
 
 translate schinese_rewrite scene_buggbear_lose_e2b91247:
 
-    "虫熊把你带到前哨顶部 不知为何 也许太害羞了 别人看不到它发生性关系... 你只能猜得到。"
+    "不知道为什么，熊地精把你带到了哨站顶端；也许它不想让别人看着自己交配……你只能猜测。"
 
 translate schinese_rewrite scene_buggbear_lose_db883d13:
 
-    "到达前哨的顶端 虫熊与你靠在一起 对着它的身体 你们俩都赤裸裸的。"
+    "到了哨站顶端，熊地精靠着你的身体向后坐下；你们都赤身裸体，鸡巴也都硬邦邦的。"
 
 translate schinese_rewrite scene_buggbear_lose_06bbe224:
 
-    "它的阴茎已经漏了蓄液 用来作为润滑剂 准备你进入洞穴。"
+    "它的鸡巴已经渗出前液，并用前液作润滑，准备入侵你的穴。"
 
 translate schinese_rewrite scene_buggbear_lose_5ce5f4f1:
 
-    "你本不想这么做 但虫熊的力量太强大了 你犯了一个可怕的错误 你自己的老二背叛了你的感情 因为它很困难而且漏了前科。"
+    "你不想这样，但熊地精实在太强了，而且你犯了个严重错误；你的鸡巴却背叛了你的感受，硬得发亮，还在渗前液。"
 
 translate schinese_rewrite scene_buggbear_lose_a9e928a3:
 
-    "虫熊慢慢地把鸡鸡 推进你的洞里 你的肛门戒指绝对抗拒了 这让你痛苦地哭出来。"
+    "熊地精慢慢把鸡巴推进你的穴；你的肛门括约肌明显抵抗，让你痛苦地叫出声。"
 
 translate schinese_rewrite scene_buggbear_lose_8f193a38:
 
-    "很快你的肛门戒指就退缩了 让野兽的鸡巴插进你的屁股里。"
+    "但它十分执着，很快你的括约肌便松开，让那头野兽的鸡巴进入你的屁股。"
 
 translate schinese_rewrite scene_buggbear_lose_534e615d:
 
-    e "你这个蠢货,我说过我不想这样"
+    e "啊啊啊！你这个蠢货！我说了我不想这样——！啊啊！~"
 
 translate schinese_rewrite scene_buggbear_lose_e8685802:
 
-    "虫熊的公鸡撞到你的前列腺时 你当时在说话中间 让你失声失声 尽管你不想这样。"
+    "熊地精的阳具正好在你说话时撞上前列腺，令你因反射而呻吟；尽管你不想这样，却无法否认那感觉实在美妙。"
 
 translate schinese_rewrite scene_buggbear_lose_79ad0373:
 
-    e "好,你想干我,我负责,你这色鬼！"
+    e "好吧！你想干我？那现在由我做主，你这头发情的野兽！"
 
 translate schinese_rewrite scene_buggbear_lose_caafb5d0:
 
-    "虫熊开始用力推 让你闭嘴,让你呻吟 相反,你抓住野兽的臀部 并包住你的尾巴 围绕它的臀部防止虫熊推。"
+    "熊地精开始更用力地抽插，想堵住你的嘴，让你改为呻吟；你抓住它的胯部，并用尾巴缠住它的腰，阻止它继续顶动。"
 
 translate schinese_rewrite scene_buggbear_lose_1eea81b8:
 
-    e "如果我们他妈的这样做..."
+    e "既然要干，那就按……我的方式来！"
 
 translate schinese_rewrite scene_buggbear_lose_9b085444:
 
-    "它在对你咆哮前叫喊着 明显不高兴 你的尾巴被抑制了。"
+    "它先是闷哼，随后朝你低吼；显然很不满你的尾巴束缚住了它的胯部。"
 
 translate schinese_rewrite scene_buggbear_lose_8719c6f3:
 
-    "你专注在令人愉快的虫熊身上 几乎把野兽的鸡巴都拉下来 然后再把你屁股踢到他的鸡巴上。"
+    "你专心取悦熊地精，几乎完全从它的鸡巴上抽离，再猛地用屁股坐回去。"
 
 translate schinese_rewrite scene_buggbear_lose_fd5ecdd9:
 
-    "你前列腺的呻吟每次都被打中 害虫熊也大声呻吟。"
+    "每次撞到你的前列腺，你都呻吟起来，也让熊地精大声呻吟。"
 
 translate schinese_rewrite scene_buggbear_lose_3577c998:
 
-    "虫熊明显地咆哮着 讨厌你控制了一切 但你却不关心这个事实 这不是他的屁股 如果你要被这头野兽操！"
+    "熊地精低吼着，显然恨透了你夺走主导权；但你才不在乎，这是你的屁股，不是它的。如果你要被这头野兽干，就必须由你做主！"
 
 translate schinese_rewrite scene_buggbear_lose_06aae960:
 
-    "你继续几乎一路拉下巴格伯的老二 然后再把你屁股踢回他的老二 狂喜的浪潮淹没了你们两具身体。"
+    "你继续几乎完全抽出，再猛地坐回熊地精的鸡巴上；找到节奏后，狂喜的浪潮席卷了你们两人的身体。"
 
 translate schinese_rewrite scene_buggbear_lose_d7ac8904:
 
-    "虫熊大声叫喊 呼喊着每一步你的屁股运动。"
+    "熊地精随着你屁股的每次动作大声呻吟、低吼。"
 
 translate schinese_rewrite scene_buggbear_lose_3a447a04:
 
-    "你几乎一直拉着他的老二 然后再按住他的老二 每次都会更用力 更快 更粗糙。"
+    "你将自己狠狠套上他的鸡巴，每次几乎完全抽出后再猛地坐回去；它一次比一次更用力、更快、更粗暴地撞击你的前列腺。"
 
 translate schinese_rewrite scene_buggbear_lose_6254dd31:
 
-    e "我可能不想这样..."
+    e "操、操……对！~ 我本来不想这样……可这感觉他妈的太棒了……！~"
 
 translate schinese_rewrite scene_buggbear_lose_3cc80b52:
 
-    "你继续抱怨自己在虫熊的老二上撒尿 你绝对是个力量底部 而现在虫熊知道了。"
+    "你一边呻吟，一边继续把自己套在熊地精的鸡巴上；你显然是个强势受，现在熊地精也知道了。"
 
 translate schinese_rewrite scene_buggbear_lose_eb4cdacb:
 
-    "你们两个呻吟,像你们的力量一样 低节奏 继续给你们两个带来无限的幸福。"
+    "你们都在呻吟；你强势受的节奏持续带来无拘无束的极乐。"
 
 translate schinese_rewrite scene_buggbear_lose_fda05325:
 
-    "虫熊似乎忘记了 他没有控制,但他仍然 得到屁股,所以他似乎 满意。"
+    "熊地精似乎忘了自己才是被动的一方，但它至少还在享受你的屁股，所以看起来很满足。"
 
 translate schinese_rewrite scene_buggbear_lose_cfc526d7:
 
-    "只剩下你们两个在这个时刻分享的欲望 你们两个都大声地呻吟着 很快你们俩就会消亡 但不是现在。"
+    "这一刻只剩下你们共享的淫欲；你们都大声呻吟，很快就会一起射精，但还不是现在。"
 
 translate schinese_rewrite scene_buggbear_lose_df5cf3c4:
 
-    "每次你把自己钉在他的老二上时 虫熊都叫着每当他的老二撞到你的前列腺时。"
+    "你每次把自己贯入它的鸡巴时，熊地精都会低吼；它的鸡巴每次撞上你的前列腺，都比之前更用力、更快、更粗暴。"
 
 translate schinese_rewrite scene_buggbear_lose_dfb5fac6:
 
-    "都开始发抖了 你们俩都想打斗 但还不能停止。"
+    "熊地精的蛋蛋和你自己的都开始发麻；你们都想射，但还不是时候，这感觉太他妈美妙了，不能停。"
 
 translate schinese_rewrite scene_buggbear_lose_a7980dd8:
 
-    e "我太... 接近... 敲门了!"
+    e "我……就快……射了！~"
 
 translate schinese_rewrite scene_buggbear_lose_336ec8e8:
 
-    "虫熊在高潮时大吼大叫 他的精液在你身体深处射中。"
+    "熊地精达到高潮时发出咆哮，精液深深射入你的体内。"
 
 translate schinese_rewrite scene_buggbear_lose_56ba8fb8:
 
-    "你能感觉到他的精液 淹没了你的内脏, 有很多 它从你的屁眼泄漏出来 即使他的阴茎还在那里。"
+    "你能感觉到它的精液灌满体内，多得即使鸡巴还在其中，也从你的肛门溢了出来。"
 
 translate schinese_rewrite scene_buggbear_lose_d0c341e5:
 
-    "虫熊被困得肚子都肿了 看上去你怀孕九个月了。"
+    "熊地精积攒了太多精液，撑得你的肚子鼓起，看起来像怀孕九个月。"
 
 translate schinese_rewrite scene_buggbear_lose_d627becf:
 
-    "你知道你不是,虽然这是 所有的多余的精液 粘在你身体里面 导致它膨胀。"
+    "但你知道自己并没有怀孕，那只是过多的精液滞留在体内，把你的肚子撑了起来。"
 
 translate schinese_rewrite scene_buggbear_lose_062b935b:
 
-    "你到处乱开枪,从你的老二上 喷出厚厚的枪根 几枪落在你的腹部,你的胃,你的胸部,甚至一些落在你脸上。"
+    "你咆哮着射得到处都是，浓稠的精液从鸡巴里一股股喷出；几股落在你的腹肌、肚子、胸口，还有一些溅到脸上。"
 
 translate schinese_rewrite scene_buggbear_lose_7ec658e4:
 
-    "虫熊和你自己花了几分钟时间才恢复过来, 在你们两个下面形成了一股积水。"
+    "你和熊地精花了片刻恢复；两人身下积起一滩精液。"
 
 translate schinese_rewrite scene_buggbear_lose_af7e8abf:
 
-    "你的一些精液甚至落在你的腿和尾巴上, 那会是一个婊子 出来后,从你的皮草。"
+    "还有一些你的精液落在腿和尾巴上，之后想从毛里弄干净可有得受了。"
 
 translate schinese_rewrite scene_buggbear_lose_cceeef80:
 
-    "从前哨边缘滴下的混合积水 看起来你们俩弄得一团糟。"
+    "混合的精液从哨站边缘滴落；看来你们弄出了好大一片狼藉。"
 
 translate schinese_rewrite scene_buggbear_lose_0152d715:
 
-    e "富鲁克,那太棒了... 苏... 满满的!"
+    e "操，太爽了……好、好满！~"
 
 translate schinese_rewrite scene_buggbear_lose_61627c64:
 
-    "你让你的尾巴放松 把它从虫熊的臀部取下来 虫熊呼唤着欣赏 把他的鸡巴从你身上拔出来。"
+    "你放松尾巴，从熊地精的腰间解开它；熊地精满意地哼了一声，把鸡巴从你体内抽出。"
 
 translate schinese_rewrite scene_buggbear_lose_f9e93d07:
 
-    "他做时,虽然精液开始流出 被摧毁的洞, 它就像一个精液枪手 正在射击你的屁股。"
+    "然而它刚一抽出，精液便开始从你破损的穴中涌出，简直像喷泉一样从你的屁股喷射。"
 
 translate schinese_rewrite scene_buggbear_lose_ef48c997:
 
-    e "你..."
+    e "你真的……把我弄得够呛……大块头！你本可以……更温柔些……少用点力！呜……"
 
 translate schinese_rewrite scene_buggbear_lose_0e3e7c5d:
 
-    bb "S-sorry..."
+    bb "对、对不起……"
 
 translate schinese_rewrite scene_buggbear_lose_e01cbf8c:
 
-    e "不,对不起,你赢了这场比赛... 这是很自然的,如果你想的话,会变得很粗暴。"
+    e "不，对不起。你赢了战斗……既然你想粗暴些，那也是理所当然的。"
 
 translate schinese_rewrite scene_buggbear_lose_dee48c24:
 
-    "虫熊呼唤你 拥抱你一阵子 也许这是他的方式 说他很抱歉 他太粗鲁了。"
+    "熊地精闷哼着抱了你一会儿；也许这是它为刚才动作太粗暴而道歉的方式。"
 
 translate schinese_rewrite scene_buggbear_lose_2b6994ef:
 
-    "也许虫熊只是被误解了一点 大野兽现在其实是甜美的 通过拥抱你。"
+    "也许熊地精只是有些被误解；这头大野兽现在抱着你，实际上还挺温柔。"
 
 translate schinese_rewrite scene_buggbear_lose_fd76b2c0:
 
-    "虫熊站起来 扶着你站立 像你那样叫喊。"
+    "熊地精站起来，扶你站稳；它一边这么做，一边发出低沉的哼声。"
 
 translate schinese_rewrite scene_buggbear_lose_004e5c02:
 
-    bb "谢谢..."
+    bb "谢、谢谢你！~"
 
 translate schinese_rewrite scene_buggbear_lose_2bef625c:
 
-    e "不客气 下次给我个你想要做爱的标志 我很乐意帮你"
+    e "不客气。下次你想干的时候给我个信号，我很乐意帮你~"
 
 translate schinese_rewrite scene_buggbear_lose_f9f8b9b9:
 
-    "显然,一个虫熊只能说几句人类的语言, 但你很感激他感谢你 给了他你的屁股, 倾卸他的负荷。"
+    "显然，熊地精只会说几句人类语言；尽管如此，你还是很感激它谢你把屁股给它射满。"
 
 translate schinese_rewrite scene_buggbear_lose_4751a315:
 
-    "你一站起来 就能感觉到虫熊的精液从洞里流出来。"
+    "你一站起来，就感觉到熊地精的精液从你的穴里往外流。"
 
 translate schinese_rewrite scene_buggbear_lose_7736de88:
 
-    "虫熊轻轻地拥抱并舔了你一小会儿 然后再放你走 跳下前哨 跳进灌木丛。"
+    "熊地精轻轻抱了抱你，又舔了你几下，然后松开手，跳下哨站钻进灌木丛。"
 
 translate schinese_rewrite scene_buggbear_lose_185f18cf:
 
-    "你只是希望哈斯凯尔没有看到这个 如果他看到你输给敌人 那会很丢脸。"
+    "你只希望哈斯克尔没看到这一幕；要是他看见你输给敌人，那可真是太他妈丢脸了。"
 
 translate schinese_rewrite scene_buggbear_lose_6200e222:
 
-    e "毕竟那还不算太糟, 我只是需要更小心 在未来不要输掉 所以这不会再发生... 嗯,除非我想它就是。"
+    e "其实也没那么糟，我以后只要小心别再输掉，就不会再发生这种事……除非我自己想要~"
 
 translate schinese_rewrite scene_buggbear_lose_7d901607:
 
-    "虫熊其实挺可爱的 虽然这不能为野兽的行为开脱！"
+    "熊地精其实还挺温柔，但这完全不能为它的行为开脱！"
 
 translate schinese_rewrite scene_buggbear_lose_5e87911d:
 
-    e "臭虫熊本来可以温柔一点的。"
+    e "操，我的屁股好痛！熊地精本可以温柔一点；算了，谁让它们本来就以野蛮出名。"
 
 translate schinese_rewrite scene_buggbear_lose_a223eebc:
 
-    "你可能刚刚发现 虫熊在性爱之后也有甜美的一面 谁知道这种野蛮的生物会这么甜美？"
+    "你可能刚发现熊地精在做爱后也有温柔的一面；谁能想到这么野蛮的生物竟然会如此温柔？"
 
 translate schinese_rewrite scene_buggbear_lose_3b6768e3:
 
-    "你决定保守这个小秘密 对自己,没有意义告诉任何人 除非你想让他们知道你 被一个虫熊搞了。"
+    "你决定把这个小秘密藏在心里；除非你想让别人知道自己被熊地精干过，否则没必要告诉任何人。"
 
 translate schinese_rewrite scene_buggbear_lose_e9a60d78:
 
-    "从你发现你的衣服的前哨爬下来时 精液从你可怜的屁眼里漏出来。"
+    "你从哨站爬下来，找到了自己的衣服；一路上，精液还在从你可怜的屁股里流出。"
 
 translate schinese_rewrite scene_buggbear_lose_f5832648:
 
-    e "除了那个巴格巴的屁股还长着可爱的一面, 他抱我舔我,这很奇怪..."
+    e "我这酸痛的屁股……除此之外，熊地精其实也有温柔的一面；它还抱了我、舔了我。这真是太奇怪了……"
 
 translate schinese_rewrite scene_buggbear_lose_9b7b830e:
 
-    "你想知道奥勒、塞巴斯或洛萨尔 如果他们发现这件事会怎么想。"
+    "你想知道奥利、塞巴斯或洛萨尔 如果他们发现这件事会怎么想。"
 
 translate schinese_rewrite scene_buggbear_lose_ea38b78f:
 
-    "最后,精液停止了流动, 你能够把衣服穿上 并收集你的东西。"
+    "精液终于不再流出，你得以穿回衣服，收拾好自己的东西。"
 
 translate schinese_rewrite scene_buggbear_lose_12014bd0:
 
-    "检查了之后 确定一切还在 你离开时痛得眨眼。"
+    "确认所有东西都还在后，你忍着疼痛，走开离去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_556c7193:
 
-    msg "注:此场景尚未更新。 MC的设计与当前设计不同。"
+    msg "注：此场景尚未更新。主角的设计会与当前版本不同。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_860df4dd:
 
-    "你把车靠在后门。"
+    "你蹑手蹑脚地走到包间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_0e5b8a23:
 
-    "用你的心脏在喉咙里, 你推门开着。"
+    "你心都提到嗓子眼了，推开房门。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_fdf4df5b:
 
-    "一个贝赫莫斯坐在后房里。"
+    "一名壮汉正坐在包间里。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_227db6c3:
 
-    "你的心在回想你最后一次遇到 这么一个赞助人。"
+    "想起上次和这样的客人相遇，你的心脏怦怦直跳。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_169952c7:
 
-    "你紧张地吞咽,希望你 将进入另一个艰难但美好的时间。"
+    "你紧张地咽了口唾沫，希望这次也能度过一段粗暴却愉快的时光。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1fd561c2:
 
-    "也许这就是你开始发展的 被压迫的一面。"
+    "也许这是你逐渐养成的受虐倾向。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_822f971a:
 
-    "当他看见你时,他用一股浪潮把你吸引过来,他的嘴唇上挂着傲慢的笑容。"
+    "他看到你后挥手招呼你过去，嘴角挂着傲慢的笑。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_8e543e1f:
 
-    "你走过这步步 感觉有点紧张,只穿一对拳击手。"
+    "你顺从地走过去。只穿着一条内裤，让你不禁感到有些紧张、暴露。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e29436b0:
 
-    "你在顾客面前停下来 顾客扭动他的食指。"
+    "你在客人面前停下。客人转了转食指。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_10b44c09:
 
@@ -1493,35 +1493,35 @@ translate schinese_rewrite Scene_Tavern_Meet_01_10b44c09:
 
 translate schinese_rewrite Scene_Tavern_Meet_01_d50851a3:
 
-    "您必须的。"
+    "你照做。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_326c4ce0:
 
-    patron "不错的资产。"
+    patron "屁股不错。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_d408d1ba:
 
-    "低声咆哮 不久之后 你就会觉得自己屁股的屁股被牢牢抓住了。"
+    "一声低沉的咆哮后，你很快感觉到一只结实的手抓住你丰满的屁股。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e922b5f9:
 
-    "在你有机会安顿下来之前,你的脸部被压的力会增加。"
+    "你被突如其来的触碰弄得一缩，还没来得及平复，揉捏你臀肉的力道就加大了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_024d72c7:
 
-    "保护你的屁股硬了。"
+    "客人用力揉捏你的屁股。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_3273d69d:
 
-    e "客户,这很痛..."
+    e "客人，这很痛……"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_839d68fd:
 
-    "赞助人切断了您的连接。"
+    "客人打断了你的话。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_6e9f4356:
 
-    patron "剪断它,小龙,在这里,你的存在 只是为了服务我。"
+    patron "闭嘴，小龙。在这里，你存在的意义只有伺候我。而且要叫我先生。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_51cb22e7:
 
@@ -1529,23 +1529,23 @@ translate schinese_rewrite Scene_Tavern_Meet_01_51cb22e7:
 
 translate schinese_rewrite Scene_Tavern_Meet_01_091b2af2:
 
-    e "是的,先生。"
+    e "是，先生。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_cd109ad6:
 
-    patron "非常好。你学习得很快。"
+    patron "很好。你学得很快。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_17db3478:
 
-    "还有另一个硬耳光打你的屁股。"
+    "你的屁股又挨了一记重重的巴掌。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_13d37d3b:
 
-    patron "现在,转过身去。"
+    patron "现在，转身。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_4dc93712:
 
-    "你按命令行事。"
+    "你按吩咐照做。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_d7547c49:
 
@@ -1553,119 +1553,119 @@ translate schinese_rewrite Scene_Tavern_Meet_01_d7547c49:
 
 translate schinese_rewrite Scene_Tavern_Meet_01_36ce6c7e:
 
-    "顾客拍他的左大腿。"
+    "客人拍了拍自己的左腿。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_feb2b78c:
 
-    "你有责任,你觉得自己很矮,坐在主顾的大腿上。"
+    "你照做了。坐在客人的大腿上，你感觉自己显得如此渺小。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e361d1bd:
 
-    "赞助人把手伸到你身后 抱着你。"
+    "客人伸手绕到你背后，将你固定在原地。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_ed508cec:
 
-    "他用他的大掌掌 压住你的胸和胃。"
+    "他用宽大的手掌抚过你的胸肌和腹部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b433d0e5:
 
-    "他手又粗糙又重 重的俯卧撑使你的呼吸速度更快。"
+    "他的动作粗暴，手劲沉重；这番重重的抚摸让你的呼吸加快。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_21d2ec42:
 
-    "皮肤的斑点都变红了。"
+    "你的皮肤一片片泛红。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b211f93d:
 
-    "他捏你一个乳头 扭。"
+    "他捏住你的一侧乳头，用力拧动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e55f3af9:
 
-    e "啊!"
+    e "啊！"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_87adbfda:
 
-    "疼痛的镜头让你大喊大叫。"
+    "疼痛猛地袭来，让你大声尖叫。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e2919c9b:
 
-    "就像惩罚一样,主子用另一只手扭动你另一只乳头。"
+    "仿佛是在惩罚你，客人用另一只手拧住了你的另一侧乳头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_d052a980:
 
-    patron "别喊了,要忍耐,这只是开始。"
+    patron "别叫。忍住。这才刚开始。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_5d632f18:
 
-    "你的乳头从模拟中硬化。"
+    "你的乳头在刺激下变硬。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_0c28c330:
 
-    "他们从顾客的无情手指上 粉红地转过来。"
+    "客人毫不留情的手指让它们变得通红。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1cb40e6b:
 
-    "他拉和挤 好像他试图挤你。"
+    "他又拉又捏，仿佛要把你当奶牛挤奶。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e9bceacd:
 
-    "有一些喜悦的外表 但大部分仍然是痛苦。"
+    "其中确实有些许快感，但绝大部分仍然是疼痛。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_6e8264cc:
 
-    "让你的牙齿坚硬 阻止尖叫声从喉咙里逃出来。"
+    "你咬紧牙关，不让惨叫冲出喉咙。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_26b508a4:
 
-    patron "非常好。"
+    patron "很好。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_6a86075c:
 
-    "你仍然可以感觉到他们从痛苦的余痛中 不停地嗡嗡叫。"
+    "客人松开了你的乳头。残留的疼痛仍让它们隐隐发麻。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_17df868e:
 
-    patron "看起来你对痛苦的反应很好。"
+    patron "看来你对疼痛的反应很好。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b526f511:
 
-    "他的巨型棕榈 漫步在你的身体 并抓住你的裤带。"
+    "他巨大的手掌沿着你的身体向下，随后抓住了你的胯部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_346ecace:
 
-    "你的阴茎已经有点硬 从乳头折磨。"
+    "乳头被折磨后，你的阴茎已经微微硬了起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_258f30eb:
 
-    "顾客用拳击手的薄布 擦擦你的裤带。"
+    "客人隔着薄薄的内裤揉搓你的胯部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_de6d2499:
 
-    "当他继续用他的大手和温暖的手 按摩你的小弟弟时 你的骨骼越来越醒了。"
+    "他继续用宽大而温暖的手掌按摩你的胯部，你的硬物越来越精神。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_4b0e4490:
 
-    "你喜欢你的蛋蛋和骨骼 都能在巨大的棕榈上 完美地筑巢。"
+    "你喜欢自己的蛋蛋和硬挺的鸡巴都能完美窝在他巨大的掌心里。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_7581f81a:
 
-    "当你即将屈服于快乐时 有一种剧烈的疼痛 震撼了你的整个系统。"
+    "就在你快要向快感投降时，一阵尖锐的疼痛突然贯穿全身。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c28fcdec:
 
-    "赞助人抓住你的蛋蛋 毫不留情地按下压力。"
+    "客人抓住你的蛋蛋，毫不留情地用力按压。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1e8684bf:
 
-    "那种感觉太紧张了 以至于你非自愿地背部弯曲。"
+    "这种紧绷的感觉让你不由自主地弓起了背。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_636eba74:
 
-    e "Ar... ngh..."
+    e "啊……呃……"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_be941268:
 
-    "你几乎被疼痛蒙蔽了心智 但你却在尖叫声上狠狠咬了一口。"
+    "疼痛几乎让你的意识一片空白，但你死死咬住了即将脱口而出的惨叫。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_9aa3d279:
 
@@ -1673,378 +1673,378 @@ translate schinese_rewrite Scene_Tavern_Meet_01_9aa3d279:
 
 translate schinese_rewrite Scene_Tavern_Meet_01_13768172:
 
-    "赞助人给你的蛋蛋按摩 再捏一次。"
+    "客人揉捏着你的蛋蛋，又狠狠掐了一下。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_98faa9f7:
 
-    "你无法判断这是奖赏还是惩罚了。"
+    "你已经分不清这到底是奖赏还是惩罚。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_3be12d52:
 
-    "拳击手的薄布对保护赞助人的攻击几乎毫无保护。"
+    "薄薄的内裤对客人的施虐几乎起不到任何保护作用。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_73b6401b:
 
-    "攻击仍在继续。"
+    "而施虐仍在继续。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b6882a89:
 
-    "他掐住你的蛋蛋,然后拉。"
+    "他死死攥住你的蛋蛋，像掐住什么似的向下一拽。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_bc6d061d:
 
-    patron "他们一定很努力工作 制造热气冲天的味道。"
+    patron "我能感觉到它们在我手中搏动。它们一定正在卖力工作，制造滚烫的精液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_0605e557:
 
-    e "Hngh。"
+    e "唔……"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_3522d32e:
 
-    "你必须咬下嘴唇才能阻止 威胁要逃离你内心的哀号。"
+    "你不得不咬住下唇，阻止即将从体内冲出的哀鸣。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c92e01b3:
 
-    "你可以感觉到你的蛋蛋从无情的折磨中抽出来。"
+    "你能清楚感觉到自己的蛋蛋在这无情的折磨下跳动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_780bac68:
 
-    patron "很好,我知道你会喜欢这个的,孩子。"
+    patron "很好。我就知道你会喜欢这个，小子。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e6c5dc5a:
 
-    "你根本不知道赞助人说什么 因为你只能感觉到 眼神很痛。"
+    "你完全不知道客人在说什么，因为你能感受到的只有刺目的疼痛。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c005d697:
 
-    patron "小龙,你何不自己找找?"
+    patron "小龙，你为什么不自己看看？"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_bbccd640:
 
-    "大棕榈从你的头后面抓起 迫使你低头观察。"
+    "那只大手抓住你的后脑，强迫你低头看去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_a40b1551:
 
-    "看到你的骨骼 完全竖起在拳击机里 你感到很震惊。"
+    "你震惊地发现自己的硬物已经在内裤里完全挺立。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_501679f0:
 
-    "顾客在你的蛋蛋上工作 你的阴茎在发抖和漏水 渴望引起注意。"
+    "客人揉弄着你的蛋蛋时，你的阴茎颤抖着渗出前液，渴望得到关注。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_7b8d6aca:
 
-    "你的拳击前门已经从预排中流出来了。"
+    "你的内裤前面已经被前液浸得湿滑。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_a33cd154:
 
-    "你不知道什么时候发生的。"
+    "你完全不知道这是什么时候发生的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_292e5244:
 
-    "你看看你的勃起的帐篷, 并意识到一些事情。"
+    "你看着自己支起的帐篷，意识到了一件事。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_db53f11e:
 
-    "并不是所有的疼痛都来自你的蛋蛋。"
+    "痛苦并不全来自你的蛋蛋。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_faf0022a:
 
-    "你的阴茎很硬 简直是伸展了你的紧身拳击。"
+    "你的阴茎硬得发疼，几乎把紧绷的内裤撑开。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c5a6b7e5:
 
-    patron "看看你有多难。"
+    patron "看你硬成这样。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b02ec828:
 
-    "你意识到痛苦的一部分 来自于事实 你巨大的骨骼 被困在紧身衣里。"
+    "你意识到，部分痛苦来自你巨大的硬物被困在越来越紧的内裤里。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_15ce24cf:
 
-    patron "你想让我帮你吗,小龙?"
+    patron "小龙，要我帮你吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_fefaae6e:
 
-    patron "至少你的老二看起来 急着求救。"
+    patron "至少你的鸡巴看起来很需要帮助。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_0e834e86:
 
-    "在那一刻,你只是想 释放你的勃起 和减轻痛苦轻微。"
+    "那一刻，你只想释放硬物，让疼痛稍微缓解一些。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_ee3aa4bc:
 
-    e "先生,拜托,我的阴茎..."
+    e "呃……先生……求你……我的阴茎……"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_9964c1e6:
 
-    "低调的顾客。"
+    "客人低沉地笑了起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1e2e2a4c:
 
-    patron "好吧 既然你这么听话..."
+    patron "好吧。既然你这么听话……"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_91ef5343:
 
-    "当然了,赞助人花他甜美的时间 他用你的拳击手腰带钩住他的食指。"
+    "当然，客人故意慢慢来。他用食指勾住你内裤的裤腰。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_ee6cabba:
 
-    "而不是用一个快速的擦拭来拉下来, 他慢慢地拖下来。"
+    "他没有一下子把内裤扯下，而是慢慢将它往下拽。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_d06823d6:
 
-    "你阴茎的阴道 摩擦你拳击手的腰带。"
+    "你的阴茎柄摩擦着内裤裤腰。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_3d4f6b07:
 
-    "压力正在增大。"
+    "压力越来越大。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_9ef12a3c:
 
-    "随着你的阴茎接近 找到自由, 它的泵越来越用力。"
+    "当你的阴茎快要重获自由时，它越来越用力地跳动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_a093cf59:
 
-    "赞助人知道如何利用这个机会 他尽量把你硬硬的骨架绑在短裤里。"
+    "客人很懂得利用这一点。他尽可能长时间地让你硬挺的鸡巴困在内裤里。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_726171e7:
 
-    patron "可惜看到这么完美的标本逃跑了,我宁可用你的性感拳击手 把它捆绑起来抓住。"
+    patron "这么完美的东西要是逃出来，真是太可惜了。我更喜欢它被你的性感内裤束缚、包裹起来。不过，说过的话就要算数。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_47a48e6c:
 
-    "一旦阴头穿透你的拳击手腰带 你的勃起就引以为豪了。"
+    "龟头冲破内裤裤腰的瞬间，你的勃起骄傲地弹了出来。前液的水珠飞向空中。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e2534c1a:
 
-    "你几乎无法控制呻吟。"
+    "你几乎压不住呻吟。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_34972e36:
 
-    "你注意到你的蛋蛋是红色的 之前的虐待。"
+    "你注意到自己的蛋蛋因之前的虐弄而红肿。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_7fa90048:
 
-    "你的骨骼抽搐 你的手不自觉地向它移动。"
+    "你的硬物一阵抽动，双手不由自主地朝它伸去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_8b41bfce:
 
-    "顾客握住你的手来阻止你。"
+    "客人抓住你的手，不让你碰。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_8de01e6d:
 
-    patron "不要太快,龙。"
+    patron "别急，小龙。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_a137644e:
 
-    "你们有一半想求怜悯 但另一半充满了期待。"
+    "你一半的意识想哀求饶命，另一半却充满期待。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1d41b58b:
 
-    "无论哪种方式,你的阴茎是最诚实的,因为它在准备中颤抖。"
+    "不管怎样，你的阴茎最诚实；它因蓄势待发而不住颤抖。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c451d33f:
 
-    "毫无警告 赞助人就打爆你那狂野的骨头。"
+    "客人毫无预兆地拍打你暴胀的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e01f520f:
 
-    "你从痛苦和欢乐中蒙蔽了眼界。"
+    "疼痛与快感交织，让你瑟缩了一下。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_045e9c60:
 
-    "就像春天,你的骨骼后退 完全勃起。"
+    "你的硬物像弹簧一样弹回完全勃起的状态。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_ac3c86a2:
 
-    "疼痛和快乐的刺拳 让你在胃部和臀部的肌肉断裂。"
+    "那一下尖锐的痛快让你绷紧腹部和臀部的肌肉。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_f3fab03b:
 
-    "赞助人对你的反应很满意。"
+    "客人对你的反应很满意。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_5052400b:
 
-    "随着你的勃起 荣耀升起 他又打倒了它。"
+    "当你的勃起达到最饱满的状态时，他又把它拍了下去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_0ac2af99:
 
-    "你的棍子在猛烈的回旋之前 摇了下来。"
+    "你的肉棒先垂下去，随后又猛地弹回上方。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b7cb90d9:
 
-    "每当它这样做,它就会得到另一笔由赞助人提供的硬踢奖赏。"
+    "每当它弹起，客人就会再赏它一记重重的拍打。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_9bba9f84:
 
-    patron "小龙,跟上我,我给你的鸡鸡 应有的注意。"
+    patron "小龙，跟上我。我会给你的鸡巴应有的关注。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_d9368158:
 
-    "顾客不断刺激你的阴茎 保证只有在你的阴茎硬和准备好了时才打它。"
+    "客人持续刺激你的阴茎，只在它硬挺、蓄势待发时才出手拍打。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_66c83fc2:
 
-    "压倒性刺激会让你的大脑发热 但你的老二似乎有自己的想法。"
+    "这过度的刺激几乎要把你的脑子烧坏，可你的鸡巴似乎有自己的意识。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_4d12e867:
 
-    "尽管受到惩罚,它总是回升 完全站高, 时机已经成熟,可以采取更多。"
+    "尽管不断挨罚，它总会重新挺立到最高点，准备承受更多。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_6ada34da:
 
     e "嗯……嗯……嗯……"
 translate schinese_rewrite Scene_Tavern_Meet_01_201cf9e3:
 
-    "你的鸡巴打到你的大腿、肚子和蛋蛋的内部。"
+    "你的鸡巴拍打着大腿内侧、肚子和蛋蛋。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_a796ba90:
 
-    "你全身都沾满了蛋白质。"
+    "前液溅得你满身都是。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_85b37b8d:
 
-    "不断的刺激会耗尽你的身体和脑筋, 然而,你的骨骼拒绝休息。"
+    "持续不断的刺激让你的身心都疲惫不堪。然而你的硬物拒绝休息。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_3fa4ae7f:
 
-    "如果有的话,你的勃起器 正在和需要释放的笔记本一起抽筋。"
+    "如果非要说的话，它正因积攒已久、急于释放的欲望而搏动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_36bb31a1:
 
-    "你的老二被注射了耐性兴奋剂 但兴奋剂的耐性永远不够长 无法引发射精。"
+    "你的鸡巴持续受到刺激，但每次刺激都不够持久，始终无法触发射精。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_54a0bf25:
 
-    patron "没时间放松了 龙。"
+    patron "小龙，现在还不是偷懒的时候。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_b077bac2:
 
-    "守护者用他的大腿把你绑起来 让你举起手来。"
+    "客人用大腿轻轻一顶，将你托了起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_68f5e821:
 
-    "你有点向前冲,你的老二已经准备好准备下一步了。"
+    "你的身体微微向前一弹，但你的鸡巴已经为接下来的一切做好准备。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_39f1a597:
 
-    "顾客用他的大手盖住你的井根。"
+    "客人用大手覆盖住你的阴茎根部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e94c9a1e:
 
-    "他用比以前轻轻的力气挤压。"
+    "他这次用比之前温柔一些的力道握紧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_230fd2a2:
 
-    "很快 你的鸡巴就会通过泄漏更多的预药 来做出友好反应。"
+    "你的鸡巴立刻作出回应，渗出更多前液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_8c1edc6e:
 
-    "你的球也弹跳。"
+    "你的蛋蛋也跟着弹动起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1aefea7a:
 
-    patron "是时候给你最后的奖赏了。"
+    patron "小龙，这是你能跟上我的最终奖励时间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_0aff7f13:
 
-    "在你知道发生什么之前 赞助人的手会拉下你的包皮 暴露你的脆弱阴茎头。"
+    "你还没反应过来，客人的手已经拉下你的包皮，露出脆弱的龟头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_4f645fad:
 
-    "老板紧紧握住你的轴 开始在你的阴茎顶部 疯狂地擦他的手掌。"
+    "客人稳稳握住你的阴茎，开始用掌心疯狂摩擦你的龟头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_7b54b32e:
 
-    "你阴茎里的快乐感应器无休止地嗡嗡叫。"
+    "你阴茎里的快感感受器不停嗡鸣。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_e55d2cb6:
 
-    "果汁聚集在你的鸡鸡身上时 你的老二重身。"
+    "随着精液在鸡巴中聚集，你的阴茎剧烈跳动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_6a509c80:
 
-    "你唯一能感觉到的就是 手的粗鲁 和你的老二最敏感的部分对着。"
+    "你只能感受到客人的手粗暴地摆弄着你鸡巴最敏感的部位。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c3d957b0:
 
-    "你没有感觉你背部弯曲 即将射精。"
+    "你感觉不到自己的后背正为即将到来的射精而弯曲。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_3dee9364:
 
-    "你听不见自己从强烈的乳房膨胀中呻吟。"
+    "你听不见自己因强烈刺激而发出的呻吟。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_f70d1d31:
 
-    "你没有感觉到血流 抽出你过度劳累的阴茎。"
+    "你感觉不到血液正在过度操劳的阴茎中奔涌。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_5658423f:
 
-    e "哦,哦,啊,啊,啊..."
+    e "哦……哦……啊……啊啊……"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c097c8ea:
 
-    "鱼卵河从你的红线上喷出来。"
+    "一股股精液从你红肿的龟头中喷涌而出。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_4e603fb3:
 
-    "你的鸡巴抽筋再多一点时间 免得它因为纯疲惫而太沉闷。"
+    "你的鸡巴又抽搐了几下，最终也因筋疲力尽而垂了下来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_4989528e:
 
-    "即便如此,你的弹珠还是继续漏出你的裂缝。"
+    "即便如此，精液仍不断从你的尿道口渗出。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c23c4b86:
 
-    "你身体的每一个部分都放松。"
+    "你身体的每一处都放松下来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_ff357228:
 
-    "Fatigue接管。"
+    "疲惫席卷而来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_bad24749:
 
-    "你可以感觉到你的感觉 关闭了。"
+    "你感觉自己的感官正在逐渐关闭。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_f309f37e:
 
-    "顾客来接你 把你放在沙发上。"
+    "客人抱起你，把你放到沙发上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_c6f9b27f:
 
-    "他擦擦他的精液 双手干, 并离开你 在后房。"
+    "他把沾满精液的双手擦干，然后离开了包间，把你一个人留在那里。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_1487124b:
 
-    "数小时后,当你醒来时,你的精液是干燥的,你是孤独的。"
+    "几小时后，你醒了过来，精液已经干了，而你独自一人。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_7ca01182:
 
-    "性爱的气味在空气中仍然很浓。"
+    "空气中依然弥漫着浓重的性爱气息。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_a1ff386a:
 
-    "赶紧收拾一下 穿上拳击鞋。"
+    "你匆匆清理一番，重新穿上内裤。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_fdc215e6:
 
-    "你从后门出去。"
+    "你离开了包间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_01_8054490c:
 
-    "那真是特别的耗尽 你感到你应得的报酬。"
+    "这次服务格外消耗体力，你觉得自己完全值得拿到这笔报酬。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_556c7193:
 
-    msg "注:此场景尚未更新。 MC的设计与当前设计不同。"
+    msg "注：此场景尚未更新。主角的设计会与当前版本不同。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_31b5b0f1:
 
-    "你走进后门。"
+    "你走进包间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_e2810258:
 
-    "这个地方令人惊讶的暗淡和安静。"
+    "这里出奇地昏暗、安静。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_44800daf:
 
@@ -2052,71 +2052,71 @@ translate schinese_rewrite Scene_Tavern_Meet_02_44800daf:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_cfa41d7f:
 
-    e "喂?"
+    e "有人吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8b2ee2f9:
 
-    "你叫唤空虚。"
+    "你朝空荡荡的房间喊了一声。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c973a084:
 
-    "你听到拐角处有人偷东西的声音。"
+    "你听见角落传来窸窸窣窣的声音。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6f104b1d:
 
-    "有趣的是,你走过去 拐角处有两个顾客。"
+    "你颇感好奇，走了过去。角落里蜷着两个客人。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d14f4c16:
 
-    "你感到困惑。"
+    "你有些困惑。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_dd03fb15:
 
-    e "你们在这里做什么?"
+    e "你们两个在这里做什么？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8d9da5f6:
 
-    patron "我们..."
+    patron "我们……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3ce22b05:
 
-    patron2 "我们为您付出了时间..."
+    patron2 "我们付钱买了你的时间……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_b0e72320:
 
-    e "你皱眉。"
+    e "你皱起眉头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_367a64d3:
 
-    e "你们俩能出来站起来吗? 这样我们才能好好谈谈?"
+    e "你们能出来站好，让我们好好谈谈吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6108a4e2:
 
-    "他们互相看对方,最后点头,从藏身的地方爬出来。"
+    "两人对视一眼，最后点了点头，爬出藏身处。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9351f59f:
 
-    "你终于看清楚了,他们还很年轻 站起来时,他们的头会伸到你的肩膀上。"
+    "你终于看清了他们的模样。他们相当年轻，站起来时，脑袋都高过你的肩膀。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_f6790fce:
 
-    "他们在你视线下变弱。"
+    "他们在你的注视下坐立不安。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_09755f57:
 
-    e "两个问题。"
+    e "我有两个问题。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_72488508:
 
-    e "第一,你怎么进来的?"
+    e "第一，你们是怎么进来的？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_78b23dde:
 
-    e "二,为什么你们两个人, 当我接到通知时...。..你们只有一个人?"
+    e "第二，我接到的通知明明说只有一个人，为什么你们有两个？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_b347976e:
 
-    patron "我们非常崇拜你 但我们付不起你我们两个的钱 所以我们就制定了这个计划。"
+    patron "我们都非常喜欢你，可我们两个人付不起钱，所以才想出了这个计划。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_53eca3b6:
 
@@ -2124,71 +2124,71 @@ translate schinese_rewrite Scene_Tavern_Meet_02_53eca3b6:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_b33d662d:
 
-    e "你还没回答我。"
+    e "你们还是没有回答我的问题。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3f8d02f6:
 
-    patron "我付钱给那个巴基普,他打我屁股 并告诉我,我得到了好手。"
+    patron "我付钱给了酒保，他拍了拍我的屁股，还告诉我自己会被好好照顾。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d4ae4701:
 
-    "当少年说,他的脸白脸红,。"
+    "年轻人说这话时，脸上泛起天真的红晕。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_19aec69d:
 
-    patron "我进来后打开了窗户。"
+    patron "我进来后，就把窗户打开了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c6ef2cea:
 
-    "他指向后房的窗户。"
+    "他指向包间后方的窗户。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_83cdc9f7:
 
-    patron2 "窗户只能从里面打开。所以当我朋友打开窗户时,我偷偷溜进去。"
+    patron2 "窗户只能从里面打开。所以我的朋友把窗户打开后，我就偷偷溜了进来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_51d11fd7:
 
-    patron2 "然后我们听到你们来了。"
+    patron2 "然后我们听见你来了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_1ee85040:
 
-    patron "我们惊慌失措,刚刚找到藏身之地。"
+    patron "我们当时慌了，只好找地方躲起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c6da6beb:
 
-    "你用你的脚,两根松软的。"
+    "你用脚点着地面。两人扭捏起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ed16293a:
 
-    e "这是违反规则的,我不会为了一价二价。"
+    e "这违反规定。我不会收一份钱干两个人的活。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_e0691ec4:
 
-    "你转身走开。"
+    "你转身离开。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_011c7329:
 
-    patron "等等,我们会让你花时间的。"
+    patron "等等。我们会让你觉得这趟不虚此行。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_88a77a29:
 
-    patron2 "我们会做任何你想做的事。"
+    patron2 "你想让我们做什么都行。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_2451fdf9:
 
-    "你停下来,带着恶毒的笑容转过身去。"
+    "你停下脚步，带着淘气的笑容转过身。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_55414e18:
 
-    e "我想要什么?"
+    e "什么都行？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3810c328:
 
-    "两点点头 羞怯和渴望。"
+    "两人羞涩又急切地点头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_31b5b0f1_1:
 
-    "你走进后门。"
+    "你走进包间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_44800daf_1:
 
@@ -2196,79 +2196,79 @@ translate schinese_rewrite Scene_Tavern_Meet_02_44800daf_1:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_cfa41d7f_1:
 
-    e "喂?"
+    e "有人吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8b2ee2f9_1:
 
-    "你叫唤空虚。"
+    "你朝空荡荡的房间喊了一声。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c973a084_1:
 
-    "你听到拐角处有人偷东西的声音。"
+    "你听见角落传来窸窸窣窣的声音。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_e5806386:
 
-    "角落里有两个顾客被卷起来。"
+    "角落里蜷着两个客人。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_1d44809a:
 
-    e "这是什么?"
+    e "这是什么？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_90014c57:
 
-    "然后,你记得你最后一次遇到类似的事情。"
+    "随后，你想起了自己上次遇到的类似情况。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_65cc9375:
 
-    e "看来有人欺骗系统的消息已经传播了。"
+    e "看来有人钻系统空子的消息已经传开了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9e57438d:
 
-    "两人以紧张和期待的眼光看着你。"
+    "两人紧张又期待地望着你。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c5f7482e:
 
-    e "你们俩想要同样的体验吗?"
+    e "你们两个想要同样的体验？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_a7f3271a:
 
-    "两个点头急切。"
+    "两人急切地点头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3410fd41:
 
-    e "好吧。脱衣。"
+    e "好。脱。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3641d0aa:
 
-    "两个人被惊呆了一会儿 好像没等你的命令似的。"
+    "两人愣了一下，仿佛没料到你会下这种命令。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d3f9ef02:
 
-    e "你想让我离开报告你吗?"
+    e "你们是想让我离开，然后举报你们吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_2ef1a0cf:
 
-    "让他们引起注意,他们从衣服上抽出来。"
+    "这句话让他们立刻回过神来。他们脱下衣服。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_0b2aff6f:
 
-    "他们的身体是青年的特征,看不到任何脂肪。"
+    "他们的身体完美体现了青春活力，身上看不到一丝赘肉。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8bad6aca:
 
-    "它们不过分肌肉,但身体紧。"
+    "他们并不算特别壮硕，但身体紧实而精悍。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_661f12c8:
 
-    "他们很害羞地脱光衣服。"
+    "彼此赤身裸体，让他们相当害羞。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_eac9dd0f:
 
-    "你只穿着拳击鞋走过去。"
+    "你只穿着内裤走过去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ad1d24ca:
 
-    "您正在接近的两股力量。"
+    "你靠近时，两人紧张地咽了口唾沫。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7763dc04:
 
@@ -2276,211 +2276,211 @@ translate schinese_rewrite Scene_Tavern_Meet_02_7763dc04:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_a78535aa:
 
-    "两个人慢慢跪下 一边一个。"
+    "两人慢慢跪下，一人一边。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6f13face:
 
-    "把你的拳击手拉下来 你的半硬鸡巴跳出来了。"
+    "你拉下内裤，半硬的鸡巴弹了出来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_717c8037:
 
-    "你看他们拿出明显的气味。"
+    "你看见他们明显咽了口唾沫。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_e70fe8d9:
 
-    e "你们俩还有很多事要做。"
+    e "你们两个还有很多活要做。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_067d9615:
 
-    patron "..."
+    patron "……好吧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_db859ad7:
 
-    e "现在,舔舔。"
+    e "现在，舔。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_93d8d139:
 
-    "他们以混乱的眼光看待你。"
+    "他们困惑地看着你。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_59f3b491:
 
-    "你看看你的老二。"
+    "你低头瞥了眼自己的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_668b7506:
 
-    e "Get it hard."
+    e "把它舔硬。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3a919973:
 
-    "他们慢慢接近。"
+    "他们慢慢靠近。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_b5bcd6dd:
 
-    "很明显他们没有经验。"
+    "显然，他们没有经验。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_239c92a8:
 
-    "其中一个闻到你的老二,他的温暖呼吸让你痒痒。"
+    "其中一人嗅了嗅你的鸡巴。他温热的呼吸让你发痒。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8c46966a:
 
-    "另一只手更主动 他用舌头轻轻地触摸你的鸡巴。"
+    "另一个更主动一些，用舌尖轻轻触碰你鸡巴的一侧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c8344b6f:
 
-    "除了叮当的效应之外,你感觉不到什么。"
+    "除了酥麻的感觉，你并没有太多感受。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_2843b19c:
 
-    "如果有什么,你注意到, 两者开始有 硬起来自己的。"
+    "真要说的话，你注意到两人也开始勃起。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_12b59bdc:
 
-    "他们的双手潜意识移动 给自己喂奶。"
+    "他们的手下意识地伸向自己的硬物，开始抚弄。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ce868808:
 
-    e "嘿!不准碰自己。"
+    e "嘿！不许摸自己。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c69de982:
 
-    "两人立即冻结,他们互相指着对方。"
+    "两人立刻僵住。他们的硬物正彼此相对。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_609e7552:
 
-    e "Get moving."
+    e "继续舔。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6d1fdabf:
 
-    "舔你老二的两招 好像在舔棒棒糖什么的。"
+    "两人凑过来舔你的鸡巴，简直像在舔棒棒糖什么的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_697b6d1f:
 
-    "尽管他们没有经验,你的鸡鸡越来越难了 在某种程度上,他们的无罪是相当迷人的。"
+    "尽管他们毫无经验，你的鸡巴还是越来越硬。某种意义上说，他们的纯真相当迷人。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_a5965dce:
 
-    "看着他们为你的鸡鸡的事而翻脸 激起了你内心的挑逗。"
+    "看着他们笨手笨脚地不知该如何对待你的鸡巴，反而勾起了你内心想要逗弄人的一面。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7e03b964:
 
-    "你决定自己处理事情。"
+    "你决定亲自接手。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_68003ae1:
 
-    e "停止,该上个人课了。"
+    e "停。现在开始单独授课。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3fdc9398:
 
-    "在他们有机会休息之前,你抓住其中的一只, 把你的鸡巴放在他面前。"
+    "两人向后退去。还没来得及休息，你就抓住其中一人，把鸡巴摆到他面前。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_74acb8b5:
 
-    "他的眼睛被你的老二所吸引 就像被它催眠一样。"
+    "他的目光自动被你的鸡巴吸引，仿佛已经被它催眠。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_309a8549:
 
-    e "我从你开始。"
+    e "先从你开始。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_73f1a5c1:
 
-    patron "好吧……"
+    patron "好……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_82b940df:
 
-    e "张开嘴吸,你知道你想吸的。"
+    e "张嘴，把它吸进去。你明明很想要。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6a6e9bbe:
 
-    "他脸红,嘴唇张开,。"
+    "他脸红了，慢慢张开嘴唇。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_f0a8a54f:
 
-    "他吞下你的鸡巴 喉咙的温暖让你的鸡巴脉搏轻微。"
+    "他含住你的鸡巴。他喉咙的温度让你的鸡巴轻轻搏动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c687194b:
 
-    "但是,他只拿走了你一半的井,就停下来了。"
+    "然而，他只含到你的阴茎一半就停了下来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_baec600f:
 
-    "他高高在上。"
+    "他发出咕噜声。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_361f5a0a:
 
-    patron "它不能再... 继续了。"
+    patron "再……进不去了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c16eb7e3:
 
-    e "是的,它可以。"
+    e "可以的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_cb58f735:
 
-    "他试图容纳你的鸡巴,你就能感觉到他的嘴里在动,但是他没有取得实际进展。"
+    "你能感觉到他的口腔内部在蠕动，试图适应你的鸡巴。然而，他实际上没有取得任何进展。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_0b52e5de:
 
-    e "让我来帮你吧。"
+    e "那我来帮你。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_95a100a0:
 
-    "你非常生气,因为他这么快就放弃了 当他答应做你要求的任何事时。"
+    "他明明答应你想做什么都行，却这么快就放弃了，这让你相当恼火。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d4c5c0a8:
 
-    "你决心让他履行诺言。"
+    "你决心让他履行自己的承诺。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d1c23913:
 
-    "你伸手往下挤他的鼻孔。"
+    "你伸手下去，捏住他的鼻孔。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_92bb74be:
 
-    patron "Hmph..."
+    patron "哼……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_f3b0f3c1:
 
-    "当他努力呼吸时,他的喉咙打开了,因为他需要它作为空气频道。"
+    "他挣扎着呼吸，喉咙为了让空气通过而张开。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_182134ed:
 
-    "利用这个机会 你把你的硬鸡巴推到他喉咙深处。"
+    "你趁机把硬挺的鸡巴更深地推入他的喉咙。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_34e8ade5:
 
-    "他咳嗽,因为你用硬的手 侵入他的嘴里 唾液从他的嘴里喷出来,滑你的老二。"
+    "你用硬物侵入他的嘴巴，他咳嗽起来；唾液从他嘴里喷出，润湿你的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3d6c226a:
 
-    e "现在,我们正在取得进展。"
+    e "现在，我们有进展了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ea33d16e:
 
-    "你低头看一看,看那少年的老二 已经漏掉了预药。"
+    "你低头看见这个年轻人的鸡巴已经渗出前液。也许这对他来说很刺激。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4b712e27:
 
-    "或者他就像在吃你的鸡巴。"
+    "又或者，他只是喜欢享用你的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_a47ade65:
 
-    patron "Hrm..."
+    patron "嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_66aacb09:
 
-    "你看见他的眼睛开始转动 你松开鼻子的捏子 他喘着气喘的气息 并掐住他嘴里的大阴茎。"
+    "你看见他的眼睛开始翻白，便松开捏住他鼻子的手。他大口喘气，嘴里含着巨大的阴茎，忍不住呛咳起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_56a250cf:
 
-    "你拉出你的鸡巴,随着它滑出来, 它弄脏了年轻人的下巴 与你的预科和唾液。"
+    "你把鸡巴抽了出来。滑出时，前液和他的唾液弄脏了年轻人的下巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_18e37ef4:
 
-    "年轻人倒在地上喘气。"
+    "年轻人倒在地上，喘息不止。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7b520b03:
 
-    e "你还好吗 你喜欢私自上课吗？"
+    e "你还好吗？喜欢你的私人课程吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c39dd23d:
 
@@ -2488,419 +2488,419 @@ translate schinese_rewrite Scene_Tavern_Meet_02_c39dd23d:
 
 translate schinese_rewrite Scene_Tavern_Meet_02_adc3e2cf:
 
-    "他点头。"
+    "他点了点头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_2925d86e:
 
-    "你转过身去找第二个年轻人。"
+    "你转向第二个年轻人。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4e588ec3:
 
-    e "你准备好上课了吗?"
+    e "准备好上课了吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4c944557:
 
-    "他点头和你的老二一起。"
+    "他对着你的鸡巴点头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7bf69446:
 
-    "他可能从看他朋友中学到东西了。"
+    "他大概从观察朋友的过程中学到了一些。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8a0e4db5:
 
-    "他轻而易举地把你一半的井都倒下。"
+    "他很轻松地咽下你一半的阴茎。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_5aef07ed:
 
-    "不过,还有一条路可以让他 拿走你的整个轴。"
+    "不过，他还需要再努力一番，才能含住你的整根阴茎。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_f8e7b7e4:
 
-    "你能感觉到他想吞下你更多的老二 但他已经到了极限。"
+    "你能感觉到他试图吞下更多鸡巴，但他已经到极限了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3650b301:
 
-    e "你想把我的鸡巴全拿走吗?"
+    e "你想把我的整根鸡巴都含进去吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_412b5a59:
 
-    "年轻人用你的老二点头 在他的嘴里。"
+    "年轻人嘴里含着你的鸡巴，点了点头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_caaa6f6f:
 
-    patron2 "嗯..."
+    patron2 "嗯……嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_860158ff:
 
-    e "我知道。准备!"
+    e "我就知道。那准备好吧！"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_72ac04b1:
 
-    "你抓住那年轻人的后脑勺 无情地把你的鸡巴塞进他的喉咙。"
+    "你抓住年轻人的后脑，毫不留情地把鸡巴往他喉咙深处推。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_22591717:
 
-    "他非自愿地窒息。"
+    "他不由自主地呛咳起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_e5c519f1:
 
-    "然而,您不会松懈。"
+    "然而，你没有停下。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4391aae0:
 
-    "即使唾液从他嘴唇的角落里流出来 你也不会停止。"
+    "即使唾液从他嘴角流出，你也没有停手。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_262fe0cd:
 
-    e "我知道你很渴望这个鸡巴。"
+    e "我知道你很想要这根鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_918f04da:
 
-    "你终于把年轻人的嘴唇 放到你的井底了。"
+    "你推搡了一阵，终于让年轻人的嘴唇抵到阴茎根部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_29093629:
 
-    "你能感觉到你的阴茎尖 击中他的喉咙后部。"
+    "你能感觉到自己的阴茎顶端撞上他的喉咙深处。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_bd1b1e4a:
 
-    "它触发了他的口腔反射 头朝你回击。"
+    "这触发了他的呕吐反射，他的脑袋顶着你的手向后推。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6157933f:
 
-    "你稍稍减轻压力 年轻人立刻靠回去呼吸。"
+    "你稍微减轻力道，年轻人立刻向后仰去呼吸。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7ef03b35:
 
-    "在那个年轻人完全逃跑之前 你恢复了控制 把你的老二踢回他的喉咙里。"
+    "年轻人还没完全逃开，你就重新夺回控制，将鸡巴再次压进他的喉咙。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_1c57530f:
 
-    "他嘴上塞了口水 但他没有那么强烈的抵抗。"
+    "他干呕起来，但反抗没有那么强烈了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_65580177:
 
-    "你为他取得的进展感到骄傲。"
+    "你为他的进步感到自豪。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8ee98fc1:
 
-    "一直到前方,你让他吞下你的鸡鸡 吞得更久,他的气息 不停地打到你鸡鸡的底部。"
+    "为了进一步提高难度，你让他含住你的鸡巴更久。他的呼吸断断续续地拂过你的鸡巴根部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c2fcf490:
 
-    "眼角的眼泪从眼泪中挤出来。"
+    "泪水从他的眼角挤了出来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7e1b2cba:
 
-    "你放手了 年轻人的头向后靠。"
+    "你松开手，年轻人的脑袋向后仰去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_66230f5b:
 
-    "再说一次,你别让他一路逃出去 当他喘了口气,你又把他的喉咙搞死。"
+    "你再次没有让他完全逃开。等他喘过气来，你又用鸡巴干他的喉咙。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_5740114d:
 
-    e "来吧。实践是完美的。"
+    e "来吧。熟能生巧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_0efe1e40:
 
-    "你重复这个练习好几次 直到年轻人慢慢习惯。"
+    "你重复了几次这个练习，直到年轻人慢慢习惯。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_12e8a972:
 
-    "最后,没有你的鼓励,他开始用嘴塞住你的鸡巴。"
+    "最后，不用你再催促，他开始主动用嘴包住你的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_de4ea688:
 
-    "他总是把游戏弄得一团糟。"
+    "他来回吸吮。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ddb99f7e:
 
-    "他开始享受它。"
+    "他开始享受其中。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d91df032:
 
-    e "我看到你开始进入它。"
+    e "看来你已经开始上手了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_b902d825:
 
-    "你的老二撞到他的喉咙了 你得承认你也开始享受这个了。"
+    "你的鸡巴撞到他喉咙深处。你不得不承认，自己也开始享受这一切。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_49866f33:
 
-    "现在,另一个年轻人已经康复了。"
+    "这时，另一个年轻人已经恢复过来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_bffde03d:
 
-    "看到他朋友吸你老二时 他拒绝被淘汰。"
+    "看到朋友正在吸你的鸡巴，他不甘落后。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c1c3b8b0:
 
-    "他站起来把他的朋友推开。"
+    "他站起身，把朋友推到一边。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_e43b85d1:
 
-    patron2 "Hey!"
+    patron2 "喂！"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9cf4391f:
 
-    "他把自己的钢铁,张开嘴。"
+    "他鼓起勇气，张大嘴巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_86cdc4b2:
 
-    "竞争的火将他火烧成火,他的技能也提高了,他强迫自己吞下你骨骼的全部。"
+    "在竞争的刺激下，他的技巧有所提升，强迫自己将你的整根硬物吞下。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8f2e16a2:
 
-    e "你们两个真的让我很难受。"
+    e "嗯……你们两个真让我硬起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4cd7a42b:
 
-    "年轻人用舌头绕着你的王冠转动,让你颤抖。"
+    "年轻人用舌头在你的龟冠周围打转，让你不禁发颤。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9f299d5e:
 
-    e "你从哪儿学的这个小把戏?"
+    e "你从哪儿学会这个小技巧的？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ee25372f:
 
-    "年轻人重复。"
+    "年轻人重复了一遍。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_d2895828:
 
-    "你的鸡巴痒痒。"
+    "你的鸡巴痒痒的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_5a50203f:
 
-    patron2 "也给我留点吧!"
+    patron2 "也给我留一点！"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_90a0f3e3:
 
-    "另一个年轻人拒绝被拒绝 机会为您服务。"
+    "另一个年轻人不肯放弃为你服务的机会。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_3ef4d457:
 
-    "在他们开始互相争斗之前你先插手。"
+    "你在他们开始争抢前插了进去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_ebf5bb71:
 
-    e "专心点,记住你来这里做什么。"
+    e "集中注意力。记住你们来这里是做什么的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_23e4673d:
 
-    "两者互相看对方,你可以看到他们眼中的挑战。"
+    "两人对视一眼，你能从他们眼中看出竞争意味。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_14ca9a48:
 
-    "就像开始一样,他们每人 处理你的鸡巴的一面。"
+    "和一开始一样，他们各自握住你鸡巴的一侧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c4fc4337:
 
-    "与开始不同,他们的信心和经验要大得多。"
+    "但和一开始不同，他们此时自信多了，也熟练多了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_eafbc4f9:
 
-    "其中一个抓住你的蛋蛋 开始按摩。"
+    "其中一人抓住你的蛋蛋，开始按摩。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_feeeaecc:
 
-    "你老二上脉动血管上其他的咬痕。"
+    "另一个人啃咬你鸡巴上搏动的血管。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_654fec1d:
 
-    e "非常好。这难道不是更好吗?"
+    e "很好。这样不是更好吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_261a37e1:
 
-    "他们点头的时候 还在继续研究你的骨骼。"
+    "他们一边继续摆弄你的硬物，一边点头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_87ffabfc:
 
-    "你正在收获他们的教育成果。他们学习得很好,你的老二在预结中滴水证明了这一点。"
+    "你正在收获调教的成果。他们学得很好，从你鸡巴不断滴落的前液就能看出来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_fbddb1bd:
 
-    "让双方更多地参与其中。"
+    "两人更加投入。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_81962058:
 
-    "其中一个在你的轴上施按摩,试图挤压它。另一个急着等待尖尖来吸干你的预留药。"
+    "一人沿着你的阴茎按摩，试图将它握紧；另一人则急切地等在顶端，准备吸尽你所有的前液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_53b667ff:
 
-    "然后,他们每人拿一个球囊进他们的温暖的嘴里,他们贪婪地舔它,使你的鸡巴发抖。"
+    "接着，他们各自把你的一只蛋蛋含进温热的嘴里，贪婪地吸吮，让你的鸡巴阵阵发麻。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8910c6fd:
 
-    "他们咬着你的阴茎头的一角,然后在热吻中接吻。"
+    "他们先啃咬你的龟头，然后彼此接吻。你在两人交换唾液时浑身颤抖。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_35978381:
 
-    "他们的唾液滴到你的老二上 保证抓住对方的唾液和你的预留。"
+    "他们的唾液滴在你的鸡巴上，还特意接住对方的唾液和你的前液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_a25c54b8:
 
-    "你骨骼的骨骼是无法休息的 因为它正在无休止地深沉。"
+    "他们轮流吸吮你的硬物。你的鸡巴被无休止地深喉，根本得不到休息。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_c41d5c46:
 
-    "你感到惊讶的是,竞争因素如何能确保不同的因素。"
+    "你惊讶于竞争竟能带来如此不同的效果。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_874a792f:
 
-    "但是,你提醒自己,他们不是互相竞争,而是为你们服务。"
+    "不过，你提醒自己，他们不是来互相竞争的，而是来伺候你的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_f6413676:
 
-    "你得提醒他们谁是老大。"
+    "你得提醒他们，谁才是老大。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_75383f00:
 
-    "两个年轻人一起工作 你慢慢达到高潮。"
+    "在两个年轻人的配合下，你慢慢走向高潮。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4d6c305f:
 
-    e "准备,它来了。"
+    e "准备好。要来了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7bf2dbbe:
 
-    "你把两个年轻人拉回来 把他们的脸放在你的鸡巴前。"
+    "你把两个年轻人往后拉，让他们的脸正对着你的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_6e4b51bd:
 
-    "你能感觉到暴风雪的到来 你的臀部凝结。"
+    "你能感觉到精液要射出来了，屁股不由自主地收紧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_53f87552:
 
-    "他们俩期待著他们俩的报酬。"
+    "两人急切地等待着奖励。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_2c5da452:
 
-    "精液从你的老二中射出 喷洒和降落在两个年轻人的脸上。"
+    "一股股精液从你的鸡巴里射出，喷在两个年轻人的脸上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_1f0f4176:
 
-    e "很好 吞下去 我不想看到一滴浪费。"
+    e "嗯……真不错。现在，吞下去。我不想看到一滴浪费。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_43e938f8:
 
-    "他们俩渴望讨好对方,他们舔掉你吐在对方脸上的精液。"
+    "两人急于取悦你，舔掉溅在彼此脸上的精液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_a3270c08:
 
-    "在他们两个之间, 他们设法吞下每一滴 你的最后一滴弹珠。"
+    "两人合力吞下了你的每一滴精液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9af573c4:
 
-    "为了控制局面,两个年轻人 分享了最后的吻, 交换你的精液在他们之间。"
+    "最后，两个年轻人接了个吻，把你的精液在彼此之间交换。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_63846308:
 
-    "你们三个都冷静下来 收拾干净 年轻人开始穿上衣服。"
+    "你们三人平静下来后，清理一番，年轻人开始穿回衣服。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_60259877:
 
-    "当青年男子穿衣服的时候,他们好像又回到自己害羞的地方。"
+    "穿好衣服后，年轻人似乎恢复了原本羞涩的样子。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_adef26de:
 
-    patron "谢谢..."
+    patron "谢、谢谢你……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_fb067466:
 
-    patron2 "对不起..."
+    patron2 "对、对不起……"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9394e341:
 
-    e "是的,你得到了你想要的,所以你该走了。"
+    e "对。好了，你们已经得到想要的东西，该离开了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_8dc520a5:
 
-    "就像咒语破碎,两个点头 然后朝门走去。"
+    "像一场魔法被打破，两人点点头，朝门口走去。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_43e73256:
 
-    e "Ahem."
+    e "咳。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_4a861564:
 
-    "两个冻结。"
+    "两人停住了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_b6c43084:
 
-    "您指向窗口。"
+    "你指向窗户。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_bae0399b:
 
-    "年轻人用尴尬的心情抓头。"
+    "年轻人尴尬地挠了挠头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_9c6e036d:
 
-    "从窗户滑出来 滑到路斯特菲尔德街上。"
+    "两人从窗户溜出去，消失在乐斯民菲尔德的街道上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_69de405e:
 
-    e "这俩人是怎么回事?"
+    e "这两个家伙到底怎么回事？不是应该有一个从门出去吗？算了，我想凯恩不会注意到的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_7f34938b:
 
-    "你向窗外看 决定把窗户锁上。"
+    "你望向窗外，决定不把窗户锁上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_02_946f5a89:
 
-    "你离开后门。"
+    "你离开包间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_556c7193:
 
-    msg "注:此场景尚未更新。 MC的设计与当前设计不同。"
+    msg "注：此场景尚未更新。主角的设计会与当前版本不同。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_405cc58d:
 
-    "你靠在后门。"
+    "你慢慢走到包间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_c12c79af:
 
-    "通常你的顾客已经在里面等你服务了。"
+    "出乎你意料的是，包间门外站着一个人。通常你的客人早已在里面等着你提供服务。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_30c53de6:
 
-    "看到您的到来, 赞助人对你笑得英俊。"
+    "看到你到来，客人朝你露出英俊的笑容。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_9a4d4578:
 
-    patron "我很高兴你愿意和我共度一些时光。"
+    patron "我很高兴你愿意和我共度一段时光。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_cde6bdcc:
 
-    "在你的脑海中,你忍不住想知道 这是否是恶作剧。"
+    "你忍不住在心里怀疑这是不是一场恶作剧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_91511f4e:
 
-    "这可不是你习惯在后房里 通常的堕落之地。"
+    "这不是你在包间里习惯的那种放纵淫乱。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_154bf36d:
 
-    "和最后一个客户的浪漫相遇 仍然让你的胃发抖。"
+    "上一位客人的浪漫邂逅仍让你的胃里泛起蝴蝶般的悸动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_bec9246c:
 
-    "通常你不会在后房 得到像这样的休息时间。"
+    "你很少能在包间里得到这样的喘息机会。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_4032e65b:
 
-    "一些温暖和温柔, 它可以得到任何龙 通过工作在后房。"
+    "一点温暖与温柔，足以让任何一条龙撑过包间里的工作。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_7f23a4eb:
 
-    e "当然,我总是很高兴服务。"
+    e "当然。我总是很乐意提供服务。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_dcfe914d:
 
-    patron "希望这对我们双方都是愉快的经历。"
+    patron "希望这会成为一段让我们都愉快的经历。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_bfc4dd9b:
 
-    "然后,顾客打开门 帮你守住门。"
+    "随后，客人打开门，为你扶住门。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_c00081b5:
 
@@ -2908,67 +2908,67 @@ translate schinese_rewrite Scene_Tavern_Meet_03_c00081b5:
 
 translate schinese_rewrite Scene_Tavern_Meet_03_9a5ec535:
 
-    "尽管情况如此,你内心还是有一种温暖和模糊的感觉。"
+    "尽管情形如此，你心里还是涌起一阵温暖、柔软的感觉。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_0bb7d17e:
 
-    "客人跟着你走进房间 你们两个进去后 门就一击就关上了。"
+    "客人跟着你进屋。你们两人都进去后，门咔哒一声关上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_99513421:
 
-    e "你今天感觉如何?"
+    e "那么……你今天想要什么？"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_58fd15ab:
 
-    patron "跳支舞来热身如何?"
+    patron "不如跳支舞热热身？"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_9d2f2d12:
 
-    e "好。"
+    e "好啊。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e52b0189:
 
-    "你拉住客户 把他放在椅子上。"
+    "你把客人拉过来，让他坐到椅子上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_4f8915af:
 
-    "你从坐在他大腿上开始 然后,你把你的大胸朝上推近他的脸上。"
+    "你先坐到他的大腿上，然后把自己宽阔的胸膛贴近客人的脸。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1350ab1a:
 
-    "他的呼吸温暖你的皮肤 让你感到痒痒。"
+    "他的呼吸温暖着你的皮肤，让你觉得痒痒的。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b8a6143d:
 
-    e "你喜欢你所看到的吗?"
+    e "你喜欢看到的这一切吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_f66ffbe3:
 
-    "顾客的脸色,你觉得很迷人。"
+    "客人的脸红了起来，你觉得这副模样相当迷人。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d734227e:
 
-    patron "绝对的。"
+    patron "当然。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e37706da:
 
-    "你做一个缓慢的身体滚动 并展示给主顾 与你的整个上身的目光。"
+    "你缓慢地扭动身体，让客人欣赏你完整的上半身。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_da5d4b22:
 
-    "你可以感觉到他的眼神 凝视着你的胸肌 肩膀和洗衣机腹部。"
+    "你能感觉到他火热的目光扫过你漂亮的胸肌、宽阔的肩膀和搓衣板般的腹肌。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_12090eb0:
 
-    patron "我可以吗?"
+    patron "我可以吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_f85b1e0a:
 
-    "顾客的手在用眼神仰望你时会发抖。"
+    "客人抬头用仰慕的目光看着你，双手微微发痒。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_6fddd354:
 
-    "你笑了。"
+    "你轻笑一声。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1fa65edc:
 
@@ -2976,51 +2976,51 @@ translate schinese_rewrite Scene_Tavern_Meet_03_1fa65edc:
 
 translate schinese_rewrite Scene_Tavern_Meet_03_46441c10:
 
-    "你抓住他的手 并引导他们到你的胸肌。"
+    "你抓住他的手，将它们引向自己的胸肌。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e46df4c3:
 
-    "他的触摸你的皮肤像风的爱抚一样轻轻。"
+    "他的触碰如微风拂过你的皮肤般轻柔。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_16bb508d:
 
-    "被如此感性地对待 是一种相当不同的经历 但你很感激。"
+    "以如此感性的方式被对待是完全不同的体验，但你很享受。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_52621e88:
 
-    "他的手握住你的下腹部 他轻轻地敲打他们。"
+    "他的双手托住你下方的胸肌，温柔地揉捏。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_9b0504b3:
 
-    e "嗯..."
+    e "嗯……真不错。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_0124711b:
 
-    "你感觉肌肉从按摩中脱落了。"
+    "按摩让你感觉肌肉逐渐放松。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_002ffa35:
 
-    "他开始抚摸你的胸部和胃 他的精细手指留下火迹。"
+    "他继续抚摸你的胸口和腹部，纤细的手指留下灼热的痕迹。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_8e838a00:
 
-    "他的手指最后会画绕着你乳头的圈子。"
+    "他的手指最后在你的乳头周围画起圆圈。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_662f42a6:
 
-    "缓慢的和性感的催促 让你的乳头僵硬。"
+    "缓慢而撩人的挑弄让你的乳头变硬。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1917acc6:
 
-    patron "这是非常好的。"
+    patron "真的很不错。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_025a6ea7:
 
-    "您点头同意。"
+    "你点头表示赞同。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_50c06fec:
 
-    "突然间,他轻轻地捏了你的乳头。"
+    "突然，他轻轻掐了掐你挺立的乳头。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_3388a208:
 
@@ -3028,11 +3028,11 @@ translate schinese_rewrite Scene_Tavern_Meet_03_3388a208:
 
 translate schinese_rewrite Scene_Tavern_Meet_03_bae6e924:
 
-    "他已使你的乳头变得灵敏。即使他的捏子很轻,它仍然会闪电穿过你的身体。"
+    "他已经把你的乳头挑弄得十分敏感，所以即使掐得很轻，也仍像电流般窜过你的身体。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b065b8e9:
 
-    "多亏他的轻触,你能感觉到他的每一个乳头 你的乳头在温柔的攻击中更硬。"
+    "多亏他轻柔的触碰，你能感受到他的每一下轻抚。你的乳头在这温和的挑逗下变得更加坚硬。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_faa7d97b:
 
@@ -3040,339 +3040,338 @@ translate schinese_rewrite Scene_Tavern_Meet_03_faa7d97b:
 
 translate schinese_rewrite Scene_Tavern_Meet_03_96822d09:
 
-    "你觉得你的老二也开始僵硬了。"
+    "你感觉自己的鸡巴也开始变硬。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ee9f554e:
 
-    "你抓住他的手腕,阻止他。"
+    "你抓住他的手腕，让他停下。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_0f2b2849:
 
-    e "我不能是唯一一个玩得开心的人 让我也帮你。"
+    e "我不能只让自己享受。也让我来帮帮你吧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b9c0b406:
 
-    "你把手伸到他衣服下面。"
+    "你把手伸进他的衣服下面。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_8b3e451e:
 
-    "你能感觉到他下面的肌肉 你很想看到他裸体。"
+    "你能感受到下面绷紧的肌肉，迫不及待想看看他赤身裸体的样子。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b26230fb:
 
-    "你帮助他从头顶上摔下来。"
+    "你帮他脱下上衣。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_2e5e8fdd:
 
-    "正如你所期望的, 这个人是建造良好的。"
+    "不出所料，这个人身材结实。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e76fadf0:
 
-    "他的身体厚厚而坚固,是不断训练的标志。"
+    "他的身体厚实而紧致，一看就是常年锻炼的结果。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1b336a21:
 
-    "没有一层衣服在路上, 你可以直接感觉到他的身体发热。"
+    "脱去衣物的阻隔后，你能直接感受到他的体温。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ab528067:
 
-    "为了奖励他 你跪下亲吻他的嘴唇。"
+    "作为奖励，你俯身吻上他的嘴唇。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_15fbb6af:
 
-    "顾客对你突然接吻感到惊讶。"
+    "客人被你突然的吻吓了一跳。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_dfcdc465:
 
-    patron "嗯?"
+    patron "嗯……？"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b06a39ab:
 
-    "他一开始被排毒,但很快,他开始以同样的方式回应。"
+    "他一开始有些不知所措，但很快也回应了你的亲吻。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_65b8a7e0:
 
-    "他亲吻你 坚定,但并不激烈。"
+    "他稳稳地回吻你，却并不激烈。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_cb3fcae0:
 
-    "你决定采取主动。"
+    "你决定主动出击。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_eaeee4d9:
 
-    "你 向 前 推 舌、 他 的 嘴 唇 因 你 的 说服、 慢慢 松开。"
+    "你伸出舌头，他在你的引导下慢慢张开双唇。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d37094b9:
 
-    e "Ah... Hrmm..."
+    e "啊……嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d5f8969d:
 
-    "你用舌头来侵入他的嘴。"
+    "你用舌头侵入他的口腔。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e7497cf9:
 
-    "他公开欢迎你的入侵。"
+    "他坦然地迎接你的侵入。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b954454a:
 
-    "他的舌头缠着你的舌头。"
+    "他的舌头与你的纠缠在一起。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_910ce76f:
 
-    "呼吸都变重了。"
+    "你们的呼吸都变得更加沉重。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d318189b:
 
-    "你们两个湿吻时 唾液被交换了。"
+    "你们交换湿吻时，唾液也彼此交融。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_cecf5c22:
 
-    "这对赞助人来说一定是很凶残的 因为你能感觉到他的老二 在他的腰包里抬头。"
+    "这对客人来说一定十分刺激，因为你能感觉到他的鸡巴在兜裆布下勃起。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_c958d1cb:
 
-    "既然你还在他的大腿上横穿他 你就能感觉到他的骨骼 与你的大腿对着。"
+    "由于你仍跨坐在他的大腿上，你能感觉到他的硬物顶着你的大腿内侧。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_02442052:
 
-    "你又一次热吻后就下手了。"
+    "又热烈地吻了一会儿后，你才抽身。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_a9c92a8a:
 
-    e "看来有人越来越兴奋了。"
+    e "嗯……看来有人兴奋起来了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_09cfde21:
 
-    patron "对不起..."
+    patron "抱歉……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_41544423:
 
-    e "别紧张,现在,让我让你感觉更舒服。"
+    e "别道歉。现在，让我让你更舒服。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_3abb4e0f:
 
-    "你站起来,你的骨骼清晰可见,他的也是。"
+    "你站起身。你的硬物清晰可见，他的也是。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_5791d67e:
 
-    "你转过身来 把你的屁股遮住他的骨头。"
+    "你转过身，将屁股悬在他的硬物上方。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ac113150:
 
-    "你知道他的眼睛被你的屁股吸引 紧紧地拉在拳击手身上。"
+    "你知道，他的目光一定被你隔着内裤绷紧的屁股吸引住了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_f5c0aeed:
 
-    e "准备好了吗?"
+    e "准备好了吗？"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_6faa50f0:
 
-    "你不必等待他的回答 你就坐在他的裤裤上。"
+    "不等他回答，你便坐到了他的胯部上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_998fc99f:
 
-    "即使你穿拳击鞋和腰带 也能感觉到他的骨折打到你的背上。"
+    "隔着你的内裤和他的兜裆布，你仍能感觉到他的硬物撞上你的臀部。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_49dd9ff0:
 
-    patron "Hrng..."
+    patron "嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_43656f2c:
 
-    "他老二的压力让他低声呻吟。"
+    "他鸡巴受到挤压，轻轻呻吟起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1a1d0ac0:
 
-    "说实话,你的老二也很硬 但你记得你还有工作要做。"
+    "说实话，你的鸡巴也硬得厉害，但你记得自己还有工作要做。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_fac10026:
 
-    "你向后倾斜 将体重压在他的身体上。"
+    "你向后靠去，将体重压在他的身体上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d1782d81:
 
-    "你们两个老二都在尖叫要放人 但你要保证他的情况更糟 让你的屁股贴近他的老二。"
+    "你们的阴茎都在渴求释放，但你故意将屁股挑逗地贴近他的鸡巴，让他更加难受。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ad7c0443:
 
-    "你动动你的屁股 周围,压力和按摩 他硬起来。"
+    "你扭动屁股，挤压、按摩他的硬物。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d725ea83:
 
-    patron "天啊..."
+    patron "哦，天啊……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_fe99bd61:
 
-    "你反复地回到他身上 你的屁股用你的每个后推力 挤压他的石头硬鸡鸡。"
+    "你一次次向后顶去；每次后撞，你的屁股都紧紧挤压着他坚硬的阴茎。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b9a0c986:
 
-    patron "嗯... 嗯... 嗯..."
+    patron "嗯……嗯……嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_7629a366:
 
-    "你加快速度,随着你不断的旋律, 顾客会无休止地受到刺激。"
+    "你加快速度。持续的扭动让客人始终受到刺激。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_5f6d0815:
 
-    "你每次撞碎后都能感觉到他的老二更猛地反弹。他的呼吸也越来越疲惫。"
+    "你能感觉到他的鸡巴每次被你撞击后都更用力地弹回；他的呼吸也越来越粗重。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_419517f7:
 
-    "你的老二也害怕要开枪。"
+    "你的鸡巴也因射精的欲望而颤抖。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d804de21:
 
-    patron "等等,我受不了了!"
+    patron "等等。我受不了了！"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_8134b9c5:
 
-    "顾客突然抓住你的手臂 让你停手。"
+    "客人突然抓住你的手臂，让你停下来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_a173c44e:
 
-    "他站起来 和他一样 他的硬鸡巴 插进你的拳击手的背部。"
+    "他站起身时，坚硬的鸡巴戳进你内裤后方。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_307b4843:
 
-    "你相信,本届会议已经结束。"
+    "你以为这次服务已经结束了。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_32a051ad:
 
-    e "你需要我..."
+    e "你需要我……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_6317cf27:
 
-    "赞助人让你转过身去 亲吻你 结束了你剩下的刑期。"
+    "客人转过你的身体，用一个深吻堵住了你接下来的话。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_4999b23d:
 
-    "他的舌头伸进你的嘴里 狂野地转来转去。"
+    "他的舌头猛地探入你的口中，疯狂地四处搅动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_0e96cf87:
 
-    "尽管你兴奋欲极,你仍然记得你还有工作要做。"
+    "尽管欲望高涨，你仍记得自己还有工作要完成。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e4ea2b79:
 
-    e "你..."
+    e "你……想……要、要……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_914a8b5c:
 
-    "你准备给他一个亲吻的好机会 来完成他。"
+    "你正准备给他打飞机让他射出来，客人却在亲吻间说道。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_a311f087:
 
-    patron "让我这次为你们服务。"
+    patron "这次让我来伺候你。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_eac497cb:
 
-    "他的手滑下你的身体 和你的拳击手。"
+    "他的手沿着你的身体向下，伸进你的内裤。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_f6bcbd47:
 
-    "他轻而易举地拉下你的拳击手,用另一只手,脱下自己的腰带。"
+    "他轻而易举地拉下你的内裤，另一只手则脱掉自己的兜裆布。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_f2688a07:
 
-    "两根硬的棍子 都跳到高处。"
+    "两根坚硬的肉棒同时挺立起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b507bca7:
 
-    "他的骨骼很静静 已经从你的屁屁里流出来了。"
+    "他的硬物青筋暴起，已经被你用屁股挑逗得渗出前液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_bfc9e696:
 
-    "你的老二比他的老二难多了。"
+    "你的鸡巴也丝毫不比他的软。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_75b4581d:
 
-    "他手里抓着你的鸡巴。"
+    "他一手抓住你的鸡巴和自己的鸡巴。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_200f25f9:
 
-    "他勃起的热量会马上送到你那里。"
+    "他的硬物传来的热度立刻传到你的鸡巴上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_25a74e37:
 
-    "他推着两个床垫在一起,开始擦。"
+    "他把两根硬物推到一起，开始摩擦。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1e0d0b93:
 
-    "当血泵穿透两只鸡鸡时, 你可以感觉到他的骨骼抽动 与你的。"
+    "血液在两根鸡巴中奔涌，你能感觉到他的硬物抵着你的鸡巴搏动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_db4f943a:
 
-    e "Hrng..."
+    e "嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_88d7a8e2:
 
-    "他的温暖的手把你硬硬的老二 压在了硬的上下。"
+    "他温热的手将你硬挺的鸡巴压在他的硬物上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ce855227:
 
-    "和他的阴茎脉搏一样 你的阴茎也会抖动。"
+    "他的鸡巴一阵阵搏动，你的鸡巴也随之颤抖。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_5734c05f:
 
-    "这两只鸡鸡的预留药 都提供润滑剂。"
+    "两根鸡巴渗出的前液为摩擦提供了润滑。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_8a10b84a:
 
-    "当他的手泵 上下下, 你的老二磨制着他的。"
+    "他的手上下套弄，你的鸡巴与他的不断摩擦。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_667162f9:
 
-    e "Oh... Hmmm..."
+    e "哦……嗯……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e54c27a7:
 
-    patron "Ergh... Ye..."
-
+    patron "呃……嗯……"
 translate schinese_rewrite Scene_Tavern_Meet_03_98044210:
 
-    "顾客的手形成一个温暖的阴锥 上面有两只鸡鸡。"
+    "客人的手形成温暖的茧，将两根鸡巴包裹其中。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_0a9d68bf:
 
-    "在小空间里,两只公鸡用巨大的摩擦互相摩擦。"
+    "在这狭小的空间里，两根鸡巴剧烈摩擦着彼此。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_20750e32:
 
-    "手的磨痕和阴茎对着阴茎的老二 使它脉冲。"
+    "手掌和鸡巴在你鸡巴上的摩擦让它不住搏动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_8ce5b5f3:
 
-    "手上下下,你的老二的王冠 亲吻了顾客的阴茎头部的一角。"
+    "手掌上下移动时，你的龟冠吻过客人龟头的顶端。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_a00901b8:
 
-    "两名成员以粘性预积额交易。"
+    "两根肉棒交换着黏稠的前液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_eff9b82e:
 
-    e "我快到了..."
+    e "我快到了……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d572849e:
 
-    patron "我也是..."
+    patron "我也是……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_b9abaa87:
 
-    "客户的驱动力越来越强。"
+    "客人越发用力地抽动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_510ba020:
 
-    "他的鸡鸡摇得像疯子一样。"
+    "他的鸡巴疯狂地颤抖。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_dc5a27cc:
 
-    "他鸡巴的紧张也让你鸡巴震动。"
+    "他鸡巴上的紧绷感也让你的鸡巴疯狂震动。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_56bb0f5e:
 
-    "你们俩就像协调一样 射精了。"
+    "仿佛配合好了一样，你们同时射精。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_101b4a4e:
 
@@ -3380,216 +3379,216 @@ translate schinese_rewrite Scene_Tavern_Meet_03_101b4a4e:
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ef9877d2:
 
-    patron "哦..."
+    patron "哦……"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_9d91c8c0:
 
-    "他的老二向空气中射出精液。"
+    "他的鸡巴向空中射出一股股精液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_55db312c:
 
-    "你的公鸡也不会落在后面 因为它也卸下热弹喷射机。"
+    "你的鸡巴也不甘落后，喷出炽热的精液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ca15723a:
 
-    "和那两个老二的位置一样近 你们两个混在一起。"
+    "精液飞溅得到处都是。两根鸡巴贴得太近，你们的精液混在了一起。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d8d6c6cf:
 
-    "顾客的手从不停止移动,从阴茎上滑下滑翔,湿透他的手。"
+    "客人的手从未停止动作。精液顺着两根阴茎流下，打湿了他的手。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_d69a657d:
 
-    "他把两只鸡鸡的温暖精液都涂上 他为你付出了一切。"
+    "他把温热的精液涂满两根阴茎，榨取你们最后的余量。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e6228a05:
 
-    "他从鸡巴里抽出每一滴精液。"
+    "他也从自己的鸡巴上挤出最后一滴精液。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_e005051b:
 
-    "你的混合液立刻形成地面上的池塘。"
+    "你们混合的体液立刻在地面上聚成一滩。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_38a004c7:
 
-    "两只公鸡都滴水 你的头靠在他头上。"
+    "两根鸡巴都在滴着精液，你把脑袋靠在他的头上。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_ba3b07fe:
 
-    e "这是别的东西。"
+    e "真是非同寻常。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_681e3962:
 
-    "你叹气。"
+    "你叹了口气。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_f24b87a6:
 
-    e "我不确定我是否应该拿走你的黄金。"
+    e "我不确定自己该不该收你的金币。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_a89433c9:
 
-    "赞助人笑。"
+    "客人轻笑起来。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_252bab88:
 
-    patron "这是你应得的 我有很多乐趣。"
+    patron "这是你应得的。我玩得很开心。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_fb676147:
 
-    "你们俩再接几个吻之后 开始清理这里。"
+    "又接了几个吻后，你们开始收拾房间。"
 
 translate schinese_rewrite Scene_Tavern_Meet_03_1e701e48:
 
-    "然后,你离开后门 与赞助人。"
+    "随后，你和客人离开了包间。"
 
 translate schinese_rewrite scene_buggbear_win_29b45cf6:
 
-    "虫熊对你大吼大叫 很明显他输了。"
+    "熊地精朝你低吼，显然很不喜欢自己输了。"
 
 translate schinese_rewrite scene_buggbear_win_a90633c3:
 
-    e "别担心大块头,你一定会喜欢我为你准备的"
+    e "别担心，大块头，不管怎样，你都会享受到我为你准备的一切~"
 
 translate schinese_rewrite scene_buggbear_win_8bcf1ab1:
 
-    "你解释怎么用你的尾巴 对付虫熊 把他从脚上打下来。"
+    "你抓住熊地精，用尾巴将它绊倒。"
 
 translate schinese_rewrite scene_buggbear_win_6fa958b7:
 
-    "虫熊掉下来 降落在望的边缘。"
+    "熊地精摔倒，落在瞭望台边缘。"
 
 translate schinese_rewrite scene_buggbear_win_d7de82cd:
 
-    "你很快爬到他上面 扭着屁股 压着他缓慢但坚定的屁股。"
+    "你迅速爬到它身上，缓慢却坚定地用胯部磨蹭它的胯部。"
 
 translate schinese_rewrite scene_buggbear_win_0507cc5d:
 
-    "他也许知道你为他准备了什么。"
+    "熊地精一边呻吟一边试图反抗，也许它已经猜到你要对它做什么。"
 
 translate schinese_rewrite scene_buggbear_win_f706503f:
 
-    e "别担心,我不会对你太粗暴的 除非你喜欢粗鲁的大块头"
+    e "别担心，我不会对你太粗暴，除非你喜欢粗暴的方式，大块头~"
 
 translate schinese_rewrite scene_buggbear_win_4b2adf80:
 
-    "你说在磨屁股之前 更快地对付虫熊的屁股 即使你的腰带挡路了。"
+    "你说着，即使兜裆布挡在中间，仍加快速度磨蹭熊地精的胯部。"
 
 translate schinese_rewrite scene_buggbear_win_2b9b4f6f:
 
-    "虫熊呻吟 和咆哮者 仍然试图让你离开他, 你包你的尾巴 紧紧围绕他 并把他钉在地板 看外面。"
+    "熊地精呻吟后又低吼，仍试图把你从身上弄下去；你用尾巴牢牢缠住它，将它钉在瞭望台地面上。"
 
 translate schinese_rewrite scene_buggbear_win_4b1c66ca:
 
-    "把你俩的腰带都脱了 你用臀部和虫熊对着干 就像你已经在他的洞里一样。"
+    "你脱下你们两人的兜裆布，用胯部磨蹭熊地精，仿佛自己已经插进它的穴里。"
 
 translate schinese_rewrite scene_buggbear_win_34652806:
 
-    "虫熊在试图从尾巴中解脱出来时 哭着叫着比咆哮还要大声 与尾巴搏斗 造成你们两个之间的摩擦更多。"
+    "熊地精一边呻吟一边低吼，试图挣脱你的尾巴；它的挣扎让你们之间的摩擦更加剧烈。"
 
 translate schinese_rewrite scene_buggbear_win_1969d453:
 
-    "你们俩大声呻吟 即使虫熊想挣脱你的尾巴 也对他来说太强大了。"
+    "你们都大声呻吟；即便熊地精想挣脱，你的尾巴也强得让它无计可施。"
 
 translate schinese_rewrite scene_buggbear_win_8c4ec6ac:
 
-    "虫熊的呼喊好像他恳求你不要从后面带走他 有一瞬间你几乎为他感到抱歉... 几乎..."
+    "熊地精呜咽着，仿佛在求你不要从后面插它；有那么一瞬间你几乎感到同情……几乎。"
 
 translate schinese_rewrite scene_buggbear_win_a759fd15:
 
-    e "对不起,我输了多少次... 这才公平,因为我赢了,你可以享受它,也可以一直挣扎。 选择权在你,大家伙,如果你们喜欢,这对我们都是容易的。"
+    e "对不起，大块头，我输了那么多次……既然这次赢了，这样才公平。你可以享受，也可以一直挣扎。选择权在你，大块头；对我们来说，你还是乖乖享受更轻松。"
 
 translate schinese_rewrite scene_buggbear_win_eab877ad:
 
-    "你向巴格伯解释,他有点小气, 显然不想接受他的损失, 但是巴格伯知道他被打败了。"
+    "你向熊地精解释；它有些噘嘴，显然不愿接受失败，但它知道自己已经输了。"
 
 translate schinese_rewrite scene_buggbear_win_87c69525:
 
-    e "没关系的大块头,我不会粗鲁 除非你想让我粗鲁。"
+    e "没关系，大块头，除非你想，否则我不会粗暴对待你。"
 
 translate schinese_rewrite scene_buggbear_win_91f36c44:
 
-    "你解释一下,在拍拍虫熊的手臂 试图安慰野兽之前。"
+    "你解释着，随后拍了拍熊地精的手臂，试图安慰这头野兽。"
 
 translate schinese_rewrite scene_buggbear_win_1046c4ae:
 
-    bb "粗糙..."
+    bb "粗暴……"
 
 translate schinese_rewrite scene_buggbear_win_230cb423:
 
-    "虫熊说,你点头 把你的公鸡和虫熊的洞排在一起。"
+    "熊地精用恳求的语气说道。你点点头，把鸡巴对准熊地精的穴。"
 
 translate schinese_rewrite scene_buggbear_win_b0d641bf:
 
-    "你大喊大叫 当你撞到野兽的前列腺时。"
+    "你把鸡巴整个推进熊地精的屁股，撞到它的前列腺时发出大声呻吟。"
 
 translate schinese_rewrite scene_buggbear_win_a837c55e:
 
-    "你没有停止 尽管巴格伯的老二很硬 告诉你他很享受这个。"
+    "熊地精大声呻吟，明显同时感受着快感与痛苦；但你没有停下，因为它硬得像石头的鸡巴说明它正在享受。"
 
 translate schinese_rewrite scene_buggbear_win_39df63c2:
 
-    "你几乎一路拉出来 之前,铲你的公鸡 回到了熊地精的屁股里面, 打击他的前列腺比以前更重。"
+    "你几乎完全抽出，然后像推土机般把鸡巴重新撞进熊地精的屁股，撞击它的前列腺，比之前更用力。"
 
 translate schinese_rewrite scene_buggbear_win_af88b819:
 
-    "虫熊大声地呻吟着与你的推力相匹配, 很明显,现在自己享受着, 最初的痛苦已经消退了。"
+    "熊地精大声呻吟，跟上你的顶撞；初始的痛苦消退后，它显然享受其中。"
 
 translate schinese_rewrite scene_buggbear_win_0cdf8cf7:
 
-    "虫熊把你鸡巴给烧了 也许他以前输给了其他虫熊 还得抢走他们的鸡巴。"
+    "操，熊地精接住你的样子真带劲；也许它之前输给过其他熊地精，也被它们的鸡巴插过。"
 
 translate schinese_rewrite scene_buggbear_win_5d3530be:
 
-    "不管情况如何,你都很感激,因为这样你就能轻松多了。"
+    "不管怎样，你都很庆幸，因为这让事情变得容易。"
 
 translate schinese_rewrite scene_buggbear_win_a96f2a00:
 
-    "毫不留情地拉出几乎所有的方式, 之前推扯你的老二 回到熊地精的屁股里面 和打击他的前列腺 更用力, 更快和粗糙 比以前 与每一次反复的推力。"
+    "你一次次几乎完全抽出，再像推土机般把鸡巴撞回熊地精的屁股，每次重复都更用力、更快、更粗暴地撞击它的前列腺。"
 
 translate schinese_rewrite scene_buggbear_win_1229f403:
 
-    "虫熊大声地呻吟着 与你的推力吻合 并且享受着自己 比他更愿意承认 即使野兽根本无法说话。"
+    "熊地精大声呻吟，跟上你的节奏；即使它几乎不会说话，这头野兽也比愿意承认的更享受。"
 
 translate schinese_rewrite scene_buggbear_win_123376d0:
 
-    "他继续被操的时候 被虫熊呻吟着 和你的推力吻合 同时你几乎一路拉出来。"
+    "熊地精一边继续被干，一边呻吟着配合你的顶撞；你几乎完全抽出。"
 
 translate schinese_rewrite scene_buggbear_win_072aece1:
 
-    "在你把老二推回熊地精屁股里前列腺之前 一再更用力 更快 更粗糙。"
+    "然后你像推土机般再次将鸡巴撞回熊地精的屁股，一次次更用力、更快、更粗暴地撞击它的前列腺；此时你已经离射精不远了。"
 
 translate schinese_rewrite scene_buggbear_win_3a059312:
 
-    "虫熊在到处射杀他的货物时大吼大叫, 到处都是他的胸部,肚子,腹部,腹部,还有一些甚至踩到野兽的下巴。"
+    "熊地精咆哮着射得到处都是，胸口、肚子、腹肌上全是精液，还有一些落在这头野兽的下巴上。"
 
 translate schinese_rewrite scene_buggbear_win_6d98594c:
 
-    "你几乎全部都拉了出来 之前,你把老二推平 回到了熊地精的屁股里面 与一个大锤的威力。"
+    "你几乎完全抽出，再像打桩机一样用力把鸡巴撞回熊地精的屁股。"
 
 translate schinese_rewrite scene_buggbear_win_12653230:
 
-    "最后一次打他的前列腺 最困难, 最快和最猛烈的推力。"
+    "最后一次撞击它的前列腺，这是迄今为止最用力、最快、最粗暴的一下。"
 
 translate schinese_rewrite scene_buggbear_win_428f92ef:
 
-    "你大吼大叫 射中了你在巴格伯的屁股深处的负载 将他的肛门墙画成珍珠白色。"
+    "你咆哮着，将精液射进熊地精的屁股深处，把它的肛壁染成珍珠般的白色。"
 
 translate schinese_rewrite scene_buggbear_win_b0043f6c:
 
-    "你们两个从高潮中下来时 都大发脾气,从虫熊的屁股里拉出来 等着他睡着。"
+    "你们都在高潮后大口喘息；你从熊地精的屁股里抽出鸡巴，等着它睡着。"
 
 translate schinese_rewrite scene_buggbear_win_5a6ff3f1:
 
-    "当他觉得你老二离他而去时,他就会大喊大叫 在所有的战斗中,他都非常的懒惰和被操。"
+    "熊地精感觉到你的鸡巴离开屁股时发出呻吟。经历战斗和被干后，它困得睁不开眼。"
 
 translate schinese_rewrite scene_buggbear_win_63b6907d:
 
-    e "照顾好自己,大个子~~~"
+    e "保重，大块头~"
 
 translate schinese_rewrite scene_buggbear_win_cc087f5b:
 
-    "虫熊睡着时 已经满足了 即使精子从屁股里流出来 并渗到下面的地上。"
+    "熊地精心满意足地睡着了，尽管精液正从它的屁股流出，滴到下方地面。"
 
 translate schinese_rewrite scene_buggbear_win_6a694bfc:
 
-    "收拾东西,穿好衣服离开。"
+    "你收拾好东西，穿上衣服离开。"

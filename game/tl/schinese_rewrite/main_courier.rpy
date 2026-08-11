@@ -3,11 +3,11 @@
 
 translate schinese_rewrite Courier_Pickup_Dialogues_7709c803:
 
-    e "嘿,塞巴斯,你有东西要寄给我吗?"
+    e "嘿，塞巴斯。你有东西要寄给我吗？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_09ac30ee:
 
-    s "是的,我没想到你今天会来。"
+    s "是的！呃，没想到今天送货的是你。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_53565546:
 
@@ -15,7 +15,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_53565546:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_0253ab16:
 
-    e "呃..."
+    e "呃……这是寄给谁的？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8a58b584:
 
@@ -23,55 +23,55 @@ translate schinese_rewrite Courier_Pickup_Dialogues_8a58b584:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_333f8626:
 
-    s "我是说,呃..."
+    s "没、没什么！我是说……那天我们去查看那个苔藓家伙时，他把这东西落在店里了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_30722395:
 
-    "你梳眉毛 怀疑从他手上拿走了金库。"
+    "你皱起眉头，满腹狐疑地从他手里接过那只小箱子。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b74f209f:
 
-    e "它并不感到太沉重。"
+    e "拿起来感觉不算太重。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9881c40b:
 
-    s "对 是为了保护 别自己打开它"
+    s "对，这是用来防护的。交给洛萨尔之前可别自己打开，这是只给他看的——"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8653c8f4:
 
-    e "O -OK。"
+    e "好、好的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_4aad5d4b:
 
-    s "是的,一个顾客以前买过东西,我要寄给他。"
+    s "是的！有位顾客不久前买了东西，我要把它寄给他。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_6ac175ed:
 
-    e "哦,是什么?"
+    e "哦？是什么？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_2726e968:
 
-    s "他需要一些用品 没什么特别的。"
+    s "只是他需要的一些补给，没什么特别的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d5ab04d0:
 
-    e "好吧,我马上到。"
+    e "好，我这就出发。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f7872bc1:
 
-    s "室友,你今天要拿走我的包裹?"
+    s "室友！今天是你替我送包裹吗？那正好，这是我欠凯恩的金币。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_e61cf92b:
 
-    s "说来话长,虽然我记不起我做了什么。"
+    s "说来话长，不过我真想不起来自己把它弄哪儿去了。我当时醉得厉害，你懂的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_0ac8f0eb:
 
-    e "是的,我明白了, Seb."
+    e "嗯，我明白，塞巴。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_7b0abc42:
 
-    s "总之,确保它到达对的地方,好吗?"
+    s "总之，记得把它送到正确的地方，好吗？我可不想他找上门来。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d198ce8c:
 
@@ -79,39 +79,39 @@ translate schinese_rewrite Courier_Pickup_Dialogues_d198ce8c:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_ee57013c:
 
-    e "哦,它们是为了什么?"
+    e "哦？这些是做什么的？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_38f7fdfe:
 
-    s "他特别的布料,你知道的,那老牛喜欢把这些花 变成一流的花。"
+    s "给他做特殊布料的，你懂的。那头老公牛喜欢把这些花加工成漂亮又柔软的东西。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_158087fa:
 
-    e "好吧,我马上拿给他。"
+    e "好吧，我马上把这些送给他。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_0c8646a3:
 
-    s "拿着这些 拿去给Gwyd 室友。"
+    s "哦，对了。把这些、把这些交给格威迪恩，室友。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8db524b8:
 
-    e "那些是什么,石头?"
+    e "这、这些是什么，石头吗？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_620c27eb:
 
-    s "石头,石头,我那天在路上捡到的,看起来怪怪的。"
+    s "石头，岩石。我前几天在路上捡到的。看起来很奇怪，对吧？我觉得它们可不是普通的石头。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_490c7f30:
 
-    e "那么,他们是什么?"
+    e "那它们到底是什么？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9ddb97bd:
 
-    s "我不知道,所以我需要Gwyd来评估它们 这次一定是金子。"
+    s "我不知道，所以才需要格威迪恩帮我鉴定。这次肯定能值钱。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b0f11576:
 
-    e "好的,塞布,我让他看看岩石。"
+    e "好、好吧，塞巴。我会让他看看这些石头。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_6e547d2c:
 
@@ -119,15 +119,15 @@ translate schinese_rewrite Courier_Pickup_Dialogues_6e547d2c:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b15f7f2a:
 
-    o "嗯,我只要你拿着这药膏 外面的男孩们又受伤了。"
+    o "嗯。我只需要你把这瓶药膏送过去，外面的伙计们又受伤了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_a2b25101:
 
-    o "确保尽快给他们,[e],我们指望你。"
+    o "一定要尽快交给他们，[e]。我们可指望你了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_307e51af:
 
-    e "哦,没问题!"
+    e "哦，没问题！"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_842cc3c7:
 
@@ -135,19 +135,19 @@ translate schinese_rewrite Courier_Pickup_Dialogues_842cc3c7:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_3768a982:
 
-    e "哦?金子也是吗?"
+    e "哦？还有金币？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_ae20fa71:
 
-    o "是的,是金衬,对布料很重要,正如他说的。"
+    o "对，是金线。正如他所说，这对布料很重要。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_158087fa_1:
 
-    e "好吧,我马上拿给他。"
+    e "好吧，我马上把这些送给他。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_4933d7f2:
 
-    o "这是给山羊酋长的 一定要尽快交给他。"
+    o "这是给山羊酋长的。小家伙，记得尽快交给他。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9979e8a3:
 
@@ -155,7 +155,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_9979e8a3:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_664ce2bc:
 
-    e "好吧,我会确保这一切 得到他安全。"
+    e "好，我会确保这些东西安全送到他手里。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b9bb8004:
 
@@ -163,15 +163,15 @@ translate schinese_rewrite Courier_Pickup_Dialogues_b9bb8004:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_fbbf42a4:
 
-    c "是的 我今天烤了太多面包 带去奥勒家?"
+    c "是的 我今天烤了太多面包 带去奥利家?"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f5335a55:
 
-    c "听说他喜欢吃小麦的食肉圈 Ol'liza正在围着他的肚子。"
+    c "听说他爱吃那种小麦蛴螬。那条老蜥蜴正好拿来填饱肚子。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_7da99214:
 
-    e "好吧,我马上去。"
+    e "好，我这就去。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_fb717a3f:
 
@@ -179,11 +179,11 @@ translate schinese_rewrite Courier_Pickup_Dialogues_fb717a3f:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d5c1bdaa:
 
-    l "是的,徒弟,我从另一场成功的冒险中回来, 有一些多余的抢掠 给老公牛。"
+    l "是，弟子。我又一次冒险成功归来，还剩下些战利品要给那头老公牛。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_7cc288aa:
 
-    l "确保那老公牛得到他的布,门徒 也许有一天,有一天,我会带你去我的下一次冒险。"
+    l "记得把他的布料交给那头老公牛，弟子。也许有一天，有一天我会带你去参加我的下一次冒险。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8025984c:
 
@@ -191,19 +191,19 @@ translate schinese_rewrite Courier_Pickup_Dialogues_8025984c:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8ca3a5d9:
 
-    r "是的,我需要你把订单交给鲁斯特福克,就在那边。"
+    r "是的，我需要你把订单送到乐斯民菲尔德人那边。就在那边。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_79bc9ac6:
 
-    e "是什么?"
+    e "是什么？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_79ba2b53:
 
-    "公牛从桌子上往上看,眼睛缩小。"
+    "公牛从桌边抬起头，双眼眯了起来。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_66ffbed4:
 
-    r "衣服,身盖。"
+    r "一件衣服，用来遮蔽身体。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_cc501f87:
 
@@ -211,27 +211,27 @@ translate schinese_rewrite Courier_Pickup_Dialogues_cc501f87:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d67250f4:
 
-    r "他们来了,只是我留下的一些零件。"
+    r "在这里。只是我手头多出来的一些零件。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f4514aa7:
 
-    r "农场里的狗又抱怨稻草人了。"
+    r "农场那边的狗又在抱怨稻草人的事了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_17401425:
 
-    e "稻草人,怎么了?"
+    e "哦？稻草人？它怎么了？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_3f77baee:
 
-    r "兰沙克被咬了... 或者有人把他打掉了。"
+    r "陆鲨咬的……或者多半是有人惹恼了它。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_3864f5eb:
 
-    e "对,我马上到。"
+    e "好、好的。我这就去。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_4ba6ecc9:
 
-    e "嘿,海莫,他们需要寄什么吗?"
+    e "嘿，海莫，大家有什么东西要寄吗？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_fc09b840:
 
@@ -239,7 +239,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_fc09b840:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_761f2882:
 
-    hm "看来是调查这座城市的事。"
+    hm "看起来像是询问城市事务的文件。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9e9a1bb1:
 
@@ -251,23 +251,23 @@ translate schinese_rewrite Courier_Pickup_Dialogues_f9a3e61a:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_42c37222:
 
-    hm "你可能知道,我们这里没有市长 所以他可能是自从山羊事件以来 最接近我们的人。"
+    hm "你大概也知道，我们这里没有市长，所以自从那次山羊事件后，他大概就是最接近市长的人了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b15fbc6f:
 
-    e "为什么不让他当市长呢?"
+    e "那为什么不直接让他当市长？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_2f25c9c2:
 
-    hm "我不知道,我听过长老们的故事 我们不再谈论上一个市长了, 市长死后他们说,所有候选人都... 神秘地死了, 以不同的方式。"
+    hm "我不知道。我听长老们讲过，大家已经不再谈论上一任市长了。他们说，那位市长死后，所有候选人都……以各种不同的方式神秘死亡。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b480cadc:
 
-    hm "所以,我们只是从来没有一个领导者 从那时起,直到山羊攻击。"
+    hm "所以从那以后，我们一直没有领袖，直到山羊发动袭击。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_19fae5c5:
 
-    e "原来如此。"
+    e "我明白了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_42acb86d:
 
@@ -283,15 +283,15 @@ translate schinese_rewrite Courier_Pickup_Dialogues_a6f9c0b1:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_f770f6af:
 
-    hm "看上去他很仰慕他 每周都有几十个这样的。"
+    hm "看起来像是他的仰慕者寄来的。每周都有几十封这样的信。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_333a619f:
 
-    hm "我觉得他拿了那些花后 把它扔了,真可惜 看看那些特别的花。"
+    hm "我觉得他收到后就随手扔到一边了，真可惜。看看那些多么特别的花。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_6c670984:
 
-    e "花呢?"
+    e "那些花呢？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9c665f67:
 
@@ -299,11 +299,11 @@ translate schinese_rewrite Courier_Pickup_Dialogues_9c665f67:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_27911aed:
 
-    hm "这是定居者在海水退去时看到的第一件事情, 并且它闪耀着蓝色, 他们说这是森林神的最后祝福。"
+    hm "水退去后，定居者看到的第一样东西就是它。它闪耀着蓝色的光芒，据说是森林之神最后的祝福。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_a487c2fc:
 
-    e "这朵花... 故事很精彩。"
+    e "这朵花……它背后的故事还真不少。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_a788d267:
 
@@ -311,7 +311,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_a788d267:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_045c2f56:
 
-    hm "如果我继续说,我怕花会枯萎 送花来,不是吗?"
+    hm "好吧，要是我继续说下去，恐怕花都要枯萎了。还是先把它们送过去吧，好吗？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_2b35a2af:
 
@@ -319,75 +319,75 @@ translate schinese_rewrite Courier_Pickup_Dialogues_2b35a2af:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d83e4cb8:
 
-    hm "很好,对花温柔点。"
+    hm "很好。小心点，别弄伤花。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_479d27c3:
 
-    hm "这儿和那里,我需要你带几个财宝和信件去山羊队。"
+    hm "这里只是几只小箱子和一些信，我要你送去山羊那边。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_161fdffb:
 
-    hm "山羊们还是很敏感 所以把他们扔进社区盒子里 山羊会照顾好它。"
+    hm "山羊对我们还是很敏感，所以把它们放进公共箱里就好，他们会让山羊来处理。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_187ab850:
 
-    e "好,我马上带他们去山羊那里。"
+    e "好，我现在就把它们送到山羊那边。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_e10bdd5a:
 
-    hm "即时开始。"
+    hm "那就上路吧。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9391e0e8:
 
-    hm "这是一只武器,从山羊身上 委托给猎人,带他们去将军那里,他知道该怎么做。"
+    hm "这是武器，山羊那边为他们的一名猎人订制的。把它送给将军，他知道该怎么处理。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_828e2b70:
 
-    hm "小心点,尽量不要在路上刺伤你的内脏。"
+    hm "小心点，路上可别让它扎进你的内脏。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_5c50c14c:
 
-    "哈伊莫拿武器给你时 却自作自受。"
+    "海莫把武器递给你时，忍不住自顾自地笑了起来。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_013c543a:
 
-    hm "哦,你见过将军吗?"
+    hm "哦，你见过将军吗？卡里？我见过他几次来问快递公告板的事。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_356e527d:
 
-    e "我做到了。有几次。"
+    e "见过，几次。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_1b8ab08d:
 
-    hm "我之前碰巧读到过 传统来自哪里 很有趣。"
+    hm "他戴着那副面具……我之前碰巧读到过相关资料，知道这个传统的由来，还挺有意思的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_51639a56:
 
-    e "面具呢?"
+    e "那面具是怎么回事？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d95fa5a0:
 
-    hm "很久以前,他们说, 有一天晚上, 每个山羊都看到漂流者 在他们的梦中。"
+    hm "据说很久很久以前，有一天夜里，每只山羊都在梦中见到了那个漂泊者。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_99bf3feb:
 
-    e "等等,谁是漂流者?"
+    e "等、等等，漂泊者是谁？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_a20d5cea:
 
-    hm "一只神秘的鹿手拿着拐杖, 他的脸被蒙蔽了。"
+    hm "一只手持手杖的神秘鹿，他的脸被遮住了，我想是这样。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_0e2d1843:
 
-    hm "他们说流浪者是神的亲戚 所以为了和流浪者交流 他们有个鹿打扮成他那样 扮成他们的巫师。"
+    hm "总之，据说漂泊者与诸神有关。为了与漂泊者沟通，他们便让一只鹿打扮成他的样子，充当萨满。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_4fd39292:
 
-    hm "面具 员工 一些鹿角 当然还有艺术自由的暗示 这一切就是从这个角度开始的。"
+    hm "一副面具、一根手杖、几支鹿角，当然还带着一点艺术加工——一切就是这样开始的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9ab91369:
 
-    hm "他们再也没见过流浪者了, 他们已经有一段时间没有传召仪式了, 但传统一直停留到现在。"
+    hm "他们再也没见过漂泊者，也有一段时间没有举行召唤仪式了，但这个传统一直延续到了今天。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_d623b12d:
 
@@ -395,19 +395,19 @@ translate schinese_rewrite Courier_Pickup_Dialogues_d623b12d:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_049b9a46:
 
-    hm "我肯定将军本人会很乐意告诉你的 如果你问他的话。"
+    hm "故事很奇怪，对吧？如果你去问将军本人，我相信他会很乐意告诉你。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_de137d2f:
 
-    e "嗯,我不确定他是否 曾经快乐过任何事情, 但是谢谢。"
+    e "呃，我不确定他什么时候会对什么事情感到高兴，不过还是谢谢你。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_1223a4a0:
 
-    e "好吧,我把它给卡里。"
+    e "好吧，那我交给卡里。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_5fbdedfb:
 
-    hm "好,小心!"
+    hm "好，保重！"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_17993868:
 
@@ -415,27 +415,27 @@ translate schinese_rewrite Courier_Pickup_Dialogues_17993868:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_ba579894:
 
-    a "给,这里,我要你把这些带去山羊那里, 做他们的桥建工程。"
+    a "给，给。我要你把这些送到山羊那边，帮他们完成修桥工程。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_cf2561cf:
 
-    e "哦,这些是很多重物!"
+    e "哦？这些东西也太重、太多了吧！"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_dceb6214:
 
-    a "是的,在投票后,我一直想着桥, 我收集了材料, 但很难由我自己来建造。"
+    a "对，投票之后我一直在想着那座桥。我已经把材料收集齐了，但靠我一个人很难把它建起来。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_23521fcc:
 
-    a "山羊们可以利用它, 我已经和他们的酋长谈过了, 他听起来相当热衷。"
+    a "山羊们用得上这些。我已经和他们的酋长谈过了，他似乎很感兴趣。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_af983b87:
 
-    e "好吧,如果不是酋长本人的话,那我就把这些带回他们的部落去。"
+    e "好家伙，居然是酋长亲自来了！那我就把这些送到你们部落去。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_4397421c:
 
-    a "谢谢,[e]!"
+    a "谢谢，[e]！"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_c064e2cb:
 
@@ -443,7 +443,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_c064e2cb:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_5df3038b:
 
-    a "在这里,炖菜的味道将惊人。"
+    a "给你，炖菜肯定会好吃得不得了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_c9b33323:
 
@@ -455,23 +455,23 @@ translate schinese_rewrite Courier_Pickup_Dialogues_e35598b9:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_8ce8e647:
 
-    a "谢谢!"
+    a "谢谢！弱不禁风的快递员。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_2f450032:
 
-    e "乔格 我听说你需要寄东西?"
+    e "乔格，我听说你有东西要寄？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_c5e1233c:
 
-    j "哦,是的,只是一些肉之类的,给你。"
+    j "哦，对。就是些肉之类的。给你。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_5a1801f2:
 
-    j "我本该自己走的 但我不完全有这个心情。"
+    j "我本来可以自己去的，但现在实在没那个心情。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_eb2eb736:
 
-    "手放在耳朵后面 他懒惰地把原料扔给你。"
+    "乔格懒洋洋地靠在干草捆上打了个哈欠。他把手放在耳后，懒散地把食材扔给你。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_22a393b0:
 
@@ -479,11 +479,11 @@ translate schinese_rewrite Courier_Pickup_Dialogues_22a393b0:
 
 translate schinese_rewrite Courier_Pickup_Dialogues_002c93dd:
 
-    e "警官,你需要送什么东西过河吗?"
+    e "警官，你有什么东西要送到河对岸吗？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_70a834b4:
 
-    gof "是的,这个"
+    gof "有，这件。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6a1e6501:
 
@@ -491,35 +491,35 @@ translate schinese_rewrite Courier_Delivery_Dialogues_6a1e6501:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b5c2ed87:
 
-    r "哪一个是游戏?"
+    r "是哪一件？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6bb4ea77:
 
-    e "这是一封给你的信。"
+    e "是一封写给你的信。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_dc6e0db1:
 
-    r "好吧 放在堆放这里吧。"
+    r "呃，好吧。放在这边那堆上就行。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_44b5802c:
 
-    "他指向房间的角落,一堆字母和包裹堆积在那里。"
+    "他指向房间角落，那里堆着一摞高高的信件和包裹。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_a6ad8026:
 
-    e "嗯,你读过吗?"
+    e "呃，你真的会看它们吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_0cca2cbe:
 
-    r "有空我会看的 如果真的紧急的话 他们会来找我的。"
+    r "有时间我会看的。如果真的很急，他们会来找我。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1939486d:
 
-    "他摇摆着。"
+    "他耸了耸肩。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_9076dd17:
 
-    r "好吧,把它给我。"
+    r "好，拿给我吧。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5dd87379:
 
@@ -527,11 +527,11 @@ translate schinese_rewrite Courier_Delivery_Dialogues_5dd87379:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6a455046:
 
-    e "一切都好吗?"
+    e "一切都还好吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_4f89a5ce:
 
-    r "是啊,只是另一个头痛 经历,虽然谢谢你的信。"
+    r "没事，只是又多了一件头疼的事要处理。不过还是谢谢你的信。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_dfec3e6d:
 
@@ -539,19 +539,19 @@ translate schinese_rewrite Courier_Delivery_Dialogues_dfec3e6d:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6c104919:
 
-    r "放在桌子上 谢谢。"
+    r "呃，好吧。放桌上就行，谢谢。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_cca5a4bb:
 
-    "雷希姆回到他的工作台, 当你把衣服放下时, 哭着叫着叫着叫着叫着叫着着叫着叫着叫着叫着叫着叫着着叫着。"
+    "雷希姆回到工作台前，你放下衣物时，他一边嘟囔。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c8c5b9a3:
 
-    e "是花和金子 看起来像是塞巴斯和奥勒为你收集的。"
+    e "是花和金子 看起来像是塞巴斯和奥利为你收集的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_8354c9f0:
 
-    r "最后,这些花的时间够长了,我马上去整理衣服。"
+    r "终于来了，这些东西来得够久的。我马上就开始做衣服。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e85a3188:
 
@@ -559,19 +559,19 @@ translate schinese_rewrite Courier_Delivery_Dialogues_e85a3188:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d4581632:
 
-    r "这些是完美的,正是我需要的 谢谢,[e]。"
+    r "这些正合适，就是我需要的。谢谢，[e]。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d71f99eb:
 
-    e "奥利, 我有快递要给你。"
+    e "奥利，我有东西要交给你。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e157aaa5:
 
-    o "哦? Kiddo,你没有..."
+    o "哦？小家伙，你不用——"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_77e7129c:
 
-    "欧利一看见你手上的面包 眼睛就睁大了。"
+    "奥利一看见你手上的面包 眼睛就睁大了。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e2377db2:
 
@@ -579,7 +579,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_e2377db2:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_23019cc7:
 
-    o "是的,我闻到酒馆的灵鸣在几英里外的芳香味 谢谢,[e]。"
+    o "是的！隔着老远我就能闻到那家酒馆炉火的香味。谢谢你，[e]。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_8c2359bb:
 
@@ -587,23 +587,23 @@ translate schinese_rewrite Courier_Delivery_Dialogues_8c2359bb:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_95061fb0:
 
-    c "哦,他欠我的黄金?"
+    c "哦，是他欠我的金币？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_efeec2a5:
 
-    e "是的,就是这里。"
+    e "嗯，给你。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_40aec4a1:
 
-    c "让我看看,让我看看..."
+    c "让我看看，让我看看……"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_061c589e:
 
-    c "谢谢 说说别在我的位置下赌注 好吗?"
+    c "对，小伙子，就是这些。谢谢你，告诉他以后别在我店里下注了，行吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1a0155a3:
 
@@ -611,19 +611,19 @@ translate schinese_rewrite Courier_Delivery_Dialogues_1a0155a3:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_31d85938:
 
-    c "太好了 把它们放进这里的炖菜里吧？"
+    c "哦！太好了！把它们放进这里的炖菜里，行不？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_0d5dd54b:
 
-    "你转过身去,一个一个地加一个的原料。甘蔗用一个螺旋桨搅拌锅,肉的香味立即充斥空气。"
+    "你转向锅子，把食材一样样加入。凯恩用长柄勺搅拌锅中汤汁，肉香立刻弥漫开来。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_36b46d2d:
 
-    c "谢谢,小伙子,我有种好预感 一会儿过来,我给你尝尝。"
+    c "谢谢，小伙子。这个一定很不错。过一会儿再来，我给你尝尝。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5a22ce97:
 
-    e "哈哈,期待它。"
+    e "哈哈，我很期待。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_cb2afed7:
 
@@ -631,11 +631,11 @@ translate schinese_rewrite Courier_Delivery_Dialogues_cb2afed7:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c9361662:
 
-    e "这是奥勒的。"
+    e "这是奥利的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c3a01726:
 
-    l "不错... 在哪里?"
+    l "不错……东西在哪儿？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_2eb92b9b:
 
@@ -647,15 +647,15 @@ translate schinese_rewrite Courier_Delivery_Dialogues_abdeb84f:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_3f9d015e:
 
-    l "这正是我需要的 [e] 这是我和那只蜥蜴保持亲切的唯一原因。"
+    l "这正是我需要的。我告诉你，[e]，要不是这件事，我才不会和那条蜥蜴好好相处。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_47fd3906:
 
-    e "很高兴听到它。"
+    e "听你这么说我就放心了。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b042d8d6:
 
-    l "你可以走了,门徒。"
+    l "你可以走了，弟子。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d682010a:
 
@@ -667,7 +667,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_c755d043:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_3db6ff3b:
 
-    e "这是你一个仰慕者寄来的 上面说你最近救了他们一命。"
+    e "是一位仰慕者寄给你的。信上说，你最近救了他的命。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5549c816:
 
@@ -675,43 +675,43 @@ translate schinese_rewrite Courier_Delivery_Dialogues_5549c816:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6f12f758:
 
-    l "我明白了..."
+    l "我明白了……"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1686b279:
 
-    l "不知道是谁 我最近救过这么多人。"
+    l "呃……我倒想知道是谁。最近我救过的人太多了。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b72aeb22:
 
-    l "也许我应该开始保存一份清单 我这周存了更多钱吗?"
+    l "也许我该列个名单。这周我又救了几个来着？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e0800a61:
 
-    l "你可以走了 门徒 也许你可以从这个..."
+    l "你现在可以走了，弟子。另外，也许你能从这位……仰慕者身上学到一两点。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e1a8d6a8:
 
-    l "哦 这是什么 我不记得有这种东西了。"
+    l "哦？这是什么？我不记得收到过这种东西。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_fd664a84:
 
-    l "谁发的?"
+    l "谁寄来的？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_f7feea81:
 
-    e "呃,塞巴斯。"
+    e "呃，塞巴斯。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_937a56c7:
 
-    l "那头狮子,他给我带了什么?"
+    l "那头狮子给我寄了什么？是为那天我遭受的羞辱道歉吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1884bc9a:
 
-    e "好吧,让我先检查一下里面有什么。"
+    e "好，让我先看看里面有什么。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_7094abb6:
 
-    l "你在做什么,徒弟?"
+    l "你、你在做什么，弟子？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b42cbf83:
 
@@ -719,11 +719,11 @@ translate schinese_rewrite Courier_Delivery_Dialogues_b42cbf83:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b9c776b2:
 
-    "一旦你打开它,一球的气球 喷出, 它的味道不 太开胃。"
+    "你一打开它，一团气流便猛地冲了出来，闻起来一点都不诱人。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5283717a:
 
-    e "Owww-"
+    e "哎哟——"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e4384382:
 
@@ -734,11 +734,11 @@ translate schinese_rewrite Courier_Delivery_Dialogues_9fe73a00:
     l "刚才那是什么鬼？"
 translate schinese_rewrite Courier_Delivery_Dialogues_055c1746:
 
-    e "我不知道 塞巴斯让我亲自交给你。"
+    e "我完全不知道……塞巴斯让我亲手交给你。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c1d2c5cb:
 
-    l "他妈的狮子,我不会忘记这个的,告诉他。"
+    l "该死的狮子，我不会忘了这笔账。告诉他。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_9de170f8:
 
@@ -746,31 +746,31 @@ translate schinese_rewrite Courier_Delivery_Dialogues_9de170f8:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_297a7a05:
 
-    l "What the f- Ugh-"
+    l "搞什么——呃——"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b7609ca5:
 
-    "你忍不住笑一笑, 卢萨的表情从惊喜变成厌恶。"
+    "看到这一幕，你忍不住笑了起来；洛萨尔的表情从惊讶变成了厌恶。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_f2735622:
 
-    l "朋友,你想杀我吗?"
+    l "弟子，你这是想杀了我吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_3f31ad72:
 
-    e "不,我对此一无所知。"
+    e "不，不是。我、我什么都不知道。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_3ad8ae3e:
 
-    l "你最好别骗我 我能闻到你的谎言 [e]。"
+    l "你最好别对我撒谎，我闻得出你的谎话，[e]。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d1b1e314:
 
-    "你吐口水。"
+    "你咽了口唾沫。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_79880372:
 
-    l "还有那头狮子 我不会忘记的 让他知道。"
+    l "还有那头狮子……我不会忘了这笔账。告诉他。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_bfb4eda1:
 
@@ -778,7 +778,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_bfb4eda1:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_abc19afd:
 
-    l "去吧,这之后我得打扫干净。"
+    l "现在走。我得把这里清理干净。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_21306c91:
 
@@ -786,23 +786,23 @@ translate schinese_rewrite Courier_Delivery_Dialogues_21306c91:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_f8a869c5:
 
-    j "哦,很好,把东西扔过来,我身体痛极了。"
+    j "哦，太好了。把那东西扔过来就行。我浑身疼得要命。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_7cf8829d:
 
-    "你把药膏扔到乔格,他很快打开药膏,涂在他的毛皮上。"
+    "你把药膏扔给乔格。他很快打开，在皮毛上抹了起来。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_55d83181:
 
-    j "好多了 谢谢 [e]。"
+    j "啊，这下好多了。谢谢，[e]。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d6f7f050:
 
-    e "没问题 乔格 放松点 好吗?"
+    e "不用谢，乔格。你慢慢来，好吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_73d1c82f:
 
-    "他给你一个轻轻的笑柄。"
+    "他轻笑了一声。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_0ef8249b:
 
@@ -810,23 +810,23 @@ translate schinese_rewrite Courier_Delivery_Dialogues_0ef8249b:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6d94b1e4:
 
-    k "这是..."
+    k "这是什么……？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_40de8b71:
 
-    "卡里从你手上抢走武器,他仔细检查,用枪对着他的手掌拍几下。"
+    "卡里从你手中接过武器，仔细检查了一番，还在掌心上轻轻敲了几下。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_cc8ac909:
 
-    k "嗯,这足够了,不管它值多少,我的人会喜欢质量的。"
+    k "嗯，是……还算合格。就这点来说，我的手下应该会很喜欢它的质量。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6edacfd5:
 
-    k "感谢您的武器匠。"
+    k "替我向你的武器匠人致谢。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_ef42ce1f:
 
-    e "Will do!"
+    e "没问题！"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_65d8c920:
 
@@ -834,7 +834,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_65d8c920:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_4e903a37:
 
-    f "谢谢你,快递员,能缓解疼痛。"
+    f "谢谢你，快递员。这东西能帮我缓解疼痛。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_902bf159:
 
@@ -842,7 +842,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_902bf159:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e8485cfb:
 
-    f "是的,自那天起,情况就更好了,但痛苦仍然存在。"
+    f "是的，毕竟从那天起情况已经好些了。不过疼痛还是没有完全消退。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_ed451fe7:
 
@@ -850,35 +850,35 @@ translate schinese_rewrite Courier_Delivery_Dialogues_ed451fe7:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_55cec0ee:
 
-    "山羊头点头。"
+    "山羊酋长点了点头。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_c36592d8:
 
-    e "吉迪安 塞巴斯说要你评估这些石头。"
+    e "格威迪恩，塞巴斯说他想让你鉴定这些石头。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_300cf072:
 
-    g "又来了,他要送多少块没用的石头来..."
+    g "又来？他到底要把多少没用的石头寄给我……"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d1845554:
 
-    "Gwydyon指向他身后满是岩石的架子 形状和大小各异。"
+    "格威迪恩指向身后的架子，架子上摆满了形状、大小各异的石头。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_2983f771:
 
-    g "请把它们放在这些上面。"
+    g "请把它们放到这些上面。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1c31b7cd:
 
-    e "嗯,你要评估他们吗?"
+    e "呃，你要给它们鉴定吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_09f78223:
 
-    g "是的,我的评估是..."
+    g "鉴定结果是……不，别让他知道。我会把这些石头保管好。就告诉他下次带些不同的石头来。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e7d7c4b0:
 
-    e "对的,会的。"
+    e "好、好的。我会的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_14f35f6a:
 
@@ -886,23 +886,23 @@ translate schinese_rewrite Courier_Delivery_Dialogues_14f35f6a:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_f8db920a:
 
-    ar "哦,好,那该死的东西 一直被那些山龟吃掉。"
+    ar "哦，太好了。那个该死的东西总让陆鲨把他的内脏都吃掉。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_5053b589:
 
-    e "他们没事吧?"
+    e "他们没事吧？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_1d154eb7:
 
-    ar "别担心,小狗狗,他们不会死,或者他们不会死。"
+    ar "别担心，小家伙。他们不会死，至少还没死。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_98b195bc:
 
-    e "哈伊莫,给你一个金库。"
+    e "海莫，这只小箱子是给你的。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_985d288d:
 
-    hm "你的意思是,对卢斯特福克来说,嗯?"
+    hm "你的意思是给乐斯民菲尔德人的，对吧？好，我会确保它送到他们手里。谢谢。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_26b79c47:
 
@@ -910,223 +910,223 @@ translate schinese_rewrite Courier_Delivery_Dialogues_26b79c47:
 
 translate schinese_rewrite Courier_Delivery_Dialogues_ee6061eb:
 
-    gof "这是什么?靠近点..."
+    gof "这是什么？拿近一点……"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_7aaeb5e4:
 
-    "你等着当军官的眼神 越来越往前倾。"
+    "你等着警官眯起眼睛，不断向前探身。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_fecea9b9:
 
-    gof "哦,是的,这是给山羊的,对。"
+    gof "哦，对，是给山羊的，对吧。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_60022afb:
 
-    gof "谢谢,孩子,我接手。"
+    gof "好吧，谢谢你，小伙子。接下来交给我吧。"
 
 translate schinese_rewrite Haimo_Dialogue_fe9738ee:
 
-    "你走到信使板上, 在那里一只羊头站立, 仰着树懒惰。"
+    "你走到快递公告板前，那里站着一只壮硕的山羊，懒洋洋地靠在树上。"
 
 translate schinese_rewrite Haimo_Dialogue_fe7780ec:
 
-    hm "把你们需要的东西放到那边去 确定收件者的名字可以辨认出来。"
+    hm "把你要寄的东西直接放到那边就行。记得把收件人的名字写清楚。"
 
 translate schinese_rewrite Haimo_Dialogue_8f2f372c:
 
-    "山羊用无聊的表情看着你 他的言语几乎一团糊涂。"
+    "山羊一脸无聊地看着你。他说话时，吐字几乎都含混在了一起。"
 
 translate schinese_rewrite Haimo_Dialogue_ef007094:
 
-    e "嘿,海莫,你是邮差,对吗?"
+    e "嘿……海莫？你就是邮政主管，对吧？奥利让我来找你。"
 
 translate schinese_rewrite Haimo_Dialogue_3773a1a1:
 
-    hm "嗯,他想要什么?"
+    hm "嗯……他想要什么？"
 
 translate schinese_rewrite Haimo_Dialogue_694ba43a:
 
-    "你给他看你包里装的快递徽章 他举眉毛,很感兴趣。"
+    "你给他看包上的快递员徽章。他扬起眉毛，饶有兴趣地看着你。"
 
 translate schinese_rewrite Haimo_Dialogue_a920de04:
 
-    hm "很高兴认识你 年轻人 信使董事会在那边。"
+    hm "哦，我明白了。你就是新来的快递员，对吧？很高兴认识你，年轻人。快递公告板就在那边。"
 
 translate schinese_rewrite Haimo_Dialogue_9ad8131a:
 
-    e "我叫[e] 很高兴认识你,海莫。"
+    e "我叫[e]。很高兴认识你，海莫。"
 
 translate schinese_rewrite Haimo_Dialogue_e3ac7072:
 
-    "邮务主任靠近你的时候 眼睛会亮起来。"
+    "邮政主管凑近查看你时，双眼亮了起来。"
 
 translate schinese_rewrite Haimo_Dialogue_fb3ba6b7:
 
-    hm "其他信差会要求你接受更多训练 但显然欧力对你有信心。"
+    hm "看起来还不错。其他快递员会让你接受更多训练，不过奥利显然很信任你。"
 
 translate schinese_rewrite Haimo_Dialogue_9cd3ad15:
 
-    hm "确保按程序行事,好吗?"
+    hm "记得遵守流程，好吗？"
 
 translate schinese_rewrite Haimo_Dialogue_025a6ea7:
 
-    "您点头同意。"
+    "你点头表示同意。"
 
 translate schinese_rewrite Haimo_Dialogue_928a8803:
 
-    hm "好,在我让你去第一次交货前,你需要知道一些事情。"
+    hm "很好。在让你去送第一件快递之前，有几件事你得知道。"
 
 translate schinese_rewrite Haimo_Dialogue_84aa1175:
 
-    hm "首先 你不能从包裹里偷任何东西 如果你偷的话 你就失业了。"
+    hm "第一，不能从包裹里偷东西。敢这么做，你就会被开除。"
 
 translate schinese_rewrite Haimo_Dialogue_658591f6:
 
-    hm "第二,在离开之前,必须重复检查收件者的姓名和地址。"
+    hm "第二，出发前一定要再三核对收件人的姓名和地址。"
 
 translate schinese_rewrite Haimo_Dialogue_680fb853:
 
-    hm "最后但同样重要的是,不要失去你的警徽 这是你的生命线。"
+    hm "最后，也是最重要的一点，别把徽章弄丢了。它是你在外面活下来的保障。"
 
 translate schinese_rewrite Haimo_Dialogue_e26918b2:
 
-    e "哦,我明白了,还有什么我应该知道的吗?"
+    e "哦，我明白了。还有什么我应该知道的吗？"
 
 translate schinese_rewrite Haimo_Dialogue_a970f207:
 
-    hm "别错过送货,你会受罚的。"
+    hm "嗯，别错过快递，否则会受罚。"
 
 translate schinese_rewrite Haimo_Dialogue_1334e6ec:
 
-    e "谁?"
+    e "谁罚？"
 
 translate schinese_rewrite Haimo_Dialogue_0e329c0d:
 
-    hm "当然是我,有些交货过后会过期 所以一定要按时完成。"
+    hm "当然是我。有些快递过一段时间就会过期，所以一定要按时送达。"
 
 translate schinese_rewrite Haimo_Dialogue_877c801f:
 
-    e "如果我稍后有问题呢?"
+    e "如果之后有问题怎么办？"
 
 translate schinese_rewrite Haimo_Dialogue_5a42a644:
 
-    hm "你可以随时来找我 随便你问我什么。"
+    hm "你随时可以回来找我。想问什么都行。"
 
 translate schinese_rewrite Haimo_Dialogue_0e6929a3:
 
-    e "如果我需要帮忙送货呢?"
+    e "如果我需要送货方面的帮助呢？"
 
 translate schinese_rewrite Haimo_Dialogue_9c980b78:
 
-    hm "随便问问,这里有很多人可以帮忙。"
+    hm "问问周围的人就好。这里有很多人愿意搭把手。"
 
 translate schinese_rewrite Haimo_Dialogue_a144760a:
 
-    e "明白了。"
+    e "知道了。"
 
 translate schinese_rewrite Haimo_Dialogue_78a0d2e6:
 
-    hm "很好,现在出去送货。"
+    hm "很好。现在出去把那些快递送完吧。"
 
 translate schinese_rewrite Haimo_Dialogue_20942e53:
 
-    e "日安,哈伊莫。"
+    e "海莫，日安。"
 
 translate schinese_rewrite Haimo_Dialogue_4de36bd6:
 
-    hm "日安,[e]。"
+    hm "日安，[e]。"
 
 translate schinese_rewrite Haimo_Normal_Talk_88ba9f8a:
 
-    hm "今天有要发送的包吗？"
+    hm "今天有包裹要寄吗？"
 
 translate schinese_rewrite Haimo_Normal_Talk_225ab54f:
 
-    e "那么,哈伊莫... 你是只山羊,是吧?"
+    e "所以，海莫……你是山羊，对吧？"
 
 translate schinese_rewrite Haimo_Normal_Talk_cfdef987:
 
-    hm "没错,那有什么问题?"
+    hm "没错。这有什么问题吗？"
 
 translate schinese_rewrite Haimo_Normal_Talk_57da6042:
 
-    e "但为什么你是山羊?"
+    e "但你为什么是山羊？"
 
 translate schinese_rewrite Haimo_Normal_Talk_5aa537cd:
 
-    "邮政局长的显眼。"
+    "邮政主管眯起了眼睛。"
 
 translate schinese_rewrite Haimo_Normal_Talk_a067bcc9:
 
-    hm "我们需要研究一下措辞,[e],它很外行。"
+    hm "我们得注意一下措辞，[e]。这听起来太离谱了。"
 
 translate schinese_rewrite Haimo_Normal_Talk_267e5c7b:
 
-    hm "听着,快递员,路斯特菲尔德是我所知道的 我和外面的山羊一点关系都没有。"
+    hm "听着，快递员。我只知道乐斯民菲尔德，也从来没和外面的山羊有过任何关系。"
 
 translate schinese_rewrite Haimo_Normal_Talk_accb25b8:
 
-    e "那么,你是在这里长大的?"
+    e "所以，你是在这里长大的？"
 
 translate schinese_rewrite Haimo_Normal_Talk_86d52ebb:
 
-    hm "是的,我从来不是西部部落的一部分 我的祖先是在这里定居的少数山羊之一。"
+    hm "对，我从来不属于西边的山羊部落。我的祖先是少数定居在这里的山羊之一。"
 
 translate schinese_rewrite Haimo_Normal_Talk_19fae5c5:
 
-    e "原来如此。"
+    e "我明白了。"
 
 translate schinese_rewrite Haimo_Normal_Talk_1816b87a:
 
-    hm "与其挖掘我的遗产 你知道我们山羊是优秀的登山者吗?"
+    hm "与其追究我的身世，你知道吗？我们山羊可是很擅长攀爬的。翻越山岭对我们来说轻而易举。"
 
 translate schinese_rewrite Haimo_Normal_Talk_4bcac639:
 
-    hm "力量来自我的爪子,你看, 粗糙的垫子是坚硬的,橡胶的, 它就像抽吸杯 在我的手指上 紧紧地伸入硬的表面。"
+    hm "你看，力量来自我的蹄子。这里粗糙的肉垫坚韧又有弹性，就像每根脚趾上都有吸盘，能牢牢抓住坚硬的表面。"
 
 translate schinese_rewrite Haimo_Normal_Talk_ff06becf:
 
-    "海莫向你展示他的爪子 他紧紧地抓住树的表面 他的脚稳稳地平衡在树的粗糙树皮上。"
+    "海莫把蹄子展示给你，他紧紧抓住树干，双脚稳稳踩在粗糙的树皮上。"
 
 translate schinese_rewrite Haimo_Normal_Talk_a9b2f429:
 
-    hm "它在任何表面都有效,说实话,即使我想,我也不会放手。"
+    hm "说真的，任何表面都能抓住。就算我想放手，也不会松开。"
 
 translate schinese_rewrite Haimo_Normal_Talk_c89003c4:
 
-    e "有一天我想试试看..."
+    e "我真想哪天试试看……"
 
 translate schinese_rewrite Haimo_Normal_Talk_6b819866:
 
-    hm "也许你可以给它一个机会 某个时候。"
+    hm "也许你以后可以试试。"
 
 translate schinese_rewrite Haimo_Normal_Talk_1d15593d:
 
-    "山羊的摇摆。"
+    "山羊耸了耸肩。"
 
 translate schinese_rewrite Haimo_Normal_Talk_735d6610:
 
-    e "与信使有什么关系?"
+    e "快递员是怎么回事？"
 
 translate schinese_rewrite Haimo_Normal_Talk_59a4a582:
 
-    hm "没想到你是那种好奇的人。"
+    hm "哦？没想到你还挺爱刨根问底。"
 
 translate schinese_rewrite Haimo_Normal_Talk_a640a54f:
 
-    hm "正如你们可能知道的 传教士们已经存在了很长时间 地形和天气可能相当艰难 野生生物可能构成威胁。"
+    hm "快递员这个行当存在很久了。你大概也知道，这里的地形和天气相当棘手，野外生物也可能带来威胁。"
 
 translate schinese_rewrite Haimo_Normal_Talk_93865c1e:
 
-    hm "信使们就从那里进来 背负着各种因素和危险 以确保重要物品能安全、及时地到达目的地。"
+    hm "这就是快递员的作用：顶着恶劣天气和重重危险，确保重要物品安全、准时抵达目的地。"
 
 translate schinese_rewrite Haimo_Normal_Talk_d0c5b12c:
 
-    e "听起来像一个艰难的工作。"
+    e "听起来可不是份轻松的工作。"
 
 translate schinese_rewrite Haimo_Normal_Talk_60972cc8:
 
-    hm "你知道吗,信使以前是特许使用费的送信员?"
+    hm "你知道吗，快递员过去是给王室传信的？直到东部山脉形成那道巨大的裂谷，我们才开始拥有自己的快递员。"
 
 translate schinese_rewrite Haimo_Normal_Talk_a7564361:
 
@@ -1134,119 +1134,119 @@ translate schinese_rewrite Haimo_Normal_Talk_a7564361:
 
 translate schinese_rewrite Haimo_Normal_Talk_5adea4fc:
 
-    hm "山的这一边,我们过去主要在河对面的村庄和山羊部落之间奔跑,他们有自己的运输车,但我们的紧急运送速度更快。"
+    hm "在山脉这一侧，我们过去主要往返于村庄和河对岸的山羊部落之间。他们有自己的运输车，但要送紧急快递，我们可比车快多了。"
 
 translate schinese_rewrite Haimo_Normal_Talk_19fae5c5_1:
 
-    e "原来如此。"
+    e "我明白了。"
 
 translate schinese_rewrite Haimo_Normal_Talk_f4d68c94:
 
-    hm "换个话题吧 在我开始讨论细节之前。"
+    hm "我是不是说得你无聊了？那我们换个话题吧，免得我开始讲那些值得你听上十个小时的细节。"
 
 translate schinese_rewrite Haimo_Normal_Talk_2a5339db:
 
-    e "邮政局长 信使的工作是什么样的?"
+    e "邮政主管，这里的快递工作是什么样的？"
 
 translate schinese_rewrite Haimo_Normal_Talk_326c4afe:
 
-    hm "通常这里的村民之间会传递信息与包裹。这是一个非常重要的角色,村子很大, 所以我们必须快速行动才能到达他们需要去的地方。"
+    hm "通常就是在附近的村民之间递送信件和包裹。这项工作至关重要，村子相当大，我们得脚下生风，才能把东西送到该去的地方。"
 
 translate schinese_rewrite Haimo_Normal_Talk_77f730db:
 
-    hm "每个人有自己的军衔, 越高的军衔, 你会得到更多的 分娩,并有更好的回报。"
+    hm "每个人都有自己的等级，等级越高，能接到的快递越多，报酬也越好。"
 
 translate schinese_rewrite Haimo_Normal_Talk_5d52baf5:
 
-    hm "当你在这里遇到新人时,你也可以从他们那里得到新的要求。"
+    hm "你在这里认识新的人后，也能从他们那里接到新的委托。"
 
 translate schinese_rewrite Haimo_Normal_Talk_7aaa3d18:
 
-    e "好吧,我需要做 任何特别的事情 升职?"
+    e "好吧，我需要做什么特别的事才能升级？"
 
 translate schinese_rewrite Haimo_Normal_Talk_2c828fca:
 
-    hm "继续送货 建立你的声誉 你越可靠 机会就越多。"
+    hm "继续送快递，建立你的声誉就行。你越可靠，得到的机会就越多。"
 
 translate schinese_rewrite Haimo_Normal_Talk_2590e56a:
 
-    hm "还有,我忘了提一下,如果你在送货时看到卢斯特福克,就来问我,剩下的交给我们处理。"
+    hm "对了，我差点忘了，如果你送的快递里有乐斯民菲尔德人要收的东西，来问我就好。剩下的交给我们。"
 
 translate schinese_rewrite Haimo_Normal_Talk_559d6f53:
 
-    e "那么,海莫,你怎么成为邮差的?"
+    e "那么，海莫，你是怎么成为邮政主管的？"
 
 translate schinese_rewrite Haimo_Normal_Talk_f031fb1d:
 
-    hm "我和你一样,从一个普通信使开始 我成了一个信使,努力工作。"
+    hm "啊，这个嘛……我一开始只是普通快递员，和你一样。我从快递员做起，一步步升了上来。"
 
 translate schinese_rewrite Haimo_Normal_Talk_0f4ea3ea:
 
-    hm "但其他人,他们可能相当具有挑战性, 我们曾经有我们公平的份额 分歧和竞争 交付以赢得我们的保留。"
+    hm "不过其他快递员可不太好应付。我们过去经常意见不合，还会争抢快递来维持生计。"
 
 translate schinese_rewrite Haimo_Normal_Talk_36c5a7ac:
 
-    hm "如你所知,我们这里没有合适的市长 所以没有人在这里处理他们的纠纷 有一天,他们中的一些人来找我 问我能否帮忙处理信使董事会。"
+    hm "你也知道，我们这里没有一位真正的市长，所以没人处理他们之间的争端。有一天，他们来找我，问我能不能帮忙管理快递公告板。"
 
 translate schinese_rewrite Haimo_Normal_Talk_fd9e3ae1:
 
-    hm "我同意了,所以他们叫我邮政局长。我想他们选中我的原因之一 是因为我从来没有参与过他们的任何争吵。"
+    hm "我答应了，于是他们就叫我邮政主管。我想，他们选我的部分原因，是因为我从没参与过他们的争吵。"
 
 translate schinese_rewrite Haimo_Normal_Talk_4a0f0021:
 
-    e "听起来你对这份工作来说是合适的。"
+    e "听起来你确实很适合这份工作。"
 
 translate schinese_rewrite Haimo_Normal_Talk_0bb5779a:
 
-    hm "我尽力了,但我不能说工作是不是很无聊。"
+    hm "我尽力而为。不过要说这工作不无聊，那可是假话。大多数时候我只是站在这里，等着快递送来。"
 
 translate schinese_rewrite Haimo_Normal_Talk_a2bd95ca:
 
-    e "我知道,你看起来很无聊 总是。"
+    e "我知道，你看起来一直都挺无聊的。"
 
 translate schinese_rewrite Haimo_Normal_Talk_2f0fc4e4:
 
-    hm "我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我,我想也许, 一段时间以来,有人 和我谈话了这么久。"
+    hm "我……我有吗？我保证，那只是我的平时表情。呃、呃……好吧，可能确实如此，已经有一阵子没人和我聊这么久了。"
 
 translate schinese_rewrite Haimo_Normal_Talk_bd789a14:
 
-    "邮差在手抓头部后部时脸红,。"
+    "邮政主管红着脸挠了挠后脑勺，尴尬地移开视线。"
 
 translate schinese_rewrite Haimo_Normal_Talk_e158d451:
 
-    hm "我很感激你花时间和我聊天,有时,也许,我想。"
+    hm "其他快递员只是查看公告板就走了，一句话都不说。有时候，嗯，我想说……谢谢你愿意花时间和我聊天。"
 
 translate schinese_rewrite Haimo_Normal_Talk_6fcb7b75:
 
-    e "够了,谢谢,海莫。"
+    e "今天先到这里，谢谢你，海莫。"
 
 translate schinese_rewrite Haimo_Normal_Talk_1b21925e:
 
-    hm "好吧 如果你还需要什么 我会在这里。"
+    hm "这么快？好、好的。你还有别的事，随时可以来找我。"
 
 translate schinese_rewrite Haimo_Normal_Talk_806687b6:
 
-    hm "如果你还有问题随时回来。"
+    hm "随时都行，有更多问题就再来。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_75d1fa9b:
 
-    "你进入山羊部落的邮递处,似乎被抛弃了一段时间, 有一些信和箱子分散在房间里的桌子周围。"
+    "你走进山羊部落的快递办公室。这里似乎已经废弃了一段时间，房间中央的桌子上散落着几封信和几个箱子。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_1d04b73c:
 
-    "桌子后面是一只老山羊,大部分是黑毛,手臂上有些白色的条纹,长满白胡子,在黄皮书上写着东西。他抬起头来,给你打电话。"
+    "桌子后面坐着一头老山羊，他的皮毛大多是黑色的，双臂上有几道白毛，下巴留着一大把白胡子，正伏在一本泛黄的书上写着什么。他抬起头，向你搭话。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_3fb309b3:
 
-    my "我能帮什么忙,[e]?"
+    my "有什么我能帮你的吗，[e]？"
 
 translate schinese_rewrite Kechioeren_Courier_Office_d46df5d7:
 
-    e "哦!你知道我的名字吗?"
+    e "哦！你知道我的名字？"
 
 translate schinese_rewrite Kechioeren_Courier_Office_ff7c5172:
 
-    my "是的,你是救我们酋长的快递山羊 对吧?"
+    my "对，你就是救了我们酋长的那位山羊快递员，对吧？你的故事我们都听说了。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_f8ea7582:
 
@@ -1254,55 +1254,54 @@ translate schinese_rewrite Kechioeren_Courier_Office_f8ea7582:
 
 translate schinese_rewrite Kechioeren_Courier_Office_790d2537:
 
-    e "嗯..."
+    e "呃……算是吧？"
 
 translate schinese_rewrite Kechioeren_Courier_Office_604cee31:
 
-    my "哦,我写到的是什么..."
+    my "哦，我刚才在写什么来着……"
 
 translate schinese_rewrite Kechioeren_Courier_Office_c882ee17:
 
-    my "是的,信使,你还是河对岸的快递员,对吧?"
+    my "没错，快递员。你还是从河对岸来的那位快递员，对吧？"
 
 translate schinese_rewrite Kechioeren_Courier_Office_e9a3d85f:
 
-    e "我是,而你是?"
+    e "我是。那你是？"
 
 translate schinese_rewrite Kechioeren_Courier_Office_ed32a1be:
 
     gof "你不必记得我的名字 我只是一只老山羊 处理来自乐斯民菲尔德的信和材料。"
-
 translate schinese_rewrite Kechioeren_Courier_Office_34499fff:
 
-    e "O -OK,警官。"
+    e "好、好的，警官。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_253116b1:
 
-    gof "办公室关闭后,你知道, 但现在孩子让我回来,哦... 至少我还有事要忙。"
+    gof "办公室在那件事之后就关门了，你懂的。不过现在那孩子叫我回来。哦……也好，至少我有事可打发时间了。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_e70fda77:
 
-    gof "如果你有其他山羊的东西,就给我吧,[e],我晚点再送出去。"
+    gof "如果你有东西要交给其他山羊，就直接给我，[e]。我之后会替你分发。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_dfcdee8a:
 
-    e "了解!"
+    e "知道了！"
 
 translate schinese_rewrite Kechioeren_Courier_Office_5bece3c5:
 
-    gof "现在,你需要什么吗?"
+    gof "那么，你需要什么？"
 
 translate schinese_rewrite Kechioeren_Courier_Office_2633c40a:
 
-    "你再次进入信使办公室, 官员躺在他的木椅上, 阅读的东西看起来像 一封信,有斜眼的眼睛。"
+    "你再次走进快递办公室，警官靠在木椅上，眯着眼睛读着一封看起来像是信的东西。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_5e4f5c51:
 
-    gof "哦,你差点吓到我了,你需要什么?"
+    gof "哦，你差点吓到我了。你这次又需要什么？"
 
 translate schinese_rewrite Kechioeren_Officer_Dialogue_76913d00:
 
-    e "已经够了,谢谢,警官。"
+    e "今天先到这里，谢谢你，警官。"
 
 translate schinese_rewrite Kechioeren_Officer_Dialogue_9d690da1:
 

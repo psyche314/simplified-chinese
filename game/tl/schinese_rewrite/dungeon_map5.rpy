@@ -1,226 +1,225 @@
 # Generated from developer English by generate_rewrite_translation.py.
 # Do not edit compiled source files to change this language package.
-
 translate schinese_rewrite Viscid_Stream_Loop_c06f64a2:
 
-    "胸针是空的。"
+    "宝箱里空空如也。"
 
 translate schinese_rewrite Viscid_Stream_Loop_cee136cf:
 
-    "你看看胸腔里面 胸腔里好像藏着一些东西。"
+    "你朝宝箱里看去，里面似乎放着一些物品。"
 
 translate schinese_rewrite Viscid_Stream_Loop_2daa9371:
 
-    "你发现了一条粘液项链 两片铁和绿膏。"
+    "你找到了一条史莱姆项链、两块铁和一份绿色药膏。"
 
 translate schinese_rewrite Viscid_Stream_Loop_f5e4bfbd:
 
-    "你看《圣经》,它似乎用完全不同的语言写成。"
+    "你看着经文，发现上面似乎写着一种完全不同的语言。"
 
 translate schinese_rewrite Viscid_Stream_Loop_e5203e12:
 
-    "你看经文,你周围似乎有一片 痛苦的光环。"
+    "你看着经文，感觉周围似乎萦绕着一股令人隐隐作痛的气息。"
 
 translate schinese_rewrite Viscid_Stream_Loop_442effc7:
 
-    "古代经典正直接与你的心灵交谈..."
+    "古老的经文正直接向你的意识诉说……"
 
 translate schinese_rewrite Viscid_Stream_Loop_45fe11ca:
 
-    "你两边都握住头 头痛就更难忍受了。"
+    "你双手抱住头部，头痛变得越来越难以忍受。"
 
 translate schinese_rewrite Viscid_Stream_Loop_e4b12a18:
 
-    "突然间, 疼痛的停止。"
+    "突然，疼痛停止了。"
 
 translate schinese_rewrite Viscid_Stream_Loop_208cec1f:
 
-    "你环顾四周,一切都变了,但你的身体感觉怪怪的。"
+    "你环顾四周，什么都没有改变，但身体感觉怪怪的。"
 
 translate schinese_rewrite Viscid_Stream_Loop_f6c64c6d:
 
-    "你再看一遍圣经... 似乎你学到了新技能。"
+    "你再次看向经文……似乎学会了一项新技能。"
 
 translate schinese_rewrite Viscid_Stream_Loop_23cfcc65:
 
-    "{i} 分辨率: 以INT.{/i} 为基础降低你的性欲"
+    "{i}决意：根据你的智力降低淫欲值。{/i}"
 
 translate schinese_rewrite Viscid_Stream_Loop_34be031e:
 
-    "你沿着维希德河的泥土路走。"
+    "你沿着黏稠溪流中的土路前进。"
 
 translate schinese_rewrite Viscid_Stream_Loop_bc68dbe3:
 
-    "你前面有一片密林 但你要挤压你的身体 穿过这里和那儿的紧身处。"
+    "前方有一片茂密的森林，但你还是挤过了沿途一处处狭窄的地方。"
 
 translate schinese_rewrite Viscid_Stream_Loop_855f77b4:
 
-    "几分钟后,你终于到了一个开放的地方。"
+    "几分钟后，你终于来到了一片开阔地。"
 
 translate schinese_rewrite Viscid_Stream_Loop_985f7add:
 
-    "你已到达另一个河边区域 也许这里有东西可以找到..."
+    "你来到了另一处河岸。也许能在这里找到些什么……"
 
 translate schinese_rewrite Viscid_Stream_Loop_549aa4af:
 
-    "门似乎被隔开。"
+    "门似乎从另一侧闩上了……"
 
 translate schinese_rewrite Viscid_Stream_Loop_f4239549:
 
-    "你把水平木板往上推,门现在没锁。"
+    "你把横木向上推起，门现在已经可以打开了。"
 
 translate schinese_rewrite Viscid_Stream_Loop_34be031e_1:
 
-    "你沿着维希德河的泥土路走。"
+    "你沿着黏稠溪流中的土路前进。"
 
 translate schinese_rewrite Viscid_Stream_Loop_bc68dbe3_1:
 
-    "你前面有一片密林 但你要挤压你的身体 穿过这里和那儿的紧身处。"
+    "前方有一片茂密的森林，但你还是挤过了沿途一处处狭窄的地方。"
 
 translate schinese_rewrite Viscid_Stream_Loop_855f77b4_1:
 
-    "几分钟后,你终于到了一个开放的地方。"
+    "几分钟后，你终于来到了一片开阔地。"
 
 translate schinese_rewrite Viscid_Stream_Loop_bf28d22e:
 
-    "你注意到你面前有一块白色的石头 看起来像... 废弃的避难所..."
+    "你注意到前方露出了一角白色岩石……看起来……像是一座废弃的圣所……"
 
 translate schinese_rewrite Viscid_Stream_Loop_f6de1db2:
 
-    "您输入粘结流。"
+    "你进入了黏稠溪流。"
 
 translate schinese_rewrite Viscid_Stream_Hefty_1cbe2585:
 
-    "大黏液开始接近你..."
+    "大型史莱姆开始向你靠近……"
 
 translate schinese_rewrite Viscid_Stream_Hefty_626b8d70:
 
-    e "F -fuck,那比绿林里大..."
+    e "妈、妈的，这比绿林里的还大……"
 
 translate schinese_rewrite Creek_Thicket_Loop_1cbe2585:
 
-    "大黏液开始接近你..."
+    "大型史莱姆开始向你靠近……"
 
 translate schinese_rewrite Creek_Thicket_Loop_626b8d70:
 
-    e "F -fuck,那比绿林里大..."
+    e "妈、妈的，这比绿林里的还大……"
 
 translate schinese_rewrite Creek_Thicket_Loop_9d24fed9:
 
-    "你偷看灌木丛里的小生物。"
+    "你探头看了看灌木丛里的小家伙。"
 
 translate schinese_rewrite Creek_Thicket_Loop_25826baa:
 
-    "似乎对你的存在很友好 尽管森林周围有粘液侵袭。"
+    "尽管森林里到处都是史莱姆，它似乎还是很友好地接纳了你的到来。"
 
 translate schinese_rewrite Creek_Thicket_Loop_dd751c66:
 
-    "似乎有点太兴奋了 看到泥土从这个区域消失。"
+    "看到这里的史莱姆消失，它似乎有些兴奋过头了。"
 
 translate schinese_rewrite Creek_Thicket_Loop_66d2bb1e:
 
-    "你到处窥探它的地方, 你知道有几件东西 它已经囤积了一段时间。"
+    "你在它的地盘四处翻找，发现它似乎已经囤了几件物品。"
 
 translate schinese_rewrite Creek_Thicket_Loop_220d6f03:
 
-    "这小家伙似乎也好奇你的东西... 也许你可以达成协议或某种..."
+    "小家伙似乎也对你的物品很好奇……也许你们可以达成某种协议……"
 
 translate schinese_rewrite Creek_Thicket_Loop_209b8f2a:
 
-    "太暗了,不能正常看到那个小家伙, 似乎太害怕不敢出来。"
+    "天太黑了，你看不清小家伙；它似乎也害怕得不敢出来。"
 
 translate schinese_rewrite Creek_Thicket_Loop_e396f693:
 
-    "只盯着巨大的粘液 可怕的..."
+    "它只是惊恐地盯着巨大的史莱姆……"
 
 translate schinese_rewrite Creek_Thicket_Loop_11bdcf7c:
 
-    "也许你需要... 击败这个地区所有的粘液 来安慰一下它。"
+    "也许你得……击败这片区域里的所有史莱姆，好让它安心一些。"
 
 translate schinese_rewrite Creek_Thicket_Loop_416421c5:
 
-    "你拿起书..."
+    "你捡起了那本书……"
 
 translate schinese_rewrite Creek_Thicket_Loop_261d3896:
 
-    booky "{i}'《暗林及其周围植物:物种、用途和危险》杂志。 \n {b}-y W-t-r A-z-var-{/b}{/i}"
+    booky "{i}《黑暗森林及其周边植物志：物种、用途与危险》。\n {b}作者：W—t-r A-z-var-{/b}{/i}"
 
 translate schinese_rewrite Creek_Thicket_Loop_9537f04c:
 
-    "当你打开书首页时你叹气。 写作质量似乎会恶化, 你越往下走越远。"
+    "你叹了口气，翻开书的第一页。看来越往下读，书中的文字质量就越差。"
 
 translate schinese_rewrite Creek_Thicket_Loop_c0e0b0a6:
 
-    "看到最后剩下的一个入口 躲在后面的封面上,你把它捡起来读出来,这有点可悲。"
+    "最后只剩下一条记录，松松垮垮地贴在封底上，看起来有些凄惨。你把它捡起来读了读。"
 
 translate schinese_rewrite Creek_Thicket_Loop_57e53225:
 
-    "文字几乎没有消退, 如此深的刻痕 是在页面的底部。"
+    "这些字几乎没有褪色——它们深深地刻在书页底部。"
 
 translate schinese_rewrite Creek_Thicket_Loop_22e1b3ff:
 
-    "认为这个人的心思大部分已经消失,。"
+    "想到这个人的大部分思绪甚至连同文字一起消失了，实在令人难过。"
 
 translate schinese_rewrite Creek_Thicket_Loop_71c20960:
 
-    "只有幸运的人 以及对他最重要的人 才能幸存下来。"
+    "只有幸运的，以及对他最重要的那些内容，才完好无损地留存了下来。"
 
 translate schinese_rewrite Creek_Thicket_Loop_d708d476:
 
-    "你现在没有可读的了 你决定把书放进你的目录里。"
+    "现在没什么可读的了。你决定把书放进物品栏。"
 
 translate schinese_rewrite Creek_Thicket_Loop_108496bf:
 
-    "也许附近还有更多碎片。"
+    "也许附近还有更多残页。"
 
 translate schinese_rewrite Creek_Thicket_Loop_17b68e12:
 
-    msg "书《医学植物学,通过?？？？？？ ” 现在存储在你的库存。"
+    msg "书籍《药用植物学，作者：???》现已存入你的物品栏。"
 
 translate schinese_rewrite Creek_Thicket_Loop_4c396871:
 
-    msg "再次阅读这本书,与目录中的书互动。"
+    msg "要再次阅读这本书，请在物品栏中与它互动。"
 
 translate schinese_rewrite Creek_Thicket_Loop_709c2a3d:
 
-    "你试图打开胸口,但无济于事..."
+    "你试着打开宝箱，但无济于事……也许附近有什么东西能打开宝箱……"
 
 translate schinese_rewrite Creek_Thicket_Loop_cccd0ff3:
 
-    "你打开胸口 在你面前, 有一个部落Spear 和三块绿色 油膏里面。"
+    "你打开面前的宝箱，里面有一把部落长矛和三份绿色药膏。"
 
 translate schinese_rewrite Creek_Thicket_Loop_7b419661:
 
-    "你把它们放在口袋里 继续往前走。"
+    "你把它们装进口袋，继续上路。"
 
 translate schinese_rewrite Creek_Thicket_Loop_637a4d96:
 
-    "你离开小溪 沿着你前面的道路。"
+    "你沿着前方的小路离开溪畔灌木林。"
 
 translate schinese_rewrite Creek_Thicket_Hefty_a1f40dc4:
 
-    "大黏液开始靠近你..."
+    "大型史莱姆开始向你靠近……"
 
 translate schinese_rewrite Creek_Thicket_Hefty_626b8d70:
 
-    e "F -fuck,那比绿林里大..."
+    e "妈、妈的，这比绿林里的还大……"
 
 translate schinese_rewrite Little_Guy_Shopping_50d6e7de:
 
-    "你拿出三块胡萝卜 生物立即满脸欢喜 冲向灌木丛的后面..."
+    "你拿出三根胡萝卜，小家伙立刻兴奋得红了脸，朝灌木丛后方跑去……"
 
 translate schinese_rewrite Little_Guy_Shopping_4290cd4e:
 
-    "几秒钟后,它就抱着两块栗子 放在你的腿前。"
+    "仅仅几秒后，它便抱着两颗栗子回来，把它们放在你的腿前。"
 
 translate schinese_rewrite Little_Guy_Shopping_b74c28c7:
 
-    "小生物贪婪地把胡萝卜拖到后面, 你可以听到从方向传来的几声怪怪声。"
+    "小家伙贪婪地把胡萝卜拖到后方，你能听到那边传来几声咯咯笑。"
 
 translate schinese_rewrite Little_Guy_Shopping_31fcde7f:
 
-    "你... 似乎没有足够的胡萝卜 来满足小动物的胃口。"
+    "你……似乎没有足够的胡萝卜满足小家伙的胃口。"
 
 translate schinese_rewrite Little_Guy_Shopping_9d5dbded:
 
-    "你向小生物挥手告别 继续你的旅程。"
+    "你向小家伙挥手道别，继续踏上旅程。"

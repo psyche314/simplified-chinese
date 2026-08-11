@@ -3,727 +3,727 @@
 
 translate schinese_rewrite scene_tavern_cardgame_lose_60a96ab2:
 
-    "你注意到紧跟在你后面的一阵特别的中风 一只象你的鼻子一样大 准备从狐狸的腰包里戳出来。"
+    "你注意到身后有个异样的凸起，大小几乎和你的吻部一样，正要从狐狸的兜裆布里顶出来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_560dee36:
 
-    gato "准备好,你可能不想受伤。"
+    gato "准备好，伙计。你可不想把自己弄伤。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ee89012c:
 
-    "鳄鱼浆,他磨碎你身边,然后把你从椅子上拉下来, 立刻吓到你。"
+    "鳄鱼咧嘴一笑，胯部在你身侧磨蹭，随后把你从椅子上抱起来，突如其来的动作让你立刻一惊。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_1fc472a2:
 
-    e "等等,你在做什么?"
+    e "等、等等，你在做什么？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_70eb7007:
 
-    gato "给我们的服务器做一个适当的准备。"
+    gato "给咱们的侍者好好热热身。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e919290c:
 
-    "他的响亮的呼声和运动吸引了 地板上其他赞助者的注意。"
+    "他粗重的哼声和动作吸引了楼层上其他客人的注意。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7cc1c19c:
 
-    "加藤抓住你的臀部 让你的体重 坐在他的胃上 在你的脚离开地面之前。"
+    "加托抓住你的腰胯；在你的双脚离地前，你的体重已经靠在他腹部。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0ae7a36a:
 
-    "你面对着另外两个常客 看着你被鳄鱼在公众面前抓住的形式。"
+    "你正面对另外两名常客，眼睁睁看着自己被鳄鱼当众抱住。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e4b7c01c:
 
-    coit "别担心,服务器,他更有资格 像你这样举起一个手巧的小伙子。"
+    coit "别担心，侍者。他抱起你这样的年轻人绰绰有余。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9e9f324f:
 
-    e "P - 人们在看, 我们不能在一个房间里做吗?"
+    e "人、人们都在看，不能去房间里做吗？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_426021cd:
 
-    fokk "为什么要浪费时间 拖着你们到一个房间 当我们可以他妈的屁股右?"
+    fokk "既然就在这儿能操你的屁股，何必浪费时间把你抱到房间里去？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_06a43bb2:
 
-    "你试图与他的魔掌抗争 但鳄鱼比你强得多 他用另一只手抓住你 让你轻而易举。"
+    "你试图挣脱他的怀抱，可鳄鱼的力气远胜于你；他轻而易举地用一只手把你制住，另一只手甚至还空着。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0597015a:
 
-    gato "你习惯这样吗?"
+    gato "你不是早就习惯了吗？光着身子端盘子送酒，没想到你还是个害羞的家伙。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_44f7c785:
 
-    "现在更多人盯着你看,加藤也不回避,他转身, 向每个人展示他的胃。"
+    "现在更多目光落在你身上。加托也毫不避讳，转过身去，把趴在他腹部的你展示给所有人看。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_6ff459f8:
 
-    "你听到一些杂音 模糊的说 注意服务器, 但它甚至不 迷住了 赞助人 关于正在发生的事情, 几乎像 业务的通常。"
+    "你听见有人含糊地议论着侍者，可客人们对眼前的场面毫不在意，仿佛一切都再寻常不过。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e9ddb709:
 
-    gato "我们的服务器刚刚输掉了一场游戏,他口袋里似乎没有足够的黄金。"
+    gato "你们继续忙你们的，伙计。咱们的侍者刚输了一局，口袋里好像没有足够的金币。按理说，他只是个端杯子的，应该已经赚得够多了。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_d65f2454:
 
-    "人群笑,一些耶稣 对你的情况 当你试图遮住你的脸 在人群面前。"
+    "人群哄笑起来；你试图在众目睽睽下遮住脸，有人还对你的处境出言嘲弄。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_2d5abc97:
 
-    coit "这让我感到很兴奋,我们开始吧?"
+    coit "这事儿弄得我浑身发痒，咱们是不是该开始了？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_92b5ac9b:
 
-    "鳄鱼点头 他用手举起你的屁股 支撑你的体重 就在牌桌上方。"
+    "鳄鱼点点头，用托在你臀下的手把你抬起，让你的身体悬在牌桌上方。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3525739d:
 
-    "你能感觉到他的手指在紧闭的入口附近 偷偷地滑动 让你喘气 忍气吞声。"
+    "你感觉他的手指偷偷滑到紧闭的后穴附近，令你倒吸一口气，身体也不由自主地收紧。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b8a341ab:
 
-    "奇怪的是,没有人似乎有问题, 你认为他们会停止 一旦有人进来, 但其他人要么是看 在好奇心或bizzare吸引,。"
+    "奇怪的是，似乎没人觉得这样有什么不对。你本以为有人插手后他们就会停下，可其他人要么好奇地围观，要么带着怪异的兴奋旁观，要么干脆把你们四个当成空气。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_48251a5e:
 
-    "你越来越担心了 加藤开始追踪他的手指 在你的蛋蛋的背部 到你的洞里。"
+    "你越来越不安。加托的手指正从你睾丸后方沿着臀沟一路描到后穴。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_87804f3c:
 
-    "呻吟从你的嘴里逃出来 导致更多的旁观者 看着你。"
+    "一声呻吟从你口中溢出，引得更多旁观者朝你看去。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_07dab5c7:
 
-    gato "看,他喜欢。"
+    gato "看吧，他很喜欢。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_749978e0:
 
-    coit "胡说八道,别让他这么快就被我们抓到了。"
+    coit "你这混账，别还没等我们真正动手，就让他这么快射出来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_4386f0a4:
 
-    "很快,加藤的手指 向上和向下徘徊 裂缝,因为你觉得 对方开始 脱去你的衣服和装备。"
+    "几乎就在下一刻，你感觉加托的手指在臀沟间上下游走；与此同时，另外两人开始剥下你的衣物和装备。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_adbf6d37:
 
-    "鳄鱼把你抬高, 在让你先掉到桌上的肚子上之前, 它会翻转一阵子, 牌和闪亮的硬币在安顿之前稍稍摇晃。"
+    "鳄鱼把你抬得更高，随后让你腹部朝下重重落在桌面上。桌子发出一阵低沉的震响，牌和闪亮的硬币都跟着轻轻跳动，才重新安定下来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_171251bc:
 
-    "你的胸口在桌子上 衣服在乱七八糟的椅子上飞来飞去 当你移动的时候 倒地上几块硬币。"
+    "你的胸口贴在桌面上。你挣动时，衣物从凌乱的椅子间飞落，几枚硬币也掉到了地上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_6a529f06:
 
-    fokk "小心点,那是M'金子。"
+    fokk "小心点，那可是我的金币。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ee03baf9:
 
-    "科伊特坐在椅子上 开始懒惰地脱下衣服 加藤跟着西装 福克从桌子上拿润滑剂。"
+    "科伊特重新坐回椅子，懒洋洋地开始脱衣服；加托也照做，而福克从桌上拿起润滑剂，跨到了你的身上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_739a79d2:
 
-    "他是一个又大又胖的狐狸 他的身体是坚固的 而且明显是酒馆的常客。"
+    "他是只高大壮硕的狐狸，身体结实，显然是常来酒馆的强健体格。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9f2f6110:
 
-    "在你甚至可以进一步调整你的位置之前 福克抓住你的下巴 挤压它直到你张开嘴。"
+    "你还没来得及进一步调整姿势，福克便抓住你的下巴，用力捏住，直到你张开嘴。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3d16d92c:
 
-    fokk "听好,小子,现在你不只是个服务器 我们的混血布,照我们的话做 一切都会像风中微风一样顺利。"
+    fokk "听好了，小子。现在你不只是个侍者，而是我们的精液抹布。照我们说的做，一切都会像风一样顺利。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0d6b41d3:
 
-    "另外两个笑着,当他抬起你的头 进一步抬起你的头, 只是足够让你的眼睛相遇 当他高举你。"
+    "另外两人发出笑声；福克把你的头抬得更高，刚好让你与他四目相对，而他高大的身躯笼罩在你上方。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_76038f71:
 
-    e "有一些硬币... 在我下面。"
+    e "我、我身下还有些硬币……"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_d532d0fc:
 
-    fokk "Nuh -uh. Cum raw不说话."
+    fokk "才不。精液抹布不会说话。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3ca17b2f:
 
-    "狐狸拿着你的嘴,他甚至不放过你的头 让你不舒服,因为他脱下裤子。"
+    "狐狸撑开你的嘴，甚至没有松开按住你头的手；他脱下裤子时，你只能难受地保持着这个姿势。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_aae6d002:
 
-    "再过几秒钟,你就会被他那厚厚而长的老二所欢迎 被他内裤的乌鸦压扁。"
+    "短短几秒后，他粗长的肉棒便从内裤里弹出，砰的一声落在你的吻部上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_473621ab:
 
-    "你可以看到脸红了, 和热 从他的老二发出的热 奇怪地令人着迷。"
+    "近距离看去，龟头涨得通红；肉棒散出的热气竟让你有些着迷。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f04d09fe:
 
-    "你的眼睛越宽越好 将它装进你嘴里的想法 让你的心跳比以往更快。"
+    "你瞪大双眼；一想到要把它塞进嘴里，你的思绪便比以往任何时候都转得更快。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_4529e3ef:
 
-    "人群的喘息, 与一些低声低调 并指着你, 谁坐在坐在 狐狸成员下面。"
+    "人群发出一阵惊呼，有人窃窃私语，还指着坐在狐狸阳具正下方的你。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b2b51637:
 
-    patron "{size=30}他是不是我刚才看到的服务器... 他怎么会变成这样? {/size}"
+    patron "{size=30}他不是我刚才见过的侍者吗……怎么会变成这样？{/size}"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3806d464:
 
-    patron2 "{size=30}I知道服务器第一次为我服务时是个变态 看看他有多喜欢被他们操{/size}"
+    patron2 "{size=30}我第一次让他服务时就知道这侍者是个变态。看他被人操得这么爽就知道了。{/size}"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_1efb654f:
 
-    "你脸红得要命 听别人的声音 让你觉得很尴尬。"
+    "你满脸通红，听着另外两名常客的声音，羞耻感几乎让你无地自容。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_03161297:
 
-    "Fokk用自己的润滑剂把它遮盖好几次,因为他的阴茎现在正在发光。"
+    "福克来回撸了几下，在肉棒上抹满自己的润滑液，阳具此刻泛着湿亮的光泽。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_90bb78b2:
 
-    "它越来越接近令人不适, 你的嘴被逼大了, 暴露了你的渴望舌头, 伸出手来尝尝他的鸡鸡。"
+    "它越来越近，你的嘴被迫张得更大，伸出的舌头仿佛在渴望品尝他的肉棒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_aa2bb27f:
 
-    fokk "对,这个荡妇越来越饥渴了 让我们看看那张嘴能做什么。"
+    fokk "没错，这个荡妇已经发情了。让我看看那张嘴能做到什么程度。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0ad7910b:
 
-    "Fokk用舌头扇他的老二几下 你觉得你甚至可以尝到他的漏水预药 因为它在舌头上流淌。"
+    "福克把肉棒在你的舌头上拍了几下；你甚至尝到了从顶端渗出的前液，感觉它一滴滴落在舌面上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_5b3c196b:
 
-    gato "看看,最后我们的服务器 只不过是个破布,对吧?"
+    gato "瞧瞧，咱们的侍者到头来不过是块精液抹布，对吧？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_89a8e245:
 
-    e "A -argh.haar..."
+    e "啊、啊……哈啊……"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ae490aaf:
 
-    "福克的手张开你的嘴 你发出的唯一声音 就是绝望的呻吟。"
+    "福克的手撑着你的嘴，弄得你只能发出绝望的呻吟。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b07a171a:
 
-    coit "不知道他的洞会是什么感觉, 难道不是每个人都想看看吗?"
+    coit "真想知道他的后穴是什么滋味，大家难道不都想看看吗？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8c818b17:
 
-    "你环顾四周, 人群中有几个热切的点头, 甚至更响亮的杂音, 甚至附近桌子上的一群人也转过头来盯着桌子上的现场看。"
+    "你偷偷环顾四周。人群里有几个人迫不及待地点头，议论声也更大了；连附近桌边那群人都转过头，盯着桌上的场面。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ace688a1:
 
-    gato "你们先和他走,我去拿啤酒和啤酒。"
+    gato "你们先慢慢享用他，我去给咱们拿些麦酒和啤酒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9fab9bdc:
 
-    "加藤狠狠地扇你的屁股 下楼前在科伊特眨眼。"
+    "加托狠狠拍了下你的屁股，朝科伊特眨了眨眼，随后下楼去了。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8f854334:
 
-    "土狼似乎突然变得更活跃了 在你感觉一对手摸你的屁股之前 抽出几枚硬币来创造空间。"
+    "郊狼突然变得更加活跃，拨开几枚硬币腾出空间。紧接着，你感觉到一双手在揉捏你的屁股。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e02582d8:
 
-    e "G -garrrgh!"
+    e "呃啊——！"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7f07fabb:
 
-    "你的内脏肌肉本能收缩 允许Coit紧紧抓住你的屁股 挤压他手上的软肌肉。"
+    "你的臀肌本能地收紧，让科伊特抓住你的屁股，在手中挤压那柔软的肌肉。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_94b3a18f:
 
-    "你唯一能想到的,是,你屁股被自由探索, 多么尴尬, 而且站在前面的是另一对手 握住你的嘴,一个大公鸡 越来越近了。"
+    "你脑中唯一的念头是：自己的屁股正被人肆意探索，而前面又有一双手按着你的嘴，一根巨大的肉棒离你越来越近——这该有多么丢人。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ce5e8938:
 
-    "毫不提及,所有这些都是在公开场合展示的,你跪在桌子上,任由他们毫不尊重地对待你。每个人都盯着你,就像看一眼的景象一样。"
+    "更别提这一切还在众目睽睽之下发生。你跪在桌面上，任由他们毫无尊重地摆弄；所有人都像在观赏一场表演似的盯着你。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_5e9acf23:
 
-    "服务酒馆是一个很好的工作 你挣钱, 但是,这是不是服务, 你怎么能向自己解释 你基本上出卖了自己的身体 来偿还信用卡债务。"
+    "在酒馆当侍者本是你赚钱的好工作，可现在这根本算不上服务。你该如何向自己解释：为了偿还牌债，你竟然把自己的身体卖了出去。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_dcd99bf9:
 
-    "手摸你的私人地方 就在这间酒馆里 一只破烂的家突然觉得..."
+    "想到这里，你不安地扭动起来。可如今你正身处其中：在这间酒馆里，私处被一双双手肆意抚摸；这个曾经熟悉的地方，突然变得如此……陌生。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_522cc9fe:
 
-    "但没时间思考你的处境了 你被拖回了这里 当土狼在你身后抬起双腿时。"
+    "但你没时间继续思考处境。身后的郊狼抬起你的双腿，你又被拖回这场闹剧之中。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e2879428:
 
-    "后面有湿滑的东西 后面有黏糊糊的纹身 触摸起来几乎很酷。"
+    "有什么湿滑的东西从身后探来，摸上去黏糊糊的，触感甚至有些冰凉。和福克一样，他把肉棒在你的大腿上拍了几下。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8a37f165:
 
-    "土狼在大腿的背面滑过手, 感受温暖柔软的毛皮和光滑的皮肤, 躺在下面。"
+    "郊狼的手掠过你大腿后侧，感受着温暖柔软的毛发，以及下面光滑的皮肤。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8d53b253:
 
-    "不等了,科伊特就把他的手指塞到你的腿上 一种感官的握住你的位置 当他探你内大腿的每一寸时。"
+    "科伊特没有等待，手指沿着你的双腿探入；他以暧昧而有力的姿势将你固定住，同时探索你大腿内侧的每一寸肌肤。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b687820d:
 
-    coit "我们的小伙子很容易就退缩了。"
+    coit "我敢打赌，这小子肯定一下就会缩起来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_081ac677:
 
-    "正如他所预期的, 你放出一个微弱的气喘, 他的手向上, 并最终到达你的会员的底部。"
+    "果然如他所料，他的手一路向上滑到你肉棒根部时，你发出了一声微弱的喘息。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7183f519:
 
-    "几下中风已经把你送到了欣欣向荣的, 他的粗糙的手和快速的运动告诉你 他真的知道他在做什么。"
+    "不过几下抚弄，你便已经飘飘欲仙；他粗壮的手掌和迅捷的动作表明，他确实知道自己在做什么。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_995a2c20:
 
-    "观众的表吓坏了, 看到你的腿在抽搐, 你的眼睛向后滚 每一次他抚摸你的鸡巴。"
+    "人群惊叹地看着这一幕：每当他抚弄你的肉棒，你的双腿便抽搐一下，双眼也随之翻白。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b62d9165:
 
-    "但他没有继续。相反,土狼站得更近, 他在他的老二上扭动, 然后把一些预积涂到你的洞里。"
+    "可他没有继续。郊狼反而靠得更近，顶了顶自己的肉棒，随后把前液抹在你的后穴上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_36fcddca:
 
-    coit "系好安全带。"
+    coit "准备好你的屁股。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_c95535f8:
 
-    "你准备放松肌肉 准备最终侵入Coit的老二。"
+    "就在你准备放松肌肉，迎接科伊特肉棒的侵入时，福克猛地拽住你的头，把你拉向他的肉棒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_34b02772:
 
-    "你的嘴立刻充满了他的蒸汽成员, 屋顶被他的老二的底部 每一块山脊和山脊推动。"
+    "他的肉棒瞬间塞满你的嘴，底部一圈圈的凸起和褶皱顶住了你的上颚。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_54f087f4:
 
-    "你喘气,即使你体内的公鸡, 突然的入侵是痛苦的, 但一部分你不希望它停止... 即使,每个人都在看。"
+    "肉棒插在你嘴里让你忍不住喘息；这突如其来的侵入带来疼痛，可即便在众目睽睽之下，你心里仍有一部分不希望它停下……"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_73e3ae38:
 
-    "没有提到它已经到达的地方, 他的男子气概的软头部 正在用力的摩擦 在你的喉咙的背部。"
+    "先不说它已经抵达了哪里，他阳具柔软的龟头正强硬地摩擦着你的喉咙深处。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f2f4f738:
 
-    coit "嘿,我的福克现在都急了,好吧。"
+    coit "呵，我的福克已经等不及了。好吧，那就来吧。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_942c8f4d:
 
-    "你试图把鸡鸡从嘴里拉出来,但是没有空气,所以你在Fokk撤退前 用力掐住并咳嗽。"
+    "你本能地干呕，想把他的肉棒吐出来。可嘴里根本没有空气，你只能剧烈地呛咳，直到福克退了出去。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_07215d08:
 
-    fokk "喘口气,服务器,我们要去玩一阵子。"
+    fokk "喘口气，侍者。接下来可是场漫长又狂野的旅程。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_21db546c:
 
-    "你长着大口呼吸 还在你的嘴里 感觉到他咸咸的口味。"
+    "你咕噜着粗重喘气，嘴里仍残留着他前液的咸味。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b7a20c72:
 
-    e "F -f -fuck,这是粗糙的..."
+    e "操……刚才真够劲……"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_508d0989:
 
-    "就像你擦掉嘴唇上混合的液体一样 另一股力量将你推向几英寸。"
+    "就在你擦去嘴唇周围的液体时，另一股力量把你向前推了几寸。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_d0e4ca2a:
 
-    "土狼把他的老二推进你紧闭的入口 你却一时没窒息。"
+    "郊狼把肉棒直接顶进你紧窄的后穴，你猛地一颤，没能憋住一声叫喊。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_800a3895:
 
-    "他的老二深埋在内心深处 他比你习惯的还要强大 几乎感觉你被撕裂了。"
+    "科伊特的腹部拍打在你身上，肉棒深深埋入体内。他比你习惯的那些家伙更大、更强壮，几乎让你感觉自己要被撕裂。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_30090c79:
 
-    "就像你被蹂躏, 当他开始推, 越深越深 每一次。"
+    "仿佛你正被肆意蹂躏；他开始抽插，每一下都比前一下更深。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_30a47b6d:
 
-    "忘记你的嘴又自由了 你开始大喊大叫 在欲望中, 性感的呻吟, 里面只有进入的乐趣。"
+    "你忘了嘴巴已经重新获得自由，开始因欲望而大声尖叫；那些淫靡的呻吟里，只剩被贯入时的快感。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e9566663:
 
-    e "奥吉..."
+    e "啊——求、求你！"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3fd3e38e:
 
-    e "F-fuck-!"
+    e "操——！"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_38ccb8e0:
 
-    "无情的叫喊吸引了每个人 盯着你的样子, 跪在桌子上, 在地板的中心 像一个展览 被观看和体验。"
+    "你不断的叫喊吸引了所有人的目光。你跪在桌面中央，如同供人围观、体验的展品。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_c5fe4536:
 
-    "现在Coit进入你体内, 这个展示会感觉更完整 当你的呼喊慢慢地 转向微弱的呜咽器。"
+    "科伊特进入你的身体后，这场展示仿佛变得更加完整；你的叫喊渐渐变成微弱的呜咽。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ba8ebed9:
 
-    "毫不奇怪,当福克的会员再次填满你的嘴时, 一系列的声很快停止了。"
+    "不出所料，你的呜咽很快便戛然而止，因为福克的肉棒再次填满了你的嘴。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_bcd415ea:
 
-    "你以前留下的他老二上的唾液 已经变成了自己的第二个润滑剂 重新进入你的喉咙。"
+    "之前留在他肉棒上的唾液成了天然的润滑剂，让他再次更轻易地插入你的喉咙。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_c68374a4:
 
-    "你试图大声喊喊 与另一个突然入侵, 但声音已经 已经被打动 他的老二。"
+    "你试图在突如其来的再次侵入中大声哭喊，可声音早已被他的肉棒堵住。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0812e782:
 
-    "在你眼睛的周围 一个人靠近 拿着啤酒 不断从两端推入。"
+    "在视野边缘，你看见一个男人拿着啤酒走来；此时你的身体正被两端不断贯入。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_60aa1599:
 
-    gato "你们两个不是在玩他,哈,我们已经把我们的服务器 变成一个听话的小垃圾了。"
+    gato "给咱们带麦酒来了——该死，你们两个可真没把他当回事。哈，已经把咱们的侍者变成听话的小精液抹布了。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_c212a175:
 
-    coit "是啊,我这辈子都在和这个荡妇服务器打交道。"
+    coit "没错，我在这儿玩这个荡侍者玩得开心极了。早该在他第一次端着盘子和酒杯四处走动时，就看出他是什么货色。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_13af9b3c:
 
-    "鳄鱼把杯子丢在桌子上 冷酷地, 你不知道它是否是故意的, 但是他不小心把啤酒 洒到你的身体上。"
+    "鳄鱼笨手笨脚地把酒杯放到桌上。你不知道他是不是故意的，但他毫不在意地把一些啤酒洒在了你身上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3d3b32bb:
 
-    fokk "喂! 小心点! 你们这些肮脏的恶棍, 还要再浪费一副牌吗?"
+    fokk "喂！小心你们的酒，你们这群肮脏的小混蛋。还想再浪费一副牌吗？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_6797ae87:
 
-    "狐狸说,当他不断 推他的臀部, 伸展你的下巴 用他的阴茎厚度。"
+    "狐狸一边说着，一边继续挺动胯部；肉棒的粗度把你的下颚撑得发疼。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_1fc6eba4:
 
-    "另一端是科伊特大声地笑着说, 几乎令人欣喜地看到每个人都在看着他 前后推动他的臀部, 反复地把他的球踢到酒馆的服务器上。"
+    "另一头的科伊特正放声大笑，几乎因所有人都在看他而兴奋不已。他来回挺动胯部，一次次用睾丸撞上酒馆侍者的身体。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_093ed341:
 
-    "过了一段时间你就停止挣扎了 桌子上充满了Coit和Fokk的一举一动 挣扎得太辛苦 可能会压倒自己的平衡。"
+    "过了一会儿，你放弃了挣扎。科伊特和福克的每个动作都让桌子颤动，继续乱动只会让你失去平衡，把桌子掀翻。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_bee23e7d:
 
-    "但这两只鸡鸡进入你身体的两端 似乎已经稳定了一点。"
+    "可两根肉棒分别从你的两端贯入，反倒让你的身体稍微稳住了一些。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_43678a65:
 
-    "你盯着福克,他用滑稽的光滑的光芒盯着你, 几乎舔他的嘴唇,而他看见你 张着嘴,张着嘴, 缠着他的大鸡巴。"
+    "你望着福克；他低头看着你，眼神戏谑，几乎像是在舔唇。你的脸上写满哀求，嘴巴却被他搏动的肉棒紧紧包住。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_4bc34025:
 
-    "Coit,他现在在拉着你的尾巴 他的手伸进你的大腿里 把你打得屁滚尿流。"
+    "科伊特则拽住你的尾巴，双手深深陷进你的大腿，把你的屁股一次次撞向他肥硕的肉棒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_36dfad19:
 
-    "加藤一直盯着他 每次都把他的鸡鸡踢到嘴里 就像吐口水的肉一样。"
+    "加托始终在一旁注视，每当你被顶入，他就撸动自己的肉棒，仿佛在观看一块被炙烤的肉。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ffb64643:
 
-    "观众的嘲笑也无济于事 其中一个甚至脱下裤子 手淫到这个场景。"
+    "这一切对你的意识来说都太过强烈，人群的嘲弄更让情况雪上加霜；甚至有人脱下裤子，对着这场面打起了手枪。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_6d4e89fc:
 
-    gato "等整个酒馆都喜欢他的嘴 就不会太久了。"
+    gato "用不了多久，整个酒馆都会享用你的嘴。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_6e486824:
 
-    "许多旁观者笑, 有些人试图接近更近的地方, 以得到更好的外观。"
+    "许多围观者笑了起来，有些人还试图凑近，好看得更清楚。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ec206807:
 
-    "根本就没有理由搬家 只是你为了在桌上平衡自己 已经精疲力尽了 现在却任由你两边的结局都毁了。"
+    "你已经没有理由再动了，唯一的问题是，保持平衡让你精疲力竭。现在，你只能任由两端被肆意蹂躏。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_36b6a4c0:
 
-    "但不知怎的,你脑子里有些东西被点击, 几乎好像你终于被打破了。"
+    "可不知怎么的，你脑中像是突然扣上了一道开关，仿佛终于彻底坏掉。肉棒在快感中剧烈搏动，前液滴落在桌面上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_5181050c:
 
-    fokk "我们的服务器越来越急了 看看你 都发火了。"
+    fokk "哦？咱们的侍者现在开始迫不及待了。看看你，整个人都烧起来了。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_62f7aa45:
 
-    "当狐狸开始滑到他的鸡巴上时 他拉紧你的喇叭 用他的肉填充你的内脏。"
+    "狐狸轻笑起来。你开始亲昵地含吮他的肉棒顶端，他便拽住你的角，把你的口腔塞得满满当当。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_372112bf:
 
-    fokk "不能让你玩得开心,不是吗?"
+    fokk "不能让你一个人享受，对吧？"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_a308e799:
 
-    "随着你屈服于无脑的欲望 积极把自己推到他们进入你内心的最深处 运动变得更快了。"
+    "随着你屈服于无意识的欲望，动作变得快了许多；你主动挺动身体，迎向他们插入的最深处。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_2676b211:
 
-    "几乎是如果你是注定要这样, 被填满, 由更强壮的男人的公鸡完成。"
+    "仿佛你生来就该是这样：被填满，被更强壮男人的肉棒彻底满足。而这样的念头甚至让你自己撸动起来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_efc53175:
 
-    gato "解决你们两个坏蛋 打破这个\"小卖家\"服务器。"
+    gato "你们两个安分点，别把这个小侍者弄坏了。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_405726c8:
 
-    "鳄鱼在看着你 骄傲地把他的鸡鸡 推到你的表演上。"
+    "鳄鱼注视着你，得意洋洋地为你的表现撸动自己的肉棒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8db4a7ed:
 
-    "你哭泣,狐狸继续 紧张地操你的脸, 和科伊特的推力 这一切都使得更容易 达到你的喉咙后部。"
+    "狐狸继续用力操弄你的脸，你呜咽起来；再加上科伊特不断挺动，让肉棒更容易抵达你的喉咙深处。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f7656b0d:
 
-    coit "有人在他们的道路上跳过一圈 猜我们得更努力地做爱。"
+    coit "有人走路都轻快起来了，看来咱们得操得更用力些。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_62992f1b:
 
-    "你不知道是不是酒精,但是它们也加快了速度。"
+    "你不知道是不是酒精作祟，但他们的动作也越来越快。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9dd57c5a:
 
-    "很快,你就会感觉到他们的鸡鸡 猛地猛地摇动, 进一步用他们的鸡鸡肉 捏住你的嘴。"
+    "没过多久，你感觉到他们的阳具猛烈抽动，让更多的肉棒塞满你的口腔。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_c6fd4145:
 
-    "你的头反覆地摇动着, 你的舌头绕着福克的老二的肥头转来转去, 当他再次将你的头按在它上时, 用你那张滑头的嘴向自己求情。"
+    "你的头前后摆动，舌头在福克粗大的龟头上打着旋；他又一次把你的头撞向肉棒，用你湿滑的嘴享受着自己。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_2c381846:
 
-    coit "嘿,跟屁眼说吧,我还没说完呢。"
+    coit "喂，继续用你的屁股接着，我还没玩够呢。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_5f833be7:
 
-    "你呻吟,像Coit一样, 将你的洞伸开, 在他的小腿上, 大声叫喊,随着速度的加快。"
+    "科伊特把你的后穴撑得更开，你呻吟起来；随着速度加快，他也发出粗重的喘息。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_4d4aedd6:
 
-    "每个人现在都盯着看 舔着嘴唇 想着他们是不是下一个排队的 想要享受酒馆服务器的躯体。"
+    "现在所有人都盯着你，有人舔着嘴唇，盘算自己是否会成为下一个，渴望享用这个酒馆侍者的身体。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_6fcbc1d3:
 
-    "有些人喜欢你们四人给的表演 有些人嘲笑你们是个酒馆荡妇 不反对被多位男人 利用在摇摆的桌子上。"
+    "有人享受着你们四人共同上演的表演，有人嘲弄你，说你是个不介意在摇晃的桌子上被多人使用的酒馆荡妇。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_33d3dc94:
 
-    "但他们都兴奋起来了 他们会留下来看着 直到你把常客的种子都填满了。"
+    "可所有人都被挑起了欲望，他们会一直留下，看到常客们的精液把你彻底填满。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3ccbd657:
 
-    "你停止了辩护 科伊特的流汗成员 全力打击你的前列腺 你被那纯粹的欢乐所压倒 再加上被一群人监视的兴奋。"
+    "你已经不再哀求。科伊特每次挺入，湿热的肉棒都撞上你的前列腺；纯粹的快感与被众人围观的刺激混在一起，令你彻底沉沦。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_60154551:
 
-    "每个人都盯着你看,你当然会自然地移动腰部, 也许这是为了让每个人都满意一个好的表演, 或者说你只是个心胸的外表变态。"
+    "所有人都盯着你看，让你的腰胯不由自主地自然摆动。也许你是在努力给大家献上一场好戏，又或许，你骨子里就是个暴露癖变态。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_a47e5002:
 
-    "你所聚集的观众 刚刚让你的心跳比以往更快 就像你体内那两只公鸡一样 充斥着无法满足的欲望 就像你自己的公鸡在快乐中抽打。"
+    "聚集而来的观众让你的心跳比以往更快，就像体内的两根肉棒一样；它们用无法满足的欲望填满你的身体，而自己的肉棒也在快感中搏动。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0dd444ae:
 
-    "确实,你可以感觉到他们的高潮即将来临, 但他们甚至不打算让你走, 相反,他们正在推 越深越深, 使你的身体膨胀 与他们的老二形状。"
+    "果然，你能感觉到他们即将高潮；可他们非但没有放开你，反而越插越深，让你的身体被阳具的轮廓顶得鼓起。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_a291a55f:
 
-    "很难用你嘴里塞着的公鸡求饶 更难在两个更强壮的人之间挣扎 他们已经表明他们不是来安慰你的。"
+    "嘴里塞着肉棒，本就很难开口求饶；夹在两个根本不在乎你是否舒服的强壮男人之间，更不可能挣扎。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_040fe6e7:
 
-    "你现在被困在Coit和Fokk之间 被困在他们的体重之下 当他们随意把鸡鸡撞到你身上时。"
+    "现在，你被困在科伊特和福克之间。他们的体重压住你，随意地把肉棒一次次撞进你的身体。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_69c6f1f2:
 
-    "你所能做的就是享受这趟旅程 将自己的臀部 移动到正常的两步 鳄鱼微笑 手帮忙打他的鸡巴。"
+    "你唯一能做的就是享受这趟旅程，随着两名常客的节奏扭动腰胯；鳄鱼则笑着，借你的手撸动自己的肉棒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_983f5bd4:
 
-    "很快,你达到你自己的高潮 当你的身体震动和抽搐 与两个常客的步伐。"
+    "很快，你也迎来了高潮；身体随着两名常客的节奏剧烈震颤、抽搐。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_516dcb7a:
 
-    "你的阴茎脉冲 对你刚刚达到的疯狂高潮 有着强烈的激情。"
+    "精液喷溅在桌上，你的肉棒因这场疯狂的高潮而剧烈搏动。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9f2c277f:
 
-    fokk "慢点,他已经来了,哈哈 这台服务器真他妈是来搞他的。"
+    fokk "哇，慢点。他已经射过了，哈哈。咱们的侍者光是被操屁股就射了。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8a6b8f52:
 
-    "每个人专注在鸡巴上 都能听到咕噜声和喘息声 感觉好像整层楼都变成你自己的节目。"
+    "你听见周围传来阵阵哼声和喘息；所有人的注意力都集中在你的肉棒上，仿佛整个楼层都变成了只为你准备的舞台。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_65db385e:
 
-    "...但是它没有结束,科伊特拉你的腿近, 推他的臀部,当你的紧紧 并紧紧围绕他们的鸡巴在你体内。"
+    "……可一切还没有结束。科伊特把你的腿拉得更近，猛顶胯部；你收紧身体，紧紧箍住体内的两根肉棒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_d7588b35:
 
-    "福克更进一步地抓住你的角 用它们操你的嘴 通过你的高潮, 而科伊特继续前进, 推进更快和更快 而不理会时机。"
+    "福克拽住你的角，借此在你高潮时继续操弄你的嘴；科伊特则毫不顾忌节奏，越插越快。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9c0bc192:
 
-    gato "来了!"
+    gato "来了！啊、啊啊……！"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_13f44e1b:
 
-    "虽然很困难,加藤在看着桌子 抽了几次老二 然后再像奖杯一样 把自己的种子撒到你身上。"
+    "尽管动作粗暴，加托仍守在桌边，最后撸动了自己的肉棒几下，随后把精液像一件战利品般洒在你身上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_009672ed:
 
-    "你感到鳄鱼的种子在向你喷洒时会喘气, 一种特别浓润的气味, 让你比现在更兴奋, 并且显然也使另外两班正规军 达到他们自己的高潮。"
+    "你喘息着，感觉鳄鱼的精液一股股滴落在身上。那股浓重的麝香味让你比刚才更加兴奋，显然也让另外两名常客抵达了高潮。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_389d4a58:
 
-    coit "A -arrrrgh!"
+    coit "啊啊啊！操、操！"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_1404fb07:
 
-    "科伊特大喊大叫,让你静静。他的臀部推向极限和阴茎脉搏,你可以感觉到他每秒都用精液填满你,而你的身体正在用他的种子膨胀。"
+    "科伊特发出一声低沉的呻吟，将你牢牢按住。他的腰胯抵到极限，肉棒阵阵搏动；你感觉他一秒接一秒地把精液灌进你体内，你的身体也被他的种子撑得鼓起。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_93fb4554:
 
-    "感觉好像你的肚子被塞住了 粘液流到你湿洞里。"
+    "你的肚腹仿佛正在被填满，黏稠的液体沿着湿润的腔道内部流淌。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_2d137c54:
 
-    "早在你处理这个信息之前 你就会听到另一声尖叫声。"
+    "你还没来得及消化这条信息，面前便传来另一声尖叫。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f8ae48af:
 
-    fokk "u -Ughh!"
+    fokk "呃——啊！"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b6b9dec4:
 
-    "福克的响亮的咕噜让你想起你体内的抽动阴茎,他拉你近你,因为他的阴茎开始接近你的喉咙后部。你可以感觉到他的会员在你的喉咙的折叠和弯曲结构上摩擦,因为它会脉搏和将你的阴茎最充分地凝固。"
+    "福克粗重的哼声让你想起体内搏动的肉棒。他把你拉得更近，肉棒几乎抵到了喉咙深处；你能感觉到他的阳具随着搏动摩擦着喉咙的褶皱和弧面，把你的口腔塞到极限。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f834150f:
 
-    "一旦他调整了自己的位置, 他低头看着你, 你感觉他的种子第一次涌出 填满你的喉咙 当你试图把它倒下去。"
+    "调整好姿势后，他低头看着你。第一股精液涌进喉咙，你努力将它咽下。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_ef10e0dc:
 
-    "自己喉咙伸展在厚厚的积架上 当你呻吟和颤抖时 你几乎无法呼吸。"
+    "浓稠的精液撑开你的喉咙，你呻吟着颤抖，几乎无法喘过气来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f4947347:
 
-    "你们两边都被这些常客的精液入侵了 因为他们在高潮之后很久 仍然在不停地抽动。"
+    "两端都被常客们的精液侵占；即使高潮已经结束，他们的肉棒仍在体内不断搏动。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_8d3d71e3:
 
-    "两个人用满意的呻吟把你拉出来 让你在摇摆桌上翻过背来翻身。"
+    "两个男人满足地呻吟着从你体内抽出肉棒，任由你在摇晃的桌面上翻身仰躺。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_9c010ed7:
 
-    fokk "全部收进去,服务器,不要浪费这些珍贵种子。"
+    fokk "全都吞下去，侍者。别浪费这些珍贵种子中的任何一滴。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_1a1b3622:
 
-    "福克把你的脸拉到他滑动的鸡巴上 拍到你的嘴上 就像你脸上洒了几块剩的精液。"
+    "福克把你的脸拉向仍在滴落的肉棒，在你嘴上拍了几下，残余的精液也溅到了你脸上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7f763f78:
 
-    "你试图吞下它们, 但他们的射精 填充你的洞 向下向下, 精液开始从你的嘴,你的屁股 渗出。"
+    "你试图把它们全都咽下，可他们射出的精液已经把你的腔道灌得满满当当，甚至开始从你的嘴和肛门溢出。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b1a4239d:
 
-    gato "早点应该这样 他很容易闯进来的。"
+    gato "早该这么做了，呵……这家伙真容易被彻底玩坏。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7c6f883d:
 
-    "你被丢在桌子上一团一团糟, 在你从极端的练习中大量抽取时, 被从你那块满满的骨骼里挤出来。"
+    "你软绵绵地瘫在桌上，疲惫地喘息着；精液从酸痛的孔洞中滴落。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_b24c39e1:
 
-    coit "他仍然很难 被顾客监视, 每个人都应该知道 酒馆里有一个免费的混蛋。"
+    coit "看他被客人围观就硬成这样，酒馆里有个免费的操穴这件事，应该让所有人都知道。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e00efc3d:
 
-    fokk "你不是个迷人的人吗 他会回来想要更多。"
+    fokk "哎呀，真会讨人喜欢；他还会回来要更多的。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7b82c587:
 
-    "三位常客再次坐在椅子上, 喝啤酒,笑笑,当你躺在中间, 躺在你的背上,腿抬起来, 看着像一个罕见的展品展示。"
+    "三名常客重新坐回椅子上喝酒谈笑，而你躺在他们中间，仰面躺着、双腿架起，像一件罕见的展品般任人观赏。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_d7d62989:
 
-    "可能确认他们是否认出了你 但你甚至没有足够的精力来好好认出他们。"
+    "其他客人走过来，盯着你满是精液的身体，似乎想确认是否曾在哪里见过你；可你连回应他们的力气都没有。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_7ef0e962:
 
-    "一个冒险的自慰者, 几乎好像这是对你的崇拜的敬意。"
+    "其中一个好色的家伙就在你身上自慰，仿佛是在向你的服务献上一份致敬。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_65492929:
 
-    "他很快也达到高潮 将你全身都湿湿的精液 添加到堆积的精液上。"
+    "他很快也迎来高潮，为你身上不断淋落的精液再添一堆。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_4ddf9d0a:
 
-    "三个没穿制服的常客不在乎, 他们仍然在和你说话, 慢慢地拉着他们的老二, 偶尔地打你的身体, 只是为了一些扭曲的乐趣。"
+    "三个没穿裤子的常客毫不在意。他们仍围着你聊天，慢慢撸动肉棒，偶尔为了某种扭曲的乐趣拍打你的身体。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_1d5b840f:
 
-    "你虽然累坏了,只是填充你的身体 逐渐消化,随着种子从你的痛洞里流出来, 你呼呼的呻吟, 身体仍然在颤抖,。"
+    "可你已经精疲力竭，体内的鼓胀一点点消退，随着种子从酸痛的孔洞中流出。你低声呻吟，身体仍因被当成两头贯通的肉便器而带来的强烈快感微微发抖。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_16da13db:
 
-    "观众们大部分恢复了活动, 一边笑着看着你们四位的性表演, 一边对你们的呻吟感到敬畏, 一边对性欲消退慢慢恢复正常的步伐。"
+    "观众大多重新做起自己的事，偶尔兴致盎然地笑着观看你们四人的淫靡表演。你的呻吟和喘息也随着欲望消退，慢慢恢复正常。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_492e7128:
 
-    "就在你的意识最终消失之前 常客们用大喊大叫 敲你的屁股叫醒你。"
+    "就在你的意识终于要沉入黑暗前，常客们大声拍打你的屁股，把你叫醒。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e7137cfd:
 
-    coit "睡别的地方 服务器 桌子显然是打牌用的。"
+    coit "去别处睡，侍者。这张桌子显然是用来打牌的。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_45b97ff0:
 
-    "当你试图移动时,加藤抬起你的身体,然后把你扔到空桌前。"
+    "你试图移动时，加托把你的身体抱起来，随后把你丢到一张空桌上。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_a3f2c61b:
 
-    gato "你这次让我们走了 算算还清了债务。"
+    gato "哎呀，哎呀。这次你可真让我们尽兴了。就当你的债还清了吧。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_e2e37247:
 
-    "众多受人迷惑的声音笑着, 举起他们的爱护来庆祝你刚刚的经历。"
+    "几道闷闷的笑声响起，众人举起麦酒，庆祝你刚才经历的一切。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f95fcce1:
 
-    fokk "随便你回来 我们不介意我们输钱 如果你能给我们一个好东西。"
+    fokk "欢迎你随时回来；只要你能让我们好好操一顿，就算输点钱也没关系。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_22834508:
 
-    "其他的常客好奇地盯着你阴沉的状态, 你的眼睛很快地闪烁, 脑海中麻木 远离了这种短暂的经历。"
+    "其他常客好奇地打量着你昏昏欲睡的状态。你的眼皮很快合上，意识在这场刺激的经历中逐渐麻木。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_65621b8d:
 
-    "你感到一个奇怪的手触摸在你身上, 你醒来了一次, 并不知道多少时间已经过去了。"
+    "你感觉到一只陌生的手在身上摸索，随后再次醒来，却不知道时间过去了多久。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_f7dbb2f0:
 
-    "你仍然能看到精液的污点,即使没有明显可见。不同的好奇眼睛盯着他们中的一对,他们中有一对就退缩了。"
+    "你身上的精斑依旧清晰可见，至少一眼就能看出来。几道好奇的目光落在你身上，其中一人收回了手。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_0adaf7a9:
 
-    "人群很快就散开, 仍然在他们中间自鸣得意, 而你却尴尬地穿上衣服。"
+    "人群很快散去，仍在彼此低声议论；你则尴尬地穿回衣服。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_64762a2f:
 
-    e "啊... 我觉得好头晕。"
+    e "呃……我感觉好晕。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_88a388f2:
 
-    "你移动到桌子的边缘,然后往下走。"
+    "你挪到桌边，走了下来。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_541e03aa:
 
-    "或许你现在真的需要洗个干净的澡 你屁股还是和普通人的老二一样疼 似乎要这样一阵子了。"
+    "也许你现在确实该好好洗个澡。常客们的肉棒把你的屁股弄得酸痛，看来这种感觉还会持续一阵子。"
 
 translate schinese_rewrite scene_tavern_cardgame_lose_3794b4b0:
 
-    "但至少你的债务已经清结了。"
+    "但至少，你的债还清了。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_7e98585a:
 
@@ -747,7 +747,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_0dd713e5:
 
 translate schinese_rewrite Scene_Nosferat_Lose_4bbf34b3:
 
-    "他再也不会浪费时间了 小蝙蝠的老二在寒冷的空气中摇晃 并且越来越大了。"
+    "他再也不会浪费时间了 小蝙蝠的肉棒在寒冷的空气中摇晃 并且越来越大了。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_72f9e72f:
 
@@ -783,7 +783,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_c71fdca5:
 
 translate schinese_rewrite Scene_Nosferat_Lose_fcf03374:
 
-    "令他知道你的老二很硬 让你觉得兴奋 让你的老二像石头一样硬。"
+    "令他知道你的肉棒很硬 让你觉得兴奋 让你的肉棒像石头一样硬。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_fa7a282a:
 
@@ -799,7 +799,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_0df2abc8:
 
 translate schinese_rewrite Scene_Nosferat_Lose_d495b8cb:
 
-    "你放出一阵短暂的呻吟, 被另一波欢乐略断裂 当他用你的肛门 摩擦他的老二时。"
+    "你放出一阵短暂的呻吟, 被另一波欢乐略断裂 当他用你的肛门 摩擦他的肉棒时。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_3fdd78ee:
 
@@ -811,7 +811,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_4d240f9d:
 
 translate schinese_rewrite Scene_Nosferat_Lose_69094ae8:
 
-    "相反,他嘲笑你, 嘲笑你用他的老二尖, 逼着你的洞。"
+    "相反,他嘲笑你, 嘲笑你用他的肉棒尖, 逼着你的洞。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_88f06c89:
 
@@ -819,7 +819,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_88f06c89:
 
 translate schinese_rewrite Scene_Nosferat_Lose_23f5f6ee:
 
-    "他紧紧地抱着你的屁股 甚至不允许你用他的老二 来自慰。"
+    "他紧紧地抱着你的屁股 甚至不允许你用他的肉棒 来自慰。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_7cc082d5:
 
@@ -855,7 +855,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_40fdb782:
 
 translate schinese_rewrite Scene_Nosferat_Lose_7fd9d2c7:
 
-    e "A-ARGH-"
+    e "啊——！"
 
 translate schinese_rewrite Scene_Nosferat_Lose_659aa509:
 
@@ -871,7 +871,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_60e05a8f:
 
 translate schinese_rewrite Scene_Nosferat_Lose_48214caf:
 
-    "你可以感觉到他的包皮沙发 站在你内心微妙的墙壁上 他的老二很粗糙 但你完全沉浸在快乐之中。"
+    "你可以感觉到他的包皮沙发 站在你内心微妙的墙壁上 他的肉棒很粗糙 但你完全沉浸在快乐之中。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_07eef8ea:
 
@@ -879,7 +879,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_07eef8ea:
 
 translate schinese_rewrite Scene_Nosferat_Lose_0d478501:
 
-    "几乎是他叫你屈服于他的老二 当你被逼着面对时 你的洞被他的臀部 一次又一次地推动的纯粹力量所破坏。"
+    "几乎是他叫你屈服于他的肉棒 当你被逼着面对时 你的洞被他的臀部 一次又一次地推动的纯粹力量所破坏。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_5789a41a:
 
@@ -902,7 +902,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_27f950b6:
 
 translate schinese_rewrite Scene_Nosferat_Lose_92db0c45:
 
-    "但你逃不掉的,你也不想,每次他的蛋蛋打你的屁股 都会吸引你更多。"
+    "但你逃不掉的,你也不想,每次他的睾丸打你的屁股 都会吸引你更多。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_cfbb9ab4:
 
@@ -938,7 +938,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_beacaa9b:
 
 translate schinese_rewrite Scene_Nosferat_Lose_72609459:
 
-    e "F操... h -harder。"
+    e "操……再用力些。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_8800dd2d:
 
@@ -946,7 +946,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_8800dd2d:
 
 translate schinese_rewrite Scene_Nosferat_Lose_e35c1030:
 
-    "你满怀希望地呻吟 你的眼睛反转 流着口水 从你的老二和嘴里流出来。"
+    "你满怀希望地呻吟 你的眼睛反转 流着口水 从你的肉棒和嘴里流出来。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_06b07065:
 
@@ -966,7 +966,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_8ad38540:
 
 translate schinese_rewrite Scene_Nosferat_Lose_069dbd2e:
 
-    "感觉你可以永远和他一起在身体里走 但你自己的老二很难相信 不断打他的胸口。"
+    "感觉你可以永远和他一起在身体里走 但你自己的肉棒很难相信 不断打他的胸口。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_35e97589:
 
@@ -978,7 +978,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_9972d7df:
 
 translate schinese_rewrite Scene_Nosferat_Lose_a49a3506:
 
-    "告诉你他越来越接近了 他的蛋蛋膨胀到难以想象的大小 他的口水喷到你的乱七八糟的身体上。"
+    "告诉你他越来越接近了 他的睾丸膨胀到难以想象的大小 他的口水喷到你的乱七八糟的身体上。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_f02d5f68:
 
@@ -1030,7 +1030,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_e718f49b:
 
 translate schinese_rewrite Scene_Nosferat_Lose_70e93f01:
 
-    "他只是让鸡鸡随机脉搏, 精液仍然在两条腿之间和两条腿之间摇晃。"
+    "他只是让肉棒随机脉搏, 精液仍然在两条腿之间和两条腿之间摇晃。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_87e52fda:
 
@@ -1054,7 +1054,7 @@ translate schinese_rewrite Scene_Nosferat_Lose_5d1472cc:
 
 translate schinese_rewrite Scene_Nosferat_Lose_034e67ba:
 
-    "只有当你低头看,你看到你的老二很硬... 你不确定是否已经这样一阵子了, 或者你是否梦到会再次被攻击。"
+    "只有当你低头看,你看到你的肉棒很硬... 你不确定是否已经这样一阵子了, 或者你是否梦到会再次被攻击。"
 
 translate schinese_rewrite Scene_Nosferat_Lose_d952585d:
 
@@ -1110,7 +1110,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_e7dfeb59:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_131f3dbc:
 
-    e "T -thes..."
+    e "那、那些……好大……"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_8d71b824:
 
@@ -1118,11 +1118,11 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_8d71b824:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_386eeb3c:
 
-    "你躺在地上 看着他的老二在你上方跳动。"
+    "你躺在地上 看着他的肉棒在你上方跳动。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_ec7954ba:
 
-    "他的老二越来越近了 你闻到他身上的脏臭嘴了 被他撕裂的汗水所聚集起来。"
+    "他的肉棒越来越近了 你闻到他身上的脏臭嘴了 被他撕裂的汗水所聚集起来。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_cbd6e2db:
 
@@ -1146,11 +1146,11 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_3bed0daf:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_203ddc59:
 
-    e "U-uhm..."
+    e "呃、嗯……"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_5f5d48de:
 
-    e "你在做什么?"
+    e "你、你在干什么？"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_b249f46d:
 
@@ -1186,7 +1186,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_882b2519:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_08095783:
 
-    "连等你回应都等不及 他的手让你走 你的身体就滑进他的一只柔软的老二。"
+    "连等你回应都等不及 他的手让你走 你的身体就滑进他的一只柔软的肉棒。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_9db70713:
 
@@ -1198,7 +1198,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_9435ed5e:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_4af027e8:
 
-    sbd "你最好快点放松 否则我会让你叫得你叫得那么大声 其他土匪都会知道你的。"
+    sbd "你最好马上放松下来，否则我会让你叫得整个强盗团都听见，知道你是什么货色。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_a68971cd:
 
@@ -1206,7 +1206,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_a68971cd:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_77f1a72e:
 
-    "很明显,你无法控制你的屁股有多紧 但你的入口 直觉地紧紧地绕着他的老二 只会让他更兴奋。"
+    "很明显,你无法控制你的屁股有多紧 但你的入口 直觉地紧紧地绕着他的肉棒 只会让他更兴奋。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_31e47667:
 
@@ -1218,15 +1218,15 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_01f2d3ac:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_2fb1cf92:
 
-    "每次他这样做,你的屁股都擦他另一个抽搐的老二。"
+    "每次他这样做,你的屁股都擦他另一个抽搐的肉棒。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_6f61d202:
 
-    sbd "看这个,这是你吃过最好的鸡鸡吗?"
+    sbd "看这个,这是你吃过最好的肉棒吗?"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_1348db05:
 
-    "你试图保持沉默 当你被像性玩具一样使用, 推入他的鸡鸡 顺律。"
+    "你试图保持沉默 当你被像性玩具一样使用, 推入他的肉棒 顺律。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_686f4892:
 
@@ -1234,7 +1234,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_686f4892:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_6c60186f:
 
-    e "Y -yes..."
+    e "是、是的……"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_8f7582e5:
 
@@ -1242,11 +1242,11 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_8f7582e5:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_0f1632f7:
 
-    "毫无疑问,他似乎非常有经验 在这种位置, 利用你身体的重量 让你自己滑入他的柔软的老二。"
+    "毫无疑问,他似乎非常有经验 在这种位置, 利用你身体的重量 让你自己滑入他的柔软的肉棒。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_50c23668:
 
-    "你可以感觉到他的老二的滑滑形状 慢慢地用他的预药和凝胶 来抚摸你的入口。"
+    "你可以感觉到他的肉棒的滑滑形状 慢慢地用他的预药和凝胶 来抚摸你的入口。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_8787b48e:
 
@@ -1298,7 +1298,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_b54528d8:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_1db0cb54:
 
-    "他用男子气概的弹性 挤压他的老二 放在你的屁股下。"
+    "他用男子气概的弹性 挤压他的肉棒 放在你的屁股下。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_a29dd18c:
 
@@ -1306,7 +1306,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_a29dd18c:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_fa1f50aa:
 
-    "你和他两个老二之间什么也没有, 渴望在你内心深处。"
+    "你和他两个肉棒之间什么也没有, 渴望在你内心深处。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_3cf1132b:
 
@@ -1326,7 +1326,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_20b786e6:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_0d293f52:
 
-    "他没有停止讲话 他的手臂正把你一寸一寸地 逼到他的老二上。"
+    "他还在说着话，手臂却迫使你一寸一寸地压下去，正好落到他的阳具上。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_1d766904:
 
@@ -1366,7 +1366,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_fb15dd02:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_7ee23fd5:
 
-    "你可以完全感觉到他的鸡鸡在剧烈地抽动, 就在你内部的墙内。他们要求更多空间,你的身体也符合要求。"
+    "你可以完全感觉到他的肉棒在剧烈地抽动, 就在你内部的墙内。他们要求更多空间,你的身体也符合要求。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_57453406:
 
@@ -1382,7 +1382,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_b096be3e:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_1f7a1eab:
 
-    "鲨鱼笑着,他放出一个快乐的呻吟 工作你的屁股 深埋在他的老二。"
+    "鲨鱼笑着,他放出一个快乐的呻吟 工作你的屁股 深埋在他的肉棒。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_b8e472d4:
 
@@ -1390,7 +1390,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_b8e472d4:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_ca430018:
 
-    "很痛苦 但事实上他的老二 正在对你的前列腺进行强烈的擦擦 让你的心思变得过份快乐。"
+    "很痛苦 但事实上他的肉棒 正在对你的前列腺进行强烈的擦擦 让你的心思变得过份快乐。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_a011ae0a:
 
@@ -1418,7 +1418,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_d925403b:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_eb9b4982:
 
-    "鲨鱼的臀部被鲨鱼挤压, 只是为了把他的老二埋得更深和更深。他反复重复了一遍, 时间和时间, 而你只是失去了控制, 一点一点地。"
+    "鲨鱼扭动胯部，只为把阳具埋得更深、更深。他一次又一次地重复着，而你也一点点失去控制。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_c3e0f588:
 
@@ -1442,7 +1442,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_07388df5:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_c04100a2:
 
-    "土匪老大只是靠后, 他一个字都不说警告你, 继续把他的老二 推到你的前列腺。"
+    "土匪老大只是靠后, 他一个字都不说警告你, 继续把他的肉棒 推到你的前列腺。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_438972eb:
 
@@ -1454,11 +1454,11 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_10d91807:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_6f905522:
 
-    "一点一点地,它越来越难 滑倒下来,但他使它工作。你的洞已经伸展到难以想象的大小。"
+    "一点一点地，你越来越难以沉下去，可他还是让这一切继续。你的肛门被撑到难以想象的程度。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_1f8c8ea7:
 
-    "土匪老大把屁股往内推一推 就像他所有的老二都完全在你体内一样。"
+    "土匪老大把屁股往内推一推 就像他所有的肉棒都完全在你体内一样。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_1daf72ef:
 
@@ -1478,7 +1478,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_8adba133:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_fa3ad099:
 
-    "他的两个老二都在剧烈地抽搐 将他强大的种子射出你体内 就像喷泉一样 永不停止。"
+    "他的两个肉棒都在剧烈地抽搐 将他强大的种子射出你体内 就像喷泉一样 永不停止。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_769efbd1:
 
@@ -1506,7 +1506,7 @@ translate schinese_rewrite Scene_Shark_Bandit_Lose_e7faf7cf:
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_9c9e38d1:
 
-    "你的身体从快乐中迅速抽搐, 它只是感觉很好 被填满 他的老二和种子。"
+    "你的身体从快乐中迅速抽搐, 它只是感觉很好 被填满 他的肉棒和种子。"
 
 translate schinese_rewrite Scene_Shark_Bandit_Lose_bef3290a:
 
@@ -1617,7 +1617,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_71dae6f8:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_b6387659:
 
-    "强盗的手放在你的老二上 它的温暖让你想起各种淫荡的想法。"
+    "强盗的手放在你的肉棒上 它的温暖让你想起各种淫荡的想法。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_c2985708:
 
@@ -1648,7 +1648,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_390dc875:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_fceaebf8:
 
-    "你转过头来,他们还在笑着笑着, 你被一个强盗的腰部的口香糖欢迎了。"
+    "他们还在彼此谈笑，你转过头，迎面闻到一名强盗胯间的麝香气味。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_26a7b441:
 
@@ -1704,7 +1704,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_d3f42097:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_69319bf1:
 
-    e "Hey!"
+    e "喂！"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_a345a41c:
 
@@ -1748,7 +1748,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_40288258:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_9e36a7ad:
 
-    "有时候,你的老二充斥着血, 它使桌子上几滴的预毒凝固和刺痛。"
+    "有时候,你的肉棒充斥着血, 它使桌子上几滴的预毒凝固和刺痛。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_7f362434:
 
@@ -1772,7 +1772,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_e832c92d:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_dddd6866:
 
-    "当你开始怀疑他们如何适应时 其中一人把你的头抬到他的老二上。"
+    "当你开始怀疑他们如何适应时 其中一人把你的头抬到他的肉棒上。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_d65e2db3:
 
@@ -1792,7 +1792,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_0660e0f5:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_b0b6793a:
 
-    "他赞美,当他把老二指在你紧闭的洞口时。"
+    "他赞美,当他把肉棒指在你紧闭的洞口时。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_04d26bc4:
 
@@ -1800,11 +1800,11 @@ translate schinese_rewrite Scene_Bandit_Gangbang_04d26bc4:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_fb2957ae:
 
-    e "Arrgh! Fuck-"
+    e "啊啊！操——"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_49f68ef0:
 
-    "根本就没有润滑剂,相反他的老二 只是被野蛮的武力侵入你的入口。"
+    "根本就没有润滑剂,相反他的肉棒 只是被野蛮的武力侵入你的入口。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_2bcf37d9:
 
@@ -1848,7 +1848,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_cdce9ab0:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_32b4ddbc:
 
-    "在某些时候,你只是握住他的老二 像手柄一样,稳定你 对抗第一强盗的力量。"
+    "在某些时候,你只是握住他的肉棒 像手柄一样,稳定你 对抗第一强盗的力量。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_6dd7e42d:
 
@@ -1896,7 +1896,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_7b52871b:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_964cfa00:
 
-    "直觉上,你吸一股巨大的气息, 男人的口香糖和汗水, 他的鸡巴立刻让你晕晕, 你急切地想吸他的鸡巴, 但他有另一个计划。"
+    "你本能地深吸一口气；他阳物上的男性麝香与汗味让你立刻头晕。你迫切想含住他的肉棒，但他另有打算。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_bf31d9bf:
 
@@ -1904,7 +1904,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_bf31d9bf:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_e0fbed7e:
 
-    "同时,你背后的老二 对你毛皮的摩擦很重 他只是利用你的身体来取悦自己。"
+    "同时,你背后的肉棒 对你毛皮的摩擦很重 他只是利用你的身体来取悦自己。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_541cfd02:
 
@@ -1952,11 +1952,11 @@ translate schinese_rewrite Scene_Bandit_Gangbang_d87bc36d:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_147fdffb:
 
-    "戴面具的人盯着他们看 检查你身体的每一个部位 特别是你的老二 从你体内的肉类口腔上上下。"
+    "戴面具的人盯着他们看 检查你身体的每一个部位 特别是你的肉棒 从你体内的肉类口腔上上下。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_d44a4da9:
 
-    bd "F操,我快接近了。"
+    bd "操,我快接近了。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_aec59241:
 
@@ -1972,7 +1972,7 @@ translate schinese_rewrite Scene_Bandit_Gangbang_ece29895:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_4ba49e33:
 
-    bd "A-ah!"
+    bd "啊、啊！"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_87d9d445:
 
@@ -1988,11 +1988,11 @@ translate schinese_rewrite Scene_Bandit_Gangbang_89cf5f9f:
 
 translate schinese_rewrite Scene_Bandit_Gangbang_d9b8bf26:
 
-    "土匪不放过你,反而用他的老二封住你的洞口, 他的阴茎会越来越深, 直到他们中的一些人最终泄漏出来。"
+    "土匪不放过你,反而用他的肉棒封住你的洞口, 他的阴茎会越来越深, 直到他们中的一些人最终泄漏出来。"
 
 translate schinese_rewrite Scene_Bandit_Gangbang_8473e114:
 
-    bd "F操..."
+    bd "操..."
 
 translate schinese_rewrite Scene_Bandit_Gangbang_3ba21bef:
 
@@ -2112,7 +2112,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_ec7986f9:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_2360fa89:
 
-    "乌菲 grins, 和同样的恶毒的脸蛋。"
+    "乌菲咧嘴一笑，脸上带着同样凶狠的神情。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_623f2c1d:
 
@@ -2148,7 +2148,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_43a5165d:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_e1648f9d:
 
-    u "这个入侵者[e] 他帮我们消除了所有威胁 扩大了我们的领土。"
+    u "这个入侵者[e]他帮我们消除了所有威胁 扩大了我们的领土。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_2107caaf:
 
@@ -2200,7 +2200,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_f0517f47:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_6020838e:
 
-    "他无耻地摸他的老二 不停地上下上下下上下上下上下上下下上下上下下上下上下下上下上下上下下上下上下上下上下。"
+    "他毫不知耻地抚弄阳具，疯狂地上下套弄。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_6f8674b3:
 
@@ -2236,7 +2236,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_91e890b8:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_f1d595d2:
 
-    e "U-uh..."
+    e "呃、呃……"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_be54fe58:
 
@@ -2244,7 +2244,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_be54fe58:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_f6c7f12a:
 
-    "你可以感觉到从他的老二发出的温暖 甚至在用手触摸之前。"
+    "你可以感觉到从他的肉棒发出的温暖 甚至在用手触摸之前。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_b8ac4a2b:
 
@@ -2276,11 +2276,11 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_39109861:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_c97b7733:
 
-    "第四个是,你可以感觉到他的老二 在你的屁股下面长大了, 在它完美地朝洞里长出来 让你的屁股张开之前。"
+    "第四个是,你可以感觉到他的肉棒 在你的屁股下面长大了, 在它完美地朝洞里长出来 让你的屁股张开之前。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_4e4db22e:
 
-    ww4 "让我看看你的荡妇脸,[e] 把你的舌头伸出来,像个荡妇一样。"
+    ww4 "让我看看你的荡妇脸,[e]把你的舌头伸出来,像个荡妇一样。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_20e7bdc9:
 
@@ -2296,7 +2296,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_d087e1d7:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_7d5a8089:
 
-    ww "来吧,你要这鸡鸡,对不对?"
+    ww "来吧,你要这肉棒,对不对?"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_65a3afac:
 
@@ -2320,7 +2320,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_ef2b08d2:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_749bea13:
 
-    e "A-augh!"
+    e "啊——！"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_3c72a020:
 
@@ -2332,15 +2332,15 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_a09a6602:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_30c2e0eb:
 
-    ww4 "哦,他的洞牢牢抓住我的老二 感觉..."
+    ww4 "哦,他的洞牢牢抓住我的肉棒 感觉..."
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_c4eb2fa0:
 
-    "很快,他一半的老二 已经进入你的身体了。"
+    "很快,他一半的肉棒 已经进入你的身体了。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_07375be3:
 
-    e "F操,这对我来说太大了..."
+    e "操,这对我来说太大了..."
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_0a4aa73b:
 
@@ -2356,11 +2356,11 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_f9c09d40:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_95115773:
 
-    "两个狼人继续聊天 他们正在摸他的老二 看着你的屁股弹着对方的老二。"
+    "两个狼人继续聊天 他们正在摸他的肉棒 看着你的屁股弹着对方的肉棒。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_ffcae977:
 
-    "他的老二不停地打击你的前列腺, 波浪和欢乐的波浪 使你的大脑溢出到极限。"
+    "他的肉棒不停地打击你的前列腺, 波浪和欢乐的波浪 使你的大脑溢出到极限。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_f0ce80c1:
 
@@ -2372,11 +2372,11 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_5c9c481d:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_9dc31964:
 
-    "他拍拍你的肩膀 表示你面前还有另外三个鸡鸡。"
+    "他拍拍你的肩膀 表示你面前还有另外三个肉棒。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_d239af3a:
 
-    "你从他们的鸡鸡身上又闻到一股气味, 想象这是你体内的狼人的气味。"
+    "你从他们的肉棒身上又闻到一股气味, 想象这是你体内的狼人的气味。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_9503f326:
 
@@ -2404,7 +2404,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_cd7f1278:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_0182341d:
 
-    ww4 "F -fuck,移动你的臀部 再一次,我会确保 让你的肚子 满满的垃圾在这里。"
+    ww4 "操——,移动你的臀部 再一次,我会确保 让你的肚子 满满的垃圾在这里。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_986e3695:
 
@@ -2432,11 +2432,11 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_ee737377:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_d95a0316:
 
-    ww4 "A -argh..."
+    ww4 "啊——来了。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_8de9c05d:
 
-    e "F-fuck!"
+    e "操、操！"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_3f0fe132:
 
@@ -2524,7 +2524,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_93217ece:
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_a5d08c8e:
 
-    "被角质狼人包围着 你花了很多钱 花在你的臀部运动上下 狼人的老二上下。"
+    "被角质狼人包围着 你花了很多钱 花在你的臀部运动上下 狼人的肉棒上下。"
 
 translate schinese_rewrite Scene_Werewolf_Gangbang_37d7bfce:
 
@@ -2548,7 +2548,7 @@ translate schinese_rewrite Scene_Werewolf_Gangbang_72a4168a:
 
 translate schinese_rewrite scene_gnoll_lose_77a43152:
 
-    e "A-ah-..."
+    e "啊、啊……"
 
 translate schinese_rewrite scene_gnoll_lose_04649dbb:
 
@@ -2560,7 +2560,7 @@ translate schinese_rewrite scene_gnoll_lose_262a7b5d:
 
 translate schinese_rewrite scene_gnoll_lose_fa903a90:
 
-    "幸运的是,草地温柔地缓住了你的跌倒, 但是它仍然是痛苦的,没有恢复你的健康。"
+    "幸运的是,草地温柔地缓住了你的跌倒, 但是它仍然是痛苦的,没有恢复你的体力。"
 
 translate schinese_rewrite scene_gnoll_lose_b03a3755:
 
@@ -2576,7 +2576,7 @@ translate schinese_rewrite scene_gnoll_lose_64d2372a:
 
 translate schinese_rewrite scene_gnoll_lose_d2078eb7:
 
-    "他疯狂地笑,你仍然无法 让你的生活 弄清楚什么是 与豺狼人的交易。"
+    "他疯狂地笑着，你怎么也想不明白这只豺狼人究竟想干什么。"
 
 translate schinese_rewrite scene_gnoll_lose_2f618482:
 
@@ -2620,7 +2620,7 @@ translate schinese_rewrite scene_gnoll_lose_7cda6ca4:
 
 translate schinese_rewrite scene_gnoll_lose_7796ac0d:
 
-    e "Please-"
+    e "求你——"
 
 translate schinese_rewrite scene_gnoll_lose_1551d43c:
 
@@ -2648,7 +2648,7 @@ translate schinese_rewrite scene_gnoll_lose_72ceb7bb:
 
 translate schinese_rewrite scene_gnoll_lose_d88cb547:
 
-    gnl "Prey, 下来。"
+    gnl "猎物，下来。"
 
 translate schinese_rewrite scene_gnoll_lose_b52ff750:
 
@@ -2735,7 +2735,7 @@ translate schinese_rewrite scene_gnoll_lose_27bb39b8:
 
 translate schinese_rewrite scene_gnoll_lose_56fe9a6c:
 
-    gnl "Gnol...想要。"
+    gnl "豺狼人……想要。"
 
 translate schinese_rewrite scene_gnoll_lose_618f958a:
 
@@ -2751,7 +2751,7 @@ translate schinese_rewrite scene_gnoll_lose_fda80295:
 
 translate schinese_rewrite scene_gnoll_lose_72a113c4:
 
-    "Gnol的臀部推倒, 磨碎你的内裤 在你的老二的形状。"
+    "豺狼人的臀部压了下来，沿着你阴茎的形状在胯间用力摩擦。"
 
 translate schinese_rewrite scene_gnoll_lose_1f15d846:
 
@@ -2771,7 +2771,7 @@ translate schinese_rewrite scene_gnoll_lose_18fba0f7:
 
 translate schinese_rewrite scene_gnoll_lose_497b8dfc:
 
-    "他从你面前拉开,他的光屁股落在空中。他拉下拉伸的长袍,当他的老二升起的时候,它又红又肿,前额的一滴亮光已经伸出来。"
+    "他从你面前拉开,他的光屁股落在空中。他拉下拉伸的长袍,当他的肉棒升起的时候,它又红又肿,前额的一滴亮光已经伸出来。"
 
 translate schinese_rewrite scene_gnoll_lose_e5baaa54:
 
@@ -2787,7 +2787,7 @@ translate schinese_rewrite scene_gnoll_lose_cffec783:
 
 translate schinese_rewrite scene_gnoll_lose_45eee025:
 
-    gnl "Gnell伴侣。"
+    gnl "豺狼人……交配。"
 
 translate schinese_rewrite scene_gnoll_lose_4b56c1dd:
 
@@ -2795,7 +2795,7 @@ translate schinese_rewrite scene_gnoll_lose_4b56c1dd:
 
 translate schinese_rewrite scene_gnoll_lose_f848a8f2:
 
-    "Gnell把你的老二放在他入口处。"
+    "豺狼人把你的肉棒对准自己的入口。"
 
 translate schinese_rewrite scene_gnoll_lose_00f23011:
 
@@ -2815,11 +2815,11 @@ translate schinese_rewrite scene_gnoll_lose_bc0de452:
 
 translate schinese_rewrite scene_gnoll_lose_6a2e72d5:
 
-    "你可以感觉到他的毛皮 擦你的老二, 它让你发疯。"
+    "你可以感觉到他的毛皮 擦你的肉棒, 它让你发疯。"
 
 translate schinese_rewrite scene_gnoll_lose_69def6cd:
 
-    gnl "你的鸡鸡,填充Gnol。"
+    gnl "你的肉棒填满了豺狼人的后穴。"
 
 translate schinese_rewrite scene_gnoll_lose_7aa0df63:
 
@@ -2839,7 +2839,7 @@ translate schinese_rewrite scene_gnoll_lose_5be381ed:
 
 translate schinese_rewrite scene_gnoll_lose_920291a7:
 
-    "你感觉到他紧紧地围着你 你哭出一小声来 他真热,而且你老二身边感觉棒极了。"
+    "你感觉到他紧紧地围着你 你哭出一小声来 他真热,而且你肉棒身边感觉棒极了。"
 
 translate schinese_rewrite scene_gnoll_lose_f5f70794:
 
@@ -2859,7 +2859,7 @@ translate schinese_rewrite scene_gnoll_lose_92e20700:
 
 translate schinese_rewrite scene_gnoll_lose_0fc83b96:
 
-    "他屁股挤你的老二,让你大叫大叫,他的屁股和尾巴都笑得开心。"
+    "他的屁股夹紧你的阳具，让你不由得大声呻吟。豺狼人咧嘴一笑，尾巴欢快地摇着。"
 
 translate schinese_rewrite scene_gnoll_lose_328eb13a:
 
@@ -2875,7 +2875,7 @@ translate schinese_rewrite scene_gnoll_lose_61ce459a:
 
 translate schinese_rewrite scene_gnoll_lose_6957bdc8:
 
-    "他的毛乱,全身汗流满身,你感觉到他的老二在求饶。"
+    "他的毛乱,全身汗流满身,你感觉到他的肉棒在求饶。"
 
 translate schinese_rewrite scene_gnoll_lose_25cc0d7a:
 
@@ -2903,7 +2903,7 @@ translate schinese_rewrite scene_gnoll_lose_b544b6cb:
 
 translate schinese_rewrite scene_gnoll_lose_d1e0fc35:
 
-    "你感觉到他紧紧的屁股 挤在你老二周围, 发出一股性感的流鼻涕的声音 每当他把臀部插进你身上。"
+    "你感觉到他紧紧的屁股 挤在你肉棒周围, 发出一股性感的流鼻涕的声音 每当他把臀部插进你身上。"
 
 translate schinese_rewrite scene_gnoll_lose_2c17097a:
 
@@ -2959,7 +2959,7 @@ translate schinese_rewrite scene_gnoll_lose_c4c93367:
 
 translate schinese_rewrite scene_gnoll_lose_98503e11:
 
-    "他气喘吁吁,他的臀部 磨到你的老二上, 迫使他更深 在他的体内,而他仍然在 自己在高潮后很好地步步。"
+    "他气喘吁吁,他的臀部 磨到你的肉棒上, 迫使他更深 在他的体内,而他仍然在 自己在高潮后很好地步步。"
 
 translate schinese_rewrite scene_gnoll_lose_75d2912e:
 
@@ -2979,7 +2979,7 @@ translate schinese_rewrite scene_gnoll_lose_6efc652a:
 
 translate schinese_rewrite scene_gnoll_lose_01387b1d:
 
-    "他的洞软软地抓住你的鸡鸡 嘴口的肉圈 正在有节奏地吸你的鸡鸡 让你兴奋的高潮。"
+    "他的洞软软地抓住你的肉棒 嘴口的肉圈 正在有节奏地吸你的肉棒 让你兴奋的高潮。"
 
 translate schinese_rewrite scene_gnoll_lose_e56fccac:
 
@@ -2998,7 +2998,7 @@ translate schinese_rewrite scene_gnoll_lose_c15be535:
 
 translate schinese_rewrite scene_gnoll_lose_ef32ad63:
 
-    "你放出大声的呻吟 穿过绿平原 你的手紧紧地压在草上 就像他的屁股在你老二上一样。"
+    "你放出大声的呻吟 穿过绿平原 你的手紧紧地压在草上 就像他的屁股在你肉棒上一样。"
 
 translate schinese_rewrite scene_gnoll_lose_05bf35f1:
 
@@ -3006,11 +3006,11 @@ translate schinese_rewrite scene_gnoll_lose_05bf35f1:
 
 translate schinese_rewrite scene_gnoll_lose_2586e08b:
 
-    gnl "Y -yes... 给Cum。"
+    gnl "Y -yes... 给射。"
 
 translate schinese_rewrite scene_gnoll_lose_784693cd:
 
-    "Gnall的眼睛转过身去 回到了快乐 就像你种子的负荷和负荷 正在他体内溢出。"
+    "豺狼人因快感而翻起白眼，你的精液一股股射入它体内。"
 
 translate schinese_rewrite scene_gnoll_lose_2bfcf312:
 
@@ -3022,11 +3022,11 @@ translate schinese_rewrite scene_gnoll_lose_7716f1b5:
 
 translate schinese_rewrite scene_gnoll_lose_74b29620:
 
-    "然而,你的老二仍然无法控制地抽动, 你的内分泌物溢入地壳的深处, 你感觉到他的屁股再次挤压着你, 挤出每一滴水。"
+    "然而,你的肉棒仍然无法控制地抽动, 你的内分泌物溢入地壳的深处, 你感觉到他的屁股再次挤压着你, 挤出每一滴水。"
 
 translate schinese_rewrite scene_gnoll_lose_baa768d3:
 
-    "他把你老二从他身上拉出来 下流的精液开始从他的屁股漏出来。"
+    "他把你肉棒从他身上拉出来 下流的精液开始从他的屁股漏出来。"
 
 translate schinese_rewrite scene_gnoll_lose_f3d5660e:
 
@@ -3062,7 +3062,7 @@ translate schinese_rewrite scene_gnoll_lose_5ec0de2d:
 
 translate schinese_rewrite scene_gnoll_lose_7f33c837:
 
-    "他重新定位了好几次 大多是为了找一个更舒适的位置 让你的老二还在里面。"
+    "他重新定位了好几次 大多是为了找一个更舒适的位置 让你的肉棒还在里面。"
 
 translate schinese_rewrite scene_gnoll_lose_f0901664:
 
@@ -3070,7 +3070,7 @@ translate schinese_rewrite scene_gnoll_lose_f0901664:
 
 translate schinese_rewrite scene_gnoll_lose_825e913d:
 
-    e "mmmphm..."
+    e "唔唔……"
 
 translate schinese_rewrite scene_gnoll_lose_91cd7e1c:
 
@@ -3102,7 +3102,7 @@ translate schinese_rewrite scene_gnoll_lose_f2f7c743:
 
 translate schinese_rewrite scene_gnoll_win_top_1bffedc5:
 
-    gnl "U-ugh... 豺狼人, must..."
+    gnl "呃……豺狼人，必须……"
 
 translate schinese_rewrite scene_gnoll_win_top_5d61834d:
 
@@ -3118,7 +3118,7 @@ translate schinese_rewrite scene_gnoll_win_top_d79beacf:
 
 translate schinese_rewrite scene_gnoll_win_top_a6356f68:
 
-    "他的脸朝下大喊, 被泥土和草所覆盖, 他的软体鸡鸡 躺在他的两腿之间。"
+    "他的脸朝下大喊, 被泥土和草所覆盖, 他的软体肉棒 躺在他的两腿之间。"
 
 translate schinese_rewrite scene_gnoll_win_top_336d99ec:
 
@@ -3138,7 +3138,7 @@ translate schinese_rewrite scene_gnoll_win_top_5163e76a:
 
 translate schinese_rewrite scene_gnoll_win_top_2a024b36:
 
-    gnl "N -no..."
+    gnl "不、没有……"
 
 translate schinese_rewrite scene_gnoll_win_top_086f4ad3:
 
@@ -3170,11 +3170,11 @@ translate schinese_rewrite scene_gnoll_win_top_1bbad1cc:
 
 translate schinese_rewrite scene_gnoll_win_top_3c90ea8b:
 
-    "Gnall的呼吸越来越快, 他的脸正在燃烧, 看到这一点,你可以感觉自己 越来越兴奋。"
+    "豺狼人的呼吸越来越急促，脸颊发烫；看到这一幕，你也越来越兴奋。"
 
 translate schinese_rewrite scene_gnoll_win_top_b5a3e303:
 
-    "快点,你把手放在豺狼人的尸体下面 开始抬他起来。"
+    "你赶紧把手伸到豺狼人身下，开始将他抱起来。"
 
 translate schinese_rewrite scene_gnoll_win_top_a637724c:
 
@@ -3182,7 +3182,7 @@ translate schinese_rewrite scene_gnoll_win_top_a637724c:
 
 translate schinese_rewrite scene_gnoll_win_top_999572d6:
 
-    "当你走路时,你觉得他的鸡鸡在你下面 有一种悬疑和困惑的感觉 出现在他脸上。"
+    "当你走路时,你觉得他的肉棒在你下面 有一种悬疑和困惑的感觉 出现在他脸上。"
 
 translate schinese_rewrite scene_gnoll_win_top_b33c49a6:
 
@@ -3194,7 +3194,7 @@ translate schinese_rewrite scene_gnoll_win_top_e7b21af0:
 
 translate schinese_rewrite scene_gnoll_win_top_496456d4:
 
-    "他把手伸向你的老二,但你抓住他们,强迫他们攻打岩石。你用愤怒的光芒盯着他,他轻轻地放下他的双臂。"
+    "他把手伸向你的肉棒,但你抓住他们,强迫他们攻打岩石。你用愤怒的光芒盯着他,他轻轻地放下他的双臂。"
 
 translate schinese_rewrite scene_gnoll_win_top_f37b0260:
 
@@ -3226,7 +3226,7 @@ translate schinese_rewrite scene_gnoll_win_top_1a6a3370:
 
 translate schinese_rewrite scene_gnoll_win_top_4c15923a:
 
-    "他大喊大叫 他的老二长大了 头朝外皮看。"
+    "他大喊大叫 他的肉棒长大了 头朝外皮看。"
 
 translate schinese_rewrite scene_gnoll_win_top_851b74aa:
 
@@ -3242,7 +3242,7 @@ translate schinese_rewrite scene_gnoll_win_top_1e5acfaf:
 
 translate schinese_rewrite scene_gnoll_win_top_1cfcc9a1:
 
-    "他的软毛毛让你的老二皮痒痒 当你在他身上漏了几滴药。"
+    "他的软毛毛让你的肉棒皮痒痒 当你在他身上漏了几滴药。"
 
 translate schinese_rewrite scene_gnoll_win_top_0058467f:
 
@@ -3302,15 +3302,15 @@ translate schinese_rewrite scene_gnoll_win_top_92c23533:
 
 translate schinese_rewrite scene_gnoll_win_top_c1a79b85:
 
-    "他的屁股很结实柔软,洞又小又紧 你的老二正因为盯着它而硬起来。"
+    "他的屁股很结实柔软,洞又小又紧 你的肉棒正因为盯着它而硬起来。"
 
 translate schinese_rewrite scene_gnoll_win_top_58025a30:
 
-    "在一种预想感中, 你把你的老二放在他的洞前, 抹上你的前额, 在它的皱纹皮肤上。"
+    "在一种预想感中, 你把你的肉棒放在他的洞前, 抹上你的前额, 在它的皱纹皮肤上。"
 
 translate schinese_rewrite scene_gnoll_win_top_5eca3f2a:
 
-    "你用小费顶住洞,听到Gnall的呼吸停止。你看着他,他看着你。你用另一只手顶着他的胸口,然后把自己往里面推。"
+    "你把顶端抵在后穴上，听见豺狼人的呼吸停了下来。你看着他，他也回望着你。你将另一只手抵在他的胸口，开始更深入地进入他的身体。"
 
 translate schinese_rewrite scene_gnoll_win_top_de3f786f:
 
@@ -3450,7 +3450,7 @@ translate schinese_rewrite scene_gnoll_win_top_d858fee5:
 
 translate schinese_rewrite scene_gnoll_win_top_0ce23fe3:
 
-    e "A-ahh..."
+    e "啊、啊啊……"
 
 translate schinese_rewrite scene_gnoll_win_top_8a8e5d95:
 
@@ -3478,7 +3478,7 @@ translate schinese_rewrite scene_gnoll_win_top_4f5cfcf3:
 
 translate schinese_rewrite scene_gnoll_win_top_c1666e59:
 
-    "你可以感觉到他在里面的颤抖 就像你的鸡鸡在他体内抽泣一样。"
+    "你可以感觉到他在里面的颤抖 就像你的肉棒在他体内抽泣一样。"
 
 translate schinese_rewrite scene_gnoll_win_top_757d1af4:
 
@@ -3538,7 +3538,7 @@ translate schinese_rewrite Scene_Pirkka_Show_b3bcafc9:
 
 translate schinese_rewrite Scene_Pirkka_Show_0b4f977f:
 
-    p "{i} 一直,你W -wwwA...{/i}"
+    p "{i}一直,你W -wwwA...{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_f1a3632a:
 
@@ -3546,7 +3546,7 @@ translate schinese_rewrite Scene_Pirkka_Show_f1a3632a:
 
 translate schinese_rewrite Scene_Pirkka_Show_64da1573:
 
-    p "{i} 一直以来,你游荡,{p} 你的t -trail 在莫肯的每一寸土壤上留下。 {/i}"
+    p "{i}一路走来，你四处漂泊，{p}你的足迹留在莫肯的每一寸土地上。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_7fe0705f:
 
@@ -3570,7 +3570,7 @@ translate schinese_rewrite Scene_Pirkka_Show_58bad1d7:
 
 translate schinese_rewrite Scene_Pirkka_Show_2978aacf:
 
-    "皮尔卡 winks, 他知道这是一个你永远无法抗拒的挑战, 这几乎就像解开一个礼物, 充满兴奋和惊喜。"
+    "皮尔卡眨了眨眼。他知道这是你绝不会拒绝的挑战，仿佛拆开一份充满惊喜与兴奋的礼物。"
 
 translate schinese_rewrite Scene_Pirkka_Show_2fc2ab64:
 
@@ -3602,7 +3602,7 @@ translate schinese_rewrite Scene_Pirkka_Show_6daf7bc5:
 
 translate schinese_rewrite Scene_Pirkka_Show_cefa898b:
 
-    p "{i}An 心脏探险家, 出生时的爱人, 他 -Aghh... {/i}"
+    p "{i}An 心脏探险家, 出生时的爱人, 他 -Aghh...{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_ee9f88d0:
 
@@ -3614,7 +3614,7 @@ translate schinese_rewrite Scene_Pirkka_Show_b7cf811a:
 
 translate schinese_rewrite Scene_Pirkka_Show_87baa33f:
 
-    p "Ahem."
+    p "咳。"
 
 translate schinese_rewrite Scene_Pirkka_Show_92f111de:
 
@@ -3650,7 +3650,7 @@ translate schinese_rewrite Scene_Pirkka_Show_da2f979a:
 
 translate schinese_rewrite Scene_Pirkka_Show_47680285:
 
-    p "{i} 是什么比一个有巴子的冒险家和流浪者的一首歌更好。 {p} 在你的手中产生一个刷子,轻松地画出整个图画。 {/i}"
+    p "{i}是什么比一个有巴子的冒险家和流浪者的一首歌更好。{p}在你的手中产生一个刷子,轻松地画出整个图画。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_35020b34:
 
@@ -3662,7 +3662,7 @@ translate schinese_rewrite Scene_Pirkka_Show_752ffe56:
 
 translate schinese_rewrite Scene_Pirkka_Show_8ef2eef9:
 
-    p "{i}A Bard的男子气概,是流浪者想要的吗?{p} 哦,原谅我的罪过,因为M' 自己的衣服覆盖了他的宝藏。{/i}"
+    p "{i}吟游诗人的阳物，是流浪者想要的吗？{p}哦，原谅我的罪过，因为是我亲手用衣物遮住了他的珍宝。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_7e671bc8:
 
@@ -3690,7 +3690,7 @@ translate schinese_rewrite Scene_Pirkka_Show_ec6b8365:
 
 translate schinese_rewrite Scene_Pirkka_Show_30c34acf:
 
-    p "Ahem..."
+    p "咳咳……"
 
 translate schinese_rewrite Scene_Pirkka_Show_a0fa79c7:
 
@@ -3710,7 +3710,7 @@ translate schinese_rewrite Scene_Pirkka_Show_82e082b0:
 
 translate schinese_rewrite Scene_Pirkka_Show_908c75a5:
 
-    p "{i}A 个人惊喜,奖励他的英雄主义。他走在前面,uh... {p} 热气冲天。Hnnngh...他不应该让巴德等待...{/i}。"
+    p "{i}A 个人惊喜,奖励他的英雄主义。他走在前面,uh...{p}热气冲天。嗯呃...他不应该让巴德等待...{/i}。"
 
 translate schinese_rewrite Scene_Pirkka_Show_8f087a56:
 
@@ -3726,19 +3726,19 @@ translate schinese_rewrite Scene_Pirkka_Show_9e4c5137:
 
 translate schinese_rewrite Scene_Pirkka_Show_b3dddfdc:
 
-    "查克,你决定花时间 盯着巴德的老二看 尽管他的冲动。"
+    "查克,你决定花时间 盯着巴德的肉棒看 尽管他的冲动。"
 
 translate schinese_rewrite Scene_Pirkka_Show_abbca68e:
 
-    "一小滴预泡液滴在井下。汗的气味比以往更浓。你被他的老二迷住了,看它只会让你的心跳激动。"
+    "一小滴预泡液滴在井下。汗的气味比以往更浓。你被他的肉棒迷住了,看它只会让你的心跳激动。"
 
 translate schinese_rewrite Scene_Pirkka_Show_90d190ca:
 
-    p "{i}Pray 告诉大家,一个小精灵应该说什么才能带来流浪者的祝福。 {/i}"
+    p "{i}请告诉我，一个吟游诗人该说些什么，才能带来流浪者的祝福。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_45c2bd02:
 
-    p "{i}At 任凭这只手的呼唤, 亲密的触摸等待降临。 {/i}"
+    p "{i}At 任凭这只手的呼唤, 亲密的触摸等待降临。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_8df84717:
 
@@ -3754,7 +3754,7 @@ translate schinese_rewrite Scene_Pirkka_Show_b5b2347d:
 
 translate schinese_rewrite Scene_Pirkka_Show_003b7e5c:
 
-    p "{i}A-ah.u M-masterwork 手握,他挥手,{p},w-wanderer 将做他所期望的一切。 {/i}"
+    p "{i}A-ah.u M-masterwork 手握,他挥手,{p},w-wanderer 将做他所期望的一切。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_3d304cc4:
 
@@ -3762,7 +3762,7 @@ translate schinese_rewrite Scene_Pirkka_Show_3d304cc4:
 
 translate schinese_rewrite Scene_Pirkka_Show_e0d1d341:
 
-    p "{i}An-ything, b-b-b-b-b-b-put going,如果满足了他的饥饿,就拔出奖金。{/i}"
+    p "{i}什、什么都行，继、继续吧；只要能满足他的饥欲，就拉扯那份奖赏。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_5c4cdfaf:
 
@@ -3870,7 +3870,7 @@ translate schinese_rewrite Scene_Pirkka_Show_b5898ab0:
 
 translate schinese_rewrite Scene_Pirkka_Show_e498bdbe:
 
-    p "{i}HE 穿行, hem... {/i}"
+    p "{i}HE 穿行, hem...{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_09d280c3:
 
@@ -3878,7 +3878,7 @@ translate schinese_rewrite Scene_Pirkka_Show_09d280c3:
 
 translate schinese_rewrite Scene_Pirkka_Show_d664caa4:
 
-    p "{i}He带着他的巴子,上下上下上下上下。 {/i}"
+    p "{i}他与吟游诗人一同启程，起起落落地前行。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_f528e168:
 
@@ -3886,7 +3886,7 @@ translate schinese_rewrite Scene_Pirkka_Show_f528e168:
 
 translate schinese_rewrite Scene_Pirkka_Show_58f2df39:
 
-    p "{i}Straking on the bard's dick, 他们穿过山谷和草地。 {/i}"
+    p "{i}抚弄着吟游诗人的鸡巴，他们穿过山谷和草地。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_6bc3db86:
 
@@ -3898,7 +3898,7 @@ translate schinese_rewrite Scene_Pirkka_Show_1b700054:
 
 translate schinese_rewrite Scene_Pirkka_Show_1cde6431:
 
-    p "{i}A 有品味的扭扭, 很高兴见到你。 {p} 从水管底部旅行... {/i}"
+    p "{i}A 有品味的扭扭, 很高兴见到你。{p}从水管底部旅行...{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_2074ae7b:
 
@@ -3914,7 +3914,7 @@ translate schinese_rewrite Scene_Pirkka_Show_5a24895b:
 
 translate schinese_rewrite Scene_Pirkka_Show_818dea68:
 
-    p "很快,他鼻子上的Z-Z尖, 你跑的敏捷和迅速, zze pa-ce永远不会减速。 {i}{/i}"
+    p "{i}很快，你灵巧而迅速地跑到他鼻尖的顶端，步伐从未放慢。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_78571cec:
 
@@ -3922,7 +3922,7 @@ translate schinese_rewrite Scene_Pirkka_Show_78571cec:
 
 translate schinese_rewrite Scene_Pirkka_Show_04f5f5d1:
 
-    "你继续摸他的老二 你可以看到他眉毛上的汗流。"
+    "你继续摸他的肉棒 你可以看到他眉毛上的汗流。"
 
 translate schinese_rewrite Scene_Pirkka_Show_99448d0e:
 
@@ -3934,7 +3934,7 @@ translate schinese_rewrite Scene_Pirkka_Show_7ffa04bb:
 
 translate schinese_rewrite Scene_Pirkka_Show_9533c4c4:
 
-    p "{i} 上下... nghhh, 直到他展示出 花样- {/i}"
+    p "{i}上下... nghhh, 直到他展示出 花样-{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_e4c64155:
 
@@ -3942,7 +3942,7 @@ translate schinese_rewrite Scene_Pirkka_Show_e4c64155:
 
 translate schinese_rewrite Scene_Pirkka_Show_4709f181:
 
-    p "{i}Uh... Zze w -wanderer 中风,u -ngh... un...{/i}"
+    p "{i}呃……这、这位外乡人抚、抚摸着，呜、嗯……直、直到它、它射出来……{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_7e020d5e:
 
@@ -3954,7 +3954,7 @@ translate schinese_rewrite Scene_Pirkka_Show_6d584c4a:
 
 translate schinese_rewrite Scene_Pirkka_Show_f6fa0667:
 
-    p "{i} 立方体接近了,他知道,{p} 因为他加快了速度,击败了最后行动。 {/i}"
+    p "{i}立方体接近了,他知道,{p}因为他加快了速度,击败了最后行动。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_5b77ef49:
 
@@ -3966,7 +3966,7 @@ translate schinese_rewrite Scene_Pirkka_Show_db22579c:
 
 translate schinese_rewrite Scene_Pirkka_Show_4aa95f1d:
 
-    p "{i}Soon 是一个快乐和感恩的节日之夜 和两个互相爱戴的美人 的节日之末 {/i}"
+    p "{i}很快，这首关于欢愉与感激、属于两位相互爱慕者的歌谣就要结束了。{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_b0fa6134:
 
@@ -3978,7 +3978,7 @@ translate schinese_rewrite Scene_Pirkka_Show_628dc972:
 
 translate schinese_rewrite Scene_Pirkka_Show_fa328384:
 
-    p "{i} 巴德不能再坚持了, 歌曲必须结束, 所以上下文可能会 b-begi- {/i}"
+    p "{i}吟游诗人再也坚持不住了，歌声必须结束，尾声即将开——{/i}"
 
 translate schinese_rewrite Scene_Pirkka_Show_a2912356:
 
@@ -3990,11 +3990,11 @@ translate schinese_rewrite Scene_Pirkka_Show_23d10dbb:
 
 translate schinese_rewrite Scene_Pirkka_Show_3c1d3730:
 
-    "你把他的老二推进你的喉咙 越深越好 很快你就会感觉到他的种子从你的喉咙后面射下来。"
+    "你把他的肉棒推进你的喉咙 越深越好 很快你就会感觉到他的种子从你的喉咙后面射下来。"
 
 translate schinese_rewrite Scene_Pirkka_Show_6b080a75:
 
-    "他的腿颤抖抖,全身颤抖 全身颤抖,他把包装的东西撒进你的嘴里。"
+    "他的双腿不停颤抖，整个身体都在发抖，精液一股股射进你的口中。"
 
 translate schinese_rewrite Scene_Pirkka_Show_b4f1b5e4:
 
@@ -4082,55 +4082,55 @@ translate schinese_rewrite Scene_Pirkka_Show_2cca90fa:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_c4c490eb:
 
-    e "狗屎。"
+    e "完了。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_c33c6d45:
 
-    "你被树上的石膏 和你的背部擦到树上。"
+    "你被八臂鬼逼到树边，后背紧挨着粗糙的树皮，身体害怕地扭动着。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_1a7080ab:
 
-    "你看到的只有冰冷空气中的滑手 它们在你颤抖时慢慢地靠近。"
+    "一片寒气中，那些滑腻的手缓缓围拢过来。不一会，周围的空气泛起魔力波动嗡嗡作响。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_a8dce8bc:
 
-    "很快,你周围的空气开始震动 用神奇的力量哼哼 免得你注意到手里有刺鼻的东西。"
+    "你突然感觉手臂挨到了什么软绵绵的东西——"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_ab892322:
 
-    "那是他的手臂,其中两只紧紧抓住你的手臂, 把你钉在地上。"
+    "是那鬼怪的五指！左右死死钳住你的手腕，转眼便将你按倒在地。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_236cda34:
 
-    e "赫宗... 有人吗?"
+    e "大长老……救命……谁来救救我！"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_00925db3:
 
-    "你大喊大叫 紧张地举起手来 任凭你的声音在森林里撒尿。"
+    "你扯着嗓子大喊，两只胳膊使劲挣扎。凄惨的叫声在森林中回荡。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_cb71f280:
 
-    "转头,光谱观察你的脸, 把手伸进你的裤子, 感觉你的腿。"
+    "扭头看去，八臂鬼正端详你的脸，同时伸出两只手抚摸你的大腿。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_5f588b13:
 
-    "令人惊讶的是,他的鬼手 感觉坚固和温暖, 即使通过你的腰布。"
+    "他的手意外的灵活。明明是个鬼魂，手掌却既有实感又温暖，即使隔着兜裆布都能感受得到。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_e0e15e72:
 
-    e "让我走!"
+    e "放、放开我！"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_6d7a4fda:
 
-    e "W - 你想要什么。"
+    e "你要干什么！"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_07baf567:
 
-    "他又一眼好奇地盯着你看,也许他正在研究你的形态,就像一本要探索的书, 一种理解活体感觉的渴望。"
+    "八臂鬼的目光充满好奇，像在翻阅一本没看过的书，渴望了解活人的躯体到底是什么感觉。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_b4eeb789:
 
-    "虽然,唯一的问题是,他似乎喜欢取笑你, 他的手到处乱跑, 测试哪个部分得到你最强烈的反应。"
+    "不过他好像很喜欢捉弄你，到处乱摸，试探你哪里反应最大。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_cbac562a:
 
@@ -4138,71 +4138,71 @@ translate schinese_rewrite Scene_Spritebinder_Lose_cbac562a:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_f89f02ee:
 
-    "你呻吟,在魔力束缚下挣扎。"
+    "你哀怨地呻吟着，极力想要挣脱这魔法束缚。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_381f04db:
 
-    "魔人的眼睛宽度奇特 手指伸到你的大腿上 绕到你屁股上 用它的坚固 温暖的握力感受你的后部。"
+    "八臂鬼饶有兴致地睁大眼睛，手指顺着大腿滑到屁股，牢牢抓住你那俩瓣，温热且有力。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_b9b9a17c:
 
-    "你固执而冷漠 试图不给这个生物 满意的知道自己对你做了什么。"
+    "你立马压下了自己的声音和动作，死活不想让他看见自己被耍流氓的丑态。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_6a212525:
 
-    "灵魂拉回来,他的手从你的大腿 和你的腿之间向下移动。"
+    "鬼怪把手从大腿上移开，慢慢往两腿之间摸去。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_3771d86c:
 
-    "用他的手指在你的腹股沟上拉动他的手指 让你的鸡巴抽动和抽动来回应。"
+    "指节蹭过卵蛋下面那块地方时，你的老二立马抽动两下有了反应。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_97809891:
 
-    "另一对手伸手向你的胸前 推到你的羊绒下面 他的温暖的手 找到你的乳头 轻轻地抚摸和扭动它们。"
+    "另外两只手伸向你的胸口，掀开披肩。墨绿色的手指找到乳头，轻轻揉捏起来。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_81178e7c:
 
-    e "我应该听教父的话。"
+    e "唔……早知就该听大长老的话……"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_8b96f285:
 
-    "你坚硬的牙齿,你的老二 越来越硬 和坚硬在你的裤子, 直到它的疼痛。"
+    "你咬紧牙关，裤裆里的家伙越来越硬，硬得发疼。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_43f62b8a:
 
-    "你从小指尖中抽取精液 在你的腰上留下湿色的污渍。"
+    "透明的前列腺液从兜裆布前渗出，洇成一块暗斑。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_36c40b66:
 
-    "鬼魂靠近了更近的地方 无情地呼吸在你的脖子上 恶毒的笑容藏在他的兜帽下。"
+    "那鬼怪凑得更近了，兜帽下藏着一抹坏笑，朝你脖颈呼出冰冷的气息。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_a66ca453:
 
-    "他所有的手都在你的身体里 抚摸你 摸你 挤压你 抽打你 泡你的乳头 让你呻吟。"
+    "此时他每只手都在你身上游走，有些胡乱地抓掐肌肉，有些贪婪地揉搓乳头，折磨得你忍不住呻吟。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_ada0923b:
 
-    "你试图扼杀它,但为时已晚。你的身体背叛了你,你感觉到你的臀部向前推动,而精神取笑你的鸡巴。"
+    "已经来不及憋住了，身体根本不听使唤。八臂鬼一握住你勃起的性器，你便本能地往前挺胯。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_2955d5b0:
 
-    "喷雾者眨眼,拉开你的腰布, 你的勃起自由跳动, 挥舞着欲望, 挥霍着预兆。"
+    "他眨眨眼，扯开了兜裆布。你勃起的鸡巴一下弹了出来，涨得发紫，顶端还挂着水光。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_95eb9e59:
 
-    "他的众多手伸到你的老二上 紧紧握着,紧紧地踩着, 欢乐已经是压倒性的了。"
+    "好几只手立刻聚拢过来，握住整根肉棒来回撸动，汹涌的快感差点使你放下防备。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_62fae63f:
 
-    "与他的鬼手搏斗 你只能无助地盯着他 看着他在你身体周围的探探 摸摸你的肌肉。"
+    "然而无论你如何挣扎，都只能眼睁睁看着这些下流的手掌反复滑过全身，肆意把玩自己每一块肌肉。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_794794b3:
 
-    "他的光谱手指 取笑你的短裤的底部 然后绕着轴环绕。"
+    "身下八臂鬼半透明的指节先是围绕冠沟打转，然后紧紧攥住根部。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_13900072:
 
-    "它给你一个紧握 当他们中风和挤压, 挤出更多你的预留。"
+    "这些指节边套弄边挤榨，马眼开始冒出一颗颗晶莹的液珠，越挤越多。那双荧光的眼睛瞬间亮了起来。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_15659693:
 
@@ -4210,22 +4210,22 @@ translate schinese_rewrite Scene_Spritebinder_Lose_15659693:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_93378655:
 
-    "他看着,你的乳头上的手 扭动和取笑他们, 就像你的手在你的 鸡巴中风和泵更快。"
+    "他兴奋地盯着你，两只手还捏着乳头不放，撸动下体的速度也越来越快。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_e45e1184:
 
-    "另一只手从你屁股的裂缝滑下来 另一只手握住你的下巴 将你的头转向他模糊的脸。"
+    "其他游走的断手一只滑入臀缝，一只捏住下巴，将你的头强行扭向那张难以名状的脸。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7dc3f617:
 
-    "你注意到他眼中有一双嘲讽的眼神 就像你下巴上的手把手指对着你的嘴唇一样。"
+    "绿荧荧的眼睛眯成戏虐的弧度，捏住你下巴的手按在了嘴唇上。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7f32b4c5:
 
     e "啊、啊啊……我、我说放开我……"
 translate schinese_rewrite Scene_Spritebinder_Lose_bbfe1d54:
 
-    "手指滑进你的嘴里 紧紧地按住你的舌头 尝着甜甜的味道。"
+    "那些手指撬开牙关伸进你嘴里，压在舌头上。他的手指有种诡异的甜味，令你忍不住主动吸吮起来。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_b751c8e8:
 
@@ -4233,95 +4233,95 @@ translate schinese_rewrite Scene_Spritebinder_Lose_b751c8e8:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_3d9ff700:
 
-    "他又射杀你一副愉快的格子 寻找会让你尖叫的地方。"
+    "八臂鬼顺着你的动作挑逗、搅动口中的“玩具”，眼神看起来很是满意，继续寻找能让你尖叫的敏感点。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_14b87397:
 
-    "同时,两腿之间的手 滑在屁股的两面之间 按着拇指的尖尖 紧紧的门口。"
+    "刚才穿进臀缝间的手抵住你的后穴，大拇指按着那个紧闭的地方。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_e05e4fc1:
 
-    e "N -gh... N -h。"
+    e "呃啊……不要碰——"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_4ebf1f5d:
 
-    "你呻吟,就像那个神灵 将他的拇指伸进你体内, 数字穿透你,很容易。"
+    "大拇指顶入得毫不费力。你浑身一颤，连声音都抖了起来。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7011e0c4:
 
-    "拇指进出你, 伸进你的内心深处, 双手在你的鸡鸡泵上 并更快地划, 挤得更紧。"
+    "私处里的指节进进出出，越捅越深。撸动你鸡巴的手也加快节奏握得更紧了。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_71bb1b1c:
 
-    "你不能否认自己在享受这种享受,这种享受使你的心灵和知觉难以满足。"
+    "快感冲溃了所有的理智与知觉，还怎么欺骗自己不乐在其中？"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_858eb427:
 
-    "灵魂手指的温暖和坚固 它们的移动方式和取笑你的方式 你以前没有感觉过。"
+    "这种温度和力度，还有他前后夹攻的手法，都带给你前所未有的刺激。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_e43f253b:
 
-    "你呻吟,当神灵在你的体内 挥动他的手指, 深入和深入到你的屁股, 直到他到达前列腺,。"
+    "你放声浪叫，他的手指越插越深，直到碰到你里面那个点，一股无名的幸福感涌遍全身。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_d3b007ae:
 
-    "他的光谱手指取笑和刺激腺, 让你呻吟和扭动你的臀部, 试图他妈的手包在你的鸡巴上。"
+    "八臂鬼不停刺激花心，让你忍不住挺胯往前顶，肏他紧紧包握的“手穴”。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_1eeef095:
 
-    "他把手指伸进你的嘴里 将拇指伸进你的喉咙里 让你吸吸 然后他和你一起玩。"
+    "他又塞进几根手指到你嘴里，大拇指顶入喉咙深处，给你一边吸吮一边被他侵犯。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_b4c2beec:
 
-    "他所有的手都在你身上工作, 踩踏和挤奶,抽水和泡茶, 把你逼到边缘。"
+    "每只浮空的手都没停过，撸、挤、揉、逗，把你逼向崩溃边缘。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_edbf717b:
 
-    "你整个身体都在颤抖 你知道那个神灵把你带到他想要你的地方。"
+    "你从头到脚都在颤抖，深知自己已经被这个鬼怪彻底掌控。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_c982de41:
 
-    "手在你的屁股 摩擦前列腺 而手在你的老二 触摸轴。"
+    "屁眼里的手指勾起来揉按前列腺，套弄肉棒的手也没停。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_d090a001:
 
-    "另一方面,你的乳头上那些 继续捏和挑逗, 通过你发出一股欢乐浪潮。"
+    "另外两只手掐着乳头又捏又拽，送出阵阵酥麻的电流感。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_087f8d6d:
 
-    "他们都加快了速度 抽抽你的老二 让你呻吟和哭泣。"
+    "他们都加快了速度 抽抽你的肉棒 让你呻吟和哭泣。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_ea4635a5:
 
-    "你用嘴塞住手指 口水从嘴角滴下来 灵魂侵犯你。"
+    "你浑身上下没有一处不被他玩弄着。连嘴里也被塞得满满当当，呼吸错乱涨红了脸，口水顺着嘴角流下来。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_cf95828d:
 
-    "你胸腔的肿胀,你的心跳比任何时候都快。你的快乐是强烈的,你渴望获得释放。"
+    "鼓膜的心跳声震耳欲聋，积压的快感渴求立即释放。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_5ee3cd84:
 
-    e "Arrrgh!"
+    e "哈啊！"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_450ae3dd:
 
-    "在某些时候,你的眼睛在欢乐中卷起 你的臀部在抽搐,你的鸡巴在 斑纹手的手中喷发。"
+    "霎时，你双脚一蹬猛地挺腰，鸡巴在五指紧致的包握中迸射。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7fb55784:
 
-    "你的种子在地上喷洒 在自己的身体上 流淌着波浪和波浪的欢乐脉冲 通过你的成员。"
+    "身上地上甚至被扒掉的衣服上，乳白的子孙浆喷溅得到处都是，一波接一波的快感继续冲击着你。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_9f166aa5:
 
-    "快乐是强烈的, 你的腿从你下面伸出来, 唯一能让你举起的东西是 闪闪发光的鬼手。"
+    "快感太过强烈，你爽到浑身颤抖眼睛都翻白了。腿脚也瘫软下来，靠的那几只手抓住才没往后摔。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_62f5a2e5:
 
-    "你老二的每滴精液里 都流满了石膏奶 抽你直到你用完 他好奇地盯着液流。"
+    "八臂鬼没有停下撸动，势要榨干卵蛋里最后一滴精液。直到研究对象彻底虚脱，才慢慢将你放到地上松开束缚。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_1e48edf4:
 
-    "他慢慢地释放你的手臂 当他转向你的时候 在他的闪耀的眼睛里 是一种娱乐和惊喜的暗示。"
+    "他好奇地盯着那几团白浊，然后将半透明的面庞凑到你面前，绿荧荧的双眼尽是戏谑与惊喜。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_8e6ebbdd:
 
@@ -4329,7 +4329,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_8e6ebbdd:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_feaf660d:
 
-    "你不能说话,甚至不能看 星盘, 而你被留在地上喘气。"
+    "你大口喘息说不出话，控制射精的那块肌肉还在抽搐。就这样呆呆地望向正前方，仿佛透过了那鬼怪。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_f4aa00c5:
 
@@ -4337,11 +4337,11 @@ translate schinese_rewrite Scene_Spritebinder_Lose_f4aa00c5:
 
 translate schinese_rewrite Scene_Spritebinder_Lose_42407166:
 
-    "你甚至不知道刚刚发生了什么, 你甚至不能确定你是否喜欢它。"
+    "这种事情究竟算什么？被这样侵犯自己也能享受起来吗？你搞不清楚。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_f6feeeff:
 
-    "闭上眼睛 慢慢地睡着 疲惫不堪。"
+    "你合上双眼放弃思考，疲惫不堪地沉沉睡去。"
 
 translate schinese_rewrite Scene_Bandit_Win_d5b89267:
 
@@ -4428,7 +4428,7 @@ translate schinese_rewrite Scene_Bandit_Win_8fa0d098:
 
 translate schinese_rewrite Scene_Bandit_Win_80aa1368:
 
-    "当他的内衣脱下, 他的鸡巴弹簧自由,半生半生。"
+    "脱下内裤后，他的阳具弹了出来，半硬地垂着。"
 
 translate schinese_rewrite Scene_Bandit_Win_e1043f2e:
 
@@ -4440,7 +4440,7 @@ translate schinese_rewrite Scene_Bandit_Win_c9753b78:
 
 translate schinese_rewrite Scene_Bandit_Win_a0682918:
 
-    "你再给他一个粗糙的吻 当你摸他的老二, 他呻吟对着你的嘴唇。"
+    "你再给他一个粗糙的吻 当你摸他的肉棒, 他呻吟对着你的嘴唇。"
 
 translate schinese_rewrite Scene_Bandit_Win_e5c5b140:
 
@@ -4452,7 +4452,7 @@ translate schinese_rewrite Scene_Bandit_Win_e720a9e8:
 
 translate schinese_rewrite Scene_Bandit_Win_1cd8dddf:
 
-    "另一只手继续打他的老二,现在很困难,你可以感觉到他的小费漏了。"
+    "另一只手继续打他的肉棒,现在很困难,你可以感觉到他的小费漏了。"
 
 translate schinese_rewrite Scene_Bandit_Win_9a5e1977:
 
@@ -4460,7 +4460,7 @@ translate schinese_rewrite Scene_Bandit_Win_9a5e1977:
 
 translate schinese_rewrite Scene_Bandit_Win_5b5edefc:
 
-    "你笑了,趴着,又吻了他 你的手抽他的老二和臀部。"
+    "你笑了,趴着,又吻了他 你的手抽他的肉棒和臀部。"
 
 translate schinese_rewrite Scene_Bandit_Win_ad9b3f58:
 
@@ -4488,11 +4488,11 @@ translate schinese_rewrite Scene_Bandit_Win_02ba708d:
 
 translate schinese_rewrite Scene_Bandit_Win_6904cac9:
 
-    "他的眼睛睁大了,他试图离你而去,但他的老二很硬,全身颤抖。"
+    "他的眼睛睁大了,他试图离你而去,但他的肉棒很硬,全身颤抖。"
 
 translate schinese_rewrite Scene_Bandit_Win_53db74fb:
 
-    bd "你在做什么?"
+    bd "你、你在干什么？"
 
 translate schinese_rewrite Scene_Bandit_Win_59baf496:
 
@@ -4500,11 +4500,11 @@ translate schinese_rewrite Scene_Bandit_Win_59baf496:
 
 translate schinese_rewrite Scene_Bandit_Win_f6f9018c:
 
-    "你老二很痛,你不能再等了 你拉开他,把他推到地上,让他躺着。"
+    "你肉棒很痛,你不能再等了 你拉开他,把他推到地上,让他躺着。"
 
 translate schinese_rewrite Scene_Bandit_Win_658285b9:
 
-    "他的老二压住你的胃,你就能感觉到它的热量。"
+    "他的肉棒压住你的胃,你就能感觉到它的热量。"
 
 translate schinese_rewrite Scene_Bandit_Win_6de40895:
 
@@ -4520,11 +4520,11 @@ translate schinese_rewrite Scene_Bandit_Win_4ddf5dbb:
 
 translate schinese_rewrite Scene_Bandit_Win_ce5b2356:
 
-    "你抓着他的老二,开始踩它,他弯腰,臀部往前推。"
+    "你抓着他的肉棒,开始踩它,他弯腰,臀部往前推。"
 
 translate schinese_rewrite Scene_Bandit_Win_2ad348da:
 
-    "你继续摸他的老二 享受他身体在你下面摇晃的样子。"
+    "你继续摸他的肉棒 享受他身体在你下面摇晃的样子。"
 
 translate schinese_rewrite Scene_Bandit_Win_09b8de2c:
 
@@ -4532,11 +4532,11 @@ translate schinese_rewrite Scene_Bandit_Win_09b8de2c:
 
 translate schinese_rewrite Scene_Bandit_Win_7272eb74:
 
-    e "你喜欢我摸你的老二吗?"
+    e "你喜欢我摸你的肉棒吗?"
 
 translate schinese_rewrite Scene_Bandit_Win_276a5da6:
 
-    bd "Mhh..."
+    bd "嗯……"
 
 translate schinese_rewrite Scene_Bandit_Win_7986cd4a:
 
@@ -4552,11 +4552,11 @@ translate schinese_rewrite Scene_Bandit_Win_e3249949:
 
 translate schinese_rewrite Scene_Bandit_Win_b78bcc20:
 
-    "松开你握住他的老二"
+    "松开你握住他的肉棒"
 
 translate schinese_rewrite Scene_Bandit_Win_7970a9c9:
 
-    "你只是拉着他的臀部,手握你的老二。"
+    "你只是拉着他的臀部,手握你的肉棒。"
 
 translate schinese_rewrite Scene_Bandit_Win_fbb51854:
 
@@ -4564,7 +4564,7 @@ translate schinese_rewrite Scene_Bandit_Win_fbb51854:
 
 translate schinese_rewrite Scene_Bandit_Win_ee6ee4cd:
 
-    "他眼睁睁看着你的老二 眼睁睁地看着他。"
+    "他眼睁睁看着你的肉棒 眼睁睁地看着他。"
 
 translate schinese_rewrite Scene_Bandit_Win_058a1757:
 
@@ -4572,11 +4572,11 @@ translate schinese_rewrite Scene_Bandit_Win_058a1757:
 
 translate schinese_rewrite Scene_Bandit_Win_2205466f:
 
-    "你伸手在背后 按住你的老二 压住他的洞。"
+    "你伸手在背后 按住你的肉棒 压住他的洞。"
 
 translate schinese_rewrite Scene_Bandit_Win_384fdf41:
 
-    "你上下下上下下上下上下,用你的预药给他润滑油。"
+    "你上下撸动着，用前液替他润滑。"
 
 translate schinese_rewrite Scene_Bandit_Win_fc5be645:
 
@@ -4584,7 +4584,7 @@ translate schinese_rewrite Scene_Bandit_Win_fc5be645:
 
 translate schinese_rewrite Scene_Bandit_Win_041a9c86:
 
-    "趁你老二还没碰到他的屁股 早点说吧。"
+    "趁你肉棒还没碰到他的屁股 早点说吧。"
 
 translate schinese_rewrite Scene_Bandit_Win_fb53b3c0:
 
@@ -4592,7 +4592,7 @@ translate schinese_rewrite Scene_Bandit_Win_fb53b3c0:
 
 translate schinese_rewrite Scene_Bandit_Win_70af2d29:
 
-    bd "NNgh..."
+    bd "呃……"
 
 translate schinese_rewrite Scene_Bandit_Win_ba459288:
 
@@ -4600,11 +4600,11 @@ translate schinese_rewrite Scene_Bandit_Win_ba459288:
 
 translate schinese_rewrite Scene_Bandit_Win_6f42dd4a:
 
-    "感觉你的老二撞到他紧闭的洞的墙壁。"
+    "感觉你的肉棒撞到他紧闭的洞的墙壁。"
 
 translate schinese_rewrite Scene_Bandit_Win_849eca56:
 
-    "他的洞在你的老二周围紧紧地 让你大叫一通。"
+    "他的洞在你的肉棒周围紧紧地 让你大叫一通。"
 
 translate schinese_rewrite Scene_Bandit_Win_af467421:
 
@@ -4620,7 +4620,7 @@ translate schinese_rewrite Scene_Bandit_Win_5744c53c:
 
 translate schinese_rewrite Scene_Bandit_Win_fe52b775:
 
-    bd "S-shut up..."
+    bd "闭、闭嘴……"
 
 translate schinese_rewrite Scene_Bandit_Win_526d1f6b:
 
@@ -4660,7 +4660,7 @@ translate schinese_rewrite Scene_Bandit_Win_f0d62b5a:
 
 translate schinese_rewrite Scene_Bandit_Win_81f33dc4:
 
-    "你忍不住笑着看 看见那个自大的土匪现在被驯服 屈从于你老二的无情打击。"
+    "你忍不住笑着看 看见那个自大的土匪现在被驯服 屈从于你肉棒的无情打击。"
 
 translate schinese_rewrite Scene_Bandit_Win_27799f07:
 
@@ -4700,7 +4700,7 @@ translate schinese_rewrite Scene_Bandit_Win_f5b724f3:
 
 translate schinese_rewrite Scene_Bandit_Win_35e2293a:
 
-    "你开始用力地用力推,你的老二在抽动,他的洞在你身边。"
+    "你开始用力地用力推,你的肉棒在抽动,他的洞在你身边。"
 
 translate schinese_rewrite Scene_Bandit_Win_870a4d4f:
 
@@ -4724,11 +4724,11 @@ translate schinese_rewrite Scene_Bandit_Win_5b781e01:
 
 translate schinese_rewrite Scene_Bandit_Win_61ffe11e:
 
-    "他哭泣,试图忍住,但太过分了。他开始精液,你觉得他的洞 环绕你的老二。"
+    "他哭泣,试图忍住,但太过分了。他开始精液,你觉得他的洞 环绕你的肉棒。"
 
 translate schinese_rewrite Scene_Bandit_Win_4d32849e:
 
-    bd "Ahhh!"
+    bd "啊啊啊！"
 
 translate schinese_rewrite Scene_Bandit_Win_14c8faa0:
 
@@ -4752,7 +4752,7 @@ translate schinese_rewrite Scene_Bandit_Win_5ac69c9b:
 
 translate schinese_rewrite Scene_Bandit_Win_8f52f018:
 
-    bd "Uhmm..."
+    bd "呃……"
 
 translate schinese_rewrite Scene_Bandit_Win_405747ce:
 
@@ -4784,7 +4784,7 @@ translate schinese_rewrite Scene_Bandit_Win_510cb394:
 
 translate schinese_rewrite Scene_Bandit_Win_4b775a61:
 
-    bd "Uh... F-f..."
+    bd "呃……操、操……"
 
 translate schinese_rewrite Scene_Bandit_Win_7f05b6e8:
 
@@ -4808,7 +4808,7 @@ translate schinese_rewrite Scene_Bandit_Win_af43b0e7:
 
 translate schinese_rewrite Scene_Bandit_Win_a34414fe:
 
-    e "Hnnngh..."
+    e "嗯呃..."
 
 translate schinese_rewrite Scene_Bandit_Win_fc6b7340:
 
@@ -4820,7 +4820,7 @@ translate schinese_rewrite Scene_Bandit_Win_7bf08a60:
 
 translate schinese_rewrite Scene_Bandit_Win_50888ae6:
 
-    "你尽你所能的深入, 尽力让他的身体里乱七八糟的, 用你的老二 抽出每秒的种子。"
+    "你尽你所能的深入, 尽力让他的身体里乱七八糟的, 用你的肉棒 抽出每秒的种子。"
 
 translate schinese_rewrite Scene_Bandit_Win_0eea7990:
 
@@ -4836,7 +4836,7 @@ translate schinese_rewrite Scene_Bandit_Win_cee6bf3e:
 
 translate schinese_rewrite Scene_Bandit_Win_184f54eb:
 
-    "你可以感觉到他的身体在抽搐,洞在紧紧地拉开,他颤抖,他的老二在继续抽搐。"
+    "你可以感觉到他的身体在抽搐,洞在紧紧地拉开,他颤抖,他的肉棒在继续抽搐。"
 
 translate schinese_rewrite Scene_Bandit_Win_5ba64e01:
 
@@ -4860,7 +4860,7 @@ translate schinese_rewrite Scene_Bandit_Win_0a36451e:
 
 translate schinese_rewrite Scene_Bandit_Win_ded09491:
 
-    "你笑得脸红脸红 对你自己的俘虏来两次很满意 很明显他太享受了。"
+    "你露出一抹狡黠的笑容；自己的俘虏已经射了两次，而他显然也享受得过了头。"
 
 translate schinese_rewrite Scene_Bandit_Win_52a7749f:
 
@@ -4872,7 +4872,7 @@ translate schinese_rewrite Scene_Bandit_Win_6dc31b68:
 
 translate schinese_rewrite Scene_Bandit_Win_2982540c:
 
-    e "Done."
+    e "……"
 
 translate schinese_rewrite Scene_Bandit_Win_ee482ce1:
 
@@ -4880,7 +4880,7 @@ translate schinese_rewrite Scene_Bandit_Win_ee482ce1:
 
 translate schinese_rewrite Scene_Bandit_Win_7895b6fb:
 
-    bd "Hnnngh... fuck..."
+    bd "嗯呃……操……"
 
 translate schinese_rewrite Scene_Bandit_Win_9f8c0dff:
 
@@ -4916,7 +4916,7 @@ translate schinese_rewrite Scene_Bandit_Win_b373f772:
 
 translate schinese_rewrite Scene_Bandit_Win_2d85a1fa:
 
-    bd "下次你一个人回来,我们看看谁来操谁,也许你才是那个乞求我老二的人。"
+    bd "下次你一个人回来,我们看看谁来操谁,也许你才是那个乞求我肉棒的人。"
 
 translate schinese_rewrite Scene_Bandit_Win_568305ef:
 
@@ -4924,7 +4924,7 @@ translate schinese_rewrite Scene_Bandit_Win_568305ef:
 
 translate schinese_rewrite Scene_Bandit_Win_466c49e6:
 
-    bd "Hmmph..."
+    bd "呃……"
 
 translate schinese_rewrite Scene_Bandit_Win_f806e24d:
 
@@ -4983,7 +4983,7 @@ translate schinese_rewrite Scene_Bandit_Win_71693563:
 
 translate schinese_rewrite Scene_Bandit_Win_3a55c202:
 
-    bd "哦,别担心,我会他妈的你的 adv -. mmmm...！"
+    bd "哦，别担心，我会操得你……呃……！"
 
 translate schinese_rewrite Scene_Bandit_Win_669f28c4:
 
@@ -5003,7 +5003,7 @@ translate schinese_rewrite Scene_Bandit_Win_8e80667c:
 
 translate schinese_rewrite Scene_Bandit_Win_69a55c10:
 
-    "他眼睁睁地看着你,你脸红脸红的微笑, 那样你就转过身去,离开那个土匪。"
+    "他满脸困惑地盯着你。你坏笑着转身，离开了那名强盗。"
 
 translate schinese_rewrite Scene_Bear_Win_14d0f6d0:
 
@@ -5067,7 +5067,7 @@ translate schinese_rewrite Scene_Bear_Win_3579120c:
 
 translate schinese_rewrite Scene_Bear_Win_2ebe06fa:
 
-    "你把手举到他的胸口 开始一个一个地脱下他的衣服。"
+    "你把手移到他的胸口，开始一件件解开他的衣物。"
 
 translate schinese_rewrite Scene_Bear_Win_a503fee9:
 
@@ -5091,7 +5091,7 @@ translate schinese_rewrite Scene_Bear_Win_86a5392d:
 
 translate schinese_rewrite Scene_Bear_Win_fb6067ac:
 
-    e "多么漂亮的一块,你介意我 保持保持那个...？"
+    e "真是个不错的家伙，你不介意我继续握着它吧……？"
 
 translate schinese_rewrite Scene_Bear_Win_073c481b:
 
@@ -5099,7 +5099,7 @@ translate schinese_rewrite Scene_Bear_Win_073c481b:
 
 translate schinese_rewrite Scene_Bear_Win_576204fc:
 
-    "染色布底部是红褐色的 长着脚的 长着脚的 红褐色的软骨。"
+    "污迹斑斑的布料下，是一根粗大的红褐色软阳具，软绵绵地垂在他双腿之间。"
 
 translate schinese_rewrite Scene_Bear_Win_30780c7c:
 
@@ -5115,7 +5115,7 @@ translate schinese_rewrite Scene_Bear_Win_678a7241:
 
 translate schinese_rewrite Scene_Bear_Win_07f4dc84:
 
-    bearGuard "Uhnnng!"
+    bearGuard "嗯呃！"
 
 translate schinese_rewrite Scene_Bear_Win_3af2a73a:
 
@@ -5174,7 +5174,7 @@ translate schinese_rewrite Scene_Bear_Win_3d2e41c4:
 
 translate schinese_rewrite Scene_Bear_Win_40435c51:
 
-    "你继续磨,他的老二开始硬起来肿胀。"
+    "你继续磨,他的肉棒开始硬起来肿胀。"
 
 translate schinese_rewrite Scene_Bear_Win_7166f341:
 
@@ -5182,7 +5182,7 @@ translate schinese_rewrite Scene_Bear_Win_7166f341:
 
 translate schinese_rewrite Scene_Bear_Win_6892bc39:
 
-    "这只熊已经半身半身了 他的鸡巴抽动和抽动 求人注意。"
+    "那头熊的阳具已经半勃起，阵阵抽动，仿佛在乞求关注。"
 
 translate schinese_rewrite Scene_Bear_Win_93eb9186:
 
@@ -5210,7 +5210,7 @@ translate schinese_rewrite Scene_Bear_Win_638c1d27:
 
 translate schinese_rewrite Scene_Bear_Win_db36f04b:
 
-    "他低头看,他的老二完全勃起, 尖滴滴预积。"
+    "他低头看,他的肉棒完全勃起, 尖滴滴预积。"
 
 translate schinese_rewrite Scene_Bear_Win_33afffe8:
 
@@ -5238,7 +5238,7 @@ translate schinese_rewrite Scene_Bear_Win_eeaad6b7:
 
 translate schinese_rewrite Scene_Bear_Win_6543e304:
 
-    "推你的老二一尖,它把熊的入口张开,他喘气,想把它抱住。"
+    "推你的肉棒一尖,它把熊的入口张开,他喘气,想把它抱住。"
 
 translate schinese_rewrite Scene_Bear_Win_38d24f81:
 
@@ -5246,7 +5246,7 @@ translate schinese_rewrite Scene_Bear_Win_38d24f81:
 
 translate schinese_rewrite Scene_Bear_Win_765f2cd1:
 
-    "熊开始颤抖, 你可以感觉到他的心跳 快速,敲打你的老二。"
+    "熊开始颤抖, 你可以感觉到他的心跳 快速,敲打你的肉棒。"
 
 translate schinese_rewrite Scene_Bear_Win_b4e941b8:
 
@@ -5258,7 +5258,7 @@ translate schinese_rewrite Scene_Bear_Win_0a7c4034:
 
 translate schinese_rewrite Scene_Bear_Win_24388df2:
 
-    "感觉他的紧身洞 紧紧抱着你的老二 挤压着它的生命。"
+    "感觉他的紧身洞 紧紧抱着你的肉棒 挤压着它的生命。"
 
 translate schinese_rewrite Scene_Bear_Win_22c665e9:
 
@@ -5266,7 +5266,7 @@ translate schinese_rewrite Scene_Bear_Win_22c665e9:
 
 translate schinese_rewrite Scene_Bear_Win_09c2a474:
 
-    bearGuard "A-A-Ha-ahagh..."
+    bearGuard "啊、啊——哈啊……"
 
 translate schinese_rewrite Scene_Bear_Win_01a976ed:
 
@@ -5274,7 +5274,7 @@ translate schinese_rewrite Scene_Bear_Win_01a976ed:
 
 translate schinese_rewrite Scene_Bear_Win_9596aa03:
 
-    "感觉好像你的老二深入到他身体深处 击中他体内敏感的地方。"
+    "感觉好像你的肉棒深入到他身体深处 击中他体内敏感的地方。"
 
 translate schinese_rewrite Scene_Bear_Win_93693de1:
 
@@ -5282,19 +5282,19 @@ translate schinese_rewrite Scene_Bear_Win_93693de1:
 
 translate schinese_rewrite Scene_Bear_Win_4fdc40a6:
 
-    "他的紧身紧身太不可思议了 他的前列腺感觉就像你的老二撞到他时 火烧的一样。"
+    "你的阳具撞入他体内时，他紧致得惊人，前列腺灼热得仿佛着了火。"
 
 translate schinese_rewrite Scene_Bear_Win_4f63f498:
 
-    "你用每一击都打他的屁股 你的蛋蛋都能听到 响亮的湿巴巴 熊的欢乐尖叫声。"
+    "你用每一击都打他的屁股 你的睾丸都能听到 响亮的湿巴巴 熊的欢乐尖叫声。"
 
 translate schinese_rewrite Scene_Bear_Win_ac83e8fd:
 
-    "他用他的热洞塞住你的老二 挤你的老二 你知道他想要你的种子 淹没他的身体。"
+    "他用他的热洞塞住你的肉棒 挤你的肉棒 你知道他想要你的种子 淹没他的身体。"
 
 translate schinese_rewrite Scene_Bear_Win_9ae716af:
 
-    "一点一点地,他的低调的咕噜声和咕噜声 开始听起来像呻吟和欢乐的叹息, 疼痛慢慢地平息,他给予快乐。"
+    "随着疼痛渐渐消退，他低沉的呜咽与咕哝开始变成愉悦的呻吟和叹息；他逐渐屈服于快感。"
 
 translate schinese_rewrite Scene_Bear_Win_328c8a26:
 
@@ -5306,7 +5306,7 @@ translate schinese_rewrite Scene_Bear_Win_3fe8a865:
 
 translate schinese_rewrite Scene_Bear_Win_f2d7fb92:
 
-    "每次你把老二踢进他紧闭的洞里 伸开他的屁股。"
+    "每次你把肉棒踢进他紧闭的洞里 伸开他的屁股。"
 
 translate schinese_rewrite Scene_Bear_Win_5df3f5ec:
 
@@ -5322,11 +5322,11 @@ translate schinese_rewrite Scene_Bear_Win_c4b12b8a:
 
 translate schinese_rewrite Scene_Bear_Win_109c6d85:
 
-    "他紧紧的洞堵住你的老二 几乎不可能拔出来 你不得不紧张才能把老二拔出来。"
+    "他紧紧的洞堵住你的肉棒 几乎不可能拔出来 你不得不紧张才能把肉棒拔出来。"
 
 translate schinese_rewrite Scene_Bear_Win_85e1b097:
 
-    "但你会,然后再把它压回去 把你老二埋进他体内。"
+    "但你会,然后再把它压回去 把你肉棒埋进他体内。"
 
 translate schinese_rewrite Scene_Bear_Win_a9d9c10e:
 
@@ -5365,11 +5365,11 @@ translate schinese_rewrite Scene_Bear_Win_247b7ff5:
 
 translate schinese_rewrite Scene_Bear_Win_1db89aec:
 
-    "他放出长长的呻吟 在他的老二爆炸时拉出呻吟 射中他的腹部和胸部 涂上他的毛皮。"
+    "他放出长长的呻吟 在他的肉棒爆炸时拉出呻吟 射中他的腹部和胸部 涂上他的毛皮。"
 
 translate schinese_rewrite Scene_Bear_Win_58073173:
 
-    "你能感觉到熊的洞 凝结和抽筋, 挤挤你的老二,迫使你高潮。"
+    "你能感觉到熊的洞 凝结和抽筋, 挤挤你的肉棒,迫使你高潮。"
 
 translate schinese_rewrite Scene_Bear_Win_d921902c:
 
@@ -5381,7 +5381,7 @@ translate schinese_rewrite Scene_Bear_Win_c76bb4d3:
 
 translate schinese_rewrite Scene_Bear_Win_4ed30dfa:
 
-    "熊呻吟,他全身在颤抖,他的老二 越发跳动,涂上他的毛皮和你的手。"
+    "熊呻吟,他全身在颤抖,他的肉棒 越发跳动,涂上他的毛皮和你的手。"
 
 translate schinese_rewrite Scene_Bear_Win_2e6c1d33:
 
@@ -5389,7 +5389,7 @@ translate schinese_rewrite Scene_Bear_Win_2e6c1d33:
 
 translate schinese_rewrite Scene_Bear_Win_95e6c448:
 
-    "你拉出来,你的老二从他的洞里溜出来, 你已经感觉到了寒冷的尖锐, 尽管你的直立成员涂了精液。"
+    "你拉出来,你的肉棒从他的洞里溜出来, 你已经感觉到了寒冷的尖锐, 尽管你的直立成员涂了精液。"
 
 translate schinese_rewrite Scene_Bear_Win_f11e7c7d:
 
@@ -5465,7 +5465,7 @@ translate schinese_rewrite Scene_Bear_Lose_b6a3a2ef:
 
 translate schinese_rewrite Scene_Bear_Lose_2844eb14:
 
-    "他调整了你的手腕的手腕 和深挖你的皮肤的爪子。"
+    "他调整着握住你手腕的力道，熊掌深深陷入你的皮肤。"
 
 translate schinese_rewrite Scene_Bear_Lose_129cd003:
 
@@ -5509,7 +5509,7 @@ translate schinese_rewrite Scene_Bear_Lose_dcb9125f:
 
 translate schinese_rewrite Scene_Bear_Lose_e24f0cd1:
 
-    bearGuard "要么杀了你 要么杀了你 我也不想流血 反正不是今天。"
+    bearGuard "要么杀了你，要么占有你；我不想见血。至少今天不想。"
 
 translate schinese_rewrite Scene_Bear_Lose_191296af:
 
@@ -5581,7 +5581,7 @@ translate schinese_rewrite Scene_Bear_Lose_67b8f2c1:
 
 translate schinese_rewrite Scene_Bear_Lose_8af1aeeb:
 
-    bearGuard "这就是我想的。"
+    bearGuard "我就知道。"
 
 translate schinese_rewrite Scene_Bear_Lose_80a48a82:
 
@@ -5637,7 +5637,7 @@ translate schinese_rewrite Scene_Bear_Lose_b32716b8:
 
 translate schinese_rewrite Scene_Bear_Lose_a41dbebc:
 
-    "你能感觉到他那厚厚硬的老二 压到你的屁股 扭伤穿过你的身体。"
+    "你能感觉到他那厚厚硬的肉棒 压到你的屁股 扭伤穿过你的身体。"
 
 translate schinese_rewrite Scene_Bear_Lose_34dc32d0:
 
@@ -5709,11 +5709,11 @@ translate schinese_rewrite Scene_Bear_Lose_0087661c:
 
 translate schinese_rewrite Scene_Bear_Lose_d3fe379e:
 
-    "他的手指滑进裂缝里 取笑你的洞 让它颤抖和颤抖。"
+    "他的手指滑进臀缝里 取笑你的洞 让它颤抖和颤抖。"
 
 translate schinese_rewrite Scene_Bear_Lose_b4435e32:
 
-    e "A-aa-ah..."
+    e "啊、啊啊……"
 
 translate schinese_rewrite Scene_Bear_Lose_c080f260:
 
@@ -5733,7 +5733,7 @@ translate schinese_rewrite Scene_Bear_Lose_237e30c7:
 
 translate schinese_rewrite Scene_Bear_Lose_3c78dbf2:
 
-    e "S-shut up..."
+    e "闭、闭嘴……"
 
 translate schinese_rewrite Scene_Bear_Lose_b1030f06:
 
@@ -5769,11 +5769,11 @@ translate schinese_rewrite Scene_Bear_Lose_d16dc88e:
 
 translate schinese_rewrite Scene_Bear_Lose_f180d8fa:
 
-    e "Ah-aa-aha...."
+    e "啊、啊啊……"
 
 translate schinese_rewrite Scene_Bear_Lose_0e138c6e:
 
-    bearGuard "我知道我的肥老二正在填满你 但你会习惯的。"
+    bearGuard "我知道我的肥肉棒正在填满你 但你会习惯的。"
 
 translate schinese_rewrite Scene_Bear_Lose_f1e7dd2a:
 
@@ -5805,7 +5805,7 @@ translate schinese_rewrite Scene_Bear_Lose_761f0572:
 
 translate schinese_rewrite Scene_Bear_Lose_25156801:
 
-    e "Ugh... f-fuck..."
+    e "呃……操、操……"
 
 translate schinese_rewrite Scene_Bear_Lose_40cb1d53:
 
@@ -5833,7 +5833,7 @@ translate schinese_rewrite Scene_Bear_Lose_0e8c1920:
 
 translate schinese_rewrite Scene_Bear_Lose_5f3ac411:
 
-    "快点,他的老二更深 冲过你湿洞的抵抗。"
+    "快点,他的肉棒更深 冲过你湿洞的抵抗。"
 
 translate schinese_rewrite Scene_Bear_Lose_6c2b7661:
 
@@ -5849,7 +5849,7 @@ translate schinese_rewrite Scene_Bear_Lose_30b0e9e7:
 
 translate schinese_rewrite Scene_Bear_Lose_f2803962:
 
-    "他再次推,他的大鸡鸡 滑动进出你, 击打一些地方 没有人或野兽可以到达。"
+    "他再次推,他的大肉棒 滑动进出你, 击打一些地方 没有人或野兽可以到达。"
 
 translate schinese_rewrite Scene_Bear_Lose_f6f87082:
 
@@ -5869,11 +5869,11 @@ translate schinese_rewrite Scene_Bear_Lose_6f684388:
 
 translate schinese_rewrite Scene_Bear_Lose_22d930ff:
 
-    "他咆哮,开始冲你, 他巨大的鸡鸡滑动 进出的快。"
+    "他咆哮,开始冲你, 他巨大的肉棒滑动 进出的快。"
 
 translate schinese_rewrite Scene_Bear_Lose_98b07394:
 
-    "你叫喊,打, 抓在冰, 但他抱着你紧,他妈的你无情, 他的重球打你的屁股 用每一推。"
+    "你尖叫着挣扎，抓挠着冰面，但他紧紧按住你，无情地操弄着你；沉重的睾丸随着每次抽插拍打你的臀部。"
 
 translate schinese_rewrite Scene_Bear_Lose_7047933f:
 
@@ -5909,7 +5909,7 @@ translate schinese_rewrite Scene_Bear_Lose_09df6230:
 
 translate schinese_rewrite Scene_Bear_Lose_0ce23fe3:
 
-    e "A-ahh..."
+    e "啊、啊啊……"
 
 translate schinese_rewrite Scene_Bear_Lose_c2a0dba7:
 
@@ -5953,7 +5953,7 @@ translate schinese_rewrite Scene_Bear_Lose_54f0a06d:
 
 translate schinese_rewrite Scene_Bear_Lose_a2f2387e:
 
-    bearGuard "好。"
+    bearGuard "很好，那就这样。"
 
 translate schinese_rewrite Scene_Bear_Lose_a2a74108:
 
@@ -6033,11 +6033,11 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_cbe74100:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_7c7161e9:
 
-    "他们开始脱衣服,他们的老二从裤子里冒出来, 没有人会感到惊讶, 他们既大又厚。"
+    "他们开始脱衣服,他们的肉棒从裤子里冒出来, 没有人会感到惊讶, 他们既大又厚。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_5f5d48de:
 
-    e "你在做什么?"
+    e "你、你在干什么？"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_034008c1:
 
@@ -6057,11 +6057,11 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_0f4284a7:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_4bd81979:
 
-    "他的老二开始动动,他向下俯身 摸你的屁股。"
+    "他的肉棒开始动动,他向下俯身 摸你的屁股。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_7b5f357d:
 
-    "另一个狼人盯着他搭档的推力 看着你的屁股摩擦他的老二 他呻吟。"
+    "另一个狼人盯着他搭档的推力 看着你的屁股摩擦他的肉棒 他呻吟。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_2cc85cf8:
 
@@ -6069,7 +6069,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_2cc85cf8:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_91123a57:
 
-    ww "Damn right."
+    ww "当然了。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_472db5fe:
 
@@ -6133,7 +6133,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_1a595832:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_be91d869:
 
-    ww2 "我们的老二会像一块木头一样把他撕成碎片。"
+    ww2 "我们的肉棒会像一块木头一样把他撕成碎片。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_a44733c8:
 
@@ -6161,7 +6161,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_ec926009:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_fba60dc8:
 
-    ww "别动,小贱人 我要把我的老二塞上去,别打破。"
+    ww "别动,小贱人 我要把我的肉棒塞上去,别打破。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_4fef6f61:
 
@@ -6193,7 +6193,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_104f71b2:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_04083564:
 
-    "狼人呻吟,他慢慢地把鸡鸡推到你身上 把你的屁股拉到极限了。"
+    "狼人呻吟,他慢慢地把肉棒推到你身上 把你的屁股拉到极限了。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_810dd2e0:
 
@@ -6201,7 +6201,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_810dd2e0:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_88955ed4:
 
-    "他叫喊着要把他的老二 逼进你那紧身的屁股里。"
+    "他叫喊着要把他的肉棒 逼进你那紧身的屁股里。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_3294ba96:
 
@@ -6221,18 +6221,18 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_57c67b5b:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_a2325fed:
 
-    "前面的狼人可以清楚地看到 近视他的老二 冲进和冲出, 和事实上,你的屁股 挤在他的老二 像真空一样。"
+    "前面的狼人可以清楚地看到 近视他的肉棒 冲进和冲出, 和事实上,你的屁股 挤在他的肉棒 像真空一样。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_3647e675:
 
-    "你感到他的老二的热肉 让你的屁股张开,也许太张开。"
+    "你感到他的肉棒的热肉 让你的屁股张开,也许太张开。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_8f0d38ff:
 
     ww "紧得他妈要命……"
 translate schinese_rewrite Scene_Werewolf_Double_Lose_4874cb33:
 
-    "狼人把他的老二拉出来 然后推回去 把你的屁股拉得更宽。"
+    "狼人把他的肉棒拉出来 然后推回去 把你的屁股拉得更宽。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_37c6241f:
 
@@ -6252,15 +6252,15 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_817946a4:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_8327b0e4:
 
-    "你无法否认 你的老二已经很快乐了 即使背部的狼人没有猛推他的臀部。"
+    "你无法否认 你的肉棒已经很快乐了 即使背部的狼人没有猛推他的臀部。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_dd059254:
 
-    "一些唾液滴到你的洞里 用他的爪子在紧闭的入口上 润滑着他搭档的老二。"
+    "一些唾液滴到你的洞里 用他的爪子在紧闭的入口上 润滑着他搭档的肉棒。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_667e9886:
 
-    "他俯视着 狼人老二的血管和脊椎 摩擦着你的敏感屁股。"
+    "他俯视着 狼人肉棒的血管和脊椎 摩擦着你的敏感屁股。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_61b7cd12:
 
@@ -6268,7 +6268,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_61b7cd12:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_5e3fab04:
 
-    "狼人说,当他站在对方的老二上方 逼着它对你屁股。"
+    "狼人说,当他站在对方的肉棒上方 逼着它对你屁股。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_c82a7261:
 
@@ -6284,7 +6284,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_2b414d9a:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_109bd9e4:
 
-    e "S -shit.n -n -n -n。"
+    e "操。没、没那么大……"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_8975649e:
 
@@ -6296,11 +6296,11 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_c5ab0357:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_24e5c60e:
 
-    "它挤压着你的洞墙 和他搭档的老二 足以让他的小费进入。"
+    "它挤压着你的洞墙 和他搭档的肉棒 足以让他的小费进入。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_fcbcb2ff:
 
-    "第一只鸡鸡被逼出一点点, 让另一个溜进去一点点。"
+    "第一只肉棒被逼出一点点, 让另一个溜进去一点点。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_ac05c376:
 
@@ -6308,7 +6308,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_ac05c376:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_8a269067:
 
-    "你上面的狼人把他的老二逼得更深 第一个能把鸡鸡溜回去。"
+    "你上面的狼人把他的肉棒逼得更深 第一个能把肉棒溜回去。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_85908248:
 
@@ -6320,7 +6320,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_a72233d3:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_38f7d32e:
 
-    ww "之后这个婊子会变得漂亮紧紧,兄弟 他的洞在抓我的老二。"
+    ww "之后这个婊子会变得漂亮紧紧,兄弟 他的洞在抓我的肉棒。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_e846e628:
 
@@ -6332,7 +6332,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_e7846ec8:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_8f916496:
 
-    "你的老二已经滴水了 连碰都没碰过。"
+    "你的肉棒已经滴水了 连碰都没碰过。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_0844545d:
 
@@ -6340,7 +6340,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_0844545d:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_7b90693b:
 
-    ww2 "这小婊子的老二太硬了 你喜欢,不是吗,婊子?"
+    ww2 "这小婊子的肉棒太硬了 你喜欢,不是吗,婊子?"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_e23767fc:
 
@@ -6356,7 +6356,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_6e01e5e2:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_4ea62f60:
 
-    "你可以感觉到第一个蛋蛋在你面前打, 而第二个蛋蛋几乎一路上都拉着他的鸡巴, 然后把它挤回里面。"
+    "你可以感觉到第一个睾丸在你面前打, 而第二个睾丸几乎一路上都拉着他的鸡巴, 然后把它挤回里面。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_c6c590fd:
 
@@ -6380,7 +6380,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_70e50e7f:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_2ea1e80b:
 
-    "第二只咆哮,你看得出他很兴奋 他把老二拉出来,然后把老二打回里面。"
+    "第二只咆哮,你看得出他很兴奋 他把肉棒拉出来,然后把肉棒打回里面。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_a8ffa59f:
 
@@ -6440,7 +6440,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_4f59957a:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_5c2e5a39:
 
-    "暂时,你放松肌肉的时候 放松对身体的所有控制 让他们的老二向不同方向推 刺穿你的内脏。"
+    "暂时,你放松肌肉的时候 放松对身体的所有控制 让他们的肉棒向不同方向推 刺穿你的内脏。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_0e244564:
 
@@ -6448,7 +6448,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_0e244564:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_b89d8187:
 
-    "很明显,这两个狼人 也享受着每一刻 使用一个洞, 他们长得很大, 当他们继续 撞上他们的老二 从两边。"
+    "很明显,这两个狼人 也享受着每一刻 使用一个洞, 他们长得很大, 当他们继续 撞上他们的肉棒 从两边。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_f0f75e8e:
 
@@ -6484,7 +6484,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_ff6d24bb:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_fa78080d:
 
-    "你呻吟,当你觉得你的屁股 满是狼人的厚种, 你的鸡鸡爆发。"
+    "你呻吟,当你觉得你的屁股 满是狼人的厚种, 你的肉棒爆发。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_88316d73:
 
@@ -6500,7 +6500,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_2b0880a5:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_17b55d73:
 
-    "你能感觉到他们巨大的鸡鸡在你体内抽动 你忍不住要发出呼喊声。"
+    "你能感觉到他们巨大的肉棒在你体内抽动 你忍不住要发出呼喊声。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_eb59f868:
 
@@ -6556,7 +6556,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_d37801af:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_9c62498f:
 
-    e "把你的老二放进我的屁眼里 让你的结在我屁眼里感觉真好。"
+    e "把你的肉棒放进我的屁眼里 让你的结在我屁眼里感觉真好。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_dc06b956:
 
@@ -6568,7 +6568,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_a38ee0de:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_a046799b:
 
-    ww2 "没有破碎的玩具会永远破碎, 如果这个小婊子想要, 你总是可以回来爬回来 并乞讨我们的鸡鸡。"
+    ww2 "没有破碎的玩具会永远破碎, 如果这个小婊子想要, 你总是可以回来爬回来 并乞讨我们的肉棒。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_1a33f078:
 
@@ -6592,7 +6592,7 @@ translate schinese_rewrite Scene_Werewolf_Double_Lose_6d673e4c:
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_962d94fd:
 
-    "你伸到后面, 戳你的屁股, 裂缝洞甚至不能治愈, 你仍然可以感觉到 洞穿入和伸出。"
+    "你伸到后面, 戳你的屁股, 臀缝洞甚至不能治愈, 你仍然可以感觉到 洞穿入和伸出。"
 
 translate schinese_rewrite Scene_Werewolf_Double_Lose_1391e969:
 
@@ -6604,7 +6604,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_992b3d4c:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_a906aaf4:
 
-    "{i} 牧羊人来救我们{/i}"
+    "{i}牧羊人来救我们{/i}"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_c50661ce:
 
@@ -6616,7 +6616,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_fed64549:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_d0c303b0:
 
-    "你大喊大叫,你可以感觉到他的呼吸 压在你脖子上,他的声音温柔温柔。"
+    "你喊叫起来。你能感觉到他的呼吸拂过你的颈项，声音舒缓而温柔。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_ade168c8:
 
@@ -6676,7 +6676,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_289c9bd3:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_1d44809a:
 
-    e "这是什么?"
+    e "这是什么？"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_a27f9898:
 
@@ -6692,7 +6692,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_0f0a1c9c:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_efb3d03e:
 
-    "他把手指滑到你的尾巴上,你一碰他的手就颤抖,他的手感觉那么温柔,如此舒适,它滑过柔软的毛皮,滑行滑行。"
+    "他将手指滑向你的尾巴。你因他的触碰而颤抖；他的手掠过柔软的毛发，温柔而令人安心。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_147806ba:
 
@@ -6736,15 +6736,15 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_d1e6623b:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_52a59479:
 
-    "他说,当他抬起臀部, 包住他的老二 在你的脸上。"
+    "他说,当他抬起臀部, 包住他的肉棒 在你的脸上。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_1cc48e37:
 
-    "他的温暖成员沿着你屁股的裂缝滑动 他的手腕紧。"
+    "他的温暖成员沿着你屁股的臀缝滑动 他的手腕紧。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_63d5ffb9:
 
-    e "N-no... I..."
+    e "不、不……我……"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_7c8c6ac8:
 
@@ -6780,11 +6780,11 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_82ba25b3:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_97924d6d:
 
-    "邪教分子放出一个笑柄, 当他向前推, 他的厚的老二 沉入你的紧闭的洞里, 伸展你宽。"
+    "邪教分子放出一个笑柄, 当他向前推, 他的厚的肉棒 沉入你的紧闭的洞里, 伸展你宽。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_edea1993:
 
-    e "A-a... no-"
+    e "啊……不——"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_181a6ab4:
 
@@ -6800,7 +6800,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_e7e3d74f:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_b6cb8d61:
 
-    "他的老二又厚又长, 你感觉到你洞里的伸展, 当他滑得更深, 你的紧地紧地紧紧地紧紧地紧紧地紧紧地紧地紧地紧地紧地紧紧地紧紧地紧紧地紧地紧地地紧地紧地紧地紧地紧地地拉着,。"
+    "他的阳具又粗又长。它越滑越深时，你感到肛门被一点点撑开；紧致的肉壁箍住他的长度，使粗大的阳具阵阵跳动。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_b0800e57:
 
@@ -6832,7 +6832,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_9b1851a8:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_2b635ba7:
 
-    "山羊人的话就沉浸在你的脑海中 就像他的老二冲进你的身体里 填满你 伸展你。"
+    "山羊人的话就沉浸在你的脑海中 就像他的肉棒冲进你的身体里 填满你 伸展你。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_1fad43eb:
 
@@ -6896,7 +6896,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_3937e38d:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_9b9a0da8:
 
-    "他的老二在你的内心深处, 填充你, 伸展你, 你的墙 紧紧粘着他的厚长, 感应到每起撞撞 和血管在他的老二上。"
+    "他的肉棒在你的内心深处, 填充你, 伸展你, 你的墙 紧紧粘着他的厚长, 感应到每起撞撞 和血管在他的肉棒上。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_308ab9b6:
 
@@ -6912,7 +6912,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_c184171e:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_51cacf94:
 
-    "你可以感觉到他,猛击你的深处,他的厚小鸡巴伸展你的墙壁,他的球拍打你的屁股。他处于控制之中,你只能服从,他的权力,他的意志。"
+    "你能感觉到他不断撞入你的深处；粗大的阳物撑开你的穴壁，睾丸随着每次动作拍打你的臀部。他掌控着一切，你只能服从他的力量与意志。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_3d79f7e5:
 
@@ -6920,7 +6920,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_3d79f7e5:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_a7c3f8d1:
 
-    "你感觉到他 埋在你体内 更用力地推 他的老二伸展 以每一击拳的动作填满你的深度 他的蛋蛋用每一击你的脸颊。"
+    "你感觉到他 埋在你体内 更用力地推 他的肉棒伸展 以每一击拳的动作填满你的深度 他的睾丸用每一击你的脸颊。"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_6ff23d20:
 
@@ -6952,7 +6952,7 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_de7c8c19:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_2ff0dfa9:
 
-    e "I w-"
+    e "我——"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_4ad106ce:
 
@@ -6960,11 +6960,11 @@ translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_4ad106ce:
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_82a07b0d:
 
-    acolyte "Ughm..."
+    acolyte "呃嗯……"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_e7607c1e:
 
-    e "Ah-..."
+    e "啊……"
 
 translate schinese_rewrite Scene_Cult_Acolyte_Hypnosis_08e6b1bb:
 
@@ -7016,7 +7016,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_8d44c41e:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_23a0aa46:
 
-    "你盯着哈斯凯尔的摇摇欲坠的 却在屋子的暗暗光中轻轻地发光。"
+    "你饥渴地盯着哈斯克尔隆起的臀缝；它在昏暗的室内泛着柔光。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_edc71899:
 
@@ -7024,7 +7024,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_edc71899:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_0e665855:
 
-    "哈斯凯尔鼓动,靠在椅子上。他把腿伸大,使你更清楚地看到他的抽搐裂缝。"
+    "哈斯凯尔鼓动,靠在椅子上。他把腿伸大,使你更清楚地看到他的抽搐臀缝。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_95acf0aa:
 
@@ -7036,7 +7036,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_41f18ac4:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_50a9761f:
 
-    "你往前靠 伸出舌头 把鼻子挤进哈斯凯尔的裂缝里。"
+    "你往前靠 伸出舌头 把鼻子挤进哈斯凯尔的臀缝里。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_ddd2fd3e:
 
@@ -7072,7 +7072,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_0e0d8c9d:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_ef77c926:
 
-    h "Oh fuck..."
+    h "哦，操……"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_8d318f42:
 
@@ -7080,7 +7080,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_8d318f42:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_bf843b37:
 
-    "几分钟后,你拉开,喘得喘不过气来。 他的老二似乎藏在他的阴道里。"
+    "几分钟后,你拉开,喘得喘不过气来。 他的肉棒似乎藏在他的阴道里。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_e12d5844:
 
@@ -7148,11 +7148,11 @@ translate schinese_rewrite Scene_Haskell_Blowjob_a0f7fba3:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_9ac3b23b:
 
-    "然而,既然他之前的大批积载 并没有让他干枯, 他的切片还在产生足够的种子 让你开心地呻吟。"
+    "然而,既然他之前的大批积载 并没有让他干枯, 他的滑行还在产生足够的种子 让你开心地呻吟。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_501fe1e4:
 
-    "在从哈斯凯尔的洞里 翻了几分钟美味的混凝土之后 你脸上带着满满的笑容拉回来。"
+    "你吸吮了几分钟哈斯克尔后穴里美味的液体，随后满足地笑着退开。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_603081bc:
 
@@ -7172,7 +7172,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_de8f5a6c:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_181bf177:
 
-    e "在我发现你藏在那里的老二之前,我还没满,老头..."
+    e "在我发现你藏在那里的肉棒之前,我还没满,老头..."
 
 translate schinese_rewrite Scene_Haskell_Blowjob_042edef4:
 
@@ -7212,7 +7212,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_4c88cb89:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_3165524e:
 
-    "龙的气味和味道 淹没了你的感官, 你开始把你的鼻子 植入他的裂缝深处, 推过最初的抵抗 直到你只能呼吸 通过他的裂缝的内脏。"
+    "龙的气味和味道 淹没了你的感官, 你开始把你的鼻子 植入他的臀缝深处, 推过最初的抵抗 直到你只能呼吸 通过他的臀缝的内脏。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_0a66d8c5:
 
@@ -7272,7 +7272,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_cf76cba5:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_0b5f74a8:
 
-    "他盯着他的半硬的老二, 它躺在你的头上懒惰。"
+    "他盯着他的半硬的肉棒, 它躺在你的头上懒惰。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_0fe2feb5:
 
@@ -7288,7 +7288,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_77d721df:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_3c98d905:
 
-    "你笑,感受龙的鸡鸡在你头上的温暖重量。"
+    "你笑,感受龙的肉棒在你头上的温暖重量。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_06bc09b3:
 
@@ -7312,7 +7312,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_23b403b9:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_96da8f33:
 
-    e "mmph..."
+    e "呜嗯……"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_256d6888:
 
@@ -7320,7 +7320,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_256d6888:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_c928dbcc:
 
-    "你在他的老二周围呻吟,你的嘴里感觉很好 温暖和光滑,厚度刚好。"
+    "你在他的肉棒周围呻吟,你的嘴里感觉很好 温暖和光滑,厚度刚好。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_96eaf3a4:
 
@@ -7368,7 +7368,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_82dee9d9:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_ef77c926_1:
 
-    h "Oh fuck..."
+    h "哦，操……"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_3dd8b1be:
 
@@ -7396,7 +7396,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_75948cad:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_86b8eb2c:
 
-    "你用舌头绕着他的切片的内侧 无情地取笑他 直到他乞求更多。"
+    "你用舌头绕着他的滑行的内侧 无情地取笑他 直到他乞求更多。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_e0804eb5:
 
@@ -7432,7 +7432,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_69894467:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_20dd2208:
 
-    "哈斯凯尔的呼喊声很不高兴,但毫无回应,他看着你辛勤工作,努力恢复会员的活力,他脸红得脸红得脸红。"
+    "哈斯凯尔不满地哼了一声，却没有回应；他看着你勤勉地替他的阳具恢复活力，脸颊微微泛红。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_d8621e9b:
 
@@ -7484,7 +7484,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_87091ac2:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_d66ac5bd:
 
-    h "你越来越好孩子了 吸鸡鸡 嘲笑老龙。"
+    h "你越来越好孩子了 吸肉棒 嘲笑老龙。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_f7aac3a4:
 
@@ -7560,7 +7560,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_95b913a9:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_27789cf9:
 
-    "你在他身边呻吟 感觉他的老二在咬你的舌头。"
+    "你在他身边呻吟 感觉他的肉棒在咬你的舌头。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_f00f6470:
 
@@ -7604,7 +7604,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_f22ec7f2:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_9f83afb3:
 
-    "你的嘴唇在他老二周围移动得更快 你的脸颊空空如也 将他吸进喉咙深处。"
+    "你的嘴唇在他肉棒周围移动得更快 你的脸颊空空如也 将他吸进喉咙深处。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_c3e2a5f0:
 
@@ -7619,11 +7619,11 @@ translate schinese_rewrite Scene_Haskell_Blowjob_1d5b935a:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_889e3913:
 
-    "哈斯凯尔突然大喊大叫,达到他的峰顶。他的尾巴对你的舌头狂轰滥炸,他把大量热的黏液放入你的等待的嘴里。"
+    "突然，哈斯克尔大叫一声，抵达高潮。他的阳物在你舌头上剧烈搏动，将滚烫黏稠的液体倾泻进你张开的嘴里。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_a98a5316:
 
-    "龙状龙状从顶端喷发 涂上口罩 滴在胸口。"
+    "一股股龙精从顶端喷涌而出，沾满你的口鼻，顺着胸口流下。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_6c171ae6:
 
@@ -7631,11 +7631,11 @@ translate schinese_rewrite Scene_Haskell_Blowjob_6c171ae6:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_2a26d703:
 
-    h "F-fuck...!"
+    h "操、操……！"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_90a85c20:
 
-    "哈斯凯尔喘气,他的头被摇头丸扔回去,他全身颤抖,他释放出你的嘴,用热种子的绳子抽打绳子,直接进入你的喉咙。"
+    "哈斯克尔喘息着仰起头，沉浸在狂喜中。伴随精液一股股射入你的喉咙，他全身都在颤抖。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_90a08191:
 
@@ -7651,7 +7651,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_d73aef12:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_c41b92e1:
 
-    "哈斯凯尔在喉咙中 继续用厚厚的积块绳子 来射击绳子 你大声地呻吟 直到他最后倒回椅子上 喘得喘得喘不下去。"
+    "哈斯凯尔不断把一股又一股浓稠的精液射入你的喉咙。你大声呻吟，把最后一滴都咽下，直到他终于瘫回椅中，粗重地喘息。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_1cd43d5a:
 
@@ -7703,7 +7703,7 @@ translate schinese_rewrite Scene_Haskell_Blowjob_2b0f695f:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_2b556934:
 
-    h "Cum。"
+    h "射了。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_478391f9:
 
@@ -7775,11 +7775,11 @@ translate schinese_rewrite Scene_Haskell_Blowjob_e2d51bb0:
 
 translate schinese_rewrite Scene_Haskell_Blowjob_1b3647a6:
 
-    "哈斯凯尔·库斯,轻轻地把毛毛卷起来。你并不抗议,即使你没有做很多事,只是尝到了龙的味道,但你感到满足。"
+    "哈斯克尔轻声哄着你，温柔地抚摸你的毛发。你没有反抗——虽然你只是品尝了这条龙的东西，却感到心满意足。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_03443f5b:
 
-    "哈斯凯尔身体的热能帮助你放松 更深的,很快,你发现自己 被抱到哈斯凯尔的床上, 周围是他的天平的温暖。"
+    "哈斯克尔身体的热度让你更加放松；没过多久，你发现自己已被抱到他的床上，周围满是他鳞片的温暖。"
 
 translate schinese_rewrite Scene_Haskell_Blowjob_b1be3f9f:
 
@@ -7823,7 +7823,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_d6a0c4a3:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_3c7a94ba:
 
-    "他笑笑 把手伸向你的腰带 拔出你硬硬的老二。"
+    "他笑笑 把手伸向你的腰带 拔出你硬硬的肉棒。"
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_b68254b7:
 
@@ -7851,7 +7851,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_d68c9243:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_b7ee0ec7:
 
-    e "Ah fuck..."
+    e "啊，操……"
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_f992fa0b:
 
@@ -7871,7 +7871,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_2e324cc2:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_699101de:
 
-    "看着他仍然在享受自己 你勉强让他继续上下下上下下上下。"
+    "看他还在享受，你只好不情愿地让他继续上下舔舐。"
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_887d9040:
 
@@ -7879,7 +7879,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_887d9040:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_be9e398d:
 
-    e "F操,我要..."
+    e "操,我要..."
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_941d98dc:
 
@@ -7887,7 +7887,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_941d98dc:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_5f894283:
 
-    "老鼠拉了下来,让你的鸡鸡从嘴里溜出来 嘴里沾湿了。"
+    "老鼠拉了下来,让你的肉棒从嘴里溜出来 嘴里沾湿了。"
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_18d79d2d:
 
@@ -7943,7 +7943,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_d9e1bf72:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_2d457382:
 
-    "突然,你觉得你的蛋蛋紧紧了 你知道现在忍不住太迟了。"
+    "突然,你觉得你的睾丸紧紧了 你知道现在忍不住太迟了。"
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_61912375:
 
@@ -7962,7 +7962,7 @@ translate schinese_rewrite Scene_Rat_Patron_Alleyway_401e8e4e:
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_38ad1dac:
 
-    "老鼠慢慢拉下来 舔你的老二,在放手前先洗干净。"
+    "老鼠慢慢拉下来 舔你的肉棒,在放手前先洗干净。"
 
 translate schinese_rewrite Scene_Rat_Patron_Alleyway_5b863056:
 
@@ -8034,7 +8034,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_0f81fc08:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_b4f4b57c:
 
-    "他冷酷地在石头上摇摆, 把你放在他上面, 这样你就能超越他那巨大的, 振动的老二。"
+    "他冷酷地在石头上摇摆, 把你放在他上面, 这样你就能超越他那巨大的, 振动的肉棒。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_1b7de8fd:
 
@@ -8134,7 +8134,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_c16e1faf:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_24d63aae:
 
-    "他们的表情无法读懂, 他们的阴茎的阴茎的暗尖 可见于他们的两腿之间。"
+    "他们的表情难以捉摸，双腿之间露出阳具暗色的尖端。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_073a219d:
 
@@ -8170,11 +8170,11 @@ translate schinese_rewrite Scene_Caretaker_Extraction_6778ea26:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_30ec35ae:
 
-    "你在雪人老二周围呻吟 你那浑身发抖的声音在他脑中振动。"
+    "你在雪人肉棒周围呻吟 你那浑身发抖的声音在他脑中振动。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_86eaf9e4:
 
-    "很快,你的眼睛水 当你被迫采取 越来越多的他的老二, 你的喉咙限制 围绕他,因为他他妈的你的脸 硬和快。"
+    "很快,你的眼睛水 当你被迫采取 越来越多的他的肉棒, 你的喉咙限制 围绕他,因为他他妈的你的脸 硬和快。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_01974695:
 
@@ -8194,7 +8194,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_75b5d866:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_6c09a4c2:
 
-    "你稍稍颤抖, 向前倾斜 感受雪人鸡鸡的温暖 在你的鼻子前。"
+    "你稍稍颤抖, 向前倾斜 感受雪人肉棒的温暖 在你的鼻子前。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_afffc909:
 
@@ -8206,7 +8206,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_915c3709:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_24a1c751:
 
-    "感觉到有东西在握着你的手, 发现这是另一个雪人老二的一角, 紧紧按在手指上。你一定抓住了它, 但你不能放手。"
+    "感觉到有东西在握着你的手, 发现这是另一个雪人肉棒的一角, 紧紧按在手指上。你一定抓住了它, 但你不能放手。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_78072552:
 
@@ -8214,7 +8214,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_78072552:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_97f8fe1f:
 
-    "看守者亲吻你,看着你快乐 他的仆人,他自己的大鸡鸡 挥舞着期待。"
+    "看守者亲吻你,看着你快乐 他的仆人,他自己的大肉棒 挥舞着期待。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_e104fdb3:
 
@@ -8238,7 +8238,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_83f5c82f:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_f9a6af81:
 
-    "你听话地把自己从雪人老二上抬出来 你的嘴被淫荡的声音吹出来。"
+    "你听话地把自己从雪人肉棒上抬出来 你的嘴被淫荡的声音吹出来。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_a613dbcc:
 
@@ -8262,7 +8262,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_6c0225ef:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_bbf2d0ac:
 
-    "他大老二的一角 逼迫你, 你忍不住要放出 喘口气的感觉。"
+    "他大肉棒的一角 逼迫你, 你忍不住要放出 喘口气的感觉。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_03175a71:
 
@@ -8274,7 +8274,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_d41cc0ac:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_a1ecf91b:
 
-    "在你再说一个字之前 前面的雪人再次将你的嘴 推进你的嘴里 把你的头伸进他的老二里。"
+    "在你再说一个字之前 前面的雪人再次将你的嘴 推进你的嘴里 把你的头伸进他的肉棒里。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_15790b92:
 
@@ -8362,7 +8362,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_d16f8142:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_d47f5616:
 
-    "管家的大老二让你张开 完全填满你 因为它会滑入你内心深处。"
+    "管家的大肉棒让你张开 完全填满你 因为它会滑入你内心深处。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_76a618b7:
 
@@ -8422,7 +8422,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_9726eaeb:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_46659892:
 
-    "你用嘴里厚厚的老二求饶 感觉自己在两腿之间 勃起更难。"
+    "你用嘴里厚厚的肉棒求饶 感觉自己在两腿之间 勃起更难。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_ca3fa811:
 
@@ -8454,7 +8454,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_4ae6b06a:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_e332b120:
 
-    "你颤抖着看守的每一个方向 在你下面, 你可以感觉到自己的鸡鸡抽动 与他的胃。"
+    "你颤抖着看守的每一个方向 在你下面, 你可以感觉到自己的肉棒抽动 与他的胃。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_be7143e4:
 
@@ -8494,7 +8494,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_71627649:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_a5ce99ce:
 
-    "你大喊大叫,你的声音被雪人的老二打乱了 雪人又把鸡巴塞进你嘴里了。"
+    "你大喊大叫,你的声音被雪人的肉棒打乱了 雪人又把鸡巴塞进你嘴里了。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_2c85186e:
 
@@ -8526,7 +8526,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_9aefd22b:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_7a91525e:
 
-    "看守的老二似乎在你体内扩张, 更完全地填充你。他向前倾斜,他冷酷的脸像咆哮一样抚摸你。"
+    "看守的肉棒似乎在你体内扩张, 更完全地填充你。他向前倾斜,他冷酷的脸像咆哮一样抚摸你。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_406bf3a0:
 
@@ -8538,11 +8538,11 @@ translate schinese_rewrite Scene_Caretaker_Extraction_c5989f49_1:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_a08058e3:
 
-    "就像你认为你再也受不了了一样 你感觉到他那厚厚的老二在你体内抽动和抽动。"
+    "就像你认为你再也受不了了一样 你感觉到他那厚厚的肉棒在你体内抽动和抽动。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_c21ce13c:
 
-    "热感让你满脑子都是 让你在雪人老二周围哭泣 雪人老二还塞在你的喉咙里。"
+    "热感让你满脑子都是 让你在雪人肉棒周围哭泣 雪人肉棒还塞在你的喉咙里。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_1b47e7c0:
 
@@ -8550,7 +8550,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_1b47e7c0:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_ec444a60:
 
-    "你继续在你面前的雪人老二上流鼻涕 感觉他的热种子 倒在你的喉咙里。"
+    "你继续在你面前的雪人肉棒上流鼻涕 感觉他的热种子 倒在你的喉咙里。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_10da6343:
 
@@ -8594,7 +8594,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_a2fa62a9:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_fed878c3:
 
-    "最后,他仍然在你下面,他的大鸡鸡在你身体深处抽动。"
+    "最后,他仍然在你下面,他的大肉棒在你身体深处抽动。"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_17e342cd:
 
@@ -8610,7 +8610,7 @@ translate schinese_rewrite Scene_Caretaker_Extraction_e2d43c5c:
 
 translate schinese_rewrite Scene_Caretaker_Extraction_50fcc05e:
 
-    snow_caretaker "做得好..."
+    snow_caretaker "做得好……"
 
 translate schinese_rewrite Scene_Caretaker_Extraction_4d0bfef5:
 
@@ -8918,7 +8918,7 @@ translate schinese_rewrite Scene_Magic_Show_Bondage_Box_b702ea45:
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_a3088ef8:
 
-    "观众疯狂地欢呼着欢呼着 他们的淫欲双眼闪耀着兴奋的光芒。"
+    "观众疯狂鼓掌，淫欲的目光因兴奋而闪闪发亮。"
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_d0e1439f:
 
@@ -8938,7 +8938,7 @@ translate schinese_rewrite Scene_Magic_Show_Bondage_Box_979e9676:
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_f09de7af:
 
-    crowd2 "天啊,这个洞 吸我的老二太饿了。"
+    crowd2 "天啊,这个洞 吸我的肉棒太饿了。"
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_c4adc33c:
 
@@ -8982,7 +8982,7 @@ translate schinese_rewrite Scene_Magic_Show_Bondage_Box_161a3cf6:
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_179f63ff:
 
-    "你的身体在颤抖 快乐地颤抖,你急切地想伸展, 继续前进, 但在这个盒子里,你什么也做不了, 只能感觉下一只鸡鸡进入你的身体。"
+    "你的身体在颤抖 快乐地颤抖,你急切地想伸展, 继续前进, 但在这个盒子里,你什么也做不了, 只能感觉下一只肉棒进入你的身体。"
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_ceac5c10:
 
@@ -9042,7 +9042,7 @@ translate schinese_rewrite Scene_Magic_Show_Bondage_Box_5480d80a:
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_0a879037:
 
-    "外面发生的事都无关紧要 唯一能起作用的就是你的鸡鸡。"
+    "外面发生的事都无关紧要 唯一能起作用的就是你的肉棒。"
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_505170b7:
 
@@ -9082,7 +9082,7 @@ translate schinese_rewrite Scene_Magic_Show_Bondage_Box_b19d431d:
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_a02bc115:
 
-    "他挥舞着魔杖,盒子轻轻地发光,一击一击,盖子就会打开,让你在里面露面。"
+    "他挥动魔杖，盒子泛起柔光。随着咔哒一声，盒盖弹开，露出里面的你。"
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_ba43f728:
 
@@ -9122,7 +9122,7 @@ translate schinese_rewrite Scene_Magic_Show_Bondage_Box_902f4b09:
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_1d43fd38:
 
-    "Ribbagrins, 引导你走出舞台。"
+    "里巴咧嘴一笑，带着你走下舞台。"
 
 translate schinese_rewrite Scene_Magic_Show_Bondage_Box_151e215c:
 
@@ -9258,7 +9258,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_3c6b4267:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_c1872ed7:
 
-    "更别说惊讶的是,观众大喊大叫,有些人甚至大声鼓掌鼓掌,为期待的表演屏住呼吸。"
+    "你并不怎么意外，观众高声欢呼；有些人甚至越拍越响，屏息等待接下来的表演。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_d4b17788:
 
@@ -9290,7 +9290,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_19726cff:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_cd7cf9ca:
 
-    "里巴笑得又软又软 连瓶子都解开 还要一个大丝巾。"
+    "里巴带着羞怯的笑容拔开瓶塞，仰头大口喝了一口。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_cd669cfb:
 
@@ -9306,7 +9306,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_ae62de1b:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_1c90d8bb:
 
-    "魔术师不断成长 直到他高举你 他的西装紧绷 撕裂缝缝合。"
+    "魔术师不断成长 直到他高举你 他的西装紧绷 撕臀缝缝合。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_0ea1a9aa:
 
@@ -9350,7 +9350,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_69f2aa84:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_fce2e4d7:
 
-    "他的老二从腿上解开 很快就断了 伸手往你的肚子上打一巴掌 因为它在你的两腿之间摇晃。"
+    "他的肉棒从腿上解开 很快就断了 伸手往你的肚子上打一巴掌 因为它在你的两腿之间摇晃。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_8838b0e8:
 
@@ -9358,7 +9358,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_8838b0e8:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_491eeaaf:
 
-    rb "是的,没错,我感觉到你屁股在扭动我的老二。"
+    rb "是的,没错,我感觉到你屁股在扭动我的肉棒。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_4b700f41:
 
@@ -9370,7 +9370,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_b73b34ce:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_a7b929c8:
 
-    "他另一只爪子取笑你的裤子 摸着你已经硬硬的老二。"
+    "他另一只爪子取笑你的裤子 摸着你已经硬硬的肉棒。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_4f637723:
 
@@ -9454,11 +9454,11 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_d7c98347:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_32ffbcd2:
 
-    rb "我知道你一直幻想着这个 被像我这样的 更强大更强大的男人控制着。"
+    rb "此外，我知道你一直幻想着这一刻：被像我这样更高大、更强壮的男人支配。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_f76b98cb:
 
-    "他把手指滑到你的腿中间 取笑你的蛋蛋。"
+    "他把手指滑到你的腿中间 取笑你的睾丸。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_3001d30b:
 
@@ -9502,7 +9502,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_79e8d206:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_7df5e9fc:
 
-    rb "没错 高个子 把它当乖孩子 把我的鸡鸡 和你的紧屁股一起挤出来！"
+    rb "没错 高个子 把它当乖孩子 把我的肉棒 和你的紧屁股一起挤出来！"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_196a68d1:
 
@@ -9554,15 +9554,15 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_1dc0b120:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_00ac75e8:
 
-    "快乐渐地渐渐地渐渐地渐渐地消逝,威胁要吞噬你的全部。你的视力开始模糊,你的腿在你的下面颤抖。"
+    "快感越积越高，几乎要将你整个人吞没。你的视线开始模糊，双腿在身下无力地颤抖。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_4aa168fc:
 
-    "你显然知道里巴的老二在你体内膨胀 使你的洞的宽度无法扩大。"
+    "你显然知道里巴的肉棒在你体内膨胀 使你的洞的宽度无法扩大。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_05588ab7:
 
-    rb "对都他妈拿走 高个子 用那完美的小屁股 把我的鸡鸡挤干!"
+    rb "对都他妈拿走 高个子 用那完美的小屁股 把我的肉棒挤干!"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_d2a8641b:
 
@@ -9574,7 +9574,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_8e74ea31:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_6e2af16a:
 
-    "一直以来 你的老二一直很硬 不停地抽动 将预积滴到他的脉轴上。"
+    "一直以来 你的肉棒一直很硬 不停地抽动 将预积滴到他的脉轴上。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_5d678e5a:
 
@@ -9602,7 +9602,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_0aec4bb1:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_27519326:
 
-    "你周围的世界逐渐消失 当你只关注他的大鸡鸡 动的感官 进出你伸展的洞穴时。"
+    "你周围的世界逐渐消失 当你只关注他的大肉棒 动的感官 进出你伸展的洞穴时。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_c6071619:
 
@@ -9654,7 +9654,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_15f1a36d:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_321297bb:
 
-    rb "Fuuuuck是的,来了!"
+    rb "操，没错，来了！"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_ab91eeb0:
 
@@ -9730,7 +9730,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_01362eb9:
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_57e8471d:
 
-    "他冲向观众,然后把你从台上抬走 他大老二在大腿之间挥舞。"
+    "他冲向观众,然后把你从台上抬走 他大肉棒在大腿之间挥舞。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_0dd18ab4:
 
@@ -9870,7 +9870,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_56d9c85f:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_8d869446:
 
-    "里巴 grins, 明显享受你的困惑。"
+    "里巴咧嘴一笑，显然很享受你的困惑。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_2b78bd48:
 
@@ -10006,7 +10006,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_01bf357b:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_bce37830:
 
-    "你能感觉到他伸展你的每一寸肌肤 在他的屁股深处 埋着他的鸡鸡的热度。"
+    "你能感觉到他伸展你的每一寸肌肤 在他的屁股深处 埋着他的肉棒的热度。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_f23a8fa8:
 
@@ -10126,7 +10126,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_20f47657:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_4c64469a:
 
-    "厚的老二伸展你的喉咙, 滑过舌头, 重的球敲打你的下巴... 而你的屁股被无情的性交, 狼的臀部拍打你的脸颊。"
+    "厚的肉棒伸展你的喉咙, 滑过舌头, 重的球敲打你的下巴... 而你的屁股被无情的性交, 狼的臀部拍打你的脸颊。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_7c61baed:
 
@@ -10150,7 +10150,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_1ac6b9ba:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_ab0455cb:
 
-    "你脑子在转动。你可以在舌头上尝到里巴的预言, 感觉到狼的老二在你的前列腺上 不停地拉着你的老二。你自己的老二无助地抽动,不断的流出。"
+    "你脑子在转动。你可以在舌头上尝到里巴的预言, 感觉到狼的肉棒在你的前列腺上 不停地拉着你的肉棒。你自己的肉棒无助地抽动,不断的流出。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_d8a5c611:
 
@@ -10182,7 +10182,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_d185612f:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_28636da8:
 
-    "里巴的长滑动 完美无缺地在你的喉咙深处 他的蛋蛋敲你的下巴 而你的脑袋像手提式的手电筒一样 紧紧地握在他手上。"
+    "里巴的长滑动 完美无缺地在你的喉咙深处 他的睾丸敲你的下巴 而你的脑袋像手提式的手电筒一样 紧紧地握在他手上。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_299d0664:
 
@@ -10218,11 +10218,11 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_64a2908a:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_f4d9b38b:
 
-    e "Nghh-!"
+    e "嗯啊——！"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_4c540d1a:
 
-    "你的声音被立即切断 当里巴把你的鼻子打回他的老二时。"
+    "你的声音被立即切断 当里巴把你的鼻子打回他的肉棒时。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_31bb335b:
 
@@ -10254,7 +10254,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_791ca61b:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_ce530bdb:
 
-    "熊的自愿者咆哮得到认可 你的手加速在他的老二上。"
+    "熊的自愿者咆哮得到认可 你的手加速在他的肉棒上。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_a812baef:
 
@@ -10262,11 +10262,11 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_a812baef:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_c425204e:
 
-    "母鹿的老二在你胸口之间滑得更快 湿摩擦使淫秽的声音。"
+    "母鹿的肉棒在你胸口之间滑得更快 湿摩擦使淫秽的声音。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_d31683a5:
 
-    "里巴把你的头朝下拉下他的老二的长长 你可以感觉到他的形状在你的喉咙里跳动。"
+    "里巴把你的头朝下拉下他的肉棒的长长 你可以感觉到他的形状在你的喉咙里跳动。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_1efab8f9:
 
@@ -10286,7 +10286,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_2b5ad576:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_38a77266:
 
-    "你胸口的鹿角 磨他的老二 直到他爆炸 热的连锁棒 吐到你的锁骨上 滴进你的胃里。"
+    "你胸口的鹿角 磨他的肉棒 直到他爆炸 热的连锁棒 吐到你的锁骨上 滴进你的胃里。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_694dbe0e:
 
@@ -10314,7 +10314,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_25776b1f:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_36b7ea6d:
 
-    "你的鸡鸡喷发剧烈 阴茎在厚厚的电弧中向上射 横扫整个舞台。"
+    "你的肉棒喷发剧烈 阴茎在厚厚的电弧中向上射 横扫整个舞台。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_78755e57:
 
@@ -10334,7 +10334,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_718ccd5d:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_6f83eef8:
 
-    "其他人退后,他们软软的老二 留下闪亮的痕迹 混合液 穿过你的皮肤。"
+    "其他人退后,他们软软的肉棒 留下闪亮的痕迹 混合液 穿过你的皮肤。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_e3dfbe74:
 
@@ -10342,7 +10342,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_e3dfbe74:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_2f00f590:
 
-    "只有当他的老二开始软化时,他才小心地拉出来 一根厚厚的精液从你的洞里漏出来 滴在你的浮起的大腿上。"
+    "只有当他的肉棒开始软化时,他才小心地拉出来 一根厚厚的精液从你的洞里漏出来 滴在你的浮起的大腿上。"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_2a23fd7d:
 
@@ -10362,7 +10362,7 @@ translate schinese_rewrite Scene_Magic_Show_Portal_Ring_f6d6ab18:
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_bca7067a:
 
-    rb "各位,我们再鼓掌 掌声掌声欢迎我的助手!"
+    rb "各位，再为我这位出色的助手献上一轮热烈掌声！"
 
 translate schinese_rewrite Scene_Magic_Show_Portal_Ring_da0fe373:
 
@@ -10522,7 +10522,7 @@ translate schinese_rewrite Ribba_Command_Controller_Lick_af896faf:
 
 translate schinese_rewrite Ribba_Command_Controller_Lick_8238b904:
 
-    "里巴的耳朵尖的尖的尖的尖的尖的尖尖的尖尖的尖的尖的尖尖的尖尖的尖的尖的尖的尖的。"
+    "里巴的耳朵猛地向后贴去。他紧闭双唇，试图抵抗。"
 
 translate schinese_rewrite Ribba_Command_Controller_Lick_c4a6e538:
 
@@ -10897,7 +10897,7 @@ translate schinese_rewrite Ribba_Command_Controller_Tease_6fa61b97:
 
 translate schinese_rewrite Ribba_Command_Controller_Tease_e7fcf67f:
 
-    e "跪下 跪下 举起手来 抬头看。"
+    e "弯下身去。双手放在膝上。抬头看着他们。"
 
 translate schinese_rewrite Ribba_Command_Controller_Tease_b424f4fe:
 
@@ -11017,7 +11017,7 @@ translate schinese_rewrite Ribba_Command_Controller_Strip_d55587cb:
 
 translate schinese_rewrite Ribba_Command_Controller_Strip_0a83f307:
 
-    "尽管他明显厌恶, 他的老二在光线下抽搐和抽搐。"
+    "尽管他明显厌恶, 他的肉棒在光线下抽搐和抽搐。"
 
 translate schinese_rewrite Ribba_Command_Controller_Strip_96e486ca:
 
@@ -11049,11 +11049,11 @@ translate schinese_rewrite Ribba_Command_Controller_Strip_d4110b38:
 
 translate schinese_rewrite Ribba_Command_Controller_Strip_34baaabf:
 
-    "他的老二已经半硬了 让大家看到他的男子气概 站高了。"
+    "他的肉棒已经半硬了 让大家看到他的男子气概 站高了。"
 
 translate schinese_rewrite Ribba_Command_Controller_Strip_cdbbcc19:
 
-    "观众欢呼声响起 魔术师的老二每次吹口哨都会抽动。"
+    "观众欢呼声响起 魔术师的肉棒每次吹口哨都会抽动。"
 
 translate schinese_rewrite Ribba_Command_Controller_Strip_506657eb:
 
@@ -11081,7 +11081,7 @@ translate schinese_rewrite Ribba_Command_Controller_Masturbate_ca847405:
 
 translate schinese_rewrite Ribba_Command_Controller_Masturbate_80d83746:
 
-    e "坐到舞台地板上,魔术师 张开双腿,为你的每一个粉丝 击打那老二。"
+    e "坐到舞台地板上,魔术师 张开双腿,为你的每一个粉丝 击打那肉棒。"
 
 translate schinese_rewrite Ribba_Command_Controller_Masturbate_e8f20df5:
 
@@ -11109,7 +11109,7 @@ translate schinese_rewrite Ribba_Command_Controller_Masturbate_496b4045:
 
 translate schinese_rewrite Ribba_Command_Controller_Masturbate_83dbee45:
 
-    "一个颤抖的爪子从他赤裸的胃里滑下来 直到他的手指缠住他已经半硬的老二。"
+    "一个颤抖的爪子从他赤裸的胃里滑下来 直到他的手指缠住他已经半硬的肉棒。"
 
 translate schinese_rewrite Ribba_Command_Controller_Masturbate_4c9eea88:
 
@@ -11189,7 +11189,7 @@ translate schinese_rewrite Ribba_Command_Controller_Masturbate_a0a37f5e:
 
 translate schinese_rewrite Ribba_Command_Controller_Masturbate_629c2e10:
 
-    "他顺从顺从 故意自欺欺人。"
+    "他顺从地照做，故意挑逗自己。"
 
 translate schinese_rewrite Ribba_Command_Controller_Masturbate_208e6981_1:
 
@@ -11241,7 +11241,7 @@ translate schinese_rewrite Ribba_Command_Controller_Present_d23be365:
 
 translate schinese_rewrite Ribba_Command_Controller_Present_334b6ea0:
 
-    "里巴的耳朵烧焦了Crimson,尾巴试图闪烁下来,但被指挥部高举。"
+    "里巴的耳朵烧得通红，尾巴想垂下去，却被命令高高抬起。"
 
 translate schinese_rewrite Ribba_Command_Controller_Present_4c228fdb:
 
@@ -11377,7 +11377,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_02_bcd2ca5f:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_02_f5bb453e:
 
-    "里巴的大腿颤抖,他的老二很硬,不断渗入他的毛皮上。"
+    "里巴的大腿颤抖,他的肉棒很硬,不断渗入他的毛皮上。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_02_695a4689:
 
@@ -11413,7 +11413,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_03_2c34d7f5:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_03_3f12139d:
 
-    "每一个推力都会让他的鸡鸡抽搐 并大量漏水。"
+    "每一个推力都会让他的肉棒抽搐 并大量漏水。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_03_55e6d606:
 
@@ -11473,11 +11473,11 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_04_4d32b946:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Slow_04_b0aede64:
 
-    "他的呻吟声响亮,需要帮助,完全无耻无耻。"
+    "他的呻吟响亮而饥渴，毫不知耻。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_64c1aa06:
 
-    rb "A-agh-..."
+    rb "啊、啊……"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_cd3709ce:
 
@@ -11493,7 +11493,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_8882affc:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_6c26b16f:
 
-    "他的老二狂野地跳动, 泄漏前 与所有撞击。"
+    "他的肉棒狂野地跳动, 泄漏前 与所有撞击。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_73b26115:
 
@@ -11501,7 +11501,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_73b26115:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_3b53abd3:
 
-    rb "YYYYYYY..."
+    rb "是、是的……"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_baca1e73:
 
@@ -11513,7 +11513,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_01_8f30ee4a:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_02_c5b831a6:
 
-    rb "I- I- ca- Oh-..."
+    rb "我、我能——哦……"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_02_7ca44ab7:
 
@@ -11573,11 +11573,11 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_a1d4e46a:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_a1c94e51:
 
-    "他不断刺穿最初的尖锐脉冲, 臀部手淫弱弱, 眼睛半瘦半瘦,没有重点。"
+    "最初那阵尖锐的抽搐过去后，他仍继续挺动；臀部无力地抽动，双眼半睁半闭，目光涣散。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_e5a4edad:
 
-    "人群静静下来心跳 然后爆发到响亮响亮的掌声和欢呼声中。"
+    "观众安静了片刻，随后爆发出雷鸣般的掌声与欢呼。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_8608daaf:
 
@@ -11637,7 +11637,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_60a86251:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_bb4a5581:
 
-    "当它最终结束的时候, 他让假阳具滑出来 简单地躺在那里,呼吸, 呼吸,看着你 用软的,不集中的眼睛。"
+    "一切终于结束时，他让假阳具滑出，随后就躺在那里喘着气，抬头用柔和而失焦的目光看着你。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_ae4863c6:
 
@@ -11649,7 +11649,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Climax_08fde05b:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Premature_Cum_931a55cf:
 
-    e "Cum,现在,别犹豫。"
+    e "射出来。现在就射，别忍着。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Premature_Cum_19c221ca:
 
@@ -11685,7 +11685,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Premature_Cum_040b10fe:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Premature_Cum_6cc54ec6:
 
-    rb "我..."
+    rb "我……"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Premature_Cum_9f4fb8e3:
 
@@ -11749,7 +11749,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Edge_5ccf9849:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Edge_8cb27b13:
 
-    "他的老二对着肚子 愤怒地挥舞着阴茎 不断漏水。"
+    "他的肉棒对着肚子 愤怒地挥舞着阴茎 不断漏水。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Edge_3cc9a800:
 
@@ -11793,7 +11793,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Edge_4e49e2cd:
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Edge_db6e5e82:
 
-    "他的洞继续摇摇欲坠, 并明显地紧地紧紧地抓着, 急切地渴望着更多。"
+    "他的肛门仍在肉眼可见地颤动、收缩，渴望着更多。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Edge_c521303a:
 
@@ -12072,7 +12072,7 @@ translate schinese_rewrite Scene_Ribba_Masturbate_01_74256f69:
 
 translate schinese_rewrite Scene_Ribba_Masturbate_01_96cd0b77:
 
-    "第一阶段结束 他的老二完全硬 和泄漏。"
+    "第一阶段结束 他的肉棒完全硬 和泄漏。"
 
 translate schinese_rewrite Scene_Ribba_Masturbate_02_c074f7d2:
 
@@ -12120,7 +12120,7 @@ translate schinese_rewrite Scene_Ribba_Masturbate_02_dcba1f68:
 
 translate schinese_rewrite Scene_Ribba_Masturbate_02_36b13d16:
 
-    "A husky little moans eses espets——真正快乐与屈从混杂在一起。"
+    "一声沙哑而细小的呻吟逸出——真实的欢愉与顺从交织在一起。"
 
 translate schinese_rewrite Scene_Ribba_Masturbate_02_eed50b8c:
 
@@ -12156,7 +12156,7 @@ translate schinese_rewrite Scene_Ribba_Masturbate_03_ac41fa20:
 
 translate schinese_rewrite Scene_Ribba_Masturbate_03_da23165f:
 
-    e "你会感觉到每一秒 你的老二渴望被释放。"
+    e "你会感觉到每一秒 你的肉棒渴望被释放。"
 
 translate schinese_rewrite Scene_Ribba_Masturbate_03_34ac2922:
 
@@ -12196,7 +12196,7 @@ translate schinese_rewrite Scene_Ribba_Masturbate_03_a6869119:
 
 translate schinese_rewrite Scene_Ribba_Masturbate_03_28cb290b:
 
-    "他的蛋蛋被拉紧了 身体在边缘颤抖。"
+    "他的睾丸被拉紧了 身体在边缘颤抖。"
 
 translate schinese_rewrite Scene_Ribba_Masturbate_04_f0bb4b7d:
 
@@ -12280,7 +12280,7 @@ translate schinese_rewrite Scene_Ribba_Fasturbate_01_85f1332c:
 
 translate schinese_rewrite Scene_Ribba_Fasturbate_01_fe300845:
 
-    "观众欢呼着欢呼着 突然的强烈情绪。"
+    "突如其来的强烈刺激让观众兴奋地高声欢呼。"
 
 translate schinese_rewrite Scene_Ribba_Fasturbate_01_d5666c55:
 
@@ -12356,7 +12356,7 @@ translate schinese_rewrite Ribba_Masturbate_Force_Premature_Cum_0beb6f24:
 
 translate schinese_rewrite Ribba_Masturbate_Force_Premature_Cum_b3e6a521:
 
-    rb "W -wai"
+    rb "等、等等——"
 
 translate schinese_rewrite Ribba_Masturbate_Force_Premature_Cum_67f779bc:
 
@@ -12488,7 +12488,7 @@ translate schinese_rewrite Ribba_Masturbate_Full_Lust_Cum_6e6ed8fd:
 
 translate schinese_rewrite Ribba_Masturbate_Full_Lust_Cum_d0bd940c:
 
-    "草地充满了欢呼声 一些赞助者已经呼唤了 再来一次。"
+    "草地充满了欢呼声 一些客人已经呼唤了 再来一次。"
 
 translate schinese_rewrite Ribba_Masturbate_Full_Lust_Cum_2aa3e925:
 
@@ -12504,7 +12504,7 @@ translate schinese_rewrite Ribba_Masturbate_Edge_6fbf4ffd:
 
 translate schinese_rewrite Ribba_Masturbate_Edge_cf03dab5:
 
-    "里巴的爪子混蛋 离他的老二远一点 好像烧焦了一样。"
+    "里巴的爪子混蛋 离他的肉棒远一点 好像烧焦了一样。"
 
 translate schinese_rewrite Ribba_Masturbate_Edge_9dccf31e:
 
@@ -12524,11 +12524,11 @@ translate schinese_rewrite Ribba_Masturbate_Edge_c4cb8a77:
 
 translate schinese_rewrite Ribba_Masturbate_Edge_c77d3db1:
 
-    "里巴全身颤抖 享受不到欢乐 蛋蛋紧紧。"
+    "里巴全身颤抖 享受不到欢乐 睾丸紧紧。"
 
 translate schinese_rewrite Ribba_Masturbate_Edge_74106811:
 
-    rb "是……"
+    rb "是的……"
 
 translate schinese_rewrite Ribba_Masturbate_Edge_7e3e9ced:
 
@@ -12588,7 +12588,7 @@ translate schinese_rewrite Scene_Magic_Show_Command_Controller_Broken_End_77da0f
 
 translate schinese_rewrite Scene_Magic_Show_Command_Controller_Broken_End_929dee66:
 
-    "草地爆发成雷鸣般的掌声,一些赞助者站立,狂野欢呼。"
+    "草地爆发成雷鸣般的掌声,一些客人站立,狂野欢呼。"
 
 translate schinese_rewrite Scene_Magic_Show_Command_Controller_Broken_End_939d87ac:
 
@@ -12676,7 +12676,7 @@ translate schinese_rewrite Scene_Magic_Show_Command_Controller_Broken_End_7602a0
 
 translate schinese_rewrite Scene_Magic_Show_Command_Controller_Broken_End_f25cad8f:
 
-    rb "像这样吗?"
+    rb "这样吗？"
 
 translate schinese_rewrite Scene_Magic_Show_Command_Controller_Broken_End_12cafcdb:
 
@@ -13100,7 +13100,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_da0b255d:
 
 translate schinese_rewrite Scene_Jotunn_Lose_82b9434d:
 
-    e "Nngh..."
+    e "嗯呃……"
 
 translate schinese_rewrite Scene_Jotunn_Lose_0b7f9fd1:
 
@@ -13124,7 +13124,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_dae27a15:
 
 translate schinese_rewrite Scene_Jotunn_Lose_8906e180:
 
-    "蓝光现在追踪你的乳头,喉咙, 甚至你的老二的底部 - 每一个脉搏让你更用力, 不断漏出 尽管压倒性饱和。"
+    "蓝光现在追踪你的乳头,喉咙, 甚至你的肉棒的底部 - 每一个脉搏让你更用力, 不断漏出 尽管压倒性饱和。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_8c9f08cd:
 
@@ -13140,11 +13140,11 @@ translate schinese_rewrite Scene_Jotunn_Lose_2ecf7229:
 
 translate schinese_rewrite Scene_Jotunn_Lose_0a506959:
 
-    "压力让你大喊大叫,他的手触摸处的马子燃烧得更亮。你的胃被拉得那么薄,感觉他的老二只藏在自己的腰衣下。"
+    "压力让你大喊大叫,他的手触摸处的马子燃烧得更亮。你的胃被拉得那么薄,感觉他的肉棒只藏在自己的腰衣下。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_7819010d:
 
-    e "Ah-!"
+    e "啊——！"
 
 translate schinese_rewrite Scene_Jotunn_Lose_6fe8ac84:
 
@@ -13152,7 +13152,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_6fe8ac84:
 
 translate schinese_rewrite Scene_Jotunn_Lose_622d82ed:
 
-    "他的脉冲变粗糙 更急迫的是 巨大的公鸡在你的体内膨胀 更厚的内部 与他的心跳完全同步的脉冲脉冲。"
+    "他的抽插变得更加粗暴、急迫；巨大的阳具在你体内越胀越粗，符文随着他的心跳完美搏动。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_53e034ad:
 
@@ -13168,7 +13168,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_a9326af1:
 
 translate schinese_rewrite Scene_Jotunn_Lose_f53819b9:
 
-    "他只用另一种直肠咆哮回击,比以前更用力地敲门。你的肚子用每一根推力,用阴茎的光亮的轮廓,在他的肋骨旁明显可见,推入你被压碎的肺部,使你的肚子变得淫秽。"
+    "他只用另一声喉间低吼回应，比之前更加用力地挺入。每次抽插，你的腹部都淫荡地鼓起；他发光的龟头轮廓清晰可见，正抵在你的肋骨旁，挤压着你受压的肺部。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_68019148:
 
@@ -13176,7 +13176,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_68019148:
 
 translate schinese_rewrite Scene_Jotunn_Lose_c20d1ade:
 
-    "你自己的鸡鸡抽搐没有被触动 不断滴在下面的雪上 催眠腐败逼近你 逼近边缘。"
+    "你自己的肉棒抽搐没有被触动 不断滴在下面的雪上 催眠腐败逼近你 逼近边缘。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_246618b7:
 
@@ -13184,7 +13184,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_246618b7:
 
 translate schinese_rewrite Scene_Jotunn_Lose_7098da18:
 
-    "你能感觉到的只有他 他冷冰冰的皮肤在你背上 烧着填满过去满满的鸡鸡。"
+    "你能感觉到的只有他 他冷冰冰的皮肤在你背上 烧着填满过去满满的肉棒。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_1a220d7f:
 
@@ -13192,11 +13192,11 @@ translate schinese_rewrite Scene_Jotunn_Lose_1a220d7f:
 
 translate schinese_rewrite Scene_Jotunn_Lose_f341f369:
 
-    e "Oh... Hnnngh..."
+    e "Oh... 嗯呃..."
 
 translate schinese_rewrite Scene_Jotunn_Lose_03115717:
 
-    "光线不停地移动。如果有的话,他开车更深,他的老二头紧紧地压在你最深处,而发光的标记继续缓慢地,不可避免地散布在你身体的其余部分..."
+    "光线不停地移动。如果有的话,他开车更深,他的肉棒头紧紧地压在你最深处,而发光的标记继续缓慢地,不可避免地散布在你身体的其余部分..."
 
 translate schinese_rewrite Scene_Jotunn_Lose_e36cd84f:
 
@@ -13252,7 +13252,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_c44c3e79:
 
 translate schinese_rewrite Scene_Jotunn_Lose_cf12f703:
 
-    "蓝色标记现在几乎覆盖了你们的每一寸地方 喉咙,胸部,手臂,甚至你的阴茎和蛋蛋的底部。它们与他完全同步, 连接你的感官,直到你无法再知道 你在哪里结束和他开始。"
+    "蓝色标记现在几乎覆盖了你们的每一寸地方 喉咙,胸部,手臂,甚至你的阴茎和睾丸的底部。它们与他完全同步, 连接你的感官,直到你无法再知道 你在哪里结束和他开始。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_9c8ccade:
 
@@ -13264,7 +13264,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_ca1ac15d:
 
 translate schinese_rewrite Scene_Jotunn_Lose_68eaad08:
 
-    "第一个大块的岩浆像熔岩直接涌进你的心脏。你用摇头丸尖叫,像加仑加仑一样厚厚,发光的加仑充斥你,你的肚子迅速向外膨胀,四舍五入,惊慌失措,直到它看起来怀着他的种子。"
+    "第一股巨量精液宛如熔岩，直灌入你的核心。你在极乐中尖叫；一加仑又一加仑浓稠发光的精液涌入体内，肚腹飞快向外鼓起、变圆、胀大，直到看起来仿佛怀上了他的种子。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_5efc48d0:
 
@@ -13272,7 +13272,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_5efc48d0:
 
 translate schinese_rewrite Scene_Jotunn_Lose_9fd42ba5:
 
-    e "Aghhh—!"
+    e "啊啊啊——！"
 
 translate schinese_rewrite Scene_Jotunn_Lose_a4a75f09:
 
@@ -13296,7 +13296,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_a08fa453:
 
 translate schinese_rewrite Scene_Jotunn_Lose_2f2f123e:
 
-    "当最后的重弹流最终消退时 弹簧一直埋在地上 他的老二还在你那破烂的 包起来的洞里抽搐。"
+    "当最后的重弹流最终消退时 弹簧一直埋在地上 他的肉棒还在你那破烂的 包起来的洞里抽搐。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_1e17b72d:
 
@@ -13308,11 +13308,11 @@ translate schinese_rewrite Scene_Jotunn_Lose_93c3eb2e:
 
 translate schinese_rewrite Scene_Jotunn_Lose_2857c055:
 
-    "你躺在他的手掌里 流口水 眼睛半毛半毛 身体发光。"
+    "精液积在你的双腿之间，融化身下的积雪。你无力地躺在他的掌握中，流着口水，双眼半睁，身上泛着他留下的光痕。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_8c41db03:
 
-    e "F-fuck..."
+    e "操、操……"
 
 translate schinese_rewrite Scene_Jotunn_Lose_762eb49d:
 
@@ -13344,11 +13344,11 @@ translate schinese_rewrite Scene_Jotunn_Lose_93160b07:
 
 translate schinese_rewrite Scene_Jotunn_Lose_5ea1ef0c:
 
-    "后退后退步,捡起他的腰带。 他的高塔形式开始退落到雪的白色墙壁,他的马蹄子的光芒逐渐消退,直到他的重脚步的回声消失为止。"
+    "约顿后退，捡起腰布。他高耸的身躯开始隐入白色的雪墙，符文的光芒逐渐黯淡，直到只剩沉重脚步的回声。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_a7df8a69:
 
-    "你躺在雪中, 积水仍然慢慢地从你的破洞中漏出, 腹部重,四舍五入, 皮肤上微微的蓝色标记 闪闪发光,当你呼吸的时候。"
+    "你躺在雪地里，残破的后穴仍缓缓流出精液；腹部沉重而圆鼓，皮肤上的淡蓝色纹路随着呼吸轻轻闪烁。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_f4d02a74:
 
@@ -13380,7 +13380,7 @@ translate schinese_rewrite Scene_Jotunn_Lose_55cf13a6:
 
 translate schinese_rewrite Scene_Jotunn_Lose_34144d28:
 
-    "冰霜在毛皮、胸膛、胃上 横穿你的脚下 直直的跳下 直直的跳下 接住皮肤下发光的痕迹。"
+    "冰霜沿着你的毛发、胸口、腹部和双腿蔓延，化作一条条脉动的纹路，与皮肤下发光的印记相互呼应。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_43772123:
 
@@ -13396,15 +13396,14 @@ translate schinese_rewrite Scene_Jotunn_Lose_30a04af1:
 
 translate schinese_rewrite Scene_Jotunn_Lose_7aa1a296:
 
-    "暴风雨开始缓和,你感到力量回升了,一点一点。"
-
+    "暴风雪渐渐平息。你能感觉到力量一点一点地回到体内。"
 translate schinese_rewrite Scene_Jotunn_Lose_314ed376:
 
     "最终你把自己推向摇动的手臂上, 他的种子的重量随你内部的移动而转移 与每一动作。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_1f08432b:
 
-    e "F操,我好痛。"
+    e "操,我好痛。"
 
 translate schinese_rewrite Scene_Jotunn_Lose_a3e0dc99:
 

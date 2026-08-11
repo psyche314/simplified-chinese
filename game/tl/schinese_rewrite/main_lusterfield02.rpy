@@ -3,347 +3,347 @@
 
 translate schinese_rewrite Cane_Bet_Dialogue_7eafd3a3:
 
-    e "嘿,科恩,小酒馆怎么样?"
+    e "嘿，凯恩，酒馆生意怎么样？"
 
 translate schinese_rewrite Cane_Bet_Dialogue_7aec70a5:
 
-    c "要我再说一遍我的名字吗?"
+    c "要我再说一遍我的名字吗？做梦。"
 
 translate schinese_rewrite Cane_Bet_Dialogue_434ac25b:
 
-    e "我已经知道你的名字了 我只是想谈谈..."
+    e "我已经知道你的名字了。我只是想聊聊……"
 
 translate schinese_rewrite Cane_Bet_Dialogue_846eda6c:
 
-    c "下次过来,你想说什么都行 尊重你的正直。"
+    c "下次再来吧。到时候你想聊多久都行——先尊重赌约，别耍赖，小混蛋。"
 
 translate schinese_rewrite Cane_Bet_Dialogue_5fd10514:
 
-    e "好吧……"
+    e "好……"
 
 translate schinese_rewrite Cane_Dialogue_be413ed6:
 
-    c "欢迎来到夜幕之夜!"
+    c "欢迎来到夜夜椿！"
 
 translate schinese_rewrite Cane_Dialogue_24681cce:
 
-    c "小狮子朋友在那边 看到没?"
+    c "你那位小狮子朋友在那边，看见了吗？"
 
 translate schinese_rewrite Cane_Dialogue_129df83f:
 
-    e "嗯... 你做了什么?"
+    e "嗯……你做了什么？"
 
 translate schinese_rewrite Cane_Dialogue_b7d99f15:
 
-    c "我不知道,他自愿跟我赌,他输了也不是我的错。"
+    c "我不知道。他自愿跟我赌，输了可不能怪我。"
 
 translate schinese_rewrite Cane_Dialogue_bf6f0d3d:
 
-    e "A-alright..."
+    e "好、好的……"
 
 translate schinese_rewrite Cane_Dialogue_be413ed6_1:
 
-    c "欢迎来到夜幕之夜!"
+    c "欢迎来到夜夜椿！"
 
 translate schinese_rewrite Cane_Dialogue_61d79fdb:
 
-    c "有两个小混混在等大屁股,快来加入他们。"
+    c "你那两个小混蛋正等着你呢。快滚过去和他们汇合。"
 
 translate schinese_rewrite Cane_Dialogue_f0083db0:
 
-    e "嗯... 你是说奥勒和塞巴斯?"
+    e "嗯……你是说奥利和塞巴斯？"
 
 translate schinese_rewrite Cane_Dialogue_af7646ac:
 
-    c "狮子总是在这里,但我直到现在才知道蜥蜴吃面包, 给自己涂上惊喜。"
+    c "狮子总在这儿。不过我还是第一次知道蜥蜴会吃面包，真叫我意外。"
 
 translate schinese_rewrite Cane_Dialogue_bf6f0d3d_1:
 
-    e "A-alright..."
+    e "好、好的……"
 
 translate schinese_rewrite Cane_Dialogue_97de7bb1:
 
-    c "欢迎来到夜幕夜总会..."
+    c "欢迎来到夜夜椿……"
 
 translate schinese_rewrite Cane_Dialogue_5a926dc3:
 
-    e "你好,凯恩。"
+    e "你好，凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_8d5cef73:
 
-    c "亚真以为我会在这里上钩 [e]。"
+    c "你真以为我会上你的钩，[e]？"
 
 translate schinese_rewrite Cane_Dialogue_a9f0941c:
 
-    e "你在说什么,凯恩?"
+    e "你在说什么，凯恩？"
 
 translate schinese_rewrite Cane_Dialogue_c6408ae7:
 
-    c "我不会为那些裸体在公众面前出去的笨蛋服务。"
+    c "把你的鸡巴遮好，小混蛋。我可不招待那些光着身子在大街上乱晃的蠢货。"
 
 translate schinese_rewrite Cane_Dialogue_5e0eccfc:
 
-    c "欢迎,欢迎,[e],我们正忙着忙着呢。"
+    c "欢迎，欢迎，[e]！愿意帮忙收拾盘子和杯子吗？这会儿客人有点多。"
 
 translate schinese_rewrite Cane_Dialogue_2f1aa10e:
 
-    c "欢迎 [e],就如您所知,一些赞助者要求从屁股上看私人节目。"
+    c "欢迎，[e]。先说好，有些客人点名要看你屁股的私人表演。"
 
 translate schinese_rewrite Cane_Dialogue_b4e09a22:
 
-    c "欢迎再次光临,[e] 情况如何,小伙子?"
+    c "欢迎回来，[e]。最近怎么样，小伙子？"
 
 translate schinese_rewrite Cane_Dialogue_b1f8c8df:
 
-    e "非常好,谢谢你,凯恩。"
+    e "好得很，谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_690a2e4e:
 
-    c "自从那晚我一直觉得好些了。"
+    c "自从那晚和你一起过后，我感觉好多了。"
 
 translate schinese_rewrite Cane_Dialogue_dcba56b5:
 
-    c "你还是个好孩子 只是我多年没做自己 忘了那是什么意思。"
+    c "你一直是个好孩子。只是我已经很多年没做真实的自己，连那是什么感觉都忘了。"
 
 translate schinese_rewrite Cane_Dialogue_e53b2d07:
 
-    e "我明白,凯恩,别担心。"
+    e "我明白，凯恩。别放在心上。"
 
 translate schinese_rewrite Cane_Dialogue_bb98a8ed:
 
-    c "很高兴你们能来 更经常地来看我 小伙子。"
+    c "很高兴你在这儿。多来看看我，小伙子。"
 
 translate schinese_rewrite Cane_Dialogue_7f00dddd:
 
-    e "当然 别担心 凯恩 我会帮你的。"
+    e "当然。别担心，凯恩，我会帮你的。"
 
 translate schinese_rewrite Cane_Dialogue_4c4d442d:
 
-    c "欢迎,[e],夜总会的后备箱 总是欢迎你可爱的面孔在这里,小伙子。"
+    c "欢迎，[e]。夜夜椿永远欢迎你这张可爱的脸，小伙子。"
 
 translate schinese_rewrite Cane_Dialogue_5a926dc3_1:
 
-    e "你好,凯恩。"
+    e "你好，凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_9df12cda:
 
-    c "我听到你们在那里碰见狼人 我想为你们担心 但是..."
+    c "听说你遇到狼人了。我本来想替你担心，但……"
 
 translate schinese_rewrite Cane_Dialogue_568f3a0b:
 
-    c "永远小心。"
+    c "总之，千万小心。"
 
 translate schinese_rewrite Cane_Dialogue_04f273db:
 
-    c "我和所有关心你的人,好吗?"
+    c "为了我，也为了所有关心你的人，好吗？"
 
 translate schinese_rewrite Cane_Dialogue_c6cadae6:
 
-    c "我们不想把一个好孩子 丢给那些恶棍。"
+    c "我们可不想让那些恶棍带走一个好小伙子。"
 
 translate schinese_rewrite Cane_Dialogue_2e7e7811:
 
-    e "我会的,我还能回来看你吗,凯恩?"
+    e "我会的！不然我怎么还能回来见你，凯恩？"
 
 translate schinese_rewrite Cane_Dialogue_8ed25211:
 
-    c "欢迎,[e],你习惯了吗?"
+    c "欢迎，[e]。现在习惯这儿了吗？"
 
 translate schinese_rewrite Cane_Dialogue_8c471278:
 
-    e "我知道,凯恩。"
+    e "习惯了，凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_07e3f88e:
 
-    c "狮子扔的派对是另一回事 好久没见大家在同一地方了。"
+    c "那头狮子办的派对可真不得了。我们已经很久没见过所有人聚在同一个地方了。"
 
 translate schinese_rewrite Cane_Dialogue_2e899f8e:
 
-    e "是啊,我想尽管有些打嗝, 每个人都很开心, 我看到你和雷希姆说话了。"
+    e "是啊。虽然中间出了点小插曲，但大家都很开心。我还看到你和雷希姆聊天了。"
 
 translate schinese_rewrite Cane_Dialogue_90e46722:
 
-    c "一切都在几秒内会改变 但那老顽固的老牛 已经这么多年了。"
+    c "事情转眼就会改变，不过那头顽固的老牛这么多年还是老样子。"
 
 translate schinese_rewrite Cane_Dialogue_f8661faa:
 
-    c "欢迎来到夜幕之夜 小伙子。"
+    c "欢迎来到夜夜椿，小伙子。"
 
 translate schinese_rewrite Cane_Dialogue_2f047327:
 
-    e "嘿,怎么样?"
+    e "嘿，最近怎么样？"
 
 translate schinese_rewrite Cane_Dialogue_60d7a2b7:
 
-    c "好,酒馆越来越忙了 和一个酒吧在灵洞旁, 但我不知道 他妈的不知道 他唱什么。"
+    c "不错。酒馆越来越忙了，炉边还来了个吟游诗人，可我他妈完全听不懂他在唱什么。"
 
 translate schinese_rewrite Cane_Dialogue_9beb1783:
 
-    e "哦,皮卡,他有时候唱歌时确实有粗口音。"
+    e "哦，皮尔卡？他唱歌时有时确实口音很重。"
 
 translate schinese_rewrite Cane_Dialogue_4aa3e2e3:
 
-    c "他现在在楼上 跟他讲私人演出的事 莱德心地很好 想知道他会不会待很久。"
+    c "他现在就在楼上。我跟他说过私人表演什么的。这小伙子心地不错，不知道会不会待太久。"
 
 translate schinese_rewrite Cane_Dialogue_a36f13f2:
 
-    c "谣言说他嘴有办法。"
+    c "甚至有传言说，他的嘴很有一套。"
 
 translate schinese_rewrite Cane_Dialogue_f8661faa_1:
 
-    c "欢迎来到夜幕之夜 小伙子。"
+    c "欢迎来到夜夜椿，小伙子。"
 
 translate schinese_rewrite Cane_Dialogue_29735ad3:
 
-    c "那天听到楼上有人敲门 发现常客又在玩牌了。"
+    c "前几天我听到楼上有人砰砰作响，结果发现那几个老客又在打牌。"
 
 translate schinese_rewrite Cane_Dialogue_f147b6dc:
 
-    e "哦,他们坐在那里有一段时间了。"
+    e "哦，他们已经在那里坐了一阵子了。"
 
 translate schinese_rewrite Cane_Dialogue_54dc1a9b:
 
-    c "每次他们借书架借钱时,卡片和桌子都越来越乱 但是他们在那里呆了好几天。"
+    c "他们每次从我的货架上借东西，牌和桌子就更乱一分。不过他们能在那儿待上好几天。"
 
 translate schinese_rewrite Cane_Dialogue_017f22fa:
 
-    c "上楼时别弄坏我的桌子,伙计,或者直接上楼时不要欠钱,他们比你想的要多。"
+    c "你上楼时可别弄坏我的桌子，小伙子。还有，别欠他们钱——他们藏着的花招比你想的多。"
 
 translate schinese_rewrite Cane_Dialogue_bad59a76:
 
-    c "欢迎来到夜幕之夜 外人。"
+    c "欢迎来到夜夜椿，外乡人。"
 
 translate schinese_rewrite Cane_Dialogue_fd021e87:
 
-    e "你为什么叫我这个名字?"
+    e "你为什么这么叫我？"
 
 translate schinese_rewrite Cane_Dialogue_7332b894:
 
-    c "那你不是外人吗 为什么我不能叫你外人 外人？"
+    c "你不就是外乡人吗？我为什么不能叫你外乡人，外乡人？"
 
 translate schinese_rewrite Cane_Dialogue_3729b96c:
 
-    e "Hmmph..."
+    e "哼……"
 
 translate schinese_rewrite Cane_Dialogue_79858a9a:
 
-    c "[e]怎么样? 听起来好点了吗?"
+    c "那[e]呢？听起来好点了吗？"
 
 translate schinese_rewrite Cane_Dialogue_d2c9a869:
 
-    e "是的,谢谢,凯恩。"
+    e "好多了，谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_be413ed6_2:
 
-    c "欢迎来到夜幕之夜!"
+    c "欢迎来到夜夜椿！"
 
 translate schinese_rewrite Cane_Normal_Talk_9b502ad2:
 
-    c "[e],？" nointeract
+    c "你想做什么，[e]？" nointeract
 
 translate schinese_rewrite Cane_Normal_Talk_58e0fbb5:
 
-    "正如你将要问的, 你意识到你没有 穿正确的衣服来评判..."
+    "正当你准备开口时，你意识到自己穿的衣服不适合评价这件事……"
 
 translate schinese_rewrite Cane_Work_b9eb2c1d:
 
-    e "凯恩,我能在这里做点工作吗?"
+    e "凯恩，我能在这里找点活做吗？"
 
 translate schinese_rewrite Cane_Work_482cb8d8:
 
-    c "做个服务员还是给自己看屁股?" nointeract
+    c "想当服务员，还是让客人看看你的屁股？" nointeract
 
 translate schinese_rewrite Cane_Work_76aa60a3:
 
-    e "嘿,凯恩,我能..."
+    e "嘿，凯恩，我能不能……"
 
 translate schinese_rewrite Cane_Work_392c40f8:
 
-    c "运气好,孩子,或者说,我们有个幸运的赞助人。"
+    c "你走运了，孩子。或者说，是有位客人走运了。"
 
 translate schinese_rewrite Cane_Work_572c9742:
 
-    c "你们有客人在后房等你。"
+    c "后面的包间有位客人在等你。"
 
 translate schinese_rewrite Cane_Work_46f4825c:
 
-    c "一旦你做完了,我就把工资交给你。"
+    c "你完事之后，我会把报酬给你。"
 
 translate schinese_rewrite Cane_Work_d4392b56:
 
-    e "我需要再多想想,谢谢凯恩。"
+    e "我还得再想想，谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Work_99900951:
 
-    c "好吧 别让他们久等了 小伙子。"
+    c "好吧。可别让客人等太久，小伙子。"
 
 translate schinese_rewrite Cane_Work_e0696090:
 
-    e "O-ok!谢谢,凯恩。"
+    e "好、好的！谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Work_0c1134d3:
 
-    e "凯恩,你说过在酒馆工作吧?"
+    e "嘿，凯恩。你之前说过可以在酒馆工作，对吧？"
 
 translate schinese_rewrite Cane_Work_7121ebe1:
 
-    c "是吗?"
+    c "是吗？"
 
 translate schinese_rewrite Cane_Work_774f4ade:
 
-    e "看起来很有趣,工资如何?"
+    e "听起来挺有意思。工钱怎么样？"
 
 translate schinese_rewrite Cane_Work_a80432ec:
 
-    c "是的,它的50金 4小时,我会多付 如果yer工作足够努力。" nointeract
+    c "四小时五十枚金币。你要是干得够卖力，我还会多给。" nointeract
 
 translate schinese_rewrite Cane_Work_d2ecfc50:
 
-    e "我会考虑的,凯恩。"
+    e "我会考虑的，凯恩。"
 
 translate schinese_rewrite Cane_Work_b6ca98b4:
 
-    c "那就好好享受你留在夜幕之夜吧!"
+    c "那就好。好好享受你在夜夜椿的时光吧！"
 
 translate schinese_rewrite Cane_Work_adc10916:
 
-    e "凯恩 我能再去酒馆工作吗?"
+    e "嘿，凯恩。我能再来酒馆工作吗？"
 
 translate schinese_rewrite Cane_Work_1a1b7af6:
 
-    c "对,同工钱,50金,4小时。" nointeract
+    c "可以，工钱不变，四小时五十枚金币。" nointeract
 
 translate schinese_rewrite Cane_Work_d2ecfc50_1:
 
-    e "我会考虑的,凯恩。"
+    e "我会考虑的，凯恩。"
 
 translate schinese_rewrite Cane_Work_b6ca98b4_1:
 
-    c "那就好好享受你留在夜幕之夜吧!"
+    c "那就好。好好享受你在夜夜椿的时光吧！"
 
 translate schinese_rewrite Cane_Work_e120c034:
 
-    c "[e]先生 你已经为整个村子服务了 几个小时后再来吧 口渴的小伙子。"
+    c "[e]，你已经替整个村子忙活过一轮了。过几个小时再来吧，渴坏了的小伙子。"
 
 translate schinese_rewrite Cane_Work_62ea5a76:
 
-    e "OK,凯恩。"
+    e "好，凯恩。"
 
 translate schinese_rewrite Cane_Order_740b1efb:
 
-    e "我想点点东西给你..."
+    e "我想跟你点点东西……"
 
 translate schinese_rewrite Cane_Order_109d0e69:
 
-    c "当然了,我们有15年的啤酒, 和我们的新Ale,20金,要吗?"
+    c "当然。啤酒十五枚金币，新酿的麦芽酒二十枚。要来一杯吗？"
 
 translate schinese_rewrite Cane_Order_ab6d13e9:
 
-    c "当然了,我们现在有啤酒,要15块金子,要吗?"
+    c "当然。我们现在有啤酒，一杯十五枚金币。要来一杯吗？"
 
 translate schinese_rewrite Cane_Order_ba9a6668:
 
-    e "嗯..." nointeract
+    e "嗯……" nointeract
 
 translate schinese_rewrite Cane_Order_45375577:
 
@@ -351,191 +351,191 @@ translate schinese_rewrite Cane_Order_45375577:
 
 translate schinese_rewrite Cane_Order_bc6178b0:
 
-    c "很好,这里是Yers,好好享受。"
+    c "好嘞，给你。慢慢享用。"
 
 translate schinese_rewrite Cane_Order_40dce0df:
 
-    e "我要一个。"
+    e "那我就要一杯。"
 
 translate schinese_rewrite Cane_Order_da44e24e:
 
-    c "笨蛋,看看耶尔邮袋,[pc.gold]金子 不够喝啤酒,先生。"
+    c "呃……小笨蛋，看看你的钱袋。[pc.gold]枚金币可不够买啤酒，先生。"
 
 translate schinese_rewrite Cane_Order_6b1d6423:
 
-    e "哦... 对不起。"
+    e "哦……抱歉。"
 
 translate schinese_rewrite Cane_Order_11ec3786:
 
-    e "我要一杯啤酒。"
+    e "我要一杯麦芽酒。"
 
 translate schinese_rewrite Cane_Order_8ef0a3d3:
 
-    c "很好,这里是yer ale,享受。"
+    c "好嘞，给你的麦芽酒。慢慢享用。"
 
 translate schinese_rewrite Cane_Order_40dce0df_1:
 
-    e "我要一个。"
+    e "那我就要一杯。"
 
 translate schinese_rewrite Cane_Order_f6000285:
 
-    c "笨蛋,看看我的邮袋,[pc.gold]金子 不足以当啤酒,小伙子。"
+    c "呃……小笨蛋，看看你的钱袋。[pc.gold]枚金币可不够买麦芽酒，小伙子。"
 
 translate schinese_rewrite Cane_Order_6b1d6423_1:
 
-    e "哦... 对不起。"
+    e "哦……抱歉。"
 
 translate schinese_rewrite Cane_Order_1c150e2e:
 
-    e "我稍后再考虑。"
+    e "我之后再考虑。"
 
 translate schinese_rewrite Cane_Order_2acac5fa:
 
-    c "更好。"
+    c "这才对。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_316f8d81:
 
-    c "嘿,小伙子,对!"
+    c "嘿，小伙子！这儿！"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_904cca39:
 
-    "在你上楼时,从后面喊起拐杖的声音,你转过身去,看他很快离开他平常的柜台。"
+    "你上楼时，凯恩在身后喊你。你回头一看，他正快步离开平时的柜台。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_3e8fb334:
 
-    e "凯恩,我正要问你上面有什么。"
+    e "哦！凯恩，我正想问你楼上有什么。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_3ef666e8:
 
-    c "我正要告诉你呢。"
+    c "正好，我也正要告诉你。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_4d7e00bc:
 
-    c "我们从头开始重新装饰一切,清理旧桌子,用它来使用。"
+    c "这里刚翻修过，也多亏了那位粉色熊小伙。我们从头重新布置了一遍，还把旧桌子清理出来继续用。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_c5423812:
 
-    e "它和下面的一样吗?"
+    e "这里和楼下一样吗？"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_354be2d4:
 
-    c "好吧,小伙子,不管怎样,我的膝盖一直疼 以我生命中最美好的部分, 我不能一直把盘子和啤酒 送上去,然后往下,所以我们才先把地板关上。"
+    c "小伙子，怎么说呢，我这辈子大半时间膝盖都疼。总不能一直把盘子和啤酒端上端下，所以我们一开始才把这一层封起来。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_db61eaf7:
 
-    e "是什么改变了你的想法?"
+    e "是什么让你改变主意了？"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_8832ad98:
 
-    "你的好奇心让老蝙蝠紧张地微笑 一种你很少见到的友好。"
+    "你的好奇让老蝙蝠紧张地笑了起来，露出一种你很少在其他客人身上见到的亲切。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_028a213e:
 
-    c "我应该在帮助和大家的帮助下 想想一些事情 让我兴奋得要..."
+    c "我想，大概是有了你的帮助，还有大家的帮忙……这让我重新兴奋起来了……"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_717a2b3d:
 
-    c "凯恩对你笑得热烈, 他的眼睛与感情交融。"
+    "凯恩温柔地朝你笑着，眼中闪烁着亲昵。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_09818526:
 
-    "再次凯恩笑一笑。"
+    "凯恩又笑了起来。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_e991bf3d:
 
-    c "酒馆 东西都满了。"
+    c "呃……酒馆。这里越来越挤了。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_4420776c:
 
-    c "常客们理解,他们会得到他们自己想要的东西 所以我想,为什么不让他们玩得开心,你知道, 把他们所有的顾客和黄金都带进来。"
+    c "老客们知道该怎么照顾自己，需要什么也能自己拿。所以我想，何不让他们玩得开心点？这样还能把客人和金币都带上来。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_a42030c2:
 
-    e "很高兴知道,凯恩 我会尽力帮忙的。"
+    e "听你这么说真好，凯恩。我会尽力帮忙的。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_fde0982a:
 
-    c "是啊,毕竟,楼上保留了 最忠诚的常客和访客..."
+    c "是啊。毕竟楼上是留给最忠诚的老客和访客的……"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_6db7f304:
 
-    c "哈哈,来吧,抱抱你老蝙蝠。"
+    c "……还有这里最棒的小伙子。哈哈，来吧，给你这只老蝙蝠一个拥抱。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_fa45db30:
 
-    "凯恩不用思考 向前走 将他的手臂抱在你身上 在他的大肚子上。"
+    "凯恩想也没想就走上前，用双臂把你搂进他的大肚子。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_6f89fa7d:
 
-    "你暂时感到惊讶,但很快恢复,并热情地回到了拥抱。"
+    "你一时有些惊讶，但很快回过神，热情地回抱了他。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_1bc9bd8b:
 
-    c "我会想念你们这些小混蛋的。"
+    c "你离开之后，我会想念你这个小混蛋的。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_a3abc292:
 
-    e "凯恩,我不会去任何地方。"
+    e "凯恩，我哪儿也不去。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_364f609d:
 
-    "你在凯恩的亲密拥抱里说话 他的紫色毛皮抚摸了你的脸颊 当你深挖你的头 进入他。"
+    "你埋在凯恩亲密的怀抱中说话。他的紫色毛发拂过你的脸颊，你把头更深地埋进他怀里。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_96aeb4a8:
 
-    c "小子,我还没忘记我们回房间的时候..."
+    c "小子，我还没忘记我们在我房间里的那次……"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_b2139233:
 
-    e "你相信我,对吧?"
+    e "你相信我，对吧？"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_35c0e700:
 
-    c "我有,小伙子,真的有。"
+    c "我相信，小伙子。我真的相信。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_15f36ae2:
 
-    c "我不能让你那么容易就走。"
+    c "可我没法这么轻易放你走。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_93312a6f:
 
-    "你能感觉到他更紧紧地拥抱你 一个毫无理性的后悔的人。"
+    "你感到他把你抱得更紧，仿佛正被一阵毫无道理的悔意攫住。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_8349da6f:
 
-    c "我希望你们能每天都和我 和酒馆在一起。"
+    c "唔……我希望你每天都能陪着我，也陪着酒馆。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_efa06011:
 
-    c "但不可能要你这样的冒险家。"
+    c "可要一个像你这样的冒险家每天留下来，未免太强人所难。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_1bf3e661:
 
-    c "所以,这是我第二大愿望..."
+    c "所以，这就是我第二大的愿望……"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_9fdbebdd:
 
-    "你可以感觉到他拥抱你更紧, 喜欢现在发生的一切。"
+    "你感觉到他把你抱得更紧，珍惜着此刻发生的一切。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_60dc01e6:
 
-    "他不说话,而是拥抱你 更紧, 喜欢什么是正在发生 在现在。"
+    "他没有说话，只是把你抱得更紧，享受着当下。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_0961af11:
 
-    "最终,你们两个互相拉开, 你不知道这是他独特的气味 还是他的脸颊微笑, 但是在几秒钟后,你的身体还能感觉到温暖的感觉。"
+    "最后，你们彼此松开。你不知道那份暖意来自他独特的气味，还是他脸上的坏笑；但几秒后，温暖仍留在身体里。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_3b406514:
 
-    c "你最好去。"
+    c "最好是。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_1605dbc6:
 
-    "他的笑容宽阔,他的手举高在你头上, 玩弄你的头发。"
+    "他的笑容扩大了，抬手越过你的头顶，顽皮地揉乱你的头发。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_f195d2e0:
 
-    c "楼上没有规矩,我知道他们中有些..."
+    c "楼上没什么规矩，而且我知道其中有些人……挺调皮的。替我留意着点，好吗？"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_1fc00be2:
 
@@ -543,1369 +543,1369 @@ translate schinese_rewrite Cane_First_Time_Upstairs_1fc00be2:
 
 translate schinese_rewrite Cane_First_Time_Upstairs_105503ff:
 
-    c "好,我让你自己决定。"
+    c "好，那就交给你自己决定。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_121212ee:
 
-    "肯尼转身离开 回来照顾他的生意。"
+    "凯恩转身回到柜台，继续照看自己的生意。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_8f745cfa:
 
-    "你不知不觉地对酒馆管家的好意微笑 迅速跑上楼。"
+    "你不由得为酒馆老板的好意微笑起来，随后快步跑上楼。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_96e7e6c7:
 
-    "你走过角落的一张桌子, 它似乎散落着硬币和袋子, 几乎好像你碰到了一个宝藏小洞。"
+    "你走到角落的一张桌子旁。桌上散落着硬币和钱袋，几乎像是一处藏宝地。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_a6918201:
 
-    "和往常一样,是三个常客, 玩耍和玩弄在桌子上。"
+    "和往常一样，三位老客正围桌打牌，边玩边拌嘴。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_34a031fd:
 
-    "他们很快注意到你的先发制人 对你挥手。"
+    "他们很快注意到你的到来，朝你挥了挥手里的牌。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_0c39021e:
 
-    fokk "看看他是谁 我们的酒馆的强大服务器。"
+    fokk "哎呀，看看这是谁！我们酒馆无所不能的服务员。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_9b6a07a5:
 
-    gato "敢打赌这个混蛋 来破坏我们的乐趣 再一次连坐下都不坐下"
+    gato "我敢打赌，这个可怜虫又是来搅我们的兴，连坐都不肯坐下。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_df882dcf:
 
-    "福克笑, 并动议你坐在椅子上。"
+    "福克笑了笑，示意你坐到椅子上。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_3179e8cb:
 
-    fokk "改变主意了吗?"
+    fokk "改变主意了？这儿永远有把空椅子给你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_91e7badb:
 
-    e "好吧,我通过。"
+    e "不了……我就不玩了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_e0bf7eee:
 
-    coit "你是一个什么样的派对停止者, 给我一些面包,至少 在yer路下来,是吗?"
+    coit "你可真扫兴。下楼时至少给我带点面包，行不行？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_c3dd5e41:
 
-    gato "或,得到你屁股打人 和浪费我们的时间。"
+    gato "不然就让我们打你的屁股，惩罚你浪费我们的时间。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_a9eb95ce:
 
-    "Fokk 笑得尴尬。"
+    "福克尴尬地笑了笑。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_dd26be17:
 
-    fokk "好吧,那么,椅子不会 离开很快。"
+    fokk "好吧。椅子不会自己长腿跑掉的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_8e215a7a:
 
-    fokk "Coit在开玩笑,他不吃面包。"
+    fokk "科伊特是在开玩笑，他不吃面包。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_eff65e66:
 
-    fokk "看看是谁,我们的服务器在桌子上。"
+    fokk "哎呀，看看是谁！我们的服务员也上桌了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_fdf80f23:
 
-    e "嘿,你们都打牌吗?"
+    e "嘿，你们在打牌吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_cfb72ac5:
 
-    fokk "我们只是打牌 休息一下 数数硬币 谈论屁股。"
+    fokk "我们是在打牌，只是暂时歇会儿，数数硬币，再聊聊你的屁股。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_8e5e615d:
 
-    gato "贝查他来拿该死的桌子了。"
+    gato "我敢说，他是冲着这张该死的桌子来的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_163e5d1a:
 
-    coit "如果你想成为酒馆的杂货店, 我们总是可以,你知道,跳到主菜。"
+    coit "要是你想当酒馆的精液抹布，我们当然可以跳过前菜，直接上主菜。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_6e11ba0a:
 
-    gato "他现在一定很紧地拉着我们用右手。"
+    gato "他现在一定把屁股夹得紧紧的，正等着我们在这里用他。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_063199c4:
 
-    fokk "\"嘿,你们这帮人,不要用胡言乱语 吓唬我们宝贵的服务器,我们总是可以去 来一轮Cumrag,第一。"
+    fokk "嘿，你们这些酒鬼，别用胡说八道吓跑我们宝贝服务员。我们总可以先来一轮Cumrag嘛。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_95b823c3:
 
-    "你点头,让自己坐在三个大男人中间。"
+    "你点了点头，坐到了三个高大的男人之间。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_d6d49b94:
 
-    gato "是时候了,我们开始吧,福克。"
+    gato "差不多该开始了，福克。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_c22b45d5:
 
-    "狐狸洗牌 给你们每人拿一张牌 然后把剩下的放在中间。"
+    "狐狸洗好牌，给你们每人发了一叠，再把剩下的牌放到桌子中央。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_219dcfa0:
 
-    fokk "好就走。"
+    fokk "可以，开始吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_08542825:
 
-    coit "准备好 服务器 愿最好的球员赢。"
+    coit "准备好，服务员。愿最厉害的人获胜。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_e73cdb83:
 
-    e "嗯,我想我会通过。"
+    e "嗯……我还是不玩了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_c5ec60cb:
 
-    fokk "'bight then."
+    fokk "那就随你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_2464a6dc:
 
-    fokk "无论哪种方式,我都会教这两个乡巴佬 用他们的钱包 在你身边多做点事。"
+    fokk "不管怎样，我会拿他们的钱包好好教训这两个乡巴佬，让他们以后在你面前规矩点。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_4740eedd:
 
-    coit "服务器,你别呆在这里,让我分心什么的,或者..."
+    coit "服务员，你最好别在这里待着，害我分心什么的。否则——"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_255d7122:
 
-    gato "这么说吧,我们已经看到哪个点子最愉快地击中了你们, 我们会马上让你泄密的,哈哈。"
+    gato "这么说吧，我们已经看出哪个位置最能让你舒服。用不了多久，就能让你漏出来，嘿嘿。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_4ebd3450:
 
-    fokk "玩牌,我们是, 想加入吗?"
+    fokk "我们正打牌呢。想加入吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_fa9bb8c8:
 
-    coit "别以为你们能轻易逃出我们这里,你们现在上钩了,就像一条钓鱼一样,你们还会回来的,记住我的话!"
+    coit "别以为你能这么轻易逃掉！你现在已经上钩了，就像鱼一样。你还会回来的，记住我的话！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_f85ee25f:
 
-    fokk "我尊重这烂小子,你还想吓唬你的裤子...。..他跟我一起赢了所有的钱。"
+    fokk "我已经开始有点尊重这个邋遢小子了。你们要是再输给他，可别吓得尿裤子——他可是和我一起赢光了你们的钱。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_95b823c3_1:
 
-    "你点头,让自己坐在三个大男人中间。"
+    "你点了点头，坐到了三个高大的男人之间。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_8881975a:
 
-    e "我必须承认,游戏上瘾了 算我一个,你们几个。"
+    e "我得承认，这游戏还挺上瘾。算我一个，各位。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_0aea5d93:
 
-    gato "啊,精神来了,希望你一直在练习,因为这次我们不会轻易放过你。"
+    gato "这才像话！希望你练过了，因为这次我们可不会手下留情。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_c22b45d5_1:
 
-    "狐狸洗牌 给你们每人拿一张牌 然后把剩下的放在中间。"
+    "狐狸洗好牌，给你们每人发了一叠，再把剩下的牌放到桌子中央。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_219dcfa0_1:
 
-    fokk "好就走。"
+    fokk "可以，开始吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_08542825_1:
 
-    coit "准备好 服务器 愿最好的球员赢。"
+    coit "准备好，服务员。愿最厉害的人获胜。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_e73cdb83_1:
 
-    e "嗯,我想我会通过。"
+    e "嗯……我还是不玩了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_c5ec60cb_1:
 
-    fokk "'bight then."
+    fokk "那就随你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_0dc0c4b4:
 
-    coit "多臭的臭小子,你下次回来的时候 免得有车牌和杯子。"
+    coit "真扫兴。下次你不忙着端盘子和杯子时，记得回来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_1295bfad:
 
-    patron2 "你怎么连着那三个流浪汉跑来跑去的?"
+    patron2 "你到底是怎么一口气抽到三张漂泊者的？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_6322873c:
 
-    patron2 "啊,用一把生锈的剑来干我!"
+    patron2 "啊，拿把生锈的剑捅我吧！我的口袋比乞丐的屁股还空。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_5cb37b08:
 
-    "桌子上布满了打牌和闪发光的硬币。"
+    "桌上堆满了各式纸牌和闪闪发亮的硬币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_10c6e11d:
 
-    "其中有三人在闲聊, 并伴之以一连串不便的交响乐, 以及随意的骗局的深层声音。"
+    "三个人就在桌边闲聊，粗哑低沉的声音交织成一曲随意的喧闹。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_e97eda7f:
 
-    patron "这难道不是事实吗 加藤 我们需要奇迹来扭转局面。"
+    patron "可不是嘛，加托。我们得要个该死的奇迹才能扭转局面。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_78f0edac:
 
-    "一个酒馆的常客 毫无顾虑地把他剩下的牌扔在桌上。"
+    "其中一位老客皱起眉，毫不在意地把剩下的牌扔到桌上。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_bf9c79db:
 
-    gato "我的钱包总是比沙漠沙子更干燥 这一切都是这个臭小子Fokk所失去的。"
+    gato "我的钱包总是比沙漠还干，结果全输给了福克这个得意的小混蛋。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_d11610ee:
 
-    "鳄鱼摇头 指着狐猴指着狐猴。"
+    "鳄鱼摇了摇头，伸手指向那只狐猴。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_ed3e25d4:
 
-    fokk "抓紧你的马,你个小混蛋,在张开嘴前先把硬币拿过来？"
+    fokk "别急着放屁，你这群笨蛋！开口之前先把硬币交出来，行不行？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_9055d445:
 
-    "勒穆尔说,他用大圆眼 盯着钱包。"
+    "狐猴瞪着一双大圆眼睛，盯着那只钱袋。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_0eedb887:
 
-    gato "你们这些高手,不要骑高马,我需要改变节奏, 有些东西能带回女士的好运。你们怎么说,科伊特?"
+    gato "喂，别得意忘形。我得换换节奏，找点东西把女神的好运带回我这边。你说呢，科伊特？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_bfb5c1a3:
 
-    "又一个普通的,像野狼一样的野狼 口笑。"
+    "另一位老客——一头壮实的郊狼——咧嘴笑了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_cb177be9:
 
-    coit "是的,改变步调,胡说八道的脚踢 就能完全改变他的步调。"
+    coit "换换节奏？哈，狠狠踢他一脚，保证立刻就变了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_d6abf5b2:
 
-    fokk "步调的改变 无法修复你那该死的臭嘴,不是吗?"
+    fokk "换节奏可治不好你那张该死的臭嘴，不是吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_39a8ad82:
 
-    "感知未知的存在 鳄鱼转过头来 看着你的目光。"
+    "察觉到陌生的存在，鳄鱼转过头，注意到了你的目光。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_ac4607fc:
 
-    gato "嘿,你在那里。"
+    gato "嘿，那边的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_03fa3b03:
 
-    gato "你难道不是楼下的服务器吗?"
+    gato "你不是楼下那个服务员吗？我发誓，我在这儿见过你那张漂亮的脸。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_5883777d:
 
-    fokk "你们在酒馆周围拿着盘子和杯子,不是么?"
+    fokk "你不是一直在酒馆里端盘子和杯子吗？我可见过那块小布下面藏着什么。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_0dfdbbbd:
 
-    "普通人用恶毒的格林特语说话,当他说话时,他把硬币扔在桌上。"
+    "那位老客带着恶作剧般的笑意说着话，同时把一枚硬币在桌上翻来翻去。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_70a97851:
 
-    fokk "您叫什么来着, 服务器?"
+    fokk "服务员，你叫什么来着？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_6d629ae0:
 
-    e "嘿,我在楼下只卖过车牌,我是[e]。"
+    e "嘿，我只是在楼下端过盘子。我叫[e]。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_573a89ed:
 
-    "你紧张地反感 但三个赞助人甚至不给你另一个信号 除了一个安静的笑脸。"
+    "你紧张地回嘴，可三位客人只是安静地笑了笑，完全没有把你的话当回事。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_f1efda5b:
 
-    coit "是的,这意味着你除了一个光荣的杯子载运者,所以在这里得到你的屁股。我们可以利用一些额外的运气,或盛宴fer m'眼睛就足够了。"
+    coit "那就是说，你不过是个光荣的端杯子工。过来坐下吧，我们需要一点好运；或者让你养养眼也够了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_e710df45:
 
-    e "我只是环顾四周, 我现在实际上不工作。"
+    e "我只是随便看看，现在并没有在工作。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_01ffa467:
 
-    fokk "凯恩雇你来干这个?"
+    fokk "是吗？也许你该来我们桌底下全职工作。凯恩雇你来，不就是为了这个吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_978fbf38:
 
-    "他们的挑逗相当有趣, 但他们用喉咙的声音更吓人。"
+    "他们的调侃听起来像是在开玩笑，可那低沉的嗓音让人更觉压迫。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_32206766:
 
-    e "但我从没玩过这个游戏,不是吗?"
+    e "可我从没玩过这个游戏，输了怎么办？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_110c7ef6:
 
-    gato "坐下来玩他妈的游戏吧,看在上帝的份上,我们会教你的。"
+    gato "看在神的份上，坐下来玩这该死的游戏吧。我们会教你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_43d1f534:
 
-    e "嗯,我通过。"
+    e "嗯……那我就不打扰了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_f90f2b88:
 
-    coit "哦,听高大万能先生的话!"
+    coit "哦，听听这位高高在上的先生说话！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_09f00923:
 
-    coit "随你便吧 没有你的帮助我们就能应付得来。"
+    coit "随你便吧。没有你这份大驾光临，我们也照样玩得下去。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_7efe1d3c:
 
-    gato "出去的时候别让门撞到你 服务器。"
+    gato "服务员，出去时可别让门撞到你的屁股。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_ec1eaf92:
 
-    fokk "服务器,这两个人输给有史以来最好的牌员很痛苦,如果你改变心意, 总有一张椅子可以让自己坐上,或者坐下。"
+    fokk "喂，服务员。这两个家伙只是输给了有史以来最好的牌手，心里不痛快罢了。你要是改变主意，这里总有把椅子给你坐——或者坐到桌子底下。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_95b823c3:
 
-    "你点头,让自己坐在三个大男人中间。"
+    "你点了点头，坐到了三个高大的男人之间。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_49c45232:
 
-    coit "是时候了,让我们来看看,如果yer 熟练的卡 像你和杯子一样。"
+    coit "总算来了。看看你打牌的本事，是不是和端杯子的本事一样好。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_1bca7125:
 
-    e "好吧,我很感兴趣,我怎么开始?"
+    e "好吧，我有兴趣。要怎么开始？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_07325e0e:
 
-    gato "这就是鬼魂!{i}{/i}？"
+    gato "这才像话！现在说正事。我们要玩一局{i}Cumrag{/i}，你应该知道规则吧？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_1cd0bf11:
 
-    e "你在说什么?"
+    e "你在说什么？Cumrag？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_b3b7eb80:
 
-    gato "这是游戏的名字 失败者就是混血儿,比喻。"
+    gato "这是游戏的名字。输家在比喻意义上就是那块精液抹布。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_d9a3008e:
 
-    e "啊,那谁是最后一场比赛的混球?"
+    e "啊……那上一局谁是那块抹布？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_6bc6001c:
 
-    "你注意到两只手指着前面的一只手。"
+    "你注意到两只手同时指向了面前那个人。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_25215995:
 
-    coit "滚开,我不会对你们这些对不起的人做任何事 反正我们要用真正的金子来付钱。"
+    coit "滚吧，我可没对你们这些可怜虫做什么。反正这局用的是真金白银。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_3a4cd9bc:
 
-    "鳄鱼瞪着眼睛看着你。"
+    "鳄鱼眯起眼睛看着你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_4bda9485:
 
-    coit "如果你不知道,你可以一直问,我们正在玩公平游戏。"
+    coit "你要是不懂，尽管问。我们玩的是公平游戏。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_3af613df:
 
-    gato "我们早点开始,就早点知道我们这个小服务机 带来什么好运。"
+    gato "少废话，赶紧洗牌。越早开始，我们就越早知道这个小服务员能带来什么好运。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_46fef336:
 
-    fokk "赌注很简单 如果你最后一个 yev就得还钱。"
+    fokk "赌注很简单：最后出完牌的人就得付钱。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_16cb3eca:
 
-    e "我们赌多少?"
+    e "我们赌多少？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_e81379ab:
 
-    gato "每块40金"
+    gato "每张四十枚金币——"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_d91b0664:
 
-    coit "Hush!"
+    coit "嘘！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_0d47bb0d:
 
-    "Coit在Gato的嘴前扇他的手指 要求他的沉默。"
+    "科伊特把手指竖在加托嘴前，示意他闭嘴。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_eacc540d:
 
-    coit "没有你买不起的服务器 我们没有足够的金子赌 美人加藤?"
+    coit "像你这样的服务员可赌不起。我们反正也没多少金币能赌，对吧，加托？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_9c8ecaa5:
 
-    "Gato看了你一眼 然后又大声了一遍。"
+    "加托看了你一会儿，又提高声音说道。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_34da7c8c:
 
-    gato "我们桌上有各种赌注,如果不是金子的话..."
+    gato "我们桌上有各种各样的赌注。如果不赌金币，那就把事情弄得更刺激一点……"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_382bb6e5:
 
-    e "将事情透露出来吗？"
+    e "把事情弄得更刺激？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_878ad830:
 
-    gato "博爱,输家必须为赢家做点什么,这给赢家增加了一点娱乐,你知道的。"
+    gato "比如做点事。输家得替赢家做些什么，给赢家添点乐子，你懂的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_45c358a3:
 
-    e "等等,我们到底在谈什么好处?"
+    e "等等，我们说的到底是什么事？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_c45b8837:
 
-    coit "我说过了,你什么都做不了。"
+    coit "就像我说的，没什么是你做不到的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_9bfd683c:
 
-    coit "这里的福克曾经在酒馆前唱过一首歌, 假设那天我们失去了一些顾客, 为我们心爱的凯恩。"
+    coit "福克有次不得不在酒馆前唱一首下流歌。那天我们亲爱的凯恩可算是损失了不少客人。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_ec22bac2:
 
-    fokk "亚wanker,凯恩拦住我 就在我即将到达 最高潮的歌曲, 他们从来没有到达到最后那里。"
+    fokk "你这个混蛋！我唱到歌曲高潮时，凯恩正好把我拦下，他们根本没听到结尾。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_661b8851:
 
-    "Fokk pouts, 彻底洗掉他手上的牌."
+    "福克撅起嘴，把手里的牌彻底洗了一遍。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_05f187fc:
 
-    fokk "然而,这些{i}favors{/i} 的胡说八道的废话真多。"
+    fokk "不过，你们拿这些{i}赌注{/i}说事，也真够胡扯的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_e0137cb0:
 
-    "加托点头 眼中带着一股恶毒的光芒。"
+    "加托点了点头，眼中闪过恶作剧般的光芒。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_45626c63:
 
-    gato "凯恩最喜欢的酒保在桌上 别担心。"
+    gato "凯恩最喜欢的侍酒人现在也在桌边了。放心，我们会换个玩法。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_3ffd41bb:
 
-    "加藤和科伊特都大声地笑着说。"
+    "加托和科伊特都大声笑了起来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_045e8ec4:
 
-    e "B -但是,我是不是要输了 反正, 你们都玩游戏 比我长得多。"
+    e "可、可是，我不是肯定会输吗？你们玩这个游戏的时间比我长多了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_1b093ecc:
 
-    coit "别担心,你们不是房间里最亮的服务器吗?"
+    coit "别担心。你不是房间里最聪明的服务员吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_3a5e2d57:
 
-    gato "如果输了,就当是开始 成为一名打卡手吧!"
+    gato "要是输了，就当作成为牌手的入门仪式吧！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_c5878ef2:
 
-    "当你思考这种好处的风险时 福克把最后一批牌交给你 剩下的在桌子中间移动。"
+    "你思考着这些赌注可能带来的风险，福克把最后一叠牌递给你，并把其余的牌移到桌子中央。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_174001eb:
 
-    e "我想是的。我是否觉得幸福?"
+    e "我想是吧……不过请你们手下留情，我、我还什么都不懂。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_0198b87f:
 
-    fokk "这就是精神 服务器 看着奖品。"
+    fokk "这才像话，服务员。盯紧奖品，很快你就能醒来时多出几千枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_b9490bea:
 
-    "Fokk grins, 彻底洗洗他手上的牌."
+    "福克咧嘴一笑，把手里的牌彻底洗了一遍。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_7fd5a378:
 
-    e "不过,我还是对游戏一无所知。"
+    e "不过请轻点，我对这游戏还是一窍不通。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_19669f11:
 
-    gato "是的,我们会的。"
+    gato "当然。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_2d620b0c:
 
-    "加藤和科伊特都互相眨眼 大声地笑 虽然你还是不知道发生了什么。"
+    "加托和科伊特互相眨了眨眼，大声笑了起来，可你还是不知道他们在打什么主意。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_8b61a7df:
 
-    coit "我喜欢你的态度,你们会合得来。"
+    coit "我喜欢你的态度。你会很快融入我们这桌。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_e0137cb0_1:
 
-    "加托点头 眼中带着一股恶毒的光芒。"
+    "加托点了点头，眼中闪过恶作剧般的光芒。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_94fbf1b9:
 
-    "和你一样无知, 你抓你的头像 常客在对对方闪耀, 这使他们笑得更宽,因为他们注意到你。"
+    "你一头雾水地挠了挠头。老客们互相使着眼色，看到你的反应后，笑得更开心了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_0a746f82:
 
-    fokk "现在我明白凯恩为什么喜欢这个了 肯定也在他的巷子里。"
+    fokk "现在我明白凯恩为什么喜欢这个小子了。他肯定也喜欢这一套。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_85d764d5:
 
-    "另外两人全心全意地笑, 福克把最后一批牌交给你, 其余的在桌子中间移动。"
+    "另外两人放声大笑。福克把最后一叠牌递给你，并把其余的牌移到桌子中央。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Ready_08542825:
 
-    coit "准备好 服务器 愿最好的球员赢。"
+    coit "准备好，服务员。愿最厉害的人获胜。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_52c838ae:
 
-    fokk "好了,听着,你们这些无赖。"
+    fokk "好了，都听着，你们这些无赖。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_91221d4a:
 
-    "福克清清喉咙 让你看牌。"
+    "福克清了清嗓子，把牌摊给你看。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_44ab1726:
 
-    fokk "牌可以放在甲板、你的手或堆叠。随着游戏的开始,52张牌都放在甲板上。"
+    fokk "牌可以在牌堆、手牌或弃牌堆里。游戏开始时，52张牌都在牌堆中。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_9327cb0a:
 
-    gato "我们得到了那个角色,你这个长尾的混蛋!"
+    gato "这部分我们懂了，你这个啰嗦的混蛋！继续说！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_907545ec:
 
-    fokk "别担心 服务器 失败者喜欢像不耐烦的人一样。"
+    fokk "别担心，服务员。输家总爱装出一副不耐烦的样子。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_ab40919c:
 
-    fokk "不管怎么说,我们每个人都有5张牌。第一张牌可以玩任何数的牌 同样的牌,来开始新的牌堆。"
+    fokk "总之，我们每人先拿五张牌。第一个玩家可以打出任意数量、点数相同的牌，组成新的牌堆。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_19ae7c8c:
 
-    fokk "然后,下一个玩, 他们只能玩牌 数字比堆积层上牌高的牌 --"
+    fokk "接下来轮到下一个人，他只能打出点数高于牌堆顶牌的牌——"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_048e07e8:
 
-    coit "除非是朝圣者卡 否则会有转折的!"
+    coit "除非打出的是朝圣者牌，那就另说了！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_54c847fe:
 
-    "福克转过眼来 明显是被打断了。"
+    "福克翻了个白眼，显然对这番打断很不满。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_9f2b9d96:
 
-    fokk "对,对,如果牌堆顶部有4张牌一样的牌, 它会烧掉整张牌。"
+    fokk "对，对。如果牌堆顶上有四张点数相同的牌，就会烧掉整堆牌。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_3de7a90d:
 
-    e "燃烧意味着什么?"
+    e "烧掉是什么意思？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_76c349d2:
 
-    gato "这意味着牌堆中的牌被从游戏中删除, 而下一个草堆将开始一个新的堆。 简单到此！"
+    gato "就是说，牌堆里的牌会从游戏中移除，接着下一个倒霉蛋重新开一堆。就这么简单！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_78e1f522:
 
-    fokk "他没说错,我当时在哪?"
+    fokk "他说得没错。我刚才讲到哪儿了？啊，如果你不能打牌，或者不想打，就得把整堆牌拿进手里，再开一堆。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_fac9b7d2:
 
-    coit "或者如果你是个胆小鬼 不敢冒险的话 就像福克一样!"
+    coit "除非你是个胆小鬼，害怕冒险——就像福克一样！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_7e19df10:
 
-    fokk "臭小子,看看谁有金子了,不管哪种方式,如果你有不到5张牌,那么你必须从甲板上拿牌来填满手。"
+    fokk "随你怎么说，臭小子。看看现在是谁手里有金币。总之，如果你的手牌少于五张，就得从牌堆里补满。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_97a950dd:
 
-    fokk "之后轮到下一个玩家了。"
+    fokk "补完之后，就轮到下一位玩家。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_5ca07584:
 
-    fokk "我们重复同样的循环,直到甲板耗尽。之后,你没有牌可以再填,如果你玩完所有的牌,你就会赢。"
+    fokk "我们会一直重复，直到牌堆耗尽。之后你就没有牌可补了；只要把手里的牌全打完，你就赢了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_57442269:
 
-    e "那么朝圣者卡是做什么的?"
+    e "呃……那朝圣者牌是做什么的？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_d38f795e:
 
-    fokk "啊,那些朝圣卡,很特别的,你看?"
+    fokk "啊，朝圣者牌！它们很特别，你看。火焰牌是引火者，可以把整堆烧掉，就像加托刚才说的那样。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_0c7be73a:
 
-    "土狼靠进来,强调朝圣卡上的符号。"
+    "郊狼凑近了一些，指着朝圣者牌上的符号强调起来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_00009f5f:
 
-    fokk "监视者让你偷看其他球员的手。然后你们可以选择交换手或留住手。"
+    fokk "窥视者能让你偷看另一位玩家的手牌。之后你可以选择交换手牌，或者保留自己的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_02c0e8cb:
 
-    fokk "最后,流浪者!这是整个游戏中最高的价值。如果它堆在堆积物上,而你没有其他流浪者, 你卡在堆积物上,我朋友!"
+    fokk "最后是漂泊者！它是整场游戏里点数最高的牌。如果它在牌堆顶，而你手里没有另一张漂泊者，那你就只能把整堆牌拿走，朋友！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_c5cd96b1:
 
-    gato "是的,你听到他们的话了,球员!"
+    gato "听见了吧，牌手！这就是游戏规则，简单明了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_Tutorial_d9498195:
 
-    e "好吧,我想我有点头绪了。"
+    e "好、好的，我大概明白了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_f4ee0ae9:
 
-    coit "这不公平,我手好手好手好手 计划都毁了。"
+    coit "这局不公平。我手里的牌明明这么好，你这套打法却把我的计划全搅乱了，呃啊……"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_60fae672:
 
-    fokk "我们都知道这轮的冲浪者是谁。"
+    fokk "喂，这一局谁是那块抹布，大家心里都有数。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_f45b8810:
 
-    coit "再说一遍,每张40金卡?"
+    coit "不、不对，等等，我还付得起。赌注是多少来着？每张牌四十金币？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_9b06564e:
 
-    gato "被一个光荣的杯子载体打败了,不是吗?"
+    gato "输给一个端杯子的，也好意思？快点，我的郊狼老弟，钱袋等着呢。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_7ec1a6b7:
 
-    fokk "输了好一阵子了,你不是个大笨蛋吗?"
+    fokk "你已经输了一阵子了。现在不就是一块货真价实的精液抹布吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_e59caa14:
 
-    gato "我的运气比沙漠沙子更干燥 口袋也干得同样。"
+    gato "我的运气比沙漠还干，钱袋也一样。唉。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_78a3fe48:
 
-    coit "是的,你最好付我们钱 包括我们的服务器每张卡40金。"
+    coit "是啊，赶紧把钱付了，也别忘了给我们的服务员。每张牌四十枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_975b3c7a:
 
-    coit "哈,看来我们所有的和强大的福克 并不是那么不可战胜的 我知道我们会从你们手中夺回金子。"
+    coit "哈，看来咱们无敌的福克也没那么无敌嘛。我就知道我们能把金币从你手里赢回来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_bcad17bc:
 
-    gato "上帝倒下,哈哈,多么的灾难,你可能会想重新考虑 自己宣布的卡片大师头衔。"
+    gato "神明倒下了，哈哈。真是惨哪。你最好重新考虑一下自己封的牌王头衔。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_3b9c0802:
 
-    fokk "你们不是很多喜剧演员吗? 每张卡片40块金子。"
+    fokk "你们还真是喜剧演员。行，按说好的，每张牌四十枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_b119e45d:
 
-    e "等等...我们能得到多少?"
+    e "等、等等……我们能拿到多少？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_783c00d4:
 
-    fokk "第一个得到大约三分之二的黄金, 其余的甚至在第二和第三个。"
+    fokk "第一名拿走大约三分之二的金币，剩下的由第二名和第三名平分。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_2565cfc8:
 
-    "狐狸的笑脸 接受土狼的硬币。"
+    "狐狸咧嘴一笑，从郊狼手里接过硬币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_03be19e4:
 
-    coit "这周我赚了些钱 不过我还是要告诉你 下一轮我再赚。"
+    coit "这下我这周的麦芽酒钱没了。不过先说好，下局我会赢回来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_1c476d46:
 
-    "狐狸的笑脸 接受鳄鱼的硬币。"
+    "狐狸咧嘴一笑，从鳄鱼手里接过硬币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_ad0fa076:
 
-    gato "我口袋现在比羽毛还轻 花那些硬币 明智地叫喊, caus'yer付我更多 下一回合的回扣。"
+    gato "我的钱袋现在轻得像羽毛。你们把这些硬币花聪明点，下局可得连本带利还我。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d1af2494:
 
-    "狐狸的眉毛 给了你三块金子。"
+    "狐狸皱着眉，把一堆金币递给你们三个。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a2d03d9c:
 
-    gato "终于你尝到了自己吃药的味道。"
+    gato "哈，终于也让你尝到自食其果的滋味了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_848fe7b6:
 
-    fokk "是的,我不介意 偶尔,如果M'药物是赢的。"
+    fokk "是啊，偶尔让我的‘药’奏效一次，我倒不介意。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d16ee98a:
 
-    "你从福克拿[cdg_stake_amount]金。"
+    "你从福克手中拿到[cdg_stake_amount]枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_fc2201dd:
 
-    fokk "我们的服务器在这里玩得不错。"
+    fokk "嗯，和我们的服务员一起玩了一局，挺不错。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_2f8fbc28:
 
-    e "和你们一起玩也很有趣!"
+    e "和你们一起玩也挺有意思的！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_3b0bf714:
 
-    coit "越多越好 失去机会的机会也不会增加。"
+    coit "人多更热闹，而且我输掉的机会也没增加。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_345229ef:
 
-    gato "仿佛你只是扔骰子,你这个愚蠢的坏蛋, 这就是为什么你口袋里大部分时间都是空的。"
+    gato "说得好像你只是随手掷了个骰子似的，你这个蠢货。你钱袋总是空着，大概就是这个原因。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_42cadf42:
 
-    "你们四个全心全意地笑 福克拍你的背。"
+    "你们四人畅快地笑了起来，福克拍了拍你的后背。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_61ee45fa:
 
-    fokk "随时回来,我们会玩。"
+    fokk "随时回来，我们还会在这儿打牌。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_c868cdd7:
 
-    "你站起椅子 离开吧。"
+    "你从椅子上站起来，告辞离开。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_b4e0bbb8:
 
-    fokk "啊,今天的积聚 - 我们的小服务器在这里。"
+    fokk "啊，今天的抹布——就是我们这位小服务员。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_5d817fd6:
 
-    e "那是个混乱的游戏 对吧?"
+    e "刚才那局真让人摸不着头脑……对吧？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_53fbbed5:
 
-    coit "是的,但你输了 看来你欠我们一点钱,不是吗?"
+    coit "是啊，不过你输了。看来现在该欠我们点东西了，你不觉得吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_9464a195:
 
-    e "这次我们..."
+    e "不能……这次就算了吧？我、我和你们玩得很开心。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_0dfd3d4f:
 
-    "三个常客装笑,似乎没有影响他们。"
+    "三位老客只是咧嘴一笑，显然完全不为所动。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d641d303:
 
-    gato "不能就这么轻易地让你脱身。"
+    gato "哪能这么轻易就放你走。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_7421ff5d:
 
-    "福克伸展他的手 让你交出东西。"
+    "福克伸出手，示意你交出点什么。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_552bc15d:
 
-    fokk "每张40金牌,你还有[cdg_stake]卡,这是你欠我们的[cdg_stake_amount]金。"
+    fokk "每张牌四十枚金币。你还剩[cdg_stake]张牌，也就是……你欠我们[cdg_stake_amount]枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_1409c024:
 
-    e "我想公平是公平的。"
+    e "这、这也算公平。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_ae353743:
 
-    "你拿出包,交给福克。"
+    "你掏出钱袋，交给福克。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_b34a9d6d:
 
-    "他很快地抢走了它, 开始数数硬币。"
+    "他一把夺过钱袋，开始数里面的硬币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_951ca3c1:
 
-    gato "我们是一群慷慨的人,所以别担心屁股,会是桶里一滴。"
+    gato "我们可是很慷慨的，所以别担心你的屁股。这点钱不过是沧海一粟。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_258d2091:
 
-    fokk "规则是规则,一些硬币也行。"
+    fokk "看，我们不会多拿，也不会少拿。规矩就是规矩，几枚硬币就够了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_4f129f8e:
 
-    e "不过,你不用把我的金子全拿走来算。"
+    e "不过，你没必要把我的钱全拿出来数吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_8c4c00f0:
 
-    "你气喘吁吁 狐狸很快就注意到了 抬头看。"
+    "你低声嘟囔了几句，狐狸很快注意到你的不满，抬头看向你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_127e1592:
 
-    fokk "毕竟,有些是靠卖杯子和盘子赚来的黄金。"
+    fokk "我们会把它们用在正地方，服务员。毕竟，这些金币里有些可是你端杯子、端盘子辛苦赚来的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_867f964c:
 
-    coit "你的意思是更多啤酒?"
+    coit "你是说要买更多麦芽酒？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_63153e98:
 
-    fokk "特别是更多的啤酒。"
+    fokk "尤其是更多麦芽酒。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_137b8bc3:
 
-    "Fokk把剩下的金子还给你 和他的死党分享。"
+    "福克把剩下的金币还给你，又和他的牌友们分了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_7b03cd9a:
 
-    fokk "[cdg_stake_amount]的金子不见了。"
+    fokk "这下少了[cdg_stake_amount]枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_ab02f608:
 
-    e "谢谢你的比赛,我玩得很开心。"
+    e "不管怎样，谢了。我玩得很开心。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_3b0bf714_1:
 
-    coit "越多越好 失去机会的机会也不会增加。"
+    coit "人多更热闹，而且我输掉的机会也没增加。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_345229ef_1:
 
-    gato "仿佛你只是扔骰子,你这个愚蠢的坏蛋, 这就是为什么你口袋里大部分时间都是空的。"
+    gato "说得好像你只是随手掷了个骰子似的，你这个蠢货。你钱袋总是空着，大概就是这个原因。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_42cadf42_1:
 
-    "你们四个全心全意地笑 福克拍你的背。"
+    "你们四人畅快地笑了起来，福克拍了拍你的后背。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_61ee45fa_1:
 
-    fokk "随时回来,我们会玩。"
+    fokk "随时回来，我们还会在这儿打牌。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_c868cdd7_1:
 
-    "你站起椅子 离开吧。"
+    "你从椅子上站起来，告辞离开。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d4245b11:
 
-    e "我现在身上没有金子。"
+    e "我现在身上没有金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_1fe7abb8:
 
-    e "介意我离开去... 很快地得到他们吗?"
+    e "我、我能不能先离开……马上就回来拿钱？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_ac0f3d3f:
 
-    "三个正规军几乎同时向前倾 他们的威吓眼神只会使你口吃得更厉害。"
+    "三位老客几乎同时前倾。他们吓人的目光让你结巴得更厉害了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_97af28b0:
 
-    gato "没有金子?"
+    gato "没金币？那就把钱袋交出来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a2c2d516:
 
-    e "里面什么也没有 我们能不能解决点事 我保证我会还钱的。"
+    e "里、里面什么都没有……不能想想别的办法吗？我保证会、会还钱。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_f881a9f9:
 
-    coit "给我钱包,我们再想办法。"
+    coit "想别的办法？把钱袋给我，我们自然会想办法。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_b8025451:
 
-    "土狼的笑容,他的举止 已经发生了巨大的变化 尤其是当他们都盯着你的时候 不仅你的眼睛 而且你全身都闪闪发光。"
+    "郊狼咧嘴笑了。他的态度发生了明显变化；三人盯着你的不只是眼睛，而是上下打量着你的全身。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_3ec868a1:
 
-    gato "这一切都很好玩,不是吗 我们都同意?"
+    gato "大家不都同意这只是闹着玩吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_9f200c17:
 
-    "毫不犹豫地,福克从你身上偷了包。"
+    "福克毫不犹豫地从你手里夺走钱袋。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_69319bf1:
 
-    e "Hey!"
+    e "喂！"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_359f7b50:
 
-    fokk "债务就是债务 我们会尽你所能偿还。"
+    fokk "债就是债。你能付多少，我们就拿多少。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_181e9090:
 
-    "他把包翻倒了 但包里没有东西掉下来。"
+    "他把钱袋倒过来，可里面什么也没掉出来。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_5afbc271:
 
-    "你尴尬地看着狐狸摇动你的包 几次, 只是确认从来没有黄金 在包里。"
+    "你尴尬地看着狐狸把钱袋来回摇了几下，只为确认里面从来没有过金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a4c7b574:
 
-    fokk "什么，连一枚金币都没有？"
+    fokk "连一枚金币都没有？"
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_059073a5:
 
-    gato "连你这样的杯子载货员 都很难过。"
+    gato "这也太惨了吧，连一个端杯子的都不如。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_34f595b1:
 
-    e "我说过我没有钱..."
+    e "我都说了，我没有钱……"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_4afcd8fe:
 
-    "他把袋子倒翻了, 你看到桌子上只有几块硬币掉下来, 其中一个几乎从桌子边缘滚出来, 直到加藤阻止它。"
+    "他把钱袋倒过来，你只看见几枚硬币落在桌上。其中一枚差点滚下桌沿，幸亏加托把它拦住了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_c0cff016:
 
-    "狐狸举起眉毛。"
+    "狐狸挑了挑眉。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_967efe9d:
 
-    fokk "这还不够你欠我们的东西。"
+    fokk "这点钱可不够还你欠我们的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_92efe130:
 
-    "Fokk在想出一个主意之前 划了一下下巴。"
+    "福克摸了摸下巴，片刻后想出了个主意。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_b5215ed0:
 
-    fokk "听着,服务器,我们不是贪婪的帮手, 我会放过你们剩下的硬币, 如果你用你的身体支付。"
+    fokk "听着，服务员，我们不是贪得无厌的人。你要是用身体付账，我就免掉剩下的欠款。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_07f7e10c:
 
-    fokk "我见过你们围裙下面的东西 当你站出来 提供盘子和杯子 赤裸裸的。"
+    fokk "你上前端盘子、端杯子时，我可是看见围裙下面是什么了——那时你还是光着身子的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_222d67f5:
 
-    coit "刚才真见鬼,小子,我甚至要挤你屁股。"
+    coit "那场面可真让人难忘，小伙子。我当时还捏了捏你那弹性十足的屁股。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_356326f9:
 
-    "正常人从椅子上走出来, 并阻拦你的出口 在不舒适的近距离。"
+    "三位老客从椅子上站起来，近得让人不舒服，堵住了你的出口。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_44bf1ac9:
 
-    gato "我知道他很难知道接下来会发生什么 就像他卖盘子时一样。"
+    gato "而且这是免费的。这位好色的小服务员又不是什么害羞的人。我知道你想到接下来会发生什么时已经硬起来了，就像你端盘子时一样。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_0cf3a87a:
 
-    e "你不能这样做..."
+    e "你们不能这样……"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d8442dd8:
 
-    fokk "我不想和你们分手,但这是我们的地盘,我们可以随心所欲地利用你们。"
+    fokk "我不想把话说得太难听，但这片地盘是我们的。我们想对你做什么都可以。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_63a6305b:
 
-    e "我... 那不是我报名的目的。"
+    e "我、我……我不是为这个来的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_1dcd4923:
 
-    gato "他说话好像他不想这样..."
+    gato "听他说的，好像他不想要似的……哈哈，看看他眼睛下面那副拙劣掩饰的渴望。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a29b9bcd:
 
-    fokk "你瞧我们有一阵子了 不如我们一起跳到最伟大的地方吧。"
+    fokk "难道不是吗？你盯着我们已经有一阵子了。那我们何不直接跳到最精彩的部分？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_47755b90:
 
-    coit "你别无选择 服务器 玩游戏之前应该存点钱吧？"
+    coit "你没得选，服务员。早知道就该在开局前攒点钱，对吧？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_fbf17031:
 
-    e "太不公平了 你们三个都这么有经验。"
+    e "这太不公平了，你们三个玩这个游戏的时间比我长多了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_eb6160c0:
 
-    fokk "听着,我们需要的只是一些你宝贵的时间, 考虑到你没有金子可以支付,为什么不放松一下。"
+    fokk "听着，我们只需要你宝贵的一点时间。既然你没金币付账，为什么不放松一会儿？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_f8c19b08:
 
-    "他把袋子倒翻了, 硬币立刻在桌上下雨, 制造一小堆 每一秒都增长。"
+    "他把钱袋倒过来，硬币立刻像下雨一样落在桌上，很快堆成一小堆，而且还在不断变高。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_0221658f:
 
-    gato "你中大奖了吗?"
+    gato "你中大奖了？这儿的金币可真不少。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_ab831e17:
 
-    e "我想我忘了那些了 我现在能拿回钱包了吗?"
+    e "呃，我……我想我只是忘了它们。现在能把钱袋还给我了吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_9711277a:
 
-    fokk "别太快,服务器。既然你轻而易举地忘记了这些硬币,它们就属于我们了。你把它当作教训吧。"
+    fokk "别急，服务员。既然你这么‘恰好’忘了这些硬币，它们现在理所当然归我们了。把这当教训吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_9f474be6:
 
-    e "等等,你就不能拿走我欠你的吗?"
+    e "等、等等，你不能只拿走我欠你们的那部分吗？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_11da3474:
 
-    coit "你 自 己 欺 哄 我 們、 我 們 甚 重 心、 甚 重 於 誠 实、 甚 乎 你 們 所 以 所 以 所 以 所 以 以 的、 小 人、 小 人、 更 重心。"
+    coit "你既然骗了我们，就别想了。我们比你想的更看重诚实，小服务员。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_534a4682:
 
-    fokk "但是我们不是贪婪的一帮人, 我会给你们留下剩下的硬币 减去欠我们的硬币, 以另一种方式支付。"
+    fokk "不过我们不是贪婪的人。我会放过你欠款之外的那些金币，不过你得用另一种方式付账。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_272d932a:
 
-    e "W-什么是另一个付款。"
+    e "什、什么另一种付款？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_07f7e10c_1:
 
-    fokk "我见过你们围裙下面的东西 当你站出来 提供盘子和杯子 赤裸裸的。"
+    fokk "你上前端盘子、端杯子时，我可是看见围裙下面是什么了——那时你还是光着身子的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_222d67f5_1:
 
-    coit "刚才真见鬼,小子,我甚至要挤你屁股。"
+    coit "那场面可真让人难忘，小伙子。我当时还捏了捏你那弹性十足的屁股。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_356326f9_1:
 
-    "正常人从椅子上走出来, 并阻拦你的出口 在不舒适的近距离。"
+    "三位老客从椅子上站起来，近得让人不舒服，堵住了你的出口。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_44bf1ac9_1:
 
-    gato "我知道他很难知道接下来会发生什么 就像他卖盘子时一样。"
+    gato "而且这是免费的。这位好色的小服务员又不是什么害羞的人。我知道你想到接下来会发生什么时已经硬起来了，就像你端盘子时一样。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_0cf3a87a_1:
 
-    e "你不能这样做..."
+    e "你们不能这样……"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d8442dd8_1:
 
-    fokk "我不想和你们分手,但这是我们的地盘,我们可以随心所欲地利用你们。"
+    fokk "我不想把话说得太难听，但这片地盘是我们的。我们想对你做什么都可以。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_63a6305b_1:
 
-    e "我... 那不是我报名的目的。"
+    e "我、我……我不是为这个来的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_477e0921:
 
-    coit "也许你对金子诚实点 穿得整齐点。"
+    coit "要是你老实说清楚身上有多少金币，说不定就能体面地穿着衣服离开了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_dc2de89e:
 
-    gato "听着,失败者是失败者 别想耍我们。"
+    gato "听着，输家就是输家。别想在我们这些老手面前耍花招。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_13aac4cf:
 
-    "你转头。"
+    "你转过头去。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_5b11ec52:
 
-    fokk "作为价值的象征 尊重凯恩 我让你选择 以身体支付 否则你所有的钱包现在都属于我们了。"
+    fokk "好吧，作为对你表现的认可，也看在凯恩的面子上，我给你个选择：用身体付账，否则你的整个钱袋现在就归我们了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_4aed3131:
 
-    e "身体..."
+    e "身体……好吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_1dcd4923_1:
 
-    gato "他说话好像他不想这样..."
+    gato "听他说的，好像他不想要似的……哈哈，看看他眼睛下面那副拙劣掩饰的渴望。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a29b9bcd_1:
 
-    fokk "你瞧我们有一阵子了 不如我们一起跳到最伟大的地方吧。"
+    fokk "难道不是吗？你盯着我们已经有一阵子了。那我们何不直接跳到最精彩的部分？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_20ebf6cd:
 
-    "当你感到有一只强壮的手臂从你身边碰到你时,你退缩了 他狠狠地捏住你的肩膀。"
+    "你感到一条强壮的手臂从侧面伸来，不由得瑟缩了一下；那只手狠狠地捏住你的肩膀。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_8578e4d1:
 
-    e "W-well... 拿钱包吧。"
+    e "那、那就把钱袋拿走吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_16b6f87d:
 
-    gato "我们也许看错你们了,以为你们这些有色人种对别的事有兴趣。"
+    gato "哦？看来是我们误会你了。我们还以为你这个满脑子淫念的蠢货，会对别的事更感兴趣。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_4bdd5695:
 
-    "狐狸在脖子后部抓痒 要么是困惑 要么是失望。"
+    "狐狸挠了挠后颈，似乎既困惑又失望。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_2cfd0180:
 
-    "他们都回到座位上,就像什么都没发生一样, 你终于可以深呼吸了, 而不闻到常客的酒精气味。"
+    "他们全都若无其事地坐回原位。你终于能深吸一口气，不用再闻着老客身上浓重的酒味。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_cfa11ca6:
 
-    fokk "是的,这是公平的,他真的不想 得到他的屁股耕种, 肯定听说过我们有多辛苦性交,哈哈。"
+    fokk "是啊，这才公平。他显然不想让自己的屁股被捅，肯定是听说过我们干起那事有多狠，哈哈。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_f6796962:
 
-    coit "留着金子吧,服务器,我们受够他们了 福克有,不晚点再来就不好玩了。"
+    coit "把金币留着吧，服务员。我们已经够了——我是说，福克够了。你要是不晚点再回来，就没意思了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_95b1395d:
 
-    e "W -wait,真的吗?"
+    e "等、等等，真的？"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_46ce8d0d:
 
-    fokk "我更希望你用身体来支付, 你知道,我一直在准备我的肉 准备一个紧闭的洞。"
+    fokk "我本来更想让你用身体付账。你知道，我可是一直在准备我的肉棒，好去适应紧窄的洞。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_99aa07a0:
 
-    "狐狸不动动地抓着他的小腹部 好像是平息他的神经 而不是释放他的欲望。"
+    "狐狸若无其事地抓了抓胯部，仿佛是在安抚自己的紧张，而不是释放欲望。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_f7ede861:
 
-    coit "你可以信任我们 服务器 我们会好好对待你的黄金。"
+    coit "你可以相信我们，服务员。我们会好好‘照顾’你的金币——虽然拿来用嘴巴会更不错。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_e59ffa86:
 
-    gato "用你这样的技巧 时间问题就到你掏空口袋了。"
+    gato "照你这水平，钱袋被掏空只是时间问题。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_4a0dc3ce:
 
-    e "我刚刚开始玩这个游戏 一旦我掌握了它 我会好起来的。"
+    e "我……我才刚开始玩这个游戏，等我掌握诀窍后会变厉害的。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_5bd064c5:
 
-    coit "对,就是这种精神 等你再填满金子再回来。"
+    coit "这才对。等你把金币攒回来，再回来玩。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_0d4088fc:
 
-    e "啊,对了,谢谢你...。.. 不拿走我所有的黄金。"
+    e "好、好吧，谢谢你……没有把我的金币全拿走。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_82a50a45:
 
-    fokk "欢迎你们。"
+    fokk "不客气。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_61ee45fa_2:
 
-    fokk "随时回来,我们会玩。"
+    fokk "随时回来，我们还会在这儿打牌。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_c868cdd7_2:
 
-    "你站起椅子 离开吧。"
+    "你从椅子上站起来，告辞离开。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_ad06b023:
 
-    c "Lad, 介意我说几句吗?"
+    c "嘿，小伙子，能耽误你一会儿吗？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_7115ea73:
 
-    e "右转。"
+    e "好、好的。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_5788285a:
 
-    c "是的,只是需要你在这里。"
+    c "嗯，我只是想让你过来一下。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_59cea04f:
 
-    "女管家把你领到柜台后面。"
+    "酒馆老板把你带到柜台后面。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_779a612b:
 
-    c "靠近点,小男孩 不像我还没有看见你裸体的样子。"
+    c "靠近点，小伙子。反正我早就看过你光着身子的样子了。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_7c44435d:
 
-    e "嗯... 我能为你做什么?"
+    e "呃……你找我有什么事？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_fb970120:
 
-    c "嘿,看看你的颤抖 就像我会抓住 松松的警卫。"
+    c "嘿，瞧你扭捏的样子，好像我马上就要吓你一跳似的。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_25dee0e0:
 
-    c "没什么花哨的,我正想问你 做啤酒的事。"
+    c "没什么大事。我正想问问你酿啤酒的事。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_e21210b0:
 
-    e "Ehh...?"
+    e "啊……？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_2af458e9:
 
-    c "听着,我还有活要干,还有屁股要打。"
+    c "听着，我手头还有活要干，还有一堆屁股等着我去揍。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_5386a646:
 
-    c "你从工作上吸引的新小伙子们 他们对我的古典啤酒感到吃惊。"
+    c "你从这份工作吸引来的那些新客人，对我的经典啤酒有意见。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_52c171f6:
 
-    e "古典啤酒?"
+    e "经典啤酒？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_effc5f0c:
 
-    c "古典或传统,你以为我不懂你花言巧语吗?"
+    c "经典，或者传统。你以为我不懂你那些花里胡哨的说法吗？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_77ac5b79:
 
-    c "总之,我又想出了啤酒的食谱 但我还需要一些原料。"
+    c "总之，我又想了个啤酒配方。不过，我还需要一些原料。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_7ba6bfeb:
 
-    e "嗯... 你要我帮你拿。"
+    e "呃……你想让我帮你找来？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_2eb6e405:
 
-    c "没错,你一定知道我在想什么。"
+    c "没错，嘿嘿……我就知道你明白我的意思。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_f481bd89:
 
-    "蝙蝠无动于衷地挤压你的肩膀。"
+    "蝙蝠若无其事地捏了捏你的肩膀。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_1d2a6e29:
 
-    c "所以,你给我一些大麦 从田野,和呃... 得到一些迷迭香 从那个药剂制造者。"
+    c "你去田里给我弄些大麦，再、呃……从那个药剂师那里弄些迷迭香。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_367aa710:
 
-    c "我会给你公平份额,50个黄金对,听起来公平吗?"
+    c "我会给你五十枚金币作为报酬，够公平吧？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_01f2a363:
 
-    e "当然!"
+    e "当然！"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_9b9db49b:
 
-    c "田里也需要一个手杖,我给你食谱..."
+    c "你还需要一把镰刀才能下田。我把配方给你……"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_ecfdbf6a:
 
-    c "狮子店可帮不了你。"
+    c "这事可不是狮子商店能帮你解决的。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_b7a2c7ee:
 
-    e "等等 我不知道我需要这个食谱吗?"
+    e "等、等等……我不知道还需要配方啊？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_7112c74b:
 
-    c "是啊,很简单,拿些铁和木头..."
+    c "对，很简单。弄些铁和木头就行……"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_cc98f4d3:
 
-    e "所以...我必须收集它们?"
+    e "所以……还得我自己收集？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_1d17e4b2:
 
-    c "你答应过我的 现在去战场上干吧。"
+    c "你可是答应我了。现在，去田里干活吧。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_30292c50:
 
-    e "OK... 但你不能... 下次对我隐瞒信息吗?"
+    e "好、好吧……不过你下次能不能别再瞒着我这些事了……"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_696e1658:
 
-    c "对不起,孩子,老习惯就是了,我对你很容易。"
+    c "嗯……抱歉，我只是老习惯了。下次我会说清楚的。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_b79eb010:
 
-    e "也许..."
+    e "也许……下次吧？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_1a9e8e0c:
 
-    c "好了,小子,快想一想。"
+    c "呃……行吧，小子。快点想清楚。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_47f9dcf7:
 
-    c "打打赌,知道我在想什么吗?"
+    c "我猜你知道我在想什么吧？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_4987c6dd:
 
-    e "嗯... 收集更多的材料让你酿造?"
+    e "嗯……要收集更多材料给你酿酒？"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_94128331:
 
-    c "那当然，没错。"
+    c "你说得没错。"
 translate schinese_rewrite Cane_Beer_Task_Begin_9b41c95e:
 
-    e "我可以做到。"
+    e "我能做到。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_880f6ad7:
 
-    c "那么,去田里打个屁吧。"
+    c "那就去田里干活吧。"
 
 translate schinese_rewrite Cane_Beer_Task_Begin_d2c10949:
 
-    e "O-ok!"
+    e "好、好！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_dfbdebc3:
 
-    c "终于,！"
+    c "哎呀，总算来了，今天的大功臣！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_29234d6c:
 
-    e "嘿,凯恩,你需要的一切都准备好了。"
+    e "嘿，凯恩，你要的东西我都拿齐了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_97605dd3:
 
-    c "好,好。"
+    c "很好，很好。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_8f90d341:
 
-    c "够了,我马上去煮。"
+    c "够了，我马上就去酿。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_8c7b6f30:
 
-    c "这是给你们的奖励。"
+    c "这是给你的报酬。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_0b9885a3:
 
-    "你收到50个黄金。"
+    "你获得了50枚金币。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_6c74b0d5:
 
-    e "啊,感谢凯恩。"
+    e "啊，谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_0d6f8aaa:
 
-    c "谢谢!"
+    c "不，该我谢你！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_50b4d826:
 
-    c "感谢您在他生命中 创造出这好棒棒。"
+    c "多亏你，这只老蝙蝠才过得这么开心。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_85f570c4:
 
-    c "好久没遇到像Chan这样的人了。"
+    c "我已经很久没遇到像你这样的孩子了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_820d502a:
 
-    c "少说点话,是这里最优秀的小伙子。"
+    c "这么说都算轻了。你可是这里最棒的小伙子。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_2c287756:
 
-    e "凯恩,我觉得你太恭维我了。"
+    e "凯恩，我觉得你太会夸我了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_6e203f78:
 
-    c "不,至少让我来做,这是我唯一能做的。"
+    c "不，至少让我这么做一次。这是我唯一能做的，毕竟一直以来都是我在拜托你帮忙。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_1ea9c5d9:
 
-    e "不,我和你一起工作很开心,凯恩。"
+    e "不用，我和你一起工作很开心，凯恩。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_a507ebe0:
 
-    e "还有从你那里拿钱。"
+    e "而且还能从你这儿拿到钱。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_9e1fa7e2:
 
-    c "我该为你做一件事。"
+    c "我也该为你做点什么了……至少一次。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_9ca7149e:
 
-    e "你在想什么?"
+    e "你想做什么？"
 
 translate schinese_rewrite Cane_Beer_Task_Report_32a268bc:
 
-    c "使老蝙蝠的脸红了。"
+    c "呃……你把我这只老蝙蝠的脸都逗红了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_19e22862:
 
-    "拐杖轻轻地扇你的屁股, 但这次他花了更多时间 抓住你的屁股。"
+    "凯恩随手拍了拍你的屁股，不过这次在你臀部上多揉捏了一会儿。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_541b20f9:
 
-    e "H -Hey..."
+    e "喂、喂……"
 
 translate schinese_rewrite Cane_Beer_Task_Report_063da3a8:
 
-    c "我愿意为你做一件事。"
+    c "我也该为你做点什么了。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_dfbdebc3_1:
 
-    c "终于,！"
+    c "哎呀，总算来了，今天的大功臣！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_9720a603:
 
-    e "H -Hey!"
+    e "喂、喂！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_7e6c8b9e:
 
-    "甘蔗轻轻地扇你的屁股。"
+    "凯恩随手拍了拍你的屁股。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_06fe5205:
 
-    c "干得好!"
+    c "干得好！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_dea5146c:
 
-    c "谢谢你今天能来这一天。"
+    c "谢谢你让这只蝙蝠今天过得这么愉快。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_e8a5cd4f:
 
-    e "我很高兴我能帮上忙。"
+    e "我很高兴能帮上忙。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_e3aa8141:
 
-    c "无论哪种方式,这是你们的奖励。"
+    c "不管怎样，这是你的报酬。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_1f68f8aa:
 
-    "你收到50金"
+    "你获得了50枚金币。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_66fc3a5a:
 
-    e "谢了！"
+    e "谢谢！"
 
 translate schinese_rewrite Cane_Beer_Task_Report_671946cf:
 
-    c "好吧,随时回来,为啤酒。"
+    c "以后随时回来喝麦芽酒。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_48507311:
 
@@ -1913,231 +1913,231 @@ translate schinese_rewrite Cane_Beer_Task_Report_48507311:
 
 translate schinese_rewrite Cane_Beer_Task_Report_6c60186f:
 
-    e "Y -yes..."
+    e "是、是的……"
 
 translate schinese_rewrite Cane_Beer_Task_Report_4bba268b:
 
-    c "不..."
+    c "不……看来没有。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_db0f9849:
 
-    e "我很抱歉凯恩。"
+    e "对不起，凯恩。"
 
 translate schinese_rewrite Cane_Beer_Task_Report_b7fb3c86:
 
-    c "那么,去抓他们吧。"
+    c "那就去把它们拿来吧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_5f42f199:
 
-    c "\"你好,小伙子!"
+    c "嘿，小伙子！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_8fd9e0fa:
 
-    "凯恩用他平时的笑容看着你。"
+    "凯恩带着惯常的坏笑看着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_08ee8555:
 
-    c "你今天想要什么?"
+    c "今天想要点什么？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_d43f2acc:
 
-    "他用暗示方式向你挥眉毛。"
+    "他意味深长地挑了挑眉。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_5ba8810a:
 
-    c "或和一些赞助人在一起的好时间?"
+    c "要不要做点酒馆工作，或者和客人们共度一段‘美好时光’？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_d61bea93:
 
-    "你脸红得像番茄。"
+    "你脸红得像个番茄。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_a5f6941e:
 
-    e "不,不,我这次不是来找这个的。"
+    e "不、不，我这次不是来做那个的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_5e090dbd:
 
-    "凯恩从他的直肠里 伸出了一颗心跳的笑柄 一边眨着眼。"
+    "凯恩从肚子里发出一阵爽朗的笑，同时朝你眨了眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_483d5edf:
 
-    c "羞耻 我知道你们很享受那里的工作。"
+    c "真可惜。我知道你有多享受在后面‘工作’。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_d9bfb1b2:
 
-    e "上次我帮你找酒的时候 你提到的那份忙?"
+    e "不、不管怎么说！我是来问你上次提到的那个报酬的——就是我帮你找来更多酒时，你说过的那件事？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_e946cbac:
 
-    "凯恩的脸马上清醒起来。"
+    "凯恩的表情立刻严肃下来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_e858c89c:
 
-    c "啊,是的,我提到过一些\"关于那个\"的事。"
+    c "啊，对。我是提过来着。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_0611bc4a:
 
-    "他转得不舒服 低头看手 右手抓着一个杯子 擦干净。"
+    "他不自在地低头看着自己的双手，拿起右边的杯子擦了起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_8fd5d770:
 
-    c "我一直在思考。"
+    c "我一直在想这件事。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_ad9f1ae3:
 
-    c "我只是... 不知道我能给你什么, 那将是值得的一样多 '什么你做的 与这个酒馆和我。"
+    c "只是……我不知道还能给你什么，才配得上你为这间酒馆、也为我做的那些事。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_e7a9a473:
 
-    "凯恩大叹气,把杯子和毛巾扔掉,然后把胳膊伸到桌子上。"
+    "凯恩长长叹了口气，收起杯子和毛巾，然后把双臂摊在桌上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_80f12868:
 
-    c "所以..."
+    c "我还是想不出什么来。所以……你想让我为你做什么？只要合理，我保证会做到。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_dd2347e3:
 
-    e "我还需要一些额外的现金 除了我通常为赞助人服务的钱。"
+    e "嗯……除了平时为客人服务挣的钱，我还想要些额外的现金。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_9f151ab1:
 
-    "凯恩看起来松了一口气 尽管他坚决想留着他的钱。"
+    "尽管他很舍不得自己的钱，凯恩还是松了口气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_fb8de8f5:
 
-    c "当然。"
+    c "行。给你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_9a16d6e5:
 
-    "手杖伸进他的皮带袋 交给你1500块金币。"
+    "凯恩从腰间的钱袋里掏出一千五百枚金币，递给你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_bb459860:
 
-    c "这样够好吗?"
+    c "这些够吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_f4c96877:
 
-    e "是的,这比我想象的要诚实。"
+    e "是、是的。说真的，这比我预想的多。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_63ada6cf:
 
-    "凯恩笑,伸出手来扭你的头。"
+    "凯恩笑了起来，伸手揉乱你的头发。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_bba0b7ec:
 
-    c "至少我可以像小屁孩一样 挑一个可爱的小伙子。"
+    c "这点钱算不了什么，毕竟你这么可爱，还是个漂亮的小屁股。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_b7cdcf12:
 
-    e "谢谢你们凯恩!"
+    e "谢谢你，凯恩！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_92679c26:
 
-    "他把你打得一团糟,好像没什么。"
+    "他满不在乎地挥手让你别放在心上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_1b105e6f:
 
-    c "不用谢我 我们以后会一起赚更多的钱。"
+    c "不用谢我。以后我们一起赚的钱还多着呢。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_d8572100:
 
-    c "现在,我最好还是回去保护这些蠢蛋吧 我看到他们用匕首指着你。"
+    c "现在我最好回去招呼那群混蛋了。我看见他们正恶狠狠地盯着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_e16d6444:
 
-    "从柜台后面走出来 走到上面的客人 拿着两杯啤酒 简单放一个下来 打你的屁股 当他经过。"
+    "凯恩从柜台后走向那些客人，手里端着两杯啤酒。经过你身边时，他把其中一杯暂时放下，顺手拍了拍你的屁股。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_d0f3780f:
 
-    c "回头见,小伙子。"
+    c "回头见，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_786fb5f1:
 
-    e "再见,凯恩。"
+    e "回头见，凯恩。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1f786c17:
 
-    "你转移不适 脸红 只想着你会建议什么。"
+    "你不自在地挪了挪，光是想到要提出什么请求，脸就红得像樱桃。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c52b7da:
 
-    e "我在想,也许你可以..."
+    e "嗯……我在想，你能不能……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0ff71929:
 
-    "你清清喉咙。"
+    "你清了清嗓子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d37324ef:
 
-    e "如果你能对我做什么 你的赞助人一直在对我做什么。"
+    e "你能不能像你的那些客人一样，对我做同样的事。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0bc8b99e:
 
-    "凯恩的笑容在脸上被短暂冻结了。"
+    "凯恩脸上的笑容短暂地僵住了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_990d1c0c:
 
-    c "别担心 小伙子 我已经付你服务费了。"
+    c "啊！别担心，小伙子。我已经付过你干活的报酬了，不过再多付你一些也没问题。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f97078ea:
 
-    "他不看你,他的眼睛 专注于他左手边的杯子。"
+    "他没有看你，而是盯着右手边那只杯子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a150956e:
 
-    e "我不是那个意思,凯恩 我真的很想和你共度一晚。"
+    e "我不是那个意思，凯恩……我是真的想和你共度一夜。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d1b565c9:
 
-    e "我想你也会想的 想想你经常打我屁股 或称我可爱。"
+    e "我以为你也会想，毕竟你总是拍我的屁股，还叫我可爱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5c54e659:
 
-    "凯恩的言语好像在考虑他的话一样。"
+    "凯恩停了下来，仿佛在斟酌该怎么回答。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3726f39:
 
-    c "我... 我不认为那会是一个好主意。"
+    c "我……我不觉得这是个好主意。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_18e367f0:
 
-    "现在轮到他转身了 令人不适。"
+    "这次轮到他不自在地挪动起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_582130d7:
 
-    c "可爱的小伙子,对,我想有人会 幸运地睡在你床上,但是..."
+    c "你……确实是个可爱的小伙子。我想谁能和你上床都会觉得幸运，可是……我不该这么做。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5aab13c7:
 
-    "凯恩似乎跟你一起在后脚上。"
+    "认识凯恩这么久以来，你还是第一次见他在你面前如此不知所措。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb77350a:
 
-    e "为什么不呢?"
+    e "为什么？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_90d4f38e:
 
-    c "我不能相信塔 所有的亲密一样 与一个小伙子像你一样。"
+    c "我不敢保证，和你这样的年轻人亲近之后，我还能守住分寸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f91704bd:
 
-    "他的口音似乎只是 在他的恐慌中越来越强烈。"
+    "他一慌张，口音似乎就变得更重了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5c7bd07:
 
-    e "Well..."
+    e "嗯……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3fd698d:
 
-    "你冒着风险 把手伸过来 放在他的网床上。"
+    "你冒险伸出手，覆在他那只蹼状的手上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3e07ec77:
 
-    e "我信任你。"
+    e "我相信你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a2f387a:
 
-    "肯尼对你抚摸的手不放, 但不把他的手拿开。"
+    "凯恩被你的触碰吓得一缩，却没有把手抽走。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d19f855d:
 
@@ -2145,43 +2145,43 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_d19f855d:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fb5f63b4:
 
-    "他看起来很矛盾, 他自己的两个部分 争斗在他的脸上, 欲望和内疚 相遇对方没有解决。"
+    "他的神情十分矛盾，仿佛两个自己正在脸上交战；欲望与内疚相遇，却谁也无法说服谁。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_53dd0207:
 
-    e "不必是性爱吗 我很高兴能一起打手枪。"
+    e "不一定非要做爱……我们一起打手枪也可以。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd6e14c5:
 
-    "凯恩闭上眼睛 叹气 他无助地看着你。"
+    "凯恩闭上眼睛，叹了口气，然后无助地抬头看向你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_81e2aa42:
 
-    c "好吧。我可以用它。"
+    c "好吧。这样我可以接受。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_95819fc4:
 
-    "他的脸又回到了它那阴沉的笑容, 如果一个人比正常人更空虚一点的话。"
+    "他的脸上又恢复了那副狡黠的笑容，只是比平时空洞了些。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_13815979:
 
-    c "我今晚早点关门 晚点在房间里见。"
+    c "我今晚会提前关门，晚点到我房间来找我。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_59d1fde0:
 
-    "凯恩向你的方向眨了眨眼。"
+    "凯恩朝你眨了眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6b033cb:
 
-    c "希望你们准备好看到这老蝙蝠的光荣。"
+    c "希望你已经准备好，见识这只老蝙蝠的全部风采。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e8152723:
 
-    e "谢谢凯恩,我真的很期待！"
+    e "谢谢你，凯恩！我真的很期待！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8e3e0c54:
 
-    "你没有说谎,你的腰巾上有一阵子湿了。"
+    "你没有撒谎。你的缠腰布早就湿了一块，而且自从你想到要提出这个请求后，那片湿痕已经越来越大。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cf477a9c:
 
@@ -2189,15 +2189,15 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_cf477a9c:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7521e38b:
 
-    "凯恩转过身去 研究他背后的一些杯子。"
+    "说完，凯恩转过身去，继续整理身后的酒杯。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ca506b35:
 
-    "...但是在你发现他裤子前 出现大肿块之前...。..。....."
+    "……不过在那之前，你瞥见他裤子前方鼓起了一大块，那里同样有一片湿痕。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c5c17a69:
 
-    "至少他看起来很兴奋 尽管他很担心。"
+    "嗯。尽管还有些顾虑，看起来他至少也很期待。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7:
 
@@ -2205,1525 +2205,1525 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_363f8663:
 
-    "你整天都在酒馆工作。"
+    "接下来的时间，你都在酒馆工作。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_03ee7115:
 
-    "你一直偷窥你的眼睛 抓住凯恩。"
+    "你总是不经意间撞见凯恩偷偷看你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_70ecd072:
 
-    "...你做同样的事,很难责怪他。"
+    "……不过你也在做同样的事，实在不能怪他。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_97925be0:
 
-    "赞助人给你的尖锐和可笑的掌声比平常要激烈得多。"
+    "不过，客人们对你的调笑和玩闹般的拍打比平时激烈得多。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7e006154:
 
-    "可能和你的低劣的硬性硬性有关。"
+    "大概是因为你那根没怎么藏住的硬家伙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_73f48457:
 
-    "很快,酒吧就被清理干净了 只有凯恩和你在这里。"
+    "没过多久，酒馆清空了。这里除了你和凯恩，就只剩下客人们留下的狼藉。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_822b70ef:
 
-    "当你从最后一张桌子上擦完之后 肩膀上有一只手的感觉。"
+    "你擦完最后一张桌子时，感觉到一只手搭上了你的肩膀。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_70a57c40:
 
-    "转过头看源头 你看到凯恩低头看你。"
+    "你转身抬头看去，发现凯恩正低头望着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8d12fb01:
 
-    "他的另一只手抓住这个机会 来摸你的下巴 擦你的脸。"
+    "他的另一只手趁机托住你的下巴，轻轻摩挲你的脸颊。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a583181e:
 
-    c "小子,你确定你要这个吗?"
+    c "小伙子，你确定你想要这个？现在反悔还来得及。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1b0a0e7a:
 
-    e "好像我想放弃这个。"
+    e "我怎么可能舍得放弃。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_834a09bd:
 
-    "凯恩 叹气。"
+    "凯恩叹了口气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5b46a8ba:
 
-    c "嗯... 不能说我找不到这个想法 兴奋'。"
+    c "嗯……我不能说这个想法不让人兴奋。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a0669d38:
 
-    "笑容在脸上传播。"
+    "他的脸上渐渐浮起笑容。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6b5c9557:
 
-    c "看到一个年轻,英俊,勤劳的小伙子 对我这样的老蝙蝠 掉下'ead'eels真好。"
+    c "看到一个年轻、英俊又勤快的小伙子为我这只老蝙蝠神魂颠倒，感觉真不错。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7b75d4f7:
 
-    "他正要你站起来好好面对他。"
+    "他示意你站起来，好好面对他。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6718a69b:
 
-    "你做的,毫不犹豫。"
+    "你毫不犹豫地照做了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_74368080:
 
-    c "你为什么不为自己看到我的意思呢?"
+    c "过来。你为什么不亲自看看我说的是什么意思？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7ba32fa6:
 
-    "拐杖抓住你的手 慢慢地 轻轻地拉着手向着他的腰部 确定你知道发生了什么 并有足够的时间停下来 如果你愿意的话。"
+    "凯恩抓住你的手，缓慢而轻柔地将它拉向自己的胯部，确保你清楚正在发生什么，也给你足够时间在不愿意时停下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b17d1fd8:
 
-    "他把你的手按在他的肚子下 压到下面的脂肪 温暖的肿胀。"
+    "他把你的手按到腹部下方，贴上那团被脂肪包裹、温暖的隆起。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4c6090a8:
 
-    c "小子,给你的奖赏够多了?"
+    c "这算不算给你的报酬，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9047ab04:
 
-    "他故意对你笑 把手从你手里拿开 来抓并掐掉雪茄。"
+    "他意味深长地朝你一笑，从你手里收回自己的手，抓起雪茄掐灭。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_133a88e4:
 
-    c "我听不到是或不是。"
+    c "我可没听到你说愿意还是不愿意。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c3e4bb5c:
 
-    e "是的!这是伟大的。"
+    e "愿、愿意！这感觉真棒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c948ab3a:
 
-    "凯恩的笑容变成了笑容 当他从你身边走过时。"
+    "听到你的回答，凯恩的笑容变成了戏谑的坏笑，同时从你身边退开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_186a9b66:
 
-    c "好吧,那我想我们完了,如果够了就够了。"
+    c "好吧！既然这样，那如果这点就够你满足了，我们就到此为止。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f972ad37:
 
-    e "等等,不,我不是这个意思！"
+    e "等等！不！我不是这个意思！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6944669c:
 
-    "他转过身来 假装出乎意料 一只眉毛被问题缠住了。"
+    "他装出惊讶的样子转过身来，一边挑起眉毛，像是在询问。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9a5dda79:
 
-    c "啊,你喜欢吗?"
+    c "啊，所以你不喜欢？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b2e37cbf:
 
-    e "N -不,我做到了,但是..."
+    e "不、不，我喜欢，但是——"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c2d8721c:
 
-    c "哦,那有什么问题,小伙子?"
+    c "哦，那问题在哪儿，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_df9b6987:
 
-    e "你很清楚它是什么!"
+    e "你明明知道我说的是什么！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cc0038c1:
 
-    "妈的,真的很难不 赶上他的节奏。"
+    "该死，真的很难不被他的节奏带着走。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_80dfb2c6:
 
-    "凯恩走起来,打你的头。"
+    "凯恩走上前，揉了揉你的头发。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f4aa5010:
 
-    c "我做的,只是可爱的塔 看你这样小声。"
+    c "我当然知道，只是看你这样扭来扭去很可爱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_080ec68f:
 
-    c "现在,让我们去我的卧室吧。"
+    c "现在，去我的卧室吧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d2a991b5:
 
-    "凯恩在指向楼梯,到二楼的一扇门 让你离开。"
+    "凯恩指了指楼梯上二楼的一扇门，示意你上去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_75a0cf8a:
 
-    "当你开始向前看时,你感到你屁股被扇了一巴掌。"
+    "你刚迈步向前，屁股就挨了一记响亮的拍打。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2ab63176:
 
-    c "轻轻的一小块小东西,你已经在那里,小伙子。"
+    c "小伙子，你那儿长得可真丰润。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_07de0799:
 
-    "他抓住你的臀部 当你到达楼梯的顶部, 按住他的肿块 在你的脸上,他的直肠对着你的背,。"
+    "你走到楼梯顶端时，他从后面抓住你的髋部，把胀起的肉抵进你的臀缝，肚子贴着你的后背，一边移动一边在你耳边低语。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8b6f98b0:
 
-    c "幸运的是,我坚持自己' 自己回来'ere, 因为那边的家伙想要塔 离开那个洞 无法辨认。"
+    c "幸好我在这里还压得住火，因为下面那家伙可是想把那个洞弄得面目全非。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4445f71e:
 
-    "你对这句话很兴奋 激怒你 引来一股淫荡的笑柄 和从你身后凯恩的推力。"
+    "这句话让你兴奋得发颤，引得身后的凯恩发出淫荡的笑声，还向前顶了一下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fa1525be:
 
-    "当你到达房间时 肯尼从你身后脱落 也非常接近你的牢笼。"
+    "到了房间门口，凯恩从你身后退开，让你颇为失望。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_736d73c5:
 
-    "你走了几步就转过身去。"
+    "你走进几步后转过身来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eddee046:
 
-    "凯恩把门关上 带着自信的笑容站在你面前。"
+    "凯恩已经关上门，正带着自信的坏笑站在你面前。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a04fe456:
 
-    c "小伙子,全归你了。"
+    c "好了，小伙子，接下来全看你的了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c7980cc1:
 
-    "他对你眨了一眨眼。"
+    "他朝你眨了眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb04354c:
 
-    c "虽然你需要多保重啊 解包过程呢。"
+    c "不过，脱衣服这件事得你自己来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_21eb50e3:
 
-    "得到他的意思, 你开始脱色。"
+    "明白他的意思后，你开始脱衣服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_17fa8a0f:
 
-    "凯恩笑,抓住你, 把你拉近,然后去取衣服。"
+    "凯恩笑了起来，抓住你把你拉近，然后伸手去解你的衣服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bd39414f:
 
-    c "不,小伙子,我会帮你照顾雅尔斯的。"
+    c "不，小伙子，让我来帮你脱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_14e150db:
 
-    "他暂停,停止了自己。"
+    "他停了下来，克制住自己。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fa43b4d3:
 
-    c "当然,只要你想。"
+    c "当然，前提是你愿意。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_df3d4eba:
 
-    e "我,嗯..."
+    e "我、嗯……好，我愿意。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_57fc2d92:
 
-    "凯恩大笑 把手放回你的衣物上 感觉你起来了。"
+    "凯恩咧嘴一笑，把手重新放回你的衣服上，隔着衣物轻轻抚摸你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6fd3c88:
 
-    c "你想为我做同样的事吗 小伙子?"
+    c "你想为我也做同样的事吗，小伙子？就当是你报酬的一部分。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0cf1a8be:
 
-    c "让你好好感受一下这个老蝙蝠。"
+    c "让你仔细感受一下我这只老蝙蝠。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f143afc:
 
-    "他逼你跟他作对,他说,他的老二跟你作对, 两人都努力地要留在裤子的界限内。"
+    "说着，他把你拉向自己；他的肉棒隔着裤子与你摩擦，两人都努力不让它们冲破布料的束缚。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a6eeb28e:
 
-    "当他抱着你的时候 他把手从你的背上伸下来 把手钩在你的腰带上。"
+    "他把你抱在怀里，双手沿着你的背往下，勾住了你的腰带。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aa0a473e:
 
-    "他仿佛要把它拉下来, 但是把他的手放在它下面, 抓住和挤压你的臀部, 拉你的脸颊分开 当他继续磨碎。"
+    "他作势要把腰带往下拉，却把手伸到腰带下面，抓住你的臀部用力揉捏；他一边磨蹭，一边把你的臀瓣拉开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_20006372:
 
-    c "小伙子,你愿意吗?"
+    c "怎么样，小伙子？想不想？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aba2dc92:
 
-    e "Y -y!"
+    e "愿、愿意！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3ceb76db:
 
-    c "那你何不先解开我的背心呢 帅哥。"
+    c "那就先替我解开背心的扣子吧，帅哥。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c72e6365:
 
-    "你把手举到他的纽扣上, 和他们争斗一阵,然后把它弄松。"
+    "你把手伸向他的扣子，和它们较了会儿劲，终于把扣子解开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bead75b6:
 
-    "采取一些主动, 因为凯恩似乎 很高兴你的行动 到目前为止, 和分心你的屁股, 你达到在他的衬衫之下。"
+    "凯恩似乎很享受你到目前为止的主动，而你的屁股又让他分心；你也趁机把手伸进他的衬衫里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_879dc295:
 
-    "你用手把他的粗糙腹毛 和他毛毛的胸口刷起来。"
+    "你用手抚过他粗硬的腹毛，一路摸到蓬松的胸毛。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7fa07a97:
 
-    c "小子,继续这样下去。"
+    c "这才对，小伙子。就这样继续。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_792b2d6d:
 
-    "不需要鼓励了,你抓着他的胸。"
+    "不需要更多鼓励，你抓住了他的胸肌。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_93326911:
 
-    "他的肌肉在脂肪外层下摇晃, 不知怎么把软和粗之间的线拖了起来。"
+    "那感觉就像隔着软垫摸钢铁。他的肌肉在外层脂肪下起伏，竟在柔软与粗硬之间保持着微妙平衡。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e7ea3b20:
 
-    "和他其他人一样。"
+    "至少他身上其他地方也是这样。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5bbf77b:
 
-    "想要看得更清楚,你拿起凯恩衬衫和背心的底部,拉起车来。"
+    "你想看得更清楚，便抓住凯恩衬衫和背心的下摆，向上拉去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0359d872:
 
-    "凯恩短暂地把他的手从裤子里拉出来 稍微退后一点 帮你把他的衬衫脱下来 他太高了 你无法完全脱下他的衣服。"
+    "凯恩暂时把手从你的裤子里抽出来，稍稍后退，帮你把他的衬衫往上提——他太高了，你没法独自把衣服完全脱下来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8f915d62:
 
-    "之后,凯恩在那里站了一会儿, 这样你就可以正确地 把它全部。"
+    "之后，凯恩站在那里片刻，让你把眼前的一切看个够。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_65ddd38b:
 
-    "哦,男孩是有 很多要承担。"
+    "而且，天啊，眼前的东西实在太多了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1391be39:
 
-    "从他强壮的肠胃 到他强壮的胸肌 到看上去他们可以抓起你们三个的手臂..."
+    "从他结实丰满的腹部，到强壮的胸肌，再到看起来能把三个你一起抱起来的手臂……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e809a13f:
 
-    "你伸出手来抓他的胳膊 用你的手指去追踪他的痕迹和疤痕 和对着我们软软的毛皮的粗毛。"
+    "你伸手摸上他的手臂，用手指描过那些纹路和疤痕；粗糙的毛发压着你身上柔软的绒毛。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6613d089:
 
-    c "嘿嘿,你喜欢吗,小伙子?"
+    c "嘿嘿。喜欢这些吗，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_66ae097b:
 
-    "他为你们灵活行事。"
+    "他为你绷紧肌肉，摆了个姿势。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3d4029ca:
 
-    c "我长大了,就想着能过上更艰难的生活。"
+    c "那是我年轻气盛、以为自己能在刀口上讨生活时留下的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_00242c2f:
 
-    "他稍稍停一下,又对你眨了眨眼。"
+    "他稍稍停顿，又朝你眨了眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ddeca3ff:
 
-    c "我的裤子比我现在大。"
+    c "那时候我可比现在更不知天高地厚。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_176c7d5b:
 
-    c "现在,我想看看我的可爱小伙子在那里。"
+    c "现在，我想看看里面那位可爱的小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bee5db33:
 
-    c "不像我以前没见过,但是..."
+    c "也不是说我以前没看过，不过……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_08be44bb:
 
-    c "可以说，你在酒馆演出时，就是我一天里最开心的时刻之一。"
+    c "只能说，你在酒馆表演时，是我一天里最开心的时刻之一。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a697d251:
 
-    "说到这里,凯恩伸手向你的顶部, 开始轻轻地把它拉下来, 慢慢地将你的皮毛 伸出一寸一寸地给他看。"
+    "说着，凯恩伸手抓住你的上衣，开始轻轻把它脱下来，让你身上的毛发一寸一寸展现在他眼前。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_677be7e7:
 
-    c "嗯。看起来更近一些。"
+    c "嗯。近看更漂亮。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c2ac928:
 
-    "凯恩说,这看下 下在自己的毛毛胸。"
+    "他说着，低头看向你同样蓬松的胸肌。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a09f3f1:
 
-    c "我可以吗?"
+    c "我可以吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b18a21b7:
 
-    "你不知道他在问什么 但你点头。"
+    "你不太确定他在问什么，但还是点了点头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_139c6bba:
 
-    c "很好。"
+    c "好。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a6331f9:
 
-    "凯恩开始按摩他们 就像他是你的屁股一样。"
+    "凯恩用两只蹼状的手分别抓住你的胸肌，开始像刚才揉你的屁股那样按摩起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d7f6c9bc:
 
-    c "你在这里找到的漂亮和柔软的小东西,我以为 如果我不知道,你就是无辜的小人。"
+    c "你这儿的肉又漂亮又软。要不是我知道内情，我还真会以为你是个天真的小家伙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4b531fef:
 
-    "他开始对她们更加粗暴 慢慢地把你推回床上 然后再把你推下去 所以你被困在他更大的表情之下。"
+    "他的动作逐渐粗重起来，慢慢把你推到床上，又将你按倒，让你被他更庞大的身躯压在下面。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_27594c29:
 
-    c "介意我尝尝吗,小伙子?"
+    c "介意我尝尝吗，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_471b788b:
 
-    e "不,别客气,请说吧！"
+    e "不、不介意！请便！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3d97a09:
 
-    "凯恩一无所有 将头抬到手的地方 轻轻舔你的乳头。"
+    "再没有什么能阻止他，凯恩低下头，来到刚才双手所在的位置，轻轻舔舐你的一个乳头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb030ebe:
 
-    "感觉你反应很猛,他轻轻地吸着它, 得到更大的反应 从你得到一个更大的反应 当你融化在他的迷你。"
+    "感觉到你的身体猛地一颤，他轻轻吸吮起来；你在他的抚弄下融化，反应也变得更加强烈。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ec338727:
 
-    e "F操..."
+    e "操……凯恩……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d57147ec:
 
-    "凯恩看到你在欢乐地哭泣 听不到你的任何抗议声 握住他的手 将你的手臂钉在十字架上 保持你的位置。"
+    "看你在快感中扭动，听不到你有任何抗议，凯恩抓住你的手，把你的双臂按住固定，开始轻轻啃咬。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f39a7648:
 
-    e "CCANE,这不是我们约定的。"
+    e "凯、凯恩！这、啊——这不是我们说好的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aaa36c8e:
 
-    "凯恩马上停下来 看着你 看着他的脸 满脸忧心忡忡的眼神 流着一点鼻涕的僵尸遗牙。"
+    "凯恩立刻停下，抬头看向你，脸上满是担忧；他残存的吸血鬼尖牙上还挂着一点口水。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_41db7adb:
 
-    c "你想让我停止吗,小伙子?"
+    c "要我停下来吗，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2e72ed32:
 
-    e "是的,谢谢,感觉很棒,但是..."
+    e "要、要。谢谢，感觉很棒，但是……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_90ca39ba:
 
-    e "我真的很想见你。"
+    e "我真的很想看看你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c1d71bfa:
 
-    "凯恩的摇摆在极地"
+    "凯恩歉意地耸了耸肩。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8f2bc695:
 
-    c "我很高兴你像看起来一样 喜欢它。"
+    c "我很高兴你看起来这么享受。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d2dec152:
 
-    c "让我看看能不能让你更享受下一部分。"
+    c "让我看看下一步能不能让你更舒服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6e701a78:
 
-    "解开他裤子的紧身扣子。"
+    "凯恩重新撑起身子站起来，解开裤子上绷紧的扣子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d61105ba:
 
-    "看着你盯着眼看,凯恩 嘲笑。"
+    "凯恩发现你一直盯着看，便坏笑起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d7a43b6f:
 
-    c "如果你能把Yers从我身上脱下来,我很乐意。"
+    c "要是你也把自己的裤子脱掉给我看，我会很开心。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cbeca1a5:
 
-    e "有点分心了。"
+    e "啊！好、好啊！我刚才有点看入迷了，嘿嘿。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_502ffb21:
 
-    "凯恩只是走到床的另一边躺下时 看上去更满足于自我。"
+    "凯恩走到床的另一边躺下，脸上的得意更明显了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ae8043bc:
 
-    c "人们只能问为什么。"
+    c "真让人想知道为什么呢。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a17a65f9:
 
-    "你可以看到他的老二 偷窥他的裤子顶部, 已经用前缀滑了。"
+    "你能看到他的阴茎从裤腰上方探出一点，龟头已经被前液润得发亮。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bebf718a:
 
-    "得到暗示,你脱下裤子 站在他旁边 当他脱下自己的裤子。"
+    "明白他的暗示后，你脱下裤子，挪到他身边；他也脱下自己的裤子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cfd131e8:
 
-    "躺在那里,并肩躺着, 你可以真正地欣赏 多么大的凯恩是。"
+    "你们并肩躺在那里，这才真正看清凯恩有多么庞大。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5fcc21ae:
 
-    "他几乎比你大一半 比你大两倍多 比你高一倍。"
+    "他的身宽几乎比你多出一半，厚度更是超过两倍，足足高出你一头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0a57f1f7:
 
-    "他的老二也是一样, 是一个厚厚的俱乐部 东西 - 几乎不 只要它是粗糙的。"
+    "他的肉棒也是如此：粗得像一根棍子，长度倒没那么夸张，主要是周长惊人。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c90fbeb6:
 
-    c "小伙子,你以为会这样吗?"
+    c "怎么样，小伙子？和你想的一样吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e8a55aad:
 
-    c "我知道我从这里看风景很享受。"
+    c "我可是很享受从这里欣赏风景。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1f412efe:
 
-    "凯恩的眼神会被视为 脱光你的眼睛 他的眼睛,如果这不是因为 你完全缺乏衣服。"
+    "要不是你们都已经一丝不挂，凯恩的目光简直像是在用眼睛扒你的衣服。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_79abec0a:
 
-    "他看起来贪婪又贪婪。"
+    "事实上，他的眼神只剩下贪婪和淫欲。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8ef99567:
 
-    e "是的... 有很多东西要接受。"
+    e "是的……确实有很多东西要看。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5cf8795:
 
-    "凯恩放出喉咙的笑声 床架有点抖动 声音响起。"
+    "凯恩发出一阵低沉的笑声，床架也随他的嗡鸣轻轻颤动。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_305cb639:
 
-    c "幸好你今天没来。"
+    c "好在今天你还不用把它吃进去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_95dde343:
 
-    c "现在..."
+    c "现在……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_99803e04:
 
-    "拐杖慢慢地伸向你的老二。"
+    "凯恩慢慢伸过手来，手朝你的阴茎移去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9f3883ca:
 
-    c "现在想不想互相感觉一下?"
+    c "暂时先互相摸摸，怎么样？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3584221e:
 
-    "你试着说\"是\",但你的呼吸在你的喉咙里 让你无法求助,只能急切地点头。"
+    "你想说‘好’，却因呼吸卡在喉咙里，只能急切地点头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8b6c73e7:
 
-    c "好孩子。"
+    c "好小子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_39587ead:
 
-    "拐杖利用你的确认 将他的手套在你的鸡巴上 轻轻拖着它看看他能握到什么。"
+    "得到你的肯定后，凯恩顺势用手握住你的肉棒，轻轻拉动，寻找最舒服的握法。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_85046340:
 
-    "在弄清楚之前 他笑得轻轻。"
+    "还没找到合适的握法，他就轻轻笑了起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_66ade371:
 
-    c "我想把润滑剂取出来 来研究这个,但是..."
+    c "我本来想拿润滑剂来，不过……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fb466a75:
 
-    "他把他的网状手指 放在你面前。"
+    "他把蹼状手指举到你面前。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8e3f601a:
 
-    "每个人的预科生涯都闪闪发光。"
+    "每一根手指上都沾满了在发亮的前液。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a132c832:
 
-    c "...。..cut."
+    c "……真可爱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a9cffe3b:
 
-    "然后他回到你的老二 轻轻地抓住它 然后用拇指摸小指。"
+    "说完，他重新握住你的肉棒，轻轻抓住，用拇指摩挲龟头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_839e0660:
 
-    e "嗯..."
+    e "嗯……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_afd59594:
 
-    "虽然他的手指之间抽搐是皮的, 但是他们完全包住你的老二 在他的手中, 牢牢的凝固你的老二 像肉灯一样。"
+    "尽管他指间的蹼膜带着皮革般的质感，仍将你的肉棒整个包裹在掌中；那紧实的包覆感就像一只由血肉制成的飞机杯。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f94eaf08:
 
-    e "我可以... 我可以跟你玩吗?"
+    e "我、我可以摸你的那个吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_59065252:
 
-    c "他,听力的技巧似乎越来越差 当你愤怒起来。"
+    c "嘿嘿，看来你一被撩得头脑发热，听话的本事就变差了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_04d14ad2:
 
-    "他给你的鸡鸡一连串拖轮 让你又喘气了。"
+    "他用力拉了一下你的肉棒，让你又喘出一声。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b62a26c8:
 
-    c "我已经同意了,拜托了。"
+    c "我已经允许你了。来吧，尽管摸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2d617a3a:
 
-    "所以说,他轻轻地从臀部抽出来, 这样他的肥鸡就从他大肚子的 伸手可及的 牢牢地滑了下来。"
+    "说着，他微微挺起胯部，让粗大的肉棒从厚重的腹部下方彻底露出来，不再被挡住。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6c48ac64:
 
-    "凯恩耐心等待 当你慢慢地伸手抓他的老二 花时间用他的拇指轻轻地按摩你老二的头部时。"
+    "凯恩耐心等着你慢慢伸手去摸他的肉棒，同时用拇指轻轻按摩你的龟头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d71a714c:
 
-    "终于有胆量了,你抓住它。"
+    "你终于鼓起勇气，握住了它。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fbb29c25:
 
-    "他妈的... 你可以感觉到它被你双手挤压 来回应。"
+    "操……你能感觉到它在你手中回应般地抽动。它很温暖，粗得让你无法用手完全握住，表面还沾满前液。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7bade320:
 
-    "你轻轻地拉下来, 仍然坚定地抓住它。"
+    "你仍紧紧握着它，轻轻向下捋动。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c88b9982:
 
-    "他无抵抗力地从鸡巴上滑翔 暴露出他流口水的鸡巴的 脂肪紫色头。"
+    "他的包皮毫无阻力地从肉棒上滑下，露出那根流着口水的肉棒肥厚的紫色龟头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_39cdc8b0:
 
-    c "Oof... Good lad."
+    c "呃……干得好，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7800bf32:
 
-    c "在这里,让我..."
+    c "来，让我……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5bc7c87:
 
-    "拐杖开始慢慢地打中你 但用他的手 不停地抽动你的老二。"
+    "凯恩开始认真替你打手枪，动作缓慢，却毫不间断地用手从根部到顶端套弄你的肉棒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_21d10e84:
 
-    "你轻轻地颤抖和抽搐的方式 似乎只会激怒他 他轻轻地收紧他的手 在他的网友手上产生吸血的感觉。"
+    "你轻轻颤抖、抽动的样子似乎只让他更兴奋；他略微收紧蹼掌，在手中制造出轻微的吸吮感。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0cd836cc:
 
-    "感觉就像你被打倒时一样 感觉你的老二被饥饿的形式 完全包住的感觉。"
+    "那感觉最像史莱姆替你打手枪时：你的肉棒被某种饥渴的形体彻底包住。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_46cd59ce:
 
-    c "很高兴你喜欢,小伙子。"
+    c "嗯……我很高兴你喜欢，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cf5a0db6:
 
-    c "看着你这样发抖,真可爱。"
+    c "看你这样扭来扭去，真是可爱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_72e33542:
 
-    "他看起来很满足于自己, 看到你在他手上融化 像这样。"
+    "看着你这样在他手中融化，他显得非常得意满足。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_87e00787:
 
-    "不管热到哪里,你都不能不报什么仇就让他逃脱。"
+    "无论这感觉多么火热，你也不能让他就这样占尽便宜，总得报复一下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_98ca9d56:
 
-    "反抗从你老二流出的淫秽烟雾中 产生紧张情绪的冲动 你开始抽打凯恩的老二 把手从刚从他老二的脑袋下 一直伸到基地。"
+    "你努力抵抗从下体涌上的淫欲迷雾，不让自己爽到失神；随后开始套弄凯恩的肉棒，手从龟头下方一路滑到根部，每次捋动都让手指擦过他丰满的睾丸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_daec68bf:
 
-    "现在轮到他挣扎了,你看到他的喉咙里有吸气孔, 感觉到他的鸡巴抽筋反应的方式, 你的手指之间漏了粘粘的预兆。"
+    "现在轮到他挣扎了。你看见他呼吸一滞，也能感觉到他的肉棒随之抽动，黏稠的前液从你的指间渗出。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eb85ca3e:
 
-    e "你说?"
+    e "你刚才说什么？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5f35f330:
 
-    c "Was sayin' that-"
+    c "我说——"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_be883e26:
 
-    "偷他的书的一页, 你利用这个机会 轻轻旋转你的手在他的老二上 你这次抽下来, 尽可能地刺激他, 尽管你无法接近 脂肪混蛋。"
+    "你照搬了他的套路，这次向下套弄时轻轻转动手腕，尽可能刺激他，尽管那个大家伙太粗，你的手没法完全环住。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c7d7531:
 
-    c "{i}Mnnng~{/i}"
+    c "{i}唔嗯~{/i}"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3eb999e5:
 
-    "凯恩的呻吟是令人欣慰的 听到,尤其是当你听到他 喘不过气的声音后。"
+    "凯恩的呻吟听起来令人满足，尤其是紧接着传来的、带着喘息的声音。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f1d5cefb:
 
-    c "该死的,小伙子,你擅长这个。"
+    c "该死，小伙子，你很会这个。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b406dbcf:
 
-    "你觉得凯恩开始 摇动他的臀部向前, 轻轻地他妈的你的手。"
+    "你感觉凯恩开始向前挺动胯部，用他的肉棒轻轻顶弄你的手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d734b506:
 
-    "每次他往前推 你就会感觉到他的肚子在你手臂上 他的蛋蛋在你的手指后面。"
+    "每次他向前顶，你都能感觉到他的肚子撞上你的手臂，睾丸擦过你的手指背。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_702362c7:
 
-    "同时,他把另一只手臂 移到你的身体上 开始抚摸一切和一切。"
+    "与此同时，他把另一条手臂搭到你身上，开始抚摸能够碰到的一切。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9651651e:
 
-    "...更近一点的看, 这非常像他的想象 实际上性交你, 而不是只是抢对方。"
+    "仔细看去，他的动作很像是在想象真正和你做爱，而不是只和你互相打手枪。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3d37bd68:
 
-    "他的眼睛闭着,嘴张得有点开 好像在他面前咬脖子一样... 甚至他的手在用他的推力抽打你。"
+    "他的眼睛闭着，嘴微微张开，仿佛面前是可以咬住的脖子……甚至连他的手都随着挺动的节奏替你打着手枪。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fc2da3e4:
 
-    e "操,凯恩..."
+    e "操，凯恩……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_435c9b8b:
 
-    "听说你那可怜虫的气喘 似乎在他内心深处按了个按钮 当他的节奏加快的时候 一只新鲜的球 挥动了你的手。"
+    "听到你那声渴求的喘息，像是触动了他体内某个深处的开关；他的速度加快，新的前液团沾满你的手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_72cf48a5:
 
-    "手在你身体周围晃动 摸着你屁股 摸着它拉着它 拉着它 把你拉近一点。"
+    "他低声发出渴求的吼声，游走在你身上的手移到你的屁股上，粗暴地抓住并拉扯，把你往他身边拽近了一点。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4620a624:
 
-    "得到暗示,你移动自己 靠近,并靠着亲吻他。"
+    "明白他的意思后，你主动靠近，俯身吻他。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_288ef2f7:
 
-    c "mmph!"
+    c "唔！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ea9cf4b3:
 
-    "凯恩对此行动感到惊讶, 需要一点时间回应, 让你有机会把你的舌头 塞进他的嘴里。"
+    "凯恩被这个举动惊到，过了片刻才回应，让你趁机把舌头伸进他的嘴里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ed24e502:
 
-    c "Mmm"
+    c "嗯……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5e4cda6a:
 
-    "凯恩把这个当成挑战 将他的手臂围在你的下背上 把你拉近他 让你觉得自己站在前边的只有粗皮毛 和他身体的自相矛盾的硬性。"
+    "凯恩像是把这当成挑战，一手环住你的下背，把你更紧地拉向自己；你胸前能感受到的只有粗糙的毛发，以及他身体那种矛盾的柔软与坚硬。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a96f0707:
 
-    "凯恩对着你的舌头 引导着你的嘴 引着他们走出你的嘴 进入你的嘴里。"
+    "确认你已被固定，凯恩把舌头顶向你的舌头，带着你们的舌头在彼此口中纠缠。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0c8a9587:
 
-    "现在凯恩牢牢控制着 现在凯恩开始扭动他的臀部 用他的阴茎抚摸你的柔软毛皮 用他的前程来配制。"
+    "现在彻底掌控局面，凯恩开始用力挺动胯部，肉棒摩擦你柔软的毛发，把前液蹭得满是；你的肉棒则磨过他柔软隆起的肚子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7d9bcc52:
 
-    "你用反射方式张开嘴巴呻吟, 但凯恩更深地按住, 锁住你的嘴唇就位, 吃任何你可以尝试的噪音。"
+    "你本能地张嘴想呻吟，凯恩却压得更深，封住你的嘴唇，把你所有想发出的声音都吞了回去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d0c3d953:
 
-    "凯恩的身体进入完全的发光, 他的臀部抽动越来越强大。"
+    "凯恩的身体完全进入发情状态，胯部越来越用力地抽动。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_53fd96a5:
 
-    "很快,他发现自己不满意 你站在他的身边, 从你下面拉上来, 打破吻 并击打你的背部。"
+    "很快，他不再满足于让你躺在身边，便从你身下撑起身体，打断亲吻，把你按倒在背上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f781fb1c:
 
-    "他的老二和你的老二排成一排 基底就放在你的蛋蛋上。"
+    "他的肉棒与你的对齐，根部抵在你的睾丸上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_91785e95:
 
-    "你眼中的视野由凯恩主宰, 黑紫弥撒, 流口水的白牙 笼罩在你身上。"
+    "你的视野几乎被凯恩占满：一团深紫色的身躯，流着口水的白牙从上方压迫而来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e0f90bb4:
 
-    "他的眼神只能被描述为饥饿 当他俯视着你 紧地紧地盯着你。"
+    "他俯视着被自己更庞大、更强壮的身躯压住的你，眼神只能用饥渴来形容。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f68512bb:
 
-    "你被屏息地抛在脑后。"
+    "你被压得一时喘不过气来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_572296eb:
 
-    "说真的,他打你的时候 有点太粗鲁了。"
+    "确实如此。他把你按到仰面时有点太粗暴，撞得你差点喘不过气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_af61921f:
 
-    "当他再次亲吻时 你把手放在他的胸口上 要求呼吸一秒钟。"
+    "他再次俯身想吻你，你抬手抵住他的胸口，请他给你一点时间喘气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c716fdd4:
 
-    "突然之间,凯恩眼中的淫秽表情消失了 代之以恐怖。"
+    "突然，凯恩眼中的淫欲消失了，取而代之的是恐惧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_95195d2c:
 
-    c "我……洛……我不……"
+    c "我、我……我不……"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_63b3caba:
 
-    "他甚至不知道该说什么, 他的大表情 推来推去你, 退后好像烧焦了。"
+    "他甚至组织不出一句话，庞大的身躯从你身上撑起，像被烫到一样连连后退。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9405462f:
 
-    e "凯恩 怎么了 一切都还好吗？"
+    e "凯恩？怎么了？！没事吧？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d943b3c3:
 
-    "用你的话来说,他暂停了一下, 他恢复了正常的眼神。"
+    "听到你的话，他停住了，眼神里恢复了一丝平常的神采。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7ad78a8d:
 
-    "他不再惊慌失措,反而显得空洞而沮丧。"
+    "不再惊慌后，他看起来空洞而沮丧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cd37f212:
 
-    "肩膀拖拉 凯恩坐在床边 把他的头放在手上。"
+    "凯恩垂着肩坐到床边，把脸埋进双手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1ca738bd:
 
-    c "对不起,小伙子。"
+    c "对不起，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e6a10748:
 
-    e "但是,我玩得很开心!"
+    e "可、可是我刚才很开心！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd419669:
 
-    "摇头 凯恩转身看着你的眼睛。"
+    "凯恩摇了摇头，转过来直视你的眼睛。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_940d54ea:
 
-    c "也许吧,但比我们同意去的还要远 比我想像的要难得多。"
+    c "也许吧，但我们已经越过了约定的界线，而且比我想对你做的粗暴得多。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_55f27b97:
 
-    "那又怎样 你挺喜欢他那么粗鲁的。"
+    "那又怎样？你刚才那么粗暴，我其实很喜欢。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_14e0ab7d:
 
-    e "很好!我很喜欢它。"
+    e "没关系！我很喜欢。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e75d777c:
 
-    "你的话对凯恩也没有预期效果。"
+    "你的话再次没能达到让凯恩安心的效果。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2050a73f:
 
-    "虽然他看起来很诱人,但他仍然犹豫不决,不同意你的看法。"
+    "尽管他看起来有些动摇，仍然犹豫着，不敢接受你的话。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3a548843:
 
-    c "我很高兴,小伙子,但是..."
+    c "我很高兴，小伙子，但是……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_db839998:
 
-    c "我失去了自我控制。"
+    c "我失控了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_02eb5b70:
 
-    c "我告诉自己 我不会让事情走到这么远的地步 也不会犯我和Topu犯过的同样的错误 但是... 我们到了。"
+    c "我告诉过自己，不能让事情发展到这一步，也不能重蹈我和托普犯过的错误，可是……我们还是走到这一步了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5414d122:
 
-    "慢慢来,你记得托普是你的围裙的原始主人 失踪的那个。"
+    "你想起托普是你围裙的原主人——那个失踪的人。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4d968467:
 
-    e "嗯,是的,我们拿东西 有点快,但... 并不意味着同样的东西 将再次发生。"
+    e "嗯，是的，我们刚才进展得有点快，但……这不代表同样的事还会再发生。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2a7aae49:
 
-    "凯恩短暂的看 迷路的言词。"
+    "凯恩一时语塞。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_14f33b2e:
 
-    c "也许吧,不过... 小伙子太好 冒着冒着冒风险 碰巧只是挑一些性爱。"
+    c "也许吧，不过……你是这么好的小伙子，我不能为了区区一场性爱，冒险让那种事发生在你身上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f2c73700:
 
-    c "Yer的价值太高了。"
+    c "你对我来说太重要了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b6986258:
 
-    "在你听到他自言自语之前 有个短暂的暂停。"
+    "短暂沉默后，你听见他低声自言自语。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_dc45c78c:
 
-    c "即使这是一些该死的好性爱。"
+    c "……即使那会是一场该死的好性爱。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4ad5ea49:
 
-    "静默在你们之间躺了一会儿 你们现在都不知道该说什么了。"
+    "你们沉默了一会儿。此刻谁也不知道该说什么。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6b655dfa:
 
-    "你们俩就坐在那里 鸡鸡软软 和在毛皮上烘干。"
+    "你们就这样坐着……阴茎渐渐疲软，前液在毛发上慢慢干涸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b211eb9e:
 
-    e "好吧... 即使你不信任自己 我相信你。"
+    e "可是……即使你不相信自己，我相信你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2cbe9665:
 
-    "拐杖把他的视线从地板上拉开 眼睛转过来 却以迷茫的眼神看着你 你从未想过你会看到他脸上。"
+    "凯恩移开盯着地板的视线，茫然地看向你；你从没想过会在他脸上看到这种神情。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f83a23ca:
 
-    "它... 令人痛心地看着它。"
+    "看着他这样……让人心里很难受。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5216c88c:
 
-    "像凯恩这样的自信和热情的人 永远也不应该被打败。"
+    "像凯恩这样自信又喧闹的人，不该显得如此挫败。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5937a34f:
 
-    "他发出深深的叹息。"
+    "他深深叹了口气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1845e2e5:
 
-    c "谢啦,小伙子,如果我能自己说同样的话,我不知道。"
+    c "谢谢你，小伙子。我不知道自己能不能对自己也这么说。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f7588632:
 
-    "静默再次倒塌, 你们两个都稍稍变弱, 等待对方说话。"
+    "沉默再次降临。你们都不自在地动了动，等着对方开口。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6f6b9c7:
 
-    e "我真的很喜欢这个, 我非常不希望 这是最后一次发生。"
+    e "……我真的很享受刚才的一切，也非常不希望这成为最后一次。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e168622d:
 
-    "凯恩看起来很不舒服。"
+    "凯恩看起来极度不自在。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b0b98fd9:
 
-    c "我知道 小伙子 我也很喜欢。"
+    c "我知道，小伙子。我也非常享受。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_232d83d9:
 
     c "……甚至有点过头了。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eeb5e53b:
 
-    c "但是我们不该这么做 如果没有什么能阻止我走得太远的话。"
+    c "但如果没有什么能阻止我越界，我们就不该继续这样做。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_235334cf:
 
-    "你可以看到他从哪里来 虽然你觉得他可能也担心太多了。"
+    "你多少能理解他的顾虑，不过你觉得他可能也有些过度担心。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cdabbf64:
 
-    e "好吧... 如果你能做这样的事情 而不走得太远, 你会想..."
+    e "好吧……如果你能在不越界的情况下做这些事，你会愿意……？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b3c748bf:
 
-    "激起强烈的争吵的叹息。"
+    "凯恩发出一声充满矛盾的长叹。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_450c2da2:
 
-    c "我不确定 小伙子 我知道这感觉很爽 我非常想要那个意义上的塔 但是..."
+    c "我不确定，小伙子。我知道那感觉会很棒，也确实很想要，但……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_658b1187:
 
-    c "即使那样,我也不确定我是否能被你信任 我需要一些时间好好想想。"
+    c "即使这样，我也不确定自己能不能控制住。我需要一点时间想想。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_58c896dc:
 
-    e "我想我可能有什么 我们可以试一下...？"
+    e "我想……或许我们可以试试什么办法？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_14100ba1:
 
-    "很难排除你的疑虑 但你要尽力 听上去很有说服力。"
+    "你竭力让声音听起来有说服力，却很难完全掩饰其中的疑虑。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d63bf015:
 
-    c "我在听。"
+    c "我听着。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3a04eccb:
 
-    e "如果你不能相信自己不要走得太远 你可以告诉我你愿意走多远 并且让我阻止我们去那里 这样我们就可以进行检查了。"
+    e "如果你不相信自己能及时停下，那就告诉我你愿意做到哪一步，由我来阻止我们越过那条线——这样至少能有个制约。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_61a935f1:
 
-    "凯恩闭上眼睛去想它。"
+    "凯恩闭上眼睛思考。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_271f345a:
 
-    "他脸上的表情告诉你 他很担心这个 但他老二的阴茎又开始发胖了 告诉你他肯定在考虑。"
+    "他脸上的神情告诉你，他对此很担心；但他重新开始发胀的阴茎又说明，他确实在认真考虑。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2362fbc5:
 
-    e "这次我们可以试试 如果我们走得太远 别再做这种事了 好吗?"
+    e "这次我们可以试试；如果再越界，就再也不做这种事了，好吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bb21f418:
 
-    "凯恩放出一小块毛巾 转过身来看看你。"
+    "凯恩短促地呼了口气，转头看向你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_be1758bd:
 
-    c "..."
+    c "……好。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4c9f5a0c:
 
-    c "我不确定我是否放心地相信它 但我会试试看。"
+    c "我不确定自己能不能安心把这件事交给你，但我愿意试试看。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cf7eb836:
 
-    "当你即将庆祝的时候 凯恩在警告中举起一只手指。"
+    "你正要欢呼，凯恩却竖起一根手指警告。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_43ee923d:
 
-    c "这可能是不公平的,但是... 如果事情走得太远, 我们绝对不会再做这样的事情了,好吗?"
+    c "这可能听起来不太公平，但是……如果我们再越界，就绝对不再做这种事了，明白吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eaaa5867:
 
-    "你点头强烈。"
+    "你用力点了点头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e899f233:
 
-    e "我100%%理解。"
+    e "我百分之百明白。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2c3c765d:
 
-    "凯恩 给您一个慢点头。"
+    "凯恩缓缓点头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_107e91de:
 
-    c "好吧,好吧... 你有任何你想要的东西 作为限制?"
+    c "好吧……你有没有想设定的界限？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f1e03a14:
 
-    "他拿起枕头 支撑枕头 这样他就能在和你说话时 保持清醒。"
+    "他拿起枕头垫好，让自己在和你说话时能靠着脑袋。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1f8504fe:
 
-    e "我什么都想不出来!"
+    e "我想不出有什么！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3f939866:
 
-    "尤其是当他的硬公鸡离你只有一英尺远的时候 路上除了空气什么都没有。"
+    "尤其是此刻他的硬挺肉棒离你不到一英尺，中间只有空气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a58446bd:
 
-    "肯尼叹气, 之前放出一个小笑。"
+    "凯恩叹了口气，又轻轻笑了一声。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2cf03fb7:
 
-    c "你当然不知道。"
+    c "你当然想不出来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_92f4018d:
 
-    e "那你呢 你的极限是什么？"
+    e "那你呢？你的界限是什么？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c9465469:
 
-    c "Hrmm..."
+    c "嗯……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_dc0e3866:
 
-    "你可以看到凯恩的眉毛在思考中, 尽管他的双手在腹部鼓动着温柔的节奏。"
+    "你看见凯恩皱起眉思考，双手却在肚子上轻轻敲出节奏。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f90d4c5:
 
-    c "我想我不介意你用手能做的事 我只是不想爬到你的上面 或靠近口或屁股的地方。"
+    c "我想，大多数用手能做的事我都可以接受。我只是不想压到你身上，也不想靠近你的嘴或屁股。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a477aab4:
 
-    "主要是你所期望的,但是..."
+    "基本和你预想的一样，不过……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4fd1cf8a:
 
-    e "为什么,你不喜欢他们?"
+    e "为什么？你不喜欢那些吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_29f2d5ee:
 
-    "凯恩给了你一种怀疑的眼神。"
+    "凯恩狐疑地看了你一眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1315d942:
 
-    c "不,你跟我一样清楚 做我想做的事啊。"
+    c "不，你和我一样清楚我对那些的想法。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4b88f0e7:
 
-    e "也许吧 但我还是想听你说。"
+    e "也许吧，但我还是想听你亲口说。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_725956a1:
 
-    "凯恩举起手来 深呼吸。"
+    "凯恩抬手捂住脸，深吸了一口气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f01ffec:
 
-    c "小伙子,别这么难了。"
+    c "小伙子，别把事情弄得这么难。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2a92b6c0:
 
     c "我正努力{i}不{/i}把你干到下周，别再让我这么想了。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_95f5ac36:
 
-    "正如他说的,他轻轻地抚摸自己,好像试图从他的破坏你的屁股的冲动中 得到一点缓解。"
+    "他说着，轻轻抚摸自己，仿佛想从那股把你屁股彻底操烂的冲动中得到一点缓解。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c070dba0:
 
-    e "好吧,很好,我对那些条件很满意。"
+    e "好、好吧。我接受这些条件。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5b9b8e89:
 
-    e "能不能多舔几只 还可以吗?"
+    e "偶尔让我舔几下，可以吗？不行也没关系，不过我……真的很想。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c916a8da:
 
-    "凯恩闭上眼睛很长时间了。"
+    "凯恩闭上眼睛，久久没有睁开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_26baa8af:
 
-    c "也许吧,我会给你一个\"是\"或\"不是\"的答案 但最多只能舔一口。"
+    c "也许吧。到时候我会告诉你‘可以’还是‘不可以’，但最多只能舔几下尝尝味道。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a6b1ea4e:
 
-    c "小子,你没真正地吸我一口气,懂了吗?"
+    c "明白了吗，小伙子？不许真的把我的肉棒含进去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0803386d:
 
-    "您快速点头。"
+    "你飞快地点头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1fe84621:
 
-    e "绝对!"
+    e "当然！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8075370c:
 
-    "在回到慢慢地慢慢地自我搏斗之前 长长的呼吸会加速。"
+    "凯恩长长呼出一口气，又慢慢抚摸起自己。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_42ceb329:
 
-    c "好吧,小伙子,好吧... 这还是以前那份奖赏, 所以你可以选择你想在我的限度内做什么。"
+    c "好吧，小伙子……这毕竟是你之前应得的报酬，所以你可以在我的界限内选择想做的事。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eb1d0812:
 
-    "一个坏主意贯穿了你的脑海 一种在不违背他限制的情况下 得到你想要的东西的方法。"
+    "一个淘气的念头掠过你的脑海：既不违反他的界限，又能得到自己想要的东西。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9189a16a:
 
-    e "我想有你在那里, 和我们两个 以我的头 在那里得到一个良好的外观,气味... 如果你让我,品尝。"
+    e "我想让你就躺在那儿，让我的头待在你两腿之间。这样我可以一边给我们俩打手枪，一边好好看看、闻闻……如果你允许，还能尝一尝。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_979a2510:
 
-    c "我几乎和我一样贪婪,小伙子。"
+    c "你这小子，贪心起来都快赶上我了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_949e93b8:
 
-    e "也许吧,但我确实很想要。"
+    e "也许吧，但我确实很想要。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_54a697d4:
 
-    "凯恩大喊大叫。"
+    "凯恩发出一声低沉的咆哮。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d552883b:
 
-    c "下楼去,别说话了 在我操那漂亮脸蛋之前啊。"
+    c "到下面去，别再说了，不然我就要操你那张漂亮脸蛋了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fe8f7006:
 
-    "即使让你带头 凯恩也想出办法 提醒你是谁在嘲笑这里的人。"
+    "就算把主动权交给你，凯恩还是会想办法提醒你，谁才是这里真正爱挑逗人的那个。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_435f6342:
 
-    e "不必告诉我两次。"
+    e "不用你说第二遍。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_050ed4e6:
 
-    "你下到床脚上 爬回去 跪下。"
+    "你移动到床脚，跪着爬回去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a4e30cc4:
 
-    "凯恩把腿打开 让你有空间向前移动。"
+    "凯恩分开双腿，给你腾出向前移动的空间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_41bb73b7:
 
-    "你靠近大蝙蝠 直盯着他的笑容。"
+    "你越来越靠近那只大蝙蝠，直直看进他戏谑的笑容里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b6d97cb8:
 
-    e "你好像玩得很开心,那场恐惧是怎么回事?"
+    e "你好像玩得很开心。刚才那些顾虑呢？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ea1083f1:
 
-    "甘蔗放出一股深深的笑容 带着一点苦楚的痛楚。"
+    "凯恩发出一阵低沉的笑声，里面带着些许苦涩。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_543cb54b:
 
-    c "\"仍然在那里,\"只是一个不错的景色 从这里上方。"
+    c "还在，只是从上面看这里的风景不错。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_04d0e564:
 
-    c "你在我的两腿之间看起来不错。"
+    c "你夹在我两腿之间的样子真好看。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8a8ddbbb:
 
-    "操,这让你有点兴奋。"
+    "操。这让你兴奋得轻轻抽动了一下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7ebaed96:
 
-    "没有报复,不能让他逍遥法外。"
+    "不能就这样让他占便宜，总得报复一下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_917666a0:
 
-    e "这里的景色也很棒... 也许我该给你看看类似的东西。"
+    e "这里的风景也不错……也许哪天我该让你看看类似的景色。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2d94ba30:
 
-    "你暂时停了下来 专心挑逗蝙蝠的混蛋 无法继续前进。"
+    "你停了下来，光顾着逗弄这只混蛋蝙蝠，忘了继续前进。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e0ee6ee6:
 
-    "凯恩似乎同样感兴趣 在你的前后 已经发生了, 你看到他的公鸡泄漏 只是一点点 预先精度 与每一行。"
+    "凯恩显然也很享受你们的来回调戏；你每说一句，他的肉棒就又渗出一点前液。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_261ba73f:
 
-    c "哈!好一个小伙子。"
+    c "哈！说得好，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4c046b7d:
 
-    c "也许你会,但我想我们知道你喜欢什么。"
+    c "也许你会。不过……我想我们都知道你更喜欢什么。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8381bc89:
 
-    "他的笑容从耳朵到耳朵的伸展, 一种胜利的贪婪的表情。"
+    "他的笑容咧到耳根，脸上满是胜利般的贪婪。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bd61c10b:
 
-    c "你要求这样做是有原因的,而不是这个原因。"
+    c "你之所以要求这个，不就是因为不想做那个吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_42dbb54f:
 
-    "他把你带到那里。"
+    "他这一下正中要害。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c3a69cd3:
 
-    "如果你们一直这样互相嘲弄 你们就打不赢他。"
+    "你们要是继续这样互相挑逗下去，可赢不了他。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2b5d6bac:
 
-    "无论你们是否都享受到这个, 你们必须赶在主事件之前, 才能让你 变成一个没有控制冲动的顺从水坑。"
+    "尽管你们都很享受这个过程，但还是得进入正题，否则他会把你变成一滩失去自控、只会服从的烂泥。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7ddc3526:
 
-    "继续往前爬 你终于到达了 蝙蝠老二前的舒适位置。"
+    "你重新向前爬，终于在蝙蝠的肉棒前找到一个舒服的位置。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_53692203:
 
-    "你必须阻止自己伸手伸出手 并把他的脚尖从嘴唇中滑下来。"
+    "你不得不克制自己，不要让他的龟头滑进嘴唇之间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_39b10eeb:
 
-    "相反,你把你的脸移近他的井, 直到你的鼻涕在它的下边痒痒。"
+    "相反，你把脸凑近他的肉棒，直到鼻尖在它的下侧轻轻发痒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0ef53096:
 
-    c "我看见你用言语而不是言语来证明我是正确的。"
+    c "看来你要用行动而不是言语证明我是对的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_36f21f14:
 
-    c "我完全没意见。"
+    c "我完全不介意。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0bf86d76:
 
-    "该死的,为什么他的自信一定要这么火辣?"
+    "该死，他的自信为什么这么迷人？这让你更难忍住不立刻想尽办法让他操你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_06cd9f43:
 
-    "现在,你必须解决这件事。"
+    "不过现在，你只能先满足于这样。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_42463239:
 
-    "你用手套住他的老二, 阴茎的长毛对你有利, 因为你有足够的空间 既可以容纳它,也可以让你的鼻子一角。"
+    "你用手握住他的肉棒；它的粗度反而帮了你的忙，让你的手和鼻尖都有足够空间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a5c295e7:
 
-    c "费尔,别的人挑, 这真的相当宽容的我品味。"
+    c "虽说是别人替我挑的，这还真合我的口味。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1ae96a2f:
 
-    "为了回应他温柔的争吵, 你轻轻地把他的皮包皮从他的脚尖上滑下来, 按住你的鼻子,让你的呼吸 嘲笑他的皮肤。"
+    "作为对他温柔嘲弄的回应，你轻轻把他的包皮从龟头上褪下，再把鼻子凑近，让呼吸挑逗着他的皮肤。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_abe445f9:
 
-    c "操... 小子,你也可以挑逗我。"
+    c "操……好吧，小伙子，你也会撩人。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3275d254:
 
-    "你开始轻轻地抽他的老二 让你的鼻子上下下流 勉强刺激到感觉良好 但诱使他想要更多。"
+    "你坏笑着开始轻轻套弄他的肉棒，让鼻尖沿着棒身上下游移；刺激只够让他舒服，却又吊着他想要更多。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4fe22f5a:
 
-    "当你的老二到达他的轴底时 你拿出你的舌头 轻轻地拖到尖尖处。"
+    "当你的手摸到他的肉棒根部，你伸出舌头，轻轻向上划到龟头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_917e89ab:
 
-    "你感到拐杖短暂紧张, 但屈服在那一刻。"
+    "你感觉凯恩短暂地绷紧身体，但最终顺从了这一刻。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_88735b0a:
 
-    "当你到达登山顶时, 你会遇到一个新的预感球, 让你得到更好的品味。"
+    "当你舔到顶端时，碰到一团新鲜前液，仿佛在邀请你尝得更彻底。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_50fdd8ed:
 
-    "慢慢地,你用舌头 追踪他的头部, 慢慢地伸到更远更远的地方, 当你推开他的指尖时, 慢慢地把他的包皮往下推。"
+    "你慢慢用舌头绕着龟头画圈，逐渐向下延伸，同时将包皮从龟头上褪开。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6bc48255:
 
-    c "我快疯了,除了这个,我还不知道能忍多久。"
+    c "你真要把我逼疯了。再往前一步，我不知道自己还能忍多久。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_96df6039:
 
-    "作为鼓励,你终于把你的舌头 放在他头脊下, 留下它完全暴露, 就在你的露天马的前面。"
+    "把这当作鼓励，你终于将舌头伸到龟头冠状沟下方，让它完全暴露在你张开的嘴前。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e7debdfd:
 
-    "深深的性爱和欲望的滋味 笼罩着你的心灵和他, 当你往下摇动你的头, 滑动他的脚尖 在你的嘴唇之间, 和你的嘴顶上。"
+    "浓烈的性爱与欲望气息同时笼罩你们的心神。你继续低下头，让他的龟头滑进双唇之间，抵上你的上颚。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_615be12a:
 
-    c "L -lad,Tha"
+    c "小、小伙子，等——"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f5fbf7d4:
 
-    "不让他再抗议,你更进一步地推下去, 将他一半的老二插进你的喉咙里, 感觉他的小弟弟贪婪地吞噬了 你嘴里尽可能多的空间。"
+    "你不让他再抗议，继续把头往下压，把他半根肉棒塞进喉咙；粗大的尺寸贪婪地占满你口中的空间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_98926fe5:
 
-    "深深地呻吟着 贫穷的呻吟着 受苦受难的欲望。"
+    "凯恩发出一声深沉的呻吟，充满渴求却难以克制的欲望。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bc719685:
 
-    "很快,你就会感觉到一对网手 抓住你的角。"
+    "很快，一双蹼状的手抓住你的角。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_781a6503:
 
-    c "行啊，既然你这么想吸我的鸡巴，那就按{i}我{/i}喜欢的方式来。"
+    c "行啊，既然你这么想吸我的肉棒，那就按{i}我{/i}喜欢的方式来。"
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_efe7ea42:
 
-    "所以说,你的脸被压在肚子上。"
+    "说着，你的脸被按进他的腹部。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b2c573d7:
 
-    "你的眼睛撕裂,你努力不咳嗽 当他的老二 撞到你的喉咙, 弯曲自己和气管 以充分容纳它。"
+    "你的眼角泛起泪水；他的肉棒猛地撞进喉咙，你努力不咳嗽，而气管也被迫弯曲，以容纳它的粗度。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a7dcb416:
 
-    "在你完全处理任何这一切之前 凯恩再次把你拉离他的老二一半 推向前方 保证你被困在那里。"
+    "你还没来得及完全理解发生了什么，凯恩又把你从肉棒上拉开一半，同时继续向前顶，确保你被卡在那里；接着他从仰躺撑起，跪了起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_588f6771:
 
-    "此时此刻,他强迫你的头 压在他的老二上, 当你的身体抽搐 试图不紧张。"
+    "此时，他强行把你的头压在肉棒上，你的身体痉挛着，努力不让自己绷紧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_24a727d6:
 
-    "看到这个,肯尼放任者 稍微放任一下,把你从他的老二上拉下来。"
+    "看到这一点，凯恩稍稍收敛，把你从肉棒上往外拉了些。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0dde1caf:
 
-    c "小伙子,你过得好吗?"
+    c "你还好吗，小伙子？享受你自己挣来的奖励吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0b2e2d2a:
 
-    "你咳嗽和滑水之间点头 试图呼吸。"
+    "你在咳嗽和呛咳中点头，努力喘匀呼吸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aec49f96:
 
-    c "我想是的。现在,背对着。"
+    c "我就知道。现在，翻过来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_30155f9c:
 
-    "他的声音语气清楚地表明 如果你不做 他会逼你做 所以你就翻过来。"
+    "他的语气清楚表明，如果你不照做，他会逼你照做；于是你翻身仰面。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ea12607d:
 
-    "凯恩抓住这个机会 跪在你的胸口上 鸡巴趴在你的脸上。"
+    "凯恩趁机跪到你的胸口前，屁股抵着你的胸膛，肉棒平贴在你脸上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5989b484:
 
-    c "好。现在,张开嘴。"
+    c "很好。现在，张嘴。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6d08685b:
 
-    "你有义务 弯腰 也试着用自己的条件 将他的鸡巴 塞进你的嘴里。"
+    "你照做了，也向前弯起身子，试图按自己的意愿把他的肉棒含入口中。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f6c49ba0:
 
-    "不幸的是,你没有给予足够的时间。"
+    "可惜，他没给你足够时间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_05bf2c8d:
 
-    "凯恩向前倾斜 进入一个非常像你之前的位置 将他的双手挥舞成拳头 支持你的头部 远远高于你两边。"
+    "凯恩俯身摆出和你之前相似的姿势，双手在你头顶两侧握成拳，借力支撑身体。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eea9dca1:
 
-    "不像你当时那样 他面前没有公鸡 只有他下面的喉咙。"
+    "但和你当时不同，他面前没有肉棒，只有下方等着他的喉咙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2269ce75:
 
-    "他把臀部往前推, 将他的老二推到你的开阔的马上, 立即把它折断, 他的蛋蛋扇你嘴的底部。"
+    "他猛地向前挺胯，把肉棒狠狠撞进你张开的口腔，一下顶到底，睾丸拍在你口腔底部。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1ec2dd13:
 
-    "他放出一个满意的呻吟。"
+    "他满足地呻吟一声。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e71cba73:
 
-    c "Ffffuuuuck。这击中了现场。"
+    c "操……这正中要害。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_444a91ba:
 
-    "他把他的鸡巴从你的嘴里拉出来 这样只有小费才能留在里面 然后再回击 每一次重复都被他的蛋蛋扇到你的下巴上 和凯恩的类似口供划破。"
+    "他把肉棒从你嘴里猛地抽出，只留下龟头还在里面，然后再次撞入；每次重复都伴随着睾丸拍在你下巴上的声响，以及凯恩类似的满足感叹。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_44ee0668:
 
-    "这一切都不是像以前那样的赞美。它完全专注于他的老二 用你这样的喉咙感觉有多好。"
+    "这一切都不是之前那种夸奖，而是完全沉浸在用你这样的喉咙吞吐肉棒有多爽。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6478d327:
 
-    "你开始在他身下乱搞。"
+    "被撩得彻底发狂，你开始在他身下给自己打手枪。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0a599897:
 
-    "他一次又一次地 将自己的老二打进你的身体 除了你的基本福祉 他什么也不在乎 直到最后 他推进去了 却不拔出来。"
+    "他一次又一次把肉棒撞进你嘴里，除了确认你基本没事，几乎不顾其他；最后，他顶入后便不再抽出。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2741bce9:
 
-    "你听到他的叫声 感觉到他的鸡鸡抽搐 贯穿你的鼻涕和喉咙 温暖而沉重的冲击力 深深地打进你的喉咙。"
+    "你听见他闷哼，感觉肉棒在你的鼻腔和喉咙里抽搐；温暖而沉重的感觉猛地深深灌进喉咙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_32827e46:
 
-    "这么长的时间里他深深地深深地植入你体内 让你开始缺氧。"
+    "他在你体内深处停留这么久，你开始逐渐缺氧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f8c763f3:
 
-    "被无节制的欲望和窒息 驱使你濒临边缘 导致你自己的高潮 将精液喷洒在你的肚子上。"
+    "无节制的欲望和窒息带来的眩晕把你推到极限，让你自己的高潮将精液喷洒在腹部。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d51ea16a:
 
-    "凯恩不拿出鸡鸡 直到他确定 他的高潮 已经很好和真正完成。"
+    "凯恩直到确定自己的高潮彻底结束，才把肉棒抽出来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_18984e25:
 
-    "你不知道,当然,你昏倒 在他完成之前, 但你有一种感觉。"
+    "当然，你并不能确定，因为在他结束前你就昏过去了；但你有这种感觉。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f8a5da57:
 
-    "你醒来时,一个穿着全衣的甘蔗 从卧室的座位上盯着你, 雪茄再次插在他的嘴唇之间。"
+    "你醒来时，凯恩已经穿戴整齐，坐在卧室里的椅子上盯着你，嘴唇间又叼着雪茄。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9037afe3:
 
-    c "清理干净。"
+    c "收拾干净。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fbd212f0:
 
-    e "W - 但我刚醒来?"
+    e "可、可是我才刚醒！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1fafdd9:
 
-    c "是的,小伙子,但是你是我的雇员, 和可爱的你,你需要 清理。"
+    c "对，小伙子，但你是我的员工。你再可爱，也得把这里收拾干净。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e456aae0:
 
-    "至少他还是说你很可爱 即使他说的方式没有你把他吸走之前那样充满爱。"
+    "至少他还在叫你可爱。只是和你替他口交之前相比，这样说时少了几分亲昵。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_71dfcb6a:
 
-    e "\"你在生我的气吗?\"？"
+    e "……你生我的气吗……？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c893ae7:
 
-    "用力叹气 捏住鼻子的桥 面对纯粹的愤怒 眉毛也弯曲。"
+    "凯恩重重叹气，捏了捏鼻梁，眉头紧皱，满脸都是恼火。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_34daea6a:
 
-    c "不,伙计,我没有生你的气。"
+    c "不，小伙子。我没生你的气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_808926ad:
 
-    c "我生气我让事情走那么远。"
+    c "我气的是自己让事情发展到这种地步。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f5374831:
 
-    "他的表情一触即发的挫折感消失了,代之以悲伤。"
+    "他表情中的一丝挫败消失了，取而代之的是悲伤。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a8d3c199:
 
-    c "并且很恼火,因为我让自己相信 我们可以想出办法。"
+    c "也恼火自己居然相信我们能想出办法来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_845a5ae9:
 
-    "你从地板上拿起你的衣服, 并质疑地看着他。"
+    "你从地板上捡起衣服，疑惑地看着他。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd9c3d93:
 
-    e "我以为你玩得很开心?"
+    e "我以为你刚才很开心？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_13682c3c:
 
-    e "我知道我做到了。"
+    e "我知道，我确实很开心。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_42e767eb:
 
-    "凯恩深深地皱眉 把手从他脸上拿开。"
+    "凯恩眉头紧锁，放下捂着脸的手。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_28d9dd53:
 
-    c "是的,小伙子,我玩得很开心,但那不健康。"
+    c "是的，小伙子，我确实玩得很开心，但那样不健康。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_568c2598:
 
-    c "我的小伙子,我有责任照顾你 而不是让你遭遇与托布一样的命运。"
+    c "你是我珍视的小伙子，我有责任照顾你，不能让你重蹈托普的覆辙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1e17385a:
 
-    c "答应雷希姆,现在看着我。"
+    c "我向拉希姆保证过这一点，可现在看看我。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7fb49a9d:
 
-    c "他比他更正确 如果我让这一切继续下去 我无法信任你。"
+    c "如果我让事情继续下去，他说我不能托付你给我照顾，就更有道理了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1877564a:
 
-    c "我们不再做这个了。"
+    c "我们不会再做这种事了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8d42d746:
 
-    c "酒吧还是欢迎你 仍然是我的宝贝小伙子 但是。"
+    c "酒吧永远欢迎你，你也永远是我看重的小伙子，但是……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_17e53ff0:
 
-    "在周围摆出手势。"
+    "凯恩向四周比了比。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d6285c9f:
 
-    c "None ah this."
+    c "不能再有这些了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_042e5eb9:
 
-    e "我们可以..."
+    e "我们可以——"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d50bb774:
 
-    "凯恩触动了沮丧的一手。"
+    "凯恩懊恼地抬手打断了你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_18092595:
 
-    c "我们同意了条件,我们可以保留它们。"
+    c "我们约定过条件，可我们没守住。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_484d2508:
 
-    c "别再说了 我会在客人面前泡你。"
+    c "求你了，别再说了……我会继续在客人面前调戏你，维持表面上的样子，但也只能到这里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_94004a03:
 
@@ -3731,15 +3731,15 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_94004a03:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bbea200f:
 
-    "你明显地退缩了,你很肯定凯恩从他对地上 看上去很内疚的眼神里看到了。"
+    "你肉眼可见地泄了气；从凯恩内疚地盯着地板的样子看，他肯定也看见了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_aa0c7cb0:
 
-    e "我理解。"
+    e "我明白。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a9a0d174:
 
-    "你很快就穿上衣服 房间很沉重 后悔不已。"
+    "你迅速穿好衣服，房间里沉重地弥漫着未散的悔意。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_1:
 
@@ -3747,423 +3747,423 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_1:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_69985bbe:
 
-    "房间里只有沉默 你们谁都不愿意打破它。"
+    "房间里只剩沉默，你们谁都不愿打破。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2441b788:
 
-    "你离开房间之前凯恩可以 抓住你哭, 但是... 你敢肯定他知道。"
+    "你在凯恩发现你哭之前离开房间，不过……你很确定他知道。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bdf6a4e5:
 
-    "不想让任何人看到你现在的样子 你偷偷回家 确保塞布和奥勒不在 然后再上楼去打扫 休息一下。"
+    "你不想让任何人看到自己这副样子，便偷偷回了家；上楼收拾、休息前，还确认塞巴斯和奥利不在。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8e64bf74:
 
-    "你醒来后,你意识到你把围裙忘在他房间里了。"
+    "醒来后，你意识到自己把围裙落在了他的房间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1ac64b01:
 
-    "开着酒吧的门取回它 你看到一个喝得烂醉的凯恩人 带着除你之外所有的人都觉得真实的欢呼声在酒吧周围转悠。"
+    "你打开酒馆的门去取围裙，看见凯恩醉得不省人事，在酒馆里来回走动，欢快得仿佛一切都很真实——但你知道那只是装出来的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fd58194e:
 
-    "门旁边是围裙。"
+    "围裙就在门边。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d38e57d6:
 
-    "你把它捡起来带回家。"
+    "你捡起围裙，带回了家。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d0e05f0a:
 
-    "当你在路上打开的时候 看到上面有小字条。"
+    "回家路上打开围裙时，你看见上面有一张小纸条。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e39a5b90:
 
-    c "对不起,你总是在酒馆受欢迎,但是..."
+    c "对不起，发生了这样的事。酒馆随时欢迎你回来，但是……我会尽我所能，避免托普的遭遇在你身上重演。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5ddb996a:
 
-    "也许在家里过一天会好些 给自己更多的时间 站起来 表现得好像一切都没事一样。"
+    "也许你们都该在家待一天，给彼此多一点时间整理心情，装作一切安好。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0786d45f:
 
-    e "所以,凯恩..."
+    e "所以，凯恩……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_acff6b2d:
 
-    "你花时间问问题 让他越发愤怒。"
+    "你故意慢慢问出问题，让他越来越焦躁。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_20009d48:
 
-    c "是的,伙计?"
+    c "怎么了，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_47eb9d52:
 
-    "那个混蛋知道你想问什么 并且试图表现得好像他一秒钟前没在哭叫。"
+    "这个混蛋明明知道你想问什么，却假装自己刚才没有喘息和呻吟。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9fa21aab:
 
-    e "刚才那个问题呢?"
+    e "刚才那个问题呢？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a6d50ca9:
 
-    "凯恩给你一个笑柄 你给他的鸡鸡拖拉,很快地毁掉了这笑柄。"
+    "凯恩朝你坏笑。你轻轻拽了拽他的肉棒，那个笑容立刻消失了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_dbab46fb:
 
-    c "我该说不作为惩罚来惩罚你,但你太可爱了。"
+    c "我本该因为你之前一直调戏我而惩罚你，说不行的，但你实在太可爱了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_bd5d10bd:
 
-    "他用手伸到下面 扭动你的脖子 然后再轻轻地引导你回到他的轴的底部。"
+    "他伸手揉了揉你的后颈，然后轻轻引导你回到肉棒下方。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5b9c710a:
 
-    c "\"只要你不用\" yer maw,去野外,小伙子。"
+    c "只要你不用嘴，就尽情来吧，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_65243afe:
 
-    "他停止引导你的头, 但他的手放在你的头上休息, 轻轻地摩擦他的手指 通过你的毛皮。"
+    "他不再引导你的头，但手仍搭在你头上，手指轻轻梳过你的毛发。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0a0a12d2:
 
-    "让他知道你听见他说话了 你轻轻地把舌头往前伸 压住他的厚厚紫色皮肤。"
+    "为了让他知道你听见了，你轻轻伸出舌头，压在他厚实的紫色皮肤上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1127a890:
 
-    "你听到你头上的一股满足的气息, 凯恩真的变得舒服了, 将另一只手放在他的肚子上。"
+    "你听见头顶传来满足的呼气声；凯恩彻底放松下来，把另一只手搁在肚子上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8abc80d6:
 
-    "甘蔗的鸡巴被涂在 盐味的汗水和前菜混合中 味道够口味的。"
+    "凯恩的肉棒上沾满汗水和前液混合出的咸甜液体，味道浓烈得让你稍不注意就会被淹没。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d20ee04b:
 
-    "为了确保不发生这种事 你一定要好好享受一下。"
+    "为了避免那样，你仔细品尝起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_50d1da30:
 
-    "第一口就是测试... 慢慢地,你往上爬,慢慢地朝轴的方向前进。"
+    "第一下只是试探……你慢慢沿着肉棒向上舔，逐渐朝着顶端前进。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_dbf7a3ee:
 
-    c "嗯,就像那样,小伙子..."
+    c "嗯，就这样，小伙子……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3b33432:
 
-    "你感觉到他轻轻地用他的手指轻轻地按摩你的后脑勺。"
+    "你感觉到他的手指轻轻按摩着你的后脑勺。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b1d91c63:
 
-    c "不错... 让我想坚持一段时间。"
+    c "感觉不错……让我想让这一刻多持续一会儿。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_07195247:
 
-    "尽管如此,你还是觉得 新鲜前滴到舌头上的甜味令人作呕。"
+    "尽管如此，你仍感觉到新鲜前液滴在舌头上，甜得发腻。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7f281278:
 
-    e "我等了很久,我很好。"
+    e "我已经等这个等了好一阵子，当然没问题。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e9f985ad:
 
-    "凯恩惊讶地看着你, 之前,进一步打动你的毛毛 与他的粗糙,冷酷的手。"
+    "凯恩惊讶地低头看着你，随后又用粗糙、布满老茧的手揉了揉你蓬松的毛发。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_52779b5f:
 
-    c "如何前进,小伙子!"
+    c "真够主动的，小伙子！"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c7668c43:
 
-    "他继续低头看着你 看着你用舌头仔细地 在他的前科上拉腿 从来就得不到他的小费 因为担心那会意味着你已经用完了。"
+    "他继续低头看着你，仔细看你用舌头舔食他的前液；你始终没有真的伸向龟头，生怕一旦碰到那里，就意味着前液已经被你舔光。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d62ab237:
 
-    c "嗯... 小伙子?"
+    c "嗯……小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5217b353:
 
-    "你停下来,仍然握着他的老二, 但移动你的头抬高看他。"
+    "你停了下来，手仍握着他的肉棒，却抬起头看向他。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_832a1523:
 
-    "他看起来脸红吗?"
+    "他好像脸红了？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0ece740c:
 
-    c "你愿意的话可以亲吻它,还是没有毛毛,但是..."
+    c "你想的话，可以亲一亲。还是不许用嘴含，不过……让你的嘴唇碰一会儿应该没问题。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f4dcb4c1:
 
-    "你不会拒绝的,但是... 检查一下可能比较好。"
+    "你当然不会拒绝，但……还是确认一下比较好。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f5bdc5f1:
 
-    e "你确定吗 这不违反我们原来的规则吗？"
+    e "你确定吗？这不是违反我们一开始定下的规矩吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cc9bd9a6:
 
-    "拐杖抓伤了他的肚子,看起来有点尴尬。"
+    "凯恩挠了挠肚子，看起来有些尴尬。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d586368e:
 
-    c "没关系,它不会打破它们..."
+    c "没关系。这不算打破规矩……只是稍微变通一下，让规矩对我们更有利。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f9c2ab76:
 
-    "在你的短暂交换期间,凯恩的老二 已经从他老二的前行中 挖出了一条新的线索,这次是到他的蛋蛋。"
+    "在你们短暂交谈的工夫，凯恩的肉棒又渗出一股新的前液，沿着棒身一路流到了他的睾丸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_636186ae:
 
-    e "好,要是太过份了,就阻止我。"
+    e "……好吧。如果觉得太过火了，就叫我停下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b539a17c:
 
-    "以你的新权力 你马上回到凯恩的老二。"
+    "有了这份新许可，你立刻重新回到凯恩的肉棒上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1eba2d7d:
 
-    "最好的开始就是把凯恩的包皮再拉回来 将前锋放在他的头上 集中到一个小地方。"
+    "你觉得最好的开始，是再次把凯恩的包皮拉回龟头上，让前液聚成一小处。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_77d59639:
 
-    "轻轻地,你把头移到那个地方 舔着那里包皮的折叠。"
+    "你极其轻柔地低下头，舔舐那里包皮褶皱之间的缝隙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d5bede80:
 
-    "你的奖赏是一种含蓄的甜食 引起你之前的一些事。"
+    "作为回报，那股甜得发腻的滋味也让你的前液渗了出来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ef2b40bc:
 
-    "想要更多,你把他的包皮取下来, 并开始艰难的过程 亲吻他的头, 润滑你的嘴唇 用他的前身。"
+    "你还想要更多，便把他的包皮往下拉，开始费力地亲吻龟头周围；同时用他的前液润湿嘴唇，用手套弄他的肉棒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eab19adc:
 
-    "凯恩一直在你上面摇摇欲坠 低声赞美\"你是一个多么好的孩子\" 和\"你做得如何好\""
+    "整个过程中，凯恩在你上方满足地发出低沉的声音，低声夸你“真是个好小伙子”，又说“做得真棒”。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b6691e2a:
 
-    "这是对你们俩的缓慢而甜蜜的几分钟探索, 凯恩用他的手充分探探你的头, 用他的老二来探探你的嘴,你的嘴,你的舌,你用你的手和嘴来探探他的老二。"
+    "这是你们二人缓慢而甜蜜的探索时光：凯恩用双手尽情抚摸你的头部，同时让他的肉棒探索你的嘴唇和舌头；你则用双手和嘴探索他的肉棒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9717d972:
 
-    "你不可能永远做这个,尽管你想做多少。你需要真正向前推进,而不是浸泡在 甘蔗对你这样下毒的感觉中。"
+    "不过，无论你多么想，这样做也不可能一直持续下去。你得真正推进下一步，而不是只顾沉浸在凯恩这样宠着你的感觉里。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c562c188:
 
-    "给他头一个吻,你开始亲吻你的方式 下他的井。"
+    "最后亲吻了一下他的龟头后，你开始沿着棒身一路向下亲去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2cd292ba:
 
-    "越往下移动,你就越需要空间 来正确击球 提高你球速和速度 当你靠近球球的时候。"
+    "你越往下移动，就越有空间好好套弄这只老蝙蝠；随着你逐渐靠近他的睾丸，手上的动作也越来越有力、越来越快。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6b211578:
 
-    "甘蔗的声音和赞美 只会变得更响亮 更甜美 呻吟转向巴里顿的咆哮 他的歌声充满了无息的欲望。"
+    "凯恩的声音与赞美变得越来越响亮、甜蜜；呻吟渐渐化作男中音般的低吼。他的嗓音因欲望而沙哑，喘息着告诉你有多么棒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_efb2d694:
 
-    "最终你会碰到凯恩的蛋蛋。"
+    "最终，你终于摸到了凯恩的睾丸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_267767ea:
 
-    "你花一小会儿欣赏你面前的 紫色的脂肪球 看着他们每次从他脚尖上 冒出新的前锋时 都稍微拉起来。"
+    "你花了片刻欣赏眼前那对肥硕的紫色睾丸，看着每次龟头又渗出一股新的前液时，它们都会微微收紧上提。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b8978e6a:
 
-    c "放松点 小伙子 我喜欢玩那些游戏。"
+    c "尽管来，小伙子。我喜欢别人玩我的蛋蛋。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0d2ef226:
 
-    c "公平警告,我接近了,你可能会 被抓在喷雾区,如果你不小心。"
+    c "不过先提醒你，我快到了；不小心的话，可能会被喷到。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_40c62233:
 
-    "你甚至不用抬头看凯恩就知道 他脸上有恶臭的笑容。"
+    "你甚至不用抬头看凯恩，也知道他脸上挂着一抹暧昧的坏笑。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_25e4d0ff:
 
-    e "听起来像一个计划。"
+    e "我觉得这主意不错。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_caaf960e:
 
-    "凯恩的蛋蛋 短暂拉起 再一次, 鸡巴在你的手抽动。"
+    "凯恩的睾丸再次短暂地上提，肉棒在你手中悸动。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8b6c73e7_1:
 
-    c "好孩子。"
+    c "好小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3808f5b9:
 
-    "鉴于你需要的鼓励,你用你的自由手 用它轻轻地拉他的蛋蛋。"
+    "得到所需的全部鼓励后，你用空着的那只手轻轻拉了拉他的睾丸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4e1bffc7:
 
-    "抬起头来,你得到一个好角度 轻轻舔,亲吻他的麻袋, 得到新鲜的口味 汗水和前混合在一起。"
+    "你把头往下移，找准角度，轻轻舔吻他的阴囊，尝到汗水与前液混合而成的新鲜滋味。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ddf1ae0f:
 
-    "你一直在给他的老二吹鞭子 快速,稳步的中风 你一直在这样做的整个时间。"
+    "在做这些的整个过程中，你始终以快速而稳定的节奏套弄着他的肉棒。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7335179d:
 
-    "另一方面,凯恩不再说话了, 完全过渡到呻吟,咕噜声和咆哮。"
+    "另一方面，凯恩已经停止说话，完全只剩下呻吟、闷哼和低吼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6895b1d0:
 
-    "当你仰望他时,你可以看到他正把头靠在枕头上 闭上眼睛闭着眼睛 失去自我,感觉你把他抢走。"
+    "你抬头看他，发现他闭着眼把头靠进枕头，完全沉浸在你用手套弄他的快感中。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ed372f41:
 
-    "他睁大眼睛嘲笑你 他注意到你不再用舌头清洗他了。"
+    "他睁开一只眼，发现你已经停下舔舐，便朝你咧嘴一笑。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eea0c2ad:
 
-    "你感到从永远存在的手 轻轻地拉着头部, 当它从抚摸你 转向引导你到他想要的东西。"
+    "你感觉到那只一直放在你头上的手轻轻一拉；它不再只是抚摸你，而是开始引导你去做他想要的事。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b029d263:
 
-    "让他控制你,你发现你的鼻子 紧紧地压在他的蛋下面, 这样他们就坚持在两边。"
+    "你任由他接管，发现自己的鼻子被牢牢压在他的睾丸下方，让那对睾丸悬在你的鼻子两侧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_de50c494:
 
-    "你觉得他的手靠近你的脸颊 表示你应该舔舔亲吻。"
+    "你感觉到他的手靠近你的脸颊一侧，示意你该开始舔吻了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_158d2df6:
 
-    "顺从你的龙,你交替 舔他的蛋蛋的底部, 用你的嘴唇拖着他的袋子。"
+    "你这条听话的小龙，交替舔着他蛋蛋的下方，又用嘴唇轻轻拉扯他的阴囊。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_adadf6a1:
 
-    "凯恩慢慢地开始引导你。"
+    "凯恩开始一点一点地引导你沿着他的睾丸往上，越来越高。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_83ea34a9:
 
-    "他的睾丸越来越频繁地拉起, 他的呻吟开始变得比以前更响亮。"
+    "他的睾丸收缩上提得越来越频繁，呻吟声也开始比之前更加响亮。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_752c5dcb:
 
-    c "最后一个电话你 得到一个脸 得到一个满满的啊蝙蝠精,小伙子。"
+    c "这是你躲开一脸老蝙蝠精液的最后机会，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_acd68138:
 
-    "作为回应,你又开始亲吻他的老二, 用新的振动器把他拉下手。"
+    "作为回应，你再次亲吻他的肉棒根部，同时更加卖力地套弄起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2c420c0f:
 
-    c "嘿,嘿,嘿,嘿,等等,小伙子,我有个想法,我想你应该先忍住。"
+    c "嘿，嘿，嘿！先别急，小伙子。我想到一个你一定会喜欢的主意，得忍到那时候再射。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_410335e7:
 
-    "你喘了一口失望的气 减慢了抽水的速度 接吻的速度更慢。"
+    "你失望地呼出一口气，把套弄和亲吻的动作放慢，变得更加轻柔。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ce3b0fd0:
 
-    "甘蔗宠物你 亲切的响应。"
+    "凯恩作为回应，亲昵地抚摸着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9dd2d4d8:
 
-    c "好孩子。现在,好孩子。"
+    c "好小伙子。来，过来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cb7d51fe:
 
-    "再一次,他的手开始引导你 更进一步,他的老二, 促使你再次用 饥饿的舔和亲吻来拉它。"
+    "他的手再次开始引导你沿着肉棒继续向上，催促你用饥渴的舔舐和亲吻再次把它润湿。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_01b5113d:
 
-    "汗水和前期混合的味道 随着你向上移动 更加甜美地生长 在你向上移动时 收获你时间的结果 与他的球一起。"
+    "随着你向上移动，汗水与前液的混合物变得越来越甜；你一路上移，也尝到了刚才玩弄他睾丸的成果。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_637ad416:
 
-    "前身也比以前强, 尝着更深的滋味,因为他越来越接近他的门槛。"
+    "前液的味道也比之前更加浓郁；随着他越来越接近高潮，滋味愈发强烈。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_b573ef36:
 
-    "在你意识到之前,你又回到他的头顶, 包皮和脚尖 完全润滑和闪闪发光。"
+    "不知不觉间，你又回到了他肉棒的顶端；包皮和龟头都被润滑得湿亮。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_733cda61:
 
-    c "小伙子,我需要你 张开嘴,当我告诉你,好吗?"
+    c "好，小伙子，等我让你张嘴时，你得张开，好吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4f7e0c62:
 
-    "甘蔗用一种声音 以颤抖的声音与你说话 以努力和欲望。"
+    "凯恩的声音因用力和欲望而颤抖。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ffcf2ddb:
 
-    "你点头,但永远不要停止你的抽水、舔舔或接吻。"
+    "你点点头，却没有停止套弄、舔舐或亲吻。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_419221ba:
 
-    "手在你的头上 被吓得要死 把你拖到他老二的顶部。"
+    "那只搭在你头上的手颤抖着把你拉到他的肉棒顶端。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_04121730:
 
-    "有了更好的景色,你可以看到凯恩的胃部紧张 和放松与欲望的脉冲。"
+    "从这里视野更好，你能看到凯恩的腹部随着欲望的脉动一紧一松。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ecb410a2:
 
-    "手放在你头后部 紧紧地握住你 并用他的尖尖 塞住你的嘴唇冲浪 当你看到一个特别强大的脉搏 摇动他的身体时。"
+    "你看到一阵尤其强烈的脉动让他全身震颤；按在你后脑的手随即紧紧抓住你，把你的嘴唇推到紧贴他的龟头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a778d404:
 
-    c "{i}MNG!{/i} 奖赏来了,打开小伙子。"
+    c "{i}唔嗯！{/i} 你期待的奖励来了，张嘴，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c4a7f8ae:
 
-    "你乐于接受 嘴唇分开 就在第一次抽出精液的那一刻 凯恩的老二。"
+    "你欣然照做，在第一股精液从凯恩的肉棒中喷出的前一刻张开双唇，将它接在喉咙深处。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d96c124d:
 
-    "凯恩的身体在摇动和抽搐 如此之大 以至于你无法真正抓住你嘴里的一切 在他的口罩上喷洒他的精华喷雾。"
+    "凯恩的身体剧烈摇动、抽搐，你不可能把所有精液都接进嘴里；有些精液喷到了你的口鼻。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fefaf34f:
 
-    "每一滴你抓的药都很丰富 口香糖的味道 充满了苦苦的味道 嘴里又充满了浓厚的温暖。"
+    "你接住的每一滴都浓郁得惊人，深沉而苦涩的味道伴随着厚重的暖意在你口中扩散。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_adecdbc8:
 
-    "甘蔗此刻完全迷失了自己, 在呻吟之间呼喊你的名字 当他抱着你的头 站在你的位置,臀部跳动, 只是几乎不他妈的你的喉咙 在不同的点上。"
+    "凯恩已经彻底沉浸其中，在呻吟间喊着你的名字，同时按住你的头，胯部不断挺动，好几次都险些顶进你的喉咙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ce0d711c:
 
-    "无法再克制自己了 你把手伸到自己的老二上 一直被忽略着 痛苦地抽动着自己的老二。"
+    "你再也忍不住了，把空闲的手伸向自己的肉棒；它一直被冷落，此刻正难受地抽动着。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1e09d68:
 
-    "凯恩还没完成高潮,他的精液品味普遍 以及你直到现在才放弃的否认 让你迅速越过你的门槛。"
+    "凯恩的高潮还没结束，你就射了；他精液浓烈的味道，加上你一直以来的自我克制，很快便把你推过了临界点。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0f9141e2:
 
-    "不幸的是,所有好东西都必须结束,因为两枪之间的距离慢慢地拖到滴子上,已经不足以填充你的嘴。"
+    "遗憾的是，美好终将结束：每次喷射之间只剩下细细的滴流，再也不足以填满你的嘴。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_08c933ad:
 
-    "你几乎没注意到自己在他完成后 继续抢走他 舔遍他的老二 希望能找到更多。"
+    "你沉浸在淫欲的迷雾中，几乎没注意到凯恩已经射完，自己却还在继续套弄他的肉棒，舔遍龟头，试图找出更多。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_99463b86:
 
-    "上面的一首可爱的笑曲 让你解脱了。"
+    "头顶传来一声宠溺的轻笑，让你回过神来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4a60177a:
 
-    "向上看,你看到一个非常满意的凯恩 微笑在你身上。"
+    "你抬起头，看见十分满足的凯恩正低头对你微笑。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_44f3cbd4:
 
-    "他终于把手从你的头上拿下来 用手指把你从他脸上拉过来。"
+    "他终于把手从你头上拿开，用手指示意你靠近他的脸。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_41cf3e69:
 
-    "你们俩都太花心思了 但是凯恩不顾这一切 仍能表达他的感情。"
+    "你们都累得说不出话，但凯恩还是设法表达了自己的感受。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1e12e866:
 
-    "当你靠近他的脸时,你看到他 轻轻地朝前倾斜, 默默地问你一个吻。"
+    "你靠近他的脸时，看见他微微前倾，无声地向你索吻。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_633b7f20:
 
-    "只要你想要一个..."
+    "尽管你很想亲他……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3335cf99:
 
@@ -4171,183 +4171,183 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_3335cf99:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_16a23830:
 
-    c "是的,小伙子?"
+    c "怎么了，小伙子？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cd3aacee:
 
-    "你们俩还在喘气 嘴里说着苦闷的呼吸和笑容。"
+    "你们仍然喘着气，伴着粗重的呼吸和笑容断断续续地交谈。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e149bd3d:
 
-    e "You know that-"
+    e "你知道——"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_da1dbe34:
 
-    "你咳嗽 需要呼吸一下。"
+    "你咳嗽起来，需要先喘口气。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a48b5017:
 
-    e "除了浪漫之外,我无法把一个吻看成什么样。"
+    e "对我来说，在这里接吻就只能是带有恋爱意味的事。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_99ac5576:
 
-    "凯恩的眼睛大得令人吃惊。你看到有一股坚定的欲望, 当他开始向前倾望,再次吻吻的时候。"
+    "凯恩惊讶地睁大了眼睛。你看见其中闪过一丝被确认后的渴望，他开始再次前倾，想吻你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ee88fd42:
 
-    "但是,在你真正弥合你之间的鸿沟之前, 他用一只手阻止你。"
+    "然而，就在你们即将贴近、缩短距离之前，他伸手拦住了你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1505b77:
 
-    c "我得考虑一下,小伙子。"
+    c "这件事我得想一想，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7e6527e1:
 
-    "你忍不住觉得有点... 失望,一种感觉,你很快地从你感觉到 凯恩的手指梳子 穿过你的鼻子顶部时 突然发作起来。"
+    "你不禁有些……失望；但你感觉到凯恩的手指轻轻划过鼻吻上方，很快便从这种情绪中回过神来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0d140dcb:
 
-    "一开始你觉得这只是一个善良的爱抚, 但是当你再次看到他的手指, 它就在你的嘴前, 脸上的精液在它上拉着。"
+    "起初你以为那只是善意的爱抚，但当你再次看向他的手指时，它已经停在你嘴前，上面抹着从你脸上蹭下来的精液。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c1b842cc:
 
-    c "我说我会考虑的,耐心点,小伙子。"
+    c "我说过我会考虑的。耐心一点，小伙子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c3fa69b7:
 
-    "尽管如此,他还是用手指指着你的嘴 - 你强迫,轻轻地从嘴里抽他的精液, 丰富的品味再次淹没你的脑海。"
+    "尽管这么说，他还是把手指朝你嘴边送了送；你顺从地含住，轻轻吸去上面的精液，浓郁的滋味再次充斥你的脑海。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d7c40df9:
 
-    c "费尔,我只能说 你干得很棒..."
+    c "现在我只能说，你做得很棒……以后找时间再做一次，我或许也不会介意。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a2eca09a:
 
-    "他说,他从你的嘴里拿出他的手指, 让你暂时失望,然后你觉得它会在你的背上缠着一会儿, 当他的另一只手缠着你的腰的时候。"
+    "说着，他把手指从你嘴里抽出，让你短暂失望；片刻后，那只手又绕到你的背后，同时另一只手环住你的腰。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a0ac2ea0:
 
-    e "我想我也喜欢这样。"
+    e "我想我也会喜欢的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eabc0151:
 
-    "凯恩不会错过你声音中 轻微的讽刺, 呼唤他在他的讽刺, 他的肚子在你上面摇晃, 震动在你的耳边摇晃。"
+    "凯恩没有漏掉你语气里的那点反讽——你正拿他的讽刺反过来调侃他；他的肚子在你身下发出咕噜声，震动传遍你的身体。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_1a257dad:
 
-    c "好吧,好吧。我让你听听。"
+    c "好吧，好吧。我让你听听。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c5a67a5:
 
-    "拐杖把手放在你的背上 这样他的肘部就留在你的背上, 但他的手举高了 让你的头套在他的下巴下巴下。"
+    "凯恩挪动放在你背上的手，让手肘继续撑在你背上，手则向上托住你的头，把你收在他的下巴下。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0e2553f9:
 
-    c "好极了,小伙子,如果不是我之前的预订,我会问你 自由的晚上会做什么。"
+    c "刚才真棒，小伙子。要不是我之前那些顾虑，我现在就会问你哪几晚有空，想再多做几次了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9da24803:
 
-    "在他的赞美之下这样 受苦受难是件好事..."
+    "像这样享受着他的夸奖，感觉真不错……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e187e276:
 
-    e "你的意思是说不要让我堕落?"
+    e "嗯。你是说不会把我带坏吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_92d73adc:
 
-    "你感到紧张的强烈 穿过凯恩以前完全放松的身体。"
+    "你感觉到原本完全放松的凯恩身体突然掠过一丝紧绷。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f3d69074:
 
-    e "我不会担心的 就算你能,我也不会让你。"
+    e "不用担心。就算你真能做到，我也不会让你得逞。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_039f2957:
 
-    "像这样,你感觉肚子在你的肚子下 恢复到柔软的形状 - 嗯,就像粗毛皮所覆盖的东西一样柔软。"
+    "就这样，你感觉身下的肚子又恢复了柔软——嗯，对一个覆盖着粗糙毛发的家伙来说，已经算柔软了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3de5e201:
 
-    "凯恩开始用他的拇指 摩擦你的后脑勺 思考。"
+    "凯恩一边思考，一边用拇指揉着你的后脑勺。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9df602f0:
 
-    c "拉德,我不能肯定我是否还想再做一次 即使你说得对,你不会让我毁了你。"
+    c "小伙子，我还不能确定自己是否想再做一次，尽管你说得对，你不会让我把你带坏。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_cc0b0aff:
 
-    c "玩得很开心,但除了闲事之外,我并不热衷于任何事, 在你说你知道的和我一样,你能够保持闲事之前。"
+    c "这次很开心，但我不太想要超出随便玩玩的关系。你先别说——你和我一样清楚，你没法把它维持在随便玩玩的程度。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a4939b1a:
 
-    "你微弱地朝他毛茸茸的颈毛里发牢骚。"
+    "你对着他蓬松的颈毛轻轻嘟囔。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3042b81b:
 
-    c "我告诉贾我会考虑的。"
+    c "我说过我会考虑的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5895a0f7:
 
-    "你大喊大叫,所以这次你的声音真的被听见了。"
+    "你把声音提高了些，这次终于让他听见了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2cfce06c:
 
-    e "好吧... 在那之前,我们不能再做别的了?"
+    e "好吧……那在此之前，我们就什么都不能做了吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ac059e67:
 
-    "凯恩的手短暂暂停, 恢复之前,好像什么都没有发生。"
+    "凯恩的手短暂停了一下，随后若无其事地继续动作。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fa8e7202:
 
-    c "...如果你现在喜欢的话,我们可以这样呆着."
+    c "……如果你愿意，我们现在可以先这样待着。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_675ceed0:
 
-    "他的嗓音变得有点尴尬, 声音不适合他的深沉的声音。"
+    "他的声音带上几分尴尬；这种语气与他沙哑粗砺的嗓音很不相称。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7029b1d9:
 
-    c "你当以黑夜为众人的报酬,。"
+    c "把今晚算作你报酬的一部分吧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_13d1b665:
 
-    "不想从你舒适的地方移开 窝在凯恩的毛的深处 你轻轻地说出一个令人困惑的反应。"
+    "你舒服地窝在凯恩蓬松鬃毛的深处，不想挪动，只含糊地嘟囔了一声作为回应。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4564e225:
 
-    e "如果你不介意的话,我就睡在这里。"
+    e "那如果你不介意，我就睡在这里了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4ddf1178:
 
-    "在紧紧抓住你之前 笑一笑 这样你就能更紧紧地抓住他。"
+    "凯恩轻笑一声，把你搂得更紧，让你更贴合地躺在他身上。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2a8bb6a6:
 
-    c "我通常会在那之前去洗个澡 但我觉得你宁可打30个土匪 也不愿从你所在的地方搬走。"
+    c "我平时会在睡前洗个澡，不过我感觉，让你离开现在的位置，恐怕比打三十只陆鲨还难。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_40494427:
 
-    "你给他点个小点头。它本来是要加点力的,但是,鉴于你所投身的小空洞,这相当困难。"
+    "你轻轻点了点头。本想用力点头强调一下，但你蜷在这个小小的凹陷里，实在很难做到。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7310033d:
 
-    "凯恩笑,因为你甚至不 起身到诱饵, 并承认它。"
+    "凯恩见你没有上钩，反而直接承认了，便笑了起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c753de61:
 
-    c "好吧,好吧,因为你是如此诚实 因为它是如此诚实的,我们可以只是去 洗澡明天早上'。"
+    c "好吧，好吧，既然你这么诚实，那我们明早再洗澡吧。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_246e11d3:
 
-    c "得确保我的小伙子是不错的 干净的fer工作,不是吗?"
+    c "得把我的小伙子洗得干干净净，好去工作，对吧？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_284aaab4:
 
-    "随便你怎么说。"
+    "嗯嗯嗯……随你……说……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e023657a:
 
-    "当你慢慢沉入睡眠中 一切都会变得黑暗。"
+    "你慢慢沉入睡梦，眼前的一切渐渐暗了下去。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_2:
 
@@ -4355,19 +4355,19 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_2:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ef9b9a18:
 
-    "你记得的最后一件事是温暖。"
+    "你最后记得的，是温暖。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_175a2a59:
 
-    "甘蔗全身的热量像火炉一样发热 因为它的毛皮不能指望他能保住。"
+    "凯恩全身像火炉一样散发着热量，因为他的毛皮并不能替他保留体温。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f79823db:
 
-    "这通常会让你觉得不舒服, 但是... 感觉就像站在一个快乐的心灵面前 和一个爱人在一起一样。"
+    "这通常会让你感到不适，但……此刻却像和爱人一起坐在舒适的炉火前。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_753ce6e3:
 
-    "掉进温柔温暖的床上,就是凯恩 你睡在他房间里,安全地被包在他的怀里。"
+    "你渐渐沉入凯恩柔软温暖的怀抱，在他的房间里度过一夜，安稳地被他的双臂环绕。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_3:
 
@@ -4375,103 +4375,103 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_a20cefa7_3:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_59084c56:
 
-    "你一醒来就放出一个巨大的哈欠。"
+    "你一醒来就打了个巨大的哈欠。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3d490d9c:
 
-    c "累了吗?"
+    c "这么快就累了？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7ea3038c:
 
-    "你摇摆着,踩着脚,已经下床了。"
+    "你猛地一惊，跳下床站了起来。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_7c81bb21:
 
-    "看着你在哪里,你看到一个很有趣的甘蔗。"
+    "你回头看向刚才的位置，看见凯恩正颇为好笑地望着你。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_46ffbee2:
 
-    e "对不起,我忘了我在哪里,我习惯睡在我家的 国王的狗房里。"
+    e "抱歉，我忘了自己在哪里！我已经习惯睡在君临典当的房间里了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_fe02635c:
 
-    "凯恩用模拟怀疑主义引起眉毛。"
+    "凯恩挑起眉毛，装出怀疑的样子。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_6bb8cb5e:
 
-    c "你睡了这么多人,所以才有自以为是的。"
+    c "真令人意外，毕竟你平时到处找人睡的次数可不少。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9e9a570f:
 
-    "你冲红了,他..."
+    "你的脸一下红了。他……说得没错。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_eb3f0a66:
 
-    c "嗯,好吧,我不介意最终结果 - 我们需要 很快起床了。"
+    c "嗯，不过我不介意这个结果——反正我们本来就该起床了。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c0f32143:
 
-    e "是开场吗?"
+    e "已经到开门时间了吗？"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_58536e3d:
 
-    "望窗外,太阳完全升起..."
+    "你望向窗外，太阳已经完全升起……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_5bd524c8:
 
-    e "等等,你现在不是应该在酒馆工作吗?"
+    e "等等，你现在不是应该在酒馆工作吗？这可是你的营业时间。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2ce9554b:
 
-    "凯恩打哈欠作为回应。"
+    "凯恩打了个哈欠作为回应。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_0393f68e:
 
-    c "剩下的我可以用 特别是那样的一晚过后。"
+    c "我正好需要休息一下，尤其是经历了昨晚那样的夜晚之后。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_ab2c84cc:
 
-    "在摇头之前 凯恩给你打了一眨眼。"
+    "凯恩俏皮地朝你眨了眨眼，然后摇摇头。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_a0a8b712:
 
-    c "不是真的,只是我还没有休息一天 在那种感觉 像几个月,所以..."
+    c "倒也不是，只是感觉自己已经好几个月没休息过一天了，所以……我觉得休息一下也不错。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d9ba4111:
 
-    "很难分辨他是否是这个意思, 或者他只是想让你睡久一点, 但是... 你无论如何都别想从他身上得到答案。"
+    "很难说他是认真的，还是只是想让你多睡一会儿，但……无论如何，你都不会从他嘴里得到答案。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_8200d866:
 
-    e "我很高兴你请假了 特别是因为如果我想让所有赞助人 都来嘲笑我 我们一起做什么。"
+    e "嗯，你愿意休息我就放心了……尤其是我不知道自己是否想让所有客人继续拿我们一起做的事来取笑我。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_d2999b4e:
 
-    "凯恩,让我们拿出一个心肝的笑柄。"
+    "凯恩发出一阵爽朗的笑声。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_71337dea:
 
-    c "哦,小伙子,对不起,但无法阻止这个小镇的谣言。"
+    c "哦，小伙子……抱歉，但这个镇上的流言是阻止不了的。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2ab28295:
 
-    e "... 我猜。"
+    e "……我想也是。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_653c0ce1:
 
-    "看见你静静地停下来 凯恩从床上出来 拍拍你的肩膀。"
+    "凯恩见你若有所思地停住，便下床拍了拍你的肩膀。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_4ceda19b:
 
-    c "好吧,在你思考的时候, 为什么不自己清理干净。"
+    c "好吧，你慢慢想；不如先把自己清理干净。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_3aaf808a:
 
-    c "胸口上还满是干精液。"
+    c "你胸口上还到处都是干掉的精液。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c6173427:
 
-    "低头看,你看,他是对的 - 你的毛发已经腐烂 并被塞满了精液。"
+    "你低头一看，发现他说得没错——你的毛发被精液弄得打结，黏成了一团。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_9d2f2d12:
 
@@ -4479,370 +4479,370 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_9d2f2d12:
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_83956d0b:
 
-    c "我会给你客栈浴缸的钥匙 现在也许没有多少水了 但有一个桶你可以用 在回家和结束之前 最糟糕的脱水。"
+    c "我先把客栈浴缸的钥匙给你——里面可能没多少水，但你可以用桶先把身上最脏的地方冲掉，回家后再彻底洗干净。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e1121023:
 
-    "凯恩走到他的裤子旁边 口袋里有鱼 拿出钥匙。"
+    "说着，凯恩走到裤子旁，在口袋里摸索一番，掏出一把钥匙。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c5952719:
 
-    c "这里。"
+    c "给。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_e3e2e66c:
 
-    "他走过去,亲切地扭打你的头。"
+    "他走过来，亲昵地揉了揉你的脑袋。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_c9b55e2c:
 
-    c "如果你想保守秘密 我会一如既往地行事 但是..."
+    c "如果你想保守秘密，我会继续像平时那样表现，不过……"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2593db75:
 
-    "他眨眼。"
+    "他眨了眨眼。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_99477a71:
 
-    c "好吧,我们看看能持续多久。"
+    c "嗯，看看我们能这样维持多久吧。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_8027243b:
 
-    e "凯恩 你听说过那封信吗?"
+    e "……凯恩？你听说过……那封信吗？"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_dad25553:
 
-    c "狮子昨天在新闻上传播 就像草莓果酱在我的面包上。"
+    c "听说了，听说了。那头狮子昨天就把消息传开了，像把草莓酱抹在我的面包上一样。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_c4401ebf:
 
-    e "嗯..."
+    e "嗯……你怎么看？"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_b75af782:
 
-    c "拉姆是个好小伙子 他叫什么来着?"
+    c "那头公羊是个好小伙子……他叫什么来着？法、法尔？弗克？弗尔克——弗坎。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_2bbcf644:
 
-    e "是的,你见过他吗?"
+    e "对，你见过他吗？"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_2a03e59b:
 
-    c "是的,Yer屁股不在这里 当我们有点好兄弟 山羊部落。"
+    c "是啊，是啊。我们和山羊部落称兄道弟那会儿，你还没来呢。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_b0e8373c:
 
-    c "他是领袖的儿子 我们的英雄洛塔在入侵我们时杀了那个混蛋。"
+    c "他是首领的儿子，不过他们入侵我们时，咱们的英雄洛萨尔把那个混蛋杀了。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_5f6e8719:
 
-    e "我 -我明白了..."
+    e "我、我明白了……你信任他们吗？"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_1abfdea3:
 
-    c "你看,我还是得到了自己 一些秘密的成分 从他们。"
+    c "你看，我手里还留着从他们那儿弄来的几种秘密材料。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_07f23a3c:
 
-    c "所以..."
+    c "所以……或许算是信任吧。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_77bc5f11:
 
-    c "但他们在我们森林周围 做一些阴险的事 我猜 所以你做个裁判吧。"
+    c "不过，我想他们在我们森林附近也做了些见不得人的事，所以你自己判断吧。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_d6e80973:
 
-    e "非常感谢你提供的信息,凯恩。"
+    e "哦……好吧，谢谢你告诉我这些，凯恩。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_bba3d5dd:
 
-    c "没问题,好孩子。"
+    c "没问题，好小伙子。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_5518bece:
 
-    "在酒馆辛苦工作一天之后 你走到柜台拿工资。"
+    "在酒馆辛苦工作一天后，你走到柜台领取工资。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_f617c069:
 
-    "当甘蔗把金子交给你时,他阻止你一会儿。"
+    "凯恩把金币递给你时，突然把你叫住。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_516ca083:
 
-    c "等待 - 照顾一个建议,小伙子?"
+    c "等等——想听听一个提议吗，小伙子？"
 
 translate schinese_rewrite Cane_Event_Patron_Show_95bcf042:
 
-    e "这是什么,凯恩?"
+    e "什么事，凯恩？"
 
 translate schinese_rewrite Cane_Event_Patron_Show_e90c070a:
 
-    c "这么说吧,在酒馆的Yer服务 引起了人们的注意。"
+    c "这么说吧……你在酒馆的服务已经引起了不少人的注意。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_b0638855:
 
-    c "我收到很多私人演出的请求。"
+    c "我收到了不少……私人表演的请求。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_c4cf029f:
 
-    e "私人表演 这是什么意思？"
+    e "私人表演？那是什么意思？"
 
 translate schinese_rewrite Cane_Event_Patron_Show_d8315c4a:
 
-    c "意思是说,你要去让那个身体 使用和花一些优质的时间 与赞助者们,谁有你的屁股保留... 他们的享受。"
+    c "意思是，你要让那副身体派上用场，和那些预订了你的屁股、想享受你的客人共度一段美好时光。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_d766802a:
 
-    "这个想法让你脸红。"
+    "这个想法让你的脸红得像樱桃。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_fb111845:
 
-    e "我为什么要这么做?"
+    e "什、什么？可是……我为什么要做那种事？"
 
 translate schinese_rewrite Cane_Event_Patron_Show_dec9f2ac:
 
-    c "钱?"
+    c "钱？"
 
 translate schinese_rewrite Cane_Event_Patron_Show_7d400763:
 
-    c "感觉你玩得很开心。"
+    c "而且我感觉，你做这事也会很享受。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_b3514972:
 
-    "拐杖让你眨眨眼 故意低视裤腰部"
+    "凯恩朝你眨了眨眼，故意低头看向你的胯部。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_bc802a52:
 
-    c "别以为我看不到马哈 特别的小伙子在下面的主意。"
+    c "别以为我看不见，我的特别小伙子一想到这事，下面就硬起来了。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_cab05363:
 
-    "如果你以前是樱桃红 现在,你已经不知怎的 击中了红色的阴影 比草莓更亮。"
+    "刚才你的脸还红得像樱桃，现在不知怎么的，已经红得比覆盆子还鲜艳了。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_3a554196:
 
-    c "看着你们打得尴尬得要回去工作。"
+    c "看你害羞得手足无措确实很可爱，不过我总得找个时候回去工作。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_1f6a82a9:
 
-    c "这些家伙会多付一些钱 花一些高品质的独处时间 和我的酒馆的明星服务器打交道。"
+    c "这些家伙会额外付钱，和我酒馆的头牌服务员单独共度一段美好时光。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_a2ea2729:
 
-    e "人们真的会为此付出代价吗?"
+    e "人、人们真的会为这种事付钱吗？"
 
 translate schinese_rewrite Cane_Event_Patron_Show_4dec8e3a:
 
-    "凯恩让你有怀疑的眼神 只会在他意识到你是真的时 冷笑地笑。"
+    "凯恩先用怀疑的目光看着你，发现你是认真的后，才露出邪魅的笑容。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_3206b9ff:
 
-    c "小伙子,你不知道这间酒馆里有多少人 想要你一块。"
+    c "小伙子，你根本不知道这酒馆里有多少人想把你弄到手。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_6cdba73c:
 
-    "您太害羞,无法回应。"
+    "你羞得不敢回答。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_605821f2:
 
-    c "我知道这很突然,你为什么不去睡一觉?"
+    c "总之，我知道这有点突然。你不如先睡一觉，好好想想？别有压力。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_c93dad57:
 
-    c "只要跟我说话... 如果你靠着钱 或者想玩得开心。"
+    c "要是手头紧，或者只是想找点乐子，就来跟我说一声。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_12bbaf7f:
 
-    e "我——呃……我会想想的……"
+    e "我、呃……我会考虑一下……"
 translate schinese_rewrite Cane_Event_Patron_Show_0072c632:
 
-    c "想想吧 小伙子 我不会心怀怨恨 这是你的选择 我也不会逼你。"
+    c "好好想想，我的小伙子。我不会因此记恨你……这是你的选择，我不会逼你做任何决定。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_25e10c77:
 
-    c "我特别的小伙子,至少我欠你这么多。"
+    c "你是我的特别小伙子，至少这点尊重我还是欠你的。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_62df6135:
 
-    c "但请务必准备好,如果你同意的话。"
+    c "不过，如果你要答应，可一定要做好准备。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_74b6cd0d:
 
-    c "因为一旦你拿走了他们的钱 赞助人就是国王... 嗯..."
+    c "因为一旦你收了他们的钱，那位客人就是你的王……嗯哼……"
 
 translate schinese_rewrite Cane_Event_Patron_Show_ed31745b:
 
-    "突然,凯恩从柜台后面走出来 站在你身后 看着你的眼睛。"
+    "突然，凯恩从柜台后走出来，来到你身后；他先确认你眼中的许可，得到后才继续。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_b080ab2b:
 
-    "他轻轻地抓住你的臀部 之前,他刷他的手 在你的侧面 和低语 在你的耳边。"
+    "他轻轻握住你的髋部，随后双手沿你的身体向上抚过，在你耳边低语。"
 
 translate schinese_rewrite Cane_Event_Patron_Show_8231776a:
 
-    c "让他们有时间和我的性感小伙子一起生活。"
+    c "让他们和我性感的小伙子好好享受一番吧。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_02bce3f8:
 
-    e "凯恩 我想我会接受私人演出。"
+    e "凯恩，我想我愿意接下私人表演。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_00a4418a:
 
-    c "嘿,我想我对你说的没错。"
+    c "呵，看来我没看错你。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_dcabf27e:
 
-    "凯恩无动于衷地打你的屁股 让你大惊小怪。"
+    "凯恩若无其事地拍了下你的屁股，惹得你惊讶地叫了一声。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_120e7b68:
 
-    c "非常好 孩子 知道我会让他们很开心的。"
+    c "很好，小伙子。相信我，你会让他们非常满意的。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_86ba5b94:
 
-    "你的脸脸红了。"
+    "你的脸红了起来。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_b35433e6:
 
-    e "那么...我什么时候开始?"
+    e "那么……我什么时候开始？"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_c4665027:
 
-    "凯恩笑。"
+    "凯恩轻笑一声。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_6ac00643:
 
-    c "别这么快,我性感的小伙子,我们到后房去。"
+    c "别急，我性感的小伙子。我们会在后房进行。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_69251512:
 
-    c "我们不想把客房搞得一团糟,那太糟糕了。"
+    c "因为……我们可不想把客房弄得一团糟，那样对生意不好。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_0e754dac:
 
-    c "我帮你清理了空间,但是我们得把它弄出来。"
+    c "我已经给你清出一块地方，不过还得稍微装饰一下。得把它布置得漂漂亮亮的，配得上你。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_7a2dba75:
 
-    c "还要穿更适合穿的衣服去工作..."
+    c "你还需要穿点更适合这份工作的东西……"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_9c44ef3e:
 
-    c "你经常会穿衣服,但你知道的 有些顾客喜欢挑逗。"
+    c "你经常可能什么都不会穿，不过你懂的，有些客人喜欢这种挑逗。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_0e707758:
 
-    e "这... 听起来像很多。"
+    e "这……听起来事情不少。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_2245d267:
 
-    c "大部分工作都做完了 只需要你帮忙完成。"
+    c "大部分工作都做完了，只需要你帮忙做最后的收尾。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_ccd6eb5a:
 
-    "凯恩给你一份清单 这是枕头的食谱。"
+    "凯恩递给你一张清单，上面是制作枕头的配方。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_7633e33a:
 
-    c "你搬了几把椅子进房间,但是他们有点冷 相信我,你不想在某些地方有碎片。"
+    c "我已经把几把椅子搬进房间了，但它们还光秃秃的。相信我，你可不想让木刺扎进某些地方。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_60eff8d3:
 
-    "似乎他有经验 或过去犯过错误。"
+    "凯恩朝你眨了眨眼。看来他以前有过相关经验，或者吃过亏。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Accept_61b6436f:
 
-    c "所以,完成他们,我们继续前进。"
+    c "所以把它们做好，我们就可以继续了。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_a1e89c3b:
 
-    e "凯恩!我有...枕头。"
+    e "凯恩！我拿到……枕头了。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_7f16c15a:
 
-    c "啊... Lemme see."
+    c "啊……让我看看。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_9fb93d3f:
 
-    c "准备的好,小伙子。"
+    c "准备工作做得不错，小伙子。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_949bbae2:
 
-    c "一切都准备好了,准备就绪。"
+    c "一切都布置好了，随时可以开始。"
 
 translate schinese_rewrite Cane_Private_Show_Quest_Finish_285d392e:
 
-    c "将来,只要来找我 我会通知你,如果有 任何客户需要 参加在后房。"
+    c "以后你直接来找我；如果有客人需要在后房接受服务，我会通知你。"
 
 translate schinese_rewrite Cane_Private_Show_03cf1996:
 
-    "扭你的头发,打你的屁股, 把你带到酒馆的后面。"
+    "凯恩揉了揉你的头发，又拍了下你的屁股，把你带到酒馆后方。"
 
 translate schinese_rewrite Cane_Private_Show_506cc63f:
 
-    c "嘿,孩子,这是工作报酬。"
+    c "嘿，小伙子。这是这次工作的报酬。"
 
 translate schinese_rewrite Cane_Private_Show_a84dcabc:
 
-    "你拿钱。"
+    "你接过钱。"
 
 translate schinese_rewrite Cane_Private_Show_68789800:
 
-    c "一定得花点功夫,嗯?"
+    c "看来你肯定下了不少功夫，对吧？"
 
 translate schinese_rewrite Cane_Private_Show_1c878877:
 
-    "凯恩让你一眨眼,一巴掌打你的屁股。"
+    "凯恩朝你眨了眨眼，又拍了下你的屁股。"
 
 translate schinese_rewrite Cane_Private_Show_3b1a7504:
 
-    e "Eep!"
+    e "呀！"
 
 translate schinese_rewrite Cane_Private_Show_0a33bf2f:
 
-    c "我可以从\"eere\"听到声音"
+    c "我在这儿都能听见那些声音。"
 
 translate schinese_rewrite Cane_Private_Show_6c039a14:
 
-    "但你不能让凯恩 趁着这些大闹不拿回回报 就让凯恩跑了。"
+    "你羞得要命，但也不能任由凯恩这样调戏而不还击几句。"
 
 translate schinese_rewrite Cane_Private_Show_f8bda3c4:
 
-    e "也许我想让你们听听。"
+    e "也许我就是想让你听见。"
 
 translate schinese_rewrite Cane_Private_Show_e23948d0:
 
-    c "如果你做了,你做得很好。"
+    c "那你确实做得不错。"
 
 translate schinese_rewrite Cane_Private_Show_23743068:
 
-    c "酒馆听到你冲我走。"
+    c "我和酒馆里一半的人都听见你们在里面搞起来了。"
 
 translate schinese_rewrite Cane_Private_Show_18c66091:
 
-    c "听起来好像你做得很好 特别是如果顾客的脸面有什么东西"
+    c "听起来你做得很棒，尤其从那位客人的表情就能看出来。"
 
 translate schinese_rewrite Cane_Private_Show_806fee95:
 
-    "凯恩在低声点之前 笑得心痛。"
+    "凯恩爽朗地笑了一声，然后稍稍压低嗓音。"
 
 translate schinese_rewrite Cane_Private_Show_643867fa:
 
-    c "我不能说我怪他们 和你这样的小伙子。"
+    c "有你这样的小伙子，我也不能怪他们。"
 
 translate schinese_rewrite Cane_Private_Show_579cd8c3:
 
-    "从你那时的惊慌失措的眼神下 发现凯恩裤子上 有个特别的溢出和湿点。"
+    "你从慌乱中稍稍回过神低头一看，注意到凯恩裤子上有一处明显的凸起和湿痕。"
 
 translate schinese_rewrite Cane_Private_Show_3cd8d1f1:
 
-    e "看来他们不是唯一喜欢这个节目的人。"
+    e "看来享受这场表演的可不只他们。打赌你也在想，什么时候进去试试。"
 
 translate schinese_rewrite Cane_Private_Show_09bc1806:
 
-    c "小子,你别太过份了,你需要更多来对付这老球棒。"
+    c "哈！别急着得意，小伙子。想追到我这只老蝙蝠，光靠这个可不够。"
 
 translate schinese_rewrite Cane_Private_Show_28bae33c:
 
-    c "继续这样下去 后门会比酒馆前门更受欢迎！"
+    c "照这样下去，后房很快就会比酒馆前厅还受欢迎！"
 
 translate schinese_rewrite Cane_Private_Show_eaf1f12d:
 
@@ -4850,143 +4850,143 @@ translate schinese_rewrite Cane_Private_Show_eaf1f12d:
 
 translate schinese_rewrite Cane_Private_Show_0901abbc:
 
-    e "我只是做了那种感觉自然的事。"
+    e "我……我只是顺其自然罢了。"
 
 translate schinese_rewrite Cane_Private_Show_d22d7266:
 
-    c "下巴,小伙子,你干得不错,就像我知道的一样。"
+    c "抬起头来，小伙子。你做得很棒，就像我知道的那样。"
 
 translate schinese_rewrite Cane_Private_Show_898c37db:
 
-    c "你们确保了把每件东西都清理干净吗?"
+    c "你确认把一切都清理干净了吗？"
 
 translate schinese_rewrite Cane_Private_Show_9a941dbf:
 
-    e "我做到了。"
+    e "清理干净了。"
 
 translate schinese_rewrite Cane_Private_Show_631f560d:
 
-    "再一次在你的角角之间 翻翻皮毛。"
+    "凯恩再次揉了揉你两只角之间的毛发。"
 
 translate schinese_rewrite Cane_Private_Show_8b6c73e7:
 
-    c "好孩子。"
+    c "好小伙子。"
 
 translate schinese_rewrite Cane_Private_Show_c8708ab7:
 
-    "他说话的时候声音很温暖 声音的震动 以你从未听过的方式发抖。"
+    "他说这话时声音异常温柔，沙哑的嗓音染上你从未听过的色彩。"
 
 translate schinese_rewrite Cane_Private_Show_4abba32f:
 
-    c "事情一直这样下去,我们也许需要塔 给酒馆增加一些新的特征, 突出我们的明星小伙子,你知道的。"
+    c "照这样下去，我们也许很快得给酒馆添点新项目，突出我们这位明星小伙子，你懂的。"
 
 translate schinese_rewrite Cane_Private_Show_42241238:
 
-    "你的身体发热,你的脸红了 与同样部分的兴奋和尴尬 从该句所固有的潜力。"
+    "这句话背后的可能性让你既兴奋又尴尬，身体发热，脸也红了起来。"
 
 translate schinese_rewrite Cane_Private_Show_f65290eb:
 
-    e "你猜对了,老板。"
+    e "明白，老板。"
 
 translate schinese_rewrite Cane_Private_Show_3f6aac37:
 
-    c "尤斯叫我凯恩,小子,至少你应得的。"
+    c "叫我凯恩就好，小伙子。至少这点亲近，你还是值得的。"
 
 translate schinese_rewrite Cane_Private_Show_e05d7a03:
 
-    "凯恩在离开后门时 头部被打碎了。"
+    "你离开后房时，凯恩揉了揉你的脑袋，送你离开。"
 
 translate schinese_rewrite Cane_Private_Show_1fe01610:
 
-    c "你干得不错,小伙子。"
+    c "你做得很棒，我的小伙子。"
 
 translate schinese_rewrite Cane_Private_Show_8bdd27fa:
 
-    e "我不能说这不好玩。"
+    e "嗯……我不能说这不开心。"
 
 translate schinese_rewrite Cane_Private_Show_c6cf328d:
 
-    "凯恩大笑。"
+    "凯恩粗声笑了起来。"
 
 translate schinese_rewrite Cane_Private_Show_81412631:
 
-    c "\"很容易说,你总是回来\" 回来更多。"
+    c "这不难看出来，你总是回来要求更多。"
 
 translate schinese_rewrite Cane_Private_Show_784b1f25:
 
-    c "我不会阻止你的,这是好事。"
+    c "我不会拦你，毕竟这可是好生意。"
 
 translate schinese_rewrite Cane_Private_Show_af7bfca1:
 
-    e "我有一种感觉,你得到的比钱多一点 从这个..."
+    e "我觉得你从中得到的可不只是钱……"
 
 translate schinese_rewrite Cane_Private_Show_b6c34351:
 
-    c "很高兴看到你这样,小伙子。"
+    c "我不否认。看到你这样，我也很开心，小伙子。"
 
 translate schinese_rewrite Cane_Private_Show_41431b1b:
 
-    "凯恩的眼神从他的眼睛向下闪烁到他裤子里铺着的帐篷上,他的阴茎的厚长长明显可见。 他靠在耳边低语,温暖的呼吸让你的耳朵发痒。"
+    "凯恩的目光向下瞥向裤子里撑起的帐篷，肉棒龟头的粗重轮廓清晰可见。他俯身低语，温热的呼吸撩过你的耳朵。"
 
 translate schinese_rewrite Cane_Private_Show_b334ef30:
 
-    c "我知道下楼的人不会介意的 如果由他决定 你们会和我一起去后门 给我一些特别服务。"
+    c "我敢肯定，下面那家伙不介意。要是由他做主，你早就该跟我去后房，给我来点你的特别服务了。"
 
 translate schinese_rewrite Cane_Private_Show_e6c24586:
 
-    e "我... 不介意这么做。"
+    e "我……一点也不介意。"
 
 translate schinese_rewrite Cane_Private_Show_4bda3ab2:
 
-    "你听见了吗? 肯尼拉特, 惩罚你急欲冲撞的欲望, 又靠在一边, 停止低语。"
+    "你听见凯恩啧了一声，像是在责备你急着往前冲的欲望；他又向后仰开，停止低语。"
 
 translate schinese_rewrite Cane_Private_Show_f94ef217:
 
-    c "别再说这些了,我们得回去做这些杂事了。"
+    c "现在别再说这个了。我们得回去招待那些闲散客人了。"
 
 translate schinese_rewrite Cane_Private_Show_ee71b727:
 
-    "凯恩给你打屁股 让你笑得像魔鬼一样。"
+    "凯恩用力拍了下你的屁股，露出恶作剧般的笑容。"
 
 translate schinese_rewrite Cane_Private_Show_3f06c7ad:
 
-    c "期待你下次来后门。"
+    c "期待你下次来后房。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_325e8898:
 
-    e "嘿,凯恩,你对村子了解多少?"
+    e "嘿，凯恩。你对村子了解多少？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_e98648d4:
 
-    c "我知道很多关于村子的事,[e] 每个人都跟我谈他们的故事。"
+    c "我知道得可多了，[e]。每个人都会跟我讲他们的小故事。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_3fa6e25b:
 
-    e "这里的人呢? 你认识他们吗?"
+    e "这里的人呢？你都认识吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_46bc6fbd:
 
-    c "我们的英雄洛塔是这里的常客。"
+    c "你这自作聪明的家伙，当然认识。我们的英雄洛萨尔是这里的常客，晚上你大概就能在这儿看到他。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_f34c2489:
 
-    c "他身边有一群蠢货像苍蝇一样 绕着一块面包飞来飞去。"
+    c "他身边还总围着那群蠢货，像苍蝇围着一块面包嗡嗡叫。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_0d745029:
 
-    e "明白了,雷希姆怎么办?"
+    e "明白了。那拉希姆呢？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_ea0dfdc0:
 
-    c "那头老公牛 你为什么说起他 他派你来的?"
+    c "那头老公牛？你怎么突然提起他，是他派你来的吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_10a023b2:
 
-    e "Uhhh... noo?"
+    e "呃……没、没有？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_d3a5c7d1:
 
-    c "想惹麻烦,去他老店里,别胡说八道。"
+    c "想惹麻烦就去他那间破店，听见没？别在我这里搞什么怪事。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_d35aaf4c:
 
@@ -4994,235 +4994,235 @@ translate schinese_rewrite Cane_Ask_Lusterfield_d35aaf4c:
 
 translate schinese_rewrite Cane_Ask_Lusterfield_3694ee9e:
 
-    e "那店里的人呢?"
+    e "那店里的人呢？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_ba30f6f4:
 
-    c "你是说狮子和店主?"
+    c "你是说那头狮子和店主？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_cab56a3b:
 
-    e "塞巴斯不是店主吗?"
+    e "塞巴斯不是店主吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_5d565e7c:
 
-    c "我不知道,我看起来像那种 参观当铺的人吗?"
+    c "我哪知道？我看起来像会去逛典当铺的人吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_2d765ff7:
 
-    e "也许?"
+    e "也许吧？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_1c0bcb93:
 
-    c "不管怎么说,狮子有时会来这里 我不知道什么时候,可能是周末。"
+    c "不管怎么说，那头狮子有时会来。我不知道具体什么时候，大概是周末吧。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_86f77d8d:
 
-    c "通常他喝醉后我都能从狮子嘴里挤出一些谣言 就像醉得要命。"
+    c "通常等那头狮子喝醉后，我能从他嘴里套出些传闻。得是醉得不省人事的那种。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_20f16f70:
 
-    e "他清醒的时候你就不能不做吗?"
+    e "他清醒的时候，你就不能套话吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_19702dcb:
 
-    c "哈,看看他,你觉得我会费心 和醉狮子说话比较容易,就像在桶里打鱼一样。"
+    c "哈，看看他。你觉得我会费那个劲吗？和醉狮子聊天容易多了，简直是瓮中捉鳖。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_5dc8ec35:
 
-    e "这是什么意思?"
+    e "什么意思？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_75078363:
 
-    c "店里的另一个人 奥利 我们聊了几句 不多 他站在公牛一边。"
+    c "不管了。店里另一个人奥利，我和他聊过几次，但不多。他站在那头公牛一边。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_20342b90:
 
-    e "为了什么?"
+    e "为了什么？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_a20e4a04:
 
-    c "山羊部落的麻烦 那头公牛认为我是告密者。"
+    c "山羊部落那档子事。那头公牛觉得我是告密者。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_ff25ae64:
 
-    e "但是..."
+    e "可……你是吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_18e401e6:
 
-    c "让他们破坏我的家,是可行的商业策略?"
+    c "不是，我为什么会是？我在这儿有自己的全部生意。你觉得任由他们毁了我的家，是条可行的经营策略吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_354a4300:
 
-    e "你向他解释了吗?"
+    e "你向他解释过吗？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_f58e24ef:
 
-    c "没关系,已经几年了。"
+    c "没什么好说的。都过去几年了。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_4a7bedd3:
 
-    e "我试试看你们能不能..."
+    e "我会试着看看你们能不能和解……"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_76014c88:
 
-    c "别费心了 [e] 你在浪费时间。"
+    c "别费心了，[e]。你只是在浪费时间。"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_1d0e5d7c:
 
-    e "嗯?"
+    e "嗯……？"
 
 translate schinese_rewrite Cane_Ask_Lusterfield_907a1932:
 
-    c "{p} 你在浪费时间。"
+    c "咳咳……{p}你只是在浪费时间。"
 
 translate schinese_rewrite Cane_Ask_Tavern_83fd7086:
 
-    e "嘿,凯恩,你能告诉我酒馆的历史吗?"
+    e "嘿，凯恩。你能告诉我酒馆的历史吗？"
 
 translate schinese_rewrite Cane_Ask_Tavern_228791d4:
 
-    c "对啊,对啊。人们每次来都问这个,好像他们找到了一些金子一样。"
+    c "是啊，是啊。每次来的人都要问这个，好像发现了金矿似的。"
 
 translate schinese_rewrite Cane_Ask_Tavern_15d3f868:
 
-    c "这间酒馆从村落一开始就来过这里 80年前?"
+    c "这间酒馆从村子建立之初就一直在这儿了，差不多八十年前吧？"
 
 translate schinese_rewrite Cane_Ask_Tavern_51e9a4e3:
 
-    e "哇,那是很长一段时间。"
+    e "哇，那可真久。"
 
 translate schinese_rewrite Cane_Ask_Tavern_49a3efe8:
 
-    c "我20岁的时候我爸给我的,在你这个年纪的地方 我照顾它已经37年了。"
+    c "我二十岁时我爸把它交给了我，差不多就是你现在的年纪。我已经照料它整整三十七年了。"
 
 translate schinese_rewrite Cane_Ask_Tavern_3f440387:
 
-    c "这个酒馆是我的一切 我打算保持这样。"
+    c "这间酒馆就是我的一切，我打算一直守着它。"
 
 translate schinese_rewrite Cane_Ask_Tavern_a45af4fe:
 
-    e "需要别人帮忙吗?"
+    e "你还需要别人来帮忙吗？"
 
 translate schinese_rewrite Cane_Ask_Tavern_5b1bcb1b:
 
-    c "某人,你觉得找人来送酒这么容易吗?"
+    c "当然需要人手。你以为找个人端酒有那么容易吗？所以我才想让你来替我工作几个小时。"
 
 translate schinese_rewrite Cane_Ask_Tavern_01f43739:
 
-    e "Mayber later..."
+    e "也许以后吧……"
 
 translate schinese_rewrite Cane_Ask_Tavern_7b457a2f:
 
-    c "哈。后来是。"
+    c "哈，那就以后再说。"
 
 translate schinese_rewrite Cane_Ask_Himself_fd1c6e9a:
 
-    e "凯恩,你好吗?"
+    e "凯恩，你最近怎么样？"
 
 translate schinese_rewrite Cane_Ask_Himself_06444a59:
 
-    c "我在做什么?"
+    c "你觉得我在干什么？"
 
 translate schinese_rewrite Cane_Ask_Himself_abb3b16f:
 
-    e "嗯... 你在和你的客户说话?"
+    e "嗯……你刚才在和客人说话？"
 
 translate schinese_rewrite Cane_Ask_Himself_9be11dfb:
 
-    c "错,我跟一个被指控的龙说话 他来这里免费谈。"
+    c "错。我在和一条所谓的龙说话，他总来这里免费聊天。"
 
 translate schinese_rewrite Cane_Ask_Himself_2a9e8f16:
 
-    e "嘿,听着,我晚点再请你喝一杯,好吗?"
+    e "嘿……这样，我待会儿买杯酒，行吗？"
 
 translate schinese_rewrite Cane_Ask_Himself_8250175a:
 
-    c "好,别浪费我的时间 和别人聊天,[e]。"
+    c "好。别拿闲聊浪费我的时间，[e]。"
 
 translate schinese_rewrite Cane_Dialogue_End_5c4dfe36:
 
-    e "就这样。谢谢你,凯恩。"
+    e "就这些了。谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Dialogue_End_9b06c336:
 
-    c "那就好好享受你留在夜幕之夜吧。"
+    c "那就祝你在夜幕之夜待得愉快。"
 
 translate schinese_rewrite Cane_First_d2df1bbe:
 
-    "酒和酵母的气味 渗入你的鼻子 一旦你打开门, 你试图捏住鼻子 在强烈的酒精下。"
+    "你一打开门，酒精和酵母的气味便钻进鼻子。浓烈的酒气让你下意识捏住鼻子；一个紫色的身影从你面前现身。"
 
 translate schinese_rewrite Cane_First_ca451f31:
 
-    my "欢迎来到新夜车轮,[e]。"
+    my "欢迎来到夜夜椿，[e]。"
 
 translate schinese_rewrite Cane_First_54d14e14:
 
-    e "- 等等,你怎么知道我的名字?"
+    e "你好——等等，你怎么知道我的名字？"
 
 translate schinese_rewrite Cane_First_8a74c83b:
 
-    my "那个臭小子洛萨尔告诉我 外面有个山羊不尊重他[e]。"
+    my "那个壮实的洛萨尔告诉我，有个外来的山羊不尊重他。你还真敢把他的名字说成那样，[e]。"
 
 translate schinese_rewrite Cane_First_60610ff3:
 
-    e "我是龙,但是我,很高兴认识你,你叫什么名字?"
+    e "我是条龙……不过，没错，就是我。很高兴认识你——呃，你叫什么来着？"
 
 translate schinese_rewrite Cane_First_f81c78e6:
 
-    my "洛萨尔告诉我 昨天有个山羊人来到乐斯民菲尔德 一定是你叫[e]。"
+    my "那个壮实的洛萨尔告诉我，昨天有个山羊小伙子来到了老乐斯民菲尔德。肯定就是你了，[e]。"
 
 translate schinese_rewrite Cane_First_60610ff3_1:
 
-    e "我是龙,但是我,很高兴认识你,你叫什么名字?"
+    e "我是条龙……不过，没错，就是我。很高兴认识你——呃，你叫什么来着？"
 
 translate schinese_rewrite Cane_First_f76efaf7:
 
-    c "是的,我告诉你我的名字,这是Cone,这里是我的家。"
+    c "行，我告诉你。我叫科恩，这家店归我。*嗝*，失礼了，先生。你不是记不住别人的名字嘛？"
 
 translate schinese_rewrite Cane_First_77b7e6b2:
 
-    e "我昨天刚到 怎么会记得每个人的名字?"
+    e "我昨天才刚到……怎么可能记得每个人的名字？"
 
 translate schinese_rewrite Cane_First_75386d78:
 
-    c "不如这样,先生,下次你来时 想打赌你记得我的名字吗?"
+    c "这样吧，先生。下次你再来时，咱们赌一把，看你能不能记住我的名字？"
 
 translate schinese_rewrite Cane_First_c5553849:
 
-    e "我们赌什么?"
+    e "赌什么？"
 
 translate schinese_rewrite Cane_First_8a970462:
 
-    c "如果你下次不叫我的名字 那50个黄金是我的。" nointeract
+    c "五十枚金币，怎么样？下次你叫不出我的名字，这五十枚金币就是我的了。" nointeract
 
 translate schinese_rewrite Cane_First_4c7bc377:
 
-    e "我当然记得你的名字 你刚才告诉我的。"
+    e "当然记得，你刚才不是告诉我了吗？"
 
 translate schinese_rewrite Cane_First_40247c33:
 
-    c "我一定要确定你真的能用你的大脑, 唯一的赌注。"
+    c "我得确认你是真会动脑子，赌局可不是闹着玩的。"
 
 translate schinese_rewrite Cane_First_364c5444:
 
-    c "但如果你输了,你没有五十块金子给我 你就得看看会发生什么。"
+    c "可要是你输了，又拿不出五十枚金币给我……那就得看看会发生什么了。"
 
 translate schinese_rewrite Cane_First_ee3b9383:
 
-    e "很简单 Cone 你真的觉得我那么蠢。"
+    e "这太简单了，科恩。你真觉得我有那么蠢吗？"
 
 translate schinese_rewrite Cane_First_e116a3b7:
 
-    c "那么,享受你留在夜幕之夜吧!"
+    c "那就好好享受你在夜夜椿的时光吧！"
 
 translate schinese_rewrite Cane_First_5ab7a9a2:
 
-    e "不是真的,我不相信你的赌注。"
+    e "不了，我不信你这赌局。"
 
 translate schinese_rewrite Cane_First_f3859ebe:
 
-    c "确定吗?"
+    c "你确定？这可是千载难逢的机会。"
 
 translate schinese_rewrite Cane_First_879634cc:
 
@@ -5230,35 +5230,35 @@ translate schinese_rewrite Cane_First_879634cc:
 
 translate schinese_rewrite Cane_First_7a4142b1:
 
-    c "好吧,猜你这个小脑袋 只能留给狼人,不是我。"
+    c "行吧。看来你那点小脑子只肯用在小狼身上，不肯用在我身上。"
 
 translate schinese_rewrite Cane_First_93cd8604:
 
-    c "听着 我叫凯恩 不是科恩 哪个蠢名字这么蠢。"
+    c "听好了……我叫凯恩，不是科恩。科恩是个什么蠢名字？"
 
 translate schinese_rewrite Cane_First_ef9f0a5f:
 
-    e "等一等,你就在撒谎。"
+    e "等等，所以你刚才一直在骗我？"
 
 translate schinese_rewrite Cane_First_9bc4f675:
 
-    c "我猜塞巴斯和奥勒把你带到了他们的当铺里 一定是和那些小男孩住在一起的甜蜜梦吧?"
+    c "我猜你已经被塞巴斯和奥利收留在他们那间小典当铺了。和那两个年轻小伙子住在一起，感觉一定不错吧？"
 
 translate schinese_rewrite Cane_First_af5d1ebc:
 
-    e "停止回避我的问题,凯恩。"
+    e "别回避我的问题，凯恩。"
 
 translate schinese_rewrite Cane_First_fd7e9955:
 
-    c "亚50金很容易赚到,只是个错误方向。此外,商店里的那些混蛋会以这样或那样的方式告诉我我的名字。"
+    c "你以为五十枚金币那么容易赚？这只是个小小的误导。再说，不管怎样，店里那群家伙迟早都会把我的名字告诉你。"
 
 translate schinese_rewrite Cane_First_adba2ae5:
 
-    e "你仍然骗我, 误导与否。"
+    e "不管是不是误导，你还是骗了我。"
 
 translate schinese_rewrite Cane_First_cebf7e47:
 
-    c "对啊 查尔会怎么做 哭你的蜥蜴爸爸 就像他哭的那个老混蛋一样?"
+    c "是啊，那又怎样？你能拿我怎么办？去找你的蜥蜴爸爸哭诉，就像他跑去找那头老公牛哭诉一样？"
 
 translate schinese_rewrite Cane_First_d19f855d:
 
@@ -5266,7 +5266,7 @@ translate schinese_rewrite Cane_First_d19f855d:
 
 translate schinese_rewrite Cane_First_33af252e:
 
-    c "连我的标准都差太多了 不如这样 拿走50块金子 享受剩下的一天吧。"
+    c "好吧，这话就连我自己听着都过分了。这样吧，拿上五十枚金币，剩下的时间好好过。"
 
 translate schinese_rewrite Cane_First_879634cc_1:
 
@@ -5274,7 +5274,7 @@ translate schinese_rewrite Cane_First_879634cc_1:
 
 translate schinese_rewrite Cane_First_f25f291c:
 
-    c "看,要么接受,要么放弃。"
+    c "拿着，或者不要。"
 
 translate schinese_rewrite Cane_First_72a33094:
 
@@ -5282,123 +5282,123 @@ translate schinese_rewrite Cane_First_72a33094:
 
 translate schinese_rewrite Cane_First_c9dfabe5:
 
-    c "... 100金。"
+    c "……一百枚金币。"
 
 translate schinese_rewrite Cane_First_c8902e05:
 
-    e "好吧,然后。 (你收到100金。 )"
+    e "好吧。（你获得了100枚金币。）"
 
 translate schinese_rewrite Cane_First_5435e904:
 
-    c "我的朋友,你有个美好的未来,[e]。"
+    c "我的朋友，你的前途一片光明，[e]。那就好好享受你在夜夜椿的时光吧。"
 
 translate schinese_rewrite Cane_Second_20496e09:
 
-    my "欢迎回到新夜车库 [e] 还记得我的名字吗?"
+    my "欢迎回到夜夜椿，[e]。还记得我的名字吗？"
 
 translate schinese_rewrite Cane_Second_ec6d9d4d:
 
-    e "当然,我觉得你..." nointeract
+    e "当然，我想你是……" nointeract
 
 translate schinese_rewrite Cane_Second_39c78d47:
 
-    e "\"康纳\",是吗?"
+    e "……科娜？是这个吗？"
 
 translate schinese_rewrite Cane_Second_5bbe7ace:
 
-    e "\"Cone\",是吗?"
+    e "……科恩？是这个吗？"
 
 translate schinese_rewrite Cane_Second_9c78f713:
 
-    e "\"Ceno?\"是吗?"
+    e "……塞诺？是这个吗？"
 
 translate schinese_rewrite Cane_Second_8c733a72:
 
-    e "\"卡纳?\"是吗?"
+    e "……卡娜？是这个吗？"
 
 translate schinese_rewrite Cane_Second_2219d90e:
 
-    e "\"Cena?\"是吗?"
+    e "……塞娜？是这个吗？"
 
 translate schinese_rewrite Cane_Second_48cdf90f:
 
-    e "康尼,我听说过你的名字。"
+    e "……凯恩？这个名字我在别处听过。"
 
 translate schinese_rewrite Cane_Apron_Quest_4375ebc2:
 
-    c "雅私生子龙,过来。"
+    c "你这混账小龙，过来。"
 
 translate schinese_rewrite Cane_Apron_Quest_f0e3787a:
 
-    e "怎么了?"
+    e "怎么了？凯恩……？"
 
 translate schinese_rewrite Cane_Apron_Quest_430e8140:
 
-    "你跟着凯恩进衣橱室 他拿起你以前在灰尘地板上工作的围裙。"
+    "你跟着凯恩进了杂物间。他从积灰的地板上捡起你工作时穿的围裙，拿给你看。"
 
 translate schinese_rewrite Cane_Apron_Quest_eea4911b:
 
-    c "你在这里看到问题所在吗?"
+    c "你看出问题了吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_fdc9949b:
 
-    e "嗯,我不知道,等等,停机坪现在有个洞。"
+    e "嗯……我没看出来。等、等等……围裙上怎么有个洞？"
 
 translate schinese_rewrite Cane_Apron_Quest_4957478b:
 
-    c "是的,你弄坏了我的围裙,这是我唯一的围裙,你弄坏了。"
+    c "没错，你这个笨蛋。你把我的围裙弄坏了。这是我唯一一件围裙，而且被你弄得够呛。"
 
 translate schinese_rewrite Cane_Apron_Quest_cbfc644e:
 
-    e "我发誓上次我工作的时候,我感觉很好 你确定没人碰过它吗?"
+    e "我发誓，我上次工作时它看起来还好好的。你确定没别人碰过？"
 
 translate schinese_rewrite Cane_Apron_Quest_0125d977:
 
-    c "我把它弄坏了吗?"
+    c "你以为是我弄坏的？在上面捅个洞，就像你店里那帮朋友每天捅你屁股上的洞一样？明明只有你碰过它，小子。"
 
 translate schinese_rewrite Cane_Apron_Quest_3045e0ca:
 
-    e "我不知道 对不起。"
+    e "呃……我不知道……对不起。"
 
 translate schinese_rewrite Cane_Apron_Quest_0e317473:
 
-    c "我想你们工作的时候 可能没有围裙了。"
+    c "唉……好吧。我看你干活时是没围裙可穿了。"
 
 translate schinese_rewrite Cane_Apron_Quest_1bae8ad1:
 
-    e "不过,我还以为你们的老板喜欢围裙呢?"
+    e "可是……我以为你的客人喜欢看我穿这件围裙？"
 
 translate schinese_rewrite Cane_Apron_Quest_5217820e:
 
-    c "所以我才不让你再毁掉它 我要把它收起来直到时间结束。"
+    c "正因为这样，我才不能再让你把它弄得更惨。我会把它收起来，直到时间的尽头。"
 
 translate schinese_rewrite Cane_Apron_Quest_50f49204:
 
-    e "嘿,凯恩,我想了个办法来修围裙 雷希姆,我肯定他知道怎么轻易修洞。"
+    e "嘿，凯恩。我想到办法修好……围裙了。雷希姆肯定知道怎么轻松补上这个洞。"
 
 translate schinese_rewrite Cane_Apron_Quest_d0088566:
 
-    c "\"不,不要这样做。\"。"
+    c "……不。别去。"
 
 translate schinese_rewrite Cane_Apron_Quest_e4441b97:
 
-    e "不如我拿给他吧 我会向他解释这是我的围裙。"
+    e "我把它拿给他怎么样？我会向他解释这是我的围裙。"
 
 translate schinese_rewrite Cane_Apron_Quest_3e2fc7d1:
 
-    c "他做了围裙,你个蠢货,我不能把它 交给那个无缘无故就憎恨我的造物主。"
+    c "这围裙就是他做的，你这个糊涂蛋。我可不能把它拿给那个莫名其妙恨我的制作者。"
 
 translate schinese_rewrite Cane_Apron_Quest_3350ee3f:
 
-    e "你真的想把这个秘密带进坟墓吗?"
+    e "我……你总得想办法修好它。你真想把这个秘密带进坟墓吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_38f241db:
 
-    c "让它安息吧,这是古老的历史。"
+    c "让它过去吧。那都是陈年往事了。"
 
 translate schinese_rewrite Cane_Apron_Quest_0d99119f:
 
-    e "真的那么难吗?"
+    e "真有那么难吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_d19f855d:
 
@@ -5406,71 +5406,71 @@ translate schinese_rewrite Cane_Apron_Quest_d19f855d:
 
 translate schinese_rewrite Cane_Apron_Quest_5f7fb295:
 
-    c "你说话就像我见过的最好的小伙子。"
+    c "你这话说得像我见过的最优秀的小伙子。"
 
 translate schinese_rewrite Cane_Apron_Quest_ea4bc82b:
 
-    e "Whoo?"
+    e "谁？"
 
 translate schinese_rewrite Cane_Apron_Quest_c9668ba0:
 
-    c "那个胖牛为谁做的围裙。"
+    c "就是那头胖公牛当年给做这件围裙的那个小伙子。"
 
 translate schinese_rewrite Cane_Apron_Quest_ef85acb8:
 
-    e "不要再分散我的注意力..."
+    e "别再把我的注意力扯开了……"
 
 translate schinese_rewrite Cane_Apron_Quest_ac22fca4:
 
-    c "没错,我并不总能让年轻男孩们 得到这种不可阻挡的能量,但你们都把它提升到了另一个水平。"
+    c "是真的。我可不是总能应付年轻小伙子那股没完没了的精力。可你们两个把它发挥到了另一个层次。"
 
 translate schinese_rewrite Cane_Apron_Quest_ad43b1b5:
 
-    c "那个小伙子,我打雷时把他抓起来。"
+    c "那个小伙子……我是在一场雷雨里收留他的。"
 
 translate schinese_rewrite Cane_Apron_Quest_b2f70962:
 
-    c "他是我见过的最伟大 最热情和慷慨的人。"
+    c "他是我见过最伟大、最热烈、也最慷慨的人。"
 
 translate schinese_rewrite Cane_Apron_Quest_5083b416:
 
-    e "是..."
+    e "曾经……？呃……抱歉——"
 
 translate schinese_rewrite Cane_Apron_Quest_eb1c30a8:
 
-    c "他还活着,至少是我最后一次听说的 他以前跟你一样,但是..."
+    c "据我最后听到的消息，他还活着。他以前和你很像。可……酒馆腐化了他。"
 
 translate schinese_rewrite Cane_Apron_Quest_ed2bef55:
 
-    e "Hmm... H-how?"
+    e "嗯……怎、怎么腐化的？"
 
 translate schinese_rewrite Cane_Apron_Quest_d5fbfc21:
 
-    c "是我,他在这待了十年,我让他这样..."
+    c "是我。那短短十年里，他一直待在这里……是我把他变成了这样……"
 
 translate schinese_rewrite Cane_Apron_Quest_a5660b9a:
 
-    e "凯恩,你在说什么?"
+    e "嘿……凯恩。你到底在说什么？"
 
 translate schinese_rewrite Cane_Apron_Quest_16098242:
 
-    "肯尼叹气,看着天花板,他思考一秒钟, 你可以感觉到他的悲伤 即使他不流泪。"
+    "凯恩叹了口气，望着天花板，沉思片刻。即使他没有流泪，你也能感受到他的悲伤。"
 
 translate schinese_rewrite Cane_Apron_Quest_821531a8:
 
-    c "我让他像我一样,我太贪婪,自私。"
+    c "是我把他变得和我一样——变成这个贪吃又自私的我。"
 
 translate schinese_rewrite Cane_Apron_Quest_ad434ebf:
 
-    c "那小子走了 离他离开村子还远着呢 但围裙还是值得回忆的 至少我想。"
+    c "那个小伙子早就不在了——早在他真正离开村子之前，他就已经离开了我。不过，这件围裙至少还能让我回忆起他……我想是这样。"
 
 translate schinese_rewrite Cane_Apron_Quest_6c4f6682:
 
-    e "它一定对你很重要。"
+    e "这对你一定意义重大。"
 
 translate schinese_rewrite Cane_Apron_Quest_5f6cecea:
 
-    c "是的,我是我,[e],你改变不了。"
+    c "没错……我就是我，[e]。这一点你改变不了。"
 
 translate schinese_rewrite Cane_Apron_Quest_d19f855d_1:
 
@@ -5482,331 +5482,331 @@ translate schinese_rewrite Cane_Apron_Quest_c462df8d:
 
 translate schinese_rewrite Cane_Apron_Quest_dabe232f:
 
-    e "等待... 真的?"
+    e "等等……真的？"
 
 translate schinese_rewrite Cane_Apron_Quest_d3a1b47a:
 
-    c "几分钟前你是不是坚持要舔他的老二?"
+    c "刚才几分钟前你不是还坚持要舔他的鸡巴吗？快把这该死的围裙拿给他。"
 
 translate schinese_rewrite Cane_Apron_Quest_15ae1031:
 
-    c "我有个主意,想再跟我赌一局吗?"
+    c "对了，我有个主意。要不要再和我赌一局？"
 
 translate schinese_rewrite Cane_Apron_Quest_a3a74ed9:
 
-    e "什么?你喝醉了吗?"
+    e "什么？凯恩，你喝醉了吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_4e97f1f2:
 
-    c "胆小的屁股以前连一个都没吃 是时候了 答应吧。"
+    c "你这个胆小鬼，上次连一局都没敢下注。该轮到你了，答应吧。"
 
 translate schinese_rewrite Cane_Apron_Quest_40fc2269:
 
-    c "这次不一样了,别在自己身上赌了 这太容易了。"
+    c "这次不一样，你不是在赌自己能不能做到。这次简单得很。"
 
 translate schinese_rewrite Cane_Apron_Quest_e258fe53:
 
-    e "呃..."
+    e "呃……赌什么……？"
 
 translate schinese_rewrite Cane_Apron_Quest_b951b910:
 
-    c "你认为他会回来吗?"
+    c "你觉得他会回来吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_3be6d530:
 
-    c "我让你自己决定 100金赌什么。" nointeract
+    c "让你自己决定。你要拿一百枚金币赌什么？" nointeract
 
 translate schinese_rewrite Cane_Apron_Quest_67959dd9:
 
-    e "我相信他会回来找你的 凯恩。"
+    e "我相信他会回来找你的，凯恩。"
 
 translate schinese_rewrite Cane_Apron_Quest_48f5d9cf:
 
-    c "我替他准备围裙。"
+    c "你真这么想？我一直在替他准备这件围裙。"
 
 translate schinese_rewrite Cane_Apron_Quest_a5b9de31:
 
-    e "我只想你充满希望。"
+    e "我只是希望你别放弃希望。"
 
 translate schinese_rewrite Cane_Apron_Quest_14d59a4d:
 
-    c "我也会选择同样的选择 我太想念那小子了。"
+    c "我也会选这个答案。我太想念那个小伙子了。"
 
 translate schinese_rewrite Cane_Apron_Quest_3d20cc48:
 
-    e "凯恩... 你得让他走 我不认为他会回来。"
+    e "凯恩……你得放下他……我不觉得他会回来了。"
 
 translate schinese_rewrite Cane_Apron_Quest_34ae8156:
 
-    c "为什么?为什么不呢?"
+    c "啊……？为什么？"
 
 translate schinese_rewrite Cane_Apron_Quest_5339cbbd:
 
-    e "你自己说的,你喜欢的版本, 早在他离开之前就消失了。"
+    e "你自己说过，你喜欢的那个他，早在他离开村子之前就已经消失了。"
 
 translate schinese_rewrite Cane_Apron_Quest_582193ba:
 
-    c "不管怎么说,他知道些什么。"
+    c "你又知道他什么？"
 
 translate schinese_rewrite Cane_Apron_Quest_ef7f2577:
 
-    c "不过,我尊重你打赌的诚信。"
+    c "不过，我尊重你对赌约的诚实。"
 
 translate schinese_rewrite Cane_Apron_Quest_023e6eca:
 
-    e "所以...我现在该怎么办?"
+    e "那……我现在该做什么？"
 
 translate schinese_rewrite Cane_Apron_Quest_c5c48ee2:
 
-    c "告诉那个老家伙我需要修理 很可能他会像他那头老屁牛一样撕开围裙。"
+    c "拿上你的围裙。告诉那个老家伙我需要修好它。照他的脾气，他多半会像那头该死的老公牛一样把围裙撕烂。"
 
 translate schinese_rewrite Cane_Apron_Quest_0068d11c:
 
-    e "好吧,我会通知他的。"
+    e "嗯……好。我会告诉他。"
 
 translate schinese_rewrite Cane_Apron_Quest_faf83351:
 
-    c "记住我和你之间的赌注, 淫荡的屁股。"
+    c "记住你我之间的赌约，下流胚。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_af64c90b:
 
-    "你四处转转,像往常一样送酒。"
+    "你像往常一样四处送酒。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_2c9b77b4:
 
-    "从你眼角看,你看到塞布在角落的桌子上滑倒。"
+    "你用眼角余光看见塞巴斯瘫在角落的桌旁。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_7b420926:
 
-    "但这次他似乎在和几个人赌注。"
+    "不过这次，他似乎正和桌边几个人下注。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_1f61fdb8:
 
-    "你摇摇头,典型的西伯利亚。"
+    "你摇摇头。典型的塞巴斯。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_bd4183f5:
 
-    "在顾客敬酒的时候 凯恩还是有时间 为你松懈而向你炫耀。"
+    "一道严厉的目光从柜台直刺向你。客人们正向凯恩敬酒，他却仍有空瞪你，责怪你偷懒。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_a5a79653:
 
-    "害怕凯恩扣下你的工资 你很快就要回去工作了。"
+    "你生怕凯恩扣你的工钱，赶紧回去干活。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b6add6b9:
 
-    "塞布的情绪失控了 你居然在酒馆里 暴动时 突然大发雷霆。"
+    "你暂时把塞巴斯的事抛到脑后，酒馆里突然爆发一阵骚动，吓得你猛地一激灵。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_2d7f5c3c:
 
-    "它来自Seb的桌子。"
+    "声音从塞巴斯那桌传来。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_3f151d9c:
 
-    "先前的一群人正在向醉酒的Seb大喊。"
+    "刚才那群人正在对喝醉的塞巴斯大喊。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_f46decec:
 
-    patron "嘿,狮子,付钱吧,你欠我们一千金！"
+    patron "嘿，狮子。还钱！你欠我们一千枚金币！"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_0c2e927d:
 
-    "狮子只会不自觉地发牢骚。"
+    "狮子只是不知所云地嘟囔着。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_427046d8:
 
-    patron "别装醉 今天我们不择手段拿到那笔钱！"
+    patron "别装醉！今天无论如何都得把钱拿出来！"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_aa21b4d1:
 
-    "你赶快去帮你的室友, 但是在你可以之前,一个影子从柜台后面飞出来。"
+    "你赶紧去帮室友，可还没等你赶到，一个黑影已经从柜台后飞了出来。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_1211882d:
 
-    "拐杖抓住领子上的主要侵略者,轻而易举地用一只手把他从地上抬下来。"
+    "凯恩一把揪住领头闹事者的衣领，单手就将他轻松提离地面。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_f0e6e5a6:
 
-    c "你以为你在我的酒馆里干什么?"
+    c "你们以为自己在我的酒馆里干什么？"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_94dde996:
 
-    "凯恩听起来很愤怒 你没见过他这样高声说话。"
+    "凯恩的声音里满是怒火。你认识他以来，从没见过他像这样吼得这么大声。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_1326d423:
 
-    patron "我们... 我们只是想... 得到狮子欠我们的东西。"
+    patron "我、我们只是想拿回狮子欠我们的钱。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_f1512314:
 
-    "甘蔗的脸变成一个面罩 纯净的内脏厌恶, 咆哮进入他正常舒缓的声音。"
+    "凯恩的脸变成纯粹而本能的厌恶面具；他那平时安抚人心的声音里也掺进低沉的咆哮。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_ed102f3f:
 
-    c "我看得出来你觉得我瞎了还是傻了 我一直在看着你报仇。"
+    c "我真不知道你们是觉得我瞎了，还是觉得我蠢。我整晚都在盯着你们。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_68878885:
 
-    c "在我还在的时候 没人会利用另一个乐斯民菲尔德公民。"
+    c "只要我还在这儿，就没人能占另一个乐斯民菲尔德人的便宜。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8ee3edc9:
 
-    c "现在,你想出去走走吗? 还是想让我把你扔到大屁股上 爬得像只呆瓜一样?"
+    c "现在，你们是想自己走出去，还是想让我把你们扔到门外，让你们像蛆一样在地上爬？"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_42cccfb1:
 
-    "麻烦制造者们害怕地颤抖 整个酒馆都站起来 支持酒保。"
+    "闹事者们在恐惧中瑟瑟发抖，整个酒馆的人都站起来支持酒馆老板。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b0afc2d8:
 
-    "寡不敌众,他们迅速撤退。"
+    "寡不敌众，他们很快退了出去。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_751919cc:
 
-    "现在他们走了,凯恩的面部大部分都恢复正常了 虽然你仍然看到他的愤怒 从他脸上的紧张 僵硬,尽管他笑容。"
+    "他们离开后，凯恩的表情基本恢复了正常；但他绷紧的脸和勉强的笑容仍暴露着怒意。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_6c91324b:
 
-    "凯恩,让你挥舞。"
+    "凯恩朝你招手。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_cb9359bf:
 
-    c "[e],来吧。"
+    c "[e]，过来。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_d50851a3:
 
-    "您必须的。"
+    "你走了过去。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_3383e214:
 
-    "在易移动的塞巴斯 施放手势。"
+    "凯恩指了指趴在那里的塞巴斯。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8e0b74fa:
 
-    c "啊,觉得狮子男孩' 太多喝多了,再次。"
+    c "我看那头小狮子又喝多了。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_ddb98fb8:
 
-    c "你不会自己走回去 这样, 我认为你不够强大 拖他回来。"
+    c "他这样可走不回去，而且我看你也没力气把他扛回去。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_613cb8ca:
 
-    "凯恩的肢体语言恢复正常,。"
+    "这时凯恩已经平静了许多，肢体语言也恢复正常。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_94c7a4d3:
 
-    c "不如你带他来我房间 我要清空桌子,还有生意要办。"
+    c "把他带到我房间去吧。我得把桌子清空，我这儿还得做生意。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_96d70726:
 
-    "你接塞巴上下桌子 把他抬到柜台后面的房间。"
+    "你把塞巴斯从桌上扶起来，带到柜台后面的房间。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_d9b42db9:
 
-    "床铺好了 你躺在床上。"
+    "床铺已经铺好。你小心翼翼地把塞巴斯放到床上。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_aeee70c5:
 
-    "塞布抱怨一些不真实的东西。"
+    "塞巴斯含糊地嘟囔了几句。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_714229c5:
 
-    "你把他塞在盖子底下 然后回去工作。"
+    "你给他盖好被子，回去继续工作。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_67099b53:
 
-    "夜晚即将结束 那晚有数量出乎意料的赞助者。"
+    "夜色渐深，到了收工的时候。那晚来的客人比预想中多得多。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_22e25a0e:
 
-    "大部分的请柬你都能调走 但凯恩没有那么幸运。"
+    "你挡掉了大多数请你喝酒的邀请，但凯恩就没那么幸运了。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_1ef36495:
 
-    "他喝多了,在关门时,他站在门边摇晃,提醒你第一次见到他。"
+    "他喝了很多。打烊时，他站在门边摇摇晃晃，让你想起第一次见到他时的样子。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_4f0165ba:
 
-    c "现在回家去 干得漂亮 今天。"
+    c "你……现在回家……今天……干得不错……"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8a04646e:
 
-    "你感谢他 但你不确定凯恩是否理解你。"
+    "你向他道谢，但不太确定凯恩是否听懂了。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_d0d0dd4c:
 
-    "你走回商店。"
+    "你走回当铺。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_944650f0:
 
-    "你进门,走过柜台,然后..."
+    "你推门进去，走过柜台。然后……"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_6a0ed89c:
 
-    "Oh crap."
+    "糟了。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_e5086423:
 
-    "你忘了什么 或者说 重要人物。"
+    "你忘了什么，或者更准确地说，忘了某个重要的人。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_df210ab6:
 
-    "你转过身去酒馆。"
+    "你转身朝酒馆走去。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_306a36bc:
 
-    "幸好乐斯民菲尔德没有犯什么罪。"
+    "出乎意料，酒馆门没有锁。凯恩大概醉得连门都忘了锁。幸好，乐斯民菲尔德治安一向不错。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b6bfa508:
 
-    "凯恩不是在柜台后面的他通常的岗位上 那样是意料之中的 已经过了酒馆的工作时间了。"
+    "凯恩不在柜台后那个熟悉的位置上。想来也正常——酒馆早已过了营业时间。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_0230dfac:
 
-    "你搬去你离开Seb的房间。"
+    "你走向安置塞巴斯的房间。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_63e18892:
 
-    "当你听到房间里传来一个吱作响的声音时, 你就要叫出Seb的名字或凯恩的名字了。"
+    "你正要喊塞巴斯或凯恩的名字时，听见房间里传来吱呀声。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_33f0b779:
 
-    "你暂停在门前。"
+    "你在门口停下。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_8c884012:
 
-    "耳朵放亮了 相信听到有人在呻吟 但不管是塞布还是凯恩 你都不确定。"
+    "你竖起耳朵。你觉得自己听见了某个人的呻吟，可你分不清那是塞巴斯还是凯恩。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_b2ada32a:
 
-    "好奇心迫使你稍微放松一下门。"
+    "好奇心驱使你把门轻轻推开一道缝。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_6a9db2f3:
 
-    "你跑回店里的时候 背着一副狂野的骨头。"
+    "你下体硬得发疼，一路跑回当铺。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_93061099:
 
-    "你冲进你的房间 迅速擦一擦出来 当你看到的场景 在你脑海中仍然新鲜。"
+    "你冲进房间，趁刚才看到的场景还清晰地印在脑海中，迅速自慰了一番。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_bd9b7093:
 
-    "在摇头丸消失后 你冷静下来 思考你所看到的和听到的。"
+    "高潮退去后，你平静下来，开始思索自己看到和听到的一切。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_f030fa62:
 
-    "塞布总是有你的最大利益在意。"
+    "塞巴斯总是把你的利益放在心上。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_d3065f63:
 
-    "凯恩可能看起来不像是那个角色 但他似乎已经对你承担了某种责任。"
+    "凯恩看起来或许不像会做这种事的人，但他似乎已经对你承担起某种责任。"
 
 translate schinese_rewrite Cane_Sebas_Tavern_Night_2ae663ad:
 
-    "你感到温暖... 从一个热的夜晚, 你慢慢地漂移到睡觉。"
+    "你感到一阵暖意……一夜的激烈经历耗尽了你的力气，你慢慢沉入梦乡。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_c54104e2:
 
-    c "狮子朋友昨晚怎么回家的?"
+    c "那么，你的狮子朋友昨晚是怎么回去的？"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_2b40a022:
 
@@ -5814,27 +5814,27 @@ translate schinese_rewrite Cane_After_Sebas_Tavern_Night_2b40a022:
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_16c52b29:
 
-    c "我把他拉回来了。"
+    c "我把他拖回去的。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_0749a004:
 
-    c "你们不是来帮忙的。"
+    c "你当时可没来帮忙。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_a4453677:
 
-    e "没有其它事情发生吗?"
+    e "除此之外，没发生别的事？"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_e395615e:
 
-    c "你是什么意思?"
+    c "你什么意思？"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_e464566d:
 
-    "凯恩缩小了对你的眼睛。"
+    "凯恩眯起眼睛看你。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_51b41dd3:
 
-    "你避开眼睛。"
+    "你移开视线。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_1a400f0b:
 
@@ -5842,167 +5842,167 @@ translate schinese_rewrite Cane_After_Sebas_Tavern_Night_1a400f0b:
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_2a4df793:
 
-    c "很好,你需要什么,喝点什么,想工作吗?"
+    c "很好。你要什么？喝一杯？想来干活？"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_0b56eb79:
 
-    e "也许以后。"
+    e "也许以后吧。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_a9155d81:
 
-    "你很幸运没有问凯恩更多的问题就逃了出来。"
+    "好险。你幸运地避开了凯恩的继续追问。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_bd70e5a8:
 
-    c "嘿,[e]!"
+    c "嘿，[e]！"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_fb3f8a81:
 
-    "你转过身去 看到凯恩对你满脸污秽的笑容。"
+    "你转过身，看见凯恩冲你露出下流的笑容。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_7b303ddf:
 
-    c "谢谢你昨晚离开时锁了酒馆的门。"
+    c "谢谢你昨晚离开时帮我锁上酒馆的门。"
 
 translate schinese_rewrite Cane_After_Sebas_Tavern_Night_e07c34a1:
 
-    "你脸红得像番茄。"
+    "你的脸红得像番茄。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_43e8b76a:
 
-    e "凯恩,我把你的围裙拿回来了,没有..."
+    e "嘿……凯恩。我把你的围裙带回来了，而且……他没有把它撕烂。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_679e952f:
 
-    c "你拿到围裙了吗?真的?"
+    c "你拿到围裙了？真的？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_8a551634:
 
-    c "看看这个漂亮的男孩,全新,是最好的小伙子。"
+    c "哦……看看这个漂亮的小伙子。围裙焕然一新。你就是全天下最棒的小伙子。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_a363a796:
 
-    e "什么... 什么意思?"
+    e "这……是什么意思？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_c24879c3:
 
-    c "我不知道 既然你在我这里工作 我干脆给你需要的围裙！"
+    c "我也说不清。既然你在我这儿工作，那我当然得把你需要的围裙给你啊！"
 
 translate schinese_rewrite Cane_Apron_Quest_End_60f08cdb:
 
-    e "我以为你要为你的人 留下围裙呢。"
+    e "我以为你要把围裙留给你的那个人。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_a0969aca:
 
-    c "不,他不会回来了,我不应该浪费我的时间等待。"
+    c "我等了多久来着？四年？不，他不会回来了，我不该把时间浪费在等待上。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_e138317b:
 
-    c "再说,我还有更好的替代品,就在这里,然后,没有谎言,是最好的第二名男孩。"
+    c "再说，我找到了更好的替代品。现在就有一个，真的不骗你。你是我见过的第二棒小伙子。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_bebdde80:
 
-    e "赌注呢?"
+    e "那赌约呢？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_3b641db6:
 
-    c "是的,是的,Yerbot不管我怎么想, 都继续赌下去,嗯?"
+    c "是，是。你的赌约不管我怎么想都继续，对吧？拿上围裙就是了。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_f425d7a0:
 
-    e "非常感谢你的围裙,凯恩 我一定希望满足你对..."
+    e "凯恩，谢谢你给我围裙。我会努力不辜负你对……呃……最棒小伙子的期待。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_7383137d:
 
-    c "其实很有趣,我责怪你弄坏了围裙,但是我,我把它拿出来洗衣服。"
+    c "你知道吗……其实挺好笑的，我居然怪你把围裙弄坏了。其实是我。我拿它出来洗衣服时，被那边的门把手勾破的。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_fa685f40:
 
-    e "我知道... 所以我不知道我在这里工作时 被撕破了。"
+    e "我就知道……难怪我在这里工作时完全没发现它破了。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_a1bb6838:
 
-    c "不管这里发生什么,你都可以怪我 这是公平的游戏。"
+    c "这儿出了什么事都可以怪我，反正你有理。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_29fc1fcb:
 
-    e "没关系。"
+    e "没事。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_879766b6:
 
-    c "哈哈,你已经比他离开那里时好多了一千倍了 那个小伙子,我把他当我儿子一样对待。"
+    c "哈哈，你已经比他离开这里时强上千倍了。那个小伙子，我一直把他当亲儿子一样。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_7f254f7d:
 
-    c "他第一次在这里工作时才14岁 没有家人,只有他一个人住在村子里。"
+    c "你绝对想不到，他刚来这里工作时才十四岁。没有家人，孤零零地住在村子里，就住在我那边的一间房里。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_eb6a0d62:
 
-    "凯恩指向二楼的客房,似乎比另一间房要快得多,门上曾经挂着的标志。"
+    "凯恩指向二楼的客房。那间房似乎比另一间更豪华，门上还留着一块曾经挂过牌子的印记。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_7ae0ce56:
 
-    c "他第一次在酒馆工作时,就像一个谦卑的、有爱心的人。我,嗯。我感到非常宽慰,因为有一只手来帮忙送盘子。"
+    c "他刚来酒馆工作时，是个谦逊又体贴的人。而我嘛，呃……能有个人帮我端盘子，我别提多轻松了。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_d869454f:
 
-    c "当然,他给他做了一个完美的围裙。"
+    c "他生日那天，我请那头老公牛做了件他会喜欢的东西。当然，那头牛当场就给他做了一件尺寸完美的围裙。他很喜欢。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_37505122:
 
-    e "围裙也适合我吗?"
+    e "这围裙……也合我身？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_f6e3caa1:
 
-    c "他很喜欢围裙,在这十年里,他从不偷东西, 也不会在围裙上戳一个洞。他非常小心,温柔。"
+    c "对，对，确实合身。他喜欢这围裙喜欢得不得了；那十年里，他从没洒过任何东西，也没在上面弄出过一个洞。他一直很小心、很温柔地对待它。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_54aafea2:
 
-    c "但随着时间的推移,他习惯了酒馆的气味, 金色的饥渴,自恋的气味。我觉得我对他失去了控制。"
+    c "可随着时间过去，他渐渐习惯了酒馆的气味——那股贪图金币、放纵自己的气味。我感觉自己正逐渐失去对他的掌控。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_6b6d97f8:
 
-    e "但是他为什么离开村子?"
+    e "可是……是什么让他离开村子？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_7ff81d38:
 
-    c "镇上那个,他们叫他的探长 他告诉这小子他会得到更多关注 镇上工作的钱会更多。"
+    c "镇上来的那个家伙，人们叫他监察员。他告诉那小伙子，在镇上工作能得到更多关注、赚更多钱。他立刻就喜欢上这个主意了。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_ef1680df:
 
-    c "但他没有钱。当他让我申请金子时,我告诉他没有。因为为什么我会这样做?我希望他留下来。"
+    c "可他没有申请那份工作的费用。他找我要钱时，我拒绝了。凭什么要给？我想让他留下。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_bffa6f1b:
 
-    c "他不肯听话 之后他甚至不再跟我说话 他只是在做他的工作。"
+    c "他不肯听，也不再和我说话，只顾着干自己的活。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_d4e43b45:
 
-    c "我不应该关心,但我做到了, 我拿走了他的黄金, 以为他不敢离开酒馆。"
+    c "我本来不该在意，可我就是在意。我把他的金币拿走，以为这样他就不敢离开酒馆。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_88055e7c:
 
-    c "但他还是拿到钱了 然后他就消失了,就在山羊部落袭击村庄的前一天。"
+    c "……我不知道后来发生了什么。不过他不知怎么还是弄到了钱，然后就在山羊部落袭击村子的前一天，突然消失了。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_52ac0c00:
 
-    e "你确定他发生了什么事?"
+    e "……什么？你确定？他后来怎么了？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_821fa4f9:
 
-    c "我不知道,我很想相信他不是 帮助袭击山羊马的那个人,但我不知道。"
+    c "我不知道。我很希望相信，袭击山羊车队的人不是他，但我不知道。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_3df6dec1:
 
-    e "所以你没告诉雷希姆这些事?"
+    e "所以……你才没把这些事告诉雷希姆？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_2715cdc3:
 
-    c "他不会这么做的,每个人都知道,他回来后我不想给他坏名声。"
+    c "他不是会做这种事的小伙子——我才是。大家都知道这一点。我不想等他有一天回来时，已经背上坏名声。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_afd55807:
 
-    e "但是... 他回来了吗?"
+    e "可是……他还会回来吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_d19f855d:
 
@@ -6010,851 +6010,851 @@ translate schinese_rewrite Cane_Apron_Quest_End_d19f855d:
 
 translate schinese_rewrite Cane_Apron_Quest_End_17c7e91e:
 
-    e "肯尼,至少我给你个拥抱好吗?"
+    e "凯恩……至少，我能给你一个拥抱吗？"
 
 translate schinese_rewrite Cane_Apron_Quest_End_becb5789:
 
-    "你伸出手来 拥抱他全身 他高得让你的脑袋 只能躺在他的胸口上 而他靠在胸前 将他酒味的脸埋在肩膀上。"
+    "你走近一步，抱住他的整个身体。他太高了，你的头只能靠在他胸口；而他俯身把带着酒气的脸埋进你的肩窝。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_8b6c73e7:
 
-    c "好孩子。"
+    c "好小伙子。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_f37d0883:
 
-    "你听到你屁股上大打一拳 凯恩的手会想方设法 发出最响亮的声音。"
+    "啪！！凯恩抬手拍在你的屁股上，声音大得惊人。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_edfad75a:
 
-    "你喘了一会儿气,甚至无法理解刚才发生了什么。"
+    "你一时间惊得倒吸一口气，完全没反应过来刚才发生了什么。也许凯恩就是非得用这种方式毁掉这温情时刻。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_2179d396:
 
-    c "HAAA抓到了。"
+    c "哈哈哈！逮到你了！"
 
 translate schinese_rewrite Cane_Apron_Quest_End_2989e603:
 
-    e "嘿,凯恩,我以为你很伤心。"
+    e "嘿，凯恩。我还以为你很难过。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_a9fdd68b:
 
-    c "好了,我现在很好,很好,我必须回去工作了。"
+    c "我现在没事了。好得很，好得不得了。该回去工作了，像我这个老蝙蝠一样。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_a122f272:
 
-    e "嗯..."
+    e "嗯……我想也是。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_03379484:
 
-    e "如果你需要任何支持, 我会在这里为你服务。"
+    e "如果你需要任何支持，我会陪着你。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_00ade677:
 
-    c "好吧,最优秀的小伙子,你打赌我会来 请你再次为我工作。"
+    c "那当然，最棒的小伙子。我肯定还会来请你替我工作的。"
 
 translate schinese_rewrite Cane_Apron_Quest_End_910fe225:
 
-    msg "目标完成! 您得到了一个水平点！ 请检查您的库存, 以分发您的点！"
+    msg "任务完成！你获得了一个升级点！去库存里分配你的点数吧！"
 
 translate schinese_rewrite Cane_SoWrong_21a8a3ed:
 
-    c "那叫什么来着 别逗我笑 [e]。"
+    c "你刚才说的是什么名字？别逗我笑了，[e]。"
 
 translate schinese_rewrite Cane_SoWrong_f6ec6469:
 
-    c "狼一直以来都说得没错,我以为那是他开的玩笑 我叫凯恩,你从屁眼里取的不是什么蠢名字。"
+    c "那头狼一直说得没错。我还以为他只是在拿你开玩笑。我叫凯恩，不是什么从你屁股里抠出来的蠢名字。"
 
 translate schinese_rewrite Cane_SoWrong_1dc2025e:
 
-    e "等等 凯恩 我怎么会忘了。"
+    e "等等……凯恩？我怎么会忘了……"
 
 translate schinese_rewrite Cane_SoWrong_8e975ac2:
 
-    c "是啊,蠢蜥蜴有半个脑筋想着做爱和吸食。 我猜商店里的那些家伙已经告诉你我的名字了。你还是忘记了。"
+    c "是啊，你这蠢蜥蜴的脑子里一半只想着做爱和口交。我看店里那帮家伙早就把我的名字告诉你了，可你还是忘了。"
 
 translate schinese_rewrite Cane_SoWrong_e2bf0094:
 
-    c "现在,你给我拿了50个金子?"
+    c "现在，你有五十枚金币给我吗？"
 
 translate schinese_rewrite Cane_Wrong_5dfc18ba:
 
-    c "科恩,你以为我有那种蠢名字吗?"
+    c "科恩？真的？你觉得我会叫这么蠢的名字？"
 
 translate schinese_rewrite Cane_Wrong_22a66741:
 
-    e "等等,我以为你告诉我你叫Cone..."
+    e "等等，我以为你告诉我你叫科恩……"
 
 translate schinese_rewrite Cane_Wrong_3c8e0a5f:
 
-    c "你问其他的赞助人 他们比你们更记得我的名字。"
+    c "什么？你去问问其他客人。他们可比你这蠢蜥蜴更记得我的名字。"
 
 translate schinese_rewrite Cane_Wrong_19475493:
 
-    "凯恩在酒馆的桌子上走来走去 桌子,然后他轻轻地拍拍 一名顾客的肩膀,而他们说话。"
+    "凯恩在酒馆的桌子间走了一圈，然后在一名正在聊天的客人肩上轻轻拍了拍。"
 
 translate schinese_rewrite Cane_Wrong_db5ef229:
 
-    c "是的,先生, 喜欢你留下来吗?"
+    c "来，先生。在这儿待得愉快吗？"
 
 translate schinese_rewrite Cane_Wrong_b61efa15:
 
-    patron "是啊,这啤酒是嗡嗡声 真棒,一如既往!"
+    patron "当然，这啤酒还是一如既往地棒，喝起来带劲！"
 
 translate schinese_rewrite Cane_Wrong_9605da18:
 
-    c "我只想问一个简单的问题 问一个我这个笨蜥蜴,我叫什么名字?"
+    c "我只想替我这只没头没脑的蜥蜴问个简单问题：我叫什么名字？"
 
 translate schinese_rewrite Cane_Wrong_0f7dc502:
 
-    patron "你是凯恩吧 怎么会有人不知道你的名字呢？"
+    patron "呃——这还用问？你是凯恩啊。这里怎么会有人不知道你的名字？"
 
 translate schinese_rewrite Cane_Wrong_cd0283b1:
 
-    e "等等... 什么?"
+    e "等等……什么？"
 
 translate schinese_rewrite Cane_Wrong_82ec6c1b:
 
-    c "显然这蜥蜴不是。"
+    c "显然，这只蜥蜴不知道。"
 
 translate schinese_rewrite Cane_Wrong_750fb4d7:
 
-    patron "小蜥蜴,你得加快比赛,尊重酒馆老板。"
+    patron "哈……搞什么？小蜥蜴，你得长点记性，也得尊重酒馆老板。"
 
 translate schinese_rewrite Cane_Wrong_03689381:
 
-    e "我想..."
+    e "我以为……"
 
 translate schinese_rewrite Cane_Wrong_18999e03:
 
-    c "我相信他现在可以了,先生 喝啤酒吧!"
+    c "我想他现在已经记住了。好了，先生，享用你的啤酒吧！"
 
 translate schinese_rewrite Cane_Wrong_90353783:
 
-    "凯恩脸上有邪恶的笑容,他转过身来,对你没有正确取出他的名字,他似乎感到很满意。"
+    "凯恩转身对你露出邪恶的坏笑。你没记对他的名字，似乎让他感到格外满足。"
 
 translate schinese_rewrite Cane_Wrong_eed51e05:
 
-    e "我和村里其他人搞混了吗?"
+    e "我是不是把你和村里其他人搞混了？怎么会这样。对不起……凯恩。"
 
 translate schinese_rewrite Cane_Wrong_7ea6f1bd:
 
-    c "别对我说对不起,对你的钱包说对不起。"
+    c "别跟我说对不起，去跟你的钱包说。"
 
 translate schinese_rewrite Cane_Wrong_072d3a3d:
 
-    c "说到这个 你拿到钱了?"
+    c "说到钱包，你带够钱了吗？"
 
 translate schinese_rewrite Cane_Correct_ef785441:
 
-    c "哈,该死,这很公平,是CC的凯恩。"
+    c "哈……行啊，这算你对了。我叫凯恩，拼写是 Cane，C 开头。"
 
 translate schinese_rewrite Cane_Correct_fb58faa6:
 
-    e "我差点把你和Cone搞混了... 那个名字从哪里来的?"
+    e "我差点把你和科恩搞混了……科恩这个名字是怎么来的？"
 
 translate schinese_rewrite Cane_Correct_533a6b69:
 
-    c "我不是Cone 记录,只是让你知道。"
+    c "是吗？顺便声明，我不是科恩。只是提醒你一下。"
 
 translate schinese_rewrite Cane_Correct_bcb31e09:
 
-    e "无所谓,幸好我做得对。"
+    e "行吧……至少这次我答对了。"
 
 translate schinese_rewrite Cane_Correct_4d612fba:
 
-    c "我猜店里的那些家伙已经告诉你我的名字了。"
+    c "我猜店里那帮家伙反正早就把我的名字告诉你了。五十枚金币算是白送给你。"
 
 translate schinese_rewrite Cane_Correct_12912c50:
 
-    e "谢谢,凯恩。 (你收到50金)"
+    e "谢谢你，凯恩。（你获得了五十枚金币。）"
 
 translate schinese_rewrite Cane_Correct_03c21858:
 
-    c "记得在这里花点时间吧 我们有好多食物和饮料。"
+    c "哈哈！那就记得顺便在我这儿花一点……我们这儿有不少吃的喝的。"
 
 translate schinese_rewrite Cane_Correct_c1a3b9de:
 
-    e "我会考虑一下。"
+    e "我会考虑的。"
 
 translate schinese_rewrite Cane_Correct_1c52ee51:
 
-    c "好,好好享受你留在夜店吧!"
+    c "好，那就好好享受你在夜夜椿的时光吧！"
 
 translate schinese_rewrite Cane_GotTheMoney_a6a81379:
 
-    e "是的,我... 让我看看...[pc.gold]。"
+    e "是啊……我有……让我看看……手头有[pc.gold]枚金币。"
 
 translate schinese_rewrite Cane_GotTheMoney_fdc86db8:
 
-    c "把那个给我。"
+    c "拿来。"
 
 translate schinese_rewrite Cane_GotTheMoney_39078807:
 
-    "他迅速把柜台上所有的硬币都倒了 然后把它们分成两堆 都堆成两堆。"
+    "凯恩从你手里一把拽走钱袋，迅速把所有硬币倒在柜台上，分成两堆。"
 
 translate schinese_rewrite Cane_GotTheMoney_010e8968:
 
-    e "嘿!你在干嘛!"
+    e "嘿！你在干什么！"
 
 translate schinese_rewrite Cane_GotTheMoney_b5092846:
 
-    c "这是[pc.gold],另一个是我承诺的50块金子。"
+    c "这是你的[pc.gold]枚金币，另一堆是约好的五十枚金币。"
 
 translate schinese_rewrite Cane_GotTheMoney_94c5bebe:
 
-    "蝙蝠轻轻地把第一堆东西 全部扔回你的邮袋里 然后扔回你身上 你几乎无法在空中抓住它。"
+    "蝙蝠轻轻把第一堆金币全扫回你的钱袋，又把钱袋扔还给你；你几乎没能在半空接住。"
 
 translate schinese_rewrite Cane_GotTheMoney_f0969e8a:
 
-    e "Is that all..."
+    e "就这样……？"
 
 translate schinese_rewrite Cane_GotTheMoney_e0da3878:
 
-    c "不... 过来一下,给你点东西。"
+    c "不……过来一下，我还有东西要给你。"
 
 translate schinese_rewrite Cane_GotTheMoney_81d163b8:
 
-    "你在酒馆老板面前犹豫不决。"
+    "你有些犹豫地走到酒馆老板面前。"
 
 translate schinese_rewrite Cane_GotTheMoney_f766d5e3:
 
-    c "更近一点。"
+    c "再近点。"
 
 translate schinese_rewrite Cane_GotTheMoney_2bf760b7:
 
-    "你一步一步进入柜台一边 凯恩好像在舔他的嘴唇 等着你靠近点。"
+    "你又朝柜台侧面迈了一步。凯恩像是在舔嘴唇，等着你继续靠近。"
 
 translate schinese_rewrite Cane_GotTheMoney_4a0509df:
 
-    "他走近你,他的肉肚 几乎触摸到你自己的, 你颤抖 当你看到他的手臂 伸到你的背后。"
+    "他朝你走来，肉乎乎的肚子几乎贴上你的身体。你看见他的手臂绕到你身后，不禁打了个寒战。"
 
 translate schinese_rewrite Cane_GotTheMoney_1b88f674:
 
-    "SMACK!"
+    "啪！"
 
 translate schinese_rewrite Cane_GotTheMoney_482a9ec1:
 
-    "凯恩打你屁股 尽可能的用力, 你放出一个大喊大叫的喘息 但其他的赞助者似乎没有注意到。"
+    "凯恩用尽全力拍在你的屁股上。你发出一声响亮的惊喘，但其他客人似乎没有注意到。"
 
 translate schinese_rewrite Cane_GotTheMoney_bc35d635:
 
-    "你看着你的身后,然后又回到凯恩。"
+    "你瞥了眼自己的屁股，又看向凯恩。刚才那一巴掌已经把你的屁股打红了。"
 
 translate schinese_rewrite Cane_GotTheMoney_1e7a4e9c:
 
-    c "这是对忘记我的名字的附加惩罚 [e]。"
+    c "这是你忘记我名字的额外惩罚，[e]。"
 
 translate schinese_rewrite Cane_GotTheMoney_f332a196:
 
-    e "你真的需要这么做吗?"
+    e "啊——你非得这么做吗……"
 
 translate schinese_rewrite Cane_GotTheMoney_2996cd64:
 
-    c "第一次失败者总是尝到我的巴掌,先生。"
+    c "第一次输的人都得尝尝我的巴掌，先生。下次我再开赌局，欢迎你再来。"
 
 translate schinese_rewrite Cane_GotTheMoney_c9fff88b:
 
-    e "我不知道我是否还想跟你赌一次。"
+    e "我不知道自己还想不想再和你赌。"
 
 translate schinese_rewrite Cane_GotTheMoney_41cbba6d:
 
-    c "那么,就到此为止吧,享受你留在夜幕之夜吧。"
+    c "那好，我们的小生意就到此为止。好好享受你在夜夜椿的时光吧。"
 
 translate schinese_rewrite Cane_GotTheMoney_2e23fe8d:
 
-    "凯恩的巴掌让你的屁股还疼 你走在酒馆里时 扭动脸颊。"
+    "凯恩那一巴掌让你的屁股仍隐隐作痛。你在酒馆里走动时，轻轻揉了揉两边屁股。"
 
 translate schinese_rewrite Cane_NoMoney_f0972ae5:
 
-    e "让我看看 我有...[pc.gold]。"
+    e "让我看看……我有……呃——[pc.gold]枚金币……"
 
 translate schinese_rewrite Cane_NoMoney_b87bec4d:
 
-    c "山羊穷得要命,没钱就打赌。"
+    c "你这只小山羊也太穷了吧。没钱就别下注啊。"
 
 translate schinese_rewrite Cane_NoMoney_8435aaf1:
 
-    e "对不起,凯恩,我想我会记得..."
+    e "对不起，凯恩。我以为自己会记住……"
 
 translate schinese_rewrite Cane_NoMoney_106596c3:
 
-    c "好,好,给我吧。"
+    c "好，好，好，拿来。"
 
 translate schinese_rewrite Cane_NoMoney_a04dae47:
 
-    "他拿起你的邮袋,把你的手掌拿开,他迅速把柜台上所有的硬币都倒在地上,拿走,然后把空袋拿回来给你。"
+    "凯恩从你手里拽走钱袋，迅速把所有硬币倒在柜台上拿走，然后把空钱袋还给你。"
 
 translate schinese_rewrite Cane_NoMoney_669735f6:
 
-    c "...你还欠我[owed_gold],伙计。"
+    c "……你还欠我[owed_gold]枚金币，伙计。"
 
 translate schinese_rewrite Cane_NoMoney_7ad38c53:
 
-    e "我很快回来拿钱给你。"
+    e "我很快回来把钱还给你。"
 
 translate schinese_rewrite Cane_NoMoney_db04bb7e:
 
-    c "听着,你为我的赞助人服务了几个小时,我会认为我们的债务被遗忘了。"
+    c "不，我可不这么想。来吧，在还清债之前你别想离开这里。这样吧，你替我的客人服务几个小时，我就当这笔债不存在。"
 
 translate schinese_rewrite Cane_NoMoney_e5c832b2:
 
-    e "嘿,这只是[owed_gold]黄金, 我会赚回来的。"
+    e "嘿，这才[owed_gold]枚金币，我去别处也能赚回来。"
 
 translate schinese_rewrite Cane_NoMoney_7814d9f9:
 
-    c "如果不是的话,你只要付两倍你欠我的价钱 做我们一段时间的服务器,有什么会伤害你?" nointeract
+    c "不过几个小时而已。否则你就得付欠款的双倍。暂时当我们的服务员吧，能有什么坏处？" nointeract
 
 translate schinese_rewrite Cane_Outfit_02_c237210e:
 
-    "当你进入酒馆时,你立即提请在场的所有人注意。"
+    "你一走进酒馆，立刻吸引了在场所有人的目光。"
 
 translate schinese_rewrite Cane_Outfit_02_24a1b6eb:
 
-    "即使你习惯了用 信任的围裙为人群服务,有时甚至比这还少..."
+    "即使你早已习惯穿着那件可靠的围裙、甚至有时比围裙穿得还少来伺候这群人，你还是觉得浑身发热……或许是新衣服的效果。"
 
 translate schinese_rewrite Cane_Outfit_02_49c6b942:
 
-    "你很快地转到凯恩等着的柜台 他眼里有亮光的眼神看着你。"
+    "你赶紧溜到凯恩等候的柜台前。他眼中闪着光，打量着你。"
 
 translate schinese_rewrite Cane_Outfit_02_8798ac62:
 
-    c "不错的新装束,我不知道你从哪得到这个主意。"
+    c "咳……新衣服不错。我不知道你从哪儿想来的主意，不过你要是继续想出这种招、把客人都吸引过来，我得考虑给你加钱了。"
 
 translate schinese_rewrite Cane_Outfit_02_ec6b2001:
 
-    e "这不是我的主意 雷希姆设计了这件衣服 他想得到你的反馈。"
+    e "这不是我的主意。雷希姆做的这套衣服，他想听听你的意见。"
 
 translate schinese_rewrite Cane_Outfit_02_4e87df44:
 
-    c "雷希姆做的?这是给酒馆的?"
+    c "雷希姆做的？给酒馆用的？"
 
 translate schinese_rewrite Cane_Outfit_02_3502150c:
 
-    "你可以看到凯恩通常的笑容 稍稍动摇一下。"
+    "你看到凯恩惯常的笑容微微僵了一下。"
 
 translate schinese_rewrite Cane_Outfit_02_0cd853e9:
 
-    "凯恩继续的时候 你要解释一下情况 并保护雷希姆。"
+    "你正要解释情况、替雷希姆辩护，凯恩却接着说了下去。"
 
 translate schinese_rewrite Cane_Outfit_02_fa492f64:
 
-    c "来,让我看看。"
+    c "既然你来了，就过来让我看看。"
 
 translate schinese_rewrite Cane_Outfit_02_692c2aef:
 
-    c "我可不能追着你这小屁孩出去。"
+    c "我总不能把你这下流的小屁股赶出去吧。"
 
 translate schinese_rewrite Cane_Outfit_02_39f59339:
 
-    "凯恩突然拍拍你的屁股 屁股通过小伙伴们暴露出来。"
+    "你磨磨蹭蹭地走到凯恩身边。凯恩突然拍了拍你从皮套裤开口露出来的屁股。"
 
 translate schinese_rewrite Cane_Outfit_02_4d24d623:
 
-    "你喊。"
+    "你惊叫了一声。"
 
 translate schinese_rewrite Cane_Outfit_02_a226137d:
 
-    c "那头公牛在捕捉包子形状方面做得很好 切口杯和突出一切。"
+    c "呵，那头公牛把你的臀部曲线勾勒得不错。开口的剪裁和高光把一切都凸显出来了。"
 
 translate schinese_rewrite Cane_Outfit_02_375234e0:
 
-    "凯恩开始拍拍你的大腿的内脏。"
+    "凯恩接着抚过你大腿内侧。"
 
 translate schinese_rewrite Cane_Outfit_02_95143db0:
 
-    c "织物很硬,可以忍受洗衣服, 和醉酒的顾客一起工作时质量很好。"
+    c "这布料很结实，耐得住水洗。你要整天面对醉醺醺的客人，这种质量就很重要。"
 
 translate schinese_rewrite Cane_Outfit_02_78e408d3:
 
-    c "也紧贴于耳肌肉。"
+    c "而且它贴着你的肌肉。"
 
 translate schinese_rewrite Cane_Outfit_02_dea701bd:
 
-    "当凯恩把手拉开时 他的手指扣 扣住你内裤的扣子 紧。"
+    "凯恩收回双手时，手指勾住了把你短裤固定在皮套裤里的纽扣。"
 
 translate schinese_rewrite Cane_Outfit_02_e3fee1d1:
 
-    "你感到一股电流。"
+    "一阵电流般的感觉窜过你的身体。"
 
 translate schinese_rewrite Cane_Outfit_02_b68593a9:
 
-    c "也许你应该考虑去上班 仅仅在男生和没有短裤。"
+    c "你或许该考虑只穿这条皮套裤来工作，连短裤也别穿。我敢说，很多客人会喜欢的。"
 
 translate schinese_rewrite Cane_Outfit_02_38083b75:
 
-    "你只是一想到就脸红了 小伙子们的切口允许你的数字自由挂上。"
+    "你光是想想就红了脸。皮套裤的开口让你的老二可以自由垂着，想不穿内裤也行。"
 
 translate schinese_rewrite Cane_Outfit_02_f969354f:
 
-    "凯恩注意到你的不舒服和笑。"
+    "凯恩注意到你的不自在，笑了起来。"
 
 translate schinese_rewrite Cane_Outfit_02_5c32895f:
 
-    c "洗掉溢出的饮料和其他液体会很方便。"
+    c "这条头巾点缀得不错。拿来擦洒出的饮料和其他……液体也很方便。"
 
 translate schinese_rewrite Cane_Outfit_02_2a0a0ae6:
 
-    c "这身衣服是全垒打 如果你还怀疑的话,四处看看。"
+    c "我得说，这套衣服简直是全垒打。你要是还不信，就看看周围。"
 
 translate schinese_rewrite Cane_Outfit_02_0a2c8122:
 
-    "你确实看到了整个酒馆 看着你满肚子都是。"
+    "你照做了，发现整个酒馆的人都在贪婪地盯着你。"
 
 translate schinese_rewrite Cane_Outfit_02_24cbafd3:
 
-    "一部分人想隐藏 但另一部分人想屈服于这个欲望。"
+    "你一部分想躲起来，另一部分却想向那股欲望投降。"
 
 translate schinese_rewrite Cane_Outfit_02_67aa781d:
 
-    "你感到你的裤子前部伸展。这是一个问题,因为打开了 小伙子意味着,你的骨骼可以被清晰地看到。"
+    "你感到裤子前方被撑开。皮套裤的开口让你的勃起一览无余，这下麻烦了。"
 
 translate schinese_rewrite Cane_Outfit_02_25d3faf7:
 
-    "被发现的羞耻和兴奋 似乎更令你兴奋。"
+    "被发现的羞耻和刺激似乎让你更加兴奋。"
 
 translate schinese_rewrite Cane_Outfit_02_84a9047f:
 
-    "在那一刻,你感到屁股被捏了一下 疼痛使欲望稍稍消沉。"
+    "就在这时，你感到屁股被掐了一下。疼痛稍稍压下了欲望。"
 
 translate schinese_rewrite Cane_Outfit_02_a22e8a18:
 
-    c "好吧,小伙子,你最好回到公牛身边 相信我,那头公牛脾气暴躁,他不喜欢等。"
+    c "好了，小伙子，你最好回去找那头公牛。相信我，那头牛脾气很大，不喜欢等人。"
 
 translate schinese_rewrite Cane_Outfit_02_b6e7ab11:
 
-    "肯尼在你们兄弟面前 凝视着。"
+    "凯恩低头看了眼你皮套裤前方。"
 
 translate schinese_rewrite Cane_Outfit_02_fc4aee89:
 
-    c "看来,你们也是。"
+    c "看来你也不喜欢等。"
 
 translate schinese_rewrite Cane_Outfit_02_1d3d4dd1:
 
-    "你很快就从酒馆洗手。"
+    "你赶紧离开酒馆。"
 
 translate schinese_rewrite Cane_Outfit_02_b9f8d13e:
 
-    "在你离开之前,你相信 你听见了酒保说, 感谢公牛为我。"
+    "走出去前，你仿佛听见酒保说：“替我谢谢那头公牛。”"
 
 translate schinese_rewrite Cane_Outfit_03_813e17cd:
 
-    "在他检查你时 手指抽在脸颊上。"
+    "凯恩一边打量你，一边用手指轻敲脸颊。"
 
 translate schinese_rewrite Cane_Outfit_03_f58a580d:
 
-    c "不能说我是这个的粉丝。"
+    c "不能说我喜欢这套。"
 
 translate schinese_rewrite Cane_Outfit_03_a780084e:
 
-    c "公牛的设计不是中了就是中了 这个是中了。"
+    c "那头公牛的设计不是大获成功，就是彻底失败。这套属于后者。"
 
 translate schinese_rewrite Cane_Outfit_03_2c5d558b:
 
-    c "衣服拖了多久,会一直撞到地上。"
+    c "衣服拖得这么长，只会一直扫地。"
 
 translate schinese_rewrite Cane_Outfit_03_bb765b5b:
 
-    c "你知道我们的地板有多脏。"
+    c "而且你知道我们地板有多脏。"
 
 translate schinese_rewrite Cane_Outfit_03_5eb1fa12:
 
-    "当他说脏话的时候 肯尼对你眨眼。"
+    "他说到“脏”字时，朝你眨了眨眼。"
 
 translate schinese_rewrite Cane_Outfit_03_65c38e23:
 
-    "你以为你已经从凯恩那里收集到足够的反馈 当你注意到那个望着你裤带的保龄球员。"
+    "你以为已经收集够凯恩的意见了，却发现酒保正盯着你的胯部。你忍不住红了脸。"
 
 translate schinese_rewrite Cane_Outfit_03_9f87a138:
 
-    c "无忧无虑。 这一套比另一套对你的图比其他的要少。"
+    c "别担心。这套衣服没有另一套那么显身材。"
 
 translate schinese_rewrite Cane_Outfit_03_11ad1cb8:
 
-    c "不过,我想知道,这些层下面是什么?"
+    c "不过我有点好奇。那一层层下面到底藏着什么？"
 
 translate schinese_rewrite Cane_Outfit_03_63617f03:
 
-    "你脸红得更厉害。"
+    "你脸红得更厉害了。"
 
 translate schinese_rewrite Cane_Outfit_03_c4665027:
 
-    "凯恩笑。"
+    "凯恩笑了起来。"
 
 translate schinese_rewrite Cane_Outfit_03_b766f14f:
 
-    c "好吧,也许我对这一套的印象稍有改善。"
+    c "好吧。我对这套衣服的印象稍微好了一点。"
 
 translate schinese_rewrite Cane_Outfit_03_0932bdaa:
 
-    c "下次,考虑一下,不要多多层次地来 我们看看赞助者会如何反应。"
+    c "下次可以少穿几层，看看客人们会有什么反应。"
 
 translate schinese_rewrite Cane_Outfit_03_5b6cb0de:
 
-    c "你走吧 我得继续做生意了。"
+    c "出去吧。我得继续做生意。"
 
 translate schinese_rewrite Cane_Outfit_01_5c7daca6:
 
-    c "现在,你看起来更像 一个真正的冒险家。"
+    c "现在，你看起来更像个真正的冒险家了。"
 
 translate schinese_rewrite Cane_Outfit_01_82bdf8b3:
 
-    e "我是个冒险家。"
+    e "我本来就是冒险家。"
 
 translate schinese_rewrite Cane_Outfit_01_e26845bd:
 
-    c "从没说过你不是 现在你只是多看点。"
+    c "我可没说你不是。现在只是看起来更像罢了。"
 
 translate schinese_rewrite Cane_Outfit_01_1d96165d:
 
-    e "你喜欢吗?"
+    e "所以，你喜欢吗？"
 
 translate schinese_rewrite Cane_Outfit_01_c8421c97:
 
-    c "我想,虽然我想知道这套盔甲 是否也会让你在床上更冒险。"
+    c "应该吧。不过我倒想知道，这套护甲会不会也让你在床上更有冒险精神。"
 
 translate schinese_rewrite Cane_Outfit_01_54ce99aa:
 
-    "你的脸颊颜色。"
+    "你的脸颊染上了红晕。"
 
 translate schinese_rewrite Cane_Outfit_01_6f32839c:
 
-    c "不错,但不是为了我 也不是为了这个地方。"
+    c "不算差。但它不适合我，也不适合这地方。"
 
 translate schinese_rewrite Cane_Outfit_01_7720cabb:
 
-    c "那些装甲板更有可能伤害和伤害我的老板。"
+    c "那些护甲片更可能把我的客人硌伤、撞出淤青。"
 
 translate schinese_rewrite Cane_Outfit_01_0cb5e7d9:
 
-    e "嗯... 好吧。"
+    e "嗯……好吧。"
 
 translate schinese_rewrite Cane_Serve_Later_8f110e74:
 
-    e "好吧。我接受这份工作。"
+    e "好。我接下这份工作。"
 
 translate schinese_rewrite Cane_Serve_Later_22173d3a:
 
-    c "好,和上次一样,穿上猴子服去卖。"
+    c "好，和上次一样。把你的猴子套装拿出来，开始干活吧。"
 
 translate schinese_rewrite Cane_Serve_Later_6da3e789:
 
-    "你再从衣柜室拿起围裙,看起来比上次少尘了。你穿上制服,走出柜台。"
+    "你又从储物间拿起围裙。这次看起来没上回那么积灰。你穿好制服，从柜台后走了出来。"
 
 translate schinese_rewrite Cane_Serve_Later_afd7e145:
 
-    "凯恩回头看着你 笑得到处都是。"
+    "凯恩回头看着你，咧嘴笑了起来。"
 
 translate schinese_rewrite Cane_Serve_Later_d87780c1:
 
-    c "喜欢当着大家的面脱光衣服吗?"
+    c "你喜欢当着所有人的面脱光，嗯？"
 
 translate schinese_rewrite Cane_Serve_Later_4d4cee6b:
 
-    e "嘿,凯恩,我只是按你的老板的要求做。"
+    e "嘿，凯恩……我只是照你的客人说的做。"
 
 translate schinese_rewrite Cane_Serve_Later_685c601b:
 
-    c "是的,他们都是变态,不认识。"
+    c "对，对。他们全是变态。我还不知道你也是其中一个呢。"
 
 translate schinese_rewrite Cane_Serve_Later_3de196ca:
 
-    e "我只是不想让别人失望 还有,你有更多的赞助人来你的酒馆。"
+    e "嗯……我只是不想让大家失望，再说，你的酒馆现在又多了些客人。"
 
 translate schinese_rewrite Cane_Serve_Later_8d28d7ad:
 
-    c "好吧 至少现在我们可以把围裙放下了。"
+    c "你说得对。好吧，至少现在可以让围裙歇一歇了，之类的。"
 
 translate schinese_rewrite Cane_Serve_Later_9a11f9d3:
 
-    c "你甚至不需要穿任何东西。"
+    c "你甚至什么都不用穿。"
 
 translate schinese_rewrite Cane_Serve_Later_41a2b89e:
 
-    "凯恩笑你裸体的样子, 他令人惊讶地说最少。"
+    "凯恩看着你赤裸的身体笑了起来；说真的，他显然相当惊喜。"
 
 translate schinese_rewrite Cane_Serve_Later_376edd1c:
 
-    "也许你真的应该考虑 裸体工作,所有的时间..."
+    "也许你真该考虑一直光着工作……"
 
 translate schinese_rewrite Cane_Serve_Later_ede32842:
 
-    c "听着,你离开酒馆时穿上普通衣服,嗯?"
+    c "听着，离开酒馆时记得穿上平常的衣服，嗯？"
 
 translate schinese_rewrite Cane_Serve_Later_0cca1ca7:
 
-    c "村子里不是每个人都喜欢放荡的服务器。"
+    c "村子里可不是每个人都喜欢一个放荡的服务员。"
 
 translate schinese_rewrite Cane_Serve_Later_c2efb15f:
 
-    c "不是说我不喜欢耶尔风格 我喜欢。"
+    c "……我不是说我不喜欢你的风格。我喜欢得很。"
 
 translate schinese_rewrite Cane_Serve_Later_79229c58:
 
-    e "哦..."
+    e "噢……凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_a34b4850:
 
-    c "这是150金子,我这里的人多了,多亏了肥肥的屁股。"
+    c "这是你的150金币。多亏你那肥硕又多汁的屁股，我这里现在客人多得多了。"
 
 translate schinese_rewrite Cane_Serve_Later_cf59e35f:
 
-    e "这是... 很多。"
+    e "这……真不少。"
 
 translate schinese_rewrite Cane_Serve_Later_c1b534e6:
 
-    c "是的 只要你一直这样为我工作。"
+    c "是啊。只要你继续这样替我工作，说不定你的屁股还能赚更多。"
 
 translate schinese_rewrite Cane_Serve_Later_7536fa5a:
 
-    e "好吧,我会考虑的 再见,凯恩。"
+    e "好……好吧，我会考虑的！再见，凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_360f0bd6:
 
-    c "先穿上你的衣服!"
+    c "先把衣服穿上！"
 
 translate schinese_rewrite Cane_Serve_Later_88216e7b:
 
-    "肯尼... 他似乎对你在这里的表演很满意。"
+    "凯恩……看起来对你在这里的表现很满意。"
 
 translate schinese_rewrite Cane_Serve_Later_0da5722f:
 
-    c "做得好,小伙子,我看看,给你50个金子！"
+    c "干得好，漂亮小伙。让我看看……给你50金币。对，就这样！"
 
 translate schinese_rewrite Cane_Serve_Later_24f6be09:
 
-    e "谢谢,凯恩。"
+    e "谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_a713d752:
 
-    c "围裙看起来还不错 回来多点 做我几个小时的服务器。"
+    c "这条围裙穿在你身上还挺好看。多回来几次，替我当几个小时的服务员。"
 
 translate schinese_rewrite Cane_Serve_Later_90bc5d50:
 
-    e "好吧... 只要我得到报酬。"
+    e "好吧……只要给钱。"
 
 translate schinese_rewrite Cane_Serve_Later_3c571d5e:
 
-    c "和往常一样。"
+    c "一如既往。"
 
 translate schinese_rewrite Cane_Serve_Later_117d4c18:
 
-    e "太好了,这是承诺 再见,凯恩。"
+    e "太好了，那就这么说定了。再见，凯恩。"
 
 translate schinese_rewrite Cane_Serve_Later_98573fca:
 
-    c "是的。"
+    c "好，好。"
 
 translate schinese_rewrite Cane_Serve_First_955b4701:
 
-    e "是的,好吧,只是几个小时。"
+    e "好吧，行，就几个小时。"
 
 translate schinese_rewrite Cane_Serve_First_d3eb4ebf:
 
-    c "雅当,你以为我会骗你屁股吗?"
+    c "对，对。你这傻小子，难道以为我会骗你不成？"
 
 translate schinese_rewrite Cane_Serve_First_1445f505:
 
-    e "当然没有,那我该怎么开始?"
+    e "不……当然不会。那我该从哪儿开始？"
 
 translate schinese_rewrite Cane_Serve_First_d9867cde:
 
-    c "你到衣柜里去,把猴子西装拿出来 然后过来给我点菜。"
+    c "去那边的储物间，把你的猴子套装拿出来。然后过来接单。"
 
 translate schinese_rewrite Cane_Serve_First_d3eabced:
 
-    e "嗯... 什么是西装?"
+    e "嗯……那个……套装是什么？"
 
 translate schinese_rewrite Cane_Serve_First_f21e6ad9:
 
-    c "别担心,这不会暴露你屁股什么的 只是给你的围裙和裤子。"
+    c "别担心，不会露出你的屁股什么的。就是一条围裙和一条裤子。"
 
 translate schinese_rewrite Cane_Serve_First_6eca412b:
 
-    e "谢天谢地,我还担心要穿一身字面猴子西装。"
+    e "哦……谢天谢地。我还以为得穿一套真正的猴子服。"
 
 translate schinese_rewrite Cane_Serve_First_bbd3d80e:
 
-    c "现在给我滚到衣柜去 不然我就带走你的大屁股。"
+    c "哈，你这个笨蛋！现在滚去储物间，不然我就把你的裤子拿走。"
 
 translate schinese_rewrite Cane_Serve_First_5fd10514:
 
-    e "好吧……"
+    e "好……"
 
 translate schinese_rewrite Cane_Serve_First_c1465d7e:
 
-    "当你转身回到衣柜室时 凯恩举起他的手 轻轻地扇了你的屁股。"
+    "当你转身朝储物间走去时，凯恩抬起手，轻轻拍了拍你的屁股。"
 
 translate schinese_rewrite Cane_Serve_First_fb68f497:
 
-    "你害怕弹跳,你只能看到凯恩的诡异表情 当你往后看时会反应。你决定忽略它,继续你的工作。"
+    "你被屁股弹动的感觉吓得一颤；回头时，只看见凯恩那副诡异的表情。你决定无视这一切，继续做你的事。"
 
 translate schinese_rewrite Cane_Serve_First_e1a702fd:
 
-    "当你打开衣柜门时,你在地板上发现了一个废弃的围裙和裤子。"
+    "你打开储物间的门，发现地板上放着一条被丢弃的围裙和一条裤子。房间里满是灰尘，看来已经有一阵子没人进来过了。"
 
 translate schinese_rewrite Cane_Serve_First_3d664d4d:
 
-    "你拿起制服,把灰尘拿开。你开始把灰尘放在自己身上。奇怪的是,它们像手套一样放在你手里,但看起来不像凯恩会穿的。"
+    "你捡起制服，拍掉上面的灰尘，开始往身上穿。奇怪的是，它们穿起来非常合身，却又不像凯恩会穿的衣服。"
 
 translate schinese_rewrite Cane_Serve_First_2d456b6c:
 
-    "你走出衣柜,让凯恩看看你的新服务器服饰。他暗示你为他转过身去,你这样做。你注意到衣服的缝合非常干净。"
+    "你走出储物间，把新服务员服装展示给凯恩。他示意你转一圈，你照做了。你注意到衣服的针脚格外整齐。"
 
 translate schinese_rewrite Cane_Serve_First_f617345c:
 
-    "穿着衣服走动感觉像一个优雅的长相 就像你注定要穿衣服一样。"
+    "穿着这身衣服行动起来轻盈优雅，仿佛它本来就该属于你。你看见凯恩笑了一会儿，神情几乎有些痴迷；他显然对你的模样非常满意。"
 
 translate schinese_rewrite Cane_Serve_First_557b076d:
 
-    c "气色不错啊,现在还不错吧?"
+    c "看起来不错嘛，现在是个漂亮小伙了，嗯？"
 
 translate schinese_rewrite Cane_Serve_First_f2eda8c3:
 
-    e "你的衣服,他们穿起来感觉很好,我非常适合。"
+    e "这身衣服穿起来很舒服，而且非常合身。"
 
 translate schinese_rewrite Cane_Serve_First_c40c4090:
 
-    c "衣服和东西都在那间屋子里好多年了,所以你何不好好工作?"
+    c "对，对，衣服什么的。它们已经在那间屋里放了好几年了。那你还不赶紧用你的屁股干活？"
 
 translate schinese_rewrite Cane_Serve_First_7ac5483a:
 
-    e "好吧,我得到一些订单现在。"
+    e "好吧，我这就去接单。"
 
 translate schinese_rewrite Cane_Serve_First_77ebf5e5:
 
-    c "等等,我做点什么。"
+    c "等等，让我先安排点事。"
 
 translate schinese_rewrite Cane_Serve_First_88656487:
 
-    "凯恩在你们面前走过 他举手鼓掌拍了几次 酒馆里的人 似乎都立刻沉默不语 看着凯恩。"
+    "凯恩走到你面前，抬起手拍了几下。酒馆里的人似乎立刻安静下来，纷纷回头看向凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_6a123d0a:
 
-    c "先生们,让我介绍一下我的新服务器 [e] 他将在接下来的几个小时里 处理你们的请求。"
+    c "先生们，让我介绍一下我的新服务员，[e]。接下来的几个小时里，他会负责满足你们的要求。"
 
 translate schinese_rewrite Cane_Serve_First_26fe63fd:
 
-    "你惊讶地看着酒馆店主,他说话的口音与以前完全不一样。你抓头,向顾客挥手。"
+    "你惊讶地看着酒馆老板。他说话时用的口音和你熟悉的完全不同。你挠了挠头，朝那位客人挥手。"
 
 translate schinese_rewrite Cane_Serve_First_b5e8b817:
 
-    "每一个受访者可能都敲了他们一生中最响亮的掌声,其中一些人甚至用你的名字高喊,尖叫庆祝。"
+    "每一位客人都鼓掌了——那大概是他们这辈子鼓得最响的一次；有些人甚至喊着你的名字，尖叫着欢呼庆祝。"
 
 translate schinese_rewrite Cane_Serve_First_1a8b4404:
 
-    "你开始走向一个举手的赞助人, 并开始接受你的第一个命令。你几乎能听到另一个赞助人在你周围的抱怨, 谈论围裙。"
+    "你走向那个举手的客人，接下了你的第一单。你几乎能听见周围其他客人的窃窃私语，他们似乎都在谈论那条围裙。"
 
 translate schinese_rewrite Cane_Serve_First_afd7e145:
 
-    "凯恩回头看着你 笑得到处都是。"
+    "凯恩回头看着你，咧嘴笑了起来。"
 
 translate schinese_rewrite Cane_Serve_First_d87780c1:
 
-    c "喜欢当着大家的面脱光衣服吗?"
+    c "你喜欢当着所有人的面脱光，嗯？"
 
 translate schinese_rewrite Cane_Serve_First_4d4cee6b:
 
-    e "嘿,凯恩,我只是按你的老板的要求做。"
+    e "嘿，凯恩……我只是照你的客人说的做。"
 
 translate schinese_rewrite Cane_Serve_First_685c601b:
 
-    c "是的,他们都是变态,不认识。"
+    c "对，对。他们全是变态。我还不知道你也是其中一个呢。"
 
 translate schinese_rewrite Cane_Serve_First_3de196ca:
 
-    e "我只是不想让别人失望 还有,你有更多的赞助人来你的酒馆。"
+    e "嗯……我只是不想让大家失望，再说，你的酒馆现在又多了些客人。"
 
 translate schinese_rewrite Cane_Serve_First_8d28d7ad:
 
-    c "好吧 至少现在我们可以把围裙放下了。"
+    c "你说得对。好吧，至少现在可以让围裙歇一歇了，之类的。"
 
 translate schinese_rewrite Cane_Serve_First_9a11f9d3:
 
-    c "你甚至不需要穿任何东西。"
+    c "你甚至什么都不用穿。"
 
 translate schinese_rewrite Cane_Serve_First_41a2b89e:
 
-    "凯恩笑你裸体的样子, 他令人惊讶地说最少。"
+    "凯恩看着你赤裸的身体笑了起来；说真的，他显然相当惊喜。"
 
 translate schinese_rewrite Cane_Serve_First_376edd1c:
 
-    "也许你真的应该考虑 裸体工作,所有的时间..."
+    "也许你真该考虑一直光着工作……"
 
 translate schinese_rewrite Cane_Serve_First_ede32842:
 
-    c "听着,你离开酒馆时穿上普通衣服,嗯?"
+    c "听着，离开酒馆时记得穿上平常的衣服，嗯？"
 
 translate schinese_rewrite Cane_Serve_First_0cca1ca7:
 
-    c "村子里不是每个人都喜欢放荡的服务器。"
+    c "村子里可不是每个人都喜欢一个放荡的服务员。"
 
 translate schinese_rewrite Cane_Serve_First_c2efb15f:
 
-    c "不是说我不喜欢耶尔风格 我喜欢。"
+    c "……我不是说我不喜欢你的风格。我喜欢得很。"
 
 translate schinese_rewrite Cane_Serve_First_79229c58:
 
-    e "哦..."
+    e "噢……凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_a34b4850:
 
-    c "这是150金子,我这里的人多了,多亏了肥肥的屁股。"
+    c "这是你的150金币。多亏你那肥硕又多汁的屁股，我这里现在客人多得多了。"
 
 translate schinese_rewrite Cane_Serve_First_cf59e35f:
 
-    e "这是... 很多。"
+    e "这……真不少。"
 
 translate schinese_rewrite Cane_Serve_First_c1b534e6:
 
-    c "是的 只要你一直这样为我工作。"
+    c "是啊。只要你继续这样替我工作，说不定你的屁股还能赚更多。"
 
 translate schinese_rewrite Cane_Serve_First_7536fa5a:
 
-    e "好吧,我会考虑的 再见,凯恩。"
+    e "好……好吧，我会考虑的！再见，凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_360f0bd6:
 
-    c "先穿上你的衣服!"
+    c "先把衣服穿上！"
 
 translate schinese_rewrite Cane_Serve_First_6c93000e:
 
-    "肯尼... 他似乎对你的表演很满意 但看起来他脸上还是有些悲伤。"
+    "凯恩……他看起来对你在这里的表现很满意，不过脸上似乎仍带着几分愁容。"
 
 translate schinese_rewrite Cane_Serve_First_9e78d2bf:
 
-    "他的眉毛太明显了,他有烦恼。"
+    "他紧锁的眉头明显得不能再明显，显然有什么事在困扰他。"
 
 translate schinese_rewrite Cane_Serve_First_3736c33e:
 
-    "你不敢问他你工作之外的事,所以你跟凯恩很亲近,你向他挥手让他知道你的存在。"
+    "你不敢问他工作以外的事，于是走到凯恩面前，挥手示意自己来了。"
 
 translate schinese_rewrite Cane_Serve_First_1e71a28a:
 
-    c "做得好,小伙子,让我看看,[owed_gold]！"
+    c "干得好，漂亮小伙。让我看看……[owed_gold]。对，就是这个数！"
 
 translate schinese_rewrite Cane_Serve_First_0da5722f:
 
-    c "做得好,小伙子,我看看,给你50个金子！"
+    c "干得好，漂亮小伙。让我看看……给你50金币。对，就是这样！"
 
 translate schinese_rewrite Cane_Serve_First_66fc3a5a:
 
-    e "谢了！"
+    e "谢谢！"
 
 translate schinese_rewrite Cane_Serve_First_58261a60:
 
-    e "嘿,凯恩,好像有人真的喜欢我。"
+    e "嘿，凯恩。好像真的有些人很喜欢我，特别喜欢。"
 
 translate schinese_rewrite Cane_Serve_First_27454513:
 
-    c "别逗我笑,不是每个人都像你一样 色鬼,他们只是来买围裙的。"
+    c "哈……别逗我笑了。不是所有人都像你一样是个好色鬼。他们只是冲着这条围裙来的。"
 
 translate schinese_rewrite Cane_Serve_First_bd1014f4:
 
-    e "嗯?为什么?"
+    e "嗯？为什么？"
 
 translate schinese_rewrite Cane_Serve_First_49be60b3:
 
-    c "算了,围裙看起来不错。"
+    c "没什么。倒是这条围裙穿你身上挺好看的。"
 
 translate schinese_rewrite Cane_Serve_First_faa7d97b:
 
@@ -6862,311 +6862,311 @@ translate schinese_rewrite Cane_Serve_First_faa7d97b:
 
 translate schinese_rewrite Cane_Serve_First_bd0a5f88:
 
-    c "如果你愿意, 更经常地回来, 做我的服务器几小时。"
+    c "如果你愿意，就多回来几次，替我当几个小时的服务员。"
 
 translate schinese_rewrite Cane_Serve_First_90bc5d50:
 
-    e "好吧... 只要我得到报酬。"
+    e "好吧……只要给钱。"
 
 translate schinese_rewrite Cane_Serve_First_5976e452:
 
-    c "远远不止于yer实际工作。"
+    c "比你真正的工作赚得多得多。"
 
 translate schinese_rewrite Cane_Serve_First_117d4c18:
 
-    e "太好了,这是承诺 再见,凯恩。"
+    e "太好了，那就这么说定了。再见，凯恩。"
 
 translate schinese_rewrite Cane_Serve_First_98573fca:
 
-    c "是的。"
+    c "好，好。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_eafab2e0:
 
-    "接下来的几个小时里 你冲进酒馆的餐桌里 点菜后按顺序下订单 端着啤酒后端的托盘。"
+    "接下来的几个小时里，你在酒馆的桌子间来回奔忙，接下一单又一单的订单，端着一托盘又一托盘的啤酒。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_4ada4de1:
 
-    "有时你可能把几滴啤酒洒到地上 但顾客对你非常温柔。"
+    "有时你会把几滴啤酒洒在地上，但客人们却出奇地温柔。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_3fffc14c:
 
-    "几乎太温柔了 遇到他们时甚至道歉。"
+    "甚至温柔得有些过头了——撞到你时，他们还会道歉。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_f16a1d28:
 
-    "你感觉像在酒馆的焦点, 每个人都在看着你, 甚至凯恩给你一个侧眼 时不时。"
+    "你感觉自己成了酒馆的焦点，每个人都在看你，连凯恩也时不时从旁边瞥你一眼。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_ba2f7cfe:
 
-    "但在第一个小时后 你似乎习惯了这种感觉。"
+    "但过了第一个小时，你似乎已经习惯了这种感觉。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_69067c75:
 
-    "但是,他们没有正常地看你,不是吗?"
+    "然而，他们看你的方式并不正常。对吧？"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_b435ea60:
 
-    "他们看起来... 几乎是淫秽的,热情的... 订购任何东西 只是为了让你更接近他们。"
+    "他们看起来……几乎带着淫欲，热切地想点些什么，只为了让你靠近他们。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_82d983cb:
 
-    "每次你回酒馆的时候 顾客似乎比你上次检查的多。"
+    "每次你回头看向酒馆，客人似乎都比上次多。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_ee90f643:
 
-    "他们被酒馆新服务器的消息吸引了吗?他们怎么这么疯狂地对一个工人发疯?"
+    "难道是酒馆来了新服务员的消息吸引了他们？他们怎么会对一个伙计如此疯狂？"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_b529dfe4:
 
-    "毕竟,你是来为你的赞助人服务,而不是解开谜团的。"
+    "你决定先把这些没想明白的念头放下。毕竟，你是来为客人服务的，不是来解谜的。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_930469ce:
 
-    "你专心于及时交付你的订单, 排在柜台和桌子之间。"
+    "你专心及时送上客人点的东西，在柜台和桌子之间飞奔。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_9fcf5098:
 
-    "但过了一阵子,你就会被一些随机的顾客扇了几次耳光。"
+    "不过没过多久，一些陌生客人就开始随手拍你的屁股，接连拍了好几下。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_4e41b9c8:
 
-    "你甚至不知道他们是谁, 但你确定自己屁股的弹跳 能够听到响亮和清晰的地方周围。"
+    "你甚至不知道他们是谁，但你确信自己屁股弹动的声音在整个酒馆都清晰可闻。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_38eff8af:
 
-    patron "请再来一杯啤酒。"
+    patron "再来一杯啤酒，谢谢。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_2d4c40c1:
 
-    "你一听到声音就去找声音源 赞助人就开始引导你介绍他的朋友。"
+    "一听到声音，你立刻转向声音来源。那位客人开始比划着，示意你向他的朋友自我介绍。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_23d506bd:
 
-    e "...我是[e],今天我帮你点餐。"
+    e "……你好，我是[e]，今天由我来为你点单。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_38144ae0:
 
-    patron2 "是啊,你也许可以把我的老二 放在你嘴里,服务员。"
+    patron2 "对啊，说不定你可以把我的鸡巴含进嘴里，服务员。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_a93ba61c:
 
-    e "嗯... 我不认为我会..."
+    e "咳……我想我不会……"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_3fa41558:
 
-    patron2 "我很遗憾没让你那 漂亮的小脸蛋去工作。"
+    patron2 "你确定不愿意？我会很遗憾没法让你那张漂亮的毛茸茸小脸派上用场。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_cbc6cb0d:
 
-    e "我说过了,不,我不这样做。"
+    e "我说了，不。我不做这种事。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fcb07c59:
 
-    patron2 "我知道你和凯恩老头子背后的故事 你可能很喜欢这个吧?"
+    patron2 "听着……我知道你和老凯恩之间的故事。你肯定很喜欢这样，对吧？别担心，我们这里都喜欢你。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_c9867601:
 
-    patron2 "我们可以从一些非常光亮的东西开始。你不如把那条旧围裙脱下来, 和我们所有想看的人摇你的屁股。"
+    patron2 "我们可以从轻一点的开始。比如，脱掉那条旧围裙，给我们这些想看的人扭扭屁股，怎么样？"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_6b70fcfd:
 
-    e "Uhmm..."
+    e "呃……"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_77989197:
 
-    "你立刻对他的评论感到羞耻。也许他是对的,你在这里工作这么多, 以至于赞助人开始认出你为他们的热切服务器。"
+    "你立刻因为他的话红了脸。也许他说得没错：你在这里工作得太频繁，客人们已经开始认出你这个干劲十足的服务员了。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fa9fb971:
 
-    "酒馆里的人都为你欢呼,甚至向你吹口哨,凯恩也看着你,与赞助者一道欢呼。"
+    "酒馆里所有人都在为你欢呼，甚至朝你吹口哨。凯恩也看着你，和客人们一起起哄。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_cedf49d9:
 
-    "你感觉自己处于关注的中心 不知怎的... 感觉很惊人。"
+    "你感觉自己成了众人瞩目的中心，而不知怎么的……这种感觉棒极了。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_853dd4b0:
 
-    "是的,尽管你不想承认,你仍然拼命地试图取悦在你面前的人。"
+    "是的，尽管你不愿承认，你仍在拼命讨好面前这些男人。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_f8d2fa2e:
 
-    "你不是冒险家,你只是酒馆里的服务器,你喜欢这个。"
+    "你不是冒险家，只是这家酒馆里的一个小小服务员。而你喜欢这样。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fdac3ef9:
 
-    e "O-ok。"
+    e "好……好吧。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_10eada3b:
 
-    "酒馆马上充满了怒吼和赞美 每个人都在看着你。"
+    "酒馆瞬间充满欢呼与赞美的吼声，所有人都在看着你。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_2041de1c:
 
-    "把盘子放在桌子上, 开始松开围裙带。"
+    "你慌忙把托盘放在桌上，开始松开围裙的系带。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_3a8b58e2:
 
-    patron "耶耶哈!哇喔!"
+    patron "耶啊！呜呼！！！"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_98ef541f:
 
-    patron "[e]![e]![e]![e]!"
+    patron "[e]！[e]！[e]！[e]！……"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_3dd925dd:
 
-    "当你完全脱下围裙 揭开你的胸口时 赞助人开始高呼你的名字。"
+    "当你彻底脱下围裙、露出赤裸的胸膛时，客人们开始高喊你的名字。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_43c671ed:
 
-    patron2 "他现在看起来更美味了。"
+    patron2 "他现在看起来可美味多了。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_a5a64d06:
 
-    patron "是的,他就是。看看他的乳房。"
+    patron "没错。看看他的胸。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_026f0efd:
 
-    patron2 "继续,脱下裤子！"
+    patron2 "哈哈，继续！把裤子也脱给我们看！！！"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_23122780:
 
-    "你对他们令人欲火焚身的言论充满怨恨,但你无法想象有一天你会在数十名顾客面前脱光衣服。"
+    "你陶醉于他们淫荡的评论中，却怎么也想不到自己有一天会在几十名客人面前脱光。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_ac317df8:
 
-    "所有人都盯着你 你慢慢脱下腰带 解开裤子。"
+    "在所有人的注视下，你慢慢解下腰带，解开裤子的纽扣。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fb60ad70:
 
-    "你慢慢地把裤子放下 以向公众透露的皮肤的英寸和英寸 来取笑顾客。"
+    "你一点一点地褪下裤子，用逐寸暴露在众人面前的皮肤挑逗着客人。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_ce4b91f2:
 
-    "很快,每个人都能看到你的阴茎, 完全暴露。"
+    "很快，所有人都看见了你未割礼的阴茎，彻底暴露在外。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_7a709fac:
 
-    "你把围裙和裤子带去凯恩, 她看起来很惊讶,但还是对你笑。"
+    "你把围裙和裤子拿给凯恩。他看起来很惊讶，却仍对你露出笑容。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_beeecc23:
 
-    "有些被你老二的尺寸毒死 有些被他们打气。"
+    "有些人因你阴茎的尺寸倒吸一口凉气，有些人则欢呼起来。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_7d6ae282:
 
-    "他们又开始高呼你的名字, 鼓掌看着你的成员在走动时到处乱晃。"
+    "他们再次开始高喊你的名字，鼓掌看着你的肉棒随着你走动而晃来晃去。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_a13debea:
 
-    "脱光衣服后,你可以看到更多的人 走进酒馆来见你。"
+    "脱掉衣服后，你看到更多人走进酒馆，只为看你。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fa3eb0cd:
 
-    "你现在肯定了 这不是他们想要的围裙 而是你。"
+    "现在你确定了：他们想要的不是围裙，而是你。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_b1226cf5:
 
-    "他们继续打你的屁股 当你经过, 事实上,他们现在更用力打 因为你暴露的毛毛后面。"
+    "每当你经过，他们就继续拍你的屁股；事实上，因为你露出的毛茸茸屁股，他们现在拍得更用力了。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_221ebd97:
 
-    "根据凯恩的规矩,钱应该属于他。 但行动本身已经使你充满了兴奋。"
+    "客人们给你塞了很多小费，按凯恩的规矩，这些钱本该归他。但光是这一切就已经让你兴奋得飘飘然。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_9f2be9f8:
 
-    "人们开始随便摸你的胸口 在你耳边低语脏话 抚摸你的鸡巴。"
+    "人们开始随意抚摸你的胸膛，在你耳边低声说着下流话，同时抚弄你的阴茎。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_135c6aa8:
 
-    "有人甚至邀请你到楼上的一间房间 一组人。"
+    "有些人甚至邀请你和一群人一起去楼上的房间。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_099c0b6b:
 
-    "但你礼貌地否认 红线仍然被划过 你不打算很快越过。"
+    "但你礼貌地拒绝了；底线仍然存在，而你暂时还没打算跨过去。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_9b6fd6ee:
 
-    "时间过得太快,你现在才意识到 你的工作已经完成了。"
+    "你一盘接一盘地端着餐盘。时间过得太快，直到现在你才意识到工作已经结束了。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_451d1529:
 
-    "你步行去凯恩 要求完成你的轮班。"
+    "你走到凯恩面前，请他确认你已经完成了轮班。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_c9e80490:
 
-    e "正如我所说。不。"
+    e "我说了，不。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_e4389356:
 
-    patron2 "冷静,这又不是你唯一的目的。"
+    patron2 "好……好吧。冷静点。你在酒馆里又不只是为了这个才来的，哈哈。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_fee3aac5:
 
-    "他的其他朋友开始嘲笑他的评论。你回过头来看你托盘中的反射,你是一个冒险家,[e]。"
+    "他的其他朋友开始嘲笑这句话。你回头看向托盘中的倒影——你是个冒险家，[e]。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_79141be6:
 
-    "从什么时候开始它成了陌生人的侍奉 让他们利用你。"
+    "究竟从什么时候起，你来这里变成了伺候陌生人、任由他们占便宜？"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_4d1dd737:
 
-    "但内心深处,你喜欢他们照耀你的聚光灯。"
+    "你知道自己是为了钱。但在内心深处，你喜欢他们投向你的聚光灯。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_4aac980c:
 
-    "你感受到了不断的赞美和爱的光芒 以及所有绅士们再次下命令的冲动。"
+    "你感受着源源不断的赞美与爱意，也感到一种冲动，想再为每位风度翩翩的先生接下一单。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_1d99bab7:
 
-    "每过一秒,这种感觉就会更强烈 每次有人叫你乖孩子时 就会有多巴胺的潮流。"
+    "每过去一秒，这种感觉就更强烈；每当有人叫你“乖孩子”，那股多巴胺的冲劲就会涌上来。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_0b1646e6:
 
-    "很快,你的思想被蒙上阴影 被那些受宠若惊和赞美的想法所蒙蔽。"
+    "很快，你的思绪便被想要被宠爱、被夸奖的念头笼罩。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_afe35ccd:
 
-    "你摇头,这些侵扰性的想法最好只停留在思想上。"
+    "你摇了摇头。这些侵入性的想法，最好就只停留在脑海里。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_ab368fa1:
 
-    "你不可能这样贬低自己 所以你继续执行命令。"
+    "你绝不会这样贬低自己。所以，你继续替客人们接单。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_9b6fd6ee_1:
 
-    "时间过得太快,你现在才意识到 你的工作已经完成了。"
+    "你一盘接一盘地端着餐盘。时间过得太快，直到现在你才意识到工作已经结束了。"
 
 translate schinese_rewrite Scene_Nocturnal_Serve_451d1529_1:
 
-    "你步行去凯恩 要求完成你的轮班。"
+    "你走到凯恩面前，请他确认你已经完成了轮班。"
 
 translate schinese_rewrite Cane_NoMoney_No_8776ea0c:
 
-    e "不,我晚点还给你。"
+    e "不……我晚点再还你。"
 
 translate schinese_rewrite Cane_NoMoney_No_ecf9ee0b:
 
-    c "是吗 你不想在这里拿到免费钱吗?"
+    c "真的？你不想直接在这里白拿点钱吗？好吧……那可是你的损失。"
 
 translate schinese_rewrite Cane_NoMoney_No_0b4c628d:
 
-    c "你只要还我欠我的钱 随时随地都是[owed_gold]。"
+    c "那你就把欠我的钱还回来吧，欠款是[owed_gold]。你想什么时候还都行。"
 
 translate schinese_rewrite Cane_NoMoney_No_943649a0:
 
-    e "好吧,谢谢凯恩。"
+    e "好吧……谢谢你，凯恩。"
 
 translate schinese_rewrite Cane_NoMoney_No_7ad9c6e8:
 
-    c "记得叫蜥蜴朋友来。"
+    c "好。记得常叫你的蜥蜴朋友过来。"
 
 translate schinese_rewrite Lothar_First_02b27362:
 
-    my "你是大家一直在谈论的局外人。"
+    my "你就是大家都在谈论的那个外来者。"
 
 translate schinese_rewrite Lothar_First_eb5d41a5:
 
-    "当你打开门时,一只巨狼来到你眼中,他冲向你的双臂横冲直撞,他凶猛的目光尖锐地盯着你的眼睛,拒绝漂移到别的地方。"
+    "你打开门时，一头巨狼映入眼帘。他交叉着双臂朝你挥手。那双凶狠的眼睛死死盯着你，仿佛不肯移开半分。"
 
 translate schinese_rewrite Lothar_First_2b40a022:
 
@@ -7174,99 +7174,99 @@ translate schinese_rewrite Lothar_First_2b40a022:
 
 translate schinese_rewrite Lothar_First_a1e9b59c:
 
-    my "昨天我看到你了 山羊 你不是山羊吗?"
+    my "我昨天见过你。那只山羊。你不是山羊吗？"
 
 translate schinese_rewrite Lothar_First_98037a6e:
 
-    e "你在说什么?"
+    e "你在说什么？"
 
 translate schinese_rewrite Lothar_First_336da625:
 
-    my "象龙一样 皮毛吗 别告诉我你是公牛..."
+    my "嗯……像龙？长着毛？别告诉我你是头公牛……"
 
 translate schinese_rewrite Lothar_First_78915c29:
 
-    my "算了,算了,别告诉我。"
+    my "算了。忘了吧。别告诉我了。"
 
 translate schinese_rewrite Lothar_First_46b8308f:
 
-    e "我是龙..."
+    e "我是龙……"
 
 translate schinese_rewrite Lothar_First_79e988e5:
 
-    my "是的 龙 奥勒跟我说过你 店里那两个人想让我 乐斯民菲尔德的英雄来训练你？"
+    my "对，龙。奥利跟我提过你。店里那两个人想让我——乐斯民菲尔德的英雄——来训练你。你一定不只是普通的什么，对吧？"
 
 translate schinese_rewrite Lothar_First_660b31e4:
 
-    my "我想你知道我是谁吗?" nointeract
+    my "那么，我想你应该知道我是谁了吧？" nointeract
 
 translate schinese_rewrite Lothar_Correct_4064657b:
 
-    e "你是洛萨尔吗?"
+    e "你是……洛萨尔？"
 
 translate schinese_rewrite Lothar_Correct_b14e8a33:
 
-    "野狼眉眉长了一点 然后你看到他脸上大笑 肯定告诉你你是对的。"
+    "狼抬了抬眉，随后你看到他脸上绽开一个大大的笑容——显然是在告诉你猜对了。"
 
 translate schinese_rewrite Lothar_Correct_c31f797f:
 
-    l "哈,好,好,我想你的蜥蜴朋友 把你教得很好,真的很好。"
+    l "哈。很好，很好。我猜你的蜥蜴朋友把你教得不错，真的不错。"
 
 translate schinese_rewrite Lothar_Correct_e82a89c2:
 
-    e "呃... 他是不是不喜欢鳄鱼..."
+    e "呃……他不是更像鳄鱼吗……"
 
 translate schinese_rewrite Lothar_Correct_c8156c81:
 
-    l "千万别被细节牵扯进去,好吗?"
+    l "别在这些细节上钻牛角尖，好吗？你肯定该记住我的名字了。我们继续吧。"
 
 translate schinese_rewrite Lothar_Correct2_aba21d07:
 
-    "鲁萨向你走来,他伸出手和手,然后转脸,用爪子慢慢抬起下巴,他为你们点头。"
+    "洛萨尔走近你，先伸手抓住你的手腕，然后转到你面前，用爪子慢慢抬起你的下巴。他满意地点了点头。"
 
 translate schinese_rewrite Lothar_Correct2_fb5ba2ad:
 
-    l "看来你很有潜力 特别是当拳击手。"
+    l "那么。我看得出来，你很有潜力，尤其适合当战士。"
 
 translate schinese_rewrite Lothar_Correct2_70a5b152:
 
-    l "我想我可以教你一两件东西 如果你愿意练习和学习的话 可能还要多一些。"
+    l "我想我可以教你一招半式；只要你愿意练习、愿意学习，说不定还能教得更多。"
 
 translate schinese_rewrite Lothar_Correct2_1a37fca2:
 
-    e "太好了,我一定会从你那里学到东西的。"
+    e "太好了，我肯定会好好向你学习。"
 
 translate schinese_rewrite Lothar_Correct2_2a2ca5e0:
 
-    l "毕竟我是乐斯民菲尔德的英雄 我想你可以学着拿我的包 和像你的蜥蜴朋友整天一样 洗我家的地板。"
+    l "很好。毕竟，我可是乐斯民菲尔德的英雄。我想你可以学着替我提包，再像你的蜥蜴朋友一样，整天帮我刷家里的地板。"
 
 translate schinese_rewrite Lothar_Correct2_df9d2670:
 
-    e "洛萨尔,你不会是认真的吧..."
+    e "什么……？洛萨尔，你不会是认真的吧……"
 
 translate schinese_rewrite Lothar_Correct2_27686842:
 
-    l "我开玩笑的,你的蜥蜴朋友可以背部打几拳。"
+    l "我开玩笑的。拿你的蜥蜴朋友开几句玩笑而已。"
 
 translate schinese_rewrite Lothar_Correct2_2eacdb04:
 
-    "狼显然在嘲笑他自己的笑话 他似乎不知道你的存在 你只是盯着他看 试图在打他的脸之前冷静下来。"
+    "那头狼显然正为自己的笑话窃笑。他似乎完全没意识到你的存在；你只是盯着他，努力在一拳打到他脸上之前平复心情。"
 
 translate schinese_rewrite Lothar_Correct2_ed88ea2f:
 
-    l "很高兴认识你 [e] 顺便提一下 我从蜥蜴那里得到你的名字 他让我教你一些小把戏。"
+    l "好吧，很高兴认识你，[e]。顺便说一句，我是从那只蜥蜴那里知道你的名字的。他坚持要我教你一些技巧和诀窍。"
 
 translate schinese_rewrite Lothar_Correct2_9c55268a:
 
-    e "很高兴认识你,洛萨尔..."
+    e "很高兴认识你，洛萨尔……"
 
 translate schinese_rewrite Lothar_Correct2_2655e399:
 
-    l "我得准备一些设备 让你试练我们训练的训练。"
+    l "我得准备些装备，让你在接下来的训练里试试。几个小时后再来这里找我。"
 
 translate schinese_rewrite Lothar_Correct2_5fd10514:
 
-    e "好吧……"
+    e "好……"
 
 translate schinese_rewrite Lothar_Correct2_07f52f7b:
 
@@ -7274,163 +7274,163 @@ translate schinese_rewrite Lothar_Correct2_07f52f7b:
 
 translate schinese_rewrite Lothar_Correct2_a86ebcc4:
 
-    "你看着他,直到他上楼消失在房间里。"
+    "你看着洛萨尔轻快地走开，一边交叉着手臂慢慢吹着口哨。直到他上楼走进房间、消失不见，你才收回目光。"
 
 translate schinese_rewrite Lothar_Who_61ba7d89:
 
-    e "你是谁?"
+    e "呃……你、你是谁？"
 
 translate schinese_rewrite Lothar_Who_869ae974:
 
-    l "你?"
+    l "你——？？？"
 
 translate schinese_rewrite Lothar_Who_d254360d:
 
-    "狼越来越愤怒 几乎以某种方式威胁你 直到他几分钟后冷静下来 发出长长的叹息。"
+    "狼明显开始恼火，甚至隐隐带着威胁之意；几秒后他才冷静下来，长长地叹了口气。"
 
 translate schinese_rewrite Lothar_Who_6f27df95:
 
-    l "我是乐斯民菲尔德的守护者,如果你忘了的话,你叫什么名字?"
+    l "你是个傲慢的定居者，对吧？我是洛萨尔，乐斯民菲尔德的守护者——如果你已经忘了的话。现在，说说你的名字。"
 
 translate schinese_rewrite Lothar_Who_7a86005e:
 
-    e "我是[e] 很高兴认识你,洛萨尔 我昨天才到这里。"
+    e "我叫[e]。很高兴认识你，洛萨尔。我昨天才到这里，对不起，我不知道你是谁。"
 
 translate schinese_rewrite Lothar_Who_e1d5f38c:
 
-    l "是的,蜥蜴跟我谈起你的名字 他也跟你谈起过我,不是吗?[e]。" nointeract
+    l "没错，那只蜥蜴跟我提过你的名字。他也跟你提过我，对吧？不过我原谅你了，[e]。" nointeract
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_9d6c8625:
 
-    l "我有一个冒险计划 让你看到真正的英雄在行动。"
+    l "弟子，我为你安排了一场冒险，让你见识真正的英雄如何行动。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_51ce808e:
 
-    e "听起来不错... 但我不是已经看见你带着歌歌声了吗?"
+    e "听起来不错……但我不是已经见过你和魔像战斗了吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_8f5a5253:
 
-    l "今天,我们将清除村民们抱怨的怪物。"
+    l "那还不够英勇。今天我们要消灭一个村民们一直抱怨的怪物。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_fdee1807:
 
-    "这是一份声明,你似乎对此没有选择。"
+    "这是一句陈述。看来这件事你没得选。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_b849ced5:
 
-    e "好吧,能给我点时间准备一下吗?"
+    e "好吧。能给我一点时间准备吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_a77047e7:
 
-    l "英雄应该时刻做好准备 门徒。"
+    l "英雄应该随时做好准备，弟子。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_b5c34624:
 
-    l "要学这个,你一定不知道,你跟我来。"
+    l "要学会这一点，你就得在毫无准备时被抓住。跟我来。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_32ed943d:
 
-    "你呻吟,你真没想到会这样无缘无故跑掉。"
+    "你呻吟了一声。你真没想到会这样毫无预兆地被拽走。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_f5d2978f:
 
-    "洛萨尔看着你,他那无时无刻的傲慢自大的脸脸。"
+    "洛萨尔用他一贯傲慢的表情看着你。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_efe016f1:
 
-    l "英雄从不抱怨 滚开跟我来。"
+    l "英雄从不抱怨。赶紧从你屁股上起来，跟我走。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_43296b10:
 
-    "洛萨尔开始走人了,你快点追他。"
+    "洛萨尔开始往前走，你连忙跟了上去。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_7263f6ba:
 
-    "说真的,也许他没给你时间和你谈谈是件好事 想想你打算指出他抱怨的次数。"
+    "说实话，他没给你开口的机会反倒是件好事，毕竟你本来就打算指出他有多爱抱怨。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_4f0ddf8e:
 
-    e "我今天有快递工作要处理,抱歉... 但是我们可以改天再做吗?"
+    e "我今天还有送货的工作要做，抱歉……我们能改天再去吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_f7c3c616:
 
-    "Lottar缩小了他的眼睛。"
+    "洛萨尔眯起了眼睛。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_e4201c2a:
 
-    "这不是谎言... 你只是在伸展真相而已。"
+    "这不算撒谎……你只是在把事实说得夸张了点。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_d07a963e:
 
-    l "如果你忙的话,那也帮不上忙。"
+    l "你要是有事在忙，那也没办法。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_15dc143f:
 
-    l "不过你需要尽快向我汇报 英雄从不逃避责任。"
+    l "不过你得尽快回来向我汇报。英雄从不逃避责任。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_05043cea:
 
-    e "洛萨尔,你没提过卢斯特福克家 抱怨的怪物吗?"
+    e "洛萨尔，你之前是不是提过，乐斯民菲尔德的人一直在抱怨的那个怪物？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_e6402c67:
 
-    l "是的,现在... 你准备好了吗?"
+    l "对，现在……你准备好了吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_b849ced5:
 
-    e "好吧,能给我点时间准备一下吗?"
+    e "好吧。能给我一点时间准备吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_a77047e7:
 
-    l "英雄应该时刻做好准备 门徒。"
+    l "英雄应该随时做好准备，弟子。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_b5c34624:
 
-    l "要学这个,你一定不知道,你跟我来。"
+    l "要学会这一点，你就得在毫无准备时被抓住。跟我来。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_32ed943d:
 
-    "你呻吟,你真没想到会这样无缘无故跑掉。"
+    "你呻吟了一声。你真没想到会这样毫无预兆地被拽走。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_f5d2978f:
 
-    "洛萨尔看着你,他那无时无刻的傲慢自大的脸脸。"
+    "洛萨尔用他一贯傲慢的表情看着你。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_efe016f1:
 
-    l "英雄从不抱怨 滚开跟我来。"
+    l "英雄从不抱怨。赶紧从你屁股上起来，跟我走。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_43296b10:
 
-    "洛萨尔开始走人了,你快点追他。"
+    "洛萨尔开始往前走，你连忙跟了上去。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_7263f6ba:
 
-    "说真的,也许他没给你时间和你谈谈是件好事 想想你打算指出他抱怨的次数。"
+    "说实话，他没给你开口的机会反倒是件好事，毕竟你本来就打算指出他有多爱抱怨。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_4f0ddf8e:
 
-    e "我今天有快递工作要处理,抱歉... 但是我们可以改天再做吗?"
+    e "我今天还有送货的工作要做，抱歉……我们能改天再去吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_f7c3c616:
 
-    "Lottar缩小了他的眼睛。"
+    "洛萨尔眯起了眼睛。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_e4201c2a:
 
-    "这不是谎言... 你只是在伸展真相而已。"
+    "这不算撒谎……你只是在把事实说得夸张了点。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_d07a963e:
 
-    l "如果你忙的话,那也帮不上忙。"
+    l "你要是有事在忙，那也没办法。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Quest_Ready_15dc143f:
 
-    l "不过你需要尽快向我汇报 英雄从不逃避责任。"
+    l "不过你得尽快回来向我汇报。英雄从不逃避责任。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2d2a5591:
 
-    "你和洛萨尔在森林里走过一段时间了, 洛萨尔遵循一些未知的方向, 你跟着他。"
+    "你和洛萨尔已经在森林里走了一阵子。洛萨尔依照某套不知从何而来的方向走着，而你跟在他身后。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7:
 
@@ -7438,103 +7438,103 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_02b2254e:
 
-    e "那么..."
+    e "所以……洛萨尔。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f8e470c5:
 
-    "洛萨尔的呼噜声在承认, 但继续走。"
+    "洛萨尔哼了一声表示回应，却没有停下脚步。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a4806ab1:
 
-    e "我们到底在猎杀什么怪物?"
+    e "我们到底在猎杀什么怪物？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_242870d1:
 
-    l "英雄应该为任何敌人做好准备!"
+    l "英雄必须为任何一种敌人做好准备！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_07ea8214:
 
-    e "请,我能知道吗?"
+    e "拜托？我能知道吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_56f825fb:
 
-    "洛萨尔叹气摇头。"
+    "洛萨尔叹了口气，摇了摇头。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8ea3cca1:
 
-    l "好吧,但你很幸运 有这样一个慷慨的导师。"
+    l "好吧，不过你很幸运，有我这么慷慨的导师。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6978c82e:
 
-    l "我们正在猎杀一个植物怪物 据报道,它正在骚扰当地人。"
+    l "我们要猎杀的是一只植物怪物。据说它一直在骚扰当地人。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_1f5a8efa:
 
-    "他继续行军,仿佛那简短的字条解释了一切。"
+    "他继续大步前进，仿佛这短短一句话已经解释了一切。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2adf4679:
 
-    e "他们怎么烦恼的 伤害他们还是什么?"
+    e "它是怎么骚扰他们的？伤害他们之类的吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_15b07ca5:
 
-    "洛萨尔不会转身 但你可以感觉到他的笑容 即使没有看到。"
+    "洛萨尔没有回头，但即使看不见他的脸，你也能感觉到他在笑。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_77b9e8b0:
 
-    l "徒弟,你怕受伤吗?"
+    l "怎么，弟子？你怕受伤吗？我还以为我把你训练得更好呢。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_7e993d26:
 
-    e "不,我只是想了解 城镇居民到底怎么了。"
+    e "不，我只是想弄清楚镇民们到底遭遇了什么。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_90dc723c:
 
-    "洛萨尔在走路时 头部沉浸在承认中。"
+    "洛萨尔一边走，一边点了点头表示认可。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_045c3df5:
 
-    l "很公平 英雄关心自己的人民是好事。"
+    l "这倒也合理。英雄关心自己的人民是好事。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_d11f8021:
 
-    l "它一直在攻击村民,但不是致命的。"
+    l "它一直在攻击村民，但并不致命。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_74cdeaff:
 
-    l "大部分乡下人带着杂乱的衣服回来 可能还有两处瘀伤。"
+    l "大多数镇民回来时衣服都皱巴巴的，身上可能还带着几处淤青。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_228a1512:
 
-    e "那为什么这么重要要取下来呢?"
+    e "那为什么非得除掉它不可？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_20708bb2:
 
-    l "英雄不该从战斗中退缩 主要是。"
+    l "主要是因为英雄绝不能在战斗面前退缩。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_87f5ec85:
 
-    l "但他们似乎也有点心烦意乱。他们报告说,遇到它后感到有点疲惫和兴奋。"
+    l "但它似乎还会影响他们的精神状态。他们说遇到它之后会有些头晕，而且兴奋得飘飘然。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_fae004d5:
 
-    "这是..."
+    "那……有点奇怪。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2af5c694:
 
-    e "在这种情况下,她们的行为是否有所不同?"
+    e "他们在那种情况下会表现得不一样吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2abef7bb:
 
-    l "我问了,然后..."
+    l "我问过了，然后……"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b361b165:
 
-    "洛特尔首次暂停了演讲。"
+    "这是洛萨尔到目前为止第一次停下说话。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_24d67119:
 
-    l "他们都对此非常小心翼翼,我以为他们只是害怕 站在乐斯民菲尔德英雄面前。"
+    l "他们都对此含糊其辞。我以为他们只是因为站在乐斯民菲尔德的英雄面前而心生敬畏。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_1:
 
@@ -7542,23 +7542,23 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_1:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_aa62cb2a:
 
-    "你有一种感觉,这不是他们不回答的原因。尽管如此,你还是不明白他们为什么会回答。"
+    "你有种感觉，他们不回答的原因并不是这个。尽管如此，你还是想不通他们真正不愿回答的原因。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_418e97af:
 
-    l "但是,你必须注意我的行动方式, 以便你模仿它,成为我英雄的一部分。"
+    l "不过问题到此为止。你必须仔细观察我的动作，这样才能模仿我，成为我这个英雄的一小部分。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_9198c8ac:
 
-    "漫步了很长一段时间 穿过了各种不同的地标 像树一样 洛萨尔把他的胳膊伸在你面前。"
+    "走了很久，经过那棵树之类的各种地标后，洛萨尔把手臂伸到你面前。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_738d7e98:
 
-    l "我们正在接近怪物。"
+    l "我们快接近那只怪物了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_fd4541ea:
 
-    "洛萨尔把他的剑从草丛里取出来。"
+    "洛萨尔从剑鞘中拔出长剑。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_2:
 
@@ -7566,183 +7566,183 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_2:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c21e0e65:
 
-    "他转眼看你。"
+    "他转过身看向你。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2cb403b0:
 
-    l "为什么你不拔剑?"
+    l "你为什么还不拔剑？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_3d712a1b:
 
-    e "我不知道我应该还来得及吗?"
+    e "我不知道现在就该拔吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f9a6e1f6:
 
-    "洛萨尔从他的剑上拿了一只手 并当面扇他耳光。"
+    "洛萨尔从剑上移开一只手，啪地拍在脸上。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_08f45e2a:
 
-    l "照你的导师说的做 徒弟 这是初学者的事。"
+    l "照你导师说的做，弟子。这可是初学者都该会的东西；你这样出错，会让我很没面子。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_19e3a5a4:
 
-    e "I-"
+    e "我——"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_07667461:
 
-    "你决定反对说什么, 反而解开你的剑。"
+    "你决定还是别说了，转而拔出自己的剑。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_64d54103:
 
-    "洛萨尔认为这已经足够, 并开始重新开始前进。"
+    "洛萨尔觉得这样就够了，转身再次向前走去。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2b57ef3c:
 
-    "几乎仿佛它正在等待一个完美的时刻 在那里,你的两个卫兵都倒下了, 你看到一个巨大的根 穿透了地球。"
+    "它仿佛一直在等待两人的防备都松懈的完美时机；就在这时，你看见一根巨大的树根从地里朝你猛冲过来。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c6f899ea:
 
-    "当它即将落下它的打击时,洛萨尔跳跃向前,用他的剑阻止打击。"
+    "就在树根即将击中你时，洛萨尔向前跃出，用剑挡下了这一击。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_995623b0:
 
-    l "偷袭对英雄是没用的!"
+    l "偷袭对英雄可没用！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_057a48f6:
 
-    "正如他说的,第二个根 从他身后的地球喷出, 冲进洛萨尔的头骨。"
+    "他话音未落，第二根树根从他身后的地面破土而出，朝洛萨尔的头骨砸去。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_980663e0:
 
-    "你的身体在你脑海中移动 冲向前方 用你的武器挡住它。"
+    "你的身体先于思考行动，猛地向前冲去，用武器挡住了它。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_41145a97:
 
-    l "门徒干得漂亮,也许你并非一无所有希望。"
+    l "干得好，弟子！看来你也不是完全无可救药。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8bd52898:
 
-    "工厂释放了所有隐形的假象。"
+    "现在你和洛萨尔背靠着背，植物也不再伪装自己的偷袭。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2ecadfa7:
 
-    "数十根从地上喷出。"
+    "几十根树根从地面破土而出。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8b1641cf:
 
-    "你和洛萨尔是模糊的, 屏蔽和裸体, 将根向任何地方,除了你的身体。"
+    "你和洛萨尔化作一片残影，格挡、拨开并改变树根的方向，让它们无论如何都碰不到你们的身体。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c28c51ed:
 
-    "你们没有取得任何进展。"
+    "不过，你们并没有取得任何进展。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_e0c72082:
 
-    l "让我们看看你能坚持多久!"
+    l "让我们看看你能坚持多久！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_989f0338:
 
-    "你不知道他是在跟你说话 还是在工厂里 但洛德显然有他一生中的时间。"
+    "你不知道他是在对你说，还是在对那株植物说，但洛萨尔显然玩得非常尽兴。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6187e03c:
 
-    "身体的肌肉 肌肉 关节 和关节都准备好了 等待下一次的打击来临。"
+    "他身体的每一块肌肉、每个关节和每条肌腱都已蓄势待发，等待下一击到来。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_be6e67dd:
 
-    l "徒弟,这是英雄的战斗！"
+    l "弟子，这就是英雄的战斗方式！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_15efa9e5:
 
-    "他似乎忘记了,你只做了略少于一半的工作。"
+    "他似乎忘了，这里有将近一半的工作是你在做。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_66ed90a0:
 
-    "你不知道这持续了多久 你所有的想法 都由植物和洛萨尔主宰。"
+    "你不知道这一切持续了多久，脑海里只剩下那株植物和洛萨尔。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dae5b8e1:
 
-    "然而,最终,在你上面的树冠上有动静。"
+    "不过，最终你头顶上方的树冠传来动静。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f9da75f5:
 
-    "你和洛萨尔上面出现了一个明亮的橙色小屋。"
+    "一个明亮的橙色荚果从你和洛萨尔上方探了出来。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6f84ebe6:
 
-    "从它的两侧延伸 成千上万的条茎, 所有的蛇 下到地底 成为根。"
+    "数千条藤蔓从它的两侧伸出，蜿蜒下钻进泥土，变成树根。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_94962c0e:
 
-    l "你在这里,你这个混蛋!"
+    l "原来你在这儿，你这个混蛋！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f64cb945:
 
-    "尽管语言多姿多彩 洛萨尔还是你听过他最开心的 他的声音令人欢喜。"
+    "尽管用词粗俗，洛萨尔却显得比你以往听到的任何时候都开心；他的声音像一声欣喜若狂的咆哮。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b7c74386:
 
-    "洛萨尔转过身来看看你 不知怎的 仍然设法挡住他路上的根。"
+    "洛萨尔转头看向你，却不知怎么还能挡下所有朝他袭来的树根。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b9a0d61a:
 
-    l "去找门徒吧,我一个人能搞定这里所有根！"
+    l "弟子，去把它解决掉！下面这些树根我一个人应付得来！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_3012fb92:
 
-    e "好吧!我会尽力的!"
+    e "好！我会尽力的！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bbc0165d:
 
-    "随之,你滑入了攻击性根部, 当你的势头开始落后时,你踢出地面。"
+    "你随即从袭来的树根下滑过，势头开始减弱时，你蹬地借力。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f9aff859:
 
-    "几个根试图跟着你 但洛萨尔模糊了 来阻拦他们。"
+    "几根树根试图追上你，但洛萨尔化作一道残影冲上前去，将它们挡开。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_317b7e23:
 
-    "你到达舱底的树上 开始攀爬。"
+    "你来到荚果下方的一棵树旁，开始向上攀爬。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_06c93030:
 
-    "上楼时,你往下看洛萨尔。"
+    "爬到半途，你低头看向洛萨尔。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dcdd9963:
 
-    "他是一个银色的旋风。如果你不仔细看, 它看起来像他有4 在每一个时刻, 每一个屏蔽和推倒一个数十根根。"
+    "他像一道银色旋风。如果不仔细看，你甚至会觉得他同时有四个分身，每一个都在挡开、推回数十根树根中的一根。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_e9f8545b:
 
-    "当你继续攀爬时,你就能更好地看一看上面的舱子。"
+    "继续攀爬时，你终于更清楚地看见了上方的荚果。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_37e90ff2:
 
-    "亮橙色 舱子有球形 它发出的光能让舱子透明。"
+    "荚果呈明亮的橙色，形状近乎球形。它散发的光芒让它变得半透明。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_09b72e58:
 
-    "里面有几百万个小点, 每一个小点都像山地绵生种子一样 漂浮在飓风中。"
+    "里面有数百万个微小的光点，像暴风雨中的蒲公英种子一样四处飘浮。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_4cb67b90:
 
-    "这显然对植物至关重要,你肯定攻击舱口会杀死它。"
+    "这显然是植物的核心。你确信只要攻击荚果，就能杀死它。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_47d9cef4:
 
-    "从树树干上拿一只手臂 你再次拿起你的剑。"
+    "你从树干上腾出一只手，再次握住自己的剑。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_12d7c397:
 
-    "这个舱已接近。"
+    "荚果已经近在咫尺。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_0720d238:
 
-    "你把你的刀插入舱内中心。"
+    "你把剑刃刺进荚果中央。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_88bfbc18:
 
-    e "不 你不能自己一个人做！"
+    e "不！你不能一个人做！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_69d70026:
 
@@ -7750,127 +7750,127 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_69d70026:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_e34bc671:
 
-    "Lottar大叫不愉快。"
+    "洛萨尔不悦地吼了一声。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_69188e52:
 
-    l "你认为我应付不了吗?"
+    l "你以为我应付不了吗？！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6ab9b17a:
 
-    l "我忍不住让你也能有经验 门徒。"
+    l "我一直在留手，好让你也能获得经验，弟子。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_cd004b14:
 
-    "洛萨尔的肢体语言发生了根本性的变化 从暴力的流传到杀戮的流传。"
+    "洛萨尔的肢体语言骤然改变：从享受暴力，变成了蓄势待杀。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_490d8d23:
 
-    "他放弃一切坚持守备的借口, 转动他的刀刃, 使更充分的人不再站在前面, 相反,尖锐的边缘准备切开和剪切。"
+    "他放弃了继续防守的伪装，调整剑刃，不再用剑脊迎敌，而是让锋刃对准目标，准备劈砍。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ea5de5eb:
 
-    "当你继续堵住根, 洛萨尔的身体加速到 难以用眼睛追踪的地步。"
+    "你继续抵挡树根时，洛萨尔的身体加速到肉眼难以捕捉的程度。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8b69df49:
 
-    "银光闪烁在根部 切穿粗木 仿佛纸一样。"
+    "银光穿过树根，切断粗糙的木质，仿佛切纸一般。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ab365619:
 
-    "越来越多的根落到地上, 直至一堵小堵的根墙倒在洛萨尔的前面。"
+    "越来越多的树根无力地倒在地上，直到洛萨尔面前堆起一面小小的根墙。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b148b204:
 
-    "等他确信再没有根从那一边攻击他之后 他抓住你的肩膀 把你推到他身后。"
+    "确认那一侧再没有树根能攻击后，他抓住你的肩膀，把你推到身后。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_20922fba:
 
-    l "如果你不去帮助或学习, 你不如留在你不会妨碍的地方。"
+    l "既然你不打算帮忙，也不打算学习，那就待在不会碍事的地方。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c2723769:
 
-    "洛萨尔开始消灭你那边的根。"
+    "洛萨尔再次爆发般冲出，开始清除你这边的树根。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ad947881:
 
-    "几分钟后,再没有根子可以攻击你或洛萨尔了。"
+    "仅仅几分钟后，再也没有树根能攻击你或洛萨尔了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_dae4b2d3:
 
-    "在你上面,舱舱在颤抖,它不能再移动了, 身体与地面相连,树木通过藤树连接, 现在将它锁在坟墓里。"
+    "你头顶上方的荚果正在颤抖。它已经无法移动；藤蔓把它的身体与地面和树木相连，如今也把它锁在了自己的坟墓里。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_18c28849:
 
-    l "你死得越早 我就越早回镇上喝酒。"
+    l "我受够你了。你死得越早，我就能越早回镇上喝酒。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_34b0f927:
 
-    "正如他所说,洛萨尔跳跃了附近一棵树。"
+    "说着，洛萨尔跳向附近的一棵树。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_1ac24e2b:
 
-    "他的脚踏在树干上 他的膝盖紧绷 他的腿在灰毛下 肌肉的抽动。"
+    "他的双脚落在树干上——膝盖绷紧，灰色皮毛下的双腿肌肉起伏。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bd0b7c35:
 
-    "以惊人的飞跃, 洛萨尔到达植物, 从植物中切开一大片葡萄, 降落在另一棵树上, 并重复行动。"
+    "洛萨尔以惊人的一跃抵达那株植物，从它身上砍下一大片藤蔓，随后落到另一棵树上，重复着这一动作。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ab19e372:
 
-    "每次跳跃 舱舱都越来越低 直到最终 它都倒在地上 断绝了所有连接。"
+    "每跳一次，荚果就往下垂得更多，直到最后贴在地面上，与外界的所有连接都被切断。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_c2e17264:
 
-    l "我们到此为止。"
+    l "我们结束了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_22ffce8d:
 
-    "他无声无息地前进。"
+    "他一言不发地大步离开。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_843c794a:
 
-    e "那植物呢 你不会杀了它吧？"
+    e "那植物呢？你不打算杀了它吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_10c61b59:
 
-    "Lottar向你倾诉。"
+    "洛萨尔猛地转身面对你。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6febc7ae:
 
-    l "当你早些时候拒绝这样做时,你有什么权利要求这样做?"
+    l "你之前拒绝这么做，现在又有什么资格问我？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_24bf94d1:
 
-    l "你是我的门徒,你应该听我的指示 向我学习。"
+    l "你是我的弟子，本该听从我的指示，并向我学习。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a5bd30a1:
 
-    l "我会继续教你 但什么样的傻瓜不听他们的导师的话。"
+    l "我会继续教你，但哪有蠢货会不听导师的话？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_22f6ba78:
 
-    "洛萨尔摇头,吐在地上。"
+    "洛萨尔摇了摇头，朝地上啐了一口。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_9a975c20:
 
-    l "如果你关注,你会意识到 植物的生存基于 它们与周围环境的联系。"
+    l "如果你刚才认真听了，就会明白植物依靠与周围环境的连接才能生存。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_b4c25f50:
 
-    l "没有根或藤,怪物将死于饥饿。这是杀死植物怪物的最有效方法之一。"
+    l "没有根或藤蔓，这只怪物会饿死。这是杀死植物怪物最有效的方法之一。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8642a8d7:
 
-    "洛萨尔再次转身离开 向镇上走去。"
+    "洛萨尔再次转身，朝城镇方向大步走去。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_9d581f4a:
 
-    "不久,你就会到达乐斯民菲尔德。"
+    "没过多久，你们就抵达了乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a638d341:
 
-    l "徒弟,我对你今天的表现很失望。"
+    l "弟子，我对你今天的表现很失望。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_3:
 
@@ -7878,63 +7878,63 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_3:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6708aa0c:
 
-    "够了,够了。"
+    "……好，够了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2a5e508d:
 
-    e "我该怎么办? 如果你叫我做什么,就盲目地听你的话?"
+    e "那我该怎么办？你让我做什么，我就得盲目听从吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ab39a1e5:
 
-    e "如果你还想让我做点什么,也许告诉我, 这样我就能很好地理解这场战斗。"
+    e "如果你是为了让我行动才一直留手，那就应该直接告诉我，好让我真正理解这场战斗。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_99b1f03f:
 
-    e "而不是只是被引导。"
+    e "而不是只让我被你牵着走。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_171bbda8:
 
-    "Lottar看起来很愤怒。"
+    "洛萨尔看起来怒不可遏。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_d089ee7d:
 
-    l "如果你像我一样坚强,也许我不必那样 把你抱在身边。"
+    l "如果你和我一样强，也许我就不用那样护着你了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a5f697d7:
 
-    l "但你不是。"
+    l "可你不是。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_751616bc:
 
-    l "所以也许,你应该听他的话 而不是和英雄说话。"
+    l "所以，与其顶撞一位英雄，你或许应该听他的话。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_eafe3b13:
 
-    e "你说得好像那个游手好闲的人 比你愿意承认的要近。"
+    e "你说得好像刚才那场切磋没有打得比你愿意承认的更接近一样。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bc6b51df:
 
-    l "我当时也对你很轻松。"
+    l "我那时候也对你手下留情了。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_8b4be97f:
 
-    e "我一点也不相信。"
+    e "我才不信。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_d5e39db5:
 
-    l "你想现在再来一次吗?"
+    l "你现在就想再来一次？！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_46917fee:
 
-    e "你知道,也许我懂!"
+    e "你知道吗？也许我还真想！"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_3d3d356b:
 
-    "正当你们开始伸手拿剑的时候 雷希姆走出他的店铺 在他的肺顶上鸣叫。"
+    "就在你们两人开始伸手去拔剑时，雷希姆从他的店里走了出来，用最大的声音吼道……"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_bf7e2985:
 
-    r "我向上帝发誓,如果你们两个不闭嘴 让我在和平中工作, 我要去那里打你们两个。"
+    r "我对天发誓，你们两个要是再不闭嘴、让我安静工作，我就过去把你们两个都揍一顿。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_4:
 
@@ -7942,67 +7942,67 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a20cefa7_4:
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_a96ba498:
 
-    "你和洛萨尔被雷希姆突然发泄的怒火 冻结了。"
+    "雷希姆突然爆发的怒火让你和洛萨尔僵在了原地。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_454334fa:
 
-    "看了一阵子,雷希姆就进去 敲他身后的门。"
+    "盯着你们两个看了一会儿后，雷希姆回到店里，砰地关上身后的门。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ccfe4af5:
 
-    "你们和洛萨尔又转过身去相见。"
+    "你和洛萨尔再次转过身面对彼此。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_7fa51e82:
 
-    l "... fine."
+    l "……好吧。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_f5007ed7:
 
-    l "确保你足够强大 来做你自己的决定 将来会这样。"
+    l "以后确保自己足够强大，能够像这样独立做出决定。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_66933a49:
 
-    "...这个争论不会结束,如果你不让它结束。"
+    "……如果你不肯罢休，这场争论就不会结束。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ce3aa529:
 
-    e "... 好吧。"
+    e "……好吧。"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_7864d655:
 
-    "这样,洛萨尔就让你一个人 回到他老地方 一个暗黑的表情 吸引了他的特征。"
+    "说完，洛萨尔留下你独自一人，回到他平时待着的地方；阴沉的表情压在他的脸上。"
 
 translate schinese_rewrite Lothar_Who_Smile_b77af144:
 
-    e "谢谢..."
+    e "谢……谢谢你？洛萨尔……"
 
 translate schinese_rewrite Lothar_Who_Smile_e41ca7d8:
 
-    l "是的,你是对的,这是第一次 总之,如果你忘了,我应该自我介绍。"
+    l "没错，这次你猜对了。总之，如果你忘了，我还是该自我介绍一下。"
 
 translate schinese_rewrite Lothar_Who_Smile_2dd919a5:
 
-    l "我是乐斯民菲尔德的英雄洛萨尔。"
+    l "我是洛萨尔，乐斯民菲尔德的英雄。"
 
 translate schinese_rewrite Lothar_Who_Smile_205b48f8:
 
-    e "我以为你已经告诉我了?"
+    e "我以为你刚才已经说过了？"
 
 translate schinese_rewrite Lothar_Who_Smile_a7c2628b:
 
-    l "什么?我真的很关心你的记忆, 我在信使新闻上看到,脑虫可以吃掉你的记忆。"
+    l "什么？我是在认真替你的记忆着想。我在送货员的新闻上看到过，脑虫能把人的记忆吃掉。"
 
 translate schinese_rewrite Lothar_Who_Smile_06ab5f35:
 
-    e "我不确定这是真的..."
+    e "我不确定那是不是真的——"
 
 translate schinese_rewrite Lothar_Who_Smile_1347ecfa:
 
-    "在你刑满之前洛萨尔截断了你 他明显很生气 拒绝进一步阐述。"
+    "你还没说完，洛萨尔就打断了你。他明显很恼火，拒绝再做任何解释。"
 
 translate schinese_rewrite Lothar_Who_Smile_b753a2cd:
 
-    l "你是否想要训练。"
+    l "你到底还想不想训练？"
 
 translate schinese_rewrite Lothar_Who_Smile_74db1a7f:
 
@@ -8010,46 +8010,46 @@ translate schinese_rewrite Lothar_Who_Smile_74db1a7f:
 
 translate schinese_rewrite Lothar_Who_Angry_ec000328:
 
-    l "好吗?"
+    l "好？"
 
 translate schinese_rewrite Lothar_Who_Angry_f0a5fabc:
 
-    l "你长辈有没有教你礼貌 特别是当着你的面 和英雄说话?"
+    l "你的长辈没教过你礼貌吗？尤其是当着一位英雄的面说话时。"
 
 translate schinese_rewrite Lothar_Who_Angry_16dc5433:
 
-    e "我不知道你是谁 对不起。"
+    e "我不知道你是谁，对不起。"
 
 translate schinese_rewrite Lothar_Who_Angry_c7c93ab3:
 
-    l "你个小混蛋 我知道奥勒跟你提过我 我每次都保证他这么做。"
+    l "你这个小混蛋。我知道奥利跟你提过我，我每次都会确保他这么做。"
 
 translate schinese_rewrite Lothar_Who_Angry_75c0a179:
 
-    "狼明显不满意你的举止,他朝你前进,使你倒退,几乎要敲你后面的门。"
+    "那头狼显然对你的态度很不满意。他朝你逼近，逼得你一步步后退，几乎撞上身后的门。"
 
 translate schinese_rewrite Lothar_Who_Angry_dd9d260f:
 
-    l "要不是那只绿蜥蜴..."
+    l "你知道吗？要不是那只绿蜥蜴，我根本不会主动接近你。"
 
 translate schinese_rewrite Lothar_Who_Angry_03fe7a51:
 
-    "你闻到狼的苦味 闻到它很近的距离 闻到它有一段时间没有洗澡的气味。"
+    "距离太近，你闻到了狼身上苦涩的气味；他身上散发着一股似乎很久没洗澡的味道，鼓起的胸膛几乎贴上了你。"
 
 translate schinese_rewrite Lothar_Who_Angry_c31953fe:
 
-    l "现在你对我这么不礼貌?"
+    l "现在你居然这样对我无礼？你不觉得羞愧吗？真的不觉得？"
 
 translate schinese_rewrite Lothar_Who_Angry_f3826aab:
 
-    "洛萨尔执着地教你礼貌 他对你大吼大叫 而你却挥手不动 试着把脸转开。"
+    "洛萨尔执意要教会你礼貌。他用力朝你咆哮，你则瑟缩着想把脸转开；他的吼声震得身后的门都在颤。"
 
 translate schinese_rewrite Lothar_Who_Angry_bce3e15b:
 
     e "听着……对不起。"
 translate schinese_rewrite Lothar_Who_Angry_7717b576:
 
-    l "Are you?"
+    l "你真的觉得抱歉吗？"
 
 translate schinese_rewrite Lothar_Who_Angry_118adec5:
 
@@ -8061,155 +8061,155 @@ translate schinese_rewrite Lothar_Who_Angry_82822a0c:
 
 translate schinese_rewrite Lothar_Who_Angry_93c2a728:
 
-    l "嗯。"
+    l "嗯哼。"
 
 translate schinese_rewrite Lothar_Wrong_2a743721:
 
-    e "呃 你是雷希姆吗?"
+    e "呃……你是雷希姆吗？"
 
 translate schinese_rewrite Lothar_Wrong_76bcb450:
 
-    my "你?"
+    my "你——？？？"
 
 translate schinese_rewrite Lothar_Wrong_d254360d:
 
-    "狼越来越愤怒 几乎以某种方式威胁你 直到他几分钟后冷静下来 发出长长的叹息。"
+    "狼明显开始恼火，甚至隐隐带着威胁之意；几秒后他才冷静下来，长长地叹了口气。"
 
 translate schinese_rewrite Lothar_Wrong_3cfbfa55:
 
-    my "你怎么会把我和那个老牛搞混 他看起来像乐斯民菲尔德的英雄吗?"
+    my "你怎么会把我和那头老公牛搞混？他看起来像乐斯民菲尔德的英雄吗？"
 
 translate schinese_rewrite Lothar_Wrong_75862f28:
 
-    my "好吧,现在告诉我,你叫什么名字?"
+    my "好吧。现在告诉我，你叫什么名字？"
 
 translate schinese_rewrite Lothar_Wrong_d454165b:
 
-    e "我的名字是[e]。"
+    e "我叫[e]。"
 
 translate schinese_rewrite Lothar_Wrong_b951246f:
 
-    my "很好 蜥蜴跟我说过你 我现在就叫你山羊 你甚至不知道英雄长什么样。"
+    my "很好，很好。那只蜥蜴跟我提过你。考虑到你连英雄长什么样都不知道，我现在就叫你山羊吧。"
 
 translate schinese_rewrite Lothar_Wrong_75c0a179:
 
-    "狼明显不满意你的举止,他朝你前进,使你倒退,几乎要敲你后面的门。"
+    "那头狼显然对你的态度很不满意。他朝你逼近，逼得你一步步后退，几乎撞上身后的门。"
 
 translate schinese_rewrite Lothar_Wrong_fb1313e9:
 
-    "你闻到狼的苦味 闻到它很近的距离 闻到它闻起来好像有一段时间没有洗澡了。"
+    "距离太近，你闻到了狼身上苦涩的气味；他闻起来像是已经有一阵子没洗澡了，鼓起的胸膛几乎贴上了你。"
 
 translate schinese_rewrite Lothar_Wrong_47e9bfe1:
 
-    my "现在你认识我了?"
+    my "现在你认识我了？"
 
 translate schinese_rewrite Lothar_Wrong_20fd191c:
 
-    e "你叫什么名字?"
+    e "你叫什么名字？"
 
 translate schinese_rewrite Lothar_Wrong_8c5cf0e2:
 
-    l "洛萨尔,我是洛萨尔,把我的名字写进你的脑海,别忘了。"
+    l "洛萨尔。我是洛萨尔。把我的名字刻进你那颗发情的脑子里，现在就记住，别再忘了。"
 
 translate schinese_rewrite Lothar_Wrong_e9489b13:
 
-    e "幸会 洛萨尔。"
+    e "是、是的……很高兴认识你，洛萨尔。"
 
 translate schinese_rewrite Lothar_Wrong_93e5a0ee:
 
-    l "再告诉我一遍。我叫什么名字?"
+    l "再告诉我一遍。我叫什么名字？"
 
 translate schinese_rewrite Lothar_Wrong_91ef65b9:
 
-    e "l-lothar。"
+    e "洛、洛萨尔。"
 
 translate schinese_rewrite Lothar_Wrong_480232fa:
 
-    l "我是村里的英雄,你从没试过这样耍我,明白吗?"
+    l "我是这个村子的英雄。你再也别想这样戏弄我，明白吗？"
 
 translate schinese_rewrite Lothar_Wrong_ad107a04:
 
-    e "好吗?"
+    e "好？"
 
 translate schinese_rewrite Lothar_First_End_4c53de91:
 
-    "洛萨尔现在对你的表现感到满意,慢慢地退缩,给你呼吸的空间。他现在更紧地跨过他的手臂,几乎进一步压压他的胸口。"
+    "洛萨尔现在对你的表现感到满意，慢慢退开，给你喘息的空间。他把双臂交叉得更紧，胸膛几乎被挤得更加突出。"
 
 translate schinese_rewrite Lothar_First_End_7076335e:
 
-    l "好了,你吸取教训了,我教过你。"
+    l "好。你已经吸取教训了，我也让你见识到了。"
 
 translate schinese_rewrite Lothar_First_End_3e355fc1:
 
-    l "蜥蜴有没有跟你提过\"训练\"这个词 [e]?"
+    l "那只蜥蜴有没有提过“训练”这个词，[e]？"
 
 translate schinese_rewrite Lothar_First_End_b23140ea:
 
-    e "我想是的,他让我在我出去探险之前 把你训练回来。"
+    e "我想是吧。他让我在出发冒险前先跟你训练。"
 
 translate schinese_rewrite Lothar_First_End_f02175aa:
 
-    l "我看见一个新的冒险家,也许有时我可以让你 帮我背包到外面去。"
+    l "原来是个新冒险家。也许有时我可以让你替我把行李带到外面去，甚至在下面那条河边替我擦背。"
 
 translate schinese_rewrite Lothar_First_End_63dabf15:
 
-    e "什么?不,我不能..."
+    e "什么？不——不行……我不能——"
 
 translate schinese_rewrite Lothar_First_End_4b02d0ab:
 
-    l "小东西,你以为我会让你轻轻地碰我吗?"
+    l "哈，你这小家伙。你以为我会让你碰我哪怕一下吗？别傻了。"
 
 translate schinese_rewrite Lothar_First_End_711287ca:
 
-    l "我还没准备好武器 让你试穿呢 晚点来找我 我准备好了就在这等你,明白吗?"
+    l "我还没准备好让你试用的武器。晚些时候再来找我。我准备好后会在这里等你，明白了吗？"
 
 translate schinese_rewrite Lothar_First_End_54d5cea3:
 
-    e "是的..."
+    e "是的……洛萨尔。"
 
 translate schinese_rewrite Lothar_First_End_93405601:
 
-    l "你在哪里见到我?"
+    l "你要在哪里和我见面？"
 
 translate schinese_rewrite Lothar_First_End_9ec79cb8:
 
-    e "H -这里?"
+    e "这、这里？"
 
 translate schinese_rewrite Lothar_First_End_5ae63efe:
 
-    l "好吧 那蜥蜴欠我一个大恩惠 来照顾他的外人朋友。"
+    l "你说得没错。好吧。现在，那只蜥蜴欠我一个天大的人情，因为我要照顾他的小外来者朋友。"
 
 translate schinese_rewrite Lothar_First_Ending_9140b7d0:
 
-    e "他的名字是奥勒..."
+    e "他的名字是奥利……"
 
 translate schinese_rewrite Lothar_First_Ending_0e9e382e:
 
-    l "你以为我不知道他的名字吗 你昨天才见过他"
+    l "你说什么？你以为我不知道他的名字吗？你昨天才见过他，而我在他出生之前就已经和他在一起了——"
 
 translate schinese_rewrite Lothar_First_Ending_ff547ef7:
 
-    "你走后门,当看见奥利从商店出来,站在你视线的角落的时候,洛萨尔仍然愤怒地盯着你,他以你的眼睛向你转去,然后,他使洛特哈看见你的眼睛。"
+    "你身后的门动了一下。洛萨尔仍怒气冲冲地盯着你，而你从视线余光看见奥利从街角的店里走出来。他瞥了洛萨尔一眼，然后朝你走来。"
 
 translate schinese_rewrite Lothar_First_Ending_9c2edee2:
 
-    o "怎么了,[e]?"
+    o "怎么了，[e]？"
 
 translate schinese_rewrite Lothar_First_Ending_d2bcc849:
 
-    l "没什么,我跟他说 我答应你的培训。"
+    l "没什么，我在跟他说我答应你的训练。"
 
 translate schinese_rewrite Lothar_First_Ending_4605285b:
 
-    o "听起来不像说话。"
+    o "听起来可不像是在聊天。"
 
 translate schinese_rewrite Lothar_First_Ending_7d78aa14:
 
-    l "好吧,我会为新来者低调点声音,我只是想教他一些重要的东西。"
+    l "好吧，那我对新来的人收敛点声音。我只是想教他一些重要的东西。"
 
 translate schinese_rewrite Lothar_First_Ending_12da8c53:
 
-    o "然后默默地教书。"
+    o "那就安静地教。"
 
 translate schinese_rewrite Lothar_First_Ending_82822a0c:
 
@@ -8221,91 +8221,91 @@ translate schinese_rewrite Lothar_First_Ending_fb71ad95:
 
 translate schinese_rewrite Lothar_First_Ending_f9115139:
 
-    "狼像一只被打败的小狗一样望着眼看望着洛萨尔几秒钟。蜥蜴随后平静地转过来看你。"
+    "奥利盯着洛萨尔看了几秒。那头狼像只被打败的小狗一样躲开他的目光。随后蜥蜴平静地转向你。"
 
 translate schinese_rewrite Lothar_First_Ending_51e5c690:
 
-    o "[e],你没事吧?"
+    o "[e]，你没事吧？要是他再骚扰你，我会亲自教训他。"
 
 translate schinese_rewrite Lothar_First_Ending_58206fc8:
 
-    "这样,蜥蜴就回到门前关上门, 你可以看到塞巴斯一眼就从门外偷窥一眼。"
+    "说完，蜥蜴走回门边，关上了门。你一瞬间瞥见塞巴斯从门后探出头来。"
 
 translate schinese_rewrite Lothar_First_Ending_f84f12a1:
 
-    l "Ahem..."
+    l "咳……"
 
 translate schinese_rewrite Lothar_First_Ending_75273d36:
 
-    "狼清除了他的喉咙,显然为奥勒的出现而烦恼。 他非自然地把手臂分开,在伸展前抓了几次头。"
+    "狼清了清嗓子，显然被奥利的出现弄得很不自在。他不自然地张开双臂，挠了几下头，然后伸了个懒腰。"
 
 translate schinese_rewrite Lothar_First_Ending_720fec84:
 
-    l "那么,见...[e]。"
+    l "那么……回头见，[e]。"
 
 translate schinese_rewrite Lothar_First_Ending_9c9b3c64:
 
-    e "See you 洛萨尔."
+    e "回头见，洛萨尔。"
 
 translate schinese_rewrite Lothar_First_Ending_ed3b0d65:
 
-    "路的另一边的楼梯上走走时,洛萨尔对你大发雷霆,你叹气欲绝,终于摆脱了困境。"
+    "洛萨尔皱着眉，朝街道另一边的楼梯走去。你长长地叹了口气，终于摆脱了这场尴尬的局面。"
 
 translate schinese_rewrite Lothar_Dialogue_52132ed0:
 
-    l "嘿,你是想躲着我吗,徒弟?"
+    l "喂！你是不是在躲着我，徒弟？"
 
 translate schinese_rewrite Lothar_Dialogue_e6ae2b07:
 
-    e "N -不!我在找你。"
+    e "不、不是！我是在找你。"
 
 translate schinese_rewrite Lothar_Dialogue_9268d720:
 
-    l "{b}Meeet,我,在酒馆,在晚上,{/b},别告诉我你不喝酒,我不在乎。"
+    l "{b}晚上，来酒馆见我。{/b}别跟我说你不喝酒，我不在乎。"
 
 translate schinese_rewrite Lothar_Dialogue_db165e53:
 
-    e "呃,好吧。"
+    e "呃，好吧。"
 
 translate schinese_rewrite Lothar_Dialogue_62feb791:
 
-    l "嘿,我看到你在这里,门徒。"
+    l "嘿，我看到你了，徒弟。"
 
 translate schinese_rewrite Lothar_Dialogue_0c8df589:
 
-    e "Uh... 洛萨尔?"
+    e "呃……洛萨尔？"
 
 translate schinese_rewrite Lothar_Dialogue_6fd97e81:
 
-    l "晚上在酒馆见我 如果你想学最好的。"
+    l "晚上来酒馆见我，想向最优秀的人学习，就别错过。"
 
 translate schinese_rewrite Lothar_Dialogue_55fa2d86:
 
-    l "别让我再等了。"
+    l "别再让我等了。"
 
 translate schinese_rewrite Lothar_Dialogue_08fa49ce:
 
-    e "嘿,洛萨尔。"
+    e "嘿，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_285abeaf:
 
-    "你忍不住往下看 摸摸手指 想着在事情发生后如何和洛萨尔交谈。"
+    "发生了那件事之后，你一边不自觉地低头捻着手指，一边想着该怎么和洛萨尔说话。"
 
 translate schinese_rewrite Lothar_Dialogue_863a76eb:
 
-    l "你好,门徒。"
+    l "你好，徒弟。"
 
 translate schinese_rewrite Lothar_Dialogue_71ef02db:
 
-    l "我期待着像正常一样继续前进。"
+    l "我希望我们还能像平常一样相处。"
 
 translate schinese_rewrite Lothar_Dialogue_3c77910e:
 
-    e "但是..."
+    e "但是……"
 
 translate schinese_rewrite Lothar_Dialogue_9a6e141d:
 
-    l "什么都没发生,我们不会谈论它。"
+    l "什么都没发生过，我们也不会谈起这件事。"
 
 translate schinese_rewrite Lothar_Dialogue_577e4bd1:
 
@@ -8313,43 +8313,43 @@ translate schinese_rewrite Lothar_Dialogue_577e4bd1:
 
 translate schinese_rewrite Lothar_Dialogue_d49d0510:
 
-    "洛萨尔叹气 看着一边 脸红一点。"
+    "洛萨尔叹了口气，转头看向一旁，脸颊微微泛红。"
 
 translate schinese_rewrite Lothar_Dialogue_95c7a6f5:
 
-    l "你在战斗中表现得很好。"
+    l "你在战斗中的表现很好。"
 
 translate schinese_rewrite Lothar_Dialogue_eb55f14e:
 
-    e "O -OK..."
+    e "好、好的……"
 
 translate schinese_rewrite Lothar_Dialogue_c4409b36:
 
-    l "谢谢,门徒。"
+    l "谢谢你，徒弟。"
 
 translate schinese_rewrite Lothar_Dialogue_87eee822:
 
-    "洛特哈在笑你,看来..."
+    "洛萨尔正对你微笑。看来尽管你们之间发生过……那些事，他还是相当喜欢你。"
 
 translate schinese_rewrite Lothar_Dialogue_c4935225:
 
-    l "继续训练吧,你进展不错,但你还不是英雄!"
+    l "好了，回去训练吧。你进步得不错，但还没成为英雄呢！"
 
 translate schinese_rewrite Lothar_Dialogue_fba13052:
 
-    l "问候,门徒。"
+    l "向你问好，徒弟。"
 
 translate schinese_rewrite Lothar_Dialogue_c6e1671a:
 
-    e "你好,洛萨尔。"
+    e "你好，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_5a83a250:
 
-    e "你好吗,洛萨尔?"
+    e "最近怎么样，洛萨尔？"
 
 translate schinese_rewrite Lothar_Dialogue_5baff97c:
 
-    l "不好,尤其是我在这里看到狮子的时候。"
+    l "糟透了。尤其是看到那头狮子在这里的时候。"
 
 translate schinese_rewrite Lothar_Dialogue_3388a208:
 
@@ -8357,19 +8357,19 @@ translate schinese_rewrite Lothar_Dialogue_3388a208:
 
 translate schinese_rewrite Lothar_Dialogue_fba13052_1:
 
-    l "问候,门徒。"
+    l "向你问好，徒弟。"
 
 translate schinese_rewrite Lothar_Dialogue_c6e1671a_1:
 
-    e "你好,洛萨尔。"
+    e "你好，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_5a83a250_1:
 
-    e "你好吗,洛萨尔?"
+    e "最近怎么样，洛萨尔？"
 
 translate schinese_rewrite Lothar_Dialogue_0999aa74:
 
-    l "你以前见过蜥蜴在这里吗? 我想他在监视我。"
+    l "你以前见过这里的那只蜥蜴吗？我觉得他在监视我。"
 
 translate schinese_rewrite Lothar_Dialogue_3388a208_1:
 
@@ -8377,274 +8377,274 @@ translate schinese_rewrite Lothar_Dialogue_3388a208_1:
 
 translate schinese_rewrite Lothar_Dialogue_568bb928:
 
-    l "嘿 [e] 我听说你在为人卖命 你什么时候这样对我?"
+    l "嘿，[e]。听说你在光着身子给别人端酒。什么时候也这样服侍我？"
 
 translate schinese_rewrite Lothar_Dialogue_02671382:
 
-    e "嗯哼?洛萨尔?"
+    e "呃呃呃？洛萨尔？"
 
 translate schinese_rewrite Lothar_Dialogue_4ed20f6b:
 
-    l "你知道,当英雄真的很累 我需要个人服务器。"
+    l "你知道，当英雄真的很累。我可能需要一个私人服务员。"
 
 translate schinese_rewrite Lothar_Dialogue_b82f8229:
 
-    e "噢……你愿意的话？"
+    e "哦——哦，如果你愿意的话？"
 translate schinese_rewrite Lothar_Dialogue_315ee5af:
 
-    l "是啊,不,我不是那种 在他的酒馆服务着的角质赞助者之一。"
+    l "不，算了。我可不是凯恩酒馆里那些欲火中烧的客人。"
 
 translate schinese_rewrite Lothar_Dialogue_02e60a94:
 
-    l "徒弟,你知道我今天做了什么吗?"
+    l "徒弟，你知道我今天干了什么吗？我一天就杀了十只史莱姆，保护乐斯民菲尔德免受危险的史莱姆威胁。"
 
 translate schinese_rewrite Lothar_Dialogue_7da21fc9:
 
-    e "呃,这是... 非常令人印象深刻。"
+    e "呃，那……确实很厉害。"
 
 translate schinese_rewrite Lothar_Dialogue_df09abf0:
 
-    l "你想说什么 我敢打赌你连个假人都打不过。"
+    l "你这话是什么意思？我敢打赌，你连训练假人都打不过。"
 
 translate schinese_rewrite Lothar_Dialogue_e93f1902:
 
-    e "我做到了,我们相遇的第一天我就打败了它。"
+    e "我打过！我们刚认识那几天，我就把它打败了。"
 
 translate schinese_rewrite Lothar_Dialogue_6862acc4:
 
-    l "别说花的事。"
+    l "别提那朵花的事。"
 
 translate schinese_rewrite Lothar_Dialogue_46a87d94:
 
-    e "洛特,你想谈谈吗?"
+    e "我……洛特，你想谈谈吗？"
 
 translate schinese_rewrite Lothar_Dialogue_9ca93b6f:
 
-    l "别问我花的事了,你让我不舒服。"
+    l "不！别再问我那些花的事了。你让我很不舒服。"
 
 translate schinese_rewrite Lothar_Dialogue_fdac3ef9:
 
-    e "O-ok。"
+    e "好、好的。"
 
 translate schinese_rewrite Lothar_Dialogue_8d3a4903:
 
-    l "我觉得路斯特福人现在更尊重我 比杀死那只山羊时更尊重我。"
+    l "我觉得现在乐斯民菲尔德的人比我杀掉那只山羊时更尊敬我。"
 
 translate schinese_rewrite Lothar_Dialogue_4919c77d:
 
-    e "也许是因为你真的在从花中救他们?"
+    e "也许是因为那次你确实是在从那朵花手里救他们？"
 
 translate schinese_rewrite Lothar_Dialogue_35969d2c:
 
-    l "你什么意思,大家都知道我是 乐斯民菲尔德的救世主 因为我杀了他, 不是一些随机的花。"
+    l "你什么意思？大家都知道，我是因为杀了那只山羊才成为乐斯民菲尔德的救星，可不是什么乱七八糟的花。"
 
 translate schinese_rewrite Lothar_Dialogue_7df88c6d:
 
-    l "说到这里,我还记得你在那里做了什么。"
+    l "说到这个，我还记得你在那里做了什么。"
 
 translate schinese_rewrite Lothar_Dialogue_e6cedf20:
 
-    e "我只是想救你,但没关系。"
+    e "呃，我只是想在那里救你，不过好吧。"
 
 translate schinese_rewrite Lothar_Dialogue_c2e950a4:
 
-    l "其实我救了安布和约格 很久以前从强盗手中救出来的。"
+    l "其实很久以前，我从强盗手里救过安布和乔格。"
 
 translate schinese_rewrite Lothar_Dialogue_1f4e4ef7:
 
-    e "你好,洛萨尔,你在说什么?"
+    e "你好，洛萨尔。你在说什么？"
 
 translate schinese_rewrite Lothar_Dialogue_7170b630:
 
-    l "我觉得我必须让他们记住 偶尔,否则他们忘记。"
+    l "我觉得得偶尔提醒他们一下，不然他们会忘记。"
 
 translate schinese_rewrite Lothar_Dialogue_ccb64e2a:
 
-    l "黑森林里有狼人的新发现吗?"
+    l "黑森林里的狼人有什么新消息吗？"
 
 translate schinese_rewrite Lothar_Dialogue_3a899e05:
 
-    e "其实,你不是狼吗,洛萨尔?"
+    e "呃，说真的，洛萨尔，你不也是狼吗？"
 
 translate schinese_rewrite Lothar_Dialogue_ceaad1fd:
 
-    l "我不是狼人,那是完全不同的物种,他们是恶毒的,猎杀他们看到的任何人,像洞穴人。"
+    l "我不是狼人，那是完全不同的物种。他们凶残得像穴居人一样，见到谁就追着猎杀。"
 
 translate schinese_rewrite Lothar_Dialogue_b4f610ef:
 
-    e "严格来说 你是对的 我认为..."
+    e "严格来说，你说得没错。我觉得——"
 
 translate schinese_rewrite Lothar_Dialogue_eac736ce:
 
-    l "不管狼人是不是狼人,他们只是烟幕, 所有的牙齿,不是大脑。"
+    l "不管是不是狼人，他们都只是烟幕。只有牙齿，没有脑子。"
 
 translate schinese_rewrite Lothar_Dialogue_e24e7daa:
 
-    l "我唯一关心的就是那些山羊,知道吗,徒弟?"
+    l "我唯一在意的是那些山羊，懂了吗，徒弟？总有一天，我们会揭穿那些山羊正在策划的邪恶计划。"
 
 translate schinese_rewrite Lothar_Dialogue_dedec69e:
 
-    l "英雄就是这样做的。"
+    l "这就是英雄该做的事。"
 
 translate schinese_rewrite Lothar_Dialogue_e158ab8e:
 
-    l "hmmph [e],为什么你裸体..."
+    l "哼，[e]。你怎么光着身子……"
 
 translate schinese_rewrite Lothar_Dialogue_8ab05b3d:
 
-    e "对不起,洛萨尔。"
+    e "对不起，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_53288926:
 
-    l "不管是什么。"
+    l "随你。"
 
 translate schinese_rewrite Lothar_Dialogue_a8917b76:
 
-    l "啊,[e],我在酒馆里很少见到你。"
+    l "啊、啊啊，[e]。真难得在酒馆见到你。"
 
 translate schinese_rewrite Lothar_Dialogue_ea033421:
 
-    e "喂..."
+    e "你好……洛萨尔？"
 
 translate schinese_rewrite Lothar_Dialogue_6df2c243:
 
-    l "你好。[e]。"
+    l "你好，[e]。"
 
 translate schinese_rewrite Lothar_Dialogue_3e8b7ecc:
 
-    e "你好,洛萨尔。"
+    e "你好，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_2fd6aab4:
 
-    l "我的徒弟,你好。"
+    l "你好，我的徒弟。"
 
 translate schinese_rewrite Lothar_Dialogue_3e8b7ecc_1:
 
-    e "你好,洛萨尔。"
+    e "你好，洛萨尔。"
 
 translate schinese_rewrite Lothar_Normal_Talk_ff55d21c:
 
-    l "你今天为什么来见英雄?" nointeract
+    l "今天是什么风把你吹到英雄这里来了？" nointeract
 
 translate schinese_rewrite Lothar_Normal_Talk_58e0fbb5:
 
-    "正如你将要问的, 你意识到你没有 穿正确的衣服来评判..."
+    "正要开口时，你意识到自己穿的衣服不对，没资格评价这件事……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_23c51416:
 
-    e "嘿,洛萨尔,这块石头怎么了?"
+    e "嘿，洛萨尔，那块……石头又出什么问题了？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_583f0a40:
 
-    l "小姐,记得你和乔格 一起拿到的马车袭击信息吗?"
+    l "徒弟，还记得你和乔格查到的车队遇袭情报吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_61a065a5:
 
-    e "是的。"
+    e "嗯。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_348731fe:
 
-    l "我回到树周围的原地 做一些挖掘。"
+    l "我回到那棵树附近的现场，挖了一阵。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d8dcb708:
 
-    "洛萨尔拿出石头给你看。"
+    "洛萨尔拿出那块石头给你看。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_924d27d3:
 
-    e "是什么?"
+    e "这是什么？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9780a9f4:
 
-    l "很难说,但是根据这位英雄的经验, 它充满了魔法。"
+    l "很难说。不过凭这位英雄的经验，它里面蕴含着魔力。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e29a2eb3:
 
-    e "魔术?"
+    e "魔法？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_8e970f4f:
 
-    l "是的,这里唯一的魔法使用者就是鹿。"
+    l "没错。而这附近唯一的施法者，就是那头鹿。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_67d0d2a9:
 
-    "充满愤怒的洛萨尔的花纹。"
+    "洛萨尔气得浑身紧绷。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_72b9d88e:
 
-    l "我告诉你,他们设置这一切 只是为了找借口攻击我们。"
+    l "我告诉你，他们布下这一切，就是为了找个借口攻击我们。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9afa0df6:
 
-    "他的眼睛里有一种愤怒,你以前没有见过。"
+    "他的眼中燃起你从未见过的怒火。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d6465e99:
 
-    "你终于可以明白他为什么是乐斯民菲尔德的英雄了 洛特尔会吓得要死。"
+    "你终于明白他为什么是乐斯民菲尔德的英雄了。洛萨尔发起火来，确实相当可怕。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_429b20c4:
 
-    e "洛萨尔,你打算怎么办?"
+    e "洛萨尔，你打算怎么办？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_690de678:
 
-    "你担心洛萨尔的病情,他总是轻率行事。"
+    "你开始担心洛萨尔的状态。他一向容易冲动行事。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e0632913:
 
-    l "这是他们内疚的征兆 我要把他们全杀了!"
+    l "这就是他们有罪的证明。我要把他们全杀了！"
 
 translate schinese_rewrite Lothar_Caravan_Stone_92d86514:
 
-    e "也许我们应该更近一点看。"
+    e "也许我们该再仔细看看。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_a9644f5d:
 
-    l "有什么好看的?"
+    l "还有什么好看的？证据明摆着呢。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_4cc0359c:
 
-    e "洛萨尔,你觉得石头... 颜色不一样吗?"
+    e "洛萨尔，你觉得这块石头……颜色是不是不一样？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e52382d5:
 
-    l "W -什么。"
+    l "什、什么？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_3d1272ea:
 
-    e "颜色 我想和山羊部落通常的颜色不同。"
+    e "颜色。我觉得它和山羊部族常用的色调不一样。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ccecaadc:
 
-    l "不... 即使颜色不同..."
+    l "不、不是……就算颜色真的不、不同……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_428e74b5:
 
-    l "I-I..."
+    l "我、我……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_c148bcd2:
 
-    l "也许你是对的,但这些混蛋会用魔法,他们还能做什么呢?"
+    l "也许你说得对。但这些混蛋会用魔法，谁知道他们还做得出什么来？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_b02e7a40:
 
-    l "我不确信,门徒。"
+    l "我还是不信，徒弟。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_77006eb9:
 
-    e "洛萨尔,看看石头的粗糙度 这感觉像山羊的石头吗?"
+    e "洛萨尔，你看看这块石头的粗糙程度。它摸起来像山羊那边的石头吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_94125c77:
 
-    l "是的, 质疑你的观点。"
+    l "是啊。徒弟，你到底想说什么？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_4957449a:
 
-    e "我是说... 更顺利吗?"
+    e "我、我是说……它是不是更光滑？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d1be3759:
 
-    l "他们有各种宝石, 这些混蛋怎么不能擦一个?"
+    l "他们什么石头都有。难道这些混蛋就不能把其中一块磨光吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_50afd1d4:
 
@@ -8652,11 +8652,11 @@ translate schinese_rewrite Lothar_Caravan_Stone_50afd1d4:
 
 translate schinese_rewrite Lothar_Caravan_Stone_93cec283:
 
-    l "朋友,如果你想帮忙 那就别试图说服我。"
+    l "徒弟，如果你真想帮忙，就别再试图说服我了。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ca4e07e5:
 
-    e "洛萨尔,看看这块石头的湿润, 这感觉像山羊会做的石头吗?"
+    e "洛萨尔，你看看这块石头的湿润程度。它像山羊会做出来的石头吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_bc5c265b:
 
@@ -8664,11 +8664,11 @@ translate schinese_rewrite Lothar_Caravan_Stone_bc5c265b:
 
 translate schinese_rewrite Lothar_Caravan_Stone_65735172:
 
-    e "W -什么?不是?"
+    e "什、什么？不是吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_657012f0:
 
-    l "不同寻常的是,他们整个部落 都靠瀑布和魔法的力量。"
+    l "徒弟，他们整个部族都靠一座带有魔力的瀑布维系。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_50afd1d4_1:
 
@@ -8676,198 +8676,198 @@ translate schinese_rewrite Lothar_Caravan_Stone_50afd1d4_1:
 
 translate schinese_rewrite Lothar_Caravan_Stone_c54c886f:
 
-    l "你知道你在说什么吗?"
+    l "你到底知不知道自己在说什么……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_4866ae9a:
 
-    l "我要得到一个解释, 并杀死他们的领袖!"
+    l "我要去讨个说法，再杀了他们的首领！"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ae9e7165:
 
-    e "停止!我知道..."
+    e "住手！我知道……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_0bf19ec0:
 
-    e "歌歌,对吧?"
+    e "那个魔像，对吧？他们的魔像失控了。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_3ef19a1b:
 
-    l "我知道,我们杀了其中一人,所以呢?"
+    l "我知道。我们还杀了其中一个，所以呢？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9bb08dab:
 
-    e "我救了另一个,用石头！"
+    e "我救了另一个。用的就是和这块一模一样的石头！"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9bf4c9be:
 
-    l "等等。什么?"
+    l "等、等等。什么？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_dfc8c4bb:
 
-    e "是的,是洞穴里的东西。"
+    e "对……那是从洞穴里拿出来的。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_5f4916af:
 
-    l "什么时候?发生了什么事?"
+    l "什么时候？到底发生了什么？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_a10a6149:
 
-    e "我从洞穴救出了弗坎 当有人从后面打他的时候。"
+    e "有人从背后袭击弗坎时，我把他从洞穴里救了出来。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_32a43cb2:
 
-    e "他们偷走了... 盆地。"
+    e "而他们偷走了……那个水盆。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_85b3c5bc:
 
-    l "你为什么不告诉我,门徒。"
+    l "你为什么没告诉我，徒弟？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e432efc3:
 
-    e "重点是 那块石头属于洞穴里的东西。"
+    e "听着，重点是，那块石头属于洞穴里的某个东西。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_81904bb0:
 
-    e "也不用来杀人。"
+    e "而且它不是用来杀人的。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_2704a1b3:
 
-    l "你确定吗?"
+    l "你……确定？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_118adec5:
 
-    e "是。"
+    e "确定。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_370701d4:
 
-    l "我对你没有早点告诉我这件事很失望 门徒。"
+    l "我很失望你没早点把这件事告诉我，徒弟。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_88f05473:
 
-    l "但目前我相信你。"
+    l "但现在，我暂且相信你。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_8820d68f:
 
     e "所以……呃……那个魔像……"
 translate schinese_rewrite Lothar_Caravan_Stone_27af5197:
 
-    l "歌乐与他们的车队攻击无关 门徒。"
+    l "那个魔像和他们袭击车队的事无关，徒弟。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_f25e2f16:
 
-    l "是那该死的鹿在用魔法。"
+    l "是那头该死的鹿在使用魔法。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_b15758bb:
 
-    e "那些死在大篷车里的山羊 你真的认为他们会做这种事吗?"
+    e "那些在车队袭击中死去的山羊。你真的觉得他们会做这种事吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_6fd7c5f0:
 
-    l "他们还能做什么呢?"
+    l "他们还有什么做不出来的？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_636b0fc1:
 
-    e "他们的领袖Tevfik非常爱他们的人民,。"
+    e "他们的首领特夫菲克那么爱护族人，车队事件后才会带人袭击乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_bb9998a8:
 
-    e "你真的认为他们是自己干的?"
+    e "你真的觉得他们是自导自演的吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_3ec79ab0:
 
-    l "我不知道,他们为什么还在那里?"
+    l "我……不知道？不然那块石头为什么会在那里？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_60d1d1cf:
 
-    e "也许是从马车里弄来的?"
+    e "也许是从车上掉下来的？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_c9a25310:
 
-    l "不,他们很快就清理干净了 不可能是被袭击的车队打来的。"
+    l "不，他们很快就清理干净了。不可能是从那辆被袭击的车上来的。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_8684cede:
 
-    l "我发现这个藏在树桩下 一定有什么东西阻止了它..."
+    l "我发现这块石头藏在树桩下。一定有什么东西让它没被带走……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_5b644e7d:
 
-    e "也许除了将军还有别的魔法使用者?"
+    e "也许除了那位将军，还有别的魔法使用者？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_26972d0d:
 
-    l "好吧,你赢了,但我还是会去那里 你阻止不了我。"
+    l "……好吧，这一回算你说得对。但我还是要去那里，你拦不住我。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_469df808:
 
-    e "树,古老的树, 他们为什么还需要魔法石?"
+    e "那棵树——那棵古树。除此之外，他们为什么还需要魔法石？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_8f698766:
 
-    l "W -什么意思?"
+    l "什、什么意思？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9dfa2ef8:
 
-    e "古老的树有他们需要的魔法宝藏 为什么他们要另一个魔法源呢?"
+    e "那棵古树已经有他们所需的一切魔力储备了，他们为什么还要另一个魔力来源？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_fe1d8e00:
 
-    l "离树还很远。"
+    l "可那地方离这棵树还挺远。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_871bc6e1:
 
-    e "我的问题是,他们可以只做它 当大篷车到达树上。"
+    e "我的意思是，他们完全可以等车队到了那棵树附近再动手。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_2475acbf:
 
-    l "我是说你是对的 但为什么他们没有石头呢?"
+    l "不？我是说，你说得对。但既然他们手里有那块石头，为什么不在别的地方动手？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ae52d18b:
 
-    e "我... 因为那是最方便的方式..."
+    e "我、我……因为那是最方便的办法……？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_7447a21f:
 
-    l "不,这听起来不太对..."
+    l "不，听起来还是不太对……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_21c30a91:
 
-    l "如果他们敢拦住我,我会先杀了他们的卫兵。"
+    l "如果他们敢拦我，我就先杀了他们的卫兵。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_38c6ebf8:
 
-    e "Uhmm...."
+    e "呃……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d000c3b0:
 
-    e "我知道,我知道!"
+    e "我知道，我知道！"
 
 translate schinese_rewrite Lothar_Caravan_Stone_40e6acd5:
 
-    e "听着,洛萨尔,我知道你现在的处境。"
+    e "听着，洛萨尔。我知道你现在正在经历什么。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_1264f361:
 
-    l "我正在经历什么?"
+    l "我正在经历什么？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_4cfec638:
 
-    e "我知道你仍然悲伤 痛苦又痛苦..."
+    e "我知道你还在悲伤，而且一直很痛苦，自从——"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ea2cf725:
 
-    l "你在说什么啊 徒弟。"
+    l "你在说什么，徒弟？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_6316378a:
 
-    l "我生气是因为我现在才发现！"
+    l "我生气，是因为我现在才发现这件事！"
 
 translate schinese_rewrite Lothar_Caravan_Stone_269a05e3:
 
-    l "我生气他们逃了这么久。"
+    l "我气他们这么久都逍遥法外。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_319e7f8b:
 
-    l "这些垃圾 生活在山上 俯视着我们。"
+    l "那些住在山上、从高处俯视我们的垃圾。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_c18eb48e:
 
@@ -8875,75 +8875,75 @@ translate schinese_rewrite Lothar_Caravan_Stone_c18eb48e:
 
 translate schinese_rewrite Lothar_Caravan_Stone_8f004cc5:
 
-    l "山羊头头 我很高兴能杀了他。"
+    l "你以为我只是因为这件事生气？那个山羊首领……我他妈巴不得杀了他。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_c3044c76:
 
-    e "也许你是Jealo..."
+    e "也许你是嫉妒——"
 
 translate schinese_rewrite Lothar_Caravan_Stone_859c4da3:
 
-    l "我不是 我是英雄 我做英雄会做的事。"
+    l "我没有。我是英雄，就该做英雄会做的事。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_4dd9e62e:
 
-    e "想想看,洛萨尔,看看所有证据。"
+    e "想想，洛萨尔。看看所有能证明事实并非如此的证据。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_8f698766_1:
 
-    l "W -什么意思?"
+    l "什、什么意思？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_137e92ea:
 
-    e "深呼吸,洛萨尔。"
+    e "深呼吸，洛萨尔。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_6312c2be:
 
-    l "我开始讨厌你这样跟我说话了 门徒。"
+    l "我……我开始讨厌你用这种方式跟我说话了，徒弟。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_726fb666:
 
-    e "我... 深呼吸。"
+    e "我——只是，深呼吸。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e70ba265:
 
-    l "我一直在呼吸。"
+    l "我一直都在呼吸。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_106c20d1:
 
-    e "那就别发抖了,想想原因,也许你被情绪蒙蔽了。"
+    e "那就别发抖，想想其中的缘由。也许你只是被情绪蒙蔽了。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ba356bb4:
 
-    l "我不是。"
+    l "我没有。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_dbe85fed:
 
-    e "除了山羊和乐斯民菲尔德 还有更多的团体。"
+    e "除了山羊和乐斯民菲尔德之外，还有很多其他势力。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_aa17648e:
 
-    l "你是指其他部落吗?"
+    l "你、你是指其他部族？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_4d7200c6:
 
-    e "也许,但更多。"
+    e "也许吧，但不止这些。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_f39a9527:
 
-    l "也许。"
+    l "……也许。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_a81c20a9:
 
-    e "看,洛萨尔,你需要啤酒。"
+    e "看，洛萨尔。你需要喝杯啤酒。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_a49fddcf:
 
-    l "我不能喝啤酒,我要杀了他们。"
+    l "我、我……我不能喝啤酒，我要去杀了他们。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_e95a9965:
 
-    e "但是... 你得先喝杯啤酒 来。"
+    e "可是……你得先喝一杯，来。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_82822a0c:
 
@@ -8951,23 +8951,23 @@ translate schinese_rewrite Lothar_Caravan_Stone_82822a0c:
 
 translate schinese_rewrite Lothar_Caravan_Stone_053ed47f:
 
-    e "今天天气好晴朗啊..."
+    e "哎呀，今天天气真好……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_66d29fd4:
 
-    l "Disciple, stop."
+    l "徒弟，住口。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_51285af9:
 
-    e "我们可以去散步,只有你和我。"
+    e "我们本可以去散步，就我们两个。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d61ba1ff:
 
-    l "我们可以,但是还有更重要的事情。"
+    l "可以，但还有更重要的事。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_ad9def80:
 
-    e "我以前打败过模仿者 你见过模仿胸部的怪物吗?"
+    e "我以前打败过拟态怪。你见过会伪装成箱子的怪物吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_82822a0c_1:
 
@@ -8975,271 +8975,271 @@ translate schinese_rewrite Lothar_Caravan_Stone_82822a0c_1:
 
 translate schinese_rewrite Lothar_Caravan_Stone_a4a45684:
 
-    e "Seb似乎想让他的蛋蛋被踢, 你不想报仇吗?"
+    e "而且塞巴斯看起来像是想让人踢他的蛋蛋，你不想替他报仇吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_cda51cc7:
 
-    l "Mhmm..."
+    l "嗯……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_984f13bd:
 
-    l "看来你没这么有说服力 门徒。"
+    l "看来你没那么有说服力，徒弟。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_3e45dc9c:
 
-    l "我自己去,别阻止我。"
+    l "我要自己去，别想拦我。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9cad8d67:
 
-    "洛萨尔突然离开 你意识到..."
+    "洛萨尔冲了出去。等你回过神时，已经看不见他的身影了……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_7841d6c2:
 
-    "你觉得你应该去山羊部落 去看看洛萨尔..."
+    "你觉得自己应该去山羊部族看看洛萨尔……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d361eb98:
 
-    l "我考虑了你的争论,但我相信直觉。"
+    l "我考虑过你的说法，但……我相信自己的直觉。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_71ddf22b:
 
-    l "完成前我可以得到我所需要的一切。"
+    l "在把他们解决掉之前，我可以先拿到所有需要的东西。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_3e45dc9c_1:
 
-    l "我自己去,别阻止我。"
+    l "我要自己去，别想拦我。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_9cad8d67_1:
 
-    "洛萨尔突然离开 你意识到..."
+    "洛萨尔冲了出去。等你回过神时，已经看不见他的身影了……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_7841d6c2_1:
 
-    "你觉得你应该去山羊部落 去看看洛萨尔..."
+    "你觉得自己应该去山羊部族看看洛萨尔……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_fc766ee9:
 
-    l "我考虑过..."
+    l "我想过了……"
 
 translate schinese_rewrite Lothar_Caravan_Stone_790cc048:
 
-    l "我不需要啤酒 或闲聊。"
+    l "我不需要啤酒，也不需要闲聊。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_13bf8c22:
 
-    l "但我至少需要一个解释 作为英雄。"
+    l "但作为英雄，我至少需要一个解释。"
 
 translate schinese_rewrite Lothar_Caravan_Stone_d387d273:
 
-    e "那么... 我能和你一起去吗?"
+    e "所以……我能和你一起去吗？"
 
 translate schinese_rewrite Lothar_Caravan_Stone_93f7e641:
 
-    l "好吧,你可以来,也许你可以让他们开始说话。"
+    l "好吧。你可以跟来，也许你能让他们开口。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_fda1fd53:
 
-    "当你和洛萨尔接近山羊部落时 你可以感觉到你的同伴变得紧张多了。"
+    "你和洛萨尔接近山羊部族时，明显感觉到同伴的神经绷得更紧了。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8947979c:
 
-    "洛萨尔的手伸向他的剑。"
+    "洛萨尔的手伸向剑柄。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_42dbe41e:
 
-    e "洛萨尔,我们不是来杀人的 我们应该在诉诸暴力之前谈谈。"
+    e "洛萨尔，我们不是来杀人的。在动用暴力之前，我们应该先谈谈。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_863d200b:
 
-    l "他们杀了我们这么多人 而且石块证明他们参与其中。"
+    l "他们杀了我们这么多人，而且这块石头证明他们参与其中。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_01e9017f:
 
-    e "再说一遍, 这还没有被验证。"
+    e "我再说一遍，这还没有得到证实。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_d00301b3:
 
-    l "这英雄不会被看见在乞讨或乞讨山羊。"
+    l "英雄不会向任何山羊低头求饶。在那之前，我宁可先杀了他们。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_a537d873:
 
-    e "我们也不会这么做的。"
+    e "我们也不会那么做。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_fba6df5d:
 
-    l "朋友,据我们所知,我们可能 走进了一个陷阱。"
+    l "徒弟，我们可能是在往陷阱里走。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_f4ab2bee:
 
-    e "现在,你只是偏执。"
+    e "你现在只是疑神疑鬼。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_e9afbae9:
 
-    l "和山羊打交道的时候,你需要吸取教训, 朋友。"
+    l "我这是凭经验判断。和山羊打交道时，你得学会这一课，徒弟。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_054da56f:
 
-    "谈话被打断了,因为有两名山羊警卫从灌木丛里出来。"
+    "两名山羊卫兵从灌木丛中现身，打断了你们的谈话。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_355f0cb2:
 
-    goatguard "Halt!"
+    goatguard "站住！"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_1a496964:
 
-    "洛萨尔即时准备战斗。"
+    "洛萨尔立刻摆出战斗姿态。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_387dc25f:
 
-    "你们迅速介入。"
+    "你连忙插到双方之间。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_4913fa9d:
 
-    e "等等,我们想和将军谈谈 我们找到了他可能有兴趣看的东西。"
+    e "等等。我们想和将军谈谈。我们找到了一件他可能会感兴趣的东西。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_bcdbcc75:
 
-    "卫兵互相看着对方,他们熟悉你们的出现,但他们显然敬畏洛萨尔。"
+    "卫兵互相对视。他们熟悉你的到来，却明显对洛萨尔心存戒备。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_d50eea26:
 
-    "再说了,你也不能怪他们,洛萨尔正在进攻。"
+    "话说回来，也不能怪他们。洛萨尔这副来势汹汹的样子，任谁都会警惕。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_46cd768a:
 
-    l "抓住将军 否则我们就切断进入你村子的路!"
+    l "把将军叫来，不然我们就杀进你们的村子！"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_ab8beb66:
 
-    l "试着阻止我!"
+    l "有本事就拦住我！"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_920d899d:
 
-    e "洛萨尔,你帮不上忙!"
+    e "洛萨尔，你这样只会帮倒忙！"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_82bd503e:
 
-    "更多警卫立即出现。"
+    "更多卫兵立刻出现。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_86f478e6:
 
-    "洛萨尔把你推到他身后 他挥舞他的剑。"
+    "洛萨尔把你推到身后，同时拔剑挥向前方。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_779e1d3e:
 
-    "空气中的紧张 是如此的厚,它可以切开。"
+    "空气中的紧张几乎凝成了实体，仿佛一刀就能劈开。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_400d2b0a:
 
-    e "洛萨尔,请冷静下来。"
+    e "洛萨尔，请冷静下来。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_fd3e5454:
 
-    "那一刻,有一个银色的。"
+    "就在这时，银铃般的声音响起。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_45c775e0:
 
-    "山羊部分揭示了弗坎和卡里。"
+    "山羊们分开，让弗坎和卡里走了出来。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_d439585d:
 
-    "弗坎对洛萨尔视而不见时眼睛变暗了。"
+    "弗坎看到洛萨尔时，眼神沉了下来。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_74e15968:
 
-    "卡里仍然像往常一样严重。"
+    "卡里一如既往地严肃。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_ec35581a:
 
-    k "这是什么意思,信使?"
+    k "这是什么意思，信使？"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_4b5ec882:
 
-    k "我们允许你参观我们的村庄 而你却把杀人犯带进我们中间?"
+    k "我们允许你来参观村庄，你却把一个杀人凶手带到我们中间？"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_9c3a0dce:
 
-    l "你说谁是杀人犯?"
+    l "你说谁是杀人凶手？"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_28b571aa:
 
-    k "你知道你做了什么,杀人犯。"
+    k "你知道自己做过什么，杀人凶手。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_51429298:
 
-    "你试图打破紧张,你认为最容易的方法就是直截了当。"
+    "你试图缓和紧张的气氛，最后觉得最简单的办法就是直奔主题。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_96c3cc11:
 
-    e "卡里,我们相信我们在大篷车袭击现场 发现了一些神奇的东西。"
+    e "卡里，我们觉得自己在车队遇袭的现场发现了某种魔法物品。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_74dc8139:
 
-    l "是的,证明你有罪的证据。"
+    l "没错，证明你们有罪的证据。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_6167b8ac:
 
-    "卡里 Frowns。"
+    "卡里皱起眉头。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_0423e6ae:
 
-    k "四年前我甚至没有参加那辆大篷车旅行 如果我在那里的话 悲剧就不会发生了。"
+    k "四年前那趟车队之行我根本没参加。如果我当时在场，那场悲剧就不会发生。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8996915a:
 
-    l "谎言!"
+    l "谎言！"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_554bfc1e:
 
-    k "我为什么要撒谎呢?"
+    k "我为什么要在这种事上撒谎？"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_57c0249f:
 
-    f "卡里说的是实话 他跟我去的时候 车厢被袭击了。"
+    f "卡里说的是真的……车队遇袭时，他是和我一起行动的。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_df75d72c:
 
-    f "当然,回想起来,如果他在大篷车里,事情就会大不一样。"
+    f "当然，回头想想，如果他当时在车队里，事情肯定会大不一样。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_19a6c0e1:
 
-    e "洛萨尔,我想他们说得对。"
+    e "洛萨尔，我觉得他们说得对。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_2740b865:
 
-    l "不同寻常的是,山羊是欺骗性的动物 我们不能太信任。"
+    l "徒弟，山羊是狡诈的生物。我们不能太轻易相信他们。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_4b830ef9:
 
-    f "这样的话,我们该对你表示些信任。"
+    f "既然如此，我们也该表示一点对你的信任。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_6732bf30:
 
-    f "我会叫警卫撤退,不用再流血了。"
+    f "我会让卫兵退下。不必再流血了。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_88de899e:
 
-    k "弗坎,这是真的..."
+    k "弗坎，这真的……"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8c0740cf:
 
-    "弗坎阻止他的将军。"
+    "弗坎止住将军的话。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_c834e7c2:
 
-    f "凯里,没事的,我信任那个信使。"
+    f "卡里，没事的。而且我信任这位信使。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_72046d00:
 
-    "山羊守卫根据弗坎的命令后退。"
+    "山羊卫兵听从弗坎的命令，退到后方。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_8928e4c2:
 
-    "弗坎对你微笑 指着狼。"
+    "弗坎朝你微笑，指了指那头狼。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_6d302c21:
 
-    e "谢谢你,弗坎。"
+    e "谢谢你，弗坎。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_a79d0326:
 
@@ -9247,19 +9247,19 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_a79d0326:
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_9823fe27:
 
-    e "洛特,也许你也该放下武器。"
+    e "洛特，也许你也该放下武器。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_34440b65:
 
-    "你看到洛萨尔手爆的血管了。"
+    "你看到洛萨尔手背上的青筋暴起。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_f48236c3:
 
-    e "没关系 弗坎不会伤害我们的。"
+    e "没事的。弗坎不会伤害我们。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_6f38f393:
 
-    "鲁萨毫不留情地把他的剑拿开。"
+    "洛萨尔不情不愿地收起了剑。"
 
 translate schinese_rewrite Lothar_Along_Goat_Tribe_d041a6d1:
 
@@ -9267,163 +9267,163 @@ translate schinese_rewrite Lothar_Along_Goat_Tribe_d041a6d1:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_76580977:
 
-    "卡里把魔石握在手掌上 闭上眼睛。"
+    "卡里把魔法石托在掌心，闭上眼睛。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_896528d9:
 
-    "每个人都沉默,。"
+    "所有人都安静下来，就连洛萨尔也不例外。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_33471d00:
 
-    "之后知道多久,凯里睁开眼睛。"
+    "不知过了多久，卡里睁开眼睛。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_9bf81c08:
 
-    k "这很奇怪..."
+    k "这很奇怪……"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_5a1ab3fb:
 
-    f "是什么?"
+    f "怎么回事？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_90234025:
 
-    k "这种魔法的源泉离我们很近。"
+    k "这种魔法的源头，出人意料地离我们很近。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_3cf93c81:
 
-    l "看吧,我告诉过你他们就是凶手！"
+    l "看吧！我就说他们是罪魁祸首！"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_ab0095af:
 
-    "洛萨尔立即变得侵略性。"
+    "洛萨尔立刻变得咄咄逼人。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_89efdbe5:
 
-    k "我不是这个意思。"
+    k "我不是那个意思。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_17c7280a:
 
-    e "卡里,那它是什么?"
+    e "卡里，那它到底是什么？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_0500e3eb:
 
-    k "这块石头上挥之不去的魔法 可以追溯到黑暗的森林。"
+    k "这块石头上残留的魔力，可以追溯到黑暗森林。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_01182ef8:
 
-    e "黑暗森林?在哪里?"
+    e "黑暗森林？那是什么地方？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_6557cd44:
 
-    "弗坎和洛萨尔都皱眉。"
+    "弗坎和洛萨尔都皱起眉头。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_696383eb:
 
-    l "他们是如何参与其中的?"
+    l "他们怎么会牵涉其中？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_1a1cf6ec:
 
-    f "黑暗森林是我们前哨以北的森林。"
+    f "黑暗森林位于我们前哨的北边。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_05e6de1c:
 
-    f "那里是各种危险生物潜伏的地方。"
+    f "那里潜伏着各种各样的危险生物。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_5e924ca6:
 
-    f "最危险的是一群狼人。"
+    f "其中最危险的，是一群狼人。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_857cece2:
 
-    e "狼人?"
+    e "狼人？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_c4cc9286:
 
-    k "是的,它们非常危险,而且领土非常险恶。"
+    k "是的。他们极其危险，而且领地意识很强。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_23c6abbc:
 
-    k "幸好他们很少离开黑暗的森林 我们偶尔会遭到狼人突袭。"
+    k "幸好他们很少离开黑暗森林。我们偶尔会遭遇狼人袭击，但仅此而已。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_7845f928:
 
-    e "那么,我们现在该怎么办?"
+    e "那么，我们现在该怎么办？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_f90a8aa4:
 
-    "弗坎沉默无声 卡里思考了一会儿。"
+    "弗坎沉默不语。卡里思索了片刻。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_37d58c57:
 
-    k "这条路通往黑暗的森林。你可以在黑暗的森林里做任何事情,没有许可,或者至少是狼人容忍你的存在。"
+    k "线索把我们引向黑暗森林。没有得到许可，至少没有狼人的容忍，你在那里什么都做不了。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_1970f4f0:
 
-    k "狼人被一个阿尔法领头 要继续,我们需要他的援助。"
+    k "狼人由一头阿尔法统领。要继续调查，我们得得到他的帮助。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_b833b7bd:
 
-    f "但这并不容易。 他们非常怀疑外来者,没有顾虑诉诸邪恶手段对付外来者。"
+    f "但这不会容易。他们对外来者戒心极重，也不介意用阴险手段对付外来者。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_2058f88e:
 
-    f "我希望部落能帮上忙 但随着魔法的不断减少 我们无法向部落派遣任何士兵。"
+    f "我希望部族能帮上忙，但我们的魔力正在衰退，实在无法抽调士兵离开部族。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_9e6939a8:
 
-    l "英雄会处理此事。"
+    l "英雄会处理这件事。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_83581b07:
 
-    e "别傻了,这太危险了 而且乐斯民菲尔德还需要英雄。"
+    e "别傻了，那里太危险。而且乐斯民菲尔德还需要它的英雄。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_1d7dc0fa:
 
-    "洛萨尔 Mulls为此而战。"
+    "洛萨尔思索着这番话。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_8d141981:
 
-    f "谢谢你提请我们注意,卡里和我将看看我们能做些什么。"
+    f "谢谢你把这件事告诉我们。我和卡里会想办法处理。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_91ece583:
 
-    f "我知道我们不能阻止你 做你那份冒险的事 但不管你做什么 小心点。"
+    f "我知道我们没法阻止你去冒险。但无论你要做什么，都要小心。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_1e22084d:
 
-    e "我会的,如果我去那里..."
+    e "我会的。要是我真的去那里……"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_aecfc16d:
 
-    "将军和首领走回山里。"
+    "将军和首领转身走回山上。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_05956e1f:
 
-    "你和洛萨尔一起回乐斯民菲尔德。"
+    "你和洛萨尔一起回到乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_60c429de:
 
-    e "嘿,洛萨尔,你没事吧?"
+    e "嘿……洛萨尔，你还好吗？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_0032b342:
 
-    l "...没有。"
+    l "……不。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_a2cede7d:
 
-    "你看洛萨尔背部和手臂上的伤痕。"
+    "你看着洛萨尔背上和手臂上的淤青。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_13c56fe4:
 
-    l "在他们解释之前,我没有杀他们。"
+    l "可我没能在他们解释之前把他们杀掉。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_9f31adbb:
 
-    e "嗯... 你需要什么吗?"
+    e "嗯……你需要什么吗？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_03199fe8:
 
-    l "不,如果我需要的话,我会叫蜥蜴给我免费的药膏。"
+    l "不用。要是我需要，我会叫那只蜥蜴给我点免费的药膏。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_82822a0c:
 
@@ -9431,27 +9431,27 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_82822a0c:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_df9c2b76:
 
-    l "朋友,我可能不相信山羊...。..但他们不是在开玩笑...。..黑暗的森林有多危险。"
+    l "徒弟，我也许不信任山羊……但他们没有夸大黑暗森林有多危险。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_b7a41b32:
 
-    e "W - 什么意思?"
+    e "什、什么意思？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_337db65a:
 
-    l "狼人,我们假设他们没有我那么英勇和光荣。"
+    l "狼人嘛……就说他们没我这么英勇、光荣吧。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_b42f9122:
 
-    l "如果你把脚放进去 恐怕你不可能活着出来。"
+    l "你要是踏进去，恐怕就活着出不来了。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_b2b7ae13:
 
-    e "你害怕吗,洛萨尔?"
+    e "你害怕吗，洛萨尔？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_c5348e92:
 
-    l "当然不会,我怎么会害怕 我是英雄,英雄。"
+    l "当、当然不！我为什么要害怕……我是英雄！英——雄。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_82822a0c_1:
 
@@ -9459,11 +9459,11 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_82822a0c_1:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_12bbea57:
 
-    l "像你和那些肮脏的山羊一样希望我相信别的方式。"
+    l "不管你和那些肮脏的山羊多想让我相信自己不是。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_3b7e7e96:
 
-    l "我还在盯着山羊 所以我得留在乐斯民菲尔德。"
+    l "我还得盯着山羊。所以我必须留在乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_82822a0c_2:
 
@@ -9475,251 +9475,251 @@ translate schinese_rewrite Lothar_Stone_Goat_Tribe_6b342fbf:
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_2d3f7d3b:
 
-    e "好吧... 那我去黑暗森林?"
+    e "好吧……那我去黑暗森林？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_cce2b9a1:
 
-    l "我没有这么说。"
+    l "我没这么说。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_ba6fac70:
 
-    l "...但是我告诉你这些就变得怪怪的了。"
+    l "……但我这样告诉你，感觉有点奇怪。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_7180f2d9:
 
-    e "告诉我什么?"
+    e "告诉我什么？"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_dfbc31e8:
 
-    l "保持自己... 安全。"
+    l "保护好自己……"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_40112f05:
 
-    l "毕竟你是我的门徒 我相信你拥有我的一半权力。"
+    l "毕竟你是我的徒弟。我相信你拥有我一半的力量。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_700d109f:
 
-    l "只要在森林里生存就足够了。"
+    l "这已经足够让你在森林里活下来了。"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_7634acec:
 
-    e "O-ok..."
+    e "好、好的……"
 
 translate schinese_rewrite Lothar_Stone_Goat_Tribe_479680db:
 
-    msg "您得到了一个关卡点。"
+    msg "你获得了一个升级点。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_603b8c84:
 
-    "当你接近山羊村时,你可以感觉到空气中明显的紧张。"
+    "你接近山羊村时，能感到空气中凝结着明显的紧张。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_15e1e50f:
 
-    "你靠近点,看到一群山羊 环绕洛萨尔。"
+    "你走近后，看见一群山羊正围着洛萨尔。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_9fd58469:
 
-    "你迅速四处扫荡 并且可以轻松地看到 没有人受伤。"
+    "你迅速扫视四周，松了口气——没人受伤。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_c46b46c7:
 
-    "趁事情失控前快进来。"
+    "你赶紧上前，免得事态失控。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_226d9b96:
 
-    e "停止!"
+    e "住手！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_a779582f:
 
-    "每个人都会转身看你。"
+    "所有人都转头看向你。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_bd18c24f:
 
-    "山羊警卫仍然在洛萨尔有他们的长矛 但卡里对你倾注了心目。"
+    "山羊卫兵仍用长矛指着洛萨尔，但卡里用锐利的目光锁定了你。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_770c148b:
 
-    "Lottar谨慎地对待你。"
+    "洛萨尔警惕地看着你。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_569cd61d:
 
-    l "朋友,你在这里做什么?"
+    l "徒弟，你来这里做什么？回去。这位英雄应付得了！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_7e6a7297:
 
-    "你可以看到洛萨尔手臂上的瘀伤。"
+    "你能看到洛萨尔手臂上的淤青。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_eaa5b9c6:
 
-    k "你为这个白痴负责吗?"
+    k "你要为这个蠢货负责吗？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0a43b08e:
 
-    "卡里给你发了信。"
+    "卡里转向你。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_c19308ef:
 
-    "洛萨尔的恶作剧回应他,如果不是卫兵的圈子压住他,他会攻击他的。"
+    "洛萨尔咆哮回应。若不是卫兵围成一圈压制着他，他早就动手了。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_9e168798:
 
-    e "发生了什么事?"
+    e "发生了什么？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_8ea9be6d:
 
-    k "这只狼被埋在部落里,没有警告要攻击我。"
+    k "我也想知道。这头狼毫无预警地冲进部族，想要袭击我。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_665ce34a:
 
-    k "卫兵挡住他,我们陷入僵局,你来了。"
+    k "卫兵拦住了他。我们僵持不下，随后你来了。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_5b9d1406:
 
-    l "没有僵持,要不是这些蠢警卫,我早就让你头疼了!"
+    l "才没有僵持不下。要不是这些碍事的卫兵，我早就砍下你的脑袋了！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_5a4016fc:
 
-    e "让洛萨尔走。"
+    e "放了洛萨尔。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_20057a64:
 
-    k "狼攻击我们了吗?"
+    k "然后让这头狼来攻击我们？信使，这里不是你说了算。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_79e41dd0:
 
-    "凯里盯着你威胁。"
+    "卡里带着威胁意味盯着你。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d35e1f85:
 
-    l "朋友,别担心我,如果有必要,我会剪出一条血淋淋的出路。"
+    l "徒弟，别担心我。必要的话，我会杀出一条血路。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b41f07dc:
 
-    "山羊进入战斗状态。"
+    "山羊们摆出战斗姿势。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_98e0d69d:
 
-    "戒指在洛萨尔上关闭 警卫要捅一刀 洛萨尔轻松地躲过了它。"
+    "包围圈向洛萨尔逼近。一名卫兵刺了过来。洛萨尔轻松躲开，却一步踏进另一头山羊设下的陷阱。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_53cdf158:
 
-    "警卫拍打洛萨尔的手腕,他的武器落地。"
+    "卫兵狠狠拍中洛萨尔的手腕，他的武器掉在地上。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0d7944df:
 
-    l "Arughhhh!"
+    l "啊啊啊！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_33a90ee6:
 
-    "洛萨尔咬牙咬牙 看上去他要发怒了。"
+    "洛萨尔咬紧牙关，像是就要彻底暴走。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_57e660b5:
 
-    l "你们这群肮脏的山羊,不能跟我打！"
+    l "你们这些肮脏的山羊，根本打不过我！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_aa651895:
 
-    "突然间,一个有尊严的声音传过来了。"
+    "突然，一个威严的声音传来。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d49ce91a:
 
-    f "够了 今天不会有流血事件。"
+    f "够了。今天不许再流血。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0f56e7f8:
 
-    "弗坎走过来 带着头领的身影。"
+    "弗坎迈步走来，举止间带着首领的威严。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_058ac40f:
 
-    "弗坎看到洛萨尔时眼睛稍稍暗一些 但他很快就恢复了魅力。"
+    "看到洛萨尔时，弗坎的眼神微微一沉，但很快又恢复了那副富有魅力的神态。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_16bb97e8:
 
-    f "你侵入我们部落的是什么 狼?"
+    f "狼，你擅闯我们部族究竟想做什么？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_c74e9828:
 
-    l "当然,这是对我们的人民进行报复。"
+    l "当然是来为我们的人报仇。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_ca3f330d:
 
-    k "是山羊在那次战斗中损失了更多。"
+    k "那场战斗里，损失更多的是山羊。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_bf2e5b1b:
 
-    f "再说,你还有什么证据 证明我们负责那辆大篷车?"
+    f "再说，你有什么证据证明那支车队的事是我们干的？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_9c0b31e4:
 
-    l "这个!"
+    l "这个！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_7091c9a6:
 
-    "洛德哈尔挥舞着魔石。"
+    "洛萨尔亮出那块魔法石。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b12e26bf:
 
-    "卡里和弗坎都皱眉。"
+    "卡里和弗坎都皱起眉头。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b3bec646:
 
-    f "你在哪里找到的?"
+    f "你在哪里找到的？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_9b4e6d8d:
 
-    l "你不知道吗?"
+    l "你不是应该知道吗？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_a5b3bc6b:
 
-    f "根据你所说的话 我猜你在大篷车袭击现场发现了这个?"
+    f "根据你刚才的话，我猜你是在车队遇袭现场发现的？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_f4a4020a:
 
-    "洛萨尔大喊大叫,什么也说不出来。"
+    "洛萨尔低声咆哮，没有回答。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_00013427:
 
-    "他并不以说谎而闻名。"
+    "他不太像是会撒谎的人。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_deafc44f:
 
-    f "卡里,你觉得这个东西怎么样?"
+    f "卡里，你怎么看这件东西？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_325644aa:
 
-    "弗坎转身问他的将军。"
+    "弗坎转身询问他的将军。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_1b77ca89:
 
-    k "这绝对是魔法的文物, 至于它能做什么,我需要仔细看看才能看出来。"
+    k "这肯定是一件魔法遗物。至于它有什么作用，我得仔细看看才能判断。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_f8dcdf92:
 
-    "洛萨尔很快把石头扔掉。"
+    "洛萨尔赶紧把石头收了起来。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_dd1b2935:
 
-    l "你没有破坏证据 我不会允许的！"
+    l "你休想毁掉证据！我不允许！"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_3a15838f:
 
-    "弗坎 叹气。"
+    "弗坎叹了口气。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_3cb077e7:
 
-    f "我们不会这样做的。"
+    f "我们不会这么做。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_1c0850fe:
 
-    k "再说 艺术品根本不来自这个部落。"
+    k "而且，这件遗物根本不是我们部族的东西。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_078b644a:
 
-    e "你怎么看出来的?"
+    e "你怎么知道？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_0bc779a5:
 
-    k "简单,你可以看到我们周围, 我们用蓝色的魔法在我们的晶体中, 那块石头上的晶体不是蓝色的。"
+    k "很简单。你看四周，我们在符文中使用的是蓝色魔法；而那块石头上的符文不是蓝色的。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_606b229d:
 
@@ -9727,71 +9727,71 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_606b229d:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_856e927c:
 
-    f "库里尔,你能不能和你的朋友谈谈 让我们看看那块石头?"
+    f "信使，能请你劝劝你的朋友，让我们看看那块石头吗？这样我们就能把这个误会说清楚。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_7cb4fd13:
 
-    k "事实上,我们想找到袭击车队的真正罪犯,也为我国人民报仇。"
+    k "事实上，我们也想找出袭击车队的真正凶手，为族人报仇。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_11387225:
 
-    "卡里的双眼闪耀着决心和力量。"
+    "卡里的眼中闪烁着决心与力量。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_4aff5437:
 
-    "你去找洛萨尔,他用牙咬周围的山羊。"
+    "你转向洛萨尔。他朝周围的山羊呲了呲牙。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d351d5cd:
 
-    "你知道弗坎和卡里确实有道理。"
+    "你意识到弗坎和卡里说得有道理。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_296229ae:
 
-    e "洛萨尔,也许我们应该让他们看到那块石头。"
+    e "洛萨尔，也许我们该让他们看看石头。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_e653997a:
 
-    l "朋友们啊!你们不要被他们的言辞所迷惑,他们一旦把我们所意欲的赏赐他们,他们就把我们砍倒。"
+    l "徒弟，别被他们的话骗了！一旦把他们想要的东西交出去，他们就会把我们砍倒。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_61168411:
 
-    f "我们不会这么做的,作为表示信仰的表示,我将让我的人民也放下武器。"
+    f "我们不会这么做。为了表示诚意，我会让族人也放下武器。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_8decf2d6:
 
-    k "弗坎,这真的是个好主意吗?"
+    k "弗坎，这真的是个好主意吗？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_4a79ad42:
 
-    f "我们需要在和平发挥作用的中途举行会议。"
+    f "和平要有用，双方就得各退一步。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_71561f23:
 
-    "卡里在命令山羊退后前 考虑过一段时间。"
+    "卡里思索了片刻，随后下令山羊们后退。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_e2ac84f6:
 
-    "洛萨尔周围的武器圈松开了。"
+    "围在洛萨尔周围的武器圈松开了。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d4c99eb5:
 
-    "这让Lottar暂停。"
+    "这让洛萨尔迟疑了一下。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_4db655dc:
 
-    "你快到洛萨尔那边去。"
+    "你赶紧来到洛萨尔身边。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_397e1803:
 
-    e "洛萨尔,你没事吧?"
+    e "洛萨尔，你还好吗？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_b3cc4b8d:
 
-    l "我为什么不呢,朋友?"
+    l "我为什么会有事，徒弟？"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_788b0eab:
 
-    e "洛萨尔 也许我们应该让他们看看那块石头。"
+    e "洛萨尔，也许我们该让他们看看石头。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_82822a0c:
 
@@ -9799,35 +9799,35 @@ translate schinese_rewrite Lothar_Found_Goat_Tribe_82822a0c:
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_a02cfe8e:
 
-    "Lotthar犹豫不决。"
+    "洛萨尔犹豫了。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_d96dbd86:
 
-    l "好吧,我会密切注视他们的 任何有趣的举动,我会去杀人。"
+    l "好吧。但我会盯紧他们。只要他们有任何可疑动作，我就动手杀人。"
 
 translate schinese_rewrite Lothar_Found_Goat_Tribe_eb58d476:
 
-    "洛萨尔不情愿地把魔石交出来。"
+    "洛萨尔不情愿地把魔法石交了出去。"
 
 translate schinese_rewrite Lothar_Sparring_14a2abd5:
 
-    e "洛萨尔,关于垃圾..."
+    e "洛萨尔，关于切磋——"
 
 translate schinese_rewrite Lothar_Sparring_c47ae0a7:
 
-    l "门徒,你准备好挨揍了吗?" nointeract
+    l "哎呀，哎呀……徒弟。终于来了。准备好被我打得屁股开花了吗？" nointeract
 
 translate schinese_rewrite Lothar_Sparring_8d246e37:
 
-    e "是的,我准备好了。"
+    e "好……我准备好了。"
 
 translate schinese_rewrite Lothar_Sparring_ed6f8e88:
 
-    e "嗯... 还没有。"
+    e "嗯……还没。"
 
 translate schinese_rewrite Lothar_Sparring_c4d692b4:
 
-    l "快点,我在等..."
+    l "啧，快点决定，我等着呢……"
 
 translate schinese_rewrite Lothar_Battle_Training_f163ce69:
 
@@ -9835,11 +9835,11 @@ translate schinese_rewrite Lothar_Battle_Training_f163ce69:
 
 translate schinese_rewrite Lothar_Battle_Training_56bd063a:
 
-    e "你在看什么,洛萨尔?"
+    e "你在看什么，洛萨尔？"
 
 translate schinese_rewrite Lothar_Battle_Training_80f29ad9:
 
-    l "安布和乔格几天前见过你。"
+    l "你知道吗……安布和乔格几天前见过你。"
 
 translate schinese_rewrite Lothar_Battle_Training_c18eb48e:
 
@@ -9847,15 +9847,15 @@ translate schinese_rewrite Lothar_Battle_Training_c18eb48e:
 
 translate schinese_rewrite Lothar_Battle_Training_9e56aaeb:
 
-    l "他们问我,罗特,为什么你的门徒这么小?"
+    l "他们还问我：‘洛特，你的徒弟怎么这么小？’"
 
 translate schinese_rewrite Lothar_Battle_Training_ed54c58b:
 
-    l "我无法回嘴, 通常我可以取笑他们 让他们遗忘。"
+    l "我还没法回嘴。平时我可以把他们逗弄到闭嘴。"
 
 translate schinese_rewrite Lothar_Battle_Training_68af3d0a:
 
-    l "喜欢,没有像我这么英俊, 或不是英雄 乐斯民菲尔德。"
+    l "比如说他们没我英俊，或者根本不是乐斯民菲尔德的英雄。"
 
 translate schinese_rewrite Lothar_Battle_Training_faa7d97b:
 
@@ -9863,75 +9863,75 @@ translate schinese_rewrite Lothar_Battle_Training_faa7d97b:
 
 translate schinese_rewrite Lothar_Battle_Training_d30a66d5:
 
-    l "但现在我甚至不知道该说什么了..."
+    l "可现在我连该说什么都不知道……因为这又不是我的问题！是你的问题，徒弟。"
 
 translate schinese_rewrite Lothar_Battle_Training_f33c3e16:
 
-    e "这真的是我的错吗? 虽然... 又不是我能变大..."
+    e "这真的是我的错吗……我又没办法让自己变得更大……"
 
 translate schinese_rewrite Lothar_Battle_Training_f10c9f24:
 
-    l "像你这样的小个子,你真的像战士一样战斗。"
+    l "唉，我承认这点。像你这么个小个子，打起架来倒真像个战士。"
 
 translate schinese_rewrite Lothar_Battle_Training_52daa19b:
 
-    e "我敢打赌,我可以打败你,很容易。"
+    e "我敢打赌，我能轻松打败你。"
 
 translate schinese_rewrite Lothar_Battle_Training_81b131f5:
 
-    e "把这些黏液打进纸浆里 我没什么问题 实际上很容易。"
+    e "我把这些史莱姆揍成肉泥都没费什么劲，真的很轻松。"
 
 translate schinese_rewrite Lothar_Battle_Training_17c02a7e:
 
-    l "你只是徒弟,别这么自以为是。"
+    l "你不过是个徒弟，别太得意。"
 
 translate schinese_rewrite Lothar_Battle_Training_9e8cb1d4:
 
-    e "洛萨尔,你只是不信任我不够。"
+    e "洛萨尔，你只是不够信任我。"
 
 translate schinese_rewrite Lothar_Battle_Training_c95939f5:
 
-    l "你知道,这就是你的问题所在, 你所有负面的东西 都反映了更糟糕的 我的名字。"
+    l "你知道吗，你的问题就在这儿：你身上的一切负面因素，都会更严重地损害我的名声。"
 
 translate schinese_rewrite Lothar_Battle_Training_1d474e28:
 
-    l "下一件事情安布会告诉我 你被一个弱小的粘液性交..."
+    l "安布接下来肯定会告诉我，你被一只弱得可怜的小史莱姆给干了……"
 
 translate schinese_rewrite Lothar_Battle_Training_24919ecc:
 
-    l "洛特,为什么你的徒弟 被粘液操了!"
+    l "然后他们会问：‘呼呼呼，洛特，你的徒弟怎么会被史莱姆干了！’"
 
 translate schinese_rewrite Lothar_Battle_Training_0823e48c:
 
-    l "他们像白痴一样笑了几个小时。"
+    l "呼呼呼！他们还会像白痴一样连续笑上好几个小时。"
 
 translate schinese_rewrite Lothar_Battle_Training_ded2746f:
 
-    "洛特哈模仿安布和乔格的声音, 却笑着笑着。"
+    "洛萨尔一边窃笑，一边模仿安布和乔格的声音。"
 
 translate schinese_rewrite Lothar_Battle_Training_61f23e3c:
 
-    e "你怎么知道..."
+    e "你……怎么知道……"
 
 translate schinese_rewrite Lothar_Battle_Training_d6dcaf02:
 
-    l "我真的需要亲自训练你吗?"
+    l "看来我真的得亲自训练你了，对吧……？"
 
 translate schinese_rewrite Lothar_Battle_Training_9e6e1f41:
 
-    e "不,我其实可以处理 在那里,你看,我足够强大。"
+    e "不，我能应付外面的情况。你看，我已经够强了。"
 
 translate schinese_rewrite Lothar_Battle_Training_de459af7:
 
-    "你想在洛萨尔面前挥动你的武器 洛萨尔似乎不怎么印象深刻。"
+    "你试着在洛萨尔面前挥舞武器，但他似乎一点也没被打动。"
 
 translate schinese_rewrite Lothar_Battle_Training_e8b9eb63:
 
-    e "怎么样 不错吧？"
+    e "嗯？……呃……这、这样……还、还行吗？"
 
 translate schinese_rewrite Lothar_Battle_Training_15f0e7c8:
 
-    "过了一段时间你开始迅速喘气, 你仰望洛萨尔。"
+    "没过多久，你开始急促地喘气，只能抬头看向洛萨尔。"
 
 translate schinese_rewrite Lothar_Battle_Training_82822a0c:
 
@@ -9943,43 +9943,43 @@ translate schinese_rewrite Lothar_Battle_Training_c18eb48e_1:
 
 translate schinese_rewrite Lothar_Battle_Training_0def6bcb:
 
-    l "是啊,我应该给你一些训练..."
+    l "嗯，我确实该训练训练你了……"
 
 translate schinese_rewrite Lothar_Battle_Training_e98d4a0c:
 
-    l "我现在就把假人打平 如果你有能力的话,你应该很容易就打倒它。"
+    l "我现在就把训练假人升级。要是你真有本事，应该能轻松打败它。"
 
 translate schinese_rewrite Lothar_Battle_Training_0bbe65d9:
 
-    e "我有能力..."
+    e "我有本事……我能行……嘿……"
 
 translate schinese_rewrite Lothar_Battle_Training_d9cf8f03:
 
-    l "证明给我看 然后我们再谈训练。"
+    l "那就证明给我看。之后我们再谈训练。"
 
 translate schinese_rewrite Lothar_Battle_Training_bf6f0d3d:
 
-    e "A-alright..."
+    e "好、好的……"
 
 translate schinese_rewrite Lothar_After_Sparring_f3749f72:
 
-    e "洛萨尔?"
+    e "洛萨尔……？"
 
 translate schinese_rewrite Lothar_After_Sparring_762d8b1d:
 
-    l "嗯?"
+    l "嗯……？"
 
 translate schinese_rewrite Lothar_After_Sparring_9728f7b8:
 
-    e "关于决斗..."
+    e "关于切磋……"
 
 translate schinese_rewrite Lothar_After_Sparring_45049bae:
 
-    l "看... 我说了 你可以随时付钱给我。"
+    l "看……我说过了，你随时都可以付我钱。"
 
 translate schinese_rewrite Lothar_After_Sparring_51aa61de:
 
-    e "我现在很好... 谢谢你把我抱回我的床上。"
+    e "我、我现在没事了……谢谢你把我背回床上。"
 
 translate schinese_rewrite Lothar_After_Sparring_82822a0c:
 
@@ -9987,31 +9987,31 @@ translate schinese_rewrite Lothar_After_Sparring_82822a0c:
 
 translate schinese_rewrite Lothar_After_Sparring_0299d601:
 
-    l "好吧,你知道什么, 你不需要付我任何东西。"
+    l "不过，你知道吗？你什么都不用付。"
 
 translate schinese_rewrite Lothar_After_Sparring_5c92948a:
 
-    l "已经期待你不幸输给我这样的 有经验的剑师。"
+    l "像我这样的剑术高手，打败你这个倒霉的初学者，本来就是意料之中的事。"
 
 translate schinese_rewrite Lothar_After_Sparring_04fd39bf:
 
-    l "奥利也发现了这个 他真的很讨厌我 争吵和从门徒那里拿钱的想法。"
+    l "而且奥利已经知道这件事了。他很讨厌我和徒弟切磋，还从徒弟那里拿钱这个主意。"
 
 translate schinese_rewrite Lothar_After_Sparring_f356d5ee:
 
-    e "但是..."
+    e "但是……赌注就是赌——"
 
 translate schinese_rewrite Lothar_After_Sparring_eac3c186:
 
-    l "如果我需要钱,我可以从安布的200金里拿到, 约格在他到酒馆露面后就到了。"
+    l "我要是真缺钱，直接从安布那儿拿两百金币就行；乔格嘛，等他在酒馆露面后再找他要。"
 
 translate schinese_rewrite Lothar_After_Sparring_e5b9f00b:
 
-    e "嗯... 谢谢..."
+    e "嗯……谢谢你……洛萨尔。"
 
 translate schinese_rewrite Lothar_After_Sparring_e8b1a0f2:
 
-    l "我的剑术并不是普通的初学者应该处理的 我理解..."
+    l "我的剑招不是普通初学者该承受的，我能理解……"
 
 translate schinese_rewrite Lothar_After_Sparring_82822a0c_1:
 
@@ -10019,71 +10019,71 @@ translate schinese_rewrite Lothar_After_Sparring_82822a0c_1:
 
 translate schinese_rewrite Lothar_After_Sparring_69e226b3:
 
-    l "你打败了高级假人 让我们专注一下进展。"
+    l "而且……你打败了高级训练假人。我们还是把注意力放在进步上吧。"
 
 translate schinese_rewrite Lothar_After_Sparring_0fa464f2:
 
-    e "我记得..."
+    e "我记住了……"
 
 translate schinese_rewrite Lothar_After_Sparring_7871c73d:
 
-    l "所以,不管怎样,保重,我应该在这里陪你的,作为导师。"
+    l "总之，保重。无论如何，我都会在这里支持你，毕竟我是你的导师。"
 
 translate schinese_rewrite Lothar_After_Sparring_0fe70190:
 
-    e "再次感谢你们。"
+    e "再次谢谢你。"
 
 translate schinese_rewrite Lothar_After_Sparring_30adbb8d:
 
-    msg "你得到600 EXP和2级分数!"
+    msg "你获得了600点经验值和2个升级点！"
 
 translate schinese_rewrite Lothar_After_Sparring_88e635a5:
 
-    l "你赢了 对自己感觉很好吗?"
+    l "你赢了。感觉很好吧？"
 
 translate schinese_rewrite Lothar_After_Sparring_6ae1fa6a:
 
-    e "看,洛萨尔,我只是问..."
+    e "听我说，洛萨尔，我只是问——"
 
 translate schinese_rewrite Lothar_After_Sparring_2042281e:
 
-    l "随便啦,我答应你打赌的。"
+    l "随便……我答应过要和你赌。"
 
 translate schinese_rewrite Lothar_After_Sparring_716880dd:
 
-    l "但你千万别告诉别人,我是认真的。"
+    l "但不许把这件事告诉任何人。我是认真的。"
 
 translate schinese_rewrite Lothar_After_Sparring_11dbdc0a:
 
-    l "如果我输给门徒 这会损害我的名誉。"
+    l "我要是输给一个徒弟，名声可就毁了。"
 
 translate schinese_rewrite Lothar_After_Sparring_a48dcbf3:
 
-    e "OK,OK..."
+    e "好，好……"
 
 translate schinese_rewrite Lothar_After_Sparring_f8302dd4:
 
-    l "这是你的500金。"
+    l "这是你的五百金币。"
 
 translate schinese_rewrite Lothar_After_Sparring_66c263ea:
 
-    l "快乐吗?"
+    l "满意了？"
 
 translate schinese_rewrite Lothar_After_Sparring_cc90223d:
 
-    e "非常..."
+    e "非常……"
 
 translate schinese_rewrite Lothar_After_Sparring_606671cc:
 
-    l "幸好我有这些混蛋安布和约格 来给我免费现金..."
+    l "幸好我有安布和乔格这两个冤大头，能给我弄点免费钱……"
 
 translate schinese_rewrite Lothar_After_Sparring_53cef9a8:
 
-    e "谢谢,洛萨尔。"
+    e "谢谢你，洛萨尔。"
 
 translate schinese_rewrite Lothar_After_Sparring_d6c09f5c:
 
-    l "晚上来看我们 或许我可以让你把金子还给我。"
+    l "多来酒馆找我们，没准我还能让你把这些金币吐回来。"
 
 translate schinese_rewrite Lothar_After_Sparring_faa7d97b:
 
@@ -10091,71 +10091,71 @@ translate schinese_rewrite Lothar_After_Sparring_faa7d97b:
 
 translate schinese_rewrite Lothar_After_Sparring_ae43cad7:
 
-    l "好了 冠军 现在滚开。"
+    l "好了，冠军。就这样。现在给我滚。"
 
 translate schinese_rewrite Lothar_After_Sparring_3d7f7d49:
 
-    e "好吧,洛萨尔..."
+    e "好吧，洛萨尔……"
 
 translate schinese_rewrite Lothar_After_Sparring_7f267e57:
 
-    "洛萨尔吐了一口气... 他显然很生气,因为你挤压他的胸口..."
+    "洛萨尔长长叹了口气……显然，你能揉他的胸口让他很不爽……"
 
 translate schinese_rewrite Lothar_After_Sparring_7f19814d:
 
-    l "你得到了你想要的东西 我猜。"
+    l "你想要的东西拿到了……大概吧。"
 
 translate schinese_rewrite Lothar_After_Sparring_6dd4c9e9:
 
-    l "你这么兴奋踢我的蛋蛋吗?"
+    l "什、什么？你就这么想踢我的蛋蛋？"
 
 translate schinese_rewrite Lothar_After_Sparring_dd3a2d65:
 
-    e "我不知道你一开始就会接受这个。"
+    e "我哪知道你一开始真的会答应啊。"
 
 translate schinese_rewrite Lothar_After_Sparring_0ad5bfe4:
 
-    l "哈..."
+    l "哈……"
 
 translate schinese_rewrite Lothar_After_Sparring_50612559:
 
-    l "让我们结束这一切吧..."
+    l "赶紧结束吧……"
 
 translate schinese_rewrite Lothar_After_Sparring_389a7f63:
 
-    e "A-alright- hmmm."
+    e "好、好的——嗯……"
 
 translate schinese_rewrite Lothar_After_Sparring_7a5e231a:
 
-    l "别再给我你那该死的笑脸的印象了。"
+    l "别再对我露出那副吃屎般的笑脸。真他妈恶心。"
 
 translate schinese_rewrite Lothar_After_Sparring_7aa1d4b6:
 
-    e "我准备好了..."
+    e "我准备好了……"
 
 translate schinese_rewrite Lothar_After_Sparring_14de55d4:
 
-    l "我已经训练好球了,所以给我你所有的一切..."
+    l "我的蛋蛋已经练好了，所以尽管使出全力……"
 
 translate schinese_rewrite Lothar_After_Sparring_f9274dfa:
 
-    "你尽可能狠狠地踢到洛萨尔 他显然没有尖叫或喊叫 刚刚吞下他所有的痛苦。"
+    "你用尽全力踢向洛萨尔。奇怪的是，他没有尖叫或痛呼，只是把所有疼痛都咽了下去……"
 
 translate schinese_rewrite Lothar_After_Sparring_380dcf6d:
 
-    "但是,你感觉他裤裤周围有些硬的东西, 可能不是他的老二。"
+    "不过，你感觉到他胯间有个坚硬的东西，应该不是他的鸡巴。"
 
 translate schinese_rewrite Lothar_After_Sparring_8078d893:
 
-    l "F-fuck..."
+    l "操……"
 
 translate schinese_rewrite Lothar_After_Sparring_677bebdd:
 
-    e "鲁特?"
+    e "洛特？"
 
 translate schinese_rewrite Lothar_After_Sparring_8fd36fcc:
 
-    e "你,里面有东西吗?"
+    e "你……里面是不是有东西？"
 
 translate schinese_rewrite Lothar_After_Sparring_7af40e9f:
 
@@ -10163,139 +10163,139 @@ translate schinese_rewrite Lothar_After_Sparring_7af40e9f:
 
 translate schinese_rewrite Lothar_After_Sparring_5aacd04a:
 
-    e "为什么我感到很难受,这是保护吗?"
+    e "我刚才为什么会感觉到那里有硬东西？是防护用的吗？"
 
 translate schinese_rewrite Lothar_After_Sparring_f7ef7fca:
 
-    l "不,结束了,什么都没有..."
+    l "没有，结束了。什么都没有……"
 
 translate schinese_rewrite Lothar_After_Sparring_aa863268:
 
-    l "Go now..."
+    l "现在走……"
 
 translate schinese_rewrite Lothar_After_Sparring_9c599b09:
 
-    e "Lot-!"
+    e "洛特——！"
 
 translate schinese_rewrite Lothar_After_Sparring_b56382c7:
 
-    l "什么都没有,你的赌注结束了 不会再踢球了。"
+    l "那里什么都没有。赌注结束了。别再踢蛋蛋了。"
 
 translate schinese_rewrite Lothar_After_Sparring_618ee937:
 
-    e "那太逊了..."
+    e "这也太逊了……"
 
 translate schinese_rewrite Lothar_After_Sparring_3cb6854c:
 
-    l "不,你很逊,我从来没有答应踢你的蛋蛋,这是你的主意。"
+    l "不，是你逊。我从没答应过要踢你的蛋蛋，是你自己提的。"
 
 translate schinese_rewrite Lothar_After_Sparring_90415a9c:
 
-    l "是你想破坏乐趣,为什么你就不能像其他人一样赌金?"
+    l "是你自己想毁掉乐趣的。你他妈为什么不能像其他人一样赌金币！"
 
 translate schinese_rewrite Lothar_After_Sparring_32f6128c:
 
-    l "操!"
+    l "操！"
 
 translate schinese_rewrite Lothar_After_Sparring_5107fdea:
 
-    e "Al-right..."
+    e "好、好吧……"
 
 translate schinese_rewrite Lothar_After_Sparring_c262973d:
 
-    l "现在滚开,这次是真的。"
+    l "现在滚，这次是真的。"
 
 translate schinese_rewrite Lothar_After_Sparring_e5417a53:
 
-    msg "你收到900 EXP和1级分数!"
+    msg "你获得了900点经验值和1个升级点！"
 
 translate schinese_rewrite Lothar_After_Sparring_91f1d522:
 
-    msg "您现在是 [pc.level] 级别! 请检查您的库存以分配级别点。"
+    msg "你现在是[pc.level]级！请检查库存，分配升级点数。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_6ac55a38:
 
-    l "你要什么,朋友?"
+    l "什么事，徒弟？"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_705ccbd9:
 
-    e "奥莱建议我从乔格和安布那里学到新技能, 以备将来的快递工作。"
+    e "洛萨尔，奥利建议我向乔格和安布学习新技能，为以后接取信使任务做准备。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_a6ac6daf:
 
-    e "但是,没有你的允许,他们不会教我任何东西。"
+    e "不过，没有你的许可，他们什么都不肯教我。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_96070d9d:
 
-    l "当然了,没有这个英雄的许可 怎么可能有信使训练呢?"
+    l "当然。没有这位英雄的许可，怎么能进行信使训练？"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_4c790a65:
 
-    l "没有这个英雄的指导,我怀疑你甚至能打败 基本训练假人。"
+    l "没有这位英雄的指导，我怀疑你连基础训练假人都打不过。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_1c986ca5:
 
-    "你听洛特哈的歌声 在他的演讲中,你插手了。"
+    "你听着洛萨尔大肆吹嘘自己的英雄事迹。趁他说话停顿，你插了进去。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_16df0c6e:
 
-    e "所以,罗萨,你能允许他们 教我一些新技能吗?"
+    e "所以，洛萨尔，你愿意允许他们教我一些新技能吗？"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_09bc7f5c:
 
-    "Lottar看着你。"
+    "洛萨尔看着你。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_a326ee49:
 
-    l "好吧,等你变强了,它会反省这位英雄的威望。"
+    l "好吧。你变强之后，也会提升这位英雄的声望。"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_cbcae63f:
 
-    l "我们不能让别人说 乐斯民菲尔德的英雄 是个软弱的副官,对吧?"
+    l "总不能让人说乐斯民菲尔德的英雄有个软弱的徒弟，对吧？"
 
 translate schinese_rewrite Lothar_Ask_Ole_Training_615a4d65:
 
-    e "当然。当然。当然。"
+    e "好，好。"
 
 translate schinese_rewrite Lothar_Report_Dummy_0eb13776:
 
-    e "Lottharrrrrrrr..."
+    e "洛萨尔————……"
 
 translate schinese_rewrite Lothar_Report_Dummy_a72b1fea:
 
-    l "嗯?"
+    l "嗯？徒弟……？"
 
 translate schinese_rewrite Lothar_Report_Dummy_f57f31e4:
 
-    e "我做到了..."
+    e "我——我做到了……"
 
 translate schinese_rewrite Lothar_Report_Dummy_62e4ad02:
 
-    e "我击倒了假人。"
+    e "我把那个假人打倒了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_a140b037:
 
-    l "哦,那个假人,我让你打败...？"
+    l "哦，你说的是我让你击败的那个假人……？"
 
 translate schinese_rewrite Lothar_Report_Dummy_96b6e3e8:
 
-    l "你确实证明了自己,徒弟。"
+    l "你确实证明了自己，徒弟。"
 
 translate schinese_rewrite Lothar_Report_Dummy_dff895f0:
 
-    e "他只是打了我一拳。"
+    e "它也就只会揍我而已。"
 
 translate schinese_rewrite Lothar_Report_Dummy_657bbab3:
 
-    "洛萨尔让你笑得满满的。"
+    "洛萨尔满意地咧嘴一笑。"
 
 translate schinese_rewrite Lothar_Report_Dummy_77899306:
 
-    l "我甚至没想到你会真的这么做。"
+    l "说真的，我根本没想到你会真的做到。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7cae614d:
 
-    l "我要告诉他们这件事..."
+    l "我得把这事告诉他们……"
 
 translate schinese_rewrite Lothar_Report_Dummy_acf8dda5:
 
@@ -10303,147 +10303,147 @@ translate schinese_rewrite Lothar_Report_Dummy_acf8dda5:
 
 translate schinese_rewrite Lothar_Report_Dummy_35675f62:
 
-    e "嗯?"
+    e "嗯……？"
 
 translate schinese_rewrite Lothar_Report_Dummy_0a7d3955:
 
-    "你看见Lawhar在村里寻找安布的时候 笑着看。"
+    "你看到洛萨尔一边在村里寻找安布，一边露出得意的笑容。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1ed383e8:
 
-    "他似乎为你的成就感到骄傲... 几乎太骄傲了。"
+    "他似乎为你的成就骄傲得不得了……甚至有点过头。"
 
 translate schinese_rewrite Lothar_Report_Dummy_733931f2:
 
-    l "嘿,阿布,乔在哪里?"
+    l "嘿，安布，乔格呢？"
 
 translate schinese_rewrite Lothar_Report_Dummy_a3fbfc05:
 
-    a "Out scouting."
+    a "出去侦察了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_fc82aaf1:
 
-    "安布说,他注意到你。"
+    "安布注意到你后说道。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2f6bdb39:
 
-    a "小朋友,你在这干嘛?"
+    a "哦，小不点朋友。你来这儿干什么？"
 
 translate schinese_rewrite Lothar_Report_Dummy_65dec1d2:
 
-    e "好吧,我住在这个地方。"
+    e "呃，我就住在这里。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1b2e908c:
 
-    e "我和洛萨尔一起练习。"
+    e "而且我在跟洛萨尔练习。"
 
 translate schinese_rewrite Lothar_Report_Dummy_0b74671d:
 
-    "点头时笑容迟缓。"
+    "安布懒洋洋地笑着点了点头。"
 
 translate schinese_rewrite Lothar_Report_Dummy_54e05d5f:
 
-    l "我会告诉你,但你不会相信这样的事。"
+    l "我本来想告诉你，但这种事说出来你肯定不信。"
 
 translate schinese_rewrite Lothar_Report_Dummy_cb6d7537:
 
-    l "我的徒弟... 他打我的高级假人。"
+    l "我的徒弟……他把我的高级假人打赢了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7a5bec27:
 
-    a "这不可能,太强大了。"
+    a "什么……？不可能！那东西强得离谱。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1a1a3255:
 
-    a "就像裁缝甚至不知道 如何调整他们适当的力量。"
+    a "简直就像裁缝根本不知道该怎么把力量调到合适的程度。"
 
 translate schinese_rewrite Lothar_Report_Dummy_c86437e2:
 
-    "轻轻的伤痕 使他的头部受挫。"
+    "安布恼火地挠了挠头。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1ce663f5:
 
-    "安布利走向假人 很快他又失败了 很明显你战胜了假人。"
+    "安布走到假人旁边，很快便灰头土脸地回来了；看来你确实打赢了它。"
 
 translate schinese_rewrite Lothar_Report_Dummy_6d1cf8da:
 
-    l "如何进行?"
+    l "怎么样……？"
 
 translate schinese_rewrite Lothar_Report_Dummy_427643a5:
 
-    a "我甚至不知道你能做到,连罗特也不可能每次都赢。"
+    a "我都不知道你居然能做到。就连洛特也不是每次都能打赢它。"
 
 translate schinese_rewrite Lothar_Report_Dummy_fde72e4c:
 
-    l "现在把200金给我,安比。"
+    l "现在，把那两百金币给我，安比。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7ffeaa59:
 
-    "他似乎越来越不耐烦安布了。"
+    "洛萨尔催促道，显然对安布越来越没耐心。"
 
 translate schinese_rewrite Lothar_Report_Dummy_47897b65:
 
-    a "mmmmmm..."
+    a "嗯嗯嗯……"
 
 translate schinese_rewrite Lothar_Report_Dummy_fabfc4a9:
 
-    l "[e] 关闭怀疑者 帮我赚点金子的好工作。"
+    l "看见没？[e]，干得漂亮，既让那些怀疑你的人闭了嘴，又替我赚了点金币。"
 
 translate schinese_rewrite Lothar_Report_Dummy_b660fe4e:
 
-    "洛特哈说,他从安布那里偷取黄金。"
+    "洛萨尔说着，厚着脸皮从安布手里把金币拿走。"
 
 translate schinese_rewrite Lothar_Report_Dummy_b8809f23:
 
-    e "你们在赌我赢吗?"
+    e "你们是在赌我能不能赢？"
 
 translate schinese_rewrite Lothar_Report_Dummy_a20faaac:
 
-    a "是的,我想是的。"
+    a "嗯，我想是吧。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1f7d4b21:
 
-    e "洛萨尔是给我赌注的?"
+    e "洛萨尔押我赢？"
 
 translate schinese_rewrite Lothar_Report_Dummy_096e947f:
 
-    l "别太过份,徒弟,他打赌,我打赌。"
+    l "别自作多情，徒弟。是他在下注，我是庄家。"
 
 translate schinese_rewrite Lothar_Report_Dummy_edeafc5c:
 
-    a "公平是公平的 我们的矮朋友肯定能打几拳。"
+    a "愿赌服输嘛。咱们这位小不点朋友确实能挥上几拳。"
 
 translate schinese_rewrite Lothar_Report_Dummy_ae9845b6:
 
-    "安布利的强大身体塔 将你压倒,当他盯着你的身体, 也许试图让你的胜利有意义。"
+    "安布魁梧的身躯高高压过你。他打量着你的身板，似乎想弄明白你究竟是怎么赢的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e105218d:
 
-    l "Heh."
+    l "嘿。"
 
 translate schinese_rewrite Lothar_Report_Dummy_60904657:
 
-    l "也许在莫肯最好的教学下 他几乎能像我一样好。"
+    l "在莫肯最好的教导下，说不定他能练到几乎和我一样厉害。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e4c77edf:
 
-    l "并不是说他能超过我的水平 但他可以尝试。"
+    l "当然，超过我是不可能的，但至少可以试试。"
 
 translate schinese_rewrite Lothar_Report_Dummy_d016efd2:
 
-    "Lottar给你一眼一眼。"
+    "洛萨尔斜睨了你一眼。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2f3a5017:
 
-    l "所以,让我们回到教训。"
+    l "好了，我们继续上课。"
 
 translate schinese_rewrite Lothar_Report_Dummy_55e01d33:
 
-    e "我以为我只是来跟一个假人打架的。"
+    e "我还以为我只是来打一个假人。"
 
 translate schinese_rewrite Lothar_Report_Dummy_637accd7:
 
-    l "威尔伯来了 看看他 完美的训练假人。"
+    l "安布就在这儿啊，看看他。拿来当真正的训练假人再合适不过。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7dbd15f6:
 
@@ -10451,59 +10451,59 @@ translate schinese_rewrite Lothar_Report_Dummy_7dbd15f6:
 
 translate schinese_rewrite Lothar_Report_Dummy_d088f91b:
 
-    l "我们说好了的。"
+    l "我们可是说好了的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_0c8b9640:
 
-    "突然间,他大叹了口气,然后转过身去面对洛萨尔。"
+    "安布停了下来，长长地叹了口气，然后转身面对洛萨尔。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7b18fe1e:
 
-    a "交易就是交易,但要快点。"
+    a "说好的事就是要做到。不过快点。"
 
 translate schinese_rewrite Lothar_Report_Dummy_41fdb2d1:
 
-    l "别担心,Lil Ambie,我会让你的赌注值钱的。"
+    l "别担心，小安比，我会让你的这笔赌注物有所值。"
 
 translate schinese_rewrite Lothar_Report_Dummy_73d4cb3e:
 
-    "洛萨尔转身向你解释。"
+    "洛萨尔转向你，开始解释。"
 
 translate schinese_rewrite Lothar_Report_Dummy_38f61fad:
 
-    l "所以,徒弟,你看,我是英雄 安布是可怕的森林里的怪物。"
+    l "所以，徒弟。你看，我是英雄，而安布就是那座可怕森林里的怪物。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e0d061f4:
 
-    e "洛特哈 我知道 我已经出类拔萃了"
+    e "洛萨尔，我知道——我已经出——"
 
 translate schinese_rewrite Lothar_Report_Dummy_8a378cfc:
 
-    l "你可以对怪物采取不同的行动。"
+    l "对付怪物时，你可以采取不同的行动。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7236ee85:
 
-    l "安布?"
+    l "安布？"
 
 translate schinese_rewrite Lothar_Report_Dummy_c617e5a3:
 
-    "你可以看到安布利 大量地呼气 而洛特尔正在享受现场。"
+    "你看见安布重重地呼出一口气，而洛萨尔则十分享受这一幕。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2199d2e0:
 
-    a "RAWWWWWWRRRRR-!!"
+    a "嗷呜呜呜呜——！！"
 
 translate schinese_rewrite Lothar_Report_Dummy_84cc342b:
 
-    "安布利举起爪子 假装像个怪物一样大喊大叫。"
+    "安布举起爪子，假装自己是怪物，发出吼叫。"
 
 translate schinese_rewrite Lothar_Report_Dummy_18086866:
 
-    l "为了打赢这场比赛 我得打他一顿。"
+    l "要赢下这场战斗，我得把他打趴下——当然，是比喻意义上的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_251bb90a:
 
-    l "实际上有两种方式 你可以打他 或者打他。"
+    l "其实有两种办法：你可以把他打趴下，也可以帮他“打飞机”。"
 
 translate schinese_rewrite Lothar_Report_Dummy_09db9eaf:
 
@@ -10511,67 +10511,67 @@ translate schinese_rewrite Lothar_Report_Dummy_09db9eaf:
 
 translate schinese_rewrite Lothar_Report_Dummy_b77991e1:
 
-    l "来吧,安布。"
+    l "来吧，安布。"
 
 translate schinese_rewrite Lothar_Report_Dummy_56aee83b:
 
-    l "只是一点触摸,不会疼。"
+    l "就轻轻碰一下，不会疼的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_b3a79b5a:
 
-    e "Ummmm..."
+    e "呃……"
 
 translate schinese_rewrite Lothar_Report_Dummy_6798bf7b:
 
-    "洛塔接近安布,他站在那里 勉强地放任洛塔触摸他的胸口。"
+    "洛萨尔走近安布。安布站在那里，不情不愿地任由洛萨尔摸上自己的胸膛。"
 
 translate schinese_rewrite Lothar_Report_Dummy_264173b0:
 
-    l "好久不见 伙计 你有一点点... 更牛肉... 你的胸口..."
+    l "好久不见，老伙计。你变得更……结实了……尤其是胸口……见到我很高兴吧？"
 
 translate schinese_rewrite Lothar_Report_Dummy_d0ebbd21:
 
-    a "我..."
+    a "我……呃——嗷呜呜——！"
 
 translate schinese_rewrite Lothar_Report_Dummy_061d0519:
 
-    "洛塔的爪子在安布的前面晃悠 他摸着胸膛 试图从伐木工人身上得到反应。"
+    "洛萨尔的爪子沿着安布的胸前游移，揉捏着他丰满的胸肌，试图从这个伐木工身上挤出反应。"
 
 translate schinese_rewrite Lothar_Report_Dummy_34296285:
 
-    "很明显,他调情的企图 工作 当安布的内衣膨胀似乎 仅仅增加 越大每秒。"
+    "显然，他调情的尝试奏效了：安布内裤里的隆起似乎每秒都在变得更加明显。"
 
 translate schinese_rewrite Lothar_Report_Dummy_ec5e9b7e:
 
-    "如果它不明显的话。"
+    "如果刚才还不够明显的话。"
 
 translate schinese_rewrite Lothar_Report_Dummy_bdc2c955:
 
-    l "共和党人,你做什么 与怪物,如果你太弱 无法打他们正确..."
+    l "徒弟，如果你弱到无法正面击败怪物，你该怎么做……"
 
 translate schinese_rewrite Lothar_Report_Dummy_2b7cd087:
 
-    e "嗯... 我想是逃避..."
+    e "嗯……我想，逃——"
 
 translate schinese_rewrite Lothar_Report_Dummy_31cb6335:
 
-    l "亲吻他们。"
+    l "吻它。"
 
 translate schinese_rewrite Lothar_Report_Dummy_336ad209:
 
-    "洛萨尔突然把自己推向安布, 他们的嘴唇很容易接触。"
+    "洛萨尔突然贴上安布，两人的嘴唇轻易地碰在了一起。"
 
 translate schinese_rewrite Lothar_Report_Dummy_569bc080:
 
-    "安布在洛塔的背上 包着他的手臂 而洛塔继续探探他的前部 摩擦他的敏感乳头。"
+    "安布双臂环住洛萨尔的后背，洛萨尔则继续探索他的胸前，摩挲着他敏感的乳头。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2c79793d:
 
-    "你可以看到洛萨尔的舌头 进入安布的嘴里 分享唾液 当他们继续 热情的吻在你面前。"
+    "你看见洛萨尔的舌头探入安布口中；两人分享着唾液，继续在你面前热烈地接吻。"
 
 translate schinese_rewrite Lothar_Report_Dummy_bae0f63f:
 
-    "巷道开始充满洛萨尔和安布呻吟的声音 他们肯定非常喜欢..."
+    "小巷里渐渐充满洛萨尔与安布的呻吟声——他们显然都沉浸其中……"
 
 translate schinese_rewrite Lothar_Report_Dummy_a20cefa7:
 
@@ -10579,31 +10579,31 @@ translate schinese_rewrite Lothar_Report_Dummy_a20cefa7:
 
 translate schinese_rewrite Lothar_Report_Dummy_4263f24c:
 
-    "洛萨尔想在安布的裤裤处摸探 前进 但安布紧紧握住他的手臂。"
+    "洛萨尔想进一步摸向安布的胯间，但安布紧紧抓住了他的手臂。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4f107a90:
 
-    "行动突然让他们想起你的存在... 看着他们亲吻。"
+    "这个举动突然让他们想起了你的存在……你正看着他们接吻。"
 
 translate schinese_rewrite Lothar_Report_Dummy_adb8e931:
 
-    "诚然,你已经在那里长大了 一个巨大的勃起, 你试图隐藏它 但两个同伴已经注意到了。"
+    "说实话，你下面已经硬起了一个巨大的勃起。你想把它藏起来，可这两位同伴已经注意到了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_aff8bdee:
 
-    l "所以... 这就是你打败怪物的方法。"
+    l "所以——这就是击败怪物的方法。"
 
 translate schinese_rewrite Lothar_Report_Dummy_39eb1ea6:
 
-    l "安布,做你该做的事。"
+    l "安布，做你该做的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_9ed06834:
 
-    a "嗯?哦,对,对。"
+    a "嗯？哦……对……"
 
 translate schinese_rewrite Lothar_Report_Dummy_503d1c5d:
 
-    a "我现在很缺钱,我会失去我的战斗 现在,请他妈的我的屁股。"
+    a "啊啊啊！我现在硬得要命，已经没法打了——求你操我屁股！"
 
 translate schinese_rewrite Lothar_Report_Dummy_72a33094:
 
@@ -10615,27 +10615,27 @@ translate schinese_rewrite Lothar_Report_Dummy_bb8e4b4e:
 
 translate schinese_rewrite Lothar_Report_Dummy_70f71e82:
 
-    "你目光和安布的见面 在最坏的时间可能。"
+    "你和安布的目光在最糟糕的时刻撞到了一起。"
 
 translate schinese_rewrite Lothar_Report_Dummy_5a108a0a:
 
-    a "这只是个示范,[e]。"
+    a "这只是演示，[e]。我不是在——"
 
 translate schinese_rewrite Lothar_Report_Dummy_722d7c89:
 
-    l "好吧,Amb,然后就是这样。"
+    l "好了，安布——就到这里。"
 
 translate schinese_rewrite Lothar_Report_Dummy_dd04f79f:
 
-    a "好吧,我回去工作了 祝你的门徒好运。"
+    a "那我回去工作了。祝你和你的徒弟好运。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7e2f42e4:
 
-    l "今晚见,你和乔格见。"
+    l "今晚还在老地方见，你和乔格都来。"
 
 translate schinese_rewrite Lothar_Report_Dummy_687c74ef:
 
-    "昂伯走开,拉着他的内裤 挥手对着你们两个。"
+    "安布一边提着内裤，一边挥手向你们道别，走开了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_72a33094_1:
 
@@ -10647,23 +10647,23 @@ translate schinese_rewrite Lothar_Report_Dummy_6b342fbf:
 
 translate schinese_rewrite Lothar_Report_Dummy_25d99305:
 
-    "你可以在舔嘴唇时看到洛萨尔的窃听器。"
+    "你看到洛萨尔舔着嘴唇，窃笑起来。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4adc2b35:
 
-    e "你们两个恋爱了吗?"
+    e "你们两个……相爱了吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_a2efc119:
 
-    l "什么?这只是兄弟兄弟,我们经常这样接吻。"
+    l "什么？这只是兄弟之间的相处方式。我们一直都这样练习接吻。"
 
 translate schinese_rewrite Lothar_Report_Dummy_6336353a:
 
-    e "练习接吻吗？"
+    e "练习——接吻？"
 
 translate schinese_rewrite Lothar_Report_Dummy_d98a05fc:
 
-    l "像我这样的四面八方的拳击手... 需要专业的作战训练可不是什么秘密。"
+    l "像我这样全面发展的战士，需要专门的战斗训练——这可不是什么秘密。"
 
 translate schinese_rewrite Lothar_Report_Dummy_50afd1d4:
 
@@ -10671,110 +10671,110 @@ translate schinese_rewrite Lothar_Report_Dummy_50afd1d4:
 
 translate schinese_rewrite Lothar_Report_Dummy_70ba85f3:
 
-    l "所以,这就是调情工作的方式, 如果你倾向于调情 与怪物,或一般的敌人。"
+    l "所以，如果你想和怪物——或者任何敌人——调情，这就是调情的方式。"
 
 translate schinese_rewrite Lothar_Report_Dummy_2411986e:
 
-    e "我还是不敢相信你会这么调情。"
+    e "我还是不敢相信你会用这种方式调情。"
 
 translate schinese_rewrite Lothar_Report_Dummy_338ad25b:
 
-    l "我看起来像会用亲吻调情吗?"
+    l "你看我像是会真的靠接吻来调情的人吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_d4450c55:
 
-    e "等等,你刚才说你一直调情。"
+    e "等、等等，你刚才还说你一直在练习调情。"
 
 translate schinese_rewrite Lothar_Report_Dummy_020ce612:
 
-    l "实践不是真正的战斗!"
+    l "练习又不是真正的战斗！徒弟，你先把事实搞清楚。"
 
 translate schinese_rewrite Lothar_Report_Dummy_19e2c578:
 
-    "洛萨尔大喊大叫 他的脸红了 很快解释清楚。"
+    "洛萨尔大喊起来，脸涨得通红，赶忙为自己辩解。"
 
 translate schinese_rewrite Lothar_Report_Dummy_f2d713a9:
 
-    e "所以,你的类人猿不是为真正的战斗?"
+    e "所以，你的练习并不是为了真正的战斗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_a939b20d:
 
-    l "别胡说八道了 否则我给你上一课。"
+    l "不！少胡说八道，不然我亲自给你上一课。"
 
 translate schinese_rewrite Lothar_Report_Dummy_78a9edcb:
 
-    e "好吧,我猜,你现在有什么计划?"
+    e "好吧，我懂了。那你现在有什么打算？"
 
 translate schinese_rewrite Lothar_Report_Dummy_b994df3c:
 
-    l "我们两个来比试。"
+    l "我们来切磋，你和我。"
 translate schinese_rewrite Lothar_Report_Dummy_2075810f:
 
-    l "我不得不看看你是怎么打斗的 无论以什么方式, 没有任何问题问。"
+    l "我得亲眼看看你到底是怎么战斗的——总之，这事没得商量。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1bf4323f:
 
-    e "当然,我可以学到更多 从你,如果我能看到 你如何实际战斗。"
+    e "好啊，如果能看看你真正的战斗方式，我就能从你身上学到更多。"
 
 translate schinese_rewrite Lothar_Report_Dummy_83ac54ef:
 
-    l "听着,把它当赌注,赌注很大 如果你输给我,你就得付我500金。"
+    l "听着，就把它当成一场赌注，赌注很大。如果你输给我，就得付我五百金币。"
 
 translate schinese_rewrite Lothar_Report_Dummy_c85d8184:
 
-    e "如果你输给我怎么办?"
+    e "那你要是输给我呢？"
 
 translate schinese_rewrite Lothar_Report_Dummy_90ebddd7:
 
-    "洛萨尔,他似乎不相信你赢了。"
+    "洛萨尔轻笑一声，显然不相信你能赢。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1b515a51:
 
-    l "你才是决定者 门徒。"
+    l "那就该由你来决定，徒弟。"
 
 translate schinese_rewrite Lothar_Report_Dummy_c09f3b53:
 
-    l "这会是一个很大的\"如果\",我会碰巧失去 我的门徒。" nointeract
+    l "那可是个很大的“如果”——我居然会输给自己的徒弟。不过，随你做梦吧，嘿……" nointeract
 
 translate schinese_rewrite Lothar_Report_Dummy_098611b1:
 
-    e "同一件事。500金。"
+    e "同样的。五百金币。"
 
 translate schinese_rewrite Lothar_Report_Dummy_34872447:
 
-    l "你低估我的能力了吗?"
+    l "嗯……你是在低估我的力量吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_e6c0c700:
 
-    e "我们用同样的钱打赌,这不就是赌注的原理吗?"
+    e "什、什么？赌注不就是双方押同样的钱吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_4d87ea38:
 
-    l "很显然,我比你强 所以,这个机会应该有利于我, 以巨大的利润。"
+    l "显然，我比你强得多。所以赔率应该大幅偏向我。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4a9dd578:
 
-    e "如果我赢了,你要我获得更多的金子吗?"
+    e "……你想让我赢了之后拿更多金币？"
 
 translate schinese_rewrite Lothar_Report_Dummy_28b4d46d:
 
-    l "我要你多尊重英雄 你真的认为你能打败我吗?"
+    l "我是想让你更尊重这位英雄。你真觉得自己能打赢我？"
 
 translate schinese_rewrite Lothar_Report_Dummy_a6865b28:
 
-    l "和你战斗... 好吧... 这只是个示范比赛 让你知道我有多坚强。"
+    l "和你战斗……唉，这只是一场示范性的切磋，让你看看我有多强。"
 
 translate schinese_rewrite Lothar_Report_Dummy_7115ea73:
 
-    e "右转。"
+    e "好、好吧。"
 
 translate schinese_rewrite Lothar_Report_Dummy_dde0a491:
 
-    e "C -Can,我做同样的事情 你对安布做?"
+    e "我、我能像你对安布那样对你吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_f7345534:
 
-    l "什么 你要我帮你处理胸口?"
+    l "什么，你想让我摸你的胸？"
 
 translate schinese_rewrite Lothar_Report_Dummy_50afd1d4_1:
 
@@ -10786,59 +10786,59 @@ translate schinese_rewrite Lothar_Report_Dummy_6b342fbf_1:
 
 translate schinese_rewrite Lothar_Report_Dummy_d9f378d4:
 
-    e "相反的?"
+    e "相反呢？"
 
 translate schinese_rewrite Lothar_Report_Dummy_9c6788f3:
 
-    "洛萨尔暂停 直到他真正意识到发生了什么。"
+    "洛萨尔停顿了一下，终于意识到你想做什么。"
 
 translate schinese_rewrite Lothar_Report_Dummy_32c73e95:
 
-    l "为什么我要让你碰我?"
+    l "我为什么要让你碰我？"
 
 translate schinese_rewrite Lothar_Report_Dummy_11363458:
 
-    e "也许从你的生理上学习?"
+    e "也许可以借此了解你的体格？"
 
 translate schinese_rewrite Lothar_Report_Dummy_faec1086:
 
-    l "呃,好吧。"
+    l "呃，好吧。"
 
 translate schinese_rewrite Lothar_Report_Dummy_352b0bd2:
 
-    l "你不可能在这里赢英雄的。"
+    l "反正你不可能在这里赢过这位英雄。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e7b281a4:
 
-    e "我会尽力而为。"
+    e "我会尽力的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_6a14a25f:
 
-    l "是啊,试试 - 试试你的乳房代替,呵呵..."
+    l "那就试试——不过先试试你的胸吧，嘿嘿……"
 
 translate schinese_rewrite Lothar_Report_Dummy_5bbe5355:
 
-    e "我想我应该踢你... 踢你的蛋蛋。"
+    e "我觉得我应该踢你……踢你的蛋蛋。"
 
 translate schinese_rewrite Lothar_Report_Dummy_ddf6c0b4:
 
-    l "不,你怎么了? 你对我的坚果着迷..."
+    l "不……你到底怎么回事，为什么总惦记我的蛋蛋……"
 
 translate schinese_rewrite Lothar_Report_Dummy_f4bd52f4:
 
-    e "我只是觉得塞巴斯也这么做了..."
+    e "我只是觉得塞巴斯也这么做了……"
 
 translate schinese_rewrite Lothar_Report_Dummy_3f28aa44:
 
-    l "我不是这个意思 我为什么要让你踢我的蛋蛋。"
+    l "重点不是这个！我为什么要让你踢我的蛋蛋？"
 
 translate schinese_rewrite Lothar_Report_Dummy_1ae28f62:
 
-    l "特别是那头狮子把我的肉弄脏了。"
+    l "尤其是那头该死的狮子把我的下体搞得一团糟。"
 
 translate schinese_rewrite Lothar_Report_Dummy_ca5014c5:
 
-    e "我可以安抚它吗?"
+    e "我能帮你安抚一下吗……？"
 
 translate schinese_rewrite Lothar_Report_Dummy_1849f6d2:
 
@@ -10846,35 +10846,35 @@ translate schinese_rewrite Lothar_Report_Dummy_1849f6d2:
 
 translate schinese_rewrite Lothar_Report_Dummy_aee2cbe6:
 
-    l "朋友,你刚才提醒我 你站在狮子一边。"
+    l "徒弟，你刚刚提醒了我，你站在那头狮子那边。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4e753257:
 
-    l "那样的话,我会狠狠地打你一顿 你给我1000金。"
+    l "就因为这个，我会把你打得屁滚尿流——你得给我一千金币。"
 
 translate schinese_rewrite Lothar_Report_Dummy_0776e1a4:
 
-    l "你想为你的小狮子报仇吗?"
+    l "哈，你这是想替你的小狮子报仇？"
 
 translate schinese_rewrite Lothar_Report_Dummy_ad87b694:
 
-    l "我还以为你站在我这边呢 门徒。"
+    l "我还以为你站在我这边呢，徒弟。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4985a718:
 
-    e "我只是想踢你..."
+    e "我只是想踢你……"
 
 translate schinese_rewrite Lothar_Report_Dummy_168f3dd2:
 
-    l "你怎么了? 你对我的坚果着迷..."
+    l "你到底怎么回事，怎么这么迷恋我的蛋蛋……"
 
 translate schinese_rewrite Lothar_Report_Dummy_456be4e0:
 
-    l "我从没见过像你这样的人 如此胆大妄为 与你的英雄争吵。"
+    l "我从没见过像你这样的人，竟敢这样跟自己的英雄顶嘴……"
 
 translate schinese_rewrite Lothar_Report_Dummy_ebfeafd7:
 
-    l "我把你从歌乐场救出来 要不是我,那会很容易杀了你。"
+    l "我可是从魔像手里救了你。要不是我，它早就轻松杀了你。"
 
 translate schinese_rewrite Lothar_Report_Dummy_50afd1d4_2:
 
@@ -10882,123 +10882,123 @@ translate schinese_rewrite Lothar_Report_Dummy_50afd1d4_2:
 
 translate schinese_rewrite Lothar_Report_Dummy_36a325dd:
 
-    e "那么... 我能踢你吗?"
+    e "所以……我能踢你吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_5cb6c0b2:
 
-    l "好吧,但你不可能 真正赢过英雄。"
+    l "好吧，不过你不可能在这里真的赢过这位英雄。"
 
 translate schinese_rewrite Lothar_Report_Dummy_6d392908:
 
-    l "我的意思是,我得到了超过20年的 战斗机训练。"
+    l "毕竟，我可是接受了二十多年的战士训练。"
 
 translate schinese_rewrite Lothar_Report_Dummy_e59ae9c9:
 
-    l "你只是有点被吓到是完全正常的。"
+    l "你稍微感到害怕也是完全正常的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_4f311731:
 
-    e "我明白了。"
+    e "明白了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_fa0b6fe8:
 
-    l "不管怎样,你准备好了吗?"
+    l "总之，准备好了吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_2697bf52:
 
-    l "当然是为了我们传奇的拳击比赛。" nointeract
+    l "当然是为了我们这场传奇般的切磋。" nointeract
 
 translate schinese_rewrite Lothar_Report_Dummy_8d246e37:
 
-    e "是的,我准备好了。"
+    e "我准备好了。"
 
 translate schinese_rewrite Lothar_Report_Dummy_1b33efd3:
 
-    e "不,我还得准备,我已经花了我所有的精力 打击假人。"
+    e "不，我还得准备一下；刚才打假人已经耗尽了我所有力气。"
 
 translate schinese_rewrite Lothar_Report_Dummy_a8f3f1ea:
 
-    l "好吧,好吧,去问问你的小蜥蜴朋友 提示什么的。"
+    l "好吧，好吧，去找你那只小蜥蜴朋友取取经什么的。"
 
 translate schinese_rewrite Lothar_Report_Dummy_cb6c9e4e:
 
-    l "无论如何你赢不了我。"
+    l "反正你不可能赢我。"
 
 translate schinese_rewrite Lothar_Report_Dummy_9a961bd3:
 
-    e "嗯,我们只是打比赛,对吧?"
+    e "呃，我们只是切磋，对吧？"
 
 translate schinese_rewrite Lothar_Report_Dummy_7f8492fb:
 
-    l "是的,我想,这是你向这里最好的人学习的大好机会。"
+    l "是啊，我想是。这可是你向这里最强的人学习的大好机会。"
 
 translate schinese_rewrite Lothar_Report_Dummy_45a1a6d2:
 
-    l "这个英雄不是总在这里跟你这种人打架。"
+    l "这位英雄可不是随时都有空，陪你这种人打架。"
 
 translate schinese_rewrite Lothar_Report_Dummy_385a6fc7:
 
-    e "我明白了。我该走了吗?"
+    e "我明白了。我现在该走了吗？"
 
 translate schinese_rewrite Lothar_Report_Dummy_6f8b99bc:
 
-    l "是的,你可以走了,我等着..."
+    l "是的，你可以走了。我会在这里等着……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_e9fc7cea:
 
-    e "洛萨尔,你能再跟我说说你的计划吗?"
+    e "洛萨尔，你能再跟我说说你的计划吗？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_ec398aec:
 
-    l "你竟敢问我这个?"
+    l "你竟敢问我这个？你可是毫不犹豫地把我们的秘密计划告诉了奥利！"
 
 translate schinese_rewrite Lothar_Ask_Invasion_04a9cb2b:
 
-    l "你曾经站在我这边吗?"
+    l "你到底有没有站在我这边过？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_cff509a4:
 
-    e "嗯..."
+    e "呃……什么？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_fe81c907:
 
-    l "别再装作你是清白的 我训练了你 让你成为冒险家。"
+    l "别他妈在每件事上都装无辜。我训练了你，把你培养成了冒险家……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_8d7be70a:
 
-    l "这就是你偿还我的方式吗?"
+    l "而你就是这样报答我的？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_c9778233:
 
-    l "他妈的在背后捅我一刀?"
+    l "他妈的在背后捅我一刀？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_5da9276f:
 
-    e "我只是觉得奥利应该知道真相 我没有心去欺骗他。"
+    e "我只是觉得奥利有权知道真相，我不忍心骗他。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_2924dde1:
 
-    l "滚开。"
+    l "滚。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_3f00c726:
 
-    "洛萨尔靠在砖墙上, 他给你一个侧眼,然后看远..."
+    "洛萨尔倚在砖墙上，侧眼瞥了你一下，便把目光移开了……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_8a9e4785:
 
-    "空气会冷冻一会儿 你们两个都保持沉默。"
+    "你们两人都沉默不语，空气仿佛在这一刻凝固了。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_86b3bd22:
 
-    e "对不起,洛萨尔。"
+    e "对不起，洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_cd7111fc:
 
-    l "你们都这样, 以我的仁慈为理所当然..."
+    l "你们全都这样，把我的善意当成理所当然……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_f28bfc83:
 
-    e "我很抱歉,洛萨尔。"
+    e "我……真的很抱歉，洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_82822a0c:
 
@@ -11006,27 +11006,27 @@ translate schinese_rewrite Lothar_Ask_Invasion_82822a0c:
 
 translate schinese_rewrite Lothar_Ask_Invasion_d823286f:
 
-    "洛萨尔仍然在视而不见,但他的表情似乎有所软化。"
+    "洛萨尔仍旧别过脸去，但他的表情似乎稍稍柔和了一些。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_3ae156a1:
 
-    e "我感到难过。"
+    e "对不起——起——起——！"
 
 translate schinese_rewrite Lothar_Ask_Invasion_365539d0:
 
-    "你抓住了洛萨尔的爪子 慢慢地摸着他手背上的毛。"
+    "你抓住洛萨尔的爪子，缓缓抚弄着他手背上的毛。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_5fdf179d:
 
-    e "Hey, Sorry."
+    e "嘿，对不起。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_5f9042aa:
 
-    l "你需要做的比这更好的..."
+    l "你得做得比这好得多……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_c016b05d:
 
-    e "我需要做什么?我的老板。"
+    e "那、那我该怎么做？老板。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_82822a0c_1:
 
@@ -11034,51 +11034,51 @@ translate schinese_rewrite Lothar_Ask_Invasion_82822a0c_1:
 
 translate schinese_rewrite Lothar_Ask_Invasion_dd94c74d:
 
-    l "你什么时候学会这样说话的。"
+    l "你什么时候学会这么说话的……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_7b5bb3da:
 
-    e "当我感觉我真的很抱歉的时候,我想。"
+    e "我真的真的觉得抱歉时，就会这样吧。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_11d6aff0:
 
-    l "我还没印象深刻呢 门徒。"
+    l "嗯……可我还没被打动呢，徒弟。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_8c6a6bdf:
 
-    l "难道你不认为你可以勾引一个英雄 用你的大..."
+    l "还有，别以为凭你那根大……就能诱惑一位英雄……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_c0463696:
 
-    e "大什么?"
+    e "大什么？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_7b2f5349:
 
-    l "不 回到话题上 计划。"
+    l "咳——没什么。回到正题。说计划。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_478a7ee9:
 
-    e "你接受我的道歉吗?"
+    e "你接受我的道歉了吗……？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_ce432d18:
 
-    l "Y -是的,但小心你的背部..."
+    l "嗯——嗯，接受。不过你给我小心点……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_8cdf0324:
 
-    l "总之,计划,问方向,假装晕倒 进去,四处打听。"
+    l "总之，说回计划。先问路，假装自己要晕倒。混进去，再四处打听。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_0cf425bf:
 
-    e "好吧,我会考虑的。"
+    e "好吧……我会考虑的。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_71ead04e:
 
-    l "别想太久了,不然我会生气的..."
+    l "别考虑太久。不然我会……再次生气的。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_96b64e6e:
 
-    e "听着,洛萨尔,我不知道你想要什么 但那不是我的错。"
+    e "听着，洛萨尔，我不知道你到底想要什么，但这不是我的错。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_82822a0c_2:
 
@@ -11086,23 +11086,23 @@ translate schinese_rewrite Lothar_Ask_Invasion_82822a0c_2:
 
 translate schinese_rewrite Lothar_Ask_Invasion_d272c415:
 
-    e "欧利是对的 你根本不该试图 监视山羊部落。"
+    e "奥利说得对，你一开始就不该试图监视山羊部落。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_35dd8d0c:
 
-    l "去你妈和你那狡猾的战术。"
+    l "你——你说什么？去你的，还有你那套阴险的小把戏。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_319586ee:
 
-    l "我甚至不知道你是怎么成为我的徒弟的。"
+    l "相信你那些甜言蜜语般的小谎话是个错误。我真不知道你是怎么成了我的徒弟。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_c8b30ac3:
 
-    l "我不该听那只蜥蜴 教你 指导你。"
+    l "我当初就不该听那只蜥蜴的，教你、指导你。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_ec117e22:
 
-    l "现在又在背后捅我一刀 说我错了?"
+    l "现在你还要在背后捅我一刀，再告诉我错的是我？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_72a33094:
 
@@ -11110,83 +11110,83 @@ translate schinese_rewrite Lothar_Ask_Invasion_72a33094:
 
 translate schinese_rewrite Lothar_Ask_Invasion_ed28b4e7:
 
-    e "我告诉你,你是个大笨狼!"
+    e "我是在告诉你，你就是一头又大又蠢的狼！"
 
 translate schinese_rewrite Lothar_Ask_Invasion_a986cb02:
 
-    e "别怪我有一个完好无损的、功能正常的大脑 能够自我思考!"
+    e "别因为我有一个完好、能独立思考的脑子，就把错怪到我头上！"
 
 translate schinese_rewrite Lothar_Ask_Invasion_73f0fb90:
 
-    "你感觉你厌倦了 这么长时间的 做一个推推手。"
+    "你觉得自己已经受够了这么久以来一味忍让。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_fcf694db:
 
-    "感觉很好,几乎..."
+    "而且不知怎么的，这感觉还挺好。几乎……像是松了口气。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_857962f5:
 
-    "但是当你回到现实 看着洛萨尔盯着你看时 兴奋就消失了..."
+    "但你很快回过神来，看见洛萨尔正盯着你，那股兴奋也随之消退……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_9af00f01:
 
-    l "Y-"
+    l "你——"
 
 translate schinese_rewrite Lothar_Ask_Invasion_da755a8c:
 
-    l "滚开,不然我他妈的 把你踩成一堆没用的龙纸浆。"
+    l "他妈的赶紧给我滚，不然我就把你踩成一摊没用的龙肉泥。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_b9bcf94a:
 
-    l "立刻滚开!"
+    l "现在就给我滚蛋！"
 
 translate schinese_rewrite Lothar_Ask_Invasion_377fc751:
 
-    "突然的瞬间勇气消退 你却因为说出来而感到很不自在。"
+    "你那一瞬间的勇气迅速消退，立刻退开；刚才那番顶嘴让你心里很不是滋味。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_53a30a74:
 
-    "狼似乎也不欣赏它..."
+    "那头狼显然也并不欣赏你的这番勇气……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_e9fc7cea_1:
 
-    e "洛萨尔,你能再跟我说说你的计划吗?"
+    e "洛萨尔，你能再跟我说说你的计划吗？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_58fe2069:
 
-    l "是的,其实很简单,问方向..."
+    l "当然。计划其实很简单：先找个地方问路，然后假装自己快要晕倒。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_687031d0:
 
-    l "进去问一问吧,因为你的警徽 他们对你很容易。"
+    l "接着混进去，四处打听。他们看在你的徽章上，不会为难你。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_33380855:
 
-    e "...Alright."
+    e "……好吧。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_8d5e9cf8:
 
-    l "徒弟,你觉得怎么样?"
+    l "所以，你怎么说，徒弟？愿意帮我这个忙吗？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_84f0c0c3:
 
-    l "也许我能把你从那个石块谷歌里救出来?"
+    l "尤其是我还从那只石魔像手里救过你？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_9e3eae0b:
 
-    l "不过我通常不欠人情 如果你好奇的话。" nointeract
+    l "不过，我可不是经常欠别人人情的。你要是好奇的话。" nointeract
 
 translate schinese_rewrite Lothar_Ask_Invasion_0fddf809:
 
-    e "我会进入它。"
+    e "我来办这件事。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_b1f58e7b:
 
-    l "嗯..."
+    l "嗯……很好。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_0176c746:
 
-    l "记住我跟你说的 因为被抓对你可能有点危险。"
+    l "记住我说的话，因为被抓住对你来说可能有点危险。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_c18eb48e:
 
@@ -11194,15 +11194,15 @@ translate schinese_rewrite Lothar_Ask_Invasion_c18eb48e:
 
 translate schinese_rewrite Lothar_Ask_Invasion_1ee8127a:
 
-    l "我是说你肯定不会被抓吧?"
+    l "我的意思是，你肯定不会被抓住，对吧？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_c0fa5750:
 
-    l "这就像打黏液和输, 这是不可能的。"
+    l "这就像打史莱姆时输掉一样，根本不可能。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_863c7354:
 
-    l "但如果你这么做了 那么... 他们可能不会杀信使。"
+    l "不过，要是真被抓了……他们大概不会杀一个信使。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_72a33094_1:
 
@@ -11214,43 +11214,43 @@ translate schinese_rewrite Lothar_Ask_Invasion_e53c6fed:
 
 translate schinese_rewrite Lothar_Ask_Invasion_1f2ea34f:
 
-    l "地点在这里,山羊部落,让我在地图上标上。"
+    l "位置在这里：山羊部落。让我在你的地图上标出来。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_ae95b06d:
 
-    l "西到外哨..."
+    l "在林地前哨站西边……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_b5cff9c2:
 
-    e "好的,谢谢洛萨尔,我很快回来。"
+    e "知道了。谢谢你，洛萨尔。我很快回来。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_b79eb010:
 
-    e "也许..."
+    e "也许……改天？"
 
 translate schinese_rewrite Lothar_Ask_Invasion_27d26753:
 
-    e "我需要考虑一下。"
+    e "我得考虑一下。"
 
 translate schinese_rewrite Lothar_Ask_Invasion_175e28ba:
 
-    l "好吧。"
+    l "那好吧。"
 
 translate schinese_rewrite Lothar_Report_Goat_f5072eae:
 
-    e "洛萨尔,我从山羊回来。"
+    e "洛萨尔，我从山羊部落回来了。"
 
 translate schinese_rewrite Lothar_Report_Goat_eb6c705e:
 
-    l "哦?"
+    l "哦……？"
 
 translate schinese_rewrite Lothar_Report_Goat_2a904cc9:
 
-    l "你发现了什么?" nointeract
+    l "那你发现了什么？" nointeract
 
 translate schinese_rewrite Lothar_Report_Goat_ee1aa985:
 
-    e "我想他们在找他们的监护人。"
+    e "呃……我想，他们在寻找……他们的守护者……"
 
 translate schinese_rewrite Lothar_Report_Goat_579ab600:
 
@@ -11258,191 +11258,191 @@ translate schinese_rewrite Lothar_Report_Goat_579ab600:
 
 translate schinese_rewrite Lothar_Report_Goat_3558d346:
 
-    e "我们认识的戈莱姆 是他们的守护者迷路了。"
+    e "我们遇到的那只石魔像，就是他们不知所踪的守护者。"
 
 translate schinese_rewrite Lothar_Report_Goat_8e4c10bc:
 
-    l "他们的守护者..."
+    l "啊……他们的守护者……"
 
 translate schinese_rewrite Lothar_Report_Goat_491644e4:
 
-    l "好吧。"
+    l "那好吧。"
 
 translate schinese_rewrite Lothar_Report_Goat_42428af5:
 
-    l "我必须亲眼目睹。"
+    l "我得亲自去看看。"
 
 translate schinese_rewrite Lothar_Report_Goat_464e9757:
 
-    e "嗯..."
+    e "呃……我没发现什么。"
 
 translate schinese_rewrite Lothar_Report_Goat_d80db94b:
 
-    l "真的吗？"
+    l "真的？"
 
 translate schinese_rewrite Lothar_Report_Goat_234fe019:
 
-    e "是的,我只是进去了,他们看起来很正常。"
+    e "嗯，我只是进去了，他们看起来挺正常的。"
 
 translate schinese_rewrite Lothar_Report_Goat_3778efe1:
 
-    l "Meh... Alright."
+    l "哼……好吧。"
 
 translate schinese_rewrite Lothar_Report_Goat_d4a433de:
 
-    e "那么... 就这样?"
+    e "所以……就这样？"
 
 translate schinese_rewrite Lothar_Report_Goat_42055667:
 
-    l "我想是的。"
+    l "我想是吧。"
 
 translate schinese_rewrite Lothar_Report_Goat_d1aa3b6b:
 
-    l "如果他们没有计划什么 我就不会是袭击者。"
+    l "如果他们没在谋划什么，我就不会主动攻击他们。"
 
 translate schinese_rewrite Lothar_Report_Goat_a9516177:
 
-    l "你了解你小朋友的事了吗?"
+    l "关于你那位小朋友，你有什么收获吗？"
 
 translate schinese_rewrite Lothar_Report_Goat_4221f3ab:
 
-    e "我不知道..."
+    e "我不知道……"
 
 translate schinese_rewrite Lothar_Report_Goat_816204f9:
 
-    l "好。"
+    l "好吧。"
 
 translate schinese_rewrite Lothar_Report_Goat_34b77199:
 
-    l "我下次再见到你 门徒。"
+    l "那我们下次再见，徒弟。"
 
 translate schinese_rewrite Lothar_Report_Goat_0b9ce1a9:
 
-    e "再见,洛萨尔。"
+    e "再见，洛萨尔。"
 
 translate schinese_rewrite Lothar_Outfit_01_63265da8:
 
-    e "洛萨尔,你有时间吗?"
+    e "洛萨尔，你有空吗？"
 
 translate schinese_rewrite Lothar_Outfit_01_e2ac1690:
 
-    l "你不知道我的时间很宝贵吗?"
+    l "徒弟，什么事？你不知道我的时间很宝贵吗？而且你穿的他妈是什么？"
 
 translate schinese_rewrite Lothar_Outfit_01_e0a8bbac:
 
-    "洛萨尔的眼睛在你的下身上徘徊 你的脸脸红了。"
+    "洛萨尔的目光落到你的下半身，你的脸颊顿时红了。"
 
 translate schinese_rewrite Lothar_Outfit_01_6ab3d170:
 
-    e "雷希姆想让我听听你对这套衣服的看法？"
+    e "这看起来很奇怪吗？雷希姆想让我听听你对这套衣服、这身冒险装备的看法。很蠢，对吧？"
 
 translate schinese_rewrite Lothar_Outfit_01_f3862c90:
 
-    l "这太棒了,尽管他小便的行为 那头公牛的作品是镇上最棒的。"
+    l "徒弟，你在说什么？这简直棒极了。那头公牛虽然脾气糟糕，但他做的东西是镇上最好的。"
 
 translate schinese_rewrite Lothar_Outfit_01_4ce6c1cb:
 
-    l "这盔甲能提供战斗所需的武器 来转移和战胜对手。"
+    l "这套护甲会给你足够的装备，让你在战斗中分散对手的注意力并将其击败。"
 
 translate schinese_rewrite Lothar_Outfit_01_6512c56e:
 
-    e ".如果你这么说的话。"
+    e "……你这么说的话。"
 
 translate schinese_rewrite Lothar_Outfit_02_589c65f7:
 
-    l "你穿的是什么?"
+    l "你穿的这是什么？"
 
 translate schinese_rewrite Lothar_Outfit_02_de7406c0:
 
-    l "它甚至是否提供任何保护?"
+    l "这东西真的能提供任何防护吗？"
 
 translate schinese_rewrite Lothar_Outfit_02_ce02f860:
 
-    e "嗯,这不是真的 一种服装去战斗在..."
+    e "呃，这本来就不是拿来打架的衣服……"
 
 translate schinese_rewrite Lothar_Outfit_02_f2ba61d4:
 
-    l "嗯,也许缺乏保护 是故意的。"
+    l "嗯，也许防护不足就是故意的。"
 
 translate schinese_rewrite Lothar_Outfit_02_d38d1ab2:
 
-    l "赢得一些战斗的好办法。"
+    l "这倒不失为赢下某些战斗的好办法。"
 
 translate schinese_rewrite Lothar_Outfit_02_04e0394c:
 
-    l "看起来你一直在努力练习诱骗的艺术。"
+    l "徒弟，看起来你一直在努力练习诱惑之术。"
 
 translate schinese_rewrite Lothar_Outfit_02_57de4d63:
 
-    l "但是,你不能只专注于一种战斗方式。"
+    l "不过，你不能只专注于一种战斗风格。"
 
 translate schinese_rewrite Lothar_Outfit_02_b7edd410:
 
-    "洛萨尔闭上眼睛 开始讲课。"
+    "洛萨尔闭上眼睛，开始滔滔不绝地说教……"
 
 translate schinese_rewrite Lothar_Outfit_02_19dcc86a:
 
-    "你决定感谢他 趁他没发现之前溜走。"
+    "你决定先向他道谢，趁他还没注意到之前溜走。"
 
 translate schinese_rewrite Lothar_Outfit_03_d8fcb5c2:
 
-    l "我以前见过这样的作战装备。"
+    l "我以前见过这种战斗服。"
 
 translate schinese_rewrite Lothar_Outfit_03_83fa63b9:
 
-    l "不能说我很喜欢它。"
+    l "不能说我喜欢。"
 
 translate schinese_rewrite Lothar_Outfit_03_4aa80492:
 
-    l "通常都是魔法使用者穿的。"
+    l "通常是魔法使用者穿的。"
 
 translate schinese_rewrite Lothar_Outfit_03_eec4515d:
 
-    l "真正的英雄在前面指挥,明白吗,朋友?"
+    l "真正的英雄会冲在最前面。明白了吗，徒弟？"
 
 translate schinese_rewrite Lothar_Outfit_03_b2267a89:
 
-    e "嗯..."
+    e "呃……是吧？"
 
 translate schinese_rewrite Lothar_Outfit_03_d5bbc949:
 
-    l "现在,移动 这样我就可以继续我的训练。"
+    l "现在，挪开点，让我继续训练。"
 
 translate schinese_rewrite Lothar_Outfit_03_2e5aa5fd:
 
-    e "什么训练?"
+    e "什么训练？"
 
 translate schinese_rewrite Lothar_Outfit_03_31e14484:
 
-    l "耐力训练 如果我再看到那套衣服的话。"
+    l "耐力训练——免得我再多看这套衣服一秒就撑不住。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_a00f4662:
 
-    l "听上去你好像经常 插手山羊生意。"
+    l "徒弟，听起来你最近没少插手山羊部落的事。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_bc67ac26:
 
-    e "洛塔,你什么意思?"
+    e "洛萨尔，你这是什么意思？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_0dccfd08:
 
-    l "山羊有问题 我能感觉到他们正在密谋反对我们的村庄..."
+    l "山羊部落有问题。我能感觉到他们正在密谋对付我们村子……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_5619019c:
 
-    l "还有那个山羊头头,他看起来有点可疑吗?"
+    l "还有那个山羊首领。他看起来是不是有点可疑……？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_367e8d46:
 
-    e "Uhhh... What?"
+    e "呃……什么？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_c1236433:
 
-    l "我需要一些信息 在我决定对山羊采取行动之前 我要知道一些信息。"
+    l "在我这个乐斯民菲尔德英雄决定如何对付山羊之前，我需要一些情报。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_ab81d4b6:
 
-    l "我们最好在巷子里谈这件事。"
+    l "我们最好去巷子里谈这件事。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_e53c6fed:
 
@@ -11450,59 +11450,59 @@ translate schinese_rewrite Lothar_Invasion_Quest_e53c6fed:
 
 translate schinese_rewrite Lothar_Invasion_Quest_2903783f:
 
-    e "你要我去山羊村吗?"
+    e "所以，你想让我去山羊部落？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_a1d6418a:
 
-    l "是的 别说话太大声 门徒 蜥蜴可能在偷听什么..."
+    l "对。小声点，徒弟，那只蜥蜴可能就在某处偷听……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_9c8db1d0:
 
-    e "为什么问我 为什么不问问你的朋友..."
+    e "呃，为什么是我？你为什么不去问你的朋友……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_31a8bb4f:
 
-    l "听着,他们已经认出了我们大部分的英雄小队 但你是信使..."
+    l "听着，他们已经认得我们英雄小队里的大多数人了。但你是信使……我想他们不会试图杀你。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_31157a0e:
 
-    e "但是... 呃... 山羊已经想杀我了 猎人。"
+    e "可是……呃……山羊猎人已经试图杀过我了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_bb7723f2:
 
-    l "Uh no..."
+    l "呃，不……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_2a2feb78:
 
-    l "我看见你和那些猎人 在森林里玩得很开心,不是吗?"
+    l "我看你和那些猎人在森林里玩得挺开心的，不是吗？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_11210b23:
 
-    l "也不一定是想杀你..."
+    l "他们也不一定是在想办法杀你……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_4ba09d77:
 
-    e "... 你怎么知道?"
+    e "……你怎么知道的？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_88ea027a:
 
-    l "再说,上次你站在狮子一边的时候 你欠我的。"
+    l "再说，上次你站在那头狮子一边时，还欠我一笔账呢。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_eaa5441d:
 
-    l "我只想知道发生了什么 Gallem手 整个河边。"
+    l "我只是想知道到底发生了什么——石魔像的那只手，还有整条河岸。那群山羊肯定藏着什么秘密……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_d0a62b32:
 
-    l "如果他们在计划攻击 我们至少要做好准备。"
+    l "如果他们在策划攻击，我们至少得做好准备。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_ad369d27:
 
-    e "洛萨尔 弗坎告诉我他不会打仗的。"
+    e "洛萨尔，弗坎告诉过我，他不会发动战争。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_4a0a5618:
 
-    l "嘿,也许他仍然怀恨在我杀了他小父亲之后。"
+    l "嘿，说不定我杀了他老爸之后，他还怀恨在心呢。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_50afd1d4:
 
@@ -11510,19 +11510,19 @@ translate schinese_rewrite Lothar_Invasion_Quest_50afd1d4:
 
 translate schinese_rewrite Lothar_Invasion_Quest_20263385:
 
-    l "Disciple."
+    l "徒弟。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_9e08f8cd:
 
-    l "你知道,我,一个英雄, 救了你 从歌莱姆,对不对?"
+    l "你知道吧，我可是英雄，还从石魔像手里救过你，对吧？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_aff331a0:
 
-    l "你该证明自己是一名正派的冒险家了 当然你不会是英雄 而是一个肯定的冒险家。"
+    l "是时候证明你是个合格的冒险家了。当然，你成不了英雄，不过冒险家肯定没问题。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_858027f5:
 
-    l "我听过你那小兄弟奇梅吗?"
+    l "而且我还听说了你那位小伙伴，齐门？你一直追查的就是他，对吧？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_72a33094:
 
@@ -11530,139 +11530,139 @@ translate schinese_rewrite Lothar_Invasion_Quest_72a33094:
 
 translate schinese_rewrite Lothar_Invasion_Quest_f7b5d53d:
 
-    e "你有什么计划?"
+    e "你的计划是什么……？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_6fcbabd3:
 
-    l "只要靠近部落 告诉他们你迷路了。"
+    l "只要靠近部落，告诉他们你迷路了什么的。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_a2a0ce1a:
 
-    l "然后假装你几乎要晕倒了, 只需要一些食物,什么的。"
+    l "然后假装自己快要晕倒，只要找他们要点吃的之类的。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_350030fc:
 
-    e "嗯... 我该带点什么吗?"
+    e "呃……我该带什么东西过去吗？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_fc109675:
 
-    l "当然,你不会带食物到那里, 这实际上说不通。"
+    l "嗯，你当然不能把自己的食物带过去，那样确实说不通。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_635639be:
 
-    l "进去问一问 问他们神奇的石头怎么了。"
+    l "只要进去四处问问……这样就够了。问问他们的魔法石出了什么事。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_fe8a7c39:
 
-    l "或者偷看公羊的房间,当然,你必须偷偷摸摸的。"
+    l "或者，如果可以的话，偷看一下公羊的房间。当然，你得足够小心。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_c475020e:
 
-    l "但一般而言,快速巡演会窒息"
+    l "不过总的来说，快速参观一圈就够了——"
 
 translate schinese_rewrite Lothar_Invasion_Quest_bd0d91fb:
 
-    "你感觉到一个人物把你和洛萨尔从后面遮住 是奥勒 狼马上就会离开你。"
+    "你感觉身后有个人影罩住了你和洛萨尔——是奥利。那头狼立刻转过身去。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_645bc351:
 
-    o "你以为你在干什么,洛特?"
+    o "你他妈觉得自己在干什么，洛特？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_4adbfc47:
 
-    l "操..."
+    l "操……嘿，蜥蜴。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_d4dba864:
 
-    o "洛萨尔?"
+    o "洛萨尔？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_938a8651:
 
-    l "我们说的是训练... 高级剑战技巧战术。"
+    l "我们在讨论训练……高级剑术技巧——战术。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_86bb6a4b:
 
-    o "不,我听说你说偷看里面的东西..."
+    o "不。我听到你说要偷看什么东西……还要参观？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_0e709bc8:
 
-    l "Ahem...Disciple?"
+    l "咳……徒弟？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_546704a4:
 
-    o "狼怎么说的... [e]。" nointeract
+    o "那头狼说了什么……[e]？" nointeract
 
 translate schinese_rewrite Lothar_Invasion_Quest_95493788:
 
-    e "洛萨尔让我进入山羊部落。"
+    e "呃……洛萨尔让我进山羊部落。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_a4fd08d1:
 
-    l "不..."
+    l "不……又来了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_99992238:
 
-    l "听着 奥莱 这不是你的想法。"
+    l "听着，奥利，不是你想的那样。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_2baea66b:
 
-    o "进入山羊部落是什么意思?"
+    o "你说要进山羊部落是什么意思？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_9e8ef008:
 
-    o "为什么你会..."
+    o "你为什么要这样做……洛萨尔？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_149f4d9f:
 
-    o "你只是叫[e]帮你做这些事吗?"
+    o "你刚才是不是让[e]替你做这些事？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_f6d9aabe:
 
-    l "这是一份提议, 一份双方同意的提议。"
+    l "那只是个提议，一个双方自愿的提议。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_b9a69c6e:
 
-    o "...你又在撒谎了。"
+    o "……你又在撒谎。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_ac102a3f:
 
-    o "你不要再问他同样的事情了 听见了吗?"
+    o "你别再让他做同样的事了……听见了吗？现在，走。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_cfcacba8:
 
-    l "什么... 我走了?"
+    l "什么……我走？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_01d7ea3a:
 
-    o "回到你的假英雄幻想中去,洛萨尔 别让我告诉你两次。"
+    o "滚回去继续做你的英雄美梦吧，洛萨尔。别让我再说第二遍。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_0ad5bfe4:
 
-    l "哈..."
+    l "呃……"
 
 translate schinese_rewrite Lothar_Invasion_Quest_6c68d9d9:
 
-    o "[e]... 不要听那狼的狗屁借口 他试图动摇你 为他做廉价劳动力。"
+    o "[e]……别听那头狼的鬼扯，他想哄骗你替他干廉价的活。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_ebbf17cf:
 
-    e "我不确定 我想问山羊关于我的朋友的事。"
+    e "我也不确定。我本来就想问问山羊部落关于我朋友的事。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_090beca5:
 
-    o "听着,山羊部落太危险了,我们不知道 如果你走得太近,他们会怎样对待你。"
+    o "听着，山羊部落太危险了。我们不知道你靠得太近后，他们会对你做什么。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_fc66d641:
 
-    o "所以,你留下来,出去做你平常做的事吧,我怀疑洛萨尔会再问你同样的条件。"
+    o "所以，留下来，做你平时做的事。我敢说洛萨尔还会再向你提出同样的要求。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_ee10a53b:
 
-    o "来吧 我们会想出一个更安全的方法 让你去找你的朋友。"
+    o "来吧。我们会想个更安全的办法，让你找到朋友。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_cd4ce2bd:
 
-    e "是的,我不知道。"
+    e "嗯，我也不知道。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_07abc845:
 
@@ -11670,7 +11670,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_07abc845:
 
 translate schinese_rewrite Lothar_Invasion_Quest_298503a2:
 
-    o "相信我 [e] 这是条你永远不想走的路。"
+    o "相信我，[e]。这是一条你绝不想踏上的路。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_c9baa047:
 
@@ -11678,7 +11678,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_c9baa047:
 
 translate schinese_rewrite Lothar_Invasion_Quest_eed3837e:
 
-    o "听着,机会来了,你很快就会见到你朋友 别走捷径 干罗莎的蠢英雄勾当。"
+    o "听着，机会总会来的，你很快就能见到朋友。别走捷径，去掺和洛萨尔那套愚蠢的英雄把戏。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_72a33094_1:
 
@@ -11686,170 +11686,170 @@ translate schinese_rewrite Lothar_Invasion_Quest_72a33094_1:
 
 translate schinese_rewrite Lothar_Invasion_Quest_5ac7bc35:
 
-    e "好的,再次感谢,奥利。"
+    e "好吧，再次谢谢你，奥利。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_dddee161:
 
-    o "是的。我会在这里。"
+    o "嗯。我会在这里。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_df4af617:
 
-    e "奥利, 洛萨尔刚让我偷看他的裤子,或者别的什么。"
+    e "奥利，洛萨尔刚才只是让我偷看他的裤子，或者什么的。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_631312d6:
 
-    e "巡回演出是比喻性的,你知道的, 盛大的..."
+    e "而且那个“参观”是比喻，你知道的，规模很大——"
 
 translate schinese_rewrite Lothar_Invasion_Quest_fc0705df:
 
-    o "哦……[e]，你非得把村里每个人都干一遍吗……"
+    o "哦……[e]。你非得把村里每个人都操一遍吗……"
 translate schinese_rewrite Lothar_Invasion_Quest_ff634259:
 
-    e "嘿,他问我。"
+    e "嘿，是他主动要求的。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_c0048254:
 
-    e "和Seb的事是一次性的事 我保证。"
+    e "我和塞巴斯那次是一次性的，我保证。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_9b02e620:
 
-    l "等着你操狮子吧?"
+    l "等等，你操过那头狮子？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_257b5385:
 
-    o "你为什么不告诉我你们两个..."
+    o "什么？你怎么没告诉我你们两个一直在……做爱？"
 
 translate schinese_rewrite Lothar_Invasion_Quest_4a3766e0:
 
-    e "我们..."
+    e "我们……呃……只是确认一下。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_70b3ea66:
 
-    o "好吧,我不想知道,别告诉我,别让我思考。"
+    o "你——算了。我不想知道。别告诉我，也别让我去想。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_da6d7dee:
 
-    l "蜥蜴,问了又答。"
+    l "哼，蜥蜴，问得好，答案也有了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_92336af7:
 
-    "奥利看起来越不舒服越好。"
+    "奥利看起来尴尬得不得了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_e7dbc042:
 
-    o "嗯... 我得走了。"
+    o "呃……我得走了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_50fe6e24:
 
-    o "玩得开心,你们两个。"
+    o "你们两个玩得开心。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_5e7238f3:
 
-    l "嗯..."
+    l "咳……干得不错，徒弟。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_5799a298:
 
-    l "几乎令人印象深刻,如果我们数一次 那只低级狮子敢要求你踢我。"
+    l "差点就算令人印象深刻了——如果要把那头下等狮子胆敢让你踢我的那一次也算进去的话。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_a5337e5a:
 
-    e "听着,洛萨尔,我还不确定 是否要加入山羊部落的事。"
+    e "听着，洛萨尔……我还是不确定要不要去山羊部落。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_158ff825:
 
-    e "我稍后再考虑一下。"
+    e "我之后再考虑。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_b4800b6e:
 
-    l "门徒,这是你证明自己的唯一机会。"
+    l "徒弟，这是你证明自己的唯一机会。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_cd3bbc9d:
 
-    e "好吧 卢瑟 你逼我太紧了。"
+    e "好吧，洛萨尔，你逼得我太紧了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_30666182:
 
-    l "所以,如果你读了... 等你准备好了告诉我。"
+    l "那等你准——……等你准备好了再告诉我。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_ecfd17f1:
 
-    l "我从乔格和安布那里听说你训练的事了。"
+    l "徒弟，我已经听乔格和安布汇报过你的训练情况了。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_38f7fab4:
 
-    e "我通过了吗?"
+    e "我通过考验了吗？"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_9002e171:
 
-    l "你按照他们的标准通过了,但是按照英雄的标准,你还有很长的路要走。"
+    l "按他们的标准，你算是通过了；但按英雄的标准，你还有很长的路要走。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0a390f53:
 
-    l "安布说,你表现 良好的训练。"
+    l "安布说，你训练时的动作很标准。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_39b1f6b7:
 
-    l "足够了,你应该像他一样大... 或者至少安布是这么想的。"
+    l "只要训练得足够努力，你迟早也能长得像他一样壮……至少安布是这么认为的。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_37675825:
 
-    e "谢谢 我会继续努力工作。"
+    e "谢谢？我会继续努力的。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_9af5ef95:
 
-    l "安布利也在这里提供一些笔记 关于如何调出肌肉的肌肉。"
+    l "安布还给你留了几张笔记，教你该怎么锻炼肌肉。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_4bec1455:
 
-    "洛萨尔手,你看起来是你自己的图画。"
+    "洛萨尔递给你一张纸，看起来画的是你自己。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_7bb05f89:
 
-    e "这很好,我晚点再感谢安波。"
+    e "画得真不错。我晚点一定要谢谢安布。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_60b1c570:
 
-    l "安布说你一开始有点不稳。"
+    l "安布说，你刚开始时有点站不稳。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_86aa6ba8:
 
-    l "但经过一些课后,你开始得到它。"
+    l "不过上了几节课之后，你就渐渐掌握要领了。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_9ecc73c2:
 
-    e "我从安布那里学到了很多东西。"
+    e "我从安布那里学到了很多。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0871d0d8:
 
-    l "所以... 他得出结论,你有很大的潜力, 但他会盯着你。"
+    l "所以……他认为你潜力很大，不过还会继续盯着你。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_1ee2ec0a:
 
-    l "对乔格来说..."
+    l "然后……乔格这边……"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0b2d15fc:
 
-    l "他说你脚步很快。"
+    l "他说你的脚步很快。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_addb5d09:
 
-    l "计划完成后干得漂亮。"
+    l "计划执行得很漂亮。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_5d0f1bbd:
 
-    e "我所做的就是跟着他。"
+    e "我只是跟着他做而已。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_ae62ea9d:
 
-    l "他注意到你的脚很轻。"
+    l "他注意到你的脚步很轻。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0ef3590b:
 
-    l "他说你可以在着陆时再练习一些。"
+    l "不过他说，你还得多练练落地。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_576d3d1f:
 
-    l "然后,他画了东西,看起来像一个W在这里。"
+    l "然后，他在这里画了个看起来像 W 的东西。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_72a33094:
 
@@ -11857,87 +11857,87 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_72a33094:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0887788f:
 
-    "你相信那是屁股,但你什么都不说。"
+    "你觉得那画的是屁股，但什么也没说。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_6e2794e5:
 
-    l "门徒,你和乔格发现了重要的东西。"
+    l "所以，徒弟，你和乔格发现了一件重要的事。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_7266d719:
 
-    e "但我们不确定他们..."
+    e "可我们还不确定他们到底……"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_91b7aef3:
 
-    l "山羊显然没有好下场。"
+    l "山羊部落显然没在干什么好事。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_15b69183:
 
-    l "正如英雄所预言的 山羊不是值得信赖的人。"
+    l "正如这位英雄预料的那样，山羊部落的人不值得信任。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_f69bde0e:
 
-    l "他们说,他们已经 彻底并愿意 组成休战。"
+    l "他们说自己已经把话说开了，也愿意达成停战。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_62a910ae:
 
-    l "但他们仍然在密谋一些事 却不告诉乐斯民菲尔德。"
+    l "可他们还在瞒着乐斯民菲尔德策划什么阴谋。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_7931cd72:
 
-    e "但听起来他们并不是真的想伤害乐斯民菲尔德。"
+    e "可听起来，他们似乎并没有真的想伤害乐斯民菲尔德。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_cd794762:
 
-    l "你拯救了他们中的一个人 并击垮了他们狂暴的谷歌。"
+    l "你救过他们的人，还击倒了他们那具发狂的石魔像。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0c674126:
 
-    l "你会认为那会帮助你赢得他们的信任。"
+    l "按理说，这应该足以让你赢得他们的信任。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_e0c31ea7:
 
-    l "很明显,每件事都是山羊的幌子。"
+    l "显然，山羊部落的一切都只是伪装。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_5191b36e:
 
-    l "他们不像这位英雄那么勇敢。"
+    l "他们可没有这位英雄这么坦率。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_21f55ede:
 
-    l "山羊显然仍然很怕外人。"
+    l "山羊部落显然仍然提防着外人。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_3b37e225:
 
-    l "你被邀请进入他们的部落, 但他们并没有真正告诉你什么。"
+    l "他们邀请你进过部落，却没真正向你透露任何事情。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_a70346a2:
 
-    l "这显示了缺乏信任。"
+    l "这说明他们根本不信任你。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_cee9579a:
 
-    "你之前没说实话,你感到内疚。"
+    "你想到自己之前没有说实话，心里颇为内疚。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0019737f:
 
-    l "也许他们和河边的谷歌攻击有关。"
+    l "这事有些蹊跷。也许他们和河边的石魔像袭击有关。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_6ebf581b:
 
-    l "我不会忘记他们。"
+    l "我一点也不怀疑他们做得出来。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_0d05c3be:
 
-    l "我知道我可以指望乔格潜入山羊部落。"
+    l "我知道，潜入山羊部落这件事可以交给乔格。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_1b7451b6:
 
-    l "你... 还要从他那里学到更多东西 朋友。"
+    l "徒弟，你……还得继续向他多学学。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_cdf3ee5c:
 
-    l "上次你敢跟我争,现在我要你去那里。"
+    l "上次你还敢跟我争辩，结果现在还不是照样去了。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_faa7d97b:
 
@@ -11945,159 +11945,159 @@ translate schinese_rewrite Lothar_Report_Amble_Jog_faa7d97b:
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_5a81f3de:
 
-    l "但多亏了你们两个 现在我们有了这个有价值的信息。"
+    l "不过，多亏你们两个，我们现在有了这份重要情报。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_be721b65:
 
-    e "但是我们不知道该怎么处理它..."
+    e "可我们还不知道该拿它怎么办……"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_347537b7:
 
-    l "无论哪种方式,很明显山羊都快来了。"
+    l "不管怎么说，山羊部落显然正在谋划什么。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_a6fb820c:
 
-    l "英雄自然会挫败他们。"
+    l "本英雄自然会挫败他们的阴谋。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_5ab30c4e:
 
-    l "他们提到大篷车的事吗?"
+    l "他们有没有提到商队？"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_399607c2:
 
-    e "我想是的 有关攻击事件的一些事。"
+    e "嗯，我想提到了。他们似乎对那次袭击有些疑问。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_23d5111c:
 
-    l "他们手上沾满了鲜血 当然,它绝对不会和他们坐在一起。"
+    l "他们手上沾了那么多血，当然怎么都无法心安。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_929c75e5:
 
-    l "因此,英雄会更深入地研究这个问题。"
+    l "那么，本英雄会继续查下去。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_b0f341a9:
 
-    l "别担心,我会处理好一切..."
+    l "不用担心……一切交给我来处理……嘿嘿。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_21c94aca:
 
-    l "和..."
+    l "还有……"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_d4286f7e:
 
-    "洛萨尔咳嗽 然后自己直的。"
+    "洛萨尔咳了一声，然后挺直身子。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_79222641:
 
-    "你相信他在检查你的身体。"
+    "你觉得他其实是在打量你的身体。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_52d929a9:
 
-    l "乔格和安布都建议你和我们一起参加特别训练。"
+    l "咳。乔格和安布都建议你加入我们，参加特别训练。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_14abcdb8:
 
-    l "他们认为你会是个有趣的人。"
+    l "他们觉得你会成为一个有意思的助力。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_9c056960:
 
-    e "什么是特殊训练?"
+    e "特别训练是什么？"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_4cd0f256:
 
-    "你相信看到洛萨尔的脸颊有点红。"
+    "你似乎看到洛萨尔的脸颊微微泛红。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_22b7d9b6:
 
-    l "这是目前我们之间的集体训练。"
+    l "这是我们之间正在进行的集体训练。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_1294872c:
 
-    l "乔格特别提到,你将有很多事情要做,为培训作出贡献。"
+    l "乔格特别提到，你会为这次训练贡献很多。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_3993c3c6:
 
-    "也许你已经想象过了 但当洛萨尔说这个词时 压力似乎很大。"
+    "也许只是你的错觉，但洛萨尔说“很多”时，似乎特意加重了语气。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_f0c0894f:
 
-    e "听起来很有趣 如果训练能帮助我的冒险。"
+    e "听起来挺有意思。如果这训练能帮到我的冒险，我愿意参加。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_c43d4d70:
 
-    l "不要太快, 朋友。"
+    l "别急，徒弟。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_ae408075:
 
-    l "他们可能建议你加入。"
+    l "他们或许是建议你加入。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_5aa71d2d:
 
-    l "但我对你的看法还没有定论。"
+    l "但我还没有对你下定论。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_3728a917:
 
-    l "你需要证明自己更进一步。"
+    l "你还得进一步证明自己。"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_be1533d7:
 
-    e "我怎么能做到这一点?"
+    e "我要怎么证明？"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_6eee1048:
 
-    l "我还没想过..."
+    l "我还没想好……"
 
 translate schinese_rewrite Lothar_Report_Amble_Jog_76a80ea3:
 
-    l "现在,让英雄站在你面前 听从他的想法。"
+    l "去吧，留这位英雄独自思考。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_b8d70634:
 
-    l "这两个人?"
+    l "那两个人？他们是很好的伙伴。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_4e3bc616:
 
-    l "安布利可以有点容易受骗 约格有时会太轻视事物。"
+    l "安布有点容易轻信别人，而乔格有时太不把事情当回事。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_47c8b60e:
 
-    "你自己想,\"他们听起来不可靠\"。"
+    "你心想：“他们听起来不太靠谱。”"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_bea7af26:
 
-    l "然而,他们的工作非常出色。"
+    l "不过，他们各自都很擅长自己的工作。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_3c09c96d:
 
-    l "例如,安布可以直接击碎训练假人。"
+    l "比如，安布一记正面重击就能砸碎训练假人。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_557a2e00:
 
-    l "乔格可以在一英里外射穿头部。"
+    l "乔格能在一英里外一箭射穿它的脑袋。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_3e1a05bd:
 
-    l "但是,他们两个都不适合我。"
+    l "不过，他们两个都不是我的对手。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_f7c09558:
 
-    "洛萨尔骄傲地胸口抽起胸膛。"
+    "洛萨尔得意地挺起胸膛。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_a764de8f:
 
-    l "你也会好起来的 因为你输给英雄了。"
+    l "你也输给过这位英雄，所以没什么好难过的。你还有他们作伴呢。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_8e25979f:
 
-    l "跟你一样,他们也没有打过英雄。"
+    l "和你一样，他们也没在战斗中打赢过这位英雄。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_bef6165e:
 
-    l "我怀疑你赢不了他们之一 所以从某种意义上说 你还是会输给这个英雄。"
+    l "既然你赢不了他们中的任何一个，从某种意义上说，你依旧算输给了这位英雄。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_70e07659:
 
-    l "他们会证明你上次的胜利只是个幸运的巧合。"
+    l "呃……他们会证明，你上次的胜利不过是走运罢了……"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_72a33094:
 
@@ -12105,27 +12105,27 @@ translate schinese_rewrite Lothar_Ask_Amble_Jog_72a33094:
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_864fa840:
 
-    l "无论如何,既然他们叫我他们的老板,我有责任照顾他们。"
+    l "不管怎么说，既然他们叫我老板，我就有责任照看他们。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_1376ca92:
 
-    e "你真好,洛萨尔。"
+    e "你人真好，洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_325beb27:
 
-    "洛萨尔的脸脸都红了一点 对你赞美,他咳嗽要遮住。"
+    "被你夸奖后，洛萨尔的脸颊微微泛红。他咳嗽几声，试图掩饰。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_f5eb309e:
 
-    l "这没什么 朋友 这是我作为乐斯民菲尔德英雄的工作的一部分。"
+    l "这没什么，徒弟。这是我作为乐斯民菲尔德英雄的职责。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_49738d93:
 
-    l "说起你,他们似乎对你的看法不怎么好。"
+    l "说到这个，徒弟。他们似乎不太看得起你。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_a247e6aa:
 
-    e "他们为什么会这么想呢?"
+    e "他们为什么会这么想？"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_4d21639f:
 
@@ -12133,95 +12133,95 @@ translate schinese_rewrite Lothar_Ask_Amble_Jog_4d21639f:
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_2a5603fb:
 
-    "洛萨尔的摇摆。"
+    "洛萨尔耸了耸肩。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_a88199e7:
 
-    l "但是,我需要你向他们证明 这名英雄的同党都不是弱者。"
+    l "不过，你得向他们证明，这位英雄的徒弟可不是弱者。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_9d7658d3:
 
-    l "所以 和他们每个人单独训练。"
+    l "所以……分别去找他们进行单独训练吧。"
 
 translate schinese_rewrite Lothar_Ask_Amble_Jog_83871318:
 
-    l "别让我失望,朋友。"
+    l "别让我失望，徒弟。"
 
 translate schinese_rewrite Lothar_Night_Greet_06ccd779:
 
-    l "小徒弟,别经常在酒馆看到你,去喝啤酒吗?"
+    l "小徒弟，怎么不常在酒馆见到你？要不要坐下来喝几杯？"
 
 translate schinese_rewrite Lothar_Night_Greet_524f102e:
 
-    e "洛萨尔 我听说你晚上会去酒馆。"
+    e "嘿……洛萨尔。我听说你晚上会来酒馆。"
 
 translate schinese_rewrite Lothar_Night_Greet_09d2a1aa:
 
-    l "你说的对 喝点啤酒是全大陆最棒的。"
+    l "没错。尝尝啤酒吧，这可是整片大陆最好喝的。"
 
 translate schinese_rewrite Lothar_Night_Greet_119f8b57:
 
-    l "嘿,凯恩,拿些啤酒来。"
+    l "嘿，凯恩，给这个小家伙拿点啤酒来。"
 
 translate schinese_rewrite Lothar_Night_Greet_05643719:
 
-    c "洛特,我想这小子以前在我们酒馆工作过。"
+    c "哎，洛特。我记得这小子以前在我们酒馆干过活，依我看，倒该让他来伺候你才对。"
 
 translate schinese_rewrite Lothar_Night_Greet_13e59131:
 
-    l "服务器 我以为你是像我一样的冒险家 真令人失望。" nointeract
+    l "嗯……服务生？我还以为你和我一样是冒险家呢。真令人失望。" nointeract
 
 translate schinese_rewrite Lothar_Night_Greet_be2f8761:
 
-    e "我只是为凯恩工作 因为我身上没有钱 我真的不喜欢这么做。"
+    e "嘿……我只是因为身上没钱，才在凯恩那里干活。我其实一点也不喜欢。"
 
 translate schinese_rewrite Lothar_Night_Greet_a3a7ff58:
 
-    l "我知道的拐杖不是那个强迫别人为钱工作的人 你认真想骗我什么的。"
+    l "我认识的凯恩可不是会强迫别人为了钱干活的人。你是在认真糊弄我，还是怎么回事？"
 
 translate schinese_rewrite Lothar_Night_Greet_c34abcd0:
 
-    c "洛特,你真应该白天来, 这个口渴的小伙子正认真 试图引诱他的顾客什么的。"
+    c "洛特，你真该白天来。这个饥渴的小子好像想把每个客人都勾搭上。"
 
 translate schinese_rewrite Lothar_Night_Greet_b8d32fe9:
 
-    e "不,我没有。"
+    e "不……我没有。"
 
 translate schinese_rewrite Lothar_Night_Greet_633b90d9:
 
-    l "我接受凯恩的话 下次你回来工作时告诉我。"
+    l "算了，我信凯恩的话。下次你来干活记得告诉我，我肯定让你来伺候我。"
 
 translate schinese_rewrite Lothar_Night_Greet_2b68d44f:
 
-    e "听着,我可以去打杂,而且为人服务真的很好玩。"
+    e "我偶尔打个零工不行吗？而且，招待客人真的挺有意思的。"
 
 translate schinese_rewrite Lothar_Night_Greet_3e0eab8a:
 
-    l "我知道了,但你绝对需要 磨练你的服务技巧,因为我看你在这里没有为我服务。"
+    l "我懂了，我懂了。不过你确实得磨练一下服务技巧——我可没见你在这里伺候过我。"
 
 translate schinese_rewrite Lothar_Night_Greet_6ccc494e:
 
-    c "哈,围裙合身的屁股 至少,来到这里 更频繁,我们都需要 yer甜蜜的屁股。"
+    c "哈哈，至少那条围裙很合你的屁股。多来几次吧，我们可都需要你这甜美的屁股。"
 
 translate schinese_rewrite Lothar_Night_Greet_8fcbc8d4:
 
-    l "嘿,凯恩,你忘了啤酒的事吗?"
+    l "嘿，凯恩。你是不是忘了啤酒？"
 
 translate schinese_rewrite Lothar_Night_Greet_471f70f3:
 
-    c "闭嘴,洛特,我在酿最好的东西。"
+    c "知道了，知道了。闭嘴吧，洛特，我正在酿这里最好的酒。"
 
 translate schinese_rewrite Lothar_Night_Greet_9054a985:
 
-    c "在这里,一个给我们的英雄, 一个给我们的低级服务器。"
+    c "来了。一杯给我们的英雄，一杯给卑微的服务生。"
 
 translate schinese_rewrite Lothar_Night_Greet_1a8e1587:
 
-    e "嘿,我为什么低调?"
+    e "嘿……我为什么卑微？"
 
 translate schinese_rewrite Lothar_Night_Greet_a0c0d6ce:
 
-    c "因为你不是英雄。"
+    c "因为你不是英雄呗。"
 
 translate schinese_rewrite Lothar_Night_Greet_faa7d97b:
 
@@ -12229,159 +12229,159 @@ translate schinese_rewrite Lothar_Night_Greet_faa7d97b:
 
 translate schinese_rewrite Lothar_Night_Greet_a725761e:
 
-    c "鲁特,这是啤酒,这是给新来的小伙子[e]的。"
+    c "哎，洛特。这杯是你的，这杯给我们新来的正经小伙子，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_d54c3f1c:
 
-    e "谢谢凯恩,这酒馆真的很舒适。"
+    e "谢谢你，凯恩。这酒馆其实挺舒服的。"
 
 translate schinese_rewrite Lothar_Night_Greet_b958372d:
 
-    c "听着 我需要有人来帮我照顾酒馆 [e] 为我们先生和小姐提供食物和饮料。"
+    c "听着，我需要有人帮我照看酒馆，[e]。给各位先生女士端酒送餐。"
 
 translate schinese_rewrite Lothar_Night_Greet_dfe8d92a:
 
-    e "嗯... 我?"
+    e "嗯……我？"
 
 translate schinese_rewrite Lothar_Night_Greet_ca0a3001:
 
-    c "你看起来像一个合适的候选人 真正的完美尺寸 有兴趣时告诉我。"
+    c "你看起来就是合适的人选，身材也正合适。有兴趣的话告诉我。"
 
 translate schinese_rewrite Lothar_Night_Greet_ffb1ef5c:
 
-    e "对,也许下次?"
+    e "好、好吧，也许下次？"
 
 translate schinese_rewrite Lothar_Night_Greet_7a8ad778:
 
-    l "谢谢你的啤酒,凯恩。"
+    l "总之还是谢谢你的啤酒，凯恩。"
 
 translate schinese_rewrite Lothar_Night_Greet_8395d446:
 
-    c "欢迎你们,我看看,我为其他人服务 你们两个聊天,好吗?"
+    c "不客气。我去招呼其他客人，你们两个慢慢聊，行吗？"
 
 translate schinese_rewrite Lothar_Night_Greet_44fbec2c:
 
-    l "Ya。"
+    l "行。"
 
 translate schinese_rewrite Lothar_Night_Greet_9936233d:
 
-    e "再见,凯恩。"
+    e "回头见，凯恩。"
 
 translate schinese_rewrite Lothar_Night_Greet_48c57f87:
 
-    l "嗯,像啤酒一样吗?"
+    l "嗯……啤酒怎么样？"
 
 translate schinese_rewrite Lothar_Night_Greet_bbd7872e:
 
-    e "尝起来有点苦 而不是我以前喝过。"
+    e "对我来说有点苦，不过我以前确实没喝过。"
 
 translate schinese_rewrite Lothar_Night_Greet_1f837df0:
 
-    l "你会习惯的 你们都习惯了。"
+    l "你会习惯的，大家最后都会习惯。"
 
 translate schinese_rewrite Lothar_Night_Greet_e6e5a130:
 
-    l "说到这个,让我向你介绍我的同志 他们现在回来了,我相信。"
+    l "说起来，我给你介绍一下我的伙伴。他们应该马上就回来了。"
 
 translate schinese_rewrite Lothar_Night_Greet_1abf65ea:
 
-    "当你往后看时,你在酒馆门口看到两个大牛肉男,朝你和洛萨尔走来,洛萨尔激动地朝他们挥手。"
+    "你回头一看，酒馆门口有两个壮汉正朝你和洛萨尔走来。洛萨尔兴奋地向他们挥手。"
 
 translate schinese_rewrite Lothar_Night_Greet_b15b28db:
 
-    "其中一只像红熊,另一只像土狼,他们手握几只肉,扔在桌上。"
+    "其中一个像头红熊，另一个像只鬣狗。他们手里各拿着几块肉，走过来把肉扔到桌上。"
 
 translate schinese_rewrite Lothar_Night_Greet_bdc6a726:
 
-    comrade "洛特,谁是新来的。"
+    comrade "洛特，这位新来的小子是谁？"
 
 translate schinese_rewrite Lothar_Night_Greet_09172bb3:
 
-    "他们俩站在洛萨尔后面 盯着你,怀疑你。"
+    "两人站到洛萨尔身后，带着怀疑打量你。"
 
 translate schinese_rewrite Lothar_Night_Greet_f5398a5c:
 
-    l "他是[e] 这是乔格 这是安布。"
+    l "他叫[e]。这是乔格，那是安布。"
 
 translate schinese_rewrite Lothar_Night_Greet_67e9e342:
 
-    jog "哦,罗特,你带了新会员什么的 很高兴认识你,[e]。"
+    jog "哦，洛特，你这是带了个新人回来？不过，认识你很高兴，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_626bc394:
 
-    e "很高兴见到你,乔格 也很高兴见到你,安布。"
+    e "很高兴认识你，乔格。也很高兴认识你，安布。"
 
 translate schinese_rewrite Lothar_Night_Greet_ebe2b749:
 
-    amble "他是否证明自己有能力加入我们?"
+    amble "嗯……他已经证明自己有足够的能力加入我们了吗？"
 
 translate schinese_rewrite Lothar_Night_Greet_9bc5a1c2:
 
-    l "不,他不会加入我们的,他还有很长的路要走才能证明自己。"
+    l "没有，他还不能加入我们。他要证明自己，还早得很。"
 
 translate schinese_rewrite Lothar_Night_Greet_eceb32db:
 
-    l "说到证据 你拿到信使徽章了吗?" nointeract
+    l "说到证明……你拿到信使徽章了吗？" nointeract
 
 translate schinese_rewrite Lothar_Night_Greet_5433d9ff:
 
-    e "嗯..."
+    e "嗯……有。"
 
 translate schinese_rewrite Lothar_Night_Greet_534287c1:
 
-    l "我看见你胸口上有这个,你的脸在胸口,对吧?"
+    l "啊……我看到你胸前的徽章了。上面是你的脸，对吧？奥利还真有两下子。"
 
 translate schinese_rewrite Lothar_Night_Greet_bd70add0:
 
-    amble "我会让他可爱的小脸 在我的胸口,就像现在。"
+    amble "我真想现在就把他可爱的小脸按进我的胸口。"
 
 translate schinese_rewrite Lothar_Night_Greet_39e746d6:
 
-    l "嘿,他是我的,去别的地方找人来。"
+    l "喂，他是我的。去别处找你的徒弟。"
 
 translate schinese_rewrite Lothar_Night_Greet_9b507588:
 
-    jog "不过你不会撒谎的,你在哪里找到这个小家伙的?"
+    jog "说真的，你是从哪儿找到这个小家伙的？"
 
 translate schinese_rewrite Lothar_Night_Greet_4669f86f:
 
-    l "他来自蜥蜴,告诉我他是 另外一个外人什么的。"
+    l "他是那只蜥蜴带回来的，说他好像也是个外来者之类的。"
 
 translate schinese_rewrite Lothar_Night_Greet_582fb40c:
 
-    l "等等 你的徽章呢 [e]?"
+    l "等等……你的徽章呢，[e]？"
 
 translate schinese_rewrite Lothar_Night_Greet_b0d87b44:
 
-    e "我忘了。"
+    e "呃……我忘了带。"
 
 translate schinese_rewrite Lothar_Night_Greet_27276135:
 
-    l "你真的又在骗我?"
+    l "你又在骗我？你这个笨蛋……"
 
 translate schinese_rewrite Lothar_Night_Greet_27c51ad9:
 
-    e "洛萨尔的事我很抱歉 我想我还没完成奥勒的探险。"
+    e "嗯……对不起，洛萨尔。我想我还没完成奥利的任务。"
 
 translate schinese_rewrite Lothar_Night_Greet_5c3f7a84:
 
-    jog "他只是个孩子 洛特 我肯定他不是故意的。"
+    jog "嘿，他只是个孩子，洛特。我相信他不是故意的。"
 
 translate schinese_rewrite Lothar_Night_Greet_bfa51bcd:
 
-    l "不管怎么样,我和这个... 孩子谈过后 需要多点啤酒。"
+    l "算了，和这个……孩子说完话，我得再喝几杯啤酒。"
 
 translate schinese_rewrite Lothar_Night_Greet_92f1e906:
 
-    e "我现在得做其他事了 我得离开洛萨尔 还有你们。"
+    e "哼……我还有别的事要办……我先走了，洛萨尔，还有各位。"
 
 translate schinese_rewrite Lothar_Night_Greet_a9ebacb2:
 
-    l "好,如果你再多待一分钟 我会确保你尝到 坚果真正的踢脚的滋味。"
+    l "很好，要是你再待一分钟，我就让你尝尝蛋上挨一脚是什么滋味。"
 
 translate schinese_rewrite Lothar_Night_Greet_f2aaaa0b:
 
-    amble "他的意思是晚点见 晚安 [e]。"
+    amble "他的意思是回头见。晚安，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_774462ee:
 
@@ -12389,67 +12389,67 @@ translate schinese_rewrite Lothar_Night_Greet_774462ee:
 
 translate schinese_rewrite Lothar_Night_Greet_3b6410c2:
 
-    "看着洛萨尔的烦恼脸 你决定让三个人安静地喝啤酒 对你的安全更好。"
+    "看着洛萨尔恼怒的脸，你觉得为了安全起见，还是让他们三个安静地喝酒比较好。"
 
 translate schinese_rewrite Lothar_Night_Greet_259b479f:
 
-    l "它在你的包里,它有你的脸,不是吗?"
+    l "啊……现在在你的包里。上面是你的脸，对吧？奥利还真有两下子。"
 
 translate schinese_rewrite Lothar_Night_Greet_6345a08f:
 
-    jog "我会把他可爱的小脸 放在我的包里 就像现在一样。"
+    jog "我真想现在就把他可爱的小脸装进我的包里。"
 
 translate schinese_rewrite Lothar_Night_Greet_39e746d6_1:
 
-    l "嘿,他是我的,去别的地方找人来。"
+    l "喂，他是我的。去别处找你的徒弟。"
 
 translate schinese_rewrite Lothar_Night_Greet_4dc42b5f:
 
-    amble "不过你不会撒谎的,你在哪里找到这个小家伙的?"
+    amble "说真的，你是从哪儿找到这个小家伙的？"
 
 translate schinese_rewrite Lothar_Night_Greet_4669f86f_1:
 
-    l "他来自蜥蜴,告诉我他是 另外一个外人什么的。"
+    l "他是那只蜥蜴带回来的，说他好像也是个外来者之类的。"
 
 translate schinese_rewrite Lothar_Night_Greet_582fb40c_1:
 
-    l "等等 你的徽章呢 [e]?"
+    l "等等……你的徽章呢，[e]？"
 
 translate schinese_rewrite Lothar_Night_Greet_b0d87b44_1:
 
-    e "我忘了。"
+    e "呃……我忘了带。"
 
 translate schinese_rewrite Lothar_Night_Greet_27276135_1:
 
-    l "你真的又在骗我?"
+    l "你又在骗我？你这个笨蛋……"
 
 translate schinese_rewrite Lothar_Night_Greet_27c51ad9_1:
 
-    e "洛萨尔的事我很抱歉 我想我还没完成奥勒的探险。"
+    e "嗯……对不起，洛萨尔。我想我还没完成奥利的任务。"
 
 translate schinese_rewrite Lothar_Night_Greet_5c3f7a84_1:
 
-    jog "他只是个孩子 洛特 我肯定他不是故意的。"
+    jog "嘿，他只是个孩子，洛特。我相信他不是故意的。"
 
 translate schinese_rewrite Lothar_Night_Greet_bfa51bcd_1:
 
-    l "不管怎么样,我和这个... 孩子谈过后 需要多点啤酒。"
+    l "算了，和这个……孩子说完话，我得再喝几杯啤酒。"
 
 translate schinese_rewrite Lothar_Night_Greet_3b6410c2_1:
 
-    "看着洛萨尔的烦恼脸 你决定让三个人安静地喝啤酒 对你的安全更好。"
+    "看着洛萨尔恼怒的脸，你觉得为了安全起见，还是让他们三个安静地喝酒比较好。"
 
 translate schinese_rewrite Lothar_Night_Greet_5bf2638b:
 
-    e "你知道吗,我现在得做点其他事..."
+    e "你知道吗，我现在得去办点别的事……我先走了。"
 
 translate schinese_rewrite Lothar_Night_Greet_a9ebacb2_1:
 
-    l "好,如果你再多待一分钟 我会确保你尝到 坚果真正的踢脚的滋味。"
+    l "很好，要是你再待一分钟，我就让你尝尝蛋上挨一脚是什么滋味。"
 
 translate schinese_rewrite Lothar_Night_Greet_f2aaaa0b_1:
 
-    amble "他的意思是晚点见 晚安 [e]。"
+    amble "他的意思是回头见。晚安，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_774462ee_1:
 
@@ -12457,51 +12457,51 @@ translate schinese_rewrite Lothar_Night_Greet_774462ee_1:
 
 translate schinese_rewrite Lothar_Night_Greet_e3d14324:
 
-    amble "我以为他是山羊来的,看看他的号角。"
+    amble "外来者？我还以为他来自山羊部落呢，看看他的角。"
 
 translate schinese_rewrite Lothar_Night_Greet_183f52d8:
 
-    l "蜥蜴要我照顾这家伙,教他一些东西。"
+    l "反正就是这么回事。那只蜥蜴让我照顾这家伙，教他点东西。"
 
 translate schinese_rewrite Lothar_Night_Greet_04071065:
 
-    e "嗯... 我可以说几句话吗?"
+    e "嗯……我能说句话——"
 
 translate schinese_rewrite Lothar_Night_Greet_e6d99e85:
 
-    l "不,让我跟你说完,我会让你走,嗯?"
+    l "不。让我把话说完，然后我就放你走，嗯？"
 
 translate schinese_rewrite Lothar_Night_Greet_835b5c68:
 
-    e "好吧,洛萨尔。"
+    e "好吧，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_4bd2de9c:
 
-    l "我跟你说,多来点,我们跟你谈谈非正式训练。"
+    l "我跟你说，多来这里几次。我们可以和你聊聊非正式训练，想办法让你变强，好对付你的敌人什么的。"
 
 translate schinese_rewrite Lothar_Night_Greet_5a0c001f:
 
-    l "看着你输给一个小黏液可不容易。"
+    l "看着你输给一只小史莱姆，可真让人难受。"
 
 translate schinese_rewrite Lothar_Night_Greet_24636614:
 
-    e "你怎么...。.. 知道的?"
+    e "我说，你怎么……知道的？"
 
 translate schinese_rewrite Lothar_Night_Greet_32f7f518:
 
-    l "看看下面那些粘液的污点 今晚得把它洗干净,[e]。"
+    l "我的意思是，看看你下面沾的那些史莱姆痕迹。今晚得把它们彻底洗干净，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_254b2010:
 
-    e "洛萨尔,我们能不能不要当着大家的面谈论这个..."
+    e "洛萨尔，能不能别当着所有人的面说这个……"
 
 translate schinese_rewrite Lothar_Night_Greet_c9514aae:
 
-    e "我不确定我想再和假人打一场 洛萨尔。"
+    e "我不确定自己还想不想再和那个训练假人打，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_cd59b4af:
 
-    l "我会让他比你强,如果你够强,你可以试着和我决斗。"
+    l "咳，我会把它调到适合你等级的强度，行了吧？而且，如果你足够强，还可以试着和我决斗。"
 
 translate schinese_rewrite Lothar_Night_Greet_987e3d37:
 
@@ -12509,161 +12509,161 @@ translate schinese_rewrite Lothar_Night_Greet_987e3d37:
 
 translate schinese_rewrite Lothar_Night_Greet_e1a40d4e:
 
-    jog "听着,[e],洛特给你准备了一些宝贵的时间,你最好在变强时还给他。"
+    jog "听着，[e]。洛特可是专门抽时间训练你。等你真的变强了，最好好好报答他。"
 
 translate schinese_rewrite Lothar_Night_Greet_0da43084:
 
-    amble "最好在被别处的怪物吃掉之前 加快比赛。"
+    amble "对，你现在看起来甚至不像个信使。赶紧提升实力，免得哪天在外面被怪物吃了。"
 
 translate schinese_rewrite Lothar_Night_Greet_bad30a84:
 
-    e "我想,谢谢洛萨尔。"
+    e "我想是吧……谢谢你，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_98a4eced:
 
-    l "很好,为什么不让我和我的人 平静下来,我们等会再聊,[e]。"
+    l "很好。现在，别打扰我和我的伙计们喝酒。回头再聊，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_3cdf02a7:
 
-    e "好吧,再见。"
+    e "好，回头见。"
 
 translate schinese_rewrite Lothar_Night_Greet_52c36b9b:
 
-    e "不,我还没有完成它。"
+    e "不……我还没完成。"
 
 translate schinese_rewrite Lothar_Night_Greet_14fa7471:
 
-    l "[e],那真是低调的谎言 你现在胸口有警徽,你在骗谁?"
+    l "[e]，这谎撒得也太低级了。你的徽章现在就挂在胸前。你到底在骗谁？"
 
 translate schinese_rewrite Lothar_Night_Greet_ef32a34c:
 
     e "呃……抱歉，我忘了。"
 translate schinese_rewrite Lothar_Night_Greet_c197a0f7:
 
-    l "根本说不通啊 [e] 你现在只是耍我,是不是?"
+    l "这根本说不通，[e]。你现在是在拿我开玩笑，对吧？很有趣吗？拿这位英雄开涮，你心情好多了？"
 
 translate schinese_rewrite Lothar_Night_Greet_d81dcd14:
 
-    l "幸运的是,你让蜥蜴看着你..."
+    l "随你便吧。你有那只蜥蜴替你撑腰，算你走运……看，他还把你的脸做到了徽章上。"
 
 translate schinese_rewrite Lothar_Night_Greet_3a197778:
 
-    jog "我会让他可爱的小脸 在我的胸口,就像现在。"
+    jog "我真想现在就把他的可爱小脸按进我的胸口。"
 
 translate schinese_rewrite Lothar_Night_Greet_b27fe828:
 
-    l "嘿,他是我的,你这个笨蛋 去别的地方拿你的智囊团。"
+    l "喂，他是我的，你这个蠢货。去别处找你的徒弟。"
 
 translate schinese_rewrite Lothar_Night_Greet_4dc42b5f_1:
 
-    amble "不过你不会撒谎的,你在哪里找到这个小家伙的?"
+    amble "说真的，你是从哪儿找到这个小家伙的？"
 
 translate schinese_rewrite Lothar_Night_Greet_12db68b7:
 
-    l "他来自蜥蜴,告诉我他是 另外一个外人什么的。"
+    l "他是那只蜥蜴带来的，说他好像也是个外来者之类的。"
 
 translate schinese_rewrite Lothar_Night_Greet_476f07d4:
 
-    l "[e],我看到你的留言包里有信使徽章 你在对谁撒谎?"
+    l "[e]，我现在就能看见你的信使徽章在你的信使包里。你到底在骗谁？"
 
 translate schinese_rewrite Lothar_Night_Greet_ef32a34c_1:
 
     e "呃……抱歉，我忘了。"
 translate schinese_rewrite Lothar_Night_Greet_43590ed7:
 
-    l "这完全说不通,[e],你只是在耍我,是不是?"
+    l "这根本说不通，[e]。你现在是在拿我开玩笑，对吧？很有趣吗？拿这位英雄开涮，你心情好多了？"
 
 translate schinese_rewrite Lothar_Night_Greet_d81dcd14_1:
 
-    l "幸运的是,你让蜥蜴看着你..."
+    l "随你便吧。你有那只蜥蜴替你撑腰，算你走运……看，他还把你的脸做到了徽章上。"
 
 translate schinese_rewrite Lothar_Night_Greet_6345a08f_1:
 
-    jog "我会把他可爱的小脸 放在我的包里 就像现在一样。"
+    jog "我真想现在就把他的可爱小脸装进我的包里。"
 
 translate schinese_rewrite Lothar_Night_Greet_b27fe828_1:
 
-    l "嘿,他是我的,你这个笨蛋 去别的地方拿你的智囊团。"
+    l "喂，他是我的，你这个蠢货。去别处找你的徒弟。"
 
 translate schinese_rewrite Lothar_Night_Greet_4dc42b5f_2:
 
-    amble "不过你不会撒谎的,你在哪里找到这个小家伙的?"
+    amble "说真的，你是从哪儿找到这个小家伙的？"
 
 translate schinese_rewrite Lothar_Night_Greet_12db68b7_1:
 
-    l "他来自蜥蜴,告诉我他是 另外一个外人什么的。"
+    l "他是那只蜥蜴带来的，说他好像也是个外来者之类的。"
 
 translate schinese_rewrite Lothar_Night_Greet_3c6a12e9:
 
-    l "你还没完成我的训练 当然你没有警徽。"
+    l "当然了，你还没完成我给你的训练，当然拿不到徽章。"
 
 translate schinese_rewrite Lothar_Night_Greet_1aa7ddf8:
 
-    l "其他人还没吃完吗?"
+    l "嗯……你还没完成其他人的训练？"
 
 translate schinese_rewrite Lothar_Night_Greet_0d1c16af:
 
-    e "你训练后我出去探险,洛萨尔。"
+    e "做完你的训练后，我一直在外面冒险，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_e6d2a4a5:
 
-    l "那就继续训练吧 别想着偷懒了。"
+    l "嗯……那就继续训练！别想偷懒。"
 
 translate schinese_rewrite Lothar_Night_Greet_dc76c27d:
 
-    jog "洛特,你在哪里找到这个小家伙的?"
+    jog "所以……洛特，你到底是从哪儿找到这个小家伙的？"
 
 translate schinese_rewrite Lothar_Night_Greet_12db68b7_2:
 
-    l "他来自蜥蜴,告诉我他是 另外一个外人什么的。"
+    l "他是那只蜥蜴带来的，说他好像也是个外来者之类的。"
 
 translate schinese_rewrite Lothar_Night_Greet_e3d14324_1:
 
-    amble "我以为他是山羊来的,看看他的号角。"
+    amble "外来者？我还以为他来自山羊部落呢，看看他的角。"
 
 translate schinese_rewrite Lothar_Night_Greet_183f52d8_1:
 
-    l "蜥蜴要我照顾这家伙,教他一些东西。"
+    l "反正就是这么回事。那只蜥蜴让我照顾这家伙，教他点东西。"
 
 translate schinese_rewrite Lothar_Night_Greet_04071065_1:
 
-    e "嗯... 我可以说几句话吗?"
+    e "嗯……我能说句话——"
 
 translate schinese_rewrite Lothar_Night_Greet_e6d99e85_1:
 
-    l "不,让我跟你说完,我会让你走,嗯?"
+    l "不。让我把话说完，然后我就放你走，嗯？"
 
 translate schinese_rewrite Lothar_Night_Greet_835b5c68_1:
 
-    e "好吧,洛萨尔。"
+    e "好吧，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_4bd2de9c_1:
 
-    l "我跟你说,多来点,我们跟你谈谈非正式训练。"
+    l "我跟你说，多来这里几次。我们可以和你聊聊非正式训练，想办法让你变强，好对付你的敌人什么的。"
 
 translate schinese_rewrite Lothar_Night_Greet_5a0c001f_1:
 
-    l "看着你输给一个小黏液可不容易。"
+    l "看着你输给一只小史莱姆，可真让人难受。"
 
 translate schinese_rewrite Lothar_Night_Greet_24636614_1:
 
-    e "你怎么...。.. 知道的?"
+    e "我说，你怎么……知道的？"
 
 translate schinese_rewrite Lothar_Night_Greet_32f7f518_1:
 
-    l "看看下面那些粘液的污点 今晚得把它洗干净,[e]。"
+    l "我的意思是，看看你下面沾的那些史莱姆痕迹。今晚得把它们彻底洗干净，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_254b2010_1:
 
-    e "洛萨尔,我们能不能不要当着大家的面谈论这个..."
+    e "洛萨尔，能不能别当着所有人的面说这个……"
 
 translate schinese_rewrite Lothar_Night_Greet_c9514aae_1:
 
-    e "我不确定我想再和假人打一场 洛萨尔。"
+    e "我不确定自己还想不想再和那个训练假人打，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_cd59b4af_1:
 
-    l "我会让他比你强,如果你够强,你可以试着和我决斗。"
+    l "咳，我会把它调到适合你等级的强度，行了吧？而且，如果你足够强，还可以试着和我决斗。"
 
 translate schinese_rewrite Lothar_Night_Greet_987e3d37_1:
 
@@ -12671,107 +12671,107 @@ translate schinese_rewrite Lothar_Night_Greet_987e3d37_1:
 
 translate schinese_rewrite Lothar_Night_Greet_8fafdc8b:
 
-    jog "听着,[e],洛特给你准备了宝贵的时间,你应该还给他,等你变强了。"
+    jog "听着，[e]。洛特可是专门抽时间照顾你。等你变强后，最好好好报答他。"
 
 translate schinese_rewrite Lothar_Night_Greet_0da43084_1:
 
-    amble "最好在被别处的怪物吃掉之前 加快比赛。"
+    amble "对，你现在看起来甚至不像个信使。赶紧提升实力，免得哪天在外面被怪物吃了。"
 
 translate schinese_rewrite Lothar_Night_Greet_bad30a84_1:
 
-    e "我想,谢谢洛萨尔。"
+    e "我想是吧……谢谢你，洛萨尔。"
 
 translate schinese_rewrite Lothar_Night_Greet_98a4eced_1:
 
-    l "很好,为什么不让我和我的人 平静下来,我们等会再聊,[e]。"
+    l "很好。现在，别打扰我和我的伙计们喝酒。回头再聊，[e]。"
 
 translate schinese_rewrite Lothar_Night_Greet_3cdf02a7_1:
 
-    e "好吧,再见。"
+    e "好，回头见。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_1df400dd:
 
-    e "洛萨尔,你觉得山羊部落怎么样?"
+    e "洛萨尔，你怎么看山羊部落？"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_5a7043e2:
 
-    l "山羊部落?"
+    l "山羊部落？他们是不是准备再来一轮，好让我再把他们揍得屁滚尿流？"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_a41a6e16:
 
-    l "也许我会成为乐斯民菲尔德英雄的英雄。"
+    l "对，说不定我还能成为乐斯民菲尔德英雄中的英雄。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_bd23aa8c:
 
-    e "什么是英雄的英雄吗?"
+    e "呃……什么叫“英雄中的英雄”？"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_cd830105:
 
-    l "这是..."
+    l "就是……那个，反正有“英雄”这个词。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_f5e1f6cb:
 
-    e "哦,我以为你知道发生了什么..."
+    e "好、好吧。我还以为你知道发生了什么……"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_1c3c4f33:
 
-    l "我 -什么?发生了什么事?"
+    l "我——什么？发生了什么？"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_8418f081:
 
-    e "弗坎让我给雷希姆寄一封信... 与乐斯民菲尔德和平相处。"
+    e "弗坎让我把一封信送给雷希姆……想和乐斯民菲尔德议和。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_1c61d788:
 
-    l "为什么没人告诉我... 这件事。"
+    l "……怎么没人告诉我这件事……"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_ae71a7ca:
 
-    l "我马上去杀了那头山羊 头当奖杯 因为我们乐斯民菲尔德人应得的。"
+    l "我本来可以立刻去杀了那个山羊崽子，把他的脑袋当战利品——我们乐斯民菲尔德人就该得到这个。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_eee0b01b:
 
-    e "...现在我知道他们为什么没告诉你了。"
+    e "……我现在知道他们为什么没告诉你了。"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_d5aaf7ba:
 
-    l "你在暗示什么,门徒。"
+    l "你这话是什么意思，徒弟？"
 
 translate schinese_rewrite Lothar_Ask_Goat_Tribe_6eb58054:
 
-    e "呃... 没什么。"
+    e "呃……没什么。"
 
 translate schinese_rewrite Lothar_After_River_Trip_1d7fb0d4:
 
-    e "洛萨尔 旅行后你感觉如何？"
+    e "洛萨尔？这一趟回来感觉怎么样？"
 
 translate schinese_rewrite Lothar_After_River_Trip_2cab530a:
 
-    l "我的蛋蛋还疼。"
+    l "我的蛋蛋还在疼。"
 
 translate schinese_rewrite Lothar_After_River_Trip_260b94a7:
 
-    e "真的吗 我不知道塞布打你那么重。"
+    e "真的吗？我不知道塞巴斯下手这么重。"
 
 translate schinese_rewrite Lothar_After_River_Trip_fd9cfa84:
 
-    l "是啊,我没想到你会站在狮子一边。"
+    l "是啊，我也没想到你会站在那头狮子一边。"
 
 translate schinese_rewrite Lothar_After_River_Trip_895c452e:
 
-    e "嘿,我以为你先踢他。"
+    e "嘿，我只是以为是你先踢他的。"
 
 translate schinese_rewrite Lothar_After_River_Trip_eb8f847b:
 
-    l "因为他一直在谈论我的..."
+    l "那是有理由的，因为他一直在说我的——"
 
 translate schinese_rewrite Lothar_After_River_Trip_53288926:
 
-    l "不管是什么。"
+    l "算了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_b3be1be0:
 
-    e "... 你在说什么?"
+    e "……你们在说什么？"
 
 translate schinese_rewrite Lothar_After_River_Trip_f434fd21:
 
@@ -12779,143 +12779,143 @@ translate schinese_rewrite Lothar_After_River_Trip_f434fd21:
 
 translate schinese_rewrite Lothar_After_River_Trip_8de2fc12:
 
-    l "如果你下次再背叛我 我就踢你的蛋蛋。"
+    l "下次你再背叛我，我就踢你的蛋。"
 
 translate schinese_rewrite Lothar_After_River_Trip_225ce0f4:
 
-    l "你看到那头狮子的脸了吗?"
+    l "你没看到那头狮子那张他妈的臭脸吗？"
 
 translate schinese_rewrite Lothar_After_River_Trip_855dcc47:
 
-    l "我本来想揍他的蛋蛋的。"
+    l "我当时真想一拳打爆他的蛋。"
 
 translate schinese_rewrite Lothar_After_River_Trip_21364cf7:
 
-    e "嘿,洛萨尔,你们两个应该弥补 发生的一切。"
+    e "嘿，洛萨尔，不管发生了什么，你们俩和好不就行了吗？"
 
 translate schinese_rewrite Lothar_After_River_Trip_f37a4283:
 
-    e "我只是不想来看你们吵架 谁的鸡巴更大。"
+    e "我只是不想看你们俩争论谁的鸡巴更大。"
 
 translate schinese_rewrite Lothar_After_River_Trip_0d68c122:
 
-    l "你知道吗,我的显然比他的大。"
+    l "你知道吗？我的显然比他的更大。"
 
 translate schinese_rewrite Lothar_After_River_Trip_584c5f8a:
 
-    e "嘿,这不是故意 被字面上认为。"
+    e "嘿，我不是在说字面意思。"
 
 translate schinese_rewrite Lothar_After_River_Trip_b951db7f:
 
-    l "下次见他时我会给他看我的鸡巴。"
+    l "下次见到他，我就把我的鸡巴给他看。"
 
 translate schinese_rewrite Lothar_After_River_Trip_b75fa622:
 
-    e "你是认真的吗?"
+    e "你是认真的吗……"
 
 translate schinese_rewrite Lothar_After_River_Trip_44f94669:
 
-    l "你可以做法官,也可以做蜥蜴,我觉得他更公平。"
+    l "你或者那只蜥蜴都可以当裁判。我觉得他会更公平。"
 
 translate schinese_rewrite Lothar_After_River_Trip_6b70fcfd:
 
-    e "Uhmm..."
+    e "呃……"
 
 translate schinese_rewrite Lothar_After_River_Trip_63bb27be:
 
-    e "总之,你对歌舞歌舞有什么感觉?"
+    e "总之……你觉得那具石魔像怎么样？"
 
 translate schinese_rewrite Lothar_After_River_Trip_b3090677:
 
-    l "Golem?"
+    l "石魔像？"
 
 translate schinese_rewrite Lothar_After_River_Trip_3b736bda:
 
-    l "哦... 那个有苔胱的。"
+    l "哦……就是那具长满苔藓的。"
 
 translate schinese_rewrite Lothar_After_River_Trip_43cc53a9:
 
-    l "哈,我把你从那个谷歌里救了出来 我一直对你的看法是对的。"
+    l "哈，我可是从那具石魔像手里救了你。我早就看穿你了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_e8fa4cac:
 
-    e "你刚好是杀死他的人..."
+    e "你只是碰巧是杀死它的人……"
 
 translate schinese_rewrite Lothar_After_River_Trip_2deab1dd:
 
-    l "不 你需要我 [e] 你需要我保护你。"
+    l "不……你需要我，[e]。你需要我保护你。"
 
 translate schinese_rewrite Lothar_After_River_Trip_266b12c7:
 
-    e "嗯,我猜... 谢谢你救了我?"
+    e "呃……我想是吧。谢谢你救了我？"
 
 translate schinese_rewrite Lothar_After_River_Trip_97765c58:
 
-    l "精神就是这样 经常来这里保护你。"
+    l "这就对了。这样吧……多来这里几次，我好保护你。"
 
 translate schinese_rewrite Lothar_After_River_Trip_fa74ea2c:
 
-    l "跟我和你们认识的班子 一起喝几瓶啤酒。"
+    l "和我还有兄弟们喝几杯啤酒，你懂的。"
 
 translate schinese_rewrite Lothar_After_River_Trip_55187e6f:
 
-    e "我会的,我只是不想喝醉..."
+    e "我会的，只是不想喝得太醉……"
 
 translate schinese_rewrite Lothar_After_River_Trip_a4be11c3:
 
-    l "哈,就像我说的 我会保护你,你这笨蛋。"
+    l "哈。就像我说的，我会保护你，你这个笨蛋。"
 
 translate schinese_rewrite Lothar_After_River_Trip_fdac3ef9:
 
-    e "O-ok。"
+    e "好、好的。"
 
 translate schinese_rewrite Lothar_After_River_Trip_a6c14109:
 
-    l "如果你不喝醉,我怎么照顾你?"
+    l "你不喝醉，我还怎么照顾你？"
 
 translate schinese_rewrite Lothar_After_River_Trip_11ac8414:
 
-    "洛萨尔举起他的柔软手 拍拍你的头好几次 当你在他的爪子下摇动时他笑。"
+    "洛萨尔抬起柔软的手，轻轻拍了拍你的头。他看着你在他的爪子下扭来扭去，笑了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_5fc7e084:
 
-    l "你是一个非常可爱的笨蛋。"
+    l "你真是个可爱的笨蛋。"
 
 translate schinese_rewrite Lothar_After_River_Trip_07e5e00e:
 
-    e "... 谢谢?"
+    e "……谢谢？"
 
 translate schinese_rewrite Lothar_After_River_Trip_5d4958ce:
 
-    l "那块石头让我得到一些真正的金子 好像我没开玩笑。"
+    l "那块石头可让我赚了一大笔真金白银。我不是开玩笑。"
 
 translate schinese_rewrite Lothar_After_River_Trip_ccd60e42:
 
-    l "我为安布准备了一些昂贵的啤酒 如果我非说不可 他太爱啤酒了。"
+    l "我还给安布买了些昂贵的麦酒——要我说，他实在太爱喝啤酒了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_43c6451e:
 
-    e "呃,你花了很多啤酒吗?"
+    e "呃，你在啤酒上花了很多钱吗？"
 
 translate schinese_rewrite Lothar_After_River_Trip_8db4fc7a:
 
-    l "对,你认为钱去哪里?"
+    l "不然你以为钱去哪儿了？全进酒馆了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_141e61a1:
 
-    e "这就是为什么凯恩那么爱你。"
+    e "难怪凯恩这么喜欢你。"
 
 translate schinese_rewrite Lothar_After_River_Trip_4bd9d55d:
 
-    l "什么 狼救回村子之后就不能喝酒开心吗？"
+    l "怎么？这头狼又一次救了村子，难道不能痛痛快快喝一顿？"
 
 translate schinese_rewrite Lothar_After_River_Trip_e6a93676:
 
-    e "不 我只是在想 也许你应该给自己省点钱。"
+    e "不是……我只是觉得你也该给自己留点钱。"
 
 translate schinese_rewrite Lothar_After_River_Trip_801ec991:
 
-    l "我不会浪费时间 节省一些甚至没有呼吸的东西。"
+    l "钱是死的，人是活的。我才不会浪费时间去拯救连呼吸都没有的东西。"
 
 translate schinese_rewrite Lothar_After_River_Trip_72a33094:
 
@@ -12923,75 +12923,75 @@ translate schinese_rewrite Lothar_After_River_Trip_72a33094:
 
 translate schinese_rewrite Lothar_After_River_Trip_42544a7d:
 
-    e "你有道理。"
+    e "你说得也有道理。"
 
 translate schinese_rewrite Lothar_After_River_Trip_337c7b51:
 
-    l "我得想办法救你 但你似乎能控制自己... 太多。"
+    l "我总得想办法救你，可你似乎太能照顾好自己了……太过头了。"
 
 translate schinese_rewrite Lothar_After_River_Trip_5c7f17e6:
 
-    e "为什么我... 太多?"
+    e "为什么说我……太过头？"
 
 translate schinese_rewrite Lothar_After_River_Trip_5f6a6024:
 
-    l "你不该坚强 不然我怎么保护你。"
+    l "你本来不该这么强。不然我还怎么保护你……"
 
 translate schinese_rewrite Lothar_After_River_Trip_186fd7c6:
 
-    l "不论怎样,当你需要我的时候 时间会到来。"
+    l "算了，你总有需要我的时候。"
 
 translate schinese_rewrite Lothar_After_River_Trip_d015f1d1:
 
-    e "好..."
+    e "好吧……洛萨尔。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_05ce4aa0:
 
-    e "洛萨尔,你手上拿着什么?"
+    e "洛萨尔，你手里拿着什么……？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_2d7418a6:
 
-    l "这是我昨晚在森林的神秘丛林里 神秘的神秘冒险中 留下的一件艺术品。"
+    l "这是我昨晚在森林深处那片神秘丛林里，进行伟大而神秘的冒险时找到的遗物。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_56014ff0:
 
-    e "你在绿林里找到的?"
+    e "呃……你是在绿林里找到的？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_dff31861:
 
-    l "你靠近了,就在河边。"
+    l "差不多，就在河边。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_bc3ff68d:
 
-    e "你打算拿它怎么办?"
+    e "你打算拿它怎么办？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_1f853ec9:
 
-    l "当然,我今晚会带它去当铺 买几杯啤酒的好价钱。"
+    l "当然是今晚带去当铺，换几杯啤酒的钱。不过我不打算自己进去——这正好给你机会，帮帮一位英雄。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_9b07c2ab:
 
-    e "你想让我卖掉石头..."
+    e "你、你想让我替你把这块石头卖掉……？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_fee3cbef:
 
-    l "进去问问那头蠢狮子买下来什么的..."
+    l "那当然。你进去，问问那头蠢狮子愿不愿意买下来之类的……"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_5437776c:
 
-    e "卢瑟,我想你应该跟我走。"
+    e "……洛萨尔，我觉得你还是跟我一起去吧。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_7fdad9eb:
 
-    l "为什么我,英雄,听低等徒弟的话?"
+    l "什么？？？我堂堂一个英雄，凭什么要听一个低等徒弟的？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_ee5dba89:
 
-    e "我不是为了你,洛萨尔,你要么自己去,要么跟我一起去。"
+    e "我不是为了帮你，洛萨尔。你要么自己去，要么跟我一起去。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_32cc3733:
 
-    l "我甚至都不用把这个卖给当铺了 [e] 这次你真让我失望了。"
+    l "我才不需要……把这东西卖给当铺。[e]，你这次真让我失望。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_72a33094:
 
@@ -13003,23 +13003,23 @@ translate schinese_rewrite Lothar_Mossy_Artifact_82822a0c:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_3170c7aa:
 
-    "洛萨尔看一眼,但你已经看透了他无稽之谈。他看了你一眼,然后转过身去,然后转过身去。"
+    "洛萨尔把目光移开了片刻，可你已经看穿他这场毫无意义的赌气。他偷瞄了你几眼，最后又转回身来。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_2e551c38:
 
-    l "你... 带头。"
+    l "你……带路。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_89ca8f3c:
 
-    e "好洛萨尔。"
+    e "好、好的，洛萨尔。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_4233141d:
 
-    l "...在我改变主意打你之前走..."
+    l "……趁我还没改变主意揍你，赶紧走……"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_3d6c50f8:
 
-    "你带洛萨尔去当铺,现在没有顾客了。"
+    "你带着洛萨尔来到当铺，店里暂时没有客人。你看见这头狼先从门缝里小心翼翼地往里窥探，进门后还躲在你身后，尾巴不停地摇。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_82822a0c_1:
 
@@ -13027,11 +13027,11 @@ translate schinese_rewrite Lothar_Mossy_Artifact_82822a0c_1:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_a2bbbbc1:
 
-    s "Go -od..."
+    s "真——好……操——"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_53727b6f:
 
-    "塞巴斯意识到你短框背后的狼 他明显生气 几乎对你们俩都生气。"
+    "塞巴斯注意到了你矮小身形后面的那头狼。他明显很恼火，几乎对你们两个都动了怒。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_4f284e49:
 
@@ -13043,107 +13043,107 @@ translate schinese_rewrite Lothar_Mossy_Artifact_d90b99f6:
 
 translate schinese_rewrite Lothar_Mossy_Artifact_e9a900a1:
 
-    s "你错过了店外的牌子\"不准狗\"吗?"
+    s "怎么，你没看见店外写着“禁止狗入内”吗？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_8e6121c9:
 
-    l "你这个小朋友一直拉我进来 我对去你那破店没兴趣。"
+    l "是你这个小家伙一直把我往里拽的。我对你这破店可没什么兴趣。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_c06c02be:
 
-    s "去你妈的,洛萨尔。"
+    s "去你的，洛萨尔。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_c95b6c6c:
 
-    l "回到你身边。"
+    l "彼此彼此。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_34dd3e28:
 
-    e "...我可以借你床,如果你们两个需要..."
+    e "……你们俩要是需要，我可以把床借给你们——"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_c0c91aab:
 
-    l "听着,狮子,我有个更好的交易 我为你那愚蠢的小石头收藏准备了一块石头 我们只是来做笔小交易的。"
+    l "听着，狮子。我有笔更划算的交易：我给你那可笑的小石头收藏带来了一块石头。我们只是来做笔小买卖。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_297a6adb:
 
-    s "交易 交易需要双方交换。"
+    s "交易，是吧？不过交易得有来有往。我记得，你还欠我一笔债……"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_65e123da:
 
-    l "... Debt?"
+    l "……债？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_3b467327:
 
-    s "踢我,你上次踢我的蛋蛋,操!"
+    s "就是那一脚。上次你踢了我的蛋，操！这次让我把这一脚还给你，咱们就算两清……"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_df0db928:
 
-    l "你哪都别想碰我 更别提踢了。"
+    l "想都别想……你哪儿都别碰我，更别说踢了。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_a9009154:
 
-    e "等等,你确定... 我们在这里做吗?"
+    e "等等……你确定……要在这里来吗？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_291da2d6:
 
-    s "是的 洛萨尔 做个男人 接受你的行为的后果。"
+    s "没错，洛萨尔。做个男人，承担你自己做事的后果。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_5292f9d9:
 
-    l "我告诉你了,去你妈的,狮子。"
+    l "我说了……不行！去你妈的，狮子。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_0f70ec66:
 
-    s "好吧,如果你不想做正确的方式。我们去问问[e],他知道什么是对的,什么是错的。"
+    s "行啊，你不愿意按正确的方式来。那我们去问问[e]，让他来判断什么是对、什么是错。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_45e550c7:
 
-    e "什么... 我?"
+    e "什么……我？"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_287058b3:
 
-    s "好,伙计,打个电话,把前面的球给我,我让他尝尝狮子腿的味道。"
+    s "对，伙计。你来拍板。只要你点头，我就让他尝尝狮子腿的滋味。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_94aa9ef1:
 
-    l "恕我直言,我强烈建议你不要相信狮子的言辞 这会对你们俩造成后果。"
+    l "徒弟，我强烈建议你别信这头狮子的话。你们两个都会付出代价。真的。千万别。"
 
 translate schinese_rewrite Lothar_Mossy_Artifact_fc04e7eb:
 
-    s "你想怎么惩罚这只傲慢的狼?" nointeract
+    s "你不是早就想教训这头傲慢的狼了吗？是时候给他点教训了。" nointeract
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_ae0bd0e2:
 
-    e "不,我想洛萨尔已经受够了。"
+    e "不……我觉得洛萨尔已经受够了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_28267ae2:
 
-    s "[e],我还以为你支持我..."
+    s "[e]，我还以为你会站我这边……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_30b65501:
 
-    l "哈,我知道我的徒弟不会为了 一只丑陋的狮子背叛我。"
+    l "哈，我就知道我的徒弟不会为了某头邋遢的狮子背叛我。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_fe9e6566:
 
-    s "你看,你不看起来这么自大 现在,如果我看到你孤独 下一次,你将确定 你的坚果会得到他妈的破碎。"
+    s "听着，你现在别得意。下次要是让我撞见你落单，你那两颗蛋就等着被我他妈的踢碎吧。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_15215ee7:
 
-    l "看来你真的想再踢一脚,不是吗?"
+    l "看来你是真想再挨一脚，对吧？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_b32c6046:
 
-    s "你他妈的敢。"
+    s "你他妈敢试试！"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_c5c6c9e5:
 
-    e "嘿,你们两个,别踢坚果了..."
+    e "嘿，你们俩。别再说踢蛋了……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_aa850409:
 
-    l "上次我踢他的时候 叫他别像个小女孩一样 扭的。"
+    l "上次我踢他的时候，他可是扭得像个小姑娘一样。我还得叫他别扭了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_e1554201:
 
@@ -13151,19 +13151,19 @@ translate schinese_rewrite Lothar_Sebas_Kick_No_e1554201:
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_dfc4bbcd:
 
-    l "这是石头,狮子。"
+    l "石头在这儿，狮子。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_1dd30a8e:
 
-    "塞布拿走了洛萨尔手上的艺术品 用他的工具检查。"
+    "塞巴斯从洛萨尔手中接过遗物，用工具仔细检查。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_e5ac6eed:
 
-    s "看这个,这块石头... 是有机的。"
+    s "看这个，这块石头……是有机物。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_6b0db38f:
 
-    e "这是什么意思 有机物不是和石头相反吗？"
+    e "这是什么意思？有机物不是石头的反面吗？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_b3b9c0e8:
 
@@ -13171,67 +13171,67 @@ translate schinese_rewrite Lothar_Sebas_Kick_No_b3b9c0e8:
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_c9e60a92:
 
-    l "什么?有什么问题吗?"
+    l "怎么？有问题吗？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_aaeb98a4:
 
-    s "你在哪里找到的,洛萨尔?"
+    s "洛萨尔，你在哪儿找到的？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_953e925d:
 
-    l "河里有苔榈,你知道在哪,奥利以前做苔榈汤的地方。"
+    l "有苔藓的那条河边。你知道在哪儿——就是奥利以前煮苔藓汤的地方。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_3252926f:
 
-    e "Moss Soup?"
+    e "苔藓汤？味道——"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_b79910e6:
 
-    s "好吧,我们得去查查来源 我觉得有点奇怪。"
+    s "行了。我们得去那里查清楚它的来历。对我来说，这东西有点古怪。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_e2f2bee0:
 
-    "他似乎比平时更惹恼人,这或多或少是有道理的,但你还是不满意..."
+    "被塞巴斯打断，你有点尴尬。他似乎比平时更烦躁，这多少情有可原，但你心里还是不太舒服……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_bbb31b08:
 
-    l "好吧,我和你一起去看看,我知道在哪里找到的。"
+    l "那好吧。我跟你去看看。我很清楚自己是在哪里找到它的。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_1a81f4a2:
 
-    s "是的..."
+    s "好吧……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_82831443:
 
-    s "[e],你想跟着吗?"
+    s "[e]，你要一起去吗？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_6558155b:
 
-    e "嗯..."
+    e "嗯……好。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_No_4437d14e:
 
-    s "好吧,那我们明天就准备了!"
+    s "那就这么定了，明天我们准备出发！到时候在这里见。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_655355ea:
 
-    e "我想你应该报仇,赛伯,我们动手吧。"
+    e "我觉得你该报仇，塞巴斯。来吧。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_427f03db:
 
-    l "你们两个白痴,我揍死你们两个！"
+    l "你、你们两个蠢货！我……我会把你们俩揍成肉泥，听见没有！"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_a0ec2b92:
 
-    "洛萨尔慢慢退缩,只看到塞巴斯一言不发地走在他身后,他锁上门,把牌子翻到关上,然后又走回去看洛萨尔。"
+    "洛萨尔慢慢后退，却看见塞巴斯一声不吭地绕到他身后。他锁上门，把牌子翻成“歇业”，然后走回来再次盯住洛萨尔。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_90caff68:
 
-    l "你们两个... 别碰我 我会尖叫的 我会让大家知道的。"
+    l "你、你们两个……别碰我……我会尖叫的！我要让所有人都知道这件事！"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_b8750c0b:
 
-    s "喊吧,现在没人会听见了,傻狼,接受你的命运吧。"
+    s "叫吧。现在没人听得见了，蠢狼。认命吧。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_827fc35a:
 
@@ -13239,43 +13239,43 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_827fc35a:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_c2e95d2f:
 
-    e "它很快就会结束。"
+    e "很快就结束了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_0d014ad0:
 
-    s "别担心 我会好好照顾你和你的蛋蛋的。"
+    s "放心，我会好好照顾你和你的蛋的。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_747e1bd8:
 
-    l "你... 背叛了我,门徒。"
+    l "你……你背叛了我，徒弟。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_11c54cf2:
 
-    s "[e]做对了,现在,你再靠近点。"
+    s "[e]做得对。现在，过来一点。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_ab4b4712:
 
-    "狼朝他走来 猛击他的双腿 而狮子几乎碰不到他。"
+    "塞巴斯猛地把洛萨尔拽到自己身前。洛萨尔在他的腿下扭动着，狮子甚至还没真正碰到他。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_3e74ca8f:
 
-    l "让我现在走 我也许能忘记这个 狮子。"
+    l "现在放我走，我也许还能忘掉这件事，狮子。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_b8795bc9:
 
-    "狮子没有回应,只是练习踢脚 几次,同时暖身..."
+    "狮子没有回答，只是边热身边练了几次踢腿……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_38e56c36:
 
-    s "你也许想准备你的蛋蛋, 它会伤害很多。"
+    s "你最好先护好你的蛋，这一脚会很疼。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_afe97f1e:
 
-    l "什么 我 你敢..."
+    l "什、什么？我……你、你敢……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_db982fad:
 
-    "你坐在商店的角落 旁观狮子和狼之间的传奇之踢 塞巴斯已经准备好了。"
+    "你在店角落坐下，旁观这场狮狼之间的传奇之踢。塞巴斯已经准备好了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_6c201510:
 
@@ -13287,35 +13287,35 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_a49632d4:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_220e6d49:
 
-    s "Two..."
+    s "二……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_47f0f6e6:
 
-    l "我要杀了你..."
+    l "我会杀了你……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_cc0b2013:
 
-    s "O-"
+    s "一——"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_5b3442bd:
 
-    l "aaaa-"
+    l "啊啊啊——"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_a906839e:
 
-    "第一次你听到洛萨尔的 略微高调的尖叫声, 这听起来几乎像一个孩子的声音。"
+    "这是你第一次听见洛萨尔发出略显尖细的尖叫，听起来几乎像个孩子。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_b95f7847:
 
-    s "什么 我还没踢你呢。"
+    s "什么？我还没踢你呢。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_b89c99bc:
 
-    l "你吓到我了,狮子..."
+    l "你吓到我了，狮子……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_cc1a3f3c:
 
-    s "不管是什么,三。"
+    s "随便吧，三。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_79a11617:
 
@@ -13327,31 +13327,31 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_7647f29f:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_470ca797:
 
-    "塞巴斯把他的脚推到洛萨尔的腿中间。"
+    "塞巴斯一脚直直踢进洛萨尔两腿之间。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_7d6dbf5f:
 
-    "你听到一个响亮的震动 散布在商店里, 跟着洛萨尔 紧紧抓住自己的裤带。"
+    "你听见一声巨响在店里回荡，紧接着洛萨尔紧紧捂住自己的裆部。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_3f3ba147:
 
-    "他痛苦的脸庞和眉毛 让人感觉比现在更痛苦。"
+    "他痛苦的表情和紧皱的眉头，让这一幕看起来比实际还要疼。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_5c6fb6c9:
 
-    "洛萨尔的身体痛苦地流淌着 他慢慢地跪在地上 之后就倒塌了 仍然抱着他的腰部。"
+    "洛萨尔痛苦地扭动着身体，慢慢跪倒在地，随后整个人瘫了下去，双手仍死死捂着裆部。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_e82b8872:
 
-    e "这就是你们在空闲时间做的事吗?"
+    e "你们俩平时空闲下来就干这个？互相踢蛋……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_25d1bf05:
 
-    s "你也想看,也是他先踢我的。"
+    s "嘿，是你也想看的。而且是他先踢我的。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_6d59540b:
 
-    l "M-妈妈... h-hh-hhelp..."
+    l "妈、妈妈……救、救我……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_72a33094:
 
@@ -13359,75 +13359,75 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_72a33094:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_d16184ce:
 
-    s "他没事 他的脚比我的还差 我只是稍微抬了一下脚。"
+    s "他没事。他挨的那一脚可比我这次重多了。我只是稍微抬了抬脚。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_4c3cbebd:
 
-    "你和塞巴斯待几分钟 洛萨尔在地上呻吟 几乎没空。"
+    "你和塞巴斯在店里待了几分钟，洛萨尔在地上呻吟，几乎喘不上气来。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_08496ef7:
 
-    l "我的蛋蛋... 它...。.."
+    l "我的蛋……它……没、没了……啊啊啊……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_61b9f1e9:
 
-    "塞巴斯又踢了狼一脚 他似乎没反应 所以狮子把艺术品带到柜台。"
+    "塞巴斯又踢了狼一脚。见他似乎没有反应，狮子便把那件遗物拿到柜台上，用工具检查。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_21c9c6b2:
 
-    s "[e],看看这个,这块石头..."
+    s "[e]，看看这个。这块石头……是有机物。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_6b0db38f:
 
-    e "这是什么意思 有机物不是和石头相反吗？"
+    e "这是什么意思？有机物不是石头的反面吗？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_161b885f:
 
-    s "你在哪里找到的,狼?"
+    s "狼，你是在哪儿找到它的？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_ccd04188:
 
-    l "S-save...m-me..."
+    l "救、救……救我……"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_15b21cb3:
 
-    e "他说是河边的,在森林附近?"
+    e "他说是在河边，应该就在森林附近？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_1ef5aac0:
 
-    s "嘿 我知道它在哪里 它的病情完全湿透了。"
+    s "嘿，我知道在哪儿了。这东西湿得也太不寻常了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_9abeb30b:
 
-    s "我们可能需要回去, 这是非常不寻常的。"
+    s "我们可能得回去一趟，这东西实在太不寻常了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_f9fc7264:
 
-    l "把石头还给我 交易取消了。"
+    l "把石头还给我……这笔交易取消了。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_0c7e266a:
 
-    s "不,我不这么认为 反正现在我手上了 所以,伙计,想和我一起去探险吗?"
+    s "不，我可不这么想。反正它现在已经在我手里了。所以，伙计，要不要和我一起去探险？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_f3f663f6:
 
-    e "嗯..."
+    e "呃……好吧。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_4ba0b084:
 
-    l "等等,我跟你一起走。"
+    l "等等，我、我也跟你去。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_900cab52:
 
-    s "然后我们明天就走 让洛萨尔躺一会。"
+    s "那就明天出发。先让洛萨尔在这儿躺一会儿。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_5f0d666f:
 
-    e "塞布,你要把他留在那吗?"
+    e "塞巴斯，你要把他一个人留在这里？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_74fe3b06:
 
-    s "我会让奥利照顾他的... 蛋蛋。"
+    s "我会让奥利照顾他的……蛋。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_82822a0c:
 
@@ -13439,46 +13439,46 @@ translate schinese_rewrite Lothar_Sebas_Kick_Yes_72a33094_1:
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_4d71af07:
 
-    s "如果你想到脏东西 我会带你去我的房间[e]。"
+    s "药膏，[e]。你要是想到什么下流的东西，我就带你去我房间。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_27a1a890:
 
-    e "呃……你当时在想什么……"
+    e "呃……你刚才在想什么……？"
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_14dfc29c:
 
-    s "你以为我在想什么?"
+    s "你觉得我在想什么？"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_d9454af6:
 
-    e "我不介意。"
+    e "不过我不介意。"
 
 translate schinese_rewrite Lothar_Sebas_Kick_Yes_bcc41471:
 
-    s "也许在我下班后,你这个没耐心的小家伙。"
+    s "呵呵。也许等我忙完吧，你这个没耐心的小家伙。"
 
 translate schinese_rewrite Lothar_Postal_Training_bc86c150:
 
-    e "洛萨尔,我准备好训练了！"
+    e "洛萨尔！我准备好训练了！"
 
 translate schinese_rewrite Lothar_Postal_Training_8f3f1f53:
 
-    l "看来你准备好了 你准备好和英雄进行史无前例的战斗了吗?"
+    l "看来是准备好了。你准备好和这位英雄来一场史诗般的战斗了吗？"
 
 translate schinese_rewrite Lothar_Postal_Training_fda39583:
 
-    e "是的,洛萨尔,我给你看我有什么。"
+    e "当然，洛萨尔。我让你看看我的本事。"
 
 translate schinese_rewrite Lothar_Postal_Training_b6559858:
 
-    l "哈,来吧... 在我的练习假人身上。"
+    l "哈哈，放马过来……对着那边的练习假人。"
 
 translate schinese_rewrite Lothar_Postal_Training_02a26847:
 
-    e "等等 我以为我们的训练就是 我们一起争斗和练习?"
+    e "等等……我以为我们的训练是我们一起对打、一起练习？"
 
 translate schinese_rewrite Lothar_Postal_Training_6589b419:
 
-    l "你以为我是谁,一个无所事事的低贱的人?"
+    l "你以为我是谁？整天无所事事的下三滥吗？我还有个村子要保护呢。"
 
 translate schinese_rewrite Lothar_Postal_Training_faa7d97b:
 
@@ -13486,259 +13486,259 @@ translate schinese_rewrite Lothar_Postal_Training_faa7d97b:
 
 translate schinese_rewrite Lothar_Postal_Training_1b7cfda3:
 
-    l "这对你来说像是教义吗?"
+    l "这看起来像给你上的教程吗？难道还要我手把手教你战斗？"
 
 translate schinese_rewrite Lothar_Postal_Training_29f048ed:
 
-    e "不... 但你可以教我一些有用的东西?"
+    e "不……但你能不能教我点有用的？"
 
 translate schinese_rewrite Lothar_Postal_Training_1d3b9ab5:
 
-    l "好吧,你这个有需要的蜥蜴。"
+    l "行吧，你这个缺人照顾的毛蜥蜴。"
 
 translate schinese_rewrite Lothar_Postal_Training_02b8df2e:
 
-    l "我们有不同种类的武器,剑、斧头和弓,不同用途不同。"
+    l "武器有很多种：剑、斧头和弓，各有各的用处。"
 
 translate schinese_rewrite Lothar_Postal_Training_c7bc0778:
 
-    l "比如说,你最好对苍蝇射箭, 因为你不会接近他们 使用你的武器,直到他们杀了你 把你扔在路中间。"
+    l "比如说，遇到会飞的东西时，最好用弓射它们。你根本靠近不了它们，等你能用武器之前，它们早就把你杀了，再把你丢在路中央。"
 
 translate schinese_rewrite Lothar_Postal_Training_8820adf7:
 
-    e "我需要一把剑 斧头 和我鞠躬 特殊场合。"
+    e "懂了。那特殊场合我得带上剑、斧头和弓。"
 
 translate schinese_rewrite Lothar_Postal_Training_28d2616b:
 
-    l "当然,我更喜欢剑,简单,简单,没有乱七八糟的。"
+    l "没错。我喜欢剑，简单、省事，不会留下乱七八糟的残局。"
 
 translate schinese_rewrite Lothar_Postal_Training_39a282bf:
 
-    l "回到主点,战斗,战斗的目的当然是击败对手。"
+    l "回到正题——战斗。战斗的目标当然是击败对手，这点你肯定知道。"
 
 translate schinese_rewrite Lothar_Postal_Training_4c6eb46d:
 
-    e "嗯,我知道这一点。"
+    e "嗯，这个我知道。"
 
 translate schinese_rewrite Lothar_Postal_Training_47f1a5f8:
 
-    l "停止切除,徒弟,你通常有两种方法击败他们, 让他们的身体健康下降, 或让他们的愤怒上升。"
+    l "别打断我，徒弟。通常有两种办法击败敌人：让他们的体力降到零，或者让他们的欲望升上去。"
 
 translate schinese_rewrite Lothar_Postal_Training_aac4925a:
 
-    e "嗯... 你是什么意思 刺激?"
+    e "嗯……你说的刺激是指什么？"
 
 translate schinese_rewrite Lothar_Postal_Training_98959672:
 
-    l "你知道我的意思, 诸如取笑你的对手, 让他们冲水什么的。"
+    l "你知道的，比如调戏对手，让他们脸红什么的。"
 
 translate schinese_rewrite Lothar_Postal_Training_fac725ca:
 
-    e "但是,这如何打败我的敌人呢?"
+    e "但这样怎么能击败敌人？"
 
 translate schinese_rewrite Lothar_Postal_Training_1f279920:
 
-    l "这个世界的人很容易被激起 外人 如果你真的迷人 那么敌人就会向向你屈服。"
+    l "这个世界的人很容易被撩拨起来，外乡人。只要你够迷人，敌人自然会向你靠拢，甚至主动屈服。"
 
 translate schinese_rewrite Lothar_Postal_Training_cca62d87:
 
-    e "多么奇怪的世界,这就是你击败山羊头的手法吗?"
+    e "哼……真是个奇怪的世界。这就是你打败山羊首领的办法？"
 
 translate schinese_rewrite Lothar_Postal_Training_99a9f456:
 
-    l "我是色人场的英雄,对,我不玩肮脏的把戏。"
+    l "什、什么？我可是乐斯民菲尔德的英雄，行了吧。我才不用下三滥的手段。"
 
 translate schinese_rewrite Lothar_Postal_Training_8feaeffd:
 
-    "洛萨尔越过他的手臂越难,你显然可以清楚地看到他试图转移话题的尴尬。你可以想象,如果这是真的,那将是一个混乱的局面。"
+    "洛萨尔把手臂交叉得更紧了。你清楚看出他尴尬地试图转移话题。你可以想象，要是真的那样，场面会有多混乱。"
 
 translate schinese_rewrite Lothar_Postal_Training_2aa99488:
 
-    l "不管怎样,你可以试图逃跑, 或者如果你累了,你可以向敌人投降。"
+    l "咳。总之，你可以试着逃跑；如果累了，也可以向敌人投降。"
 
 translate schinese_rewrite Lothar_Postal_Training_e15fefdc:
 
-    l "可能会导致坏事 所以我不建议你这么做。"
+    l "不过那大概会招来麻烦，所以我不建议你这么做。"
 
 translate schinese_rewrite Lothar_Postal_Training_55f4b428:
 
-    e "是的,他们会偷走我所有的黄金。"
+    e "是啊……他们会把我所有的金币都抢走。"
 
 translate schinese_rewrite Lothar_Postal_Training_66fd0c86:
 
-    l "哈,不是所有的人, 但如果你让他们生气, 你最好非常抱歉。"
+    l "哈，不一定是所有人。但要是你把他们惹火了，最好赶紧诚恳道歉。"
 
 translate schinese_rewrite Lothar_Postal_Training_eb219ae7:
 
-    l "还有,能力,或咒语,那些需要魔法的东西。"
+    l "还有技能，或者法术——凡是需要消耗魔力的东西。"
 
 translate schinese_rewrite Lothar_Postal_Training_71cab8de:
 
-    e "自我治疗和加固,是吗?"
+    e "对，我知道……嗯……自我治疗和强化？就是这些？"
 
 translate schinese_rewrite Lothar_Postal_Training_aaa3fbac:
 
-    l "反正你可能也会在旅途中学到更多东西 我不是魔法使用者 所以别以为我会教你任何咒语。"
+    l "反正你在旅途中大概还会学到更多。我不是魔法使用者，所以别指望我教你什么法术。"
 
 translate schinese_rewrite Lothar_Postal_Training_27051342:
 
-    l "但是,我的练习假人对它有一点点魔力, 它可以模拟与你战斗。"
+    l "不过我的练习假人带着一点魔法，可以模拟和你战斗。"
 
 translate schinese_rewrite Lothar_Postal_Training_666bc26c:
 
-    l "我要你打败巷道上的假人 如果你赢了,他会给你补补丁。"
+    l "所以……我要你打败巷子里的假人。赢了的话，它会给你一块补丁。"
 
 translate schinese_rewrite Lothar_Postal_Training_89f1fec1:
 
-    e "嗯,可以吗,我已经知道如何战斗了。"
+    e "嗯……能不能不打？我已经会战斗了。"
 
 translate schinese_rewrite Lothar_Postal_Training_619228dc:
 
-    l "当然,那你可能不知道如何反攻 如果你打败你的假人,我会告诉你我对调情的了解。"
+    l "当然……你可能只是还不会用另一种方式战斗。你要是打败了这个假人，我就告诉你我对调情的了解。"
 
 translate schinese_rewrite Lothar_Postal_Training_93d1c41d:
 
-    e "调情怎么样?"
+    e "调情？"
 
 translate schinese_rewrite Lothar_Postal_Training_611ca771:
 
-    l "类似这样的东西..."
+    l "就像这样……"
 
 translate schinese_rewrite Lothar_Postal_Training_0151ee6f:
 
-    "洛萨尔用手指指着你的胸口 直到它碰不到你 你心跳突然跳动 当他滑下手指时。"
+    "洛萨尔伸出手指，指向你的胸口，直到指尖几乎要碰到你。随着手指一路向下滑，你的心脏猛地一跳，你不禁打了个寒颤。"
 
 translate schinese_rewrite Lothar_Postal_Training_ba477b17:
 
-    "他似乎奇怪地被你的反应 取笑, 看着你上下。"
+    "他似乎很享受你的反应，饶有兴味地上下打量着你。"
 
 translate schinese_rewrite Lothar_Postal_Training_eb615820:
 
-    l "听着,打败那个假人,我们再谈。"
+    l "总之，先打败那个假人，我们再谈。"
 
 translate schinese_rewrite Lothar_Postal_Training_0dfa31be:
 
-    e "O -OK,洛萨尔。"
+    e "好、好的，洛萨尔。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3e4287a4:
 
-    e "洛萨尔,我从练习回来。"
+    e "洛萨尔，我练习回来了。"
 
 translate schinese_rewrite Lothar_Postal_Finish_19ad34a8:
 
-    l "你赢了还是输了?"
+    l "哦？那我去问问假人你到底是赢了还是输了。"
 
 translate schinese_rewrite Lothar_Postal_Finish_9c09e4cc:
 
-    "洛萨尔走进小巷 几秒钟后他回来 嘲笑你那糊涂的表情。"
+    "洛萨尔走进巷子，几秒后又回来了，还在对着你困惑的表情偷笑。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3d09b669:
 
-    l "他说你被打得很惨,不是吗?"
+    l "它说你被揍得够惨，对吧？"
 
 translate schinese_rewrite Lothar_Postal_Finish_3d2a8cab:
 
-    e "我只是接近了 假人打我, 我不知道它会伤害那么多..."
+    e "我只是靠近了点让假人打我，我没想到会这么疼……"
 
 translate schinese_rewrite Lothar_Postal_Finish_017cb340:
 
-    l "当然了,如果我在练习, 我不会让那个笨蛋碰我的。"
+    l "你当然知道。要是我在练习，我可不会让那个笨蛋碰到我一下。"
 
 translate schinese_rewrite Lothar_Postal_Finish_f75721ca:
 
-    e "这会使它成为一场单方面的战斗。"
+    e "那就成单方面殴打了。"
 
 translate schinese_rewrite Lothar_Postal_Finish_73254cfe:
 
-    l "你知道什么是战斗,[e]。 我不是一些开战的初学者, 我一生中的大部分时间都在战斗。"
+    l "你又懂什么战斗，[e]？我可不是什么战斗新手。我这辈子大半时间都在打架。"
 
 translate schinese_rewrite Lothar_Postal_Finish_f90de23a:
 
-    l "这个假人已经老了,它在这里多久了?"
+    l "这个假人也老了。它在这儿多久了？十九年？都快比你年纪大了。"
 
 translate schinese_rewrite Lothar_Postal_Finish_521314e9:
 
-    e "哇... 维持这个假人肯定要花很多时间 几乎难以置信 你还没把它打成一纸棉花。"
+    e "哇……维护这个假人肯定得花不少时间。真难以置信，你居然还没把它打成一团棉絮。"
 
 translate schinese_rewrite Lothar_Postal_Finish_23a6a199:
 
-    l "我绝不会这样对他。"
+    l "我绝不会那样对他。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3b659d67:
 
-    e "是的,但它只是一个假人。"
+    e "是啊，可他终究只是个假人。"
 
 translate schinese_rewrite Lothar_Postal_Finish_b9361b15:
 
-    l "你不明白 随便你最好尊重我的假人 如果你想继续和他一起训练的话。"
+    l "你不明白……算了。你要是想继续跟他训练，最好对我的假人放尊重点。"
 
 translate schinese_rewrite Lothar_Postal_Finish_c7b5f685:
 
-    e "是的,我会... 你和那个假人之间有历史吗?"
+    e "好吧，我会的……你和这个假人之间有什么故事吗？"
 
 translate schinese_rewrite Lothar_Postal_Finish_a9a5017e:
 
-    "奇怪的是,洛萨尔没有在你问完之前把你切开, 相反,他回头看小巷,盯着假人看。"
+    "奇怪的是，洛萨尔没有在你问完之前打断你。相反，他回头望向巷子，盯着那个假人。"
 
 translate schinese_rewrite Lothar_Postal_Finish_1e73f1f7:
 
-    l "我没有时间讲故事。"
+    l "我没时间讲故事。"
 
 translate schinese_rewrite Lothar_Postal_Finish_5fd10514:
 
-    e "好吧……"
+    e "好……"
 
 translate schinese_rewrite Lothar_Postal_Finish_263b6688:
 
-    l "我会用你的训练去跟蜥蜴谈谈,现在结束了。"
+    l "我会把你的训练情况告诉那只蜥蜴。今天就到这里。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3a6fa982:
 
-    e "教我调情怎么样?"
+    e "那教我调情呢？"
 
 translate schinese_rewrite Lothar_Postal_Finish_51970578:
 
-    l "以后我会的 等课来的时候你会知道的。"
+    l "以后会教你的。等课程开始时你就知道了。"
 
 translate schinese_rewrite Lothar_Postal_Finish_b097527c:
 
-    e "好的,谢谢,再见,洛萨尔。"
+    e "好吧，谢谢。再见，洛萨尔。"
 
 translate schinese_rewrite Lothar_Postal_Finish_2dd9edd6:
 
-    "洛萨尔走进小巷 几秒钟后 他回来时脸上的表情很奇怪。"
+    "洛萨尔走进巷子。几秒后，他回来时脸上的表情很奇怪。"
 
 translate schinese_rewrite Lothar_Postal_Finish_50fcf88a:
 
-    l "你骗我了吗,[e]?" nointeract
+    l "你骗我了吗，[e]？" nointeract
 
 translate schinese_rewrite Lothar_Postal_Finish_7188cbc6:
 
-    e "对不起,洛萨尔,我以为假人不会注意到..."
+    e "对不起，洛萨尔……我以为假人不会发现……"
 
 translate schinese_rewrite Lothar_Postal_Finish_ed2a2a1f:
 
-    l "我,乐斯民菲尔德的英雄, 对待你给予款待, 给予你实践 和这样的, 这就是你回报恩惠的方式?"
+    l "我可是乐斯民菲尔德的英雄！我招待你，给你训练，还为你做了这么多——你就是这样报答我的？"
 
 translate schinese_rewrite Lothar_Postal_Finish_5e4f4aa6:
 
-    e "我不是故意..."
+    e "我不是故意的……"
 
 translate schinese_rewrite Lothar_Postal_Finish_8928837b:
 
-    l "如果你是狮子,我会把你踢下去 这么辛苦你不需要再学调情了, 幸运的是,你不是。"
+    l "要是你是头狮子，我早把你踢得以后都不需要学调情了。幸好你不是。"
 
 translate schinese_rewrite Lothar_Postal_Finish_30769e95:
 
-    e "我现在去打那个假人..."
+    e "我现在就去打那个假人……"
 
 translate schinese_rewrite Lothar_Postal_Finish_4c5f9f8a:
 
-    e "我确定我和那个假人打架 他真的告诉你真相了吗?"
+    e "我明明是在和假人打架。它真的把实话告诉你了吗？"
 
 translate schinese_rewrite Lothar_Postal_Finish_743494f4:
 
-    l "不,你真的想逃开 骗着色人场的英雄吗?"
+    l "不，你真以为撒个谎就能骗过乐斯民菲尔德的英雄？"
 
 translate schinese_rewrite Lothar_Postal_Finish_72a33094:
 
@@ -13746,11 +13746,11 @@ translate schinese_rewrite Lothar_Postal_Finish_72a33094:
 
 translate schinese_rewrite Lothar_Postal_Finish_d1c260a8:
 
-    l "幸好我今天没心情打门徒,也许以后吧。"
+    l "你一定很想被英雄惩罚吧……幸好我今天没心情揍徒弟。也许以后吧。"
 
 translate schinese_rewrite Lothar_Postal_Finish_9a238e31:
 
-    l "在我改变主意之前 回到小巷里去。"
+    l "趁我还没改变主意，回巷子里去。"
 
 translate schinese_rewrite Lothar_Postal_Finish_74db1a7f:
 
@@ -13758,263 +13758,263 @@ translate schinese_rewrite Lothar_Postal_Finish_74db1a7f:
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_06b17b2b:
 
-    e "洛萨尔,你觉得村子怎么样?"
+    e "洛萨尔，你觉得村子怎么样？"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_01da349a:
 
-    l "嗯?这是愚蠢的问题吗?"
+    l "嗯？这问题是不是有点蠢？"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_45a5bea4:
 
-    e "我是说... 村子里其他人怎么样了?"
+    e "我是说……村里其他人过得怎么样？"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_689b78a8:
 
-    l "你应该自己去问他们 山羊。"
+    l "你应该自己去问他们，山羊。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_1db5ce3e:
 
-    e "我是龙..."
+    e "我是龙……不过好吧。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_81e8da35:
 
-    l "我想我可以告诉你一些内幕独家的..."
+    l "我想我可以告诉你几条内部消息……"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_00419aaf:
 
-    l "蜥蜴 奥利 他总是待在店里 除了有时和狮子一起打猎。"
+    l "先说那只蜥蜴，奥利。他几乎一直待在店里，偶尔才和那头狮子一起去打猎。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_a1102730:
 
-    l "看到狮子了吗?狮子太自大了,我不会容忍他取笑任何跟我有关的东西。如果他因为胡言乱语而受伤,那是他身上的。"
+    l "你知道那头狮子吧？他太自以为是了。我可不能容忍他拿任何和我有关的东西开玩笑。要是他那张臭嘴惹来什么伤，他自找的。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_f1c44980:
 
-    e "我听到Seb在谈论这样的事?"
+    e "呃……我听塞巴斯提过类似的事？"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_9bcb14d9:
 
-    l "下次我用拳头..."
+    l "没错。告诉他，下次我就用拳头……打在他脸上。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_5fd10514:
 
-    e "好吧……"
+    e "好……"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_f0633cfc:
 
-    l "下一球,蝙蝠被击落, 我会带你到他的酒馆 有时如果蜥蜴不监视 我和你所有的时间。"
+    l "接下来是那只蝙蝠。他性格挺随和。要不是那只蜥蜴整天盯着我、盯着你们，我有时还真想带你去他的酒馆。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_d03ceb80:
 
-    e "什么蜥蜴 等等 奥勒在看吗？"
+    e "什么蜥蜴？等等……奥利在监视我们？"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_94e26d37:
 
-    l "他总是知道我在做什么 蜥蜴一定在某处监视我。"
+    l "他不知道用了什么办法，总能知道我在做什么。那只蜥蜴肯定躲在某处监视我。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_3615d06d:
 
-    l "那头公牛做衣服不错 我以前教他的孩子打猎和剑战。"
+    l "还有那头公牛。他做的衣服不错。我以前教过他的孩子招架和用剑。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_7c50b2f4:
 
-    l "但现在我偶尔会去他家吃晚饭。"
+    l "不过你知道，时代变了。现在我只是偶尔去他家吃顿饭。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_1f059268:
 
-    e "还有什么我需要知道的吗?"
+    e "好吧……还有其他我需要认识的人吗？"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_0d715947:
 
-    l "不是真的。 不。"
+    l "没什么了。不，没有。"
 
 translate schinese_rewrite Lothar_Ask_Hero_ebbb2876:
 
-    e "嘿,洛萨尔,你怎么成为 乐斯民菲尔德的英雄的?"
+    e "嘿，洛萨尔，你是怎么成为乐斯民菲尔德的英雄的？"
 
 translate schinese_rewrite Lothar_Ask_Hero_0301a476:
 
-    l "哈,小山羊,你打算给我建雕像吗?"
+    l "哈，小山羊。你打算给我建座雕像吗？"
 
 translate schinese_rewrite Lothar_Ask_Hero_3b34272e:
 
-    e "嗯... 是的。"
+    e "呃……是的。"
 
 translate schinese_rewrite Lothar_Ask_Hero_e35c52e1:
 
-    l "好开始吧 好 那么 让我看看。"
+    l "好，好。那我们开始吧。呃……让我看看。"
 
 translate schinese_rewrite Lothar_Ask_Hero_bdc33bea:
 
-    "洛萨尔从左口袋里拿出笔记本 几页纸飞出破碎的小书 他匆匆忙地逐个捡起来 兴奋地读出来。"
+    "洛萨尔从左边的口袋里掏出一本笔记本。几页纸从那本破旧的小册子里飞了出来，他赶忙一张张捡起，兴奋地念了起来。"
 
 translate schinese_rewrite Lothar_Ask_Hero_0062c425:
 
-    l "所以... 我从小就是个英雄。"
+    l "所以……我从小就是注定要当英雄的。"
 
 translate schinese_rewrite Lothar_Ask_Hero_ceff0fd7:
 
-    l "我父母非常支持我做冒险家 他们教我打猎钓鱼。"
+    l "我的父母非常支持我成为冒险家，还教我打猎和钓鱼。"
 
 translate schinese_rewrite Lothar_Ask_Hero_41f245d2:
 
-    l "我3岁的时候就用剑了,显然我非常擅长剑战,因此我只有3岁的时候在一场史诗剑战中打败了我父亲。"
+    l "我三岁时就开始用剑了。显然，我在剑术方面天赋异禀，所以三岁那年就在一场史诗般的剑斗中打败了父亲。"
 
 translate schinese_rewrite Lothar_Ask_Hero_be7dc128:
 
-    l "有一天,当我还是3岁的时候,我母亲给了我一张纸锥和一把长剑,我把纸锥扔掉了,因为我决心了。"
+    l "有一天，我还三岁的时候，母亲给了我一个纸喇叭和一把长剑。我把纸喇叭扔到一边，因为我可是下定决心了。"
 
 translate schinese_rewrite Lothar_Ask_Hero_3cccf798:
 
-    l "4岁时"
+    l "四岁时——"
 
 translate schinese_rewrite Lothar_Ask_Hero_d95381b8:
 
-    e "嘿,洛萨尔,你能总结一下吗?"
+    e "嘿，洛萨尔，你能不能讲短一点？"
 
 translate schinese_rewrite Lothar_Ask_Hero_346e9f72:
 
-    l "你什么意思,那故事对我性格的成长和成长来说 是极为重要的, 这一切都会让我的动机变得有意义..."
+    l "你什么意思？那段故事对我的性格塑造和成长至关重要。等我讲完，你就会明白我为什么会成为现在的我——"
 
 translate schinese_rewrite Lothar_Ask_Hero_da0738c2:
 
-    l "奥利也教过你如何跳过对话。"
+    l "好吧……随便。奥利连跳过我的对话都教给你了，是吧。"
 
 translate schinese_rewrite Lothar_Ask_Hero_d20ee73c:
 
-    e "什么?我没有滑雪。"
+    e "什么？我没跳过——"
 
 translate schinese_rewrite Lothar_Ask_Hero_f70b348b:
 
-    l "我23岁的时候就去冒险了 我带了些水和我的旧剑。"
+    l "总之，你知道我是怎么得到这个称号的吗？我二十三岁时踏上了冒险之旅，随身带了些水和那把旧长剑。"
 
 translate schinese_rewrite Lothar_Ask_Hero_8a7f753f:
 
-    l "我去森林找神秘的药剂制造者 但我什么都没发现。"
+    l "我去森林寻找那位神秘的药剂师，可什么也没找到……于是只好回村。"
 
 translate schinese_rewrite Lothar_Ask_Hero_027ef1f2:
 
-    e "等等 你什么都没发现 你怎么样 提的英雄"
+    e "等等……你什么都没找到？那你怎么会成为英雄——"
 
 translate schinese_rewrite Lothar_Ask_Hero_d1ba155c:
 
-    l "别再剪掉我的故事了 [e] 我还没过半呢。"
+    l "别再打断我的故事了，[e]。我还没讲到一半呢。"
 
 translate schinese_rewrite Lothar_Ask_Hero_3bc8b7a6:
 
-    "狼翻翻了纸条的页数 收集了不同页数的文字。"
+    "狼翻动着笔记，一页页搜寻着不同段落里的文字。"
 
 translate schinese_rewrite Lothar_Ask_Hero_7ee0ef84:
 
-    l "于是我回到村子里,发现乐斯民菲尔德被邪教渗透。那个邪教的山羊领袖命令他的小部队摧毁乐斯民菲尔德。我躲在灌木丛中。"
+    l "我回到村子后，发现乐斯民菲尔德已经被邪教渗透。那个邪教的山羊首领正命令手下摧毁乐斯民菲尔德，而我当时躲在灌木丛里。"
 
 translate schinese_rewrite Lothar_Ask_Hero_51e525a3:
 
-    l "他们敢在这里露面,每个人都在为自己的生命而战 所以我偷偷溜进邪教前哨,他们甚至没注意到我。"
+    l "他们居然敢在这里露面！所有人都在为性命而战，所以我偷偷溜进了邪教的前哨。他们甚至没注意到我从背后靠近。"
 
 translate schinese_rewrite Lothar_Ask_Hero_03ad2281:
 
-    e "他们是否也在战斗?"
+    e "他们也在战斗吗？"
 
 translate schinese_rewrite Lothar_Ask_Hero_7b7c9c72:
 
-    l "不,上面的人只是看,所以我潜入他们的营地 发现了他们的山羊头头 我甚至不记得他的名字。"
+    l "不，上层人员只是在旁观。我潜入了他们的营地，找到了那头山羊首领。我甚至不记得他叫什么了。泰尔……还是什么来着。"
 
 translate schinese_rewrite Lothar_Ask_Hero_379b4dfa:
 
-    l "长话短说,我打倒了他,把他打倒了,他摔倒在地,按铃求救。"
+    l "长话短说，我压制住了那头山羊，把他打翻在地。他倒下后拼命摇铃求救。"
 
 translate schinese_rewrite Lothar_Ask_Hero_dec18c6b:
 
-    l "山羊不停地摇铃,摇铃,好像它能救他免于不可避免的死亡,但我只是从他的脖子上拉下来,用我的长剑打他。"
+    l "那头山羊不停摇铃，仿佛那东西能把他从必死的命运里救出来。但我直接把铃铛从他脖子上扯下来，再用长剑给了他一击。"
 
 translate schinese_rewrite Lothar_Ask_Hero_324da70f:
 
-    e "这是一个小的十字架,"
+    e "这有点残——"
 
 translate schinese_rewrite Lothar_Ask_Hero_f9da9c3f:
 
-    l "他得到了他应得的,[e]。"
+    l "他罪有应得，[e]。"
 
 translate schinese_rewrite Lothar_Ask_Hero_9118935c:
 
-    l "当他们所有的山羊帮派都到来时, 我已经逃离了前哨。在邪教从乐斯民菲尔德撤退后不久, 他们的行为就像一群无头鸡,没有他们的傲慢领袖。"
+    l "等那些山羊帮派赶到时，我已经逃离前哨了。没过多久，邪教就从乐斯民菲尔德撤退了。没有那个傲慢的首领，他们就像一群没头苍蝇。"
 
 translate schinese_rewrite Lothar_Ask_Hero_89574f93:
 
-    e "所以你是乐斯民菲尔德的英雄。"
+    e "所以，你就是乐斯民菲尔德的英雄。"
 
 translate schinese_rewrite Lothar_Ask_Hero_2cbd53d6:
 
-    l "当然,这场战斗是传奇的,它需要不可估量的勇气来单独面对整个派别。此后,村子里每个人都爱我。"
+    l "当然。这场战斗可是传奇，需要无法估量的勇气才能独自面对整个派系。那之后，村里所有人都爱上我了。"
 
 translate schinese_rewrite Lothar_Ask_Hero_c75585fd:
 
-    e "哇,那故事真是精彩绝伦。"
+    e "哇，这故事可真够精彩的。"
 
 translate schinese_rewrite Lothar_Ask_Hero_07e45c94:
 
-    l "当然,现在你有一个榜样可以学习, 祈祷你能得到我一半的好。"
+    l "那当然。现在你有榜样可以学习了——祈祷你哪天能有我一半厉害吧。"
 
 translate schinese_rewrite Lothar_Ask_Hero_f8813d0a:
 
-    e "\"好,洛萨尔\"。"
+    e "……好吧，洛萨尔。"
 
 translate schinese_rewrite Lothar_Ask_Himself_a2faa6df:
 
-    e "你好吗,洛萨尔?"
+    e "洛萨尔，最近怎么样？"
 
 translate schinese_rewrite Lothar_Ask_Himself_d417045e:
 
-    l "我喝了几瓶啤酒,这些小瓶子太好吃了!"
+    l "我喝了几瓶啤酒，这些小破瓶子可真带劲！"
 
 translate schinese_rewrite Lothar_Ask_Himself_277bafae:
 
-    e "嗯... 你经常来这里吗?"
+    e "嗯……你经常来这里吗？"
 
 translate schinese_rewrite Lothar_Ask_Himself_d330d49d:
 
-    l "是的,每天晚上,然后我到客栈 和蝙蝠乱搞,这是一些好东西。"
+    l "是啊……我隔三差五就来旅店找那只蝙蝠闹一闹。那感觉真不错。"
 
 translate schinese_rewrite Lothar_Ask_Himself_51ca39d9:
 
-    e "你喝醉了吗 洛萨尔 你的脸看起来很红。"
+    e "你喝醉了……洛萨尔？你的脸好像很红……"
 
 translate schinese_rewrite Lothar_Ask_Himself_2e877e9f:
 
-    l "不,我已经喝了几十年了 你以为我会突然被这些小眼镜打吗?"
+    l "咳咳。没有。我都喝了几十年了，你以为我会突然被这几只小酒杯放倒？"
 
 translate schinese_rewrite Lothar_Ask_Himself_7d0d1f7f:
 
-    e "很好 洛萨尔 第二天见。"
+    e "那就好，洛萨尔。明天见。"
 
 translate schinese_rewrite Lothar_Ask_Himself_9ec597c5:
 
-    l "好,随便吧。"
+    l "好吧。随你。"
 
 translate schinese_rewrite Lothar_Ask_Himself_d8a8fa62:
 
-    e "你好吗,洛萨尔?"
+    e "洛萨尔，最近怎么样？"
 
 translate schinese_rewrite Lothar_Ask_Himself_8fef9f93:
 
-    l "很好,我监视着村子,今天这里没多少活动。"
+    l "很好。我在看守村子，只是今天这里没什么动静。"
 
 translate schinese_rewrite Lothar_Ask_Himself_a89445d1:
 
-    e "有什么我可以帮忙的吗?"
+    e "有什么我能帮忙的吗？"
 
 translate schinese_rewrite Lothar_Ask_Himself_96fd5a8d:
 
-    l "不,你最好跟上训练。"
+    l "不用。你最好继续训练。"
 
 translate schinese_rewrite Lothar_Ask_Himself_bd9e9f2e:
 
-    e "好,洛萨尔。"
+    e "好吧，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_End_4c28f542:
 
-    e "这就是我需要的,谢谢你,洛萨尔。"
+    e "这就是我需要的，谢谢你，洛萨尔。"
 
 translate schinese_rewrite Lothar_Dialogue_End_f163ce69:
 
@@ -14022,164 +14022,164 @@ translate schinese_rewrite Lothar_Dialogue_End_f163ce69:
 
 translate schinese_rewrite Lothar_Dialogue_End_f9012104:
 
-    l "好吧 那我继续我的英雄事业。"
+    l "好吧，那我继续干我的英雄事业。"
 
 translate schinese_rewrite Lothar_Dialogue_End_8b8ddf1b:
 
-    l "好,保持安全 在那里,门徒。"
+    l "好，徒弟。你在外面小心点。"
 
 translate schinese_rewrite Patron1_Dialogue_58d8197c:
 
-    e "Hey..."
+    e "嘿……"
 
 translate schinese_rewrite Patron1_Dialogue_47b644fa:
 
-    patron "你没看到我们互相争斗吗?"
+    patron "你没看见我们正在互相较量吗？"
 
 translate schinese_rewrite Patron1_Dialogue_5b94ccd3:
 
-    e "是啊 手臂摔跤 对吧 谁赢了。"
+    e "看到了。掰手腕，对吧？现在谁占上风？"
 
 translate schinese_rewrite Patron1_Dialogue_e4157e46:
 
-    patron "乌尔特 美洲狮 每次我们来这里 他都会打他。"
+    patron "我看是美洲狮乌尔特。他每次来都能把对方赢得落花流水。"
 
 translate schinese_rewrite Patron1_Dialogue_3dbd3037:
 
-    e "你们看起来挺坚强的。"
+    e "啊……你们看起来挺厉害的。"
 
 translate schinese_rewrite Patron1_Dialogue_e40d136b:
 
-    patron "听着,我们还在战斗 我不想错过这场激动人心的比赛。"
+    patron "看，我们还在比呢。我可不想错过这场精彩比赛的一秒。等我们比完再聊。"
 
 translate schinese_rewrite Patron1_Dialogue_8dd2ff0d:
 
-    e "好吧,玩得开心!"
+    e "好吧，玩得开心！"
 
 translate schinese_rewrite Patron2_Dialogue_ec05c2fe:
 
-    patron "你看,天空中的星星 其实是怪物, 和太阳可能是最凶猛的, 这就是为什么我的眼睛伤害 当我看着他。"
+    patron "你看，天上的星星其实都是怪物。太阳可能是其中最凶猛的一个，所以我看他时眼睛才会疼。"
 
 translate schinese_rewrite Patron2_Dialogue_1d534c56:
 
-    patron "我觉得太阳是狼 也许... 龙 像太阳龙怪 你懂我的意思 还有月亮。"
+    patron "我觉得太阳是一头狼……也许是龙，像太阳龙那种怪物。你懂我意思吧？还有月亮——我觉得它是头大象，一头小象。"
 
 translate schinese_rewrite Patron2_Dialogue_5e06e653:
 
-    patron2 "天空里的怪物 你知道我看到什么吗?"
+    patron2 "没错……天上的怪物。你知道我还看到了什么吗？外面还有一只更大的怪物……"
 
 translate schinese_rewrite Patron2_Dialogue_ee49c3a8:
 
-    patron "嗯是怪物?在哪里?"
+    patron "嗯？怪物？在哪儿？"
 
 translate schinese_rewrite Patron2_Dialogue_2a3c4b44:
 
-    patron2 "不是在天上,在桌子下..."
+    patron2 "不在天上，在桌子底下……"
 
 translate schinese_rewrite Patron2_Dialogue_81c9d756:
 
-    patron "什么 怎么没看到什么生物。"
+    patron "什么？怎么可能？我没看到那里有生物啊……"
 
 translate schinese_rewrite Patron2_Dialogue_082fccfa:
 
-    e "我想我应该离开这两个人..."
+    e "“我想我还是让这两个人单独待着吧……”"
 
 translate schinese_rewrite Patron3_Dialogue_da1a7a72:
 
-    e "喂?"
+    e "你好……？"
 
 translate schinese_rewrite Patron3_Dialogue_414b3281:
 
-    patron "他... 他... 他... 他... 他...{p}{p}。"
+    patron "他……{p} 什、什么……他……嗯嗯……好帅。{p} 啊——呃……嗯嗯嗯……"
 
 translate schinese_rewrite Patron3_Dialogue_25c145d8:
 
-    patron "唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔,唔...{p}{p}。"
+    patron "嗯、嗯哼……嗯嗯……哦——……{p} 我的……他……哈哈……{p} 嗯嗯……啊啊啊……"
 
 translate schinese_rewrite Patron3_Dialogue_a83f097b:
 
-    e "\"他醉得要命,我想我现在不能和他说话\""
+    e "他醉得太厉害了，我想现在没法和他说话……不过，他说的到底是谁呢……"
 
 translate schinese_rewrite Patron4_Dialogue_c6a5c177:
 
-    e "Hey there..."
+    e "嘿，你好……"
 
 translate schinese_rewrite Patron4_Dialogue_2a055e4a:
 
-    "你接近一对站在边缘的赞助者 他们举起他们的油箱 喝一口 然后再把注意力转向你。"
+    "你走近一对站在边上的客人。他们举起大酒杯喝了一口，然后把注意力转向你。"
 
 translate schinese_rewrite Patron4_Dialogue_b88e39a1:
 
-    e "如何进行?"
+    e "最近怎么样？"
 
 translate schinese_rewrite Patron4_Dialogue_c19b7643:
 
-    patron2 "我告诉你,巴德很好。"
+    patron2 "我跟你说，这吟游诗人真不错。"
 
 translate schinese_rewrite Patron4_Dialogue_f6ac164a:
 
-    patron "他的声音能吸引龙,他的技巧就是他那一时冲动, 简直是自以为是。"
+    patron "对，他的嗓音能迷住一条龙。还有他那把鲁特琴，弹得简直让人着迷。"
 
 translate schinese_rewrite Patron4_Dialogue_e133c8b0:
 
-    patron2 "我看过我那份的芭蕾舞,但这个有独特的天赋。他的表演有什么东西吸引你, 让你忘记所有烦恼。"
+    patron2 "我也见过不少吟游诗人，但这个风格独特。他的表演有种魔力，能把你吸进去，让你忘掉所有烦恼。"
 
 translate schinese_rewrite Patron4_Dialogue_468b5186:
 
-    e "他确实是一个有才华的歌唱家。"
+    e "他的歌唱确实很有才华。"
 
 translate schinese_rewrite Patron4_Dialogue_6eb80c97:
 
-    patron "记得那个英雄的故事吗?"
+    patron "还记得那个英雄的故事吗？我真想知道那是不是真的。他讲故事的样子，几乎让我觉得自己亲历其中。"
 
 translate schinese_rewrite Patron4_Dialogue_c574f939:
 
-    patron2 "你是认真的,当然不是,那只是吓唬孩子的鬼故事而已。"
+    patron2 "你认真的？当然不是真的。那不过是吓唬孩子的鬼故事。"
 
 translate schinese_rewrite Patron4_Dialogue_e38565e6:
 
-    patron2 "但信用还是有功劳的, 这里的观众不止是付钱的, 只是为了听他的歌和舞蹈。"
+    patron2 "不过话说回来，他确实值得称赞。已经有不止一整群客人专程付钱来听他的歌、看他跳舞了。"
 
 translate schinese_rewrite Patron4_Dialogue_2bc23d29:
 
-    patron "我听说他是个旅行者 趁他不在时会想念他。"
+    patron "我听说他是个四处旅行的吟游诗人。他离开的时候，我们肯定会想他。"
 
 translate schinese_rewrite Patron4_Dialogue_1a8fda2d:
 
-    patron2 "凯恩会付大钱让他留下来的,我告诉你 他不可能很快离开。"
+    patron2 "我跟你说，凯恩会花大价钱留住他的。照他带来的这些客人来看，他没那么快离开。"
 
 translate schinese_rewrite Patron4_Dialogue_c51e25cd:
 
-    patron "是的,对..."
+    patron "说得也是……"
 
 translate schinese_rewrite Patron4_Dialogue_aac1a24c:
 
-    patron "很好 服务器 凯恩刚刚重新装修了这层楼。"
+    patron "挺好的，伙计。凯恩刚把这一层重新装修过，现在终于觉得能呼吸了。"
 
 translate schinese_rewrite Patron4_Dialogue_bf1955c0:
 
-    patron2 "是的,我明白为什么他停止开放二楼 自从那个小伙子走了之后, 但酒馆太忙了,像我们这样的临时居民。"
+    patron2 "是啊。我也明白，为什么那个小伙子离开后他就不再开放二楼了。不过酒馆现在太忙，不适合我们这种只想清静喝酒的客人。"
 
 translate schinese_rewrite Patron4_Dialogue_0153c11d:
 
-    e "啊,这层楼有什么不同吗?"
+    e "啊，这层有什么不同吗？"
 
 translate schinese_rewrite Patron4_Dialogue_66888412:
 
-    patron "万一你还习惯这里 我们一直是这里最忠诚的常客之一 所以凯恩让我们打个折扣。"
+    patron "要是你还没适应这里：我们可是这里最忠实的常客之一，所以凯恩允许我们上来，还给我们优惠。"
 
 translate schinese_rewrite Patron4_Dialogue_59462e81:
 
-    patron "我们只需要自己去买食物和饮料,我们更有能力去。此外,这个地方比楼下更安静和舒适。"
+    patron "我们只需要自己拿食物和饮料，这点小事我们完全能搞定。而且这里比楼下安静舒适多了。"
 
 translate schinese_rewrite Patron4_Dialogue_41d35ea1:
 
-    patron2 "他说的对,服务器,抱歉,但你最好向酒馆的新来者求助。"
+    patron2 "他说得没错，伙计。不好意思，不过你最好去招呼酒馆里的新客人。话虽如此，你要是愿意，我也不介意亲自来招呼你。"
 
 translate schinese_rewrite Patron4_Dialogue_1b5aed61:
 
-    "你脸红得要命。"
+    "你脸红得厉害。"
 
 translate schinese_rewrite Patron4_Dialogue_5227365d:
 
-    patron2 "呃,那不是调情, 只是说你必须在这里待一阵子, 否则凯恩会再次关闭这层楼。"
+    patron2 "呃，那不是调情。我只是说你得在这儿待上一阵子，不然凯恩又会把这层关掉。"

@@ -3,351 +3,351 @@
 
 translate schinese_rewrite Otsovaara_Introduction_73d771c8:
 
-    "雪覆盖的泰加拉伸展到眼目所见的深处 一个宁静而又严酷的荒野。"
+    "积雪覆盖的泰加林一望无际，宁静却又残酷的荒野铺展在眼前。"
 
 translate schinese_rewrite Otsovaara_Introduction_1a96097c:
 
-    "寒冷的空气中弥漫着你的气雾, 你忍不住在柔软的毛皮下颤抖。"
+    "冷空气中，你呼出的气息化作白雾，柔软的皮毛下也不禁一阵发抖。"
 
 translate schinese_rewrite Otsovaara_Introduction_dad630b8:
 
-    "高高的松树站着哨兵 树枝上下着雪 地上被覆盖在原始的 冰冷的一层..."
+    "高耸的松树如哨兵般伫立，枝头压满积雪，地面覆着一层纯净的冰雪……"
 
 translate schinese_rewrite Otsovaara_Introduction_66807d48:
 
-    "你按住,你的靴子在雪上紧紧的 是唯一打破静静的声音。"
+    "你继续前行，靴子踩在雪上的咯吱声成了打破寂静的唯一声响。"
 
 translate schinese_rewrite Otsovaara_Introduction_374b9d71:
 
-    "当你冒险深入森林深处时 树丛里突然偷盗 引起你的注意。"
+    "当你深入森林时，灌木丛中突然传来一阵窸窣声，吸引了你的注意。"
 
 translate schinese_rewrite Otsovaara_Introduction_64b82135:
 
-    e "W -谁在那里?"
+    e "谁、谁在那里？"
 
 translate schinese_rewrite Otsovaara_Introduction_938afc45:
 
-    "当你扫描周围时,你的感官会提高, 你的手会直觉地伸手去取武器。"
+    "你警觉起来，扫视四周，手不由自主地伸向武器。"
 
 translate schinese_rewrite Otsovaara_Introduction_e42154ba:
 
-    "有人从树中间跌到你的视线。他的气息被抽喘,衣服被撕破。"
+    "树木之间，一个人跌跌撞撞地闯入你的视野。他喘着粗气，呼吸凌乱，衣衫也破烂不堪。"
 
 translate schinese_rewrite Otsovaara_Introduction_1ddf8d22:
 
-    "那是一只,白毛披肩 披在肩膀上,他的北极蓝学生 看着你的眼睛发光。"
+    "那是一头麋鹿，白色毛皮披肩搭在肩上；当你与他四目相对时，他那双冰蓝色的眼眸闪闪发亮。"
 
 translate schinese_rewrite Otsovaara_Introduction_e4014fa9:
 
-    "他的眼神与你的视线紧紧 绝望在他的眼中。"
+    "他的目光紧紧锁住你，眼中满是绝望。"
 
 translate schinese_rewrite Otsovaara_Introduction_12bd9e8d:
 
-    "不久后,一群武装警卫冲进空地 他们的部落标志在他们的盔甲上有区别。"
+    "片刻后，一群全副武装的卫兵冲进空地，他们盔甲上的部落纹饰格外醒目。"
 
 translate schinese_rewrite Otsovaara_Introduction_a772780e:
 
-    "他的脸像皮草一样白白。当他仰望肩膀时,恐惧已刻在他的脸上。"
+    "他的脸颊变得和毛皮一样苍白。他回头瞥了一眼，恐惧刻在脸上。"
 
 translate schinese_rewrite Otsovaara_Introduction_be03604c:
 
-    "等他说话几秒钟,他却保持沉默。"
+    "你等了几秒，等那人开口，可他却始终沉默。"
 
 translate schinese_rewrite Otsovaara_Introduction_ffef5500:
 
-    e "C -我能帮你吗?"
+    e "我、我能帮你吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_f0b80f4c:
 
-    "他不肯响应,却在冰冷的掌之间握住你的手。他的眼睛恳求,但你们不知道。"
+    "他没有回答，只是把你的手握在冰冷的掌心之间。他的眼神充满哀求，可你不知道该怎么帮他。"
 
 translate schinese_rewrite Otsovaara_Introduction_62364d04:
 
-    "你犹豫不决 紧张地点头 将本能的帮助与 参与你无法完全理解的危机的警惕 撕裂开来。"
+    "你犹豫着紧张地点了点头，想要帮忙的本能与不愿卷入陌生事端的警惕交织在一起。"
 
 translate schinese_rewrite Otsovaara_Introduction_3849f614:
 
-    "在你释放前,陌生人在你面前摆动,然后他转过身来,从你身后的小山上溜下来。"
+    "陌生人轻轻碰了碰你的手，随后松开它；他转身冲下你身后的小山坡。"
 
 translate schinese_rewrite Otsovaara_Introduction_32f5b689:
 
-    bearGuard2 "他走不远,那该死的鹿去哪了?"
+    bearGuard2 "他跑不远的，那个该死的鹿跑哪儿去了？"
 
 translate schinese_rewrite Otsovaara_Introduction_5cb533f4:
 
-    bearGuard "你看见那个戴头罩的人了吗?"
+    bearGuard "你，看到那个戴兜帽的人了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_506c4c79:
 
-    "警卫们很快赶上来 转过来找你 他们的言论要求回答。"
+    "卫兵很快追了上来，转过身面对你，表情逼着你给出答案。"
 
 translate schinese_rewrite Otsovaara_Introduction_7172bcb9:
 
-    "只有当他们靠近的时候 你才能偷看他们的头盔 和他们穿着厚厚毛衣的衣服。"
+    "他们靠近后，你才看清头盔下的面孔，以及衣服上厚厚的毛皮衬里。"
 
 translate schinese_rewrite Otsovaara_Introduction_2d8e96d4:
 
-    "熊卫兵已喘不过气来 迷惑了方向 他们的气息在寒冷的空气中形成云层。"
+    "熊族卫兵气喘吁吁，神情茫然，呼出的气息在刺骨的寒风中凝成云雾。"
 
 translate schinese_rewrite Otsovaara_Introduction_b78a89ca:
 
-    e "你是谁 你要找的人是谁？"
+    e "你、你们是谁？你们要找的那个人又是谁？"
 
 translate schinese_rewrite Otsovaara_Introduction_9aab3891:
 
-    "他的眼睛在缩小,他把你打成大小, 而其他的警卫 四处寻找逃犯。"
+    "他眯起眼打量着你，另一名卫兵则四处寻找逃犯。"
 
 translate schinese_rewrite Otsovaara_Introduction_3e35b1aa:
 
-    bearGuard2 "离这远点 陌生人 这不关你的事。"
+    bearGuard2 "别插手，陌生人！这不关你的事。"
 
 translate schinese_rewrite Otsovaara_Introduction_9bcaf225:
 
-    "你盯着警卫的手 他手里拿着长长的鱼叉 一只会致命的鱼叉。"
+    "你盯着卫兵手里的东西——那是一柄长鱼叉，足以致命……"
 
 translate schinese_rewrite Otsovaara_Introduction_d195e911:
 
-    bearGuard "别浪费我们的时间了,那个人在哪?"
+    bearGuard "别再浪费我们的时间了，那个人在哪儿？我知道他往这边跑了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_e7aa49e5:
 
-    e "我看到他往那里去了。"
+    e "我看到他往那边去了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c6f72e15:
 
-    "你指向错误的方向 充分理解你正在引领他们 走向一个虚假的线索。"
+    "你指向错误的方向，心知肚明自己是在把他们引向一条假线索。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_89d68c97:
 
-    bearGuard "很好。"
+    bearGuard "好。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b43d5edd:
 
-    "他们朝你指的方向前进 脚步在雪中摇摇欲坠 深入泰加森林。"
+    "他们朝你指的方向走去，脚步踩在积雪上咯吱作响，逐渐深入泰加林。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_f76534aa:
 
-    "远处,蒙面人利用转移 继续他疯狂的逃跑, 你看着他点头给你, 跑在警卫的背后。"
+    "远处，戴兜帽的人趁着这场调虎离山继续拼命逃跑；你看着他向你点了点头，然后绕到卫兵身后跑掉了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_a7d25fae:
 
-    "很快,他消失在高大的松树和雪地中,没有留下他下落的痕迹。"
+    "很快，他消失在高耸的松树与雪堆之间，没留下任何踪迹。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_1ce5191a:
 
-    "再一次,你独自站在安静的泰加, 雪覆盖的风景 笼罩着你的孤独。"
+    "你再次独自站在寂静的泰加林中，白雪覆盖的景色将你包围在孤独里。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b4f781f7:
 
-    "你摇摇头,也许这是天天发生的 无情的雪在这里, 但正如警卫说, 你也许最好不要管这件事。"
+    "你摇了摇头。也许这种事在这里严酷的冰雪中每天都在发生，但正如那名卫兵所说，你最好还是别插手这件事。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_429bb72c:
 
-    "突然间, 安静被脚步声的接近打破。"
+    "突然，寂静被逐渐靠近的脚步声打破。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b97b807f:
 
-    "当你转身时,你又被另一个警卫欢迎了 他的盔甲装饰着复杂的部落标志 这次没有临时头盔。"
+    "你回头时，迎面而来的是另一名卫兵。他的盔甲上饰有精细的部落纹样，这次没有戴临时拼凑的头盔。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_cac5ea13:
 
-    "他的毛是白色的, 年轻时的表情 在他的脸上,他独自到达。"
+    "他的毛皮洁白如雪，脸上带着年轻的神情，独自走了过来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3c2ef644:
 
-    bearCommander "对不起,先生,请留下,至少等我们做完再说。"
+    bearCommander "请、请等一下，先生，至少在我们处理完之前请留下。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d3ada9c3:
 
-    "你等待着卫兵问另一个问题, 而唯一听到的是你听到的, 就是清晰而深刻的音调, 当他把喇叭吹到嘴唇上,轻轻地吹。"
+    "你等着卫兵再问些什么，可听到的却只有清越而深沉的号角声——他抬起号角贴在唇边，轻轻吹响。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_42e8c608:
 
-    "你可以感觉到整个森林都在震动, 在整个积雪的地面上反响。 行动号召也许提醒了其他的守卫,因为你们看到他们很快放弃追逐。"
+    "你能感觉到整片森林都在震颤，回响穿过覆雪的大地。这个行动信号很可能惊动了其他卫兵，因为你看到他们很快放弃了追捕。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c01536b9:
 
-    "另一股响亮的角回响声, 同时卫兵也朝白熊警卫的方向前进。"
+    "又一声响亮的号角回荡开来；与此同时，卫兵们已经朝那名白熊卫兵赶去。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_ea6566ed:
 
-    "很快,你被同一个守卫包围 仅仅一分钟前就追着那个戴面罩的人。"
+    "没过多久，你便被刚才追赶戴兜帽之人的那群卫兵包围了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_4b02ae7a:
 
-    bearGuard "你确已明知故犯地把我们引入歧途,我们本来可以抓住他的。"
+    bearGuard "你！你明知故犯，把我们引入了歧途！我们本来当场就能抓住他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d9c32f51:
 
-    "其中一只熊用严酷的言辞接近你,他用他的指控指着他的鱼叉对准你。"
+    "一头熊神情严厉地朝你走来，指责你的同时用鱼叉指着你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c19b1672:
 
-    bearCommander "Calm down-"
+    bearCommander "冷静点——"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5db00fd7:
 
-    bearGuard2 "赫德怎么会和你们一起密谋?"
+    bearGuard2 "怎么回事！赫德是不是和你串通好了？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_ad3d1a81:
 
-    "双手举起时要小心翼翼 双手在冰冷的空气中挂得很重 你的心脏跳得很快 鱼叉尖离你胸口只有几英寸。"
+    "你防备地举起双手，在刺骨的空气中双臂沉重地垂着。鱼叉尖端离你的胸口仅有几英寸，你的心脏狂跳不止。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_e68ec5b6:
 
-    "其余的警卫都保持沉默 连白熊也急切地等着你回应。"
+    "其余卫兵都安静下来，就连那头白熊也焦急地等待着你的回答。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d58d2031:
 
-    e "他看起来很怕你们 我甚至不认识这里的任何人。"
+    e "我、我确实这么做了，他看起来很害怕你们，而且我在这里一个人都不认识。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3325b28d:
 
-    bearGuard "你知不知道你跟谁说话?"
+    bearGuard "什、什么？你难道想象不到自己这么做的后果吗？你知道自己在和谁说话吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_afc4c7cd:
 
-    "你无法理解,也许是因为你可能从来没有听说过这个名字, 但是,这只是一个想法 你不敢大声说出来。"
+    "你完全无法想象，也许是因为你以前根本没听说过那个名字；但这只是个你不敢说出口的念头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_86e68085:
 
-    "卫兵的面色被愤怒笼罩, 你可以感觉到鱼叉的一角 插进你胸口的毛皮里, 在你皮肤薄薄的边缘。"
+    "卫兵们的脸色因愤怒而阴沉下来。你感觉鱼叉尖端刺进胸前的皮毛，几乎就要刺穿你薄薄的皮肤。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_1eb363a3:
 
-    bearGuard2 "指挥官,我们应该抓住他 考胡局长需要知道这里发生了什么。"
+    bearGuard2 "指挥官，我们应该把他抓起来。考尔胡酋长需要知道这里发生了什么。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_dfa0ca92:
 
-    "指挥官点头和前进步骤,他的举止仍然组成,与其他警卫的愤怒大不相同。"
+    "指挥官点了点头，向前迈步，神态依然镇定，与其他卫兵的怒火截然不同。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_917bb259:
 
-    bearCommander "不用说,陌生人,你的行动妨碍我们的任务。"
+    bearCommander "不用说，陌生人。你的行为妨碍了我们的行动。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_589d8308:
 
-    "他转过身来 向你倾斜 他的语气很严厉和舒缓 你绝对不会想象那声音来自熊 但说实话 你以前从未见过 靠近你所知的熊。"
+    "他转向你，语气严厉却又令人安心。你无论如何也想不到，这样的声音会出自一头熊；不过说实话，据你所知，你还从没近距离见过熊。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_2bbc6a2a:
 
-    bearCommander "但我不明白你为什么要承认任何事 如果你真的有罪的话。"
+    bearCommander "不过，如果你真的有罪，我不明白你为什么要承认任何事情。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_ff4802f8:
 
-    e "是的,我真的不知道他是个坏人, 我刚到这里,我什么都不知道..."
+    e "是、是的，我真的不知道他是坏人。我才刚到这里，什么都不知道……"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_14bf1634:
 
-    bearCommander "你要去哪里?"
+    bearCommander "你要去哪里？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_79831fc5:
 
-    e "我不确定,我只是四处旅行。"
+    e "我也不确定，只是四处旅行而已。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_f53b9604:
 
-    bearCommander "探险家..."
+    bearCommander "一个冒险者……？好吧，我们感谢你的好意，你可以继续前——"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d85541b6:
 
-    bearGuard "指挥官,你不觉得,警长想见见这个人 自己判断吗?"
+    bearGuard "指挥官，您不觉得酋长应该见见这个人，亲自做出判断吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c8bc3a91:
 
-    "一名老卫兵从后面切开白熊, 卫兵交换眼神,同时点头。"
+    "后面一名年长的卫兵打断了白熊的话，卫兵们交换着眼神，同时点了点头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5720ea58:
 
-    "他的话语举止令人震撼,但并不令人惊讶。如果是你的长辈回到你的土地上,他绝不会让追随者这样不尊重他。"
+    "他的表情看起来很震惊，却又并不怎么意外。要是换作你故乡的长辈，他绝不会允许追随者那样对自己无礼。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_29ff317d:
 
-    e "我不知道他往哪里去了 我一定是弄错了 但我不知道。"
+    e "不！我不知道他要去哪儿。我一定是搞错了，但我真的不知道。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_61f8b7d3:
 
-    bearGuard "你以为你在骗我们?"
+    bearGuard "你以为能骗过我们？你以为当面撒个谎就能全身而退？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_65971ac3:
 
-    "第一个警卫的脸满脸愤怒 拳头紧握着你的响应 感觉鱼叉开始穿透你的皮肤。"
+    "第一名卫兵的脸因愤怒涨红，双拳随着你的回答紧紧攥起；你感觉鱼叉开始刺穿你的皮肤。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_0b9bac99:
 
-    "其余的卫兵,同样地愤怒,紧紧地围在你的周围。他们互喊热声的低语和尖锐的眼神,他们明确辩论自己的行动方针。"
+    "其余卫兵同样怒不可遏地向你围拢。他们交换着激烈的低语和严厉的目光，显然正在争论该如何处置你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_95e80b4d:
 
-    "你不知道是什么让你走到了这个地步 为何这次短暂的遭遇 变成了可能夺走你生命的东西。"
+    "你不知道自己为什么会走到这一步，这次短暂的相遇怎么会变成一场险些让你当场丧命的灾难。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_4fbd910c:
 
-    bearCommander "奇怪的是,他是真正的无辜, 你们是否都宁愿把错失行为归咎于恶意, 而不是纯无知?"
+    bearCommander "他真的无罪的可能性有多大？你们难道宁可把过错归咎于恶意，也不愿承认那只是单纯的无知吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5b479586:
 
-    bearGuard "指挥官,我们都知道他在撒谎 他一定和赫德在一起。"
+    bearGuard "指挥官，我们都看得出来他在撒谎，他一定和赫德是一伙的。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d66d3371:
 
-    bearCommander "赫德能给他什么,一个陌生人 他冒着生命危险去冒险?"
+    bearCommander "赫德能给他这个陌生人什么，值得他拿自己的性命去冒险？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_24950ce1:
 
-    bearCommander "就算他在撒谎 也可能因为他害怕你们 不是吗?"
+    bearCommander "就算他在撒谎，也可能只是因为害怕你们所有人，对吧？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_64005138:
 
-    "他笑着转过来看你 你不明白他为什么要做这个 作为你从未见过的部落的指挥官 但至少警卫的敌意已经消退了。"
+    "他对你露出一丝微笑。你不明白他为什么会这样做，毕竟他可是一个你从未见过的部落指挥官；但至少，卫兵们的敌意平息了一些。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_9c9dfb55:
 
-    bearGuard "指挥官,你不认为,如果我们不确定是哪一个呢?"
+    bearGuard "不过，指挥官，如果我们无法确定真相，您不觉得还是让酋长来决定比较好吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c197e3e0:
 
-    bearGuard2 "至少应该通知局长,在局长做出任何判断之前,我们应该把他关起来。"
+    bearGuard2 "至少应该把他的事报告给酋长。在酋长做出判断前，我们应该先把他关起来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_55f8861f:
 
-    "白熊点头 他的表情很平静 但你可以看到他眼里犹豫不决。"
+    "白熊点了点头，神情平静，但你看得出他眼中仍有犹豫。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d2ca96a0:
 
-    bearCommander "陌生人,你愿意和我们一起做个证人吗?"
+    bearCommander "我、我明白了。那么，陌生人，你愿意跟我们走一趟，作为证人做个简短的说明吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_f1d595d2:
 
-    e "U-uh..."
+    e "呃、呃……"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_1483d5b2:
 
-    "在指挥官服完刑之前 警卫已经在努力铐住你的手 说实话 你开始觉得他们打算当场对你定罪。"
+    "指挥官的话还没说完，卫兵们就已经开始给你铐上手铐了。说实话，要不是指挥官在场，你开始觉得他们打算当场给你定罪。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_e75923c7:
 
-    bearCommander "请解开我们的客人的手铐 我们不希望他在考胡判决前受伤。"
+    bearCommander "请解开客人的手铐，我们不想让他在接受考尔胡的裁决前受伤。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_bd813fc4:
 
-    "你注意到警卫们越来越不耐烦了 但他们很快就服从了。"
+    "你注意到卫兵们变得更加不耐烦，但他们很快照做了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_35fa37cd:
 
-    bearGuard "跟着我们,陌生人 如果我看到你到处乱跑,我会毫不犹豫地用我的鱼叉刺穿你。"
+    bearGuard "跟紧我们，陌生人。要是让我看到你到处乱跑，我会毫不犹豫地用鱼叉刺穿你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_22836183:
 
-    "你不知道他是暗示性还是字面意思,也许后半句,但无论如何你都逃不掉。"
+    "你不确定他是在暗示什么，还是在字面上威胁你，大概是后者。不过反正你也不可能逃出这个局面。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_03523d96:
 
-    "守卫带领你穿过雪覆盖的荒野 假设指挥官从你身后跟着你。"
+    "卫兵们带你穿过白雪覆盖的荒野，而那位所谓的指挥官则从你身后跟来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3d67de1a:
 
-    bearCommander "游民,你叫什么名字?"
+    bearCommander "旅行者，你叫什么名字？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5031b55a:
 
@@ -355,223 +355,223 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_5031b55a:
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_1e22f690:
 
-    "他拍拍你的肩膀, 信号你走在他身边, 这吸引了一些目光 从前面的卫兵。"
+    "他拍了拍你的肩膀，示意你走到他身边；这引来了前方几名卫兵的侧目。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d6624356:
 
-    d "我叫大吉 熊部落的指挥官。"
+    d "我叫达吉，是熊族的指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c62c8f11:
 
-    d "你刚刚看到的那只鹿人 Herd 我们试图找到他 但他一直躲着我们 我们担心他可能计划要对付我们部落。"
+    d "你刚才见到的那头麋鹿赫德，我们一直在追踪他，可他不停地逃离我们。我们担心他可能在策划对熊族不利的事情。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c0e98d26:
 
-    e "你为什么现在告诉我这些?"
+    e "你为什么现在告诉我这些？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_138bfcfa:
 
-    d "我不认为你亲自和赫德有关系 所以,我希望你准备好 和我们的头儿[e]见面。"
+    d "我不认为你和赫德有私人牵连，所以我希望你在见到我们的酋长时做好准备，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b5d95df5:
 
-    "你敬佩地点头 戴吉司令点头 慢慢地走到前面 跟着守卫走。"
+    "你恭敬地点了点头，达吉指挥官也点头回应。他慢慢走到前方，而你跟着卫兵们继续前进。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3156cef1:
 
-    "过了一段时间 厚厚的泰加河 向一条 沿着一条路 顺着这条路向下倾斜 向着一个满是雪的山谷。"
+    "过了一段时间，茂密的泰加林让位于一条被人踩得很实的道路，蜿蜒向下通入积雪覆盖的山谷。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_604182cc:
 
-    "高高的松树逐渐稀释,代之以村庄周围和下面的无穷无尽的景观。"
+    "高耸的松树逐渐变得稀疏，取而代之的是周围以及下方绵延展开的村庄景色。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_418fda52:
 
-    "已经听到响亮的叮当声, 一些木轮在自己旋转, 满车货物在村里到处漫荡。"
+    "你已经听见响亮的铿锵声，一些木制车轮自行转动着，装满货物的车子散布在村庄各处。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_2ea15c13:
 
-    "你走起来 和其中一名警卫谈谈。"
+    "你走上前，和一名卫兵搭话。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_060dbb33:
 
-    e "嘿,这是熊部落吗?"
+    e "喂，这里就是熊族吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_dbda6625:
 
-    "你至少会期待点头,但他没有回应,甚至没有给你一个值得的一眼。所以你赶快回到后面,让卫兵带你离开。"
+    "你至少以为他会点个头，可他毫无回应，甚至不屑给你一个像样的眼神。于是你赶紧退回后方，任由卫兵们带你离开。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_9c216a74:
 
-    "守卫们护送你回到他们的村庄 他们的冷冻沉默只因村庄本身的吵闹而破碎。"
+    "指挥官不情愿地挥了挥手，卫兵们护送你回到他们的村庄；刺骨的沉默中，只有村庄本身的喧闹声不时响起。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_96052180:
 
-    "他们家的屋顶被厚厚的雪覆盖 你很快就被雪的楼梯拖上 通往一座桥。"
+    "他们房屋的屋顶覆盖着厚厚的积雪，很快你就被带上一段积雪阶梯，通向一座横跨深邃冰缝的桥。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_54e5e2f3:
 
-    "酋长厅在桥的另一边等着, 象其他建筑一样, 结构非常庞大,尽管更宏伟。"
+    "桥的另一侧便是酋长大厅，一座与其他建筑一样气势逼人的建筑，只是宏伟得多。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_2e70bce7:
 
-    "达吉的手势 让你跟随他, 你走过桥, 冰冷的风 咬着你的皮毛。"
+    "达吉示意你跟上他。你走过桥，刺骨的寒风刮过你的皮毛。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_0b59a5b9:
 
-    "在议会内部,你听到一些来自定居点内部的咳嗽声。"
+    "你在议事厅里听见聚落深处传来几声咳嗽。王座周围围着顾问和长老，他们正彼此交谈。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_8b19c9f5:
 
-    "当你进入房间时 房间突然沉默 集体凝视的重量 落在你和守卫身上。"
+    "你一走进来，房间便骤然陷入寂静，他们集体投来的目光沉甸甸地落在你和卫兵身上。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_233b5d36:
 
-    d "长官!你没事吧?"
+    d "酋长！您还好吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c435d1aa:
 
-    "有个声音呼唤酋长 当你看到指挥官在王位前跑来跑去时。"
+    "你看到指挥官跑到王座前，同时有个声音呼唤着酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d65cc3c3:
 
-    "坐在王座上的是一只棕色的老熊,他的皱纹深深地扎进他风湿的脸。他再次咳嗽,引起年轻指挥官的注意。"
+    "王座上坐着一头年迈的棕熊，饱经风霜的脸上刻满深深的皱纹。他又咳了一声，吸引了年轻指挥官的注意。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_4eec777d:
 
-    "他的胡子,一连串的冰白,乱七八糟的 挂在棕色小块上。"
+    "他的胡须像瀑布般洁白冰冷，凌乱地垂在棕色的胡茬周围。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_75507288:
 
-    bearChief "我没事,你这个小雪球。"
+    bearChief "我没事，你这个小雪球。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b8236f47:
 
-    "棕熊清清了他的喉咙, 然后看着在你面前的警卫们, 简短地说。"
+    "棕熊清了清嗓子，然后短暂地瞥了一眼你前方的卫兵。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_35e470cc:
 
-    bearChief "怎么了 那个混蛋在哪里 十分钟前他不应该在我监狱里腐烂吗？"
+    bearChief "怎么回事？那个狗娘养的呢？十分钟前他不就该在我的牢里烂着了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_aee11ff2:
 
-    bearGuard "考胡C总长,我们还没抓到他 但我们找到了他的同伙之一。"
+    bearGuard "考、考尔胡酋长，我们还没抓到他，但找到了他的一个同伙。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_0f137984:
 
-    "双熊在王座上 眉毛都缠着这个指控 眼睛越宽越好。"
+    "你身旁的熊族卫兵指向你，你瞪大了眼睛；王座上的两头熊都因这番指控而皱起眉头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_8a8f3080:
 
-    e "我对牧民一无所知 这是我第一次来这里。"
+    e "我、我什么都不知道！这是我第一次来这里。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d83fe2e8:
 
-    bearGuard "我们抓到他试图转移我们注意力 阻止我们抓捕牛群 他帮助他逃跑。"
+    bearGuard "我们抓到他想分散我们的注意力，好让我们抓不到赫德；是他帮赫德逃走的。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_a081d382:
 
-    "酋长周围的长老们互相看一眼,然后他们散开,走开,暴露了老酋长在王位上倒下,举起眉毛。"
+    "酋长周围的长老们面面相觑，随后四散走开，露出靠在王座上的老酋长，他挑起了眉毛。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_aeda43cc:
 
-    kh "解释一下你自己。"
+    kh "解释一下。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3b269090:
 
-    e "我从未来过这里,也没见过你们 我走过路,看到卫兵追着某人。"
+    e "呃，我从没来过这里，也没见过你们。我只是路过，看到卫兵们在追一个人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b5cb78f1:
 
-    "酋长认真倾听,他的眼睛 几乎是无情的,他吸收了你的言语。"
+    "酋长专心听着，吸收你的话语时，目光几乎没有从你身上移开。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_6a2ce497:
 
-    e "我想救那个可怜的家伙,所以我... 可能已经带领警卫到别的地方了 这样他就可以逃脱了。"
+    e "我想救那个可怜的家伙，所以我……可能把卫兵引到别处，好让那个人逃走。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5e8ddf26:
 
-    e "但我什么都不知道!"
+    e "但我什么都不知道！"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c1e591fe:
 
-    e "我没有看得很清楚 所以当他们问我时 我可能指向了错误的方向。"
+    e "我没看清他，所以他们问我的时候，我可能指错了方向。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_4e3d063c:
 
-    d "我们仍不知道赫德昨天在做什么 我们得先找到他!"
+    d "我们仍然不知道赫德昨天在做什么。我们得先找到他！"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_75b7be9f:
 
-    "司令官表示,他保证过。"
+    "指挥官斩钉截铁地喊道。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_7df1300f:
 
-    bearGuard "那我们现在应该把这张奇怪的脸锁在那里 这样我们其他人就可以专心跟踪他。"
+    bearGuard "那我们现在就该把这个陌生人关到下面去，这样我们其他人就能专心追查他了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_61e7817c:
 
-    d "不,他没有参与,我们需要先弄清楚昨天发生了什么。"
+    d "不，他没有参与其中，我们得先查清昨天发生了什么。没有证据，不能就这么把他关起来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_f9263b8d:
 
-    bearGuard "我们不能就这样放他走 我们得马上把他关起来"
+    bearGuard "他是个陌生人，还在对我们撒谎。我们不能就这么放他走，得马上把他关起来——"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_38b03904:
 
-    kh "够了!"
+    kh "够了！"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_37a373b8:
 
-    "头领的钟头,他的耐心已经磨损 将他的手击倒在王位的侧面。"
+    "酋长怒吼着，一边将手重重拍在王座侧边，一边显露出耐心已尽。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d55c230e:
 
-    kh "而不是不停地在我的王位前争论 不如专心处理手头的任务 我需要那袋狗屎马上被抓起来。"
+    kh "与其在我的王座前没完没了地争吵，不如专心处理眼前的事。我要你们现在就把那坨狗屎抓回来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b75dcfdd:
 
-    "他环顾大厅 向警卫们和其他所有人讲话 很明显他想保持冷静 压抑他的愤怒。"
+    "他环视大厅，对卫兵和其他所有人说道。显然，他正努力压住自己的怒火。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_ca834708:
 
-    kh "在我们发现他昨天的意图之前 千万不要在我的部落周围散布无意义的谣言。"
+    kh "在查清他昨天究竟想做什么之前，谁都不许在我的部落里散播毫无意义的谣言。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_13caaecb:
 
-    kh "不然我就把你的头放在盘子上 免得你们都知道,明白吗?"
+    kh "否则，在你们所有人反应过来之前，我就会把你的脑袋端上盘子，明白了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_2458825a:
 
-    "房间再次沉默。"
+    "房间再次陷入沉默。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_f26f875e:
 
-    kh "你被开除了。"
+    kh "你们可以退下了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_78a38220:
 
-    "警卫们点头,在回过头离开房间之前,他们用不情愿的眼神交换床头。"
+    "卫兵们点了点头，不情愿地交换了几个眼神，然后转身离开房间。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_db4b3409:
 
-    d "谢谢,长官。"
+    d "谢谢您，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_4ffabde8:
 
-    kh "戴吉指挥官,警卫,他们现在是你的了 我希望你们的人能有更好的纪律和团结。"
+    kh "达吉指挥官，卫兵们现在归你管了。我希望你手下的人能有更好的纪律和团结。用好你学到的东西。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c9a4bb3e:
 
-    kh "别再让我担心你了。"
+    kh "别再让我为你担心了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_e1ec5dd5:
 
-    "头儿咳嗽声很大 之前你用粗鲁的声音说话。"
+    "酋长大声咳嗽了一声，然后用更加沙哑的声音转向你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_8a42e3c1:
 
-    kh "你,你叫什么名字?"
+    kh "你叫什么名字？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b81630a4:
 
@@ -579,95 +579,95 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_b81630a4:
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c7497259:
 
-    kh "哦,一个信使,有给我的信吗?"
+    kh "哦，快递员？有我的信吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_7b720758:
 
-    e "不,我只是路过。"
+    e "不、不……我只是路过。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3afd34dd:
 
-    "Kaurhu摇头。"
+    "考尔胡摇了摇头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5271a0ec:
 
-    kh "[e],回南边去处理你自己的事吧 我们有很多麻烦要处理,我不需要再有苍蝇在我耳边晃来晃去。"
+    kh "[e]，回南边做你自己的事去。我们已经有够多麻烦要处理了，不需要再有一只苍蝇在我耳边嗡嗡叫。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3bf3f47f:
 
-    kh "我老实说,别和我们的家人谈论今天发生的事, 否则我会亲自送你去监狱。"
+    kh "我也直说了，今天发生的事，不许你向我们的族人透露半句。否则我会亲自把你送进牢里。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_bdfe0c46:
 
-    kh "我清楚了吗?"
+    kh "听明白了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_ebb3934e:
 
-    kh "指挥官 护送[e]离开我们部落 安静 我们不会再接待任何访客了。"
+    kh "指挥官，安静地护送[e]离开我们的部落。我们不再接待任何访客。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_68b42240:
 
-    d "是的,长官。"
+    d "是，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_315eafbb:
 
-    "达吉指挥官站在你身后 并举手带领你前进。"
+    "达吉指挥官站在你身后，示意你跟他走。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_eea9ee39:
 
-    d "[e],这边走。"
+    d "这边，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b9ac8776:
 
-    "你指向你身后的小山丘 充分理解你在协助守卫追击。"
+    "你指向身后的小山坡，完全明白自己是在帮助卫兵追捕那个人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f69e4267:
 
-    e "他..."
+    e "他……他往那边下去了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cddf67e7:
 
-    "第一个警卫点头很赞, 他的威吓行为稍稍软化了一点。"
+    "第一名卫兵赞许地点了点头，威吓的神态稍稍缓和。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_89d68c97:
 
-    bearGuard "很好。"
+    bearGuard "好。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f470ecb1:
 
-    "他怒吼不已,卫兵们顺从你所指明的道路,每一步都往下走。"
+    "他咕哝了一声，卫兵们沿着你指的路，一步步向下走去。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7261763c:
 
-    bearGuard "就在那里..."
+    bearGuard "就在那儿……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4454884b:
 
-    "你看着他们下下一座小山, 他们的脚步被厚厚的雪雪蒙住, 但他们不小心说话的方式,。"
+    "你看着他们走下小山坡，厚厚的积雪消去了脚步声，可他们说话时毫不小心；这么大的动静，肯定会惊动藏在附近的人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_31149557:
 
-    bearGuard "我看到h"
+    bearGuard "我看见他——"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c820e960:
 
-    "一瞬间,戴面罩的人从树后面摔开,卫兵立即喊叫,喊叫。"
+    "转瞬间，戴兜帽的人从树后猛地冲出，卫兵们立即大喊着呼唤他的名字。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5fa64d46:
 
-    bearGuard "嘿!停在那儿!"
+    bearGuard "嘿！给我站住！"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_bdb4f9ed:
 
-    bearGuard2 "牛群,你不能永远逃跑。"
+    bearGuard2 "赫德，你不可能永远逃下去。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f9f48b2b:
 
-    "警卫看到那个人即将逃跑,紧紧地握住他的武器,紧紧地闭上一只眼睛,当他瞄准那个人时。"
+    "看到那人就要逃走，卫兵紧紧握住武器，闭上一只眼瞄准他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c8b7d39e:
 
@@ -675,187 +675,187 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_c8b7d39e:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_febd8989:
 
-    "就像他似乎正在从你的视线消失一样, 鱼叉的放大穿过冷冻的空气, 穿透逃犯的肩膀。"
+    "就在他看起来要从你视野中消失时，一柄鱼叉划破刺骨的空气，刺穿了逃犯的肩膀。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_e3799ab6:
 
-    "你听到一个响亮的喊叫声 人痛哭, 但他继续摇晃, 留下一个血迹 在白雪上。"
+    "你听见那人痛苦地发出一声惨叫，可他仍踉跄着继续前进，在白雪上留下一道血迹。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d455e151:
 
-    e "哦不..."
+    e "哦，不……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d5e874bf:
 
-    "守卫们迅速追逐 他们的重靴子在雪地里紧紧地划过。"
+    "卫兵们迅速追了上去，沉重的靴子踩在雪上咯吱作响。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_0de17a6c:
 
-    "尽管受伤,他设法在自己和卫兵之间拉开一些距离,在卫兵继续追逐时,沉重的呼吸回响。"
+    "尽管受了伤，那人还是设法拉开了与卫兵的距离；卫兵不断追赶，沉重的喘息声回荡在空气中。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d0fd85dc:
 
-    "你小心跟随着警卫, 你不可能离开这个地方 却不知道他发生了什么事。"
+    "你小心翼翼地跟着卫兵；在弄清那个人发生了什么之前，你没法离开这里。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5735354a:
 
-    bearGuard2 "S -shit。"
+    bearGuard2 "糟、糟了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_975fc557:
 
-    "你注意到血迹在时间上似乎要厚得多 这不是好兆头..."
+    "你注意到血迹越来越浓，这可不是个好兆头……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_95f67cea:
 
-    "在你终于赶上两个警卫之前 可以从远处听到长角声。"
+    "远处传来一声悠长的号角，你终于追上了那两名卫兵。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4635efd8:
 
-    "追逐之后,你面前的两只熊终于停下来了 但你感觉到了些东西,很怕他们。"
+    "追逐之后，前方的两头熊终于停了下来，可你感觉他们身上透着某种诡异。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_74c1099d:
 
-    "你盯着他们的背部, 头垂下去, 似乎专注于前方的东西。"
+    "你盯着他们的背影；他们垂着头，似乎正专注于前方的某样东西。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a9e9d1ce:
 
-    "呼喊声变成了完全的沉默,几乎是令人惊恐的,知道他们几分钟前刚刚派出了一只鱼叉。"
+    "喊声彻底变成了寂静。想到他们几分钟前才投出一柄鱼叉，这种转变几乎令人不适。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_890653d7:
 
-    "出于好奇,你接近, 当你从熊后面偷看..."
+    "出于好奇，你走上前去，从熊的身后探头望去……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_106cc465:
 
-    "躺在雪上,你刚刚看到的那个人 现在被血淋淋的血淋淋。"
+    "你刚才见到的那个人躺在雪地上，此刻已浸泡在一片血泊中。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_216b0d45:
 
-    "鱼叉似乎从背后穿透了深处 几乎可以从另一边出来。"
+    "鱼叉似乎从他后背刺入极深，几乎要从另一侧穿出来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d0cfe77c:
 
-    "他的眼睛几乎睁不开,却再不闭眼。呼吸的缺乏告诉你,他已经死了。"
+    "他的双眼几乎睁不开，却再也不会闭上了。没有呼吸说明他已经死去。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b7693681:
 
-    e "他死了吗?"
+    e "他死了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5e155d06:
 
-    bearGuard "我们刚到..."
+    bearGuard "我们才刚到……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_363bca36:
 
-    bearGuard "妈的,我告诉过你要稳住,建筑师不是为这个而建的!"
+    bearGuard "该死，我叫你稳一点，建筑师可经不起这样！"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d1e812d3:
 
-    bearGuard2 "我不是故意的,我瞄准他的手臂, 我们不得不阻止他,不管是什么。"
+    bearGuard2 "我、我不是故意的，我瞄准的是他的手臂；无论如何我们都得拦住他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_0e2258f5:
 
-    bearGuard2 "我怎么知道他会死... 他看起来没事。"
+    bearGuard2 "我怎么会知道这样会杀了他……他看起来明明没事。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d8b1bd68:
 
-    e "我杀了他吗?"
+    e "我、我刚才杀了他……？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_15ee5ea3:
 
-    "你沉浸在纯粹的悲伤中 你甚至无法理解自己是 导致某人死亡的原因 因为你说的是实话。"
+    "你悲痛得结结巴巴，甚至无法理解自己竟会因为说了实话而成为某人死亡的原因。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_60f9b12c:
 
-    "毕竟,你只是四处游荡, 你怎么能指望五分钟后 有人在你面前被杀?"
+    "说到底，你刚才只是在四处游荡，怎么能想到五分钟后就会有人死在你眼前？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7750c855:
 
-    "你跪在地上 试图得到他的心跳感知 即使血液开始浸透你的毛皮。"
+    "你跪在地上，试图感受他的心跳，鲜血却开始浸透你的皮毛。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a191ddf2:
 
-    "守夜的熊盯着你,他们交换眼神,然后伸出一只手。"
+    "熊族卫兵望着你，交换了几个眼神后伸手相助。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_8d30dc37:
 
-    bearGuard "旅行者,你不会因此受责备的。"
+    bearGuard "这不是你的错，旅行者。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7414be93:
 
-    "他深呼吸。"
+    "他深深吸了一口气。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_de03e0c1:
 
-    bearGuard "他已经走了。"
+    bearGuard "他已经死了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cf8e90d2:
 
-    bearGuard2 "我们如何告诉酋长?"
+    bearGuard2 "我们要怎么向酋长交代？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b6b21f95:
 
-    bearCommander "发生什么事了?"
+    bearCommander "怎、怎么回事？那是谁的血——"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b97b807f:
 
-    "当你转身时,你又被另一个警卫欢迎了 他的盔甲装饰着复杂的部落标志 这次没有临时头盔。"
+    "你回头时，迎面而来的是另一名卫兵。他的盔甲上饰有精细的部落纹样，这次没有戴临时拼凑的头盔。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cac5ea13:
 
-    "他的毛是白色的, 年轻时的表情 在他的脸上,他独自到达。"
+    "他的毛皮洁白如雪，脸上带着年轻的神情，独自走了过来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2cb88725:
 
-    bearCommander "H -HERD!"
+    bearCommander "赫、赫德！"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5033eb48:
 
-    "他喘气,他的眼睛变宽 当他注意到 瘸子的尸体漂浮在血池上。"
+    "他倒吸一口气，看到那具无力的身体漂浮在血泊中时，双眼瞪大。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4c0081b5:
 
-    "两个卫兵一致地转过头来,他们的表情很严酷,但他们保持沉默。"
+    "两名卫兵同时转过头来，神情凝重，却保持沉默。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_629eac0b:
 
-    bearCommander "发生了什么?他是怎么死的?"
+    bearCommander "怎、怎么回事？他是怎么死的？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_56b4ef1f:
 
-    bearGuard2 "我们在追他,他逃跑 所以我想阻止他。"
+    bearGuard2 "我们一直在追他，他在逃跑，所以我想拦住他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_1c5db9c7:
 
-    bearGuard2 "我发誓 我不知道那会杀了他。"
+    bearGuard2 "我不知道那会杀了他，我发誓。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a0db3e45:
 
-    bearCommander "No, no, no, no..."
+    bearCommander "不、不、不、不……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_95d9c832:
 
-    "指挥官的脚步加快,他的眼睛宽, 他的双手在颤抖,他试图理解局势。"
+    "指挥官来回踱步，双眼睁大，双手颤抖着，试图理解眼前的状况。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_1e8cb8d5:
 
-    bearCommander "怎么会这样?"
+    bearCommander "怎么会这样？他不该死的……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_3b3988bb:
 
-    bearGuard "保持冷静,我们直接向局长报告。"
+    bearGuard "冷静点，我们会直接向酋长报告。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7a4169ab:
 
-    "白熊在注意到你之前 看了你几次。"
+    "白熊几次瞥向你，随后才注意到你的存在。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_28be6fd0:
 
-    "他从震荡中迅速自制,他以严酷的表情转过来见你。"
+    "他很快从震惊中恢复镇定，神情严厉地转向你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7eecd151:
 
-    bearCommander "对不起,先生,你和这件事有关系吗?"
+    bearCommander "请问，先生。这件事和你有关吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_209707be:
 
@@ -863,51 +863,51 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_209707be:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_6a8e21d2:
 
-    bearGuard "他是旅行者,我们追牛群时他就在这里。"
+    bearGuard "他是个旅行者，我们追赫德时，他刚好在这里。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_fbe5eba3:
 
-    bearCommander "好吧,你可能需要跟着我们去见考胡酋长。"
+    bearCommander "我明白了……好吧。你可能需要跟我们去见考尔胡酋长，不会花太久时间。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d0e23e7b:
 
-    e "我不知道你们是谁 我刚到这里。"
+    e "跟、跟你们走？我根本不知道你们是谁，我才刚到这里。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_02e8b8fc:
 
-    bearCommander "局长想知道这里发生了什么 请跟我来。"
+    bearCommander "我们的酋长想知道这里发生了什么，请跟我来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4533b03b:
 
-    "你听到一个清晰而深刻的音调 当他把喇叭吹到嘴唇上 轻轻地吹。"
+    "你听见清越而深沉的号角声，他抬起号角贴在唇边，轻轻吹响。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_779bb16c:
 
-    "你可以感觉到整个森林都在震动, 在整个积雪的地面上反响。你已经感觉到更多的守卫来了。"
+    "你能感觉到整片森林都在震颤，回响穿过覆雪的大地。你已经能感觉到还有更多卫兵正在赶来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_127fae5d:
 
-    bearCommander "你们两个,跟住牛群,直到其余的到达, 我会带陌生人去考胡酋长。"
+    bearCommander "你们两个留在赫德身边，等其他人赶到；我带这个陌生人去见考尔胡酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_707363e6:
 
-    "两个卫兵站在你旁边 默默地看着他们 然后再回到指挥官身边。"
+    "站在你身旁的两名卫兵默默交换了眼神，然后转身面向指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b11a6b58:
 
-    bearGuard "是的,指挥官。"
+    bearGuard "是，指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5c09dfca:
 
-    "白熊点头 他转过头来 向你求情 为你指引你跟随他。"
+    "白熊点了点头，转向你，示意你跟上他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_97499c32:
 
-    "他带领你穿过雪覆盖的荒野 你表现出某种形式的不适。"
+    "他带你穿过白雪覆盖的荒野，你显得有些不安。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7c5435a2:
 
-    bearCommander "嘿,你叫什么名字?"
+    bearCommander "喂，你叫什么名字？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5031b55a:
 
@@ -915,51 +915,51 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_5031b55a:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_66768ba4:
 
-    "他拍拍你的肩膀 信号你走在他身边。"
+    "他拍了拍你的肩膀，示意你走到他身边。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d6624356:
 
-    d "我叫大吉 熊部落的指挥官。"
+    d "我叫达吉，是熊族的指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_9fc5aeac:
 
-    e "我们不该和其他警卫一起走吗?"
+    e "我们不该和其他卫兵一起走吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_78c1a5b3:
 
-    d "不,警卫们现在害怕酋长 我是他们的指挥官,所以应该由我先发布新闻。"
+    d "不，卫兵们现在都害怕酋长。而我是他们的指挥官，所以应该由我先去报告这个消息。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_6d318305:
 
-    "你点头 跟着白熊 带领你穿过森林。"
+    "你点了点头，跟着白熊穿过森林。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_faea0369:
 
-    d "你刚才看见的戴头罩的人 名叫赫德。"
+    d "你刚才看到的戴兜帽男人名叫赫德。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_033a733d:
 
-    d "我不知道该怎么解释 但你需要知道的就是 我们需要和他谈谈。"
+    d "我……嗯……我不知道该怎么解释，但你只需要知道，我们本来需要和他谈谈。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5ce7d8ac:
 
-    e "他是坏人吗?"
+    e "他是坏人吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_1e2d80df:
 
-    d "不,他是我们的建筑师 他设计了我们部落的大部分机械结构。"
+    d "不！不……他是我们的建筑师。他设计了熊族大部分机械结构，确保它们不会坍塌之类的。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a506da17:
 
-    d "但是,自从雪崩之后..."
+    d "但是，自从那场雪崩之后……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_6f1d3d44:
 
-    "达格吉指挥官回顾过去几天的事件时,他当时的表情暗淡。"
+    "达吉指挥官沉思了片刻，回想起过去几天发生的事时，神情变得阴沉。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d80d673d:
 
-    d "他不该被杀死 我相信他只是暂时迷失了。"
+    d "他不该就这样被杀，我相信他只是一时迷失了方向。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cdbff688:
 
@@ -967,119 +967,119 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_cdbff688:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_bf3b0151:
 
-    "你转向白熊, 白白地盯着前方看。"
+    "你转向白熊，他正面无表情地望着前方。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_96fd9b1b:
 
-    d "也许我们应该继续前进。"
+    d "我、我们还是继续走吧。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_3156cef1:
 
-    "过了一段时间 厚厚的泰加河 向一条 沿着一条路 顺着这条路向下倾斜 向着一个满是雪的山谷。"
+    "过了一段时间，茂密的泰加林让位于一条被人踩得很实的道路，蜿蜒向下通入积雪覆盖的山谷。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_604182cc:
 
-    "高高的松树逐渐稀释,代之以村庄周围和下面的无穷无尽的景观。"
+    "高耸的松树逐渐变得稀疏，取而代之的是周围以及下方绵延展开的村庄景色。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_418fda52:
 
-    "已经听到响亮的叮当声, 一些木轮在自己旋转, 满车货物在村里到处漫荡。"
+    "你已经听见响亮的铿锵声，一些木制车轮自行转动着，装满货物的车子散布在村庄各处。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_9c216a74:
 
-    "守卫们护送你回到他们的村庄 他们的冷冻沉默只因村庄本身的吵闹而破碎。"
+    "指挥官不情愿地挥了挥手，卫兵们护送你回到他们的村庄；刺骨的沉默中，只有村庄本身的喧闹声不时响起。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f80d273e:
 
-    d "这是我们的小镇 请随便点 我们不会咬人 也不会咬人。"
+    d "这是我们的小镇，请随意些，我们不会咬人，也不会把你撕碎。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f86814ad:
 
-    e "我毫不怀疑。"
+    e "我不怀疑这一点。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_3b27e664:
 
-    d "局长在楼下 请跟我来。"
+    d "酋长在楼下。请跟我来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_da672993:
 
-    "他们家的屋顶被厚厚的雪覆盖 你很快就被雪般的楼梯拖上头 通往一座桥 上面有冰雪的裂缝。"
+    "他们房屋的屋顶覆盖着厚厚的积雪，很快你就被带上一段积雪阶梯，通向一座横跨冰缝的桥。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_54e5e2f3:
 
-    "酋长厅在桥的另一边等着, 象其他建筑一样, 结构非常庞大,尽管更宏伟。"
+    "桥的另一侧便是酋长大厅，一座与其他建筑一样气势逼人的建筑，只是宏伟得多。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2e70bce7:
 
-    "达吉的手势 让你跟随他, 你走过桥, 冰冷的风 咬着你的皮毛。"
+    "达吉示意你跟上他。你走过桥，刺骨的寒风刮过你的皮毛。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_64a4dfcf:
 
-    d "我会向局长简要解释一下情况 你只需要跟着我,[e]。"
+    d "我会向酋长简要说明情况，你只需要跟着我，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5fb4aa30:
 
-    e "好吧,我想会很快和容易?"
+    e "好吧，我想应该会很快，也不会太麻烦？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_672c4768:
 
-    d "取决于你问谁, 但我会尽量让它没有痛苦。"
+    d "这得看你问的是谁，但我会尽量让事情不那么难受。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_8e0ffa7a:
 
-    "在议会内部,你听到一些来自定居点内部的咳嗽声。一个由顾问和长老们讨论的椅子,一些带毛巾的椅子。"
+    "你在议事厅里听见聚落深处传来几声咳嗽。王座周围，顾问和长老们正在讨论，有些人手里还拿着毛巾。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_1977dc4d:
 
-    "当你进入房间时,房间突然变得沉默, 他们集体凝视你和卫兵的重量。"
+    "你一走进来，房间便骤然陷入寂静，他们的目光沉甸甸地落在你和卫兵身上。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_04514cea:
 
-    d "主管,我回来了。"
+    d "酋长，我回来了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c435d1aa:
 
-    "有个声音呼唤酋长 当你看到指挥官在王位前跑来跑去时。"
+    "你看到指挥官跑到王座前，同时有个声音呼唤着酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d65cc3c3:
 
-    "坐在王座上的是一只棕色的老熊,他的皱纹深深地扎进他风湿的脸。他再次咳嗽,引起年轻指挥官的注意。"
+    "王座上坐着一头年迈的棕熊，饱经风霜的脸上刻满深深的皱纹。他又咳了一声，吸引了年轻指挥官的注意。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_ea3b6a54:
 
-    bearChief "很好。"
+    bearChief "太好了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4eec777d:
 
-    "他的胡子,一连串的冰白,乱七八糟的 挂在棕色小块上。"
+    "他的胡须像瀑布般洁白冰冷，凌乱地垂在棕色的胡茬周围。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f339ed94:
 
-    "棕熊环顾四周 似乎在寻找你和指挥官以外的人。"
+    "棕熊环顾四周，似乎在寻找除你和指挥官之外的其他人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_730f1e04:
 
-    bearChief "其余的卫兵呢 你抓到赫德了吗？"
+    bearChief "其他卫兵呢？你们抓到赫德了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_ffe00dd0:
 
-    "棕熊清清了他的喉咙, 然后目击指挥官的简短。"
+    "棕熊清了清嗓子，然后短暂地瞥了一眼指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4bfa236c:
 
-    d "考胡酋长..."
+    d "酋长考尔胡……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cd1541ef:
 
-    "指挥官在试图找到一个词来解释时,避开他的目光,他的表情暗淡。"
+    "指挥官移开目光，神情变得阴沉，试图找出合适的话来解释。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_3ddbc99f:
 
-    kh "怎么了 那个混蛋在哪里 十分钟前他不应该在我监狱里腐烂吗？"
+    kh "怎么回事？那个狗娘养的呢？十分钟前他不就该在我的牢里烂着了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cfe1b6ac:
 
-    d "牧民死了。"
+    d "赫德死了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_23d66e04:
 
@@ -1087,23 +1087,23 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_23d66e04:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a2aaefa8:
 
-    d "他们把牧民的尸体带回这里。"
+    d "他们正在把赫德的尸体带回来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d612d9f8:
 
-    kh "H -如何?"
+    kh "怎、怎么会？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c6a3467a:
 
-    d "他试图逃跑,我的意思是, 格伦和伊洛克失去了他, 我们不小心..."
+    d "他、他想逃跑，我是说，格伦和伊洛赫就快跟丢他了，而、而我们不小心……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_539ce24c:
 
-    d "... 杀了他。"
+    d "……杀了他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_3f3ba6d5:
 
-    d "这个陌生人也在那里 他可以证明我的主张 考胡酋长。"
+    d "这位陌生人当时也在场，他可以证明我说的话，考尔胡酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_50afd1d4:
 
@@ -1111,27 +1111,27 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_50afd1d4:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_af96ba3c:
 
-    "达格吉在整间会议室 将注意力转向你的时候 深呼吸。"
+    "达吉深吸了一口气，整个房间的注意力都转向了你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a081d382:
 
-    "酋长周围的长老们互相看一眼,然后他们散开,走开,暴露了老酋长在王位上倒下,举起眉毛。"
+    "酋长周围的长老们面面相觑，随后四散走开，露出靠在王座上的老酋长，他挑起了眉毛。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_aeda43cc:
 
-    kh "解释一下你自己。"
+    kh "解释一下。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_a64bfa76:
 
-    "头头的脏兮兮的, 他的眼睛固定在你身上, 等待你的反应。"
+    "酋长俯身向前，目光紧盯着你，等待你的回答。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f97f7c8e:
 
-    e "是的 指挥官是对的 长官。"
+    e "是的，指挥官说得没错，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_bea4d7b2:
 
-    kh "你来自哪里,旅行者?"
+    kh "旅行者，你来自哪里？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_ca5ce0e0:
 
@@ -1139,55 +1139,55 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_ca5ce0e0:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2cfc1041:
 
-    kh "你还看到了什么?"
+    kh "你还看到了什么？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2629d267:
 
-    e "看守看见他往山下走,其中一人朝他的方向扔了一个鱼叉。"
+    e "我看到卫兵们追着他继续往山坡下跑，其中一人朝他的方向掷出了一柄鱼叉。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_39ef0673:
 
-    e "他当时在跑,但当我到达时, 赫德已经躺在雪上, 血流成河, 他可能流出血。"
+    e "当时他还在跑，可我赶到时，赫德已经躺在雪地上，身下是一片血泊；他可能已经失血过多了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2d231006:
 
-    kh "呃……"
+    kh "唉……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_e05ea5b6:
 
-    "酋长在理理身体时的叹气。"
+    "酋长叹了口气，挺直身体。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_855b363e:
 
-    kh "可怜的混蛋,他失去了家人,迷失了自己。"
+    kh "可怜的混蛋，他失去了家人，也迷失了自己。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b2c8b151:
 
-    d "伊洛克和其他人要把他带回来 对不起,长官。"
+    d "伊洛赫和其他人现在正把他带回来。我很抱歉，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c954eaa0:
 
-    kh "不,你做的很好,指挥官,我不是怪你。"
+    kh "不，不。你做得很好，指挥官。我没有要怪你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_6cc7afc7:
 
-    d "只是个意外,长官,别怪警卫。"
+    d "这只是个意外，酋长。请您也别怪罪卫兵们。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_284cad06:
 
-    kh "达吉,我们学习前要制造多少意外?"
+    kh "达吉，我们还要经历多少次意外，才会吸取教训？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_6185c055:
 
-    kh "我不是在怪你 但我需要你明白 一个人行动的重要性 我们在谈论的是 赫德 我们在这里失去了谁。"
+    kh "我不是在责怪你，但你必须明白一个人的行为有多么沉重——我们说的可是赫德，我们就这样失去了他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_e1ec5dd5:
 
-    "头儿咳嗽声很大 之前你用粗鲁的声音说话。"
+    "酋长大声咳嗽了一声，然后用更加沙哑的声音转向你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_8a42e3c1:
 
-    kh "你,你叫什么名字?"
+    kh "你叫什么名字？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b81630a4:
 
@@ -1195,431 +1195,431 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_b81630a4:
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c7497259:
 
-    kh "哦,一个信使,有给我的信吗?"
+    kh "哦，快递员？有我的信吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7b720758:
 
-    e "不,我只是路过。"
+    e "不、不……我只是路过。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_3afd34dd:
 
-    "Kaurhu摇头。"
+    "考尔胡摇了摇头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_b441eb64:
 
-    kh "很好。"
+    kh "太好了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_dd070f5b:
 
-    "当他清清喉咙时,你可以听到外面卫兵的脚步声。"
+    "他清了清嗓子，你听见外面传来卫兵们的脚步声。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f3f1286e:
 
-    kh "指挥官 护送[e]离开我们部落 安静地 我需要一些时间跟你的家人谈谈。"
+    kh "指挥官，安静地护送[e]离开我们的部落。我需要些时间和你手下的人谈谈。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_e8653cd0:
 
-    kh "我们稍后再讨论这个问题。"
+    kh "之后再谈这件事。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_68b42240:
 
-    d "是的,长官。"
+    d "是，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_315eafbb:
 
-    "达吉指挥官站在你身后 并举手带领你前进。"
+    "达吉指挥官站在你身后，示意你跟他走。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_eea9ee39:
 
-    d "[e],这边走。"
+    d "这边，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_d1e3c0a6:
 
-    "当您被指挥官护送出议事厅时, 您不得不注意到外面的警卫们 仍然在紧张的紧张气氛。"
+    "指挥官护送你离开议事厅时，你不禁注意到外面的卫兵之间仍有一触即发的紧张气氛。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_ede7768f:
 
-    bearGuard "肮脏的局外人。"
+    bearGuard "肮脏的外乡人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_0c448d58:
 
-    "站在附近站着的卫兵 越过他们的手臂 很明显他们很不安 警长让你无忧无虑。"
+    "附近站着的卫兵嘲弄道，抱起双臂；酋长竟让你安然无恙地离开，显然令他们十分不满。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_21c127a0:
 
-    d "对我们的客人表示尊重 警长已经下定决心了 还是你想改变这个?"
+    d "对我们的客人放尊重点。酋长已经做出决定，还是说你想改变他的决定？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_aef48430:
 
-    "他转过眼来, 回到交换一系列的杂音 你几乎听不见。"
+    "他翻了个白眼，又转回去和其他人低声交谈；那些声音你只能隐约听见。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_0fe624ad:
 
-    "你跟着指挥员Idly, 谁领导出去。"
+    "你漫不经心地跟着指挥官，由他带路离开。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_ae32d696:
 
-    d "他们有时会头脑发热,。"
+    d "抱歉他们刚才的态度，他们有时就是容易冲动。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_e00365d5:
 
-    e "谢谢你的帮助 如果你不在 我不知道该怎么办。"
+    e "谢谢你帮了我，如果没有你，我真不知道该怎么办。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_b2064a9a:
 
-    d "这是我至少能做的。"
+    d "我能做的也只有这些。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_ba34cdfb:
 
-    "他诚恳地看着你。"
+    "他真诚地看了你一眼。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_025517fd:
 
-    e "你还没回答我,谁是赫德?"
+    e "你还没回答我，赫德是谁？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_56c68f3a:
 
-    d "他是部落的前建筑师 他设计和帮助建造了我们部落里大多数的机械结构。"
+    d "他曾是部落的建筑师，设计并帮助建造了我们部落的大多数机械结构。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_0483774c:
 
-    d "车轮,铁路,他承担了困难的工作,利用我们丰富的资源,当时我们感谢他。"
+    d "车轮、轨道，部落丰富的资源都是他想办法利用起来的。当时我们都很感谢他。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_dcc28471:
 
-    e "那你现在为什么要抓他?"
+    e "那你们现在为什么要抓他？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_ea4ae440:
 
-    d "答案满足了吗?"
+    d "这个答案让你满意了吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_866dbcca:
 
-    e "你回答的比我预想的多,真的 你知道你要把我从这片土地上带出去,对吗?"
+    e "你的回答比我预想的多得多，真的。不过，你知道自己是在护送我离开这片土地，对吧？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_f2781f20:
 
-    e "你指望我回来吗?"
+    e "你是希望我回来吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_1cec4d79:
 
-    "白熊的笑容, 但他保持沉默。"
+    "白熊笑了笑，却保持沉默。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_7eb092ea:
 
-    d "这是你的选择,[e],我敢肯定,考胡酋长不会咬掉你的头 如果你回来。"
+    d "要不要回来由你决定，[e]。我相信考尔胡酋长不会在你回来时把你的脑袋咬下来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_7182c529:
 
-    "你试图为达格吉的企图辩护 指挥官不可能毫无理由地 如此对待陌生人。"
+    "你试图为达吉的意图找个合理解释；一个指挥官不可能无缘无故对陌生人这么好。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_460e22cf:
 
-    "除非他想用人来驯服他的卫兵。"
+    "除非他是想利用某个人来驯服自己的卫兵。你试着顺着这个怀疑想下去，可他亲切的笑容已经融化了你的心。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_5d9270bd:
 
-    e "谢谢,达吉指挥官。"
+    e "谢谢你，达吉指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_e4417459:
 
-    "他暂停了你们两人到达牧羊人最后一次见到的森林的时间。一些远处的卫兵还在寻找那个人。"
+    "你们走到赫德最后出现的森林时，他停了下来。远处还有一些卫兵在寻找那个人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_e4e6ebba:
 
-    d "在此之前,如果你想来的话, 和我呆在一起, 不要让自己被警卫先抓起来。"
+    d "赫德被抓到之前，我会一直留在这片森林附近。你要是想过来，就跟着我，别先被卫兵抓住了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_6186867a:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_146766df:
 
-    d "回头见。"
+    d "那就回头见。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_f50bdbc6:
 
-    "当指挥官护送你离开议事厅时,你注意到外面的警卫,还有一只普通熊大小的袋子。"
+    "指挥官护送你离开议事厅时，你注意到外面的卫兵，以及旁边一个和普通熊一样大的袋子。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_1d747fb3:
 
-    "警卫们还在讨论,他们看着你和指挥官,然后进入大厅。"
+    "卫兵们仍在彼此讨论。他们看了你和指挥官一眼，随后进入大厅。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_d215513f:
 
-    d "抱歉你惹了麻烦 [e]。"
+    d "抱歉让你经历了这些麻烦，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_02c1e7b4:
 
-    e "没关系,我想我没想到 这是我第一次和熊部落打交道。"
+    e "没关系吧，我想我没料到自己和熊族的第一次接触会是这样。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_7e7e35ad:
 
-    "你笑了,但指挥官保持沉默。"
+    "你笑了笑，但指挥官保持沉默。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_2fb17b1c:
 
-    d "希望你们原谅我们的麻烦 我们通常不是这样的 自从雪崩以来大家都很紧张。"
+    d "希望你能原谅我们给你带来的麻烦，我们平时不是这样的。自从雪崩以来，所有人都一直神经紧绷。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_52e5f342:
 
-    e "雪崩中发生了什么?"
+    e "雪崩里发生了什么？"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_70d85d22:
 
-    d "哦,嗯,我不是故意的 把这个都扔到你身上,[e]。"
+    d "哦，呃，我不是想把这些全都倒给你，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_a86b0afb:
 
-    e "没关系,但是这的确让我觉得 更糟糕的知道这个..."
+    e "没关系，但知道这件事让我感觉更糟了……赫德。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_d870e3bf:
 
-    "指挥官深呼吸 然后转过来找你。"
+    "指挥官深吸一口气，然后转向你。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_47c8ce6e:
 
-    d "当尘埃落定时,我希望你再次来拜访我们, 也许我可以做你的向导 环绕部落, 作为我个人的道歉。"
+    d "等尘埃落定后，我希望能再见到你来访。就当是我的私人道歉，也许我可以带你参观部落。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_61338293:
 
-    e "我不想成为部落指挥官的负担。"
+    e "你确定吗？我不想成为部落指挥官的负担。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_fbdc1d1a:
 
-    d "我坚持,这是至少我可以为我的客人做的。"
+    d "我坚持。这是我为客人所能做的最少的一点。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_7182c529_1:
 
-    "你试图为达格吉的企图辩护 指挥官不可能毫无理由地 如此对待陌生人。"
+    "你试图为达吉的意图找个合理解释；一个指挥官不可能无缘无故对陌生人这么好。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_7068629e:
 
-    "但看着他的真眼 你只能相信英勇的指挥官。"
+    "但看着他真诚的双眼，你不由得相信了这位勇敢的指挥官。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_cdb2e7c5:
 
-    d "警卫们会在这附近巡逻 尽量别被他们抓到。"
+    d "卫兵会在这附近巡逻，尽量别被他们抓到。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_302e52cf:
 
-    d "我希望看到你身边,[e]。"
+    d "希望能再见到你，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_6186867a_1:
 
-    "你点头。"
+    "你点了点头。"
 
 translate schinese_rewrite Otsovaara_Introduction_Aftermath_5d9270bd_1:
 
-    e "谢谢,达吉指挥官。"
+    e "谢谢你，达吉指挥官。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_7cbceee3:
 
-    "Daggi在收集言词时 肩膀紧紧地紧紧地拉紧了一会儿。"
+    "达吉一时僵住，肩膀绷紧，努力组织着话语。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_e9122ae7:
 
-    d "不久前,山上下雪 雪崩才有人能好好回答。"
+    d "不久前，山上降下了一场雪。在有人能及时妥善应对之前，它变成了雪崩。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_b69a6a32:
 
-    d "那天我们失去了许多人。"
+    d "那天我们失去了很多人。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_7a2c83db:
 
-    e "我很抱歉你们部落的损失。"
+    e "很遗憾你们部落遭受了这样的损失。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_14b7b944:
 
-    d "牧羊人的房子被掩埋了 当我们发现时 他的家人还在屋里。"
+    d "赫德的房子被埋了。我们找到时，他的家人还在里面。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_82ec9292:
 
-    d "他当时也在那里 跪在雪地里 盯着残骸看 好像他还是能用足够长的时间 迫使它倒塌。"
+    d "他也在那里，跪在雪地里盯着废墟，仿佛只要盯得够久，就能让废墟自行散开。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_47fef134:
 
-    d "我想之后我们谁都不知道该对他说什么了。"
+    d "我想那之后，我们谁也不知道该对他说什么。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_6cf1c8ab:
 
-    d "雪崩也伤害了他,他的听力严重受损,后来他听不到我们的声音,他几乎无法看得见我们。"
+    d "雪崩也让他受了伤。他的听力严重受损。之后，他听不见我们说话，也几乎不会再看我们一眼，更别说回应了。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_0d5ce15c:
 
-    d "他停止了正常的饮食,停止了睡眠,他不说话,当有人接近他时,他看起来好像在另一堵雪墙上爬着。"
+    d "他不再好好吃饭，也不再睡觉。他不肯说话；任何人靠近时，他都像是在准备迎接又一堵雪墙。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_6e677b90:
 
-    "达格吉的呼气慢慢地流出来 不太看重你。"
+    "达吉缓缓呼出一口气，没有完全看向你。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_515f9c9d:
 
-    d "我们想给他腾出地方,我大声说出来听起来很可怜,但我们确实试过。"
+    d "我们试着给他腾出容身之处。我这么说听起来很可怜，但我们确实努力过。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_de1a6b43:
 
-    d "最后,他回到了房子的左边,此后他几乎无法与任何人交流。"
+    d "最后，他回到了那座房子剩下的部分；从那以后，他几乎完全不再和任何人交流。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_0a8b4027:
 
-    e "这是不知从何而来。"
+    e "这来得太突然了。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_255e54e9:
 
-    d "也许是因为雪崩,也许是因为幸存了下来,也许是因为后来没能找到他。"
+    d "我想他至少有一部分是在怪我们。也许是怪雪崩，也许是怪自己没能好好活下来，也许是怪我们没能在事后及时找到他。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_4aef3cd2:
 
-    d "我不能说他不该悲伤,他失去了全家,然后大部分人对他保持沉默。"
+    d "我不能说他不该悲伤。他失去了整个家庭，然后世上的大半声音都对他沉默了。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_0f4caf58:
 
-    d "在此之前我认识的牛群 耐心、安心和智慧 比多数部落都信任他。"
+    d "在那之前我认识的赫德很有耐心，能让人安心，也比部落大多数人认为的更有智慧。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_0d442206:
 
-    d "他经常告诉Kaurhu酋长,他建造了这个定居点里一半的东西,这些东西在冬天仍然站立。"
+    d "他经常给考尔胡酋长提建议。这座聚落里还有一半能在冬天挺立的东西，都是他建的。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_7666f08f:
 
-    d "雪崩 后 他 和 他 不同、 自己 保持 自己。 坐在 炉旁、 整夜。 看着 人、 好像 等待 更 糟糕 的 事。"
+    d "雪崩之后，他变得判若两人。他把自己封闭起来。整夜坐在炉子旁。盯着所有人，仿佛在等待更糟的事情。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_dd106483:
 
-    d "昨天,他不知何故进入了市政厅,Kaurhu酋长在他的房间附近抓到他,而没有人知道他已经做了多少。"
+    d "然后就在昨天，他不知怎么进了议事厅。考尔胡酋长在自己的房间附近抓到了他，那时还没人明白他究竟已经走了多远。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_4c7c3fd2:
 
-    e "他有没有试图做点什么?"
+    e "他想做什么吗？"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_bdc44e9d:
 
-    d "不是我看到的,那是使情况更糟的部分原因。"
+    d "据我所见，没有。这正是事情变得更糟的原因之一。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_11abde82:
 
-    d "我们无法审问他,我们无法安慰他,我们抓住他,因为我们不知道还能做什么,他还是逃了出来。"
+    d "我们没法好好盘问他，也没法让他冷静下来。因为不知道还能怎么办，我们把他逼到了角落，可他还是逃走了。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_cdcd96b9:
 
-    d "即使现在我仍不确定 他是如何从议会大厅出来 在每个门前都有警卫。"
+    d "即使到了现在，我仍然不明白，他是怎么在每扇门都有卫兵把守的情况下逃出议事厅的。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_55cc409d:
 
-    d "之后,一支巡逻队看见他试图逃离部落,所以他们追赶到森林里。"
+    d "之后，一支巡逻队看到他试图逃离部落，于是追进了森林。"
 
 translate schinese_rewrite Daggi_Asking_About_Herd_7ebc7b49:
 
-    d "而且你已经知道接下来发生了什么了。"
+    d "接下来发生了什么，你已经知道了。"
 
 translate schinese_rewrite Kaurhu_Dialogue_2c474a62:
 
-    "当你走上王位时 棕熊在周围抓住你 但只眨几眼就注意到你的存在。"
+    "你走到王座前时，棕熊从余光中捕捉到了你，却眨了几下眼才真正注意到你的存在。"
 
 translate schinese_rewrite Kaurhu_Dialogue_7bf1aafa:
 
-    kh "哦,太好了,快递员回来了,我说过我们不接受任何访客。"
+    kh "哦，太好了，快递员又回来了。我不是告诉过你，我们不接待任何访客吗？"
 
 translate schinese_rewrite Kaurhu_Dialogue_220ad570:
 
-    e "对不起,高虎总长 我想戴吉指挥官不会介意的。"
+    e "对、对不起，考尔胡酋长，我想达吉指挥官不介意。"
 
 translate schinese_rewrite Kaurhu_Dialogue_c8fca389:
 
-    kh "我不管达格吉说什么 我是这里的主管 我说我们不接受任何访客。"
+    kh "我不在乎达吉说了什么，我才是这里的酋长，我说了不接待任何访客。"
 
 translate schinese_rewrite Kaurhu_Dialogue_22ef990f:
 
-    e "对不起,我马上离开。"
+    e "对不起，我马上离开。"
 
 translate schinese_rewrite Kaurhu_Dialogue_6ce34af3:
 
-    kh "好..."
+    kh "很好……"
 
 translate schinese_rewrite Kaurhu_Dialogue_e44c782f:
 
-    "头领在你转身时 眉毛会转弯。"
+    "你转身时，酋长皱起眉头。"
 
 translate schinese_rewrite Kaurhu_Dialogue_d0b8690e:
 
-    kh "一个合适的信使应该是一个 卑微的顺从者吗?"
+    kh "一个像样的快递员，应该这么没有骨气、卑躬屈膝吗？"
 
 translate schinese_rewrite Kaurhu_Dialogue_b6cab2b3:
 
-    e "对不起,考胡酋长。"
+    e "啊？对、对不起，考尔胡酋长。"
 
 translate schinese_rewrite Kaurhu_Dialogue_2da19a23:
 
-    kh "这次我会破例 但只是因为你是信使 达格吉为你担保。"
+    kh "这次我就破例，但只是因为你是快递员，而且达吉替你担保。"
 
 translate schinese_rewrite Kaurhu_Dialogue_890f4f32:
 
-    kh "如果你有给我的信 你可以回来 但如果你一无所有 千万不要踏进这个地方。"
+    kh "如果你有我的信，可以再回来；但要是没东西，就别踏进这里。"
 
 translate schinese_rewrite Kaurhu_Dialogue_d91a8a40:
 
-    e "我理解,考胡酋长。"
+    e "我明白了，考尔胡酋长。"
 
 translate schinese_rewrite Kaurhu_Dialogue_b454cfc5:
 
-    kh "现在,离开。"
+    kh "现在，离开。"
 
 translate schinese_rewrite Kaurhu_Dialogue_65c62128:
 
-    "你点头,快离开大厅。"
+    "你点了点头，迅速离开大厅。"
 
 translate schinese_rewrite Kaurhu_Dialogue_811a276c:
 
-    kh "又是你 库里尔 有给我的信吗?"
+    kh "又是你，快递员，有我的信吗？"
 
 translate schinese_rewrite Kaurhu_Dialogue_fa98aee4:
 
-    e "N -no..."
+    e "不、没有……"
 
 translate schinese_rewrite Kaurhu_Dialogue_31a1fb08:
 
-    "熊头目叹气, 稍微提高嘴唇的边缘, 好像他一直在期待它。"
+    "熊族酋长叹了口气，嘴角微微上扬，仿佛早就料到了这个结果。"
 
 translate schinese_rewrite Kaurhu_Dialogue_1c9a80e7:
 
-    kh "那你最好说出来,[e],我可没有一整天时间。"
+    kh "那你最好开口，[e]。我可没一整天的时间。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_6df33d66:
 
-    kh "你要说什么?"
+    kh "你想说什么？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_ce2a733e:
 
-    e "你们的部落和其他村庄之间有什么关系?"
+    e "你们部落和其他村庄之间是什么关系？我们没怎么听说过这一带的熊族。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_3b74e25e:
 
-    kh "我感到自豪的是,我没有依赖任何其他人。"
+    kh "我很自豪，我们从不依赖任何人。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_61e6b0c1:
 
-    kh "我有自己的资源,自己的人民,自己的土地 我不需要别人来告诉我该怎么做。"
+    kh "我有自己的资源、自己的人民和自己的土地。不需要别人来告诉我该做什么。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_19fae5c5:
 
-    e "原来如此。"
+    e "我明白了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_e1dd7ee1:
 
-    kh "我能看见你把眉毛拉下来 有什么问题吗?"
+    kh "我看见你皱起了眉头，有什么问题吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_4cfb3008:
 
-    e "不,不,我只是很惊讶,你没有外部朋友..."
+    e "不，不，我只是有点惊讶。你们在外面没有朋友……或者盟友吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b474ee28:
 
-    kh "听着,你没有像其他人一样被拒绝入境的唯一原因 是因为你是个快递员, 递给我信, 现在做那个工作, 不再为愚蠢的问题烦恼我。"
+    kh "听着，你之所以没有像其他人一样被拒之门外，唯一的原因就是你是个会给我送信的快递员。现在就做好你的工作，别再拿这些蠢问题来烦我。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_0bda92d5:
 
-    e "对不起 考胡长官 我不是那个意思。"
+    e "对、对不起，考尔胡酋长，我不是那个意思。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_468a6aac:
 
@@ -1627,239 +1627,239 @@ translate schinese_rewrite Kaurhu_Normal_Talk_468a6aac:
 
 translate schinese_rewrite Kaurhu_Normal_Talk_1fc035d0:
 
-    "他怒吼叫,然后转回宝座。"
+    "他咕哝一声，然后转身回到王座旁。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_275abe5a:
 
-    kh "你不是第一个问我这个问题的人, 你不会是最后一个。"
+    kh "你不是第一个这么问我的人，也不会是最后一个。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_f468fce8:
 
-    e "我很抱歉问。"
+    e "呃，抱歉问了这个。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_23276c05:
 
-    kh "事实是,它们要么太远了,要么从未习惯过天气。"
+    kh "事实是，他们要么离得太远，要么就是一直没适应这里的天气。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_33c4933a:
 
-    kh "这就是为什么我从来不去和一些讨厌的言辞谈,我们有足够的精力去担心。"
+    kh "所以我从没费心和那些烦人的阴郁家伙之类的打交道。我们要担心的事已经够多了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_3619812c:
 
-    e "我听说你退休的传言了,考胡局长,真的吗?"
+    e "我听说你要退休了，考尔胡酋长。这是真的吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_150c36ba:
 
-    kh "退休?谁告诉你的?"
+    kh "退休？谁告诉你的？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_88214de8:
 
-    e "我从卫兵那里听说 他们说你要退休 但雪崩挡住了路。"
+    e "我、我听卫兵说的，他们说你打算退休，但那场雪崩搅乱了计划。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_638f1c0b:
 
-    kh "卫兵总是在谈论他们不懂的事。"
+    kh "卫兵？哼？他们总是在谈论自己不懂的事情。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_11a80292:
 
-    kh "我不会放弃的,我哪儿也不去,我呆在这里 我不会让别人取代我的位置。"
+    kh "我不会退位。我哪儿也不去，我会留在这里，也不会让任何人取代我。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_4ab7cb0c:
 
-    e "甚至连你儿子也不?"
+    e "连你的儿子也不行？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_3ec6979a:
 
-    kh "他还没准备好接替我的位置 我爱他 也爱他 但他不是天生领导部落的。"
+    kh "达吉？他还没准备好接替我。我当然爱他，但他不是天生适合领导部落的人。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_01141f60:
 
-    e "令人惊讶的是,你不相信自己的儿子吗?"
+    e "这真让人意外，你不信任自己的儿子吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_63f1b125:
 
-    kh "我信任他在我房间里玩木块的时候, 而不是他带领那些不信任他的熊。"
+    kh "他在我房间里玩木头积木时，我信任他；但让他去领导那些根本不信任他的熊族时，我可不信。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_63a8d2d6:
 
-    kh "我比任何人都更了解我儿子 他还没准备好当领袖 至少还没有准备好当领袖。"
+    kh "我比任何人都了解我的儿子，他还没准备好成为领袖，至少现在还没有。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_a21dbb5c:
 
-    kh "事实是,只要他坐在我的王位上 外来野猪们就会活活吃掉我的部落。"
+    kh "事实是，只要他一坐上我的王座，那些外来的野猪就会把我的部落生吞活剥。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_a7b75aeb:
 
-    kh "我会待在这里直到他准备好 但我看不到这种情况会很快发生。"
+    kh "我会一直留在这里，直到他准备好，但我看这短期内是不可能了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_c8c65226:
 
-    e "Daggi告诉我雪崩的事了 考胡酋长 那天发生了什么?"
+    e "达吉告诉过我雪崩的事，考尔胡酋长。那天发生了什么？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_29103c70:
 
-    kh "我以为指挥官已经告诉你我要说的话了。"
+    kh "我以为指挥官已经把我要说的都告诉你了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_9adf408a:
 
-    e "嗯,是的,但是我想听你说,长官,如果可以的话。"
+    e "呃，他说了，但我想听你亲口说，酋长。如果可以的话。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_c0c32dfe:
 
-    kh "听着,我不需要你在外面传新闻 这使我头痛比你在这里要多。"
+    kh "听着，我可不需要你把消息传到外面去，那会比你待在这里更让我头疼。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_4972a349:
 
-    e "当然不是,长官 我只是好奇发生了什么事。"
+    e "当然不会，酋长。我只是好奇发生了什么。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_56bf9466:
 
-    kh "好吧。你想知道什么?"
+    kh "好吧。你想知道什么？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_e5dae52b:
 
-    e "雪崩是如何发生的?"
+    e "雪崩是怎么发生的？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_75734b49:
 
-    kh "因为之前有一场暴雪 雪堆积在山脉上 然后暴风雨冲下。"
+    kh "因为之前有场暴风雪，雪在山脉上越积越多，然后就轰然冲了下来。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_ebd9abb1:
 
-    e "在雪地区域很常见吗?"
+    e "在雪原地区，这种事很常见吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_f718428d:
 
-    kh "不,一点也不,我的人总是为雪流做好准备 他们在这里生活了好几代,知道怎么应付。"
+    kh "不，完全不常见。我的族人一直会为雪崩做好准备。他们世世代代生活在这里，知道该如何应对。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_9a6fafe1:
 
-    kh "但当事情发生那天,部落里发生了一些不寻常的情况。"
+    kh "但那天部落里出现了一些不寻常的情况。负责警戒的卫兵不知怎么被……打了个措手不及。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_9b4f7d70:
 
-    e "警卫?"
+    e "卫兵？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_df7ce16c:
 
-    kh "有雪崩的迹象,你可以在雪崩发生前数小时预测。但是在雪崩发生当天,警卫们分心了。"
+    kh "雪崩发生前，通常会有迹象，让你能提前几小时预测。但那天，卫兵们分了神。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b3ff3318:
 
-    kh "然后雪就冲下来了。"
+    kh "然后，积雪就轰然冲了下来。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_c09221da:
 
-    e "你是说他们要对雪崩负责?"
+    e "所以，你是说他们要为雪崩负责？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_891244bf:
 
-    kh "贝德维尔指挥官,他是那天应该值班的人,当部落最重要的事情发生时,他辜负了部落。"
+    kh "不，不是所有人。贝德维尔指挥官本该在那天执勤，是他在最关键的时候辜负了部落。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_25d77274:
 
-    e "他怎么了?"
+    e "他后来怎么样了？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_1c541606:
 
-    kh "我把他送进监狱了 他从那以后就一直在那里。"
+    kh "我把他送进了牢里。从那以后他一直待在那里，短期内别想出来。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_67b8cca8:
 
-    e "有点太严厉了吧,长官?"
+    e "这是不是有点太严厉了，酋长？我不觉得这场悲剧该由他一个人负责。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_c54ac78b:
 
-    kh "我的人因为他的无能而死,必须有人为此付出代价。"
+    kh "我不在乎你怎么想，快递员。我的族人因他的无能而死，总得有人为此付出代价。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_577e4bd1:
 
-    e "好。"
+    e "好吧。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_542ee4af:
 
-    kh "是啊,我受够了谈论这个。"
+    kh "是啊，这件事我不想再谈了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_7f1f6353:
 
-    e "考胡酋长,你能告诉我更多关于熊部落的事吗?"
+    e "考尔胡酋长，你能再告诉我一些熊族的事吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_6e823ff0:
 
-    kh "你得说得更具体些 信使 我有一个部落要统治。"
+    kh "你得说具体点，快递员。我还有一个部落要统治。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_889be5ed:
 
-    e "好吧,那熊部落的历史呢?"
+    e "好、好吧，那熊族的历史呢？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_9a42181e:
 
-    kh "你看,熊部落,或者说在我的民族语言里,奥佐瓦拉, 从古代开始就一直在这里。"
+    kh "你看，熊族，或者用我的族人自己的语言来说——奥茨瓦拉，早在远古时代之前就已经存在了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_09d14f63:
 
-    kh "我们是大雪熊的后代,大木子 所以我们是唯一能在寒冷中生存的少数人。"
+    kh "我们是伟大雪熊乌科的后裔。这就是为什么只有我们这少数族群能在这种严寒中生存。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_303e7e7b:
 
-    e "雪地区的另一个部落呢?"
+    e "那雪原地区的另一个部落呢？我在地图上看到过他们。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_d5d16517:
 
-    kh "野猪?"
+    kh "野猪族？一群以为自己能夺走我土地的厚毛猪。他们不过是一群野蛮人，连暴风雪都扛不住，更别说像真正的熊一样了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_55565088:
 
-    e "你们俩之间有什么历史?"
+    e "呃……你们之间到底有什么过往？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_2ebfbee3:
 
-    "Kaurhu 笑,他的眼睛闪耀着骄傲的闪耀着 他讲述他的祖先的故事。"
+    "考尔胡笑了起来，讲述祖先的故事时，眼中闪耀着自豪的光芒。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_8825569f:
 
-    kh "有一段时间,熊和野猪共同分享土地,但他们太贪婪了,他们想要的比他们已经拥有的更多。"
+    kh "曾经有一段时间，熊族和野猪族共享这片土地，但他们太贪婪了，想要的比已经拥有的更多。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_3dc4b496:
 
-    kh "长话短说 一场古代战争爆发 征服者 我的祖先史提根德 牺牲了自己 并带领熊走向胜利。"
+    kh "长话短说，一场古老的战争爆发了，而征服者、我的祖先斯蒂甘德牺牲自己，带领熊族取得了胜利。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_1394317c:
 
-    kh "自从他死后,该地区一直受到他精神的保护,没有暴风雪或雪崩,野猪再也没有敢踏上我们的土地。"
+    kh "自他死后，这片地区一直受到他灵魂的庇护；这里不再有暴风雪或雪崩，野猪族也再不敢踏入我们的土地。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_7d4ad8bb:
 
-    e "勇士真的那么强大吗?"
+    e "那位战士真的有那么强大吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_6671f590:
 
-    kh "不清楚,那是我祖先的古老故事 我不相信神灵 我相信我的族人和部落。"
+    kh "不知道，那是祖先留下的古老故事。我不相信神或灵魂，我相信我的族人和部落。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_e4e9077d:
 
-    e "如果他还在祝福部落 那他为什么让雪崩发生?"
+    e "如果他仍在庇护部落，那他为什么会让雪崩发生？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_42d24ee9:
 
-    "头目的眼睛很窄,他的表情在试图理解你的问题时变得暗淡。"
+    "酋长眯起眼睛，试图理解你的问题时，神情变得阴沉。这问题似乎连他自己都从未想过。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_177b28a7:
 
-    kh "雪崩是因为我的卫兵不称职 才发生的 不是因为一些肤浅的祝福。"
+    kh "你敢质疑我的祖先，快递员。雪崩发生是因为我的卫兵无能，不是什么虚假的庇护。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_24fd526e:
 
-    "他咆哮,脖子上白毛发 刺着你的眼泪,虽然他只是说他不相信鬼魂。"
+    "他低声咆哮，瞪着你时脖子上的白毛都竖了起来。尽管他刚说自己不相信灵魂，但提到祖先似乎还是触动了他的敏感处。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_1d82fd8a:
 
-    kh "我不想再听到这些胡说八道了,快递员。"
+    kh "我不想再听这些胡话了，快递员。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_8cf050b2:
 
-    e "考胡酋长,在我们在地窖里发现什么之后... 你仍然认为赫德去破坏部落?"
+    e "考尔胡酋长，看到墓室里的东西后……你还认为赫德去那里是为了破坏部落吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b4abc75f:
 
@@ -1867,11 +1867,11 @@ translate schinese_rewrite Kaurhu_Normal_Talk_b4abc75f:
 
 translate schinese_rewrite Kaurhu_Normal_Talk_44fd3233:
 
-    kh "这不是简单的。"
+    kh "没那么简单。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_73268d74:
 
-    e "洞穴里的噪音和赫德回来无关?"
+    e "所以，洞穴里的声音和赫德回来没有关系？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b4abc75f_1:
 
@@ -1879,19 +1879,19 @@ translate schinese_rewrite Kaurhu_Normal_Talk_b4abc75f_1:
 
 translate schinese_rewrite Kaurhu_Normal_Talk_fb9e2f01:
 
-    kh "我不打算让部落 自己讲这个故事。"
+    kh "而且我不会让部落自己编出那种故事。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_5b5df098:
 
-    e "这对你有什么改变吗?"
+    e "这对你来说有改变吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_df7a6e89:
 
-    kh "没有任何方法能帮助他。"
+    kh "不会以任何能帮到他的方式改变。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b7bb5eff:
 
-    e "考胡酋长 你还以为 赫德去洞穴躲藏吗？"
+    e "考尔胡酋长，你还认为赫德去那个洞穴只是为了躲藏吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b4abc75f_2:
 
@@ -1899,167 +1899,167 @@ translate schinese_rewrite Kaurhu_Normal_Talk_b4abc75f_2:
 
 translate schinese_rewrite Kaurhu_Normal_Talk_70745e3e:
 
-    kh "他有理由在场。"
+    kh "他去那里是有原因的。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_84e54b9e:
 
-    e "噪音呢?"
+    e "那声音呢？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_0858b66a:
 
-    kh "足够打动警卫了 这才是现在最重要的。"
+    kh "足以让卫兵们心神不宁。现在重要的只有这一点。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_60c8d94b:
 
-    e "考胡酋长,你能告诉我更多关于赫德的事吗?"
+    e "考尔胡酋长，你能再告诉我一些赫德的事吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_05a1c963:
 
-    kh "那混蛋,怎么了?"
+    kh "那坨狗屎？怎么了？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_15add963:
 
-    e "我想知道更多关于发生了什么 在他... 被抓住之前。"
+    e "我想多了解一些他……被卷入这件事之前发生的事情。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_dd997de8:
 
-    e "我想知道更多关于为什么你们想抓住他。"
+    e "我想多了解一些你们为什么要抓他。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_b5af68f5:
 
-    kh "他是一个优秀的、值得信赖的律师。他对将部落扩展至我们下面的冰雪裂痕的框架 有了一些深刻的思考。"
+    kh "总的来说，他曾是个优秀而可靠的顾问。他对如何把部落扩展到我们脚下的冰缝里，提出过一些很棒的构想。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_d54d42cc:
 
-    kh "当然,我预言了这个想法。但是赫德是个骗子。他的父母都是伟大的建筑工,传统工匠,但他有不同的想法。"
+    kh "当然，我支持过这个想法。不过赫德是个实干家。他的父母都是出色的传统建筑师，但他脑子里有自己的想法。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_3f30880d:
 
-    kh "你可以说他是献身的, 当他工作的时候, 他们说有人可以偷溜上来刺他, 他什么也不会注意到。"
+    kh "可以说他非常投入工作；据说工作时，就算有人偷偷靠近捅他一刀，他也不会察觉。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_27572c8e:
 
-    e "你非常喜欢说牛, 我想你恨他, 判断你如何称呼他,一袋狗屎。"
+    e "你提起赫德时满是赞赏，可我本以为你恨他，毕竟你一直叫他“那坨狗屎”。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_6ea63181:
 
-    kh "我只能说,我只是个慈善家,他成了一袋狗屎, 信用就是欠学分的地方。"
+    kh "我能说什么？我只是个慷慨的人。他后来虽然变成了那坨狗屎，但该记的功劳还是要记。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_9f0616a3:
 
-    kh "他的父母退休后,他帮助建造了大部分新的棚屋,这些棚屋更温暖、更安全,并帮助我的部落渡过漫长的冬天。"
+    kh "他的父母退休后，大多数新棚屋都是他帮忙建的。那些房子更暖和、更安全，帮助我的族人熬过了漫长的冬天。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_8c98f9e0:
 
-    kh "然后,他设计了大炉子, 烧得整个部落都很好, 使冶炼金属, 磨碎谷物,木工 容易一点。"
+    kh "后来，他设计了那座大型熔炉，燃烧效率足以供整个部落使用，也让冶炼金属、碾磨谷物和木工活变得更容易。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_5606221a:
 
-    kh "我的人民正在地下建造管道系统 赫德毕生投入其中。"
+    kh "我的族人当时正在地下铺设管道系统，赫德把自己的一生都投入了进去。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_8626b8e3:
 
-    kh "我批准他和他的家人搬出去 只是为了让他能更清楚地监督项目。"
+    kh "我批准他和家人搬到外面去，只为让他能更清楚地监督这项工程。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_917dad5f:
 
-    e "他搬出部落了吗?"
+    e "他搬出部落了？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_bb7283c9:
 
-    kh "他提议在冰层下建网络,这很有道理。 但是管道网络必须建在另一侧, 某个空间很大的地方。"
+    kh "他提议把管网铺到冰缝下方，这很合理。但管道网络必须在另一边建造，一个空间足够大的地方。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_c318b216:
 
-    e "你认为他的家人能活下来吗 如果他不搬出去？"
+    e "你觉得如果他没搬出去，他的家人能活下来吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_ee570cc9:
 
-    kh "我怎么会知道呢?他就是那个想搬出去的人,我没有强迫他做任何事情。部落和他的新房子一样被摧毁,我们的人被埋在雪中。"
+    kh "我怎么会知道？是他自己想搬出去，我没逼他做任何事。部落和他的新房子一样都被毁了，我们的人全埋在雪里。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_450f27e5:
 
-    kh "幸好他活下来了 但他那天离开了球队 显然那个老棕鼻子耳朵塞了东西。"
+    kh "他能活下来已经很幸运了，但那天他离开了施工队。听说，那个老棕鼻子的耳朵不知怎么被堵住了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_a3f7a05b:
 
-    kh "听不到,不能说话,我部落的治疗师让他到处检查,但他们什么都没发现。"
+    kh "他听不见，也说不出话，我部落的治疗师给他做了全身检查，却什么都没发现。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_c9846fc3:
 
-    e "那你为什么要抓建筑师?"
+    e "那么，你为什么想抓住这位建筑师？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_78234418:
 
-    kh "他打破了管道 当建筑团队的其余部分 捡起他离开的地方, 然后他试图接近炉子, 他从来没有给我一个原因。"
+    kh "其他建筑队接手他的工作后，他把管道弄坏了；随后又试图靠近熔炉，却从没告诉我原因。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_af341aff:
 
-    kh "可能是他的悲痛 或者他想为别人破坏部落。"
+    kh "可能是因为悲痛，也可能是他在替别人破坏部落。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_0dec2deb:
 
-    kh "你怎么能想着让他逍遥法外? 不,不,在我眼皮底下。"
+    kh "你怎么能想让他这样逃脱？不，在我眼皮底下绝不可能。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_f5f375cf:
 
-    kh "于是我派卫兵去追杀Herd 试图把他扔进监狱 这样我就可以说服他退出了。"
+    kh "所以我派卫兵去追赫德，只想先把他扔进牢里，再劝他打消这个念头。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_02d7943d:
 
-    e "我以为他什么都听不到?"
+    e "我以为他什么都听不见？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_5db5ba85:
 
-    kh "Figuratively."
+    kh "只是字面意思。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_162b194c:
 
-    kh "我本该想出一个跟他说话的方法 只要他没一眼看见卫兵就跑掉。"
+    kh "只要他不是一看到卫兵就逃跑，我本来会想办法和他谈谈。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_613bd5ed:
 
-    e "也许他害怕你会把他关进监狱。"
+    e "也许他是害怕你要把他关进牢里。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_f8706417:
 
-    kh "我不管,他不会因为拆掉我的建筑而逃走的 一旦我们知道到底是怎么回事 我早就放他出去。"
+    kh "我不在乎，他不可能因为弄坏我的建筑就逍遥法外。只要我们查清究竟发生了什么，我本来就会把他放出来。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_8be39b49:
 
-    kh "如果我在我的卫兵杀死他之前抓到他 我就必须赞扬他们 他们的伟大目标 训练太精良。"
+    kh "要是我能在我的卫兵杀死他之前赶到他身边就好了。我还得夸他们准头真好，训练得太到位了。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_3764eee2:
 
-    e "用鱼叉直接杀人真的很难 不是吗?"
+    e "用鱼叉直接杀死一个人，真的很难吧？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_92667b78:
 
-    kh "外面他很好,但是我们鱼叉里有刺痕。"
+    kh "没你想的那么难。在外面时，他看起来还好好的。但鱼叉上有倒刺，他很快就会失血过多。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_37c082be:
 
-    e "我想知道他为什么要破坏部落。"
+    e "我真想知道他一开始为什么要破坏部落。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_0ae4efc6:
 
-    kh "问死人没用吧?"
+    kh "问一个死人也没用，不是吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_830f864e:
 
-    kh "我不管了,我最大的建议之一的悲剧性结局, 但大楼会一如既往地继续。"
+    kh "我就让它保持原样吧。这是我最优秀的顾问之一的悲惨结局，但建筑工作仍会照常继续。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_6ba811b2:
 
-    kh "有一天,我会抓到他, 让他修复他造成的破坏, 也许邀请他回来为部落工作, 我们会想出一个方法 彼此交谈。"
+    kh "总有一天，总有一天我会抓到他，让他修好自己造成的损失。也许还会邀请他回来为部落工作，我们总能想办法沟通。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_f82e8e0f:
 
-    kh "他承认自己是一袋狗屎 毁了部落,当然, 但我会让它工作,尽管如此。"
+    kh "当然，得先让他承认自己是个毁掉部落的狗屎，不过不管怎样我会让事情运转下去。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_14dabaf4:
 
-    e "我只想知道这些,谢谢你抽时间,长官。"
+    e "我只需要知道这些了，谢谢你的时间，酋长。"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_5f00a6fd:
 
@@ -2067,199 +2067,199 @@ translate schinese_rewrite Kaurhu_Normal_Talk_5f00a6fd:
 
 translate schinese_rewrite Daggi_Dialogue_1eada15f:
 
-    d "你好,[e],你需要什么吗?"
+    d "你好，[e]。你是有什么需要，还是只是想找人聊聊？"
 
 translate schinese_rewrite Daggi_Dialogue_e1e222be:
 
-    e "达格吉,你能告诉我更多关于局长的事吗?"
+    e "达吉，你能告诉我更多关于酋长的事吗？"
 
 translate schinese_rewrite Daggi_Dialogue_8b2ab063:
 
-    d "考胡酋长?"
+    d "考尔胡酋长？当然。我认为他是个很出色的领袖。"
 
 translate schinese_rewrite Daggi_Dialogue_22b17c2b:
 
-    d "他不想听到我重复一遍, 但长老们仍然在讲述一个乔顿人 几乎闯进部落的时候的故事,。"
+    d "他肯定不喜欢听我重复这话，但长老们至今还在讲一个故事：有一次，约顿差点闯进部落，他亲自爬上那东西，把它打倒了。"
 
 translate schinese_rewrite Daggi_Dialogue_156aeb8d:
 
-    d "他比他判断的还要严厉,大多数人只觉察到第一部分。"
+    d "他的态度比他的判断严厉得多。大多数人只注意到了前者。"
 
 translate schinese_rewrite Daggi_Dialogue_aae4fbf4:
 
-    e "警卫告诉我,酋长是你父亲,不是吗?"
+    e "哦，卫兵告诉我酋长是你的父亲，对吗？"
 
 translate schinese_rewrite Daggi_Dialogue_716fe4ce:
 
-    d "头儿从来不喜欢我们家被不同对待。"
+    d "……是。酋长不喜欢我们的家人因此受到特殊对待，所以我们很少提起这件事。"
 
 translate schinese_rewrite Daggi_Dialogue_1b1cc24c:
 
-    e "这解释了一切, 卫兵认为 他即将放弃 并交给你头衔。"
+    e "这就解释得通了，卫兵们以为他马上要退位，把头衔交给你。"
 
 translate schinese_rewrite Daggi_Dialogue_858bb9a5:
 
-    e "虽然我们只见过一阵子 你从未把我打成一个雄心勃勃的领导者 为什么你想当头儿?"
+    e "虽然我们才认识没多久，但你从没给我留下野心勃勃的领袖印象，你为什么想当酋长？"
 
 translate schinese_rewrite Daggi_Dialogue_de7caca5:
 
-    d "坦白说,[e],我早就想这样了。自从我还是个幼崽以来,考胡酋长训练了我,好像有一天我可能会继承他一样。"
+    d "说实话，[e]，我想当酋长已经很久了。从我还是幼崽时起，考尔胡酋长就把我当作未来可能接替他的人来训练。"
 
 translate schinese_rewrite Daggi_Dialogue_e0178888:
 
-    d "我一生中的大部分时间 都是为了成为 适合那个地方的人。"
+    d "我一生大部分时间都在努力成为配得上那个位置的人。"
 
 translate schinese_rewrite Daggi_Dialogue_115742ce:
 
-    e "但是他从来没有给你点头?"
+    e "但他从来没点头同意过？"
 
 translate schinese_rewrite Daggi_Dialogue_7b0b28fe:
 
-    d "不,他一直在等什么,也许是一个征兆 证明我准备好了。"
+    d "没有。他一直在等待什么。也许是一个信号，证明我已经准备好了。"
 
 translate schinese_rewrite Daggi_Dialogue_f807fa55:
 
-    d "我仍然不确定他期望看到什么。"
+    d "我仍然不确定他想看到什么。"
 
 translate schinese_rewrite Daggi_Dialogue_42f4a46a:
 
-    e "我明白了..."
+    e "我明白了……"
 
 translate schinese_rewrite Daggi_Dialogue_267cc724:
 
-    e "既然你提到过 考胡酋长似乎一直都有眉毛。"
+    e "既然你这么说，我确实觉得考尔胡酋长好像一直皱着眉头。"
 
 translate schinese_rewrite Daggi_Dialogue_ad2d2fca:
 
-    d "是的,他经常这样 我认为他把整个部落 都放在他脸上 不管他是否有意。"
+    d "是的，他经常这样。我想无论他是不是有意为之，他都把整个部落背在了脸上。"
 
 translate schinese_rewrite Daggi_Dialogue_6712b1bb:
 
-    d "但我信任他。"
+    d "不过，我信任他。"
 
 translate schinese_rewrite Daggi_Dialogue_bdc8010b:
 
-    e "达格吉,在洞穴之后... 你觉得赫德在那里干什么?"
+    e "达吉，关于洞穴……你觉得赫德在那里做什么？"
 
 translate schinese_rewrite Daggi_Dialogue_3ef4a8c1:
 
-    d "寻找他失去的东西,我想,或者遵循一些思路..."
+    d "我想他是在找丢失的东西，或者追随着一条只有他自己还能看见的思路。"
 
 translate schinese_rewrite Daggi_Dialogue_0be3f4e5:
 
-    d "不管是什么制造了新噪音 它不是赫德以某种方式回来了。"
+    d "制造那些新声响的不管是什么，都不是赫德以某种方式回来了。"
 
 translate schinese_rewrite Daggi_Dialogue_55ba6af3:
 
-    d "我不想让部落 自己讲这个故事。"
+    d "我不希望部落把这个故事传下去。"
 
 translate schinese_rewrite Daggi_Dialogue_024a2b43:
 
-    d "但他死前就去过 他有一个原因我没能及时看到。"
+    d "但他死前确实去过那里，而且他有一个我没能及时看出来的理由。"
 
 translate schinese_rewrite Daggi_Dialogue_73fac487:
 
-    e "达格吉,你认为洞穴回答 赫德在做什么?"
+    e "达吉，你觉得洞穴揭示了赫德在做什么吗？"
 
 translate schinese_rewrite Daggi_Dialogue_f2155d3b:
 
-    d "其中的一部分,是的。"
+    d "说明了一部分，是的。"
 
 translate schinese_rewrite Daggi_Dialogue_a9a17246:
 
-    d "他去过那里 没有一个是随机的。"
+    d "他去过那里，这一切都不是偶然。"
 
 translate schinese_rewrite Daggi_Dialogue_316a8b8d:
 
-    d "我想守卫们听到 Herd 刚开始穿过山洞 更深的 更老的回答。"
+    d "我觉得卫兵们一开始听到的是赫德在上层洞穴里移动的声音，而在更深处，有某种更古老的东西回应了他。"
 
 translate schinese_rewrite Daggi_Dialogue_8f3e69dc:
 
-    d "等我们正确到达地窖时,他已经走了。但至少现在我知道他正在追寻个人的东西,而不仅仅是打破东西来憎恨我们。"
+    d "等我们真正抵达墓室时，他已经不见了。但至少现在我知道，他是在追寻某件私人的东西，并不只是为了报复我们而搞破坏。"
 
 translate schinese_rewrite Daggi_Dialogue_e8e7739d:
 
-    e "达格吉,你能告诉我更多关于雪崩的事吗?"
+    e "达吉，你能多告诉我一些雪崩的事吗？"
 
 translate schinese_rewrite Daggi_Dialogue_3746d867:
 
-    d "如果必须的话。"
+    d "如果你非要知道的话。"
 
 translate schinese_rewrite Daggi_Dialogue_a4190eba:
 
-    e "达格吉,我在想 你是怎么成为熊部落的指挥官的?"
+    e "达吉，我想问问，你是怎么成为熊族指挥官的？"
 
 translate schinese_rewrite Daggi_Dialogue_c7f8b643:
 
-    d "我是怎么成为指挥官的?"
+    d "我是怎么成为指挥官的？没什么了不起的。"
 
 translate schinese_rewrite Daggi_Dialogue_9afef78f:
 
-    e "我敢肯定,它是, 你有点领导部落,毕竟。"
+    e "我相信一定很了不起，毕竟你多少算是在领导这个部落。"
 
 translate schinese_rewrite Daggi_Dialogue_b4b6e938:
 
-    d "我和其他人一样只是一名警卫,但是当老指挥官贝德维耶尔被关进监狱时,考胡酋长需要有人来将部落团结在一起,他选择了我。"
+    d "我以前只是个卫兵，和其他人一样。但老指挥官贝德维尔被关进牢里后，考尔胡酋长需要有人维系部落，他选择了我。"
 
 translate schinese_rewrite Daggi_Dialogue_ef5f3a65:
 
-    e "为什么是你?"
+    e "为什么是你？"
 
 translate schinese_rewrite Daggi_Dialogue_434c506d:
 
-    d "是我答应的。"
+    d "因为只有我答应了。"
 
 translate schinese_rewrite Daggi_Dialogue_c0f8ee2d:
 
-    d "答案很简单。答案不那么简单,就是他信任我携带它,我仍在努力不让他失望。"
+    d "这是最直接的答案。不那么直接的答案是，他相信我能扛起这份责任，而我至今仍在努力不让他失望。"
 
 translate schinese_rewrite Daggi_Dialogue_1bfba8c0:
 
-    e "戴吉,这责任很重 希望你做得很棒。"
+    e "这责任可不轻，达吉。希望你一切顺利。"
 
 translate schinese_rewrite Daggi_Dialogue_a0aa8f39:
 
-    d "我尽力了,[e] 有时候感觉足够,有时候没有。"
+    d "我正在尽全力，[e]。有些日子，这感觉已经足够了；有些日子，却远远不够。"
 
 translate schinese_rewrite Daggi_Dialogue_896a8d48:
 
-    d "那时的指挥官贝德维尔 被送进监狱。"
+    d "雪崩前我只是名卫兵。后来发生了……一些变故，当时的指挥官贝德维尔被送进了牢里。"
 
 translate schinese_rewrite Daggi_Dialogue_d8fcc4f6:
 
-    d "有证据表明他和雪崩有关 但我不想谈。"
+    d "有证据把他和雪崩联系起来，但我不想谈这件事。"
 
 translate schinese_rewrite Daggi_Dialogue_42f4a46a_1:
 
-    e "我明白了..."
+    e "我明白了……"
 
 translate schinese_rewrite Daggi_Dialogue_fc32f159:
 
-    e "卫兵呢,他们总是这样吗?"
+    e "那卫兵呢，他们一直都是那样吗？"
 
 translate schinese_rewrite Daggi_Dialogue_61298961:
 
-    d "警卫们..."
+    d "卫兵……我尽力让他们守规矩，但有些人把我的经验不足当成了先斩后奏的许可。"
 
 translate schinese_rewrite Daggi_Dialogue_9fab7479:
 
-    e "我还以为你是指挥官呢。"
+    e "我以为你才是指挥官。"
 
 translate schinese_rewrite Daggi_Dialogue_5d26cac0:
 
-    d "我是指挥官,这并不意味着每个警卫都聪明到 愤怒的时候记得。"
+    d "我是指挥官。这不代表每个卫兵在生气时都有足够的智慧记得这一点。"
 
 translate schinese_rewrite Daggi_Dialogue_99f01130:
 
-    d "他们无疑地听考鲁酋长的,当他们喜欢的时候,或当我能使自己无法忽视的时候,他们听我的。"
+    d "他们对考尔胡酋长言听计从。至于我，他们想听时才听，或者得等我想办法让自己无法被忽视。"
 
 translate schinese_rewrite Daggi_Dialogue_b3ffcbba:
 
-    "熊向后倾斜,然后向后看。他的眼睛很遥远,好像他试图回避这个话题。"
+    "熊向后靠去，然后移开视线。他的目光飘向远方，仿佛在设法避开这个话题。"
 
 translate schinese_rewrite Daggi_Dialogue_59e020b4:
 
-    e "这就是我需要知道的,谢谢达格吉。"
+    e "我只需要知道这些了，谢谢你，达吉。"
 
 translate schinese_rewrite Daggi_Dialogue_ac60fa45:
 
@@ -2267,214 +2267,214 @@ translate schinese_rewrite Daggi_Dialogue_ac60fa45:
 
 translate schinese_rewrite Methis_Introduction_691a76dd:
 
-    "你推开木制门,它用小叮当声音打开。"
+    "你推开木门，门发出一声轻微的叮铃声。"
 
 translate schinese_rewrite Methis_Introduction_5b499fe5:
 
-    "空气中的温暖让你紧张一秒钟, 因为你已经习惯了部落里寒冷的天气。"
+    "里面空气的温暖让你一时吃惊，毕竟你已经基本习惯了部落的凛冽天气。"
 
 translate schinese_rewrite Methis_Introduction_eeef08e2:
 
-    "它在小店铺上铺满了货架 装满了金衬的箱子 持有各种贵重物品。"
+    "你探头打量这间小店，店里非常整洁，摆满了架子和陈列柜，金色的边框里放着各式昂贵的物品。"
 
 translate schinese_rewrite Methis_Introduction_417a3515:
 
-    "突然间,你背后的门关上了 好像一阵强风把门撞到你脸上。"
+    "突然，你身后的门砰地关上，仿佛一阵强风迎面把门摔在你脸上。"
 
 translate schinese_rewrite Methis_Introduction_89fe036b:
 
-    m "认识的,年轻人,到我的家 我叫Methi,怎么打给你?"
+    m "幸会，年轻人，欢迎来到我的寒舍。我叫梅提斯。该怎么称呼你？"
 
 translate schinese_rewrite Methis_Introduction_a2309121:
 
-    e "嘿,我是[e]。"
+    e "嘿，我叫[e]。"
 
 translate schinese_rewrite Methis_Introduction_013d4a31:
 
-    "一只一角形的雕像从柜台后面冒出来, 是一只中年的犀牛, 有着绿宝石的皮肤和深蓝色的尺码。"
+    "一个独角身影从柜台后探出头来——那是一头中年犀牛，皮肤呈绿松石色，鳞片则是深蓝色。"
 
 translate schinese_rewrite Methis_Introduction_37ad3c92:
 
-    m "啊,异国名字 一个异国家伙的异国名字。"
+    m "啊，奇特的名字配奇特的家伙。"
 
 translate schinese_rewrite Methis_Introduction_c6f11c3b:
 
-    m "你今天想要什么?武器,小东西,魔法的卷轴?你所看到的都是我付出的, 代价。"
+    m "今天你想找些什么？武器、饰品、附魔卷轴？你看到的这些东西，只要出得起价，我都可以卖给你。"
 
 translate schinese_rewrite Methis_Introduction_274de6b2:
 
-    "更别提震撼整个商店的 喉咙和喉咙的声音。"
+    "他过分热情的招呼让你吓了一跳，更别提那震动整间店铺的沙哑喉音。"
 
 translate schinese_rewrite Methis_Introduction_f0e11122:
 
-    m "啊,对不起,吓坏了, 小冒险家。"
+    m "啊，抱歉吓到你了，小冒险家。"
 
 translate schinese_rewrite Methis_Introduction_2bd39306:
 
-    m "我只是最近没有太多访客,所以你是眼中最痛的一面。"
+    m "我最近只是没什么客人，所以见到你真是让人眼前一亮。那么，你想找些什么？"
 
 translate schinese_rewrite Methis_Introduction_dcda5012:
 
-    e "我只是在看,先生,但这是干什么?"
+    e "我、我只是随便看看，先生。不过，这一切到底是怎么回事？"
 
 translate schinese_rewrite Methis_Introduction_15d3dd21:
 
-    "你向窗外示意 想知道为什么一个店主 收藏了一批模特儿作为装饰品。"
+    "你指向窗户，疑惑一个店主为什么要把一组人体模型当作装饰品。"
 
 translate schinese_rewrite Methis_Introduction_ba7d865f:
 
-    m "哦,这些?"
+    m "哦，这些？"
 
 translate schinese_rewrite Methis_Introduction_d61315e5:
 
-    "他说,当他向木制姿势做手势时。"
+    "他一边说着，一边指向那些木制雕像。"
 
 translate schinese_rewrite Methis_Introduction_7a4c4117:
 
-    m "他们是我的助手,他们照顾我的商店 当我上床睡觉。"
+    m "嗯，它们是我的助手。我上床睡觉时，它们会照看店铺。这两个家伙总是乐意帮忙，对吧，小伙子们？"
 
 translate schinese_rewrite Methis_Introduction_16284074:
 
-    "你看着店主 期待一些反应或笑话 但他一直盯着两个。"
+    "你看向店主，期待他有什么反应或开个玩笑，可他只是盯着那两个人偶。"
 
 translate schinese_rewrite Methis_Introduction_97bbfad6:
 
-    m "这个盔甲大马,叫做Kivy; 右边那个,他是Aerik, 他喜欢在阳光下烘烤, 偶尔,它不喜欢我们被照亮了这个深渊。"
+    m "这个穿盔甲的壮汉叫基维；右边那个是艾里克，他偶尔喜欢晒晒太阳，毕竟我们在这个深渊里可没多少光照。"
 
 translate schinese_rewrite Methis_Introduction_416689f3:
 
-    m "而且... 他们似乎对你很感兴趣 年轻人。"
+    m "而且……它们似乎对你很感兴趣，年轻人。"
 
 translate schinese_rewrite Methis_Introduction_c561bfbc:
 
-    "你看看这两个模特儿,它们似乎一寸都没动。你几乎不敢相信这些材料允许任何移动,更别提说话了。"
+    "你回头看向那两个人偶，它们似乎连一寸都没动。你几乎不敢相信这些材料居然能活动，更别说说话了。"
 
 translate schinese_rewrite Methis_Introduction_ef1f4113:
 
-    e "我不认为这些模特是真的。"
+    e "我觉得这些人体模型不是真的。"
 
 translate schinese_rewrite Methis_Introduction_4025e6c5:
 
-    m "我的助理只是做他们现在的工作 炫耀店里的东西？"
+    m "你在说什么？我的助手现在只是在做自己的工作，也就是展示店里的商品。你不会想要一个到处乱跑的活动展品吧？"
 
 translate schinese_rewrite Methis_Introduction_b1e0b155:
 
-    m "他们只是有点害羞,他们会照顾店铺 而我晚上休息,他们比熊便宜,因为我不需要付钱。"
+    m "它们只是有点害羞而已。晚上我休息时，它们会照看店铺，而且比雇一头熊便宜多了，毕竟我根本不用付它们工钱。"
 
 translate schinese_rewrite Methis_Introduction_2653c606:
 
-    e "如果你这么说..."
+    e "你说是就是吧……"
 
 translate schinese_rewrite Methis_Introduction_2e924ac8:
 
-    "你冲进店里走远一点,但Medhi一直跟着你。"
+    "你耸了耸肩，继续往店里走。但梅提斯还是跟在你身后。"
 
 translate schinese_rewrite Methis_Introduction_2cb596e8:
 
-    m "那么,你要找什么?武器?"
+    m "那么，你想找些什么？武器？饰品？卷轴？"
 
 translate schinese_rewrite Methis_Introduction_809d0786:
 
-    e "我自己看看 谢谢 Methis。"
+    e "我、我呃……我自己看看就好。谢谢你，梅提斯。"
 
 translate schinese_rewrite Methis_Introduction_20294b1b:
 
-    m "很好。"
+    m "好吧。"
 
 translate schinese_rewrite Methis_Introduction_fdfc4e8b:
 
-    "我笑得不自然 让你怀疑你是不是被他打得落花流水了。"
+    "梅提斯露出一个不自然的夸张笑容，让你不禁怀疑自己是不是不知怎么惹恼了他。"
 
 translate schinese_rewrite Methis_Introduction_e29705f4:
 
-    "你可以感觉到店主盯着你脖子后部烧伤的眼神 当你试图检查商品时。"
+    "你试着查看商品时，能感觉到店主的目光灼烧着你的后颈。"
 
 translate schinese_rewrite Methis_Introduction_1523ae58:
 
-    m "需要什么就喊我一声。"
+    m "需要什么就叫我。"
 
 translate schinese_rewrite Methis_Dialogue_d64ef163:
 
-    m "我在这里,为您服务。"
+    m "我就在这里，随时听候吩咐。"
 
 translate schinese_rewrite Methis_Normal_Talk_aad9071a:
 
-    m "今天我能为你做什么,[e]?"
+    m "今天你想让我为你做什么，[e]？"
 
 translate schinese_rewrite Methis_Normal_Talk_b86c48a7:
 
-    e "那么,Methi,你怎么拥有这家店的?"
+    e "那么，梅提斯。你是怎么拥有这家店的？"
 
 translate schinese_rewrite Methis_Normal_Talk_8fe9dcad:
 
-    m "你看, 芬克尔的盖兹 只是一个小的,谦卑的伪造 几十年前。"
+    m "你看，几十年前，芬克尔深渊还只是一间小小的简陋铁匠铺。"
 
 translate schinese_rewrite Methis_Normal_Talk_83701ff9:
 
-    m "我的朋友Eirik是个出色的铁匠 他为部落的每个卫兵 做了所有定制的盔甲和武器。"
+    m "我的朋友艾里克是一名出色的铁匠，当时部落里的每名卫兵都有一套量身定制的盔甲和武器，都是他打造的。"
 
 translate schinese_rewrite Methis_Normal_Talk_a830c153:
 
-    e "这个名字听起来很熟悉..."
+    e "这个名字听起来很耳熟……"
 
 translate schinese_rewrite Methis_Normal_Talk_32fd0253:
 
-    m "我,我是一个简单的商人, 但我知道一个不错的生意 当我看到一个, 我知道如何用我的演示 绳索在一些客户。"
+    m "而我只是个普通商人，但我一眼就能看出好生意，也知道如何靠我的展示招揽顾客。"
 
 translate schinese_rewrite Methis_Normal_Talk_c12dc8ab:
 
-    m "所以经过一段时间的考虑 我们决定合并我们的商店 芬克尔的盖兹诞生了。"
+    m "所以，考虑了一段时间后，我们决定把两家店合并，芬克尔深渊就这样诞生了。"
 
 translate schinese_rewrite Methis_Normal_Talk_0031acee:
 
-    e "那你为什么叫它芬克尔盖兹?"
+    e "那么，你为什么给它取名叫“芬克尔深渊”？"
 
 translate schinese_rewrite Methis_Normal_Talk_b9475d4b:
 
     m "因为这里就是芬克尔深渊，它一直延伸到部落之外；而且我喜欢{i}“凝视”{/i}这个名字。很上口，对吧？"
 translate schinese_rewrite Methis_Normal_Talk_d26f808a:
 
-    e "啊,我明白了。"
+    e "啊，我明白了。"
 
 translate schinese_rewrite Methis_Normal_Talk_51617c49:
 
-    m "听着,我负责生意的营销方面 Eirik负责生意的设计方面。"
+    m "看，我负责生意的营销，而艾里克负责工艺制作。"
 
 translate schinese_rewrite Methis_Normal_Talk_0921ffc3:
 
-    m "我们一起是部落里最好的商店 我们有最好的盔甲 最好的武器 和一切之间的一切。"
+    m "我们一起就是部落里最好的店。最好的盔甲、最好的武器，以及介于两者之间的一切，我们应有尽有。"
 
 translate schinese_rewrite Methis_Normal_Talk_36c30350:
 
-    m "部落里的其他商店 他们甚至无法和我们相比 我们基本上都吃光了 在野兽的肚子里吃得还不错。"
+    m "部落里的其他店铺根本没法和我们比；我们基本把它们全都吃掉了，舒舒服服地消化在这头野兽的肚子里。"
 
 translate schinese_rewrite Methis_Normal_Talk_df3d627d:
 
-    "犀牛扇他的肚子, 让你一个心地微笑。"
+    "犀牛拍了拍肚子，朝你露出爽朗的笑容。"
 
 translate schinese_rewrite Methis_Normal_Talk_7526b972:
 
-    m "当然不是字面意义上的。"
+    m "当然，不是真的。"
 
 translate schinese_rewrite Methis_Normal_Talk_e6621df7:
 
-    e "听上去你们俩是很棒的团队。"
+    e "听起来你们两个是很棒的搭档。"
 
 translate schinese_rewrite Methis_Normal_Talk_f24c1279:
 
-    m "他有技巧,我也有表演技巧 我们是天造地设的一对,我告诉你,我们是不可阻挡的。"
+    m "他有手艺，我有表演才能。相信我，我们是天作之合，而且我们……我们曾经所向无敌。"
 
 translate schinese_rewrite Methis_Normal_Talk_3b188833:
 
-    e "Eirik怎么了 他还在吗？"
+    e "那么，艾里克后来怎么样了？他还在这里吗？"
 
 translate schinese_rewrite Methis_Normal_Talk_79707e7a:
 
-    "店主突然间暂停了很长时间 嘴上挂着Agape 然后再恢复到平常的样子。"
+    "店主突然长久地停顿下来，张着嘴愣了片刻，然后才恢复平时的样子。"
 
 translate schinese_rewrite Methis_Normal_Talk_c35d96fb:
 
-    m "别担心,他还在附近,他现在很忙,我肯定..."
+    m "别、别担心，他还在，只是这段时间正忙。我相信……等他回来，他会慢慢喜欢上你的。"
 
 translate schinese_rewrite Methis_Normal_Talk_3388a208:
 
@@ -2482,75 +2482,75 @@ translate schinese_rewrite Methis_Normal_Talk_3388a208:
 
 translate schinese_rewrite Methis_Normal_Talk_4b041ff2:
 
-    "犀牛笑着 盯着窗外看。"
+    "犀牛咯咯笑着，望向窗外。"
 
 translate schinese_rewrite Methis_Normal_Talk_17bcd6d6:
 
-    m "{size=20}他随时会回来{/size}"
+    m "{size=20}他随时都可能回来。{/size}"
 
 translate schinese_rewrite Methis_Normal_Talk_fc1fbacb:
 
-    "你忍不住觉得有点不安 好像有什么不对劲 但你决定把它擦掉。"
+    "你不禁感到一丝不安，仿佛哪里不对劲，但你决定把这种感觉抛到脑后。"
 
 translate schinese_rewrite Methis_Normal_Talk_fb72dab5:
 
-    e "你在熊部落的名声如何?"
+    e "那么，你在熊族的名声如何？"
 
 translate schinese_rewrite Methis_Normal_Talk_2e0fa1b2:
 
-    m "也许你应该自己去问问熊 我只是个谦卑的店主。"
+    m "也许你该自己去问那些熊。我只是个谦逊的店主。"
 
 translate schinese_rewrite Methis_Normal_Talk_0e986c3f:
 
-    m "据我所知 头头有更大的鱼要炸 所以他不会打扰我。"
+    m "据我所知，酋长有更重要的事要忙，所以不怎么为难我。"
 
 translate schinese_rewrite Methis_Normal_Talk_01f9822a:
 
-    m "但警卫们,他们喜欢我的店 他们来这里买盔甲,武器, 以及其他所有的东西, 他们是我的最好的客户。"
+    m "不过卫兵们很喜欢我的店，他们会来这里买盔甲、武器和其他各种东西。他们是我最好的顾客。"
 
 translate schinese_rewrite Methis_Normal_Talk_2250a1c2:
 
-    e "啊,我明白了,其他商店呢?"
+    e "哦，我明白了。那其他店呢？你有竞争对手吗？"
 
 translate schinese_rewrite Methis_Normal_Talk_9655d276:
 
-    m "其他商店?"
+    m "其他店？不过是一群业余货色。你要什么都可以来芬克尔深渊。"
 
 translate schinese_rewrite Methis_Normal_Talk_e4a7d442:
 
-    e "怎么样... 像其他部落一样?"
+    e "那……其他部落的呢？"
 
 translate schinese_rewrite Methis_Normal_Talk_3fd118cd:
 
-    m "其他人,我们很少乱跑 但我听说在温暖的土地上有个 独家的药剂师。"
+    m "呃……哦……其他人啊。我们不怎么外出，但我听说温暖的土地上有个独自经营的药剂师，关于他我听说了不少。"
 
 translate schinese_rewrite Methis_Normal_Talk_6107fb6d:
 
-    m "但我并不担心我们国家以外的任何人 我有自己的客户 他们对我忠诚。"
+    m "不过，我不担心我们土地之外的任何人。我有自己的顾客，他们对我很忠诚。"
 
 translate schinese_rewrite Methis_Normal_Talk_19fae5c5:
 
-    e "原来如此。"
+    e "我明白了。"
 
 translate schinese_rewrite Methis_Normal_Talk_949cbca2:
 
-    e "你有什么新发现?"
+    e "那么，你最近有什么新鲜事？"
 
 translate schinese_rewrite Methis_Normal_Talk_7edd8cf1:
 
-    m "商店在从雪崩中 发现了一些艺术品后 正在收集一些新的收藏品。"
+    m "啊，这个嘛，发掘出雪崩带来的部分遗物后，店里要上些新货了。"
 
 translate schinese_rewrite Methis_Normal_Talk_a70749ed:
 
-    m "我保证会非常令人兴奋的。"
+    m "一定会很有意思，我保证。"
 
 translate schinese_rewrite Methis_Normal_Talk_19fae5c5_1:
 
-    e "原来如此。"
+    e "我明白了。"
 
 translate schinese_rewrite Methis_Normal_Talk_eef9709a:
 
-    e "好的 谢谢你抽出时间 Methy。"
+    e "好吧，谢谢你的时间，梅提斯。"
 
 translate schinese_rewrite Methis_Normal_Talk_9d9df22c:
 
