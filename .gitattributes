@@ -1,0 +1,20 @@
+# Keep text files reproducible across platforms.
+* text=auto eol=lf
+
+# Compiled Ren'Py/Android artifacts and media are binary.
+*.rpyc binary
+*.rpyb binary
+*.rpymc binary
+*.pyo binary
+*.apk binary
+*.keystore binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.ttf binary
+*.otf binary
