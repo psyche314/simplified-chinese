@@ -20,7 +20,153 @@ python tools/check_translation_coverage.py `
   --report _staging/rewrite-coverage.json
 ```
 
-检查器会报告缺失对白 ID、缺失菜单键、空译文、`pass`、重复项以及 Ren’Py 插值/标签不匹配。当前环境尚未安装 Ren’Py SDK，因此 APK 构建验证仍待 SDK 环境完成后执行。
+检查器会报告缺失对白 ID、缺失菜单键、空译文、`pass`、重复项以及 Ren’Py 插值/标签不匹配。Android APK 已在 Ren’Py 7.8.6、RAPT、JDK 21 和 Android SDK 环境中成功构建；桌面运行与真机运行尚未验证。
+
+## 平台构建
+
+Android、Windows、Linux 和 macOS 是四个并列的构建目标。这里要区分两个平台概念：`host` 是实际运行 Ren’Py SDK 命令行 Python 的系统，`target` 是要生成的游戏包的平台。`host` 和 `target` 不要求相同；例如，Windows host 可以生成 Linux 包或 macOS `.app` ZIP，Linux host 可以生成 Windows 包。
+
+Android 使用 `android_build`，桌面平台使用 `distribute`。命令必须使用当前 host 对应的 SDK 内置 Python，不能因为 target 是其他系统而改用 target 的 Python。
+
+### 选择 host 运行时
+
+将 `RENPY_SDK` 设置为 SDK 目录后，按当前 host 选择对应的 `RENPY_PYTHON`：
+
+| host | SDK 内置 Python |
+| --- | --- |
+| Windows | `%RENPY_SDK%\lib\py2-windows-x86_64\python.exe` |
+| Linux | `$RENPY_SDK/lib/py2-linux-x86_64/python` |
+| macOS | `$RENPY_SDK/lib/py2-mac-universal/python` |
+
+Windows host：
+
+```bat
+set "RENPY_SDK=%USERPROFILE%\renpy-7.8.6-sdk"
+set "RENPY_PYTHON=%RENPY_SDK%\lib\py2-windows-x86_64\python.exe"
+```
+
+Linux 或 macOS host：
+
+```bash
+export RENPY_SDK="$HOME/renpy-7.8.6-sdk"
+
+# Linux host
+export RENPY_PYTHON="$RENPY_SDK/lib/py2-linux-x86_64/python"
+
+# macOS host（与上面的 Linux 设置二选一）
+# export RENPY_PYTHON="$RENPY_SDK/lib/py2-mac-universal/python"
+```
+
+下面的 POSIX 示例假定已经设置了 `$RENPY_PYTHON`；Windows host 使用等价的 `%RENPY_PYTHON%` 写法。所有命令都应在项目根目录执行。
+
+### Android target
+
+Android 构建需要 Ren’Py 7.8.6 SDK、RAPT、JDK 21 和 Android SDK。它可以由支持的 Windows、Linux 或 macOS host 调用；host 只决定上表中的 Python 路径，`android_build` 决定 target。Gradle 缓存应保存在用户目录 `~/.gradle`，不应放入项目目录。
+
+Linux/macOS host：
+
+```bash
+cd /path/to/outland-wanderer
+
+export JAVA_HOME="/path/to/jdk-21"  # 按 host 的 JDK 安装路径调整
+export GRADLE_USER_HOME="$HOME/.gradle"
+export ANDROID_HOME="$HOME/Android/Sdk"
+export ANDROID_SDK_ROOT="$ANDROID_HOME"
+
+"$RENPY_PYTHON" \
+  "$RENPY_SDK/renpy.py" \
+  "$RENPY_SDK/launcher" \
+  android_build . \
+  --destination "$PWD/dist/android"
+```
+
+Windows host：
+
+```bat
+cd /d path\to\outland-wanderer
+
+"%RENPY_PYTHON%" "%RENPY_SDK%\renpy.py" "%RENPY_SDK%\launcher" android_build . --destination "%CD%\dist\android"
+```
+
+构建完成后，APK 位于 `dist/android/`。RAPT 还会在 SDK 的 `rapt/bin/` 中保留一份内部产物，这是 Ren’Py 7.8.6 的默认行为。
+
+### Windows target
+
+`win` target 可从 Windows、Linux 或 macOS host 生成。
+
+Linux/macOS host：
+
+```bash
+"$RENPY_PYTHON" \
+  "$RENPY_SDK/renpy.py" \
+  "$RENPY_SDK/launcher" \
+  distribute . \
+  --package win \
+  --destination "$PWD/dist/windows"
+```
+
+Windows host：
+
+```bat
+"%RENPY_PYTHON%" "%RENPY_SDK%\renpy.py" "%RENPY_SDK%\launcher" distribute . --package win --destination "%CD%\dist\windows"
+```
+
+### Linux target
+
+`linux` target 可从 Windows、Linux 或 macOS host 生成：
+
+```bash
+"$RENPY_PYTHON" \
+  "$RENPY_SDK/renpy.py" \
+  "$RENPY_SDK/launcher" \
+  distribute . \
+  --package linux \
+  --destination "$PWD/dist/linux"
+```
+
+Windows host 使用：
+
+```bat
+"%RENPY_PYTHON%" "%RENPY_SDK%\renpy.py" "%RENPY_SDK%\launcher" distribute . --package linux --destination "%CD%\dist\linux"
+```
+
+输出为 `dist/linux/` 下的 Linux `.tar.bz2` 包。
+
+### macOS target
+
+macOS `.app` ZIP 可从 Windows、Linux 或 macOS host 生成。跨平台打包时显式指定 `app-zip`：
+
+Linux/macOS host：
+
+```bash
+"$RENPY_PYTHON" \
+  "$RENPY_SDK/renpy.py" \
+  "$RENPY_SDK/launcher" \
+  distribute . \
+  --package mac \
+  --format app-zip \
+  --destination "$PWD/dist/macos"
+```
+
+Windows host：
+
+```bat
+"%RENPY_PYTHON%" "%RENPY_SDK%\renpy.py" "%RENPY_SDK%\launcher" distribute . --package mac --format app-zip --destination "%CD%\dist\macos"
+```
+
+DMG 依赖 macOS 的系统工具，只能在 macOS host 上生成：
+
+```bash
+"$RENPY_PYTHON" \
+  "$RENPY_SDK/renpy.py" \
+  "$RENPY_SDK/launcher" \
+  distribute . \
+  --package mac \
+  --format app-dmg \
+  --destination "$PWD/dist/macos"
+```
+
+代码签名和公证也必须在 macOS 上完成。Windows host 生成 Linux 或 macOS 包时，仍应在对应目标系统上进行启动、权限和发行流程验证。
 
 ## 游戏简介
 
