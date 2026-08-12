@@ -1,7 +1,7 @@
 translate schinese_rewrite battle_attack_script_9f89fa4c:
 
     # "You struggle against the spell, trying to break free. You dealt [oa[4]] damage to the guardian in the process, his grip has loosen as well."
-    "你奋力抵抗咒语，试图挣脱束缚。在此过程中，你对护卫造成了[oa[4]]点伤害，它的手也松开了些。"
+    "你奋力抵抗咒语，试图挣脱束缚。在此过程中，你对守护者造成了[oa[4]]点伤害，它的手也松开了些。"
 
 translate schinese_rewrite battle_attack_script_a0b503c2:
 
@@ -56,22 +56,22 @@ translate schinese_rewrite battle_attack_script_5dfa5b46:
 translate schinese_rewrite battle_attack_script_d7e5bd08:
 
     # "You slash your [pc.weapon.name!t] at the arm of the guardian, but his magical aura repels the attack."
-    "你挥动[pc.weapon.name!t]砍向符石护卫的手臂，但他的魔法气场弹开了这一击。"
+    "你挥动[pc.weapon.name!t]砍向守护者的手臂，但他的魔法气场弹开了这一击。"
 
 translate schinese_rewrite battle_attack_script_7fecda09:
 
     # "You slam your [pc.weapon.name!t] at the guardian's head, but his magical aura repels the attack."
-    "你抡起[pc.weapon.name!t]砸向符石护卫的头部，但他的魔法气场弹开了这一击。"
+    "你抡起[pc.weapon.name!t]砸向守护者的头部，但他的魔法气场弹开了这一击。"
 
 translate schinese_rewrite battle_attack_script_3aed010f:
 
     # "You aim and shoot your [pc.weapon.name!t] at the guardian, but it seems to have missed."
-    "你瞄准符石护卫射出[pc.weapon.name!t]，但似乎射偏了。"
+    "你瞄准守护者射出[pc.weapon.name!t]，但似乎射偏了。"
 
 translate schinese_rewrite battle_attack_script_da1015f3:
 
     # "You throw your fist at the guardian, but you punch into the air instead."
-    "你一拳挥向符石护卫，却只打中了空气。"
+    "你一拳挥向守护者，却只打中了空气。"
 
 translate schinese_rewrite battle_attack_script_2ce302db:
 
@@ -286,7 +286,7 @@ translate schinese_rewrite battle_attack_script_dca0d60e:
 translate schinese_rewrite battle_attack_script_911caff7:
 
     # gnl "You swing, I dance!"
-    gnl "你挥拳，我起舞！"
+    gnl "你挥动，我起舞！"
 
 translate schinese_rewrite battle_attack_script_619312a4:
 
@@ -331,7 +331,7 @@ translate schinese_rewrite battle_attack_script_0824667a:
 translate schinese_rewrite battle_attack_script_6430a4d5:
 
     # "Amble strikes his hammer against the fluffy leaves of the bridgeroot, it hits his core very effectively as the green monster staggers a bit backwards, you can clearly see the crater his hammer creates there."
-    "安布挥锤砸向桥根蓬松的叶片，锤头极其有效地击中了它的核心。这个绿色怪物踉跄着向后退去，你清楚地看见了锤子在它身上砸出的凹坑。"
+    "安布挥锤砸向桥根蓬松的叶片，锤头结结实实地击中了它的核心。这个绿色怪物踉跄着向后退去，你清楚地看见了锤子在它身上砸出的凹坑。"
 
 translate schinese_rewrite battle_attack_script_ac32d1b0:
 
@@ -361,12 +361,12 @@ translate schinese_rewrite battle_attack_script_3a5b1398:
 translate schinese_rewrite battle_attack_script_d99a2c47:
 
     # "You growl and swing your sword, slashing right into the dummy."
-    "你怒吼着挥剑，径直砍向人偶。"
+    "你怒吼着挥剑，径直砍中人偶。"
 
 translate schinese_rewrite battle_attack_script_285e2b00:
 
     # "You growl and swing your axe, slashing right into the dummy."
-    "你怒吼着挥斧，径直砍向人偶。"
+    "你怒吼着挥斧，径直砍中人偶。"
 
 translate schinese_rewrite battle_attack_script_571e5fff:
 
@@ -446,42 +446,42 @@ translate schinese_rewrite battle_attack_script_b5fde2de:
 translate schinese_rewrite battle_attack_script_34af9287:
 
     # "You slash your [pc.weapon.name!t] at the arm of the Rune Guardian, your blade scraps against the stone. Some of it crack and falls off his body."
-    "你挥动[pc.weapon.name!t]砍向符石护卫的手臂，刀刃在石头上擦过，护卫身上的一部分石块裂开并掉落。"
+    "你挥动[pc.weapon.name!t]砍向符文守护者的手臂，刀刃在石头上擦过，它身上的一部分石块裂开并掉落。"
 
 translate schinese_rewrite battle_attack_script_b1e6fa40:
 
     # "You slash your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
-    "你挥动[pc.weapon.name!t]横砍符石护卫的身体，将他击得连退几步。符石护卫因愤怒而无声颤抖。"
+    "你挥动[pc.weapon.name!t]横砍守护者的身体，将它击得连退几步。守护者因愤怒而无声颤抖。"
 
 translate schinese_rewrite battle_attack_script_0e24220d:
 
     # "You slam your [pc.weapon.name!t] at the arm of the Rune Guardian, your blade grazes against the stone. Some of it crack and falls off his body."
-    "你抡起[pc.weapon.name!t]猛击符石护卫的手臂，刀刃擦过石头，身上的一部分石块随之崩落。"
+    "你抡起[pc.weapon.name!t]猛击符文守护者的手臂，刀刃擦过石头，它身上的一部分石块随之崩落。"
 
 translate schinese_rewrite battle_attack_script_124a16cb:
 
     # "You slam your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
-    "你挥动[pc.weapon.name!t]横劈符石护卫的身体，将他击得连退几步。符石护卫因愤怒而无声颤抖。"
+    "你挥动[pc.weapon.name!t]横劈守护者的身体，将它击得连退几步。守护者因愤怒而无声颤抖。"
 
 translate schinese_rewrite battle_attack_script_7c6ad50c:
 
     # "You aim and shoot your [pc.weapon.name!t] at the Rune Guardian, the arrow hits right into his arm, striking off a few rubbles."
-    "你瞄准符石护卫，射出[pc.weapon.name!t]，箭矢正中他的手臂，击落了几块石屑。"
+    "你瞄准符文守护者，射出[pc.weapon.name!t]，箭矢正中它的手臂，击落了几块石屑。"
 
 translate schinese_rewrite battle_attack_script_db8f38b0:
 
     # "You run while shooting your [pc.weapon.name!t] across the guardian's body, knocking him back a few steps. The guardian quakes silently in anger."
-    "你一边奔跑，一边射出[pc.weapon.name!t]袭向符石护卫的身体，将他击得连退几步。符石护卫因愤怒而无声颤抖。"
+    "你一边奔跑，一边射出[pc.weapon.name!t]袭向守护者的身体，将它击得连退几步。守护者因愤怒而无声颤抖。"
 
 translate schinese_rewrite battle_attack_script_7ebd82f2:
 
     # "You throw your fist at the guardian, hitting him right across his body, the sheer impact strikes off a few rubbles."
-    "你一拳打向符石护卫的身体，强大的冲击力震落了他身上的几块石头。"
+    "你一拳打向守护者的身体，强大的冲击力震落了它身上的几块石头。"
 
 translate schinese_rewrite battle_attack_script_46df7f65:
 
     # "You punch into the guardian's stomach, knocking him back a few steps. The guardian quakes silently in anger."
-    "你一拳击中符石护卫的腹部，将他击得连退几步。符石护卫因愤怒而无声颤抖。"
+    "你一拳击中守护者的腹部，将它击得连退几步。守护者因愤怒而无声颤抖。"
 
 translate schinese_rewrite battle_attack_script_9003ef3c:
 
@@ -556,7 +556,7 @@ translate schinese_rewrite battle_attack_script_d1981cb3:
 translate schinese_rewrite battle_attack_script_c64232dd:
 
     # "You hold your fist, with all your might you throw a punch at the [target.name!t], as your blade grazes through the leaves and vines on [target.name!t], and a chunk of leaves falls off of him, casually."
-    "你握紧拳头，使尽全力朝[target.name!t]挥出一拳；你的刀刃擦过[target.name!t]身上的枝叶和藤蔓，随意地削落一大块叶片。"
+    "你握紧拳头，使尽全力朝[target.name!t]挥出一拳；你的拳头擦过[target.name!t]身上的枝叶和藤蔓，随意地削落一大块叶片。"
 
 translate schinese_rewrite battle_attack_script_3bb039f4:
 
@@ -576,7 +576,7 @@ translate schinese_rewrite battle_attack_script_7805901e:
 translate schinese_rewrite battle_attack_script_cc3ec4e2:
 
     # "You aim and shoot your [pc.weapon.name!t] at the [target.name!t], the shot grazes through the ghostly form of the [target.name!t]."
-    "你瞄准[target.name!t]射出[pc.weapon.name!t]，射出的攻击擦过[target.name!t]虚幻的身躯。"
+    "你瞄准[target.name!t]射出[pc.weapon.name!t]，这一击擦过[target.name!t]虚幻的身躯。"
 
 translate schinese_rewrite battle_attack_script_77cfbe7f:
 
@@ -591,7 +591,7 @@ translate schinese_rewrite battle_attack_script_3e8d701f:
 translate schinese_rewrite battle_attack_script_1a6ba155:
 
     # "You unleash a flurry of punches, each strike aimed at Vurro's chest and shoulder."
-    "你朝伏罗的胸口和肩膀连续挥出一阵拳头。"
+    "你朝伏罗的胸口和肩膀连续挥拳。"
 
 translate schinese_rewrite battle_attack_script_7ba4baa4:
 
@@ -621,7 +621,7 @@ translate schinese_rewrite battle_attack_script_9ffe5e36:
 translate schinese_rewrite battle_attack_script_12680f06:
 
     # "You slash your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the [target.name!t]'s stomach. Drops of blood drips through his body."
-    "你挥动[pc.weapon.name!t]砍向[target.name!t]，刀刃擦过[target.name!t]的腹部，几滴鲜血从他体内滴落。"
+    "你挥动[pc.weapon.name!t]砍向[target.name!t]，刀刃擦过[target.name!t]的腹部，几滴鲜血顺着他的身体淌下。"
 
 translate schinese_rewrite battle_attack_script_151b9439:
 
@@ -631,7 +631,7 @@ translate schinese_rewrite battle_attack_script_151b9439:
 translate schinese_rewrite battle_attack_script_e5a49a17:
 
     # "You slam your [pc.weapon.name!t] at the [target.name!t], your blade grazes through the [target.name!t]'s stomach. Drops of blood drips through his body."
-    "你抡起[pc.weapon.name!t]砸向[target.name!t]，刀刃擦过[target.name!t]的腹部，几滴鲜血从他体内滴落。"
+    "你抡起[pc.weapon.name!t]砸向[target.name!t]，刀刃擦过[target.name!t]的腹部，几滴鲜血顺着他的身体淌下。"
 
 translate schinese_rewrite battle_attack_script_3d3f0282:
 
@@ -726,7 +726,7 @@ translate schinese_rewrite battle_attack_script_d3d10638:
 translate schinese_rewrite battle_attack_script_ec2ed84a:
 
     # bearGuard "Arrgh! By Ookko's bless, I- I won't let you g-get away with this."
-    bearGuard "啊！看在奥科的祝福上，我、我不会让你逃、逃过这一劫。"
+    bearGuard "啊！奥科保佑，我、我不会让你就这么逃掉的。"
 
 translate schinese_rewrite battle_attack_script_c5074ad8:
 
@@ -816,17 +816,17 @@ translate schinese_rewrite battle_attack_script_69eb351b:
 translate schinese_rewrite battle_flirt_script_92d18f4a:
 
     # "You struggle against the guardian as you try to reach under the guardian's crotch, trying to get a reaction from the guardian."
-    "你一边挣扎，一边试图伸手探向符石护卫的胯下，想要激起他的反应。"
+    "你一边与守护者缠斗，一边试图把手伸到守护者的胯下，想要引起他的反应。"
 
 translate schinese_rewrite battle_flirt_script_58222c25:
 
     # "The guardian instanly react with your advance, vibrating profusely with his moss. His grip is weakening as well."
-    "如此大胆的举动令符石护卫立马起了反应，他身体表面的苔藓剧烈颤抖，握力似乎也减弱了几分。"
+    "如此大胆的举动令守护者立马起了反应，它身体表面的苔藓剧烈颤抖，握力似乎也减弱了几分。"
 
 translate schinese_rewrite battle_flirt_script_c67e5a06:
 
     # "You struggld against the tendrils from the cultist, only to be bound tighter in its retaliation."
-    "你挣扎着对抗邪教徒的触手，却只换来更紧的束缚作为反击。"
+    "你挣扎着对抗邪教徒的卷须，却反而被它缚得更紧。"
 
 translate schinese_rewrite battle_flirt_script_edfe1f5f:
 
@@ -891,7 +891,7 @@ translate schinese_rewrite battle_flirt_script_c2ea7413:
 translate schinese_rewrite battle_flirt_script_7aae6f2c:
 
     # "You continue your act for about a minute, but the huntsman doesn't even flinch."
-    "你继续表演了大约一分钟，但那名猎手连眼睛都没眨一下。"
+    "你继续表演了大约一分钟，但那名山羊猎人连眼睛都没眨一下。"
 
 translate schinese_rewrite battle_flirt_script_29ded62b:
 
@@ -916,7 +916,7 @@ translate schinese_rewrite battle_flirt_script_c552aa71:
 translate schinese_rewrite battle_flirt_script_5192f25a:
 
     # "The bear snatches at your hand, but you quickly retreat in time."
-    "熊朝你的手猛扑过来，但你及时迅速地躲开了。"
+    "熊卫朝你的手猛扑过来，但你及时躲开了。"
 
 translate schinese_rewrite battle_flirt_script_25da557a:
 
@@ -926,12 +926,12 @@ translate schinese_rewrite battle_flirt_script_25da557a:
 translate schinese_rewrite battle_flirt_script_e8fc8231:
 
     # "You continue your act for about a minute, but the Rune Guardian doesn't even flinch."
-    "你继续自导自演了大约一分钟，但符文护卫连眼都没眨一下。"
+    "你继续自导自演了大约一分钟，但守护者连眼都没眨一下。"
 
 translate schinese_rewrite battle_flirt_script_4c1908a3:
 
     # "Disappointed, you back away before the guardian can grab a hold of you."
-    "你有些失望，在护卫抓住你之前退开了。"
+    "你有些失望，在守护者抓住你之前退开了。"
 
 translate schinese_rewrite battle_flirt_script_cba7f25f:
 
@@ -991,7 +991,7 @@ translate schinese_rewrite battle_flirt_script_ae4f2742:
 translate schinese_rewrite battle_flirt_script_3548818f:
 
     # "You can tell the huntsman is already playing with himself when his hand goes under his loincloth, staring at your ass intently. His lust is increased by [player_flirt]"
-    "你能看出，猎人已经开始自慰：他一边把手伸进遮裆布下，一边死死盯着你的屁股。他的性欲增加了 [player_flirt] 点"
+    "你能看出，山羊猎人已经开始自慰：他一边把手伸进遮裆布下，一边死死盯着你的屁股。他的性欲增加了 [player_flirt] 点。"
 
 translate schinese_rewrite battle_flirt_script_0d56d52b:
 
@@ -1021,7 +1021,7 @@ translate schinese_rewrite battle_flirt_script_003220db:
 translate schinese_rewrite battle_flirt_script_ddcedc6e:
 
     # "You can see the bear's clenches his fist tightly, something under his loincloth begins to move, even as he closes his eyes, and remain silent."
-    "你能看到熊紧紧攥住拳头；即使他闭上双眼，保持沉默，遮裆布下的某个部位也开始动了起来。"
+    "你能看到熊卫紧紧攥住拳头；即使他闭上双眼，保持沉默，遮裆布下的某个部位也开始动了起来。"
 
 translate schinese_rewrite battle_flirt_script_877a56ed:
 
@@ -1036,7 +1036,7 @@ translate schinese_rewrite battle_flirt_script_bac300f5:
 translate schinese_rewrite battle_flirt_script_64fa8444:
 
     # "The bear pants heavily, his cheeks are alraedy so red, you can see his drool dripping uncontrollably as he watches."
-    "熊喘着粗气，脸颊已经红得发烫；他一边注视着你，口水一边不受控制地流了下来。"
+    "熊卫喘着粗气，脸颊已经红得发烫；他一边注视着你，口水一边不受控制地流了下来。"
 
 translate schinese_rewrite battle_flirt_script_877a56ed_1:
 
@@ -1071,12 +1071,12 @@ translate schinese_rewrite battle_flirt_script_c294968b:
 translate schinese_rewrite battle_flirt_script_0686837e:
 
     # "The guardian doesn't speak, but he is extremely distracted by your performance. His lust is increased by [player_flirt]."
-    "符石护卫没有说话，但你的表演让他极度分心。他的性欲增加了 [player_flirt] 点。"
+    "守护者没有说话，但你的表演让它极度分心。它的性欲增加了[player_flirt]点。"
 
 translate schinese_rewrite battle_flirt_script_c632bd62:
 
     # "Even if it's just a little, you notice a mild vibration in the bridgeroot's moss, it seems to react easily. His lust is increased by [player_flirt]."
-    "即便只有一点点，你还是注意到桥根的苔藓在微微颤动，看来它很容易受到刺激。他的性欲增加了 [player_flirt] 点。"
+    "即便只有一点点，你还是注意到桥根的苔藓在微微颤动，看来它很容易受到刺激。它的性欲增加了 [player_flirt] 点。"
 
 translate schinese_rewrite battle_flirt_script_41565c63:
 
@@ -1171,22 +1171,22 @@ translate schinese_rewrite battle_flirt_script_ec94cb21:
 translate schinese_rewrite battle_flirt_script_a3289262:
 
     # gnl "Mmmmmph... I sense a wild growth. Can't hold-"
-    gnl "呜呜...我感觉到一股野性的生长。快忍不住了——"
+    gnl "呜呜……我感觉到一股野性的生长。快忍不住了——"
 
 translate schinese_rewrite battle_flirt_script_f7049853:
 
     # gnl "No think- Not... g-giving in..."
-    gnl "别想——不...不认输..."
+    gnl "别想——不……不认输……"
 
 translate schinese_rewrite battle_flirt_script_13188d4d:
 
     # bd "Mmmmph..."
-    bd "唔嗯..."
+    bd "唔嗯……"
 
 translate schinese_rewrite battle_flirt_script_756769c4:
 
     # bd "N-not even... c-close."
-    bd "还...还差得远呢。"
+    bd "还……还差得远呢。"
 
 translate schinese_rewrite battle_escape_surrender_script_cfcbc5f4:
 
@@ -1201,7 +1201,7 @@ translate schinese_rewrite battle_escape_surrender_script_0fe6ac61:
 translate schinese_rewrite battle_escape_surrender_script_449a6dcd:
 
     # "As much as you try, you cannot escape from the guardian's magical aura."
-    "无论你怎么尝试，都无法逃出守卫的魔法光环。"
+    "不论你怎么努力，都无法逃离符文守护者的魔法气场。"
 
 translate schinese_rewrite battle_escape_surrender_script_f321de17:
 
@@ -1216,7 +1216,7 @@ translate schinese_rewrite battle_escape_surrender_script_89f13d8f:
 translate schinese_rewrite battle_escape_surrender_script_d502f36e:
 
     # "You cannot run away from battle practice..."
-    "你无法逃脱战斗训练..."
+    "你无法逃脱战斗训练……"
 
 translate schinese_rewrite battle_escape_surrender_script_998e079d:
 
@@ -1236,17 +1236,17 @@ translate schinese_rewrite battle_escape_surrender_script_94977c72:
 translate schinese_rewrite battle_escape_surrender_script_c0ea3135:
 
     # "You slowly back down from the goat's attack, turn around, and run as fast as you can. Suddenly, you slip and fall on the trap he set up ealier. Your escape seems to have failed!"
-    "你慢慢退出山羊的攻击范围，转身以最快速度逃跑。突然，你在他之前设下的陷阱上滑倒了。看来你逃跑失败了！"
+    "你慢慢退出山羊猎人的攻击范围，转身以最快速度逃跑。突然，你在他之前设下的陷阱上滑倒了。看来你逃跑失败了！"
 
 translate schinese_rewrite battle_escape_surrender_script_4cd25dd1:
 
     # gt "Haha... Come back here you insolent wretch, I am not done with you yet."
-    gt "哈哈...回来，你这个无礼的家伙，我还没收拾完你呢。"
+    gt "哈哈……回来，你这个无礼的家伙，我还没收拾完你呢。"
 
 translate schinese_rewrite battle_escape_surrender_script_d4c5f64c:
 
     # gt "Mhmm... need to improve your running skills as well."
-    gt "嗯...你的奔跑技巧也需要提高。"
+    gt "嗯……你的奔跑技巧也需要提高。"
 
 translate schinese_rewrite battle_escape_surrender_script_33260ed5:
 
@@ -1291,7 +1291,7 @@ translate schinese_rewrite battle_escape_surrender_script_ed3263e8:
 translate schinese_rewrite battle_escape_surrender_script_d5ffdb9d:
 
     # "You slowly back away from the goat's attack, turn around, and run as fast as you can. The goat throws his spear at you, barely missing your head. You successfully escaped from the huntsman!"
-    "你慢慢退出山羊的攻击范围，转身以最快速度逃跑。山羊将长矛投向你，险些击中你的脑袋。你成功逃脱了这名猎人！"
+    "你慢慢退出山羊猎人的攻击范围，转身以最快速度逃跑。山羊猎人将长矛投向你，险些击中你的脑袋。你成功逃脱了山羊猎人！"
 
 translate schinese_rewrite battle_escape_surrender_script_1ebf5074:
 
@@ -1336,7 +1336,7 @@ translate schinese_rewrite battle_escape_surrender_script_2f57f6fe:
 translate schinese_rewrite battle_escape_surrender_script_f800fe89:
 
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the guardian."
-    "你耗尽了所有气力，双膝跪倒在地，躺在地上大口喘息，向守卫投降。"
+    "你耗尽了所有气力，双膝跪倒在地，躺在地上大口喘息，向守护者投降。"
 
 translate schinese_rewrite battle_escape_surrender_script_09949f9d:
 
@@ -1506,7 +1506,7 @@ translate schinese_rewrite mimic_battle_loop_24bcc736:
 translate schinese_rewrite mimic_battle_loop_8b6fd26f:
 
     # "You've critically hit the mimic chest, dealing [oa[4]] HP!"
-    "你对宝箱怪造成了暴击，打掉[oa[4]]点生命值！"
+    "你对宝箱怪造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite mimic_battle_loop_cd0c87b2:
 
@@ -1566,12 +1566,12 @@ translate schinese_rewrite mimic_battle_loop_5ac9b1f2:
 translate schinese_rewrite mimic_battle_loop_8aab012c:
 
     # "The mimic flings his tongue towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "宝箱怪朝你甩出舌头，你来不及躲开这一击。你的体力减少了[enemy_damage]点。"
+    "宝箱怪朝你甩出舌头，你来不及躲开这一击。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite mimic_battle_loop_8aa01276:
 
     # "The mimic slaps his tongue onto your head, knocking you on the ground. Your health decreases by [enemy_damage] HP."
-    "宝箱怪将舌头拍在你的头上，把你击倒在地。你的体力减少了[enemy_damage]点。"
+    "宝箱怪将舌头拍在你的头上，把你击倒在地。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite mimic_battle_loop_32ebdbf5:
 
@@ -1606,37 +1606,37 @@ translate schinese_rewrite mimic_battle_loop_981402c5:
 translate schinese_rewrite stoneward_battle_8e8755b5:
 
     # "You are facing a stone ward, it seems to be summoned by the guardian. You raise your fist in defence."
-    "你正面对着一尊石魔像，似乎是符石护卫召唤出来的。你握紧拳头，摆好了防御姿势。"
+    "你正面对着一尊石之结界，似乎是符文守护者召唤出来的。你握紧拳头，摆好防御姿势。"
 
 translate schinese_rewrite stoneward_battle_b6e183cc:
 
     # "You are facing a stone ward, it seems to be summoned by the guardian. You raise your [pc.weapon.name!t] in defence."
-    "你正面对着一尊石魔像，似乎是符石护卫召唤出来的。你举起[pc.weapon.name!t]，摆好了防御姿势。"
+    "你正面对着一尊石之结界，似乎是符文守护者召唤出来的。你举起[pc.weapon.name!t]，摆好防御姿势。"
 
 translate schinese_rewrite stoneward_battle_loop_536191df:
 
     # "You slash your [pc.weapon.name!t] at the arm of the stone ward, but you simply missed him by inches."
-    "你挥动[pc.weapon.name!t]砍向石魔像的手臂，却只差几寸便击中。"
+    "你挥动[pc.weapon.name!t]砍向石之结界的手臂，却只差几寸便击中。"
 
 translate schinese_rewrite stoneward_battle_loop_301ee13f:
 
     # "You slam your [pc.weapon.name!t] at the stone ward's head, but you simply missed him by inches."
-    "你抡起[pc.weapon.name!t]砸向石魔像的脑袋，却只差几寸便击中。"
+    "你抡起[pc.weapon.name!t]砸向石之结界的脑袋，却只差几寸便击中。"
 
 translate schinese_rewrite stoneward_battle_loop_c9c49552:
 
     # "You aim and shoot your [pc.weapon.name!t] at the stone ward, but you simply missed him by inches."
-    "你瞄准石魔像射出[pc.weapon.name!t]，却只差几寸便击中。"
+    "你瞄准石之结界射出[pc.weapon.name!t]，却只差几寸便射中。"
 
 translate schinese_rewrite stoneward_battle_loop_ad49353b:
 
     # "You throw your fist at the stone ward, but you simply missed him by inches."
-    "你朝石魔像挥出一拳，却只差几寸便击中。"
+    "你朝石之结界挥出一拳，却只差几寸便打中。"
 
 translate schinese_rewrite stoneward_battle_loop_ad1fbfe3:
 
     # "You slash your [pc.weapon.name!t] at the arm of the stone ward, knocking a few pebbles off his body."
-    "你挥动[pc.weapon.name!t]砍向石魔像的手臂，削下了它身上的几块小石头。"
+    "你挥动[pc.weapon.name!t]砍向石之结界的手臂，削下了它身上的几块小石头。"
 
 translate schinese_rewrite stoneward_battle_loop_3f10a603:
 
@@ -1646,7 +1646,7 @@ translate schinese_rewrite stoneward_battle_loop_3f10a603:
 translate schinese_rewrite stoneward_battle_loop_619d496e:
 
     # "You slam your [pc.weapon.name!t] at the stone ward's head, knocking him on the ground."
-    "你抡起[pc.weapon.name!t]砸向石魔像的脑袋，将它击倒在地。"
+    "你抡起[pc.weapon.name!t]砸向石之结界的脑袋，将它击倒在地。"
 
 translate schinese_rewrite stoneward_battle_loop_3f10a603_1:
 
@@ -1656,12 +1656,12 @@ translate schinese_rewrite stoneward_battle_loop_3f10a603_1:
 translate schinese_rewrite stoneward_battle_loop_b6ec3400:
 
     # "You aim and shoot your [pc.weapon.name!t] at the stone ward, the arrow hit right into his shoulder."
-    "你瞄准石魔像射出[pc.weapon.name!t]，箭矢正中它的肩膀。"
+    "你瞄准石之结界射出[pc.weapon.name!t]，箭矢正中它的肩膀。"
 
 translate schinese_rewrite stoneward_battle_loop_59661794:
 
     # "You throw your fist at the stone ward, hitting him right across his face."
-    "你朝石魔像挥出一拳，正中它的脸部。"
+    "你朝石之结界挥出一拳，正中它的脸部。"
 
 translate schinese_rewrite stoneward_battle_loop_d3633215:
 
@@ -1676,22 +1676,22 @@ translate schinese_rewrite stoneward_battle_loop_24bcc736:
 translate schinese_rewrite stoneward_battle_loop_232d37cb:
 
     # "You've critically hit the stone ward, dealing [oa[4]] HP!"
-    "你对石魔像造成了暴击，造成[oa[4]]点伤害！"
+    "你对石之结界造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite stoneward_battle_loop_43633e63:
 
     # "As much as you move your hip and grind your ass against the stone ward, it doesn't seem to flinch."
-    "无论你如何扭动腰胯、用屁股在石魔像身上磨蹭，它似乎都毫不在意。"
+    "无论你如何扭动腰胯、用屁股在石之结界身上磨蹭，它似乎都毫不在意。"
 
 translate schinese_rewrite stoneward_battle_loop_b8342486:
 
     # "You eventually give up before he can actually latch onto you."
-    "你最终还是放弃了，不等他真的抓住你。"
+    "你最终还是放弃了，还没等它真的抓住你。"
 
 translate schinese_rewrite stoneward_battle_loop_60e05e86:
 
     # "You slowly back down from the stoneward's attack, you turn around and run as fast as you can."
-    "你慢慢退出石魔像的攻击范围，转身以最快速度逃跑。"
+    "你慢慢退出石之结界的攻击范围，转身以最快速度逃跑。"
 
 translate schinese_rewrite stoneward_battle_loop_07717b12:
 
@@ -1701,17 +1701,17 @@ translate schinese_rewrite stoneward_battle_loop_07717b12:
 translate schinese_rewrite stoneward_battle_loop_f9e4d13c:
 
     # "You slowly back down from the stone ward's attack, you turn around and run as fast as you can."
-    "你慢慢退出石魔像的攻击范围，转身以最快速度逃跑。"
+    "你慢慢退出石之结界的攻击范围，转身以最快速度逃跑。"
 
 translate schinese_rewrite stoneward_battle_loop_08db627e:
 
     # "The stone ward tries to run after you but he is too slow, You successfully escaped from the Stone Ward!"
-    "石魔像试图追上你，但它速度太慢了。你成功逃离了石魔像！"
+    "石之结界试图追上你，但它速度太慢了。你成功逃离了石之结界！"
 
 translate schinese_rewrite stoneward_battle_loop_c2773c3b:
 
     # "You fall to your knees, exhausted all your energy, you grasp for breath as you lie on the ground, surrendering yourself to the Stone Ward."
-    "你双膝跪倒在地，耗尽了所有力气。你躺在地上大口喘息，任由自己向石魔像投降。"
+    "你双膝跪倒在地，耗尽了所有力气。你躺在地上大口喘息，向石之结界投降。"
 
 translate schinese_rewrite stoneward_battle_loop_5ac9b1f2:
 
@@ -1721,32 +1721,32 @@ translate schinese_rewrite stoneward_battle_loop_5ac9b1f2:
 translate schinese_rewrite stoneward_battle_loop_57148fc2:
 
     # "The stone ward aims and flings 3 huge stones at you, it ignores your dodges and hit you right onto your body. Your health decreases by [ed] HP."
-    "石魔像瞄准你，投来三块巨石。它无视你的闪避，巨石正中你的身体。你的生命值减少了[ed]点。"
+    "石之结界瞄准你，投来三块巨石。你来不及躲闪，被巨石正面砸中。你的生命值减少了[ed]点。"
 
 translate schinese_rewrite stoneward_battle_loop_73bc9dc4:
 
     # "The stone ward swings his left arm towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "石魔像挥动左臂朝你打来，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
+    "石之结界挥动左臂朝你打来，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite stoneward_battle_loop_e7dd5942:
 
     # "The stone ward charges at you, hitting you with a punch to the chest. Your health decreases by [enemy_damage] HP."
-    "石魔像向你冲来，一拳打中你的胸口。你的生命值减少了[enemy_damage]点。"
+    "石之结界向你冲来，一拳打中你的胸口。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite stoneward_battle_loop_ff3ccb52:
 
     # "The stone ward swings his left arm towards you, but you managed to deflect his attack."
-    "石魔像挥动左臂朝你打来，但你成功化解了它的攻击。"
+    "石之结界挥动左臂朝你打来，但你成功化解了它的攻击。"
 
 translate schinese_rewrite stoneward_battle_loop_cd981659:
 
     # "The stone ward charges at you, trying to punch at your chest but you block the blow and push him back."
-    "石魔像向你冲来，试图一拳打向你的胸口，但你挡住了这一击，并将它推了回去。"
+    "石之结界向你冲来，试图一拳打向你的胸口，但你挡住了这一击，并将它推了回去。"
 
 translate schinese_rewrite stoneward_battle_loop_baadb9ff:
 
     # "The stone ward holds his fist, saving himself some pebbles."
-    "石魔像攥紧拳头，免得损失几块碎石。"
+    "石之结界攥紧拳头，免得损失几块碎石。"
 
 translate schinese_rewrite stoneward_battle_loop_ae5d07b3:
 
@@ -1756,12 +1756,12 @@ translate schinese_rewrite stoneward_battle_loop_ae5d07b3:
 translate schinese_rewrite stoneward_battle_loop_72b11df8:
 
     # "The stone ward uses the power of the flowing water, and recovers [healing] HP."
-    "石魔像借助流动水流的力量，恢复了[healing]点生命值。"
+    "石之结界借助流水的力量，恢复了[healing]点生命值。"
 
 translate schinese_rewrite stoneward_win_337e9c24:
 
     # "As you defeat the stone ward, the ward begins to collapse and turns to dust in front of your eyes."
-    "你击败石魔像后，它开始崩塌，转眼便在你眼前化作尘土。"
+    "你击败石之结界后，它开始崩塌，转眼便在你眼前化作尘土。"
 
 translate schinese_rewrite stoneward_win_e92d4827:
 
@@ -1771,17 +1771,17 @@ translate schinese_rewrite stoneward_win_e92d4827:
 translate schinese_rewrite stoneward_win_86e38b05:
 
     # "Searching around the stone ward, you found a normal stone and a slate rock!"
-    "你在石魔像周围搜寻，找到了一块普通石头和一块板岩！"
+    "你在石之结界周围搜寻，找到了一块普通石头和一块板岩！"
 
 translate schinese_rewrite stoneward_win_bc0f6ea8:
 
     # "Searching around the stone ward, you found a normal stone!"
-    "你在石魔像周围搜寻，找到了一块普通石头！"
+    "你在石之结界周围搜寻，找到了一块普通石头！"
 
 translate schinese_rewrite stoneward_win_015d740f:
 
     # "You search around the stone ward, you found a slate rock..."
-    "你在石魔像周围搜寻，找到了一块板岩……"
+    "你在石之结界周围搜寻，找到了一块板岩……"
 
 translate schinese_rewrite stoneward_win_9a89312e:
 
@@ -1821,7 +1821,7 @@ translate schinese_rewrite mimic_win_91f1d522:
 translate schinese_rewrite stoneward_lose_c997ea5b:
 
     # "You fell on the ground, the stone ward walks towards you."
-    "你倒在地上，石魔像朝你走来。"
+    "你倒在地上，石之结界朝你走来。"
 
 translate schinese_rewrite stoneward_lose_041df875:
 
@@ -1886,7 +1886,7 @@ translate schinese_rewrite stoneward_lose_bf6f0d3d:
 translate schinese_rewrite stoneward_lose_c997ea5b_1:
 
     # "You fell on the ground, the stone ward walks towards you."
-    "你倒在地上，石魔像朝你走来。"
+    "你倒在地上，石之结界朝你走来。"
 
 translate schinese_rewrite stoneward_lose_041df875_1:
 
@@ -2006,57 +2006,57 @@ translate schinese_rewrite mimic_lose_fde7f20e:
 translate schinese_rewrite runeguardian_battle_528eb585:
 
     # "It is a Rune Guardian. He is standing before you, he looks enraged by your intrusion."
-    "那是一名符石护卫。他正站在你面前，似乎因你的闯入而怒不可遏。"
+    "那是一名符文守护者。它正站在你面前，似乎因你的闯入而怒不可遏。"
 
 translate schinese_rewrite runeguardian_battle_8ed9f221:
 
     # "You can feel his blue aura radiates across the cave."
-    "你能感觉到他身上的蓝色光环辐射了整个山洞。"
+    "你能感觉到他身上的蓝色光环笼罩着整个山洞。"
 
 translate schinese_rewrite runeguardian_battle_456c4288:
 
     # "You raise your [pc.weapon.name!t], defending yourself from the guardian's attack."
-    "你举起[pc.weapon.name!t]，抵挡符石护卫的攻击。"
+    "你举起[pc.weapon.name!t]，抵挡符文守护者的攻击。"
 
 translate schinese_rewrite runeguardian_battle_35c2da0e:
 
     # "You raise your fist, defending yourself from the guardian's attack."
-    "你举起拳头，抵挡符石护卫的攻击。"
+    "你举起拳头，抵挡符文守护者的攻击。"
 
 translate schinese_rewrite runeguardian_battle_loop_e63e900e:
 
     # "The Rune Guardian aims and flings 3 huge stones at you, it ignores your dodges and hit you right onto your body. Your health decreases by [ed] HP."
-    "符石护卫瞄准你，投来三块巨石。你来不及躲闪，被巨石正面砸中。你的生命值减少了[ed]点。"
+    "符文守护者瞄准你，投来三块巨石。你来不及躲闪，被巨石正面砸中。你的生命值减少了[ed]点。"
 
 translate schinese_rewrite runeguardian_battle_loop_8133aa7b:
 
     # "The Rune Guardian holds you in place with his right arm. You try to struggle free but it doesn't work."
-    "符石护卫用右臂将你牢牢制住。你试图挣脱，却无济于事。"
+    "符文守护者用右臂将你牢牢制住。你试图挣脱，却无济于事。"
 
 translate schinese_rewrite runeguardian_battle_loop_8dd06c89:
 
     # "The guardian swing his fist toward your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
-    "符石护卫朝你挥拳，击中了你的胸口。你的生命值减少了[enemy_damage]点。"
+    "符文守护者朝你挥拳，击中了你的胸口。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite runeguardian_battle_loop_f6c92ffb:
 
     # "The guardian strike you down with his vines, you pass out for a few seconds before getting up. Your health decreases by [enemy_damage] HP."
-    "符石护卫挥动藤蔓将你击倒，你昏迷了几秒，随后才重新站起。你的生命值减少了[enemy_damage]点。"
+    "符文守护者挥动藤蔓将你击倒，你昏迷了几秒，随后才重新站起。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite runeguardian_battle_loop_9399e2c4:
 
     # "The guardian swing his fist toward your direction, but you manage to dodge his blow."
-    "符石护卫朝你挥拳，但你成功躲过了这一击。"
+    "符文守护者朝你挥拳，但你成功躲过了这一击。"
 
 translate schinese_rewrite runeguardian_battle_loop_d4f76538:
 
     # "The guardian tries to strike you down with his vines, but he missed the attack just by inches."
-    "符石护卫试图用藤蔓将你击倒，但攻击擦着你身旁几寸的地方落空了。"
+    "符文守护者试图用藤蔓将你击倒，但攻击擦着你身旁几寸的地方落空了。"
 
 translate schinese_rewrite runeguardian_battle_loop_edbb71f1:
 
     # "The guardian prepares for his magic... you feel like his next attack would hurt a lot more."
-    "符石护卫开始准备施法……你觉得它下一次攻击会造成更加严重的伤害。"
+    "符文守护者开始准备施法……你觉得它下一次攻击会造成更加严重的伤害。"
 
 translate schinese_rewrite runeguardian_battle_loop_59d3dccc:
 
@@ -2066,7 +2066,7 @@ translate schinese_rewrite runeguardian_battle_loop_59d3dccc:
 translate schinese_rewrite runeguardian_battle_loop_af541553:
 
     # "The Rune Guardian channels the water into an orb of regeneration, his body becomes revitalised by the power of water."
-    "符石护卫将水汇聚成一颗再生光球，水的力量令它的身体恢复了活力。"
+    "符文守护者将水汇聚成一颗再生光球，水的力量令它的身体恢复了活力。"
 
 translate schinese_rewrite runeguardian_battle_loop_8fd8c645:
 
@@ -2076,12 +2076,12 @@ translate schinese_rewrite runeguardian_battle_loop_8fd8c645:
 translate schinese_rewrite runeguardian_win_d87424a9:
 
     # "The Rune Guardian collapse on the ground, you stare at the guardian, its blue marks are glowly weakly."
-    "符石护卫倒在地上，你凝视着它，身上的蓝色印记正微弱地闪烁着。"
+    "符文守护者倒在地上，你凝视着它，身上的蓝色印记正微弱地闪烁着。"
 
 translate schinese_rewrite runeguardian_win_a5b8bed6:
 
     # "Holding the stone against the golem. The shell of the rock crumbles and reveals a rune crystal right before your eyes."
-    "你将石头抵在魔像身上。石头的外壳在你眼前崩裂开来，露出一枚符文水晶。"
+    "你将石头抵在符文守护者身上。石头的外壳在你眼前崩裂开来，露出一枚符文水晶。"
 
 translate schinese_rewrite runeguardian_win_ddbc5ca2:
 
@@ -2101,17 +2101,17 @@ translate schinese_rewrite runeguardian_win_82091822:
 translate schinese_rewrite runeguardian_win_7469aa9c:
 
     # "The rune fuses into the chest of the dying guardian, and the whole cave glows with bright blue energy."
-    "符文融入垂死的符石护卫胸口，整个洞穴都被明亮的蓝色能量照亮。"
+    "符文融入垂死的符文守护者胸口，整个洞穴都被明亮的蓝色能量照亮。"
 
 translate schinese_rewrite runeguardian_win_7df9c133:
 
     # "Soon, everything returns to normal, except that the guardian seems to not disintegrate like the last one did."
-    "很快，一切恢复正常，只是这名护卫似乎没有像上一个那样解体。"
+    "很快，一切恢复正常，只是这名符文守护者似乎没有像上一个那样解体。"
 
 translate schinese_rewrite runeguardian_win_da5ef959:
 
     # k "It was a weird stone... how did you know it'd save the guardian?"
-    k "真是块奇怪的石头……你怎么知道它能救下这名护卫？"
+    k "真是块奇怪的石头……你怎么知道它能救下这名符文守护者？"
 
 translate schinese_rewrite runeguardian_win_69a09c13:
 
@@ -2136,7 +2136,7 @@ translate schinese_rewrite runeguardian_win_dca44186:
 translate schinese_rewrite runeguardian_win_e5b03714:
 
     # e "Is it this guardian's name?"
-    e "这是这名护卫的名字？"
+    e "这是这名符文守护者的名字？"
 
 translate schinese_rewrite runeguardian_win_64ac4548:
 
@@ -2311,7 +2311,7 @@ translate schinese_rewrite Damp_Cave_End_ead24320:
 translate schinese_rewrite Damp_Cave_End_07929565:
 
     # k "We used it to summon our guardians, or what you called golem."
-    k "我们用它召唤守护者，也就是你说的石魔像。"
+    k "我们用它召唤守护者，也就是你说的魔像。"
 
 translate schinese_rewrite Damp_Cave_End_b34597c1:
 
@@ -2391,7 +2391,7 @@ translate schinese_rewrite Damp_Cave_End_f2da58de:
 translate schinese_rewrite Damp_Cave_End_87555c13:
 
     # f "Guardian died, basin got stolen."
-    f "守护者死了，法盅也被偷走了。"
+    f "符文守护者死了，法盅也被偷走了。"
 
 translate schinese_rewrite Damp_Cave_End_db3cd737:
 
@@ -2696,7 +2696,7 @@ translate schinese_rewrite Damp_Cave_End_39000206:
 translate schinese_rewrite Damp_Cave_End_b34597c1_1:
 
     # f "Is the guardian doing well?"
-    f "符石护卫还好吗？"
+    f "符文守护者还好吗？"
 
 translate schinese_rewrite Damp_Cave_End_8d754181:
 
@@ -2711,7 +2711,7 @@ translate schinese_rewrite Damp_Cave_End_0e8db784:
 translate schinese_rewrite Damp_Cave_End_9520fe9c:
 
     # "You show him the rock you found at the lake, apparently it's been soaked in magical energy enough to heal a golem."
-    "你把在湖边找到的石头给他看。看来它吸收了足够的魔力，已经能治愈石像了。"
+    "你把在湖边找到的石头给他看。看来它吸收了足够的魔法能量，已经能治愈魔像了。"
 
 translate schinese_rewrite Damp_Cave_End_051170e6:
 
@@ -2721,12 +2721,12 @@ translate schinese_rewrite Damp_Cave_End_051170e6:
 translate schinese_rewrite Damp_Cave_End_2ff7bb12:
 
     # "Furkan sighs, he is looking at the guardian, panting."
-    "弗坎叹了口气，望着石像，喘着气。"
+    "弗坎叹了口气，望着符文守护者，喘着气。"
 
 translate schinese_rewrite Damp_Cave_End_85b84d75:
 
     # f "It was stupid of me to come here alone. I know the guardian is here."
-    f "我真不该一个人来这里。我明知道符石护卫就在这里。"
+    f "我真不该一个人来这里。我明知道符文守护者就在这里。"
 
 translate schinese_rewrite Damp_Cave_End_d3d886a4:
 
@@ -2751,7 +2751,7 @@ translate schinese_rewrite Damp_Cave_End_6e1fdc41:
 translate schinese_rewrite Damp_Cave_End_68914fef_1:
 
     # f "Where's the guardian?"
-    f "符石护卫呢？"
+    f "符文守护者呢？"
 
 translate schinese_rewrite Damp_Cave_End_8fbbec14:
 
@@ -2776,7 +2776,7 @@ translate schinese_rewrite Damp_Cave_End_f2da58de_1:
 translate schinese_rewrite Damp_Cave_End_87555c13_1:
 
     # f "Guardian died, basin got stolen."
-    f "符石护卫死了，法盅也被偷走了。"
+    f "符文守护者死了，法盅也被偷走了。"
 
 translate schinese_rewrite Damp_Cave_End_db3cd737_1:
 
@@ -2786,12 +2786,12 @@ translate schinese_rewrite Damp_Cave_End_db3cd737_1:
 translate schinese_rewrite Damp_Cave_End_f2575d7f_1:
 
     # f "It was what my father used to summon guardians, with the help of the runes."
-    f "那是我父亲借助符石召唤护卫时使用的法器。"
+    f "那是我父亲借助符文召唤守护者时使用的法器。"
 
 translate schinese_rewrite Damp_Cave_End_095e395f_1:
 
     # f "In return, the guardians protect the runes."
-    f "作为回报，护卫会保护符石。"
+    f "作为回报，守护者会保护符文。"
 
 translate schinese_rewrite Damp_Cave_End_cd0075c1_1:
 
@@ -2851,7 +2851,7 @@ translate schinese_rewrite Damp_Cave_End_9d2f2d12:
 translate schinese_rewrite Damp_Cave_End_bbec41a3:
 
     # e "What about the guardian?"
-    e "那这个护卫呢？"
+    e "那这尊符文守护者呢？"
 
 translate schinese_rewrite Damp_Cave_End_85ee5c06:
 
@@ -2886,7 +2886,7 @@ translate schinese_rewrite Damp_Cave_End_a20cefa7:
 translate schinese_rewrite Damp_Cave_End_3b4dc56d:
 
     # "You still don't understand a lot of it... The magical runes, the guardians. the basin..."
-    "你还是有很多事情没弄明白……魔法符文、护卫，还有法盅……"
+    "你还是有很多事情没弄明白……魔法符文、符文守护者，还有法盅……"
 
 translate schinese_rewrite Damp_Cave_End_415e583b:
 
@@ -2981,7 +2981,7 @@ translate schinese_rewrite runeguardian_lose_e87d91fd:
 translate schinese_rewrite runeguardian_lose_85fa647a:
 
     # "You fall on the ground, the guardian is trying to approach you."
-    "你倒在地上，符石护卫正试图向你靠近。"
+    "你倒在地上，符文守护者正试图向你靠近。"
 
 translate schinese_rewrite runeguardian_lose_46ce7442:
 
@@ -2991,7 +2991,7 @@ translate schinese_rewrite runeguardian_lose_46ce7442:
 translate schinese_rewrite runeguardian_lose_e53930cf:
 
     # "Just as the guardian is about to cast his lethal spell, Kari strikes his scepter against the guardian and pull you off."
-    "就在符石护卫即将施放致命法术之际，卡里用权杖猛击护卫，把你拽了出来。"
+    "就在符文守护者即将施放致命法术之际，卡里用权杖猛击守护者，把你拽了出来。"
 
 translate schinese_rewrite runeguardian_lose_effe461f:
 
@@ -3051,7 +3051,7 @@ translate schinese_rewrite runeguardian_lose_bf6f0d3d:
 translate schinese_rewrite runeguardian_lose_bcc26d1b:
 
     # "The guardian stares at your vulnerable state, but he doesn't stop here. You realise that you are not making out of this alive..."
-    "符石护卫盯着你这副虚弱的模样，却没有就此罢手。你意识到自己恐怕活着出不去了……"
+    "符文守护者盯着你这副虚弱的模样，却没有就此罢手。你意识到自己恐怕活着出不去了……"
 
 translate schinese_rewrite runeguardian_lose_1b54c835:
 
@@ -3131,7 +3131,7 @@ translate schinese_rewrite minostatue_battle_loop_e53087dd:
 translate schinese_rewrite minostatue_battle_loop_8273253b:
 
     # "The statue casts a few pebbles onto you, each dealing [enemy_damage] HP."
-    "雕像召来几块碎石砸向你，每块都会造成[enemy_damage]点生命值伤害。"
+    "雕像召来几块碎石砸向你，每块都会造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite minostatue_battle_loop_6cd74592:
 
@@ -3251,7 +3251,7 @@ translate schinese_rewrite mino_battle_loop_6c4c87d5_1:
 translate schinese_rewrite mino_battle_loop_057bbe22:
 
     # "You throw your fist at the arm of the minotaur, your blade scraps against his fur."
-    "你朝弥诺陶洛斯的手臂挥出拳头，刀刃擦过他的皮毛。"
+    "你朝弥诺陶洛斯的手臂挥出拳头，拳头擦过他的皮毛。"
 
 translate schinese_rewrite mino_battle_loop_a03754cb_2:
 
@@ -3416,7 +3416,7 @@ translate schinese_rewrite mino_battle_loop_92b59618:
 translate schinese_rewrite mino_battle_loop_0a75f7de:
 
     # "The minotaur swing his fist toward your direction, hitting you in the chest. Your health decreases by [enemy_damage] HP."
-    "弥诺陶洛斯朝你挥拳，击中你的胸口。你的生命值减少[enemy_damage]点。"
+    "弥诺陶洛斯朝你挥拳，击中你的胸口。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite mino_battle_loop_48f7c770:
 

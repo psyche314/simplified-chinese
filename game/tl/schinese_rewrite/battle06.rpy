@@ -66,7 +66,7 @@ translate schinese_rewrite bandit_battle_loop_b1ce0b54:
 translate schinese_rewrite bandit_battle_loop_b5d4dc25:
 
     # "He strikes at you from behind, while stealing gold from you. Dealing [enemy_damage] HP."
-    "他一边从你身上偷走金币，一边从背后向你发动攻击。造成[enemy_damage]点生命值伤害。"
+    "他一边从你身上偷走金币，一边从背后向你发动攻击，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite bandit_battle_loop_d8d2e712:
 
@@ -356,7 +356,7 @@ translate schinese_rewrite gnoll_win_57fa0099:
 translate schinese_rewrite gnoll_win_aaa2a610:
 
     # "You also found a piece of colourful garment, a cloak that seems to be worn by... a famous bard?"
-    "你还找到了一件色彩鲜艳的衣物——一件似乎属于……某位著名吟游诗人的斗篷？"
+    "你还找到了一件色彩鲜艳的衣物——一件似乎是某位著名吟游诗人穿过的斗篷？"
 
 translate schinese_rewrite gnoll_win_a20cefa7:
 
@@ -871,22 +871,22 @@ translate schinese_rewrite vurro_spar_lose_4abadad3:
 translate schinese_rewrite spriteling_battle_7a79ee62:
 
     # "The small spriteling thrashes its ephereal claws about, but you doubt it deals any damage."
-    "小幽魂挥舞着虚幻的爪子，但你觉得它应该造成不了什么伤害。"
+    "小精灵挥舞着虚幻的爪子，但你觉得它应该造成不了什么伤害。"
 
 translate schinese_rewrite spriteling_battle_loop_634cb2bf:
 
     # "The spriteling wraps his spectral form around you, trying to bind you. Your health decreases by [enemy_damage] HP."
-    "幽魂用幽灵般的身躯缠住你，试图将你束缚。你的生命值减少了[enemy_damage]点。"
+    "小精灵用幽灵般的身躯缠住你，试图将你束缚。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite spriteling_battle_loop_fc52b4aa:
 
     # "The spriteling swings his spectral form around you, but you manage to dodge the attack."
-    "幽魂挥动着幽灵般的身躯朝你袭来，但你设法躲过了攻击。"
+    "小精灵挥动着幽灵般的身躯朝你袭来，但你设法躲过了攻击。"
 
 translate schinese_rewrite spriteling_battle_loop_2e05915c:
 
     # "The ghostly creature raises its arm, and a gust of wind blows towards you."
-    "幽魂抬起手臂，一阵风朝你吹来。"
+    "小精灵抬起手臂，一阵风朝你吹来。"
 
 translate schinese_rewrite spriteling_battle_loop_2b40a022:
 
@@ -901,32 +901,32 @@ translate schinese_rewrite spriteling_battle_loop_de0d3f8f:
 translate schinese_rewrite spriteling_win_fe785269:
 
     # "The whispy spriteling disperses into the air, leaving nothing but a faint scent of grass around."
-    "朦胧的幽魂消散在空气中，周围只留下一丝淡淡的青草气息。"
+    "朦胧的小精灵消散在空气中，周围只留下一丝淡淡的青草气息。"
 
 translate schinese_rewrite spriteling_win_701c1fba:
 
     # "You feel a little bit of energy returning to you, as if the spriteling itself has given you a little bit of its own energy."
-    "你感觉有一丝能量回到了体内，仿佛幽魂本身将少许自身能量给了你。"
+    "你感觉有一丝能量回到了体内，仿佛小精灵本身将少许自身能量给了你。"
 
 translate schinese_rewrite spriteling_win_712959e4:
 
     # "The whispy spriteling disperses into the air, leaving nothing but a faint scent of moss around."
-    "朦胧的幽魂消散在空气中，周围只留下一丝淡淡的苔藓气息。"
+    "朦胧的小精灵消散在空气中，周围只留下一丝淡淡的苔藓气息。"
 
 translate schinese_rewrite spriteling_win_a92bd5c1:
 
     # "You feel a little bit of energy returning to you, as the speckles of the spriteling begin drifting around you."
-    "你感觉有些能量正在回归，幽魂的点点微光开始在你周围飘荡。"
+    "你感觉有些能量正在回归，小精灵的点点微光开始在你周围飘荡。"
 
 translate schinese_rewrite spriteling_lose_891befeb:
 
     # "Unable to continue, you faint on the ground, and the spriteling disappears into the air."
-    "你再也支撑不住，昏倒在地，幽魂也消散在空气中。"
+    "你再也支撑不住，昏倒在地，小精灵也消散在空气中。"
 
 translate schinese_rewrite spriteling_lose_891befeb_1:
 
     # "Unable to continue, you faint on the ground, and the spriteling disappears into the air."
-    "你再也支撑不住，昏倒在地，幽魂也消散在空气中。"
+    "你再也支撑不住，昏倒在地，小精灵也消散在空气中。"
 
 translate schinese_rewrite spriteling_lose_de006fce:
 
@@ -971,37 +971,37 @@ translate schinese_rewrite spriteling_lose_a20cefa7:
 translate schinese_rewrite spritebinder_battle_33682342:
 
     # "The hooded sprite flaunts its arms, seemingly preparing to cast a spell."
-    "戴兜帽的鬼怪挥动着手臂，似乎正准备施放咒术。"
+    "戴兜帽的精灵缚者挥动着手臂，似乎正准备施放咒术。"
 
 translate schinese_rewrite spritebinder_battle_loop_3d10e393:
 
     # "The spritebinder strikes you with multiple arms, your health decreases by [enemy_damage] HP."
-    "八臂鬼用多条手臂击中你，你的生命值减少[enemy_damage]点。"
+    "精灵缚者用多条手臂击中你，你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite spritebinder_battle_loop_65119793:
 
     # "The spritebinder tries to strike you, but miraculously, you manage to dodge all of his arms."
-    "八臂鬼试图击中你，但你奇迹般地躲过了它的所有手臂。"
+    "精灵缚者试图击中你，但你奇迹般地躲过了它的所有手臂。"
 
 translate schinese_rewrite spritebinder_battle_loop_7d4bd58a:
 
     # "The spritebinder flings his arms to hold you in place. You try to struggle free, but it doesn't work."
-    "八臂鬼甩动手臂将你牢牢按住。你奋力挣扎着想要脱身，却无济于事。"
+    "精灵缚者甩动手臂将你牢牢按住。你奋力挣扎着想要脱身，却无济于事。"
 
 translate schinese_rewrite spritebinder_battle_loop_37c5b80b:
 
     # "The spritebinder forms a fist stance, and punches you with each of his arms, your health decreases by [total_damage] HP."
-    "八臂鬼摆出拳势，八只手臂齐齐朝你挥拳，你的生命值减少[total_damage]点。"
+    "精灵缚者摆出拳势，八只手臂齐齐朝你挥拳，你的生命值减少[total_damage]点。"
 
 translate schinese_rewrite spritebinder_battle_loop_65119793_1:
 
     # "The spritebinder tries to strike you, but miraculously, you manage to dodge all of his arms."
-    "八臂鬼试图击中你，但你奇迹般地躲过了它的所有手臂。"
+    "精灵缚者试图击中你，但你奇迹般地躲过了它的所有手臂。"
 
 translate schinese_rewrite spritebinder_win_8dff8a65:
 
     # "Soon, the spritebinder falls to the ground, and the forest is quiet once again."
-    "很快，八臂鬼倒在地上，森林再次恢复了寂静。"
+    "很快，精灵缚者倒在地上，森林再次恢复了寂静。"
 
 translate schinese_rewrite spritebinder_win_0ee36ad5:
 
@@ -1011,7 +1011,7 @@ translate schinese_rewrite spritebinder_win_0ee36ad5:
 translate schinese_rewrite spritebinder_win_c939b95d:
 
     # "The arms of the spritebinder slowly fades into the air..."
-    "八臂鬼的手臂缓缓消散在空气中……"
+    "精灵缚者的手臂缓缓消散在空气中……"
 
 translate schinese_rewrite spritebinder_lose_3706482d:
 
@@ -1141,7 +1141,7 @@ translate schinese_rewrite bearguard_battle_loop2_2bf9c3ae:
 translate schinese_rewrite bearguard_battle_loop2_07de1545:
 
     # "The highest damage from the bear is increased by 20 HP."
-    "熊造成的最高伤害增加了20点生命值。"
+    "熊造成的最高伤害增加了20点。"
 
 translate schinese_rewrite bearguard_battle_loop2_84c687ed:
 
@@ -1206,12 +1206,12 @@ translate schinese_rewrite bearguard_win_844e957f:
 translate schinese_rewrite bearguard_win_6dbcc06a:
 
     # "As you search around the bear guard, you found a piece of Bear Fur and a Bear Tribe Harpoon!"
-    "你在熊族守卫身边搜寻时，找到了一块熊皮和一把熊族鱼叉！"
+    "你在熊族守卫身边搜寻时，找到了一块熊毛皮和一把熊族鱼叉！"
 
 translate schinese_rewrite bearguard_win_5b805c14:
 
     # "As you search around the bear guard, you found a piece of Bear Fur!"
-    "你在熊族守卫身边搜寻时，找到了一块熊皮！"
+    "你在熊族守卫身边搜寻时，找到了一块熊毛皮！"
 
 translate schinese_rewrite bearguard_win_b7267e82:
 
@@ -1351,7 +1351,7 @@ translate schinese_rewrite cultacolyte_battle_loop_26e062a9:
 translate schinese_rewrite cultacolyte_battle_loop_f59c8605:
 
     # "The aftershock drains your mana. You lose [enemy_mp_damage] MP and [enemy_damage] HP."
-    "余波耗尽了你的法力。你失去[enemy_mp_damage]点法力和[enemy_damage]点生命。"
+    "余波耗尽了你的法力。你失去[enemy_mp_damage]点法力和[enemy_damage]点生命值。"
 
 translate schinese_rewrite cultacolyte_battle_loop_ffb81d6d:
 
@@ -1421,7 +1421,7 @@ translate schinese_rewrite werewolf_werewolf_win_4c49ded0:
 translate schinese_rewrite werewolf_werewolf_win_1854eb56:
 
     # "As you search around the werewolves, you found 2 Iron ores, 2 Pelts and [exp_drop] EXP!"
-    "你在狼人身边搜寻时，找到了2块铁矿、2张毛皮和[exp_drop]点经验！"
+    "你在狼人身边搜寻时，找到了2块铁矿石、2张毛皮和[exp_drop]点经验！"
 
 translate schinese_rewrite werewolf_werewolf_win_3909bbba:
 
@@ -1461,7 +1461,7 @@ translate schinese_rewrite seedsman_battle_8f44b8d9:
 translate schinese_rewrite seedsman_battle_loop_f44f48e3:
 
     # "The seedsman throws a seed bomb towards your direction, dealing [enemy_damage] HP."
-    "播种者朝你扔出一枚种子炸弹，造成[enemy_damage]点生命值伤害。"
+    "播种者朝你扔出一枚种子炸弹，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite seedsman_battle_loop_b573be10:
 
@@ -1471,7 +1471,7 @@ translate schinese_rewrite seedsman_battle_loop_b573be10:
 translate schinese_rewrite seedsman_battle_loop_a7bb94f3:
 
     # "You try to dodge the seedsman's attack, but the thorns wraps around your leg tightly, dealing [enemy_damage] HP."
-    "你试图躲开播种者的攻击，但荆棘紧紧缠住了你的腿，造成[enemy_damage]点生命值伤害。"
+    "你试图躲开播种者的攻击，但荆棘紧紧缠住了你的腿，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite seedsman_battle_loop_859e495e:
 
@@ -1541,7 +1541,7 @@ translate schinese_rewrite seedsman_battle_loop_ec18e47a:
 translate schinese_rewrite seedsman_battle_loop_190d7739:
 
     # "All [thorn_number] of his thorns suddenly shoots towards you, dealing [total_damage] HP."
-    "他所有的[thorn_number]根荆棘突然朝你射来，造成[total_damage]点生命值伤害。"
+    "他所有的[thorn_number]根荆棘突然朝你射来，造成[total_damage]点伤害。"
 
 translate schinese_rewrite seedsman_win_7977cc4d:
 
@@ -1596,17 +1596,17 @@ translate schinese_rewrite snowman_battle_1b9a9fbb:
 translate schinese_rewrite snowman_battle_loop_b7ffdd06:
 
     # "The snowman rolls the snowball towards you, it hits you hard, ignoring your defense and explodes into flurry of snow, dealing [enemy_damage] HP."
-    "雪人把雪球朝你滚来，雪球狠狠撞上你，无视你的防御，随后炸成漫天飞雪，造成[enemy_damage]点生命值伤害。"
+    "雪人把雪球朝你滚来，雪球狠狠撞上你，无视你的防御，随后炸成漫天飞雪，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite snowman_battle_loop_dfef533d:
 
     # "The snowman strikes the snow ground with his shovel, then launches a pile of snow towards you, dealing [enemy_damage] HP."
-    "雪人用铁锹砸向积雪地面，接着将一堆雪朝你掷来，造成[enemy_damage]点生命值伤害。"
+    "雪人用铁锹砸向积雪地面，接着将一堆雪朝你掷来，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite snowman_battle_loop_a2ae9c80:
 
     # "With a flick of his shovel, the snowman sends a wave of snowballs towards you, dealing [enemy_damage] HP."
-    "雪人轻轻一挥铁锹，便将一阵雪球朝你送来，造成[enemy_damage]点生命值伤害。"
+    "雪人轻轻一挥铁锹，便将一阵雪球朝你送来，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite snowman_battle_loop_02a60b1a:
 
@@ -1761,12 +1761,12 @@ translate schinese_rewrite caretaker_battle_d2d8112a:
 translate schinese_rewrite caretaker_battle_loop_cd554c82:
 
     # "The Caretaker flings his huge hands towards you, his claws digging underneath your fur, dealing [enemy_damage] HP."
-    "看守者挥舞着巨大的双手朝你袭来，利爪刺入你的皮毛之下，造成[enemy_damage]点生命值伤害。"
+    "看守者挥舞着巨大的双手朝你袭来，利爪刺入你的皮毛之下，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite caretaker_battle_loop_8fb0e783:
 
     # "The Caretaker swings his claws towards you, the nails glinting in the light as it strikes you hard, dealing [enemy_damage] HP."
-    "看守者挥爪朝你横扫而来，利爪在光线下闪烁，狠狠击中你，造成[enemy_damage]点生命值伤害。"
+    "看守者挥爪朝你横扫而来，利爪在光线下闪烁，狠狠击中你，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite caretaker_battle_loop_2b85945f:
 
@@ -1831,7 +1831,7 @@ translate schinese_rewrite caretaker_battle_loop_408922cc:
 translate schinese_rewrite caretaker_battle_loop_40944707:
 
     # "You'd bury your snout into his fur, and lick the sweat off his body, if only you weren't in the battle."
-    "要不是身处战斗之中，你真想把鼻尖埋进他的皮毛里，舔去他身上的汗水。"
+    "要不是身处战斗之中，你真想把口鼻部埋进他的皮毛里，舔去他身上的汗水。"
 
 translate schinese_rewrite caretaker_battle_loop_bbe60b43:
 
@@ -1961,7 +1961,7 @@ translate schinese_rewrite caretaker_lose_5ebe8ebf:
 translate schinese_rewrite caretaker_lose_a5c7f66e:
 
     # "You open your eyes, and find yourself lying on the ground, the caretaker nowhere to be seen."
-    "你睁开眼睛，发现自己正躺在地上，而看护者已不见踪影。"
+    "你睁开眼睛，发现自己正躺在地上，而看守者已不见踪影。"
 
 translate schinese_rewrite caretaker_lose_a20cefa7:
 
@@ -1991,17 +1991,17 @@ translate schinese_rewrite jotunn_battle_loop_d77a174b:
 translate schinese_rewrite jotunn_battle_loop_14ba7e96:
 
     # "The jotunn slams his enormous fist into the ground, summoning a shockwave of ice that crashes into you, dealing [enemy_damage] HP."
-    "约顿将巨大的拳头砸向地面，召唤出轰向你的冰霜冲击波，造成[enemy_damage]点生命值伤害。"
+    "约顿将巨大的拳头砸向地面，召唤出轰向你的冰霜冲击波，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite jotunn_battle_loop_da350207:
 
     # "With a deep guttural roar from behind the skull mask, the jotunn swings his arm, battering you for [enemy_damage] HP."
-    "骷髅面具后传来低沉而喉音十足的咆哮，约顿挥臂猛击，将你打得失去[enemy_damage]点生命值。"
+    "骷髅面具后传来低沉而喉音十足的咆哮，约顿挥臂猛击，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite jotunn_battle_loop_a257dc60:
 
     # "The ancient giant channels his frosted force, hurling a snow boulder engraved in blue-glowing frost at you, inflicting [enemy_damage] HP."
-    "远古巨人凝聚冰霜之力，将一块刻有蓝色冰纹的雪球投向你，造成[enemy_damage]点生命值伤害。"
+    "远古巨人凝聚冰霜之力，将一块刻有蓝色冰纹的雪球投向你，造成[enemy_damage]点伤害。"
 
 translate schinese_rewrite jotunn_battle_loop_b2fabcbe:
 
@@ -2081,7 +2081,7 @@ translate schinese_rewrite jotunn_battle_loop_0edcc313:
 translate schinese_rewrite jotunn_battle_loop_e3f2fdb0:
 
     # "The accumulated frost from the jotunn's icy assault intensifies, dealing [total_damage] HP."
-    "霜巨人冰寒攻击积聚的霜冻愈发猛烈，造成[total_damage]点生命值伤害。"
+    "霜巨人冰寒攻击积聚的霜冻愈发猛烈，造成[total_damage]点伤害。"
 
 translate schinese_rewrite jotunn_battle_loop_d0496b41:
 
@@ -2536,12 +2536,12 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_97988f5f:
 translate schinese_rewrite crypt_bearstatue_battle_loop_1a09823d:
 
     # "Daggi snaps his harpoon into [target.name]'s midsection, dealing [oa[4]] HP and shaving a strip of stone from its frame."
-    "达吉猛地将鱼叉刺入[target.name]的中段，造成[oa[4]]点生命值伤害，并从它身上削下一条石屑。"
+    "达吉猛地将鱼叉刺入[target.name]的中段，造成[oa[4]]点伤害，并从它身上削下一条石屑。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_4b9fc1a7:
 
     # "Herd lashes out with the broken rod and cracks it across [target.name]'s arm, dealing [oa[4]] HP."
-    "赫德挥起断裂的石杖，狠狠砸在[target.name]的手臂上，造成[oa[4]]点生命值伤害。"
+    "赫德挥起断裂的石杖，狠狠砸在[target.name]的手臂上，造成[oa[4]]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_e2085c70:
 
@@ -2556,7 +2556,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_021b55d5:
 translate schinese_rewrite crypt_bearstatue_battle_loop_2ae2cf03:
 
     # "Daggi drives his harpoon into a seam in [target.name]'s chest, dealing [ally_damage] HP and knocking stone chips across the floor."
-    "达吉将鱼叉刺入[target.name]胸口的一道接缝，造成[ally_damage]点生命值伤害，石屑四处飞散，落满地面。"
+    "达吉将鱼叉刺入[target.name]胸口的一道接缝，造成[ally_damage]点伤害，石屑四处飞散，落满地面。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_76154b52:
 
@@ -2566,7 +2566,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_76154b52:
 translate schinese_rewrite crypt_bearstatue_battle_loop_3c704d2e:
 
     # "Daggi hooks low and tears [target.name] off balance, dealing [ally_damage] HP."
-    "达吉从低处钩住[target.name]，将它勾得失去平衡，造成[ally_damage]点生命值伤害。"
+    "达吉从低处钩住[target.name]，将它勾得失去平衡，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_3adb3e7d:
 
@@ -2576,12 +2576,12 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_3adb3e7d:
 translate schinese_rewrite crypt_bearstatue_battle_loop_4a6e8fe4:
 
     # "Herd darts in under the sweeping shaft and slams his stone rod into the Glaive Statue's arm, dealing [ally_damage] HP."
-    "赫德冲入横扫而来的杖身下方，将石杖狠狠砸在戟刃雕像的手臂上，造成[ally_damage]点生命值伤害。"
+    "赫德冲入横扫而来的杖身下方，将石杖狠狠砸在长戟雕像的手臂上，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_3d3e529d:
 
     # "Herd slips around the shield rim and cracks the Bulwark across an exposed joint, dealing [ally_damage] HP."
-    "赫德绕过盾牌边缘，猛击壁垒雕像暴露的关节，造成[ally_damage]点生命值伤害。"
+    "赫德绕过盾牌边缘，猛击壁垒雕像暴露的关节，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_9006a6b9:
 
@@ -2616,7 +2616,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_c054002b:
 translate schinese_rewrite crypt_bearstatue_battle_loop_7d035640:
 
     # "Daggi slams the butt of his harpoon into an old fracture and widens it, dealing [oa[4]] HP to [target.name]."
-    "达吉用鱼叉尾端狠狠砸向旧裂缝，将其扩大，对[target.name]造成[oa[4]]点生命值伤害。"
+    "达吉用鱼叉尾端狠狠砸向旧裂缝，将其扩大，对[target.name]造成[oa[4]]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_19db1ead:
 
@@ -2626,12 +2626,12 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_19db1ead:
 translate schinese_rewrite crypt_bearstatue_battle_loop_30679fb3:
 
     # "Herd hammers the Glaive Statue again and again at the same cracked seam, dealing [ally_damage] HP."
-    "赫德一次又一次地猛砸戟刃雕像同一道裂缝，造成[ally_damage]点生命值伤害。"
+    "赫德一次又一次地猛砸长戟雕像同一道裂缝，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_4c09024d:
 
     # "Herd batters the Bulwark's shield arm in a flurry of brutal strikes, dealing [ally_damage] HP."
-    "赫德一阵狂暴猛击，狠狠砸向壁垒雕像持盾的手臂，造成[ally_damage]点生命值伤害。"
+    "赫德一阵狂暴猛击，狠狠砸向壁垒雕像持盾的手臂，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_35cc4538:
 
@@ -2661,27 +2661,27 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_6ddcbbbb:
 translate schinese_rewrite crypt_bearstatue_turn_95820382:
 
     # "The Glaive Statue lunges in a brutal forward rush, its bronze spear point crashing into your guard. Your health decreases by [enemy_damage] HP."
-    "戟刃雕像凶猛地向前冲刺，青铜枪尖撞上你的格挡。你的生命值减少[enemy_damage]点。"
+    "长戟雕像凶猛地向前冲刺，青铜枪尖撞上你的格挡。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite crypt_bearstatue_turn_cda0c270:
 
     # "The Glaive Statue drives its spear into Daggi's side with a grinding thrust. [ally.name]'s health decreases by [enemy_damage] HP."
-    "戟刃雕像用一记伴随着刺耳摩擦声的突刺，将长矛捅进达吉的侧腹。[ally.name]的生命值减少[enemy_damage]点。"
+    "长戟雕像用一记伴随着刺耳摩擦声的突刺，将长矛捅进达吉的侧腹。[ally.name]的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite crypt_bearstatue_turn_a27388ae:
 
     # "The Glaive Statue spears toward Herd, clipping him hard across the ribs. [ally.name]'s health decreases by [enemy_damage] HP."
-    "戟刃雕像朝赫德刺去，狠狠擦过他的肋骨。[ally.name]的生命值减少[enemy_damage]点。"
+    "长戟雕像朝赫德刺去，狠狠擦过他的肋骨。[ally.name]的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite crypt_bearstatue_turn_b8492856:
 
     # "The Glaive Statue launches at you, but you cut aside before the spear point can pin you."
-    "戟刃雕像朝你猛扑过来，但你在枪尖将你钉住前及时闪身避开。"
+    "长戟雕像朝你猛扑过来，但你在枪尖将你钉住前及时闪身避开。"
 
 translate schinese_rewrite crypt_bearstatue_turn_149bc0df:
 
     # "Daggi twists around the Glaive Statue's lunging spear and lets it carve empty air."
-    "达吉绕着戟刃雕像刺来的长矛扭身一转，任由它划过一片空处。"
+    "达吉绕着长戟雕像刺来的长矛扭身一转，任由它划过一片空处。"
 
 translate schinese_rewrite crypt_bearstatue_turn_ec7a6c85:
 
@@ -2691,7 +2691,7 @@ translate schinese_rewrite crypt_bearstatue_turn_ec7a6c85:
 translate schinese_rewrite crypt_bearstatue_turn_106bdf76:
 
     # "The Glaive Statue drives its weapon down across your footing and locks you in place under splintered bronze and frost."
-    "戟刃雕像将武器朝你脚下砸落，把你锁在碎裂的青铜与冰霜之下，动弹不得。"
+    "长戟雕像将武器朝你脚下砸落，把你锁在碎裂的青铜与冰霜之下，动弹不得。"
 
 translate schinese_rewrite crypt_bearstatue_turn_bf5ad9bd:
 
@@ -2706,7 +2706,7 @@ translate schinese_rewrite crypt_bearstatue_turn_a4260607:
 translate schinese_rewrite crypt_bearstatue_turn_ed39df82:
 
     # "The Glaive Statue whips its spear in a wide crescent, showering both of you with bronze splinters and driving you back for [total_enemy_damage] total HP."
-    "戟刃雕像挥枪划出一道宽阔的弧线，青铜碎片四下飞溅，逼得你们两人后退，共损失[total_enemy_damage]点生命值。"
+    "长戟雕像挥枪划出一道宽阔的弧线，青铜碎片四下飞溅，逼得你们两人后退，共损失[total_enemy_damage]点生命值。"
 
 translate schinese_rewrite crypt_bearstatue_turn_e0d69828:
 
@@ -2741,7 +2741,7 @@ translate schinese_rewrite crypt_bearstatue_turn_e64ea3a4:
 translate schinese_rewrite crypt_bearstatue_turn_b4bdf2d2:
 
     # "The Bulwark plants itself and beats its shield once. Stone grit shivers across both constructs as their guard tightens."
-    "壁垒雕像稳稳扎住身形，用盾牌重重一击。两具构造体周围的石屑微微震颤，随着它们的防守收紧而四处飞散。"
+    "壁垒雕像稳稳扎住身形，用盾牌重重一击。随着两具构造体收紧防守，它们身上的石屑微微震颤。"
 
 translate schinese_rewrite crypt_bearstatue_turn_45f7d86b:
 
@@ -2751,7 +2751,7 @@ translate schinese_rewrite crypt_bearstatue_turn_45f7d86b:
 translate schinese_rewrite crypt_bearstatue_turn_ddd40ae4:
 
     # "The Bulwark drags loose bronze fragments across the Glaive Statue's cracked shell, sealing some of the damage and restoring [heal_amount] HP."
-    "壁垒雕像将散落的青铜碎片拖过戟刃雕像开裂的外壳，封住部分伤口，并恢复[heal_amount]点生命值。"
+    "壁垒雕像将散落的青铜碎片拖过长戟雕像开裂的外壳，封住部分伤口，并恢复[heal_amount]点生命值。"
 
 translate schinese_rewrite crypt_bearstatue_turn_1f90b33a:
 
@@ -2771,12 +2771,12 @@ translate schinese_rewrite crypt_bearstatue_turn_f198791c:
 translate schinese_rewrite crypt_bearstatue_win_fc8a6131:
 
     # "You hammer the Glaive Statue's split chest while Daggi tears the Bulwark off balance with his harpoon."
-    "你猛击戟刃雕像裂开的胸口，达吉则用鱼叉将壁垒雕像扯得失去平衡。"
+    "你猛击长戟雕像裂开的胸口，达吉则用鱼叉将壁垒雕像扯得失去平衡。"
 
 translate schinese_rewrite crypt_bearstatue_win_e85b4a75:
 
     # "You drive your [pc.weapon.name!t] through the Glaive Statue's fractured core while Daggi hooks the Bulwark off balance with his harpoon."
-    "你将[pc.weapon.name!t]贯入戟刃雕像已经破碎的核心，同时达吉用鱼叉勾得壁垒雕像失去平衡。"
+    "你将[pc.weapon.name!t]贯入长戟雕像已经破碎的核心，同时达吉用鱼叉勾得壁垒雕像失去平衡。"
 
 translate schinese_rewrite crypt_bearstatue_win_c226568f:
 
@@ -2786,12 +2786,12 @@ translate schinese_rewrite crypt_bearstatue_win_c226568f:
 translate schinese_rewrite crypt_bearstatue_win_0e5e7b8f:
 
     # "You shatter the Glaive Statue's balance while Herd smashes the Bulwark's weakened arm at the same instant."
-    "你击碎戟刃雕像的平衡，赫德也在同一瞬间砸向壁垒雕像那条已经削弱的手臂。"
+    "你使长戟雕像失去平衡，赫德也在同一瞬间砸向壁垒雕像那条已经削弱的手臂。"
 
 translate schinese_rewrite crypt_bearstatue_win_e4c1e280:
 
     # "You break the Glaive Statue's core while Herd slams his stone rod into the Bulwark's final crack."
-    "你击碎戟刃雕像的核心，赫德则将石棍狠狠砸进壁垒雕像最后一道裂缝。"
+    "你击碎长戟雕像的核心，赫德则将石棍狠狠砸进壁垒雕像最后一道裂缝。"
 
 translate schinese_rewrite crypt_bearstatue_win_818b6e58:
 
@@ -2806,12 +2806,12 @@ translate schinese_rewrite crypt_bearstatue_win_6f9070b8:
 translate schinese_rewrite crypt_bearstatue_lose_729ff8a6:
 
     # "The Glaive Statue pins you in place and the Bulwark's finishing blow caves the world in around you. Daggi's shout is the last thing you hear."
-    "戟刃雕像将你钉在原地，壁垒雕像的终结一击轰然落下，周围的世界随之向你塌陷。你最后听到的，是达吉的呼喊。"
+    "长戟雕像将你钉在原地，壁垒雕像的终结一击轰然落下，周围的世界随之向你塌陷。你最后听到的，是达吉的呼喊。"
 
 translate schinese_rewrite crypt_bearstatue_lose_9e1c7206:
 
     # "The Glaive Statue traps your footing and the Bulwark's follow-up crushes the last of your resistance flat into the crypt floor."
-    "戟刃雕像困住你的双脚，壁垒雕像紧接着的一击将你最后的抵抗压扁在地穴地面上。"
+    "长戟雕像困住你的双脚，壁垒雕像紧接着的一击将你最后的抵抗压扁在地穴地面上。"
 
 translate schinese_rewrite crypt_bearstatue_lose_89ead419:
 

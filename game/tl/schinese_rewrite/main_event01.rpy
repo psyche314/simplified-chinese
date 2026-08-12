@@ -16,7 +16,7 @@ translate schinese_rewrite Event_Party01_4e9242c6:
 translate schinese_rewrite Event_Party01_4e7dd2f6:
 
     # "Food lines the tables, and drinks are flowing freely."
-    "桌上摆满了食物，酒水也在畅饮。"
+    "桌上摆满了食物，饮料也供应充足。"
 
 translate schinese_rewrite Event_Party01_080d1134:
 
@@ -26,7 +26,7 @@ translate schinese_rewrite Event_Party01_080d1134:
 translate schinese_rewrite Event_Party01_4b7b6018:
 
     # o "[e]! Welcome! We figured it'd be a surprise for you."
-    o "[e]！欢迎！我们就想着给你一个惊喜。"
+    o "[e]！欢迎！我们就猜到这会给你一个惊喜。"
 
 translate schinese_rewrite Event_Party01_a2dce147:
 
@@ -81,7 +81,7 @@ translate schinese_rewrite Event_Party01_934fbf66:
 translate schinese_rewrite Event_Party01_5151fce8:
 
     # "Seb hops over."
-    "塞巴斯蹦了过来。"
+    "塞布蹦了过来。"
 
 translate schinese_rewrite Event_Party01_fdbde2ee:
 
@@ -91,12 +91,12 @@ translate schinese_rewrite Event_Party01_fdbde2ee:
 translate schinese_rewrite Event_Party01_867ee791:
 
     # e "Seb, wh-what's all this?"
-    e "塞巴斯，怎、怎么回事？"
+    e "塞布，怎、怎么回事？"
 
 translate schinese_rewrite Event_Party01_a5bc4df7:
 
     # s "It's a party! Duh!"
-    s "是派对啊！这都看不出来，小笨蛋！"
+    s "是派对啊！这都看不出来吗！"
 
 translate schinese_rewrite Event_Party01_cb4792de:
 
@@ -126,7 +126,7 @@ translate schinese_rewrite Event_Party01_f16e69cb:
 translate schinese_rewrite Event_Party01_26ea3589:
 
     # e "Wait. So there's no training after all?"
-    e "等等，所以根本就没有培训？"
+    e "等等，所以最后还是不用训练了？"
 
 translate schinese_rewrite Event_Party01_e2af3c26:
 
@@ -136,7 +136,7 @@ translate schinese_rewrite Event_Party01_e2af3c26:
 translate schinese_rewrite Event_Party01_4bcfcc91:
 
     # "Seb guffaws as he smacks your back."
-    "塞巴斯拍着你的后背，放声大笑起来。"
+    "塞布拍着你的后背，放声大笑起来。"
 
 translate schinese_rewrite Event_Party01_656b3ecc:
 
@@ -146,7 +146,7 @@ translate schinese_rewrite Event_Party01_656b3ecc:
 translate schinese_rewrite Event_Party01_5281b9b5:
 
     # s "But before we go, remember to come back and talk to your Roomie, that's me!"
-    s "不过在散场前，记得回来找你的室友聊聊，就是我！"
+    s "不过在我们走之前，记得回来找你的室友聊聊，就是我！"
 
 translate schinese_rewrite Event_Party01_1036c5d1:
 
@@ -166,12 +166,12 @@ translate schinese_rewrite Event_Party01_ab0cf4cf:
 translate schinese_rewrite Event_Party01_c7cf4238:
 
     # "You believe this celebration is invite-only."
-    "你觉得这场庆典只邀请了受邀者参加。"
+    "你觉得这场庆典只有受邀者才能参加。"
 
 translate schinese_rewrite Event_Party01_f4d9d7db:
 
     # "You see Cane working the counter as usual. He is pouring out the drinks."
-    "你看见凯恩像往常一样在吧台忙活，正把饮料倒出来。"
+    "你看见凯恩像往常一样在吧台忙活，正倒着饮料。"
 
 translate schinese_rewrite Event_Party01_ebc05101:
 
@@ -186,7 +186,7 @@ translate schinese_rewrite Event_Party01_5ecd6061:
 translate schinese_rewrite Event_Party01_9bb94d53:
 
     # c "So go mingle around. There's no reason to stick around here with an old bat."
-    c "去跟大家混熟吧。没必要一直跟我这个老蝙蝠耗着。"
+    c "去跟大家混熟吧。没必要一直跟我这个老家伙耗着。"
 
 translate schinese_rewrite Event_Party01_552bc535:
 
@@ -201,7 +201,7 @@ translate schinese_rewrite Event_Party01_62216291:
 translate schinese_rewrite Event_Party01_b154739d:
 
     # e "Well, this is your tavern, right? The food and the drinks must be expensive too."
-    e "嗯，这酒馆是你的，对吧？这么多吃的喝的，肯定也要花不少钱。"
+    e "嗯，这酒馆是你的，对吧？食物和饮料肯定也很贵。"
 
 translate schinese_rewrite Event_Party01_4a820a4c:
 
@@ -226,7 +226,7 @@ translate schinese_rewrite Event_Party01_d1d64d3b:
 translate schinese_rewrite Event_Party01_d77a9ac3:
 
     # c "I was only pulling yer chain. Nah, this time, everything's on the house."
-    c "我就是逗逗你。没，这次全算我的。"
+    c "我就是逗逗你。没，这次全店免费。"
 
 translate schinese_rewrite Event_Party01_3c3c44dd:
 
@@ -246,7 +246,7 @@ translate schinese_rewrite Event_Party01_7d10a5e2:
 translate schinese_rewrite Event_Party01_41794daa:
 
     # c "Okay. Now, get lost with the others. Yer distracting me with yer squeezy little ass."
-    c "行了。现在跟其他人一块儿滚蛋吧。你这软乎乎的小屁股晃来晃去的，碍着我干活。"
+    c "行了。现在跟其他人一块儿滚蛋吧。你这软乎乎的小屁股让我没法专心干活。"
 
 translate schinese_rewrite Event_Party01_3196f4d0:
 
@@ -266,7 +266,7 @@ translate schinese_rewrite Event_Party01_4a2e982b:
 translate schinese_rewrite Event_Party01_b20f79fc:
 
     # "You quickly wiggle away from the counter."
-    "你赶紧扭着屁股离开吧台。"
+    "你赶紧扭身离开吧台。"
 
 translate schinese_rewrite Event_Party01_bae4c0e7:
 
@@ -411,7 +411,7 @@ translate schinese_rewrite Event_Party01_6a170d2f:
 translate schinese_rewrite Event_Party01_c29b0bd9:
 
     # e "You weren't wrong."
-    e "你果然没猜错。"
+    e "你没说错。"
 
 translate schinese_rewrite Event_Party01_fe70f8e1:
 
@@ -431,7 +431,7 @@ translate schinese_rewrite Event_Party01_ef051a7d:
 translate schinese_rewrite Event_Party01_82ba5491:
 
     # o "He's been planning it since the first day you came..."
-    o "他从你来到这里的第一天起就一直在筹划这件事……"
+    o "他从你来的第一天起就一直在筹划这件事……"
 
 translate schinese_rewrite Event_Party01_8dfaf2f0:
 
@@ -486,7 +486,7 @@ translate schinese_rewrite Event_Party01_2ff01935:
 translate schinese_rewrite Event_Party01_cebde441:
 
     # "Amble is carrying many mugs in his hands. You wonder how he manages to balance them all."
-    "安布手里端着好多杯子，你真想不通他是怎么把它们全都稳住的。"
+    "安布手里端着好多马克杯，你真想不通他是怎么把它们全都稳住的。"
 
 translate schinese_rewrite Event_Party01_f15f0da3:
 
@@ -496,7 +496,7 @@ translate schinese_rewrite Event_Party01_f15f0da3:
 translate schinese_rewrite Event_Party01_d7e2e312:
 
     # a "Hey, it's the dragon of the hour!"
-    a "嘿，这不是今天的主角，我们的龙先生吗！"
+    a "嘿，这不是今天的主角吗！"
 
 translate schinese_rewrite Event_Party01_30750ce7:
 
@@ -506,7 +506,7 @@ translate schinese_rewrite Event_Party01_30750ce7:
 translate schinese_rewrite Event_Party01_6bbae897:
 
     # a "Great party, isn't it? And the drinks are on the house, too!"
-    a "派对很棒，对吧？而且酒水还是免费的！"
+    a "派对很棒，对吧？而且饮料还是免费的！"
 
 translate schinese_rewrite Event_Party01_6a5f8dde:
 
@@ -531,12 +531,12 @@ translate schinese_rewrite Event_Party01_6e36a295:
 translate schinese_rewrite Event_Party01_290eb7ef:
 
     # a "Lot is also smiling a... lot more these days."
-    a "就连洛哥最近也笑得……多多了。"
+    a "就连洛哥也笑得……多了。"
 
 translate schinese_rewrite Event_Party01_7df63f31:
 
     # "You are blushing from all the compliments at this point."
-    "这会儿，被一连串的夸奖说得满脸通红。"
+    "这会儿你被一连串的夸奖夸得满脸通红。"
 
 translate schinese_rewrite Event_Party01_98bbfc17:
 
@@ -546,7 +546,7 @@ translate schinese_rewrite Event_Party01_98bbfc17:
 translate schinese_rewrite Event_Party01_f9621dd2:
 
     # "While you wish to continue the conversation, Jog's voice calls over."
-    "你正想继续聊下去，乔格的声音却从旁边传来。"
+    "你正想继续聊下去，乔格的声音传了过来。"
 
 translate schinese_rewrite Event_Party01_8ade3785:
 
@@ -566,7 +566,7 @@ translate schinese_rewrite Event_Party01_dabe2711:
 translate schinese_rewrite Event_Party01_dafb6c02:
 
     # "You feel a sharp gaze on you all of a sudden."
-    "你突然感觉到一道锐利的目光。"
+    "你突然感觉到一道锐利的目光落在你身上。"
 
 translate schinese_rewrite Event_Party01_0e39abe1:
 
@@ -576,7 +576,7 @@ translate schinese_rewrite Event_Party01_0e39abe1:
 translate schinese_rewrite Event_Party01_237401ea:
 
     # "Haskell is sitting alone at a table, gazing at you over a familiar cup."
-    "哈斯克尔独自坐在一张桌旁，隔着那只熟悉的杯子凝视着你。"
+    "哈斯克尔独自坐在一张桌旁，隔着那只熟悉的马克杯凝视着你。"
 
 translate schinese_rewrite Event_Party01_39ffb917:
 
@@ -611,7 +611,7 @@ translate schinese_rewrite Event_Party01_ee68b96c:
 translate schinese_rewrite Event_Party01_a36ac0d9:
 
     # "Haskell doesn't answer and takes another sip from his mug."
-    "哈斯克尔没有回答，只是又从杯子里抿了一口。"
+    "哈斯克尔没有回答，只是又从马克杯里抿了一口。"
 
 translate schinese_rewrite Event_Party01_5d250cf4:
 
@@ -626,12 +626,12 @@ translate schinese_rewrite Event_Party01_9a59875f:
 translate schinese_rewrite Event_Party01_521edd78:
 
     # "Haskell snorts at the very idea."
-    "哈斯克尔一听这话就嗤之以鼻。"
+    "哈斯克尔对这个想法嗤之以鼻。"
 
 translate schinese_rewrite Event_Party01_38c0d220:
 
     # "Haskell tips his mug to show you its contents."
-    "哈斯克尔举起杯子，让你看清里面的东西。"
+    "哈斯克尔把马克杯倾斜，让你看清里面的东西。"
 
 translate schinese_rewrite Event_Party01_61081961:
 
@@ -711,7 +711,7 @@ translate schinese_rewrite Event_Party01_90849705:
 translate schinese_rewrite Event_Party01_d8cb6bde:
 
     # "As you are about to apologize, Lothar's eyes focus."
-    "正当你要道歉时，洛萨尔的目光聚焦了。"
+    "正当你要道歉时，洛萨尔的目光恢复了焦距。"
 
 translate schinese_rewrite Event_Party01_c47a7375:
 
@@ -721,7 +721,7 @@ translate schinese_rewrite Event_Party01_c47a7375:
 translate schinese_rewrite Event_Party01_33689d32:
 
     # l "Hu...hmm... Can you stop moving?"
-    l "呼……嗯……你能别晃了吗？"
+    l "呼……嗯……你能别动了吗？"
 
 translate schinese_rewrite Event_Party01_5968e5bf:
 
@@ -766,12 +766,12 @@ translate schinese_rewrite Event_Party01_0ea0e49e:
 translate schinese_rewrite Event_Party01_96f02f27:
 
     # "You hope that he won't bump into anything dangerous, like Seb."
-    "希望他不会撞上什么危险的人，比如塞巴斯。"
+    "希望他不会撞上什么危险的人，比如塞布。"
 
 translate schinese_rewrite Event_Party01_5c660fd9:
 
     # "That would be an incendiary scene."
-    "那肯定会是一场火爆的冲突。"
+    "那肯定会是一场火爆的场面。"
 
 translate schinese_rewrite Event_Party01_8feeb2d5:
 
@@ -791,7 +791,7 @@ translate schinese_rewrite Event_Party01_b0bbbdb2:
 translate schinese_rewrite Event_Party01_b434ff06:
 
     # "You move towards it."
-    "你朝那边走去。"
+    "你朝它走去。"
 
 translate schinese_rewrite Event_Party01_1d6ca331:
 
@@ -801,12 +801,12 @@ translate schinese_rewrite Event_Party01_1d6ca331:
 translate schinese_rewrite Event_Party01_80948863:
 
     # "Jog leans against a box casually, holding a mug in his hand."
-    "乔格悠闲地靠着一个箱子，手里拿着杯子。"
+    "乔格悠闲地靠着一个箱子，手里拿着马克杯。"
 
 translate schinese_rewrite Event_Party01_e51b6c75:
 
     # e "Why aren't you out there with the crowd?"
-    e "你怎么没和大家一起在那边？"
+    e "你怎么没和人群一起在那边？"
 
 translate schinese_rewrite Event_Party01_abb59e47:
 
@@ -861,7 +861,7 @@ translate schinese_rewrite Event_Party01_c7fad96d:
 translate schinese_rewrite Event_Party01_735f57bf:
 
     # j "Anyway, this has been fun. I'll have to go grab another beer. It's not everyday that I can swipe one from the counter without the barkeep glaring at me."
-    j "总之，今晚挺开心的。我得再去拿杯啤酒了。毕竟不是每天都有机会从吧台顺走一杯，还不用被酒保瞪着。"
+    j "总之，挺开心的。我得再去拿杯啤酒了。毕竟不是每天都有机会从吧台顺走一杯，还不用被酒保瞪着。"
 
 translate schinese_rewrite Event_Party01_47a0e649:
 
@@ -901,7 +901,7 @@ translate schinese_rewrite Event_Party01_f074cde0:
 translate schinese_rewrite Event_Party01_f0c4831d:
 
     # "Seb chuckles. His fur tickles you."
-    "塞巴斯咯咯笑着，他的毛发挠得你痒痒的。"
+    "塞布笑了起来，他的毛发挠得你痒痒的。"
 
 translate schinese_rewrite Event_Party01_bd0a640c:
 
@@ -966,17 +966,17 @@ translate schinese_rewrite Event_Party01_ca7ac8a8:
 translate schinese_rewrite Event_Party01_15487d1f:
 
     # s "But enough of the sappy stuff. Today we're here to celebrate. Go grab some drinks!"
-    s "不过，煽情的话就说到这里。今天我们是来庆祝的。去拿些酒来！"
+    s "不过，煽情的话就说到这里。今天我们是来庆祝的。去拿些饮料来！"
 
 translate schinese_rewrite Event_Party01_a243f93c:
 
     # "And the party ensues."
-    "宴会继续进行。"
+    "派对继续进行。"
 
 translate schinese_rewrite Event_Party01_7fbf9e7b:
 
     # "As the party continues, people break up and form different groups."
-    "宴会继续进行时，人们散开，组成了不同的小团体。"
+    "派对继续进行时，人们散开，组成了不同的小团体。"
 
 translate schinese_rewrite Event_Party01_828f6d69:
 
@@ -1001,7 +1001,7 @@ translate schinese_rewrite Event_Party01_e9aa9adb:
 translate schinese_rewrite Event_Party01_fa07fad2:
 
     # s "How drunk must you get that you can't even watch your step anymore?"
-    s "你到底喝了多少，连路都不会走了吗？"
+    s "你得醉成什么样，才会连脚下都看不清了？"
 
 translate schinese_rewrite Event_Party01_3fb6a2b5:
 
@@ -1031,7 +1031,7 @@ translate schinese_rewrite Event_Party01_bf31023a:
 translate schinese_rewrite Event_Party01_858bba14:
 
     # l "Do you think I want to be here? I'm not even here for you."
-    l "你以为老子想来这里吗？我又不是为了你来的。"
+    l "你以为我想来这里吗？我又不是为了你来的。"
 
 translate schinese_rewrite Event_Party01_4fbc5639:
 
@@ -1041,7 +1041,7 @@ translate schinese_rewrite Event_Party01_4fbc5639:
 translate schinese_rewrite Event_Party01_2ea3629b:
 
     # l "Hey, lion! Watch it! It's one thing to come after me but it's another to insult my mates."
-    l "喂，狮子！说话注意点！你针对我是一回事，可侮辱我的兄弟就是另一回事了。"
+    l "喂，狮子！说话注意点！你针对我是一回事，可侮辱我的伙伴就是另一回事了。"
 
 translate schinese_rewrite Event_Party01_20c2d1ca:
 
@@ -1066,7 +1066,7 @@ translate schinese_rewrite Event_Party01_cdd06efb:
 translate schinese_rewrite Event_Party01_693effac:
 
     # "Seb also moves in place to counter."
-    "塞巴斯也当场摆好了反击架势。"
+    "塞布也原地移动，准备反击。"
 
 translate schinese_rewrite Event_Party01_694f257b:
 
@@ -1086,7 +1086,7 @@ translate schinese_rewrite Event_Party01_de5edade:
 translate schinese_rewrite Event_Party01_4eb6c8e0:
 
     # "Haskell has slammed his mug on the table and there's a dangerous glint in his eyes."
-    "哈斯克尔重重地把杯子砸在桌上，眼中闪过危险的寒光。"
+    "哈斯克尔重重地把马克杯砸在桌上，眼中闪过危险的光芒。"
 
 translate schinese_rewrite Event_Party01_0c490794:
 
@@ -1136,7 +1136,7 @@ translate schinese_rewrite Event_Party01_b4a5c4eb:
 translate schinese_rewrite Event_Party01_6f74433f:
 
     # "Before you can say anything, Seb turns and walks away."
-    "你还没来得及说什么，塞巴斯就转身走开了。"
+    "你还没来得及说什么，塞布就转身走开了。"
 
 translate schinese_rewrite Event_Party01_c7304d11:
 
@@ -1146,7 +1146,7 @@ translate schinese_rewrite Event_Party01_c7304d11:
 translate schinese_rewrite Event_Party01_b6aa873d:
 
     # l "You got lucky this time, Lion."
-    l "这次算你走运，笨猫。"
+    l "这次算你走运，狮子。"
 
 translate schinese_rewrite Event_Party01_201be4d6:
 
@@ -1196,12 +1196,12 @@ translate schinese_rewrite Event_Party01_32f3c0b9:
 translate schinese_rewrite Event_Party01_5407749e:
 
     # "Haskell resumes sipping his tea."
-    "哈斯克尔继续抿着茶。"
+    "哈斯克尔继续喝着茶。"
 
 translate schinese_rewrite Event_Party01_aec30422:
 
     # "You ponder over his advice and agree, deciding to give both parties some time to cool down."
-    "你思量了一番他的劝告，表示赞同，决定给双方一些时间冷静下来。"
+    "你思量了一番他的劝告并表示赞同，决定给双方一些时间冷静下来。"
 
 translate schinese_rewrite Event_Party01_455bbbc0:
 
@@ -1281,7 +1281,7 @@ translate schinese_rewrite Event_Party01_f1fd9884:
 translate schinese_rewrite Event_Party01_df187730:
 
     # j "Speaking of, how's your lion friend?"
-    j "说起来，你那位狮子朋友最近怎么样？"
+    j "说起来，你那位狮子朋友怎么样？"
 
 translate schinese_rewrite Event_Party01_b4e07485:
 
@@ -1356,7 +1356,7 @@ translate schinese_rewrite Event_Party01_77556847:
 translate schinese_rewrite Event_Party01_04d73cd3:
 
     # j "I told you they're false. Also... Ole... I haven't really heard from you. Do you believe me? Did you think I did it?"
-    j "我都说了那些证据是假的。而且……奥利……我一直没听到你说什么。你相信我吗？你觉得是我干的吗？"
+    j "我都说了那些证据是假的。而且……奥利……我一直没怎么听到你的消息。你相信我吗？你觉得是我干的吗？"
 
 translate schinese_rewrite Event_Party01_966cf34c:
 
@@ -1366,7 +1366,7 @@ translate schinese_rewrite Event_Party01_966cf34c:
 translate schinese_rewrite Event_Party01_1497bdb1:
 
     # "Ole sputters."
-    "奥利支支吾吾地说不出话来。"
+    "奥利支支吾吾说不出话。"
 
 translate schinese_rewrite Event_Party01_76d8dc40:
 
@@ -1386,7 +1386,7 @@ translate schinese_rewrite Event_Party01_bf5e3df7:
 translate schinese_rewrite Event_Party01_ffb6f7e7:
 
     # a "Hey friends! Jog, where are you going? I just got us a brand new round."
-    a "嘿，朋友们！乔格，你要去哪儿？我刚给咱们又开了一轮新的。"
+    a "嘿，朋友们！乔格，你要去哪儿？我刚给咱们又上了一轮新的饮料。"
 
 translate schinese_rewrite Event_Party01_196ef572:
 
@@ -1406,7 +1406,7 @@ translate schinese_rewrite Event_Party01_bfea6e77:
 translate schinese_rewrite Event_Party01_cedef752:
 
     # "Amble stumbles into the awkward situation with a charming insensitivity that only he can manage."
-    "安布带着只有他才有的讨喜迟钝，闯进了这尴尬的场面。"
+    "安布带着只有他才有的讨喜而迟钝的劲头，跌跌撞撞地闯进了这尴尬的场面。"
 
 translate schinese_rewrite Event_Party01_eca9a72b:
 
@@ -1421,7 +1421,7 @@ translate schinese_rewrite Event_Party01_12a25423:
 translate schinese_rewrite Event_Party01_0fe90e0b:
 
     # a "He has been giving us a look out of the corner of his eyes all night. Perhaps he needs to get them checked? I'm worried about him."
-    a "他一整晚都在斜着眼瞟我们。也许该带他去检查一下眼睛？我有点担心他。"
+    a "他一整晚都在斜着眼瞟我们。也许他的眼睛该检查一下？我有点担心他。"
 
 translate schinese_rewrite Event_Party01_bd675e97:
 
@@ -1586,7 +1586,7 @@ translate schinese_rewrite Event_Party01_cf6c2e74:
 translate schinese_rewrite Event_Party01_334eb7e1:
 
     # c "People like the swill."
-    c "大家就爱喝这种劣酒。"
+    c "人们就爱喝这种劣酒。"
 
 translate schinese_rewrite Event_Party01_b373c25b:
 
@@ -1606,7 +1606,7 @@ translate schinese_rewrite Event_Party01_8632c483:
 translate schinese_rewrite Event_Party01_3428f076:
 
     # "You leave the groups to their own business..."
-    "你任由各桌继续聊他们的。"
+    "你让各群人自行处理……"
 
 translate schinese_rewrite Event_Party01_86e445aa:
 
@@ -1616,7 +1616,7 @@ translate schinese_rewrite Event_Party01_86e445aa:
 translate schinese_rewrite Event_Party01_d2caea30:
 
     # "Haskell and Amble are conversing about the different properties of tea."
-    "哈斯克尔和安布正在谈论茶的各种功效。"
+    "哈斯克尔和安布正在谈论茶的不同特性。"
 
 translate schinese_rewrite Event_Party01_2a8e5558:
 
@@ -1626,12 +1626,12 @@ translate schinese_rewrite Event_Party01_2a8e5558:
 translate schinese_rewrite Event_Party01_76ffe968:
 
     # "Jog crosses path with Seb. Jog slithers away but not out of fear but more like a refusal to engage in meaningless argument."
-    "乔格和塞巴斯擦肩而过。乔格蜿蜒着离开，并非因为害怕，更像是不愿参与毫无意义的争论。"
+    "乔格和塞布擦肩而过。乔格蜿蜒着离开，并非因为害怕，更像是不愿参与毫无意义的争论。"
 
 translate schinese_rewrite Event_Party01_2e057aea:
 
     # "Seb merely glared at Jog as the latter moves away. You have never seen your roommate act like this before."
-    "塞巴斯只是怒瞪着离开的乔格。你以前从没见过这位室友这样。"
+    "塞布只是怒瞪着离开的乔格。你以前从没见过这位室友这样。"
 
 translate schinese_rewrite Event_Party01_ddd31595:
 
@@ -1651,7 +1651,7 @@ translate schinese_rewrite Event_Party01_8850cbb3:
 translate schinese_rewrite Event_Party01_2e6eeaa4:
 
     # "Even during this occasion, Ole is trying to help out Seb. You hope they can reach a consensus that is beneficial to both parties."
-    "即便在这样的场合，奥利也在设法帮助塞巴斯。你希望他们能达成一个对双方都有利的共识。"
+    "即便在这样的场合，奥利也在设法帮助塞布。你希望他们能达成一个对双方都有利的共识。"
 
 translate schinese_rewrite Event_Party01_b77d0579:
 
@@ -1706,7 +1706,7 @@ translate schinese_rewrite Event_Party01_5498cc85:
 translate schinese_rewrite Event_Party01_af0fe8aa:
 
     # e "H-hey! What are you talking about?"
-    e "嗨、嗨！你们在聊什么？"
+    e "喂、喂！你们在聊什么？"
 
 translate schinese_rewrite Event_Party01_89154f0e:
 
@@ -1726,7 +1726,7 @@ translate schinese_rewrite Event_Party01_8b78b404:
 translate schinese_rewrite Event_Party01_d2d0ea74:
 
     # l "I gave him a fair punishment after that, and now? he's obsessed with kicking my balls."
-    l "我那之后给了他应有的惩罚，可现在呢？他却一心想踢爆我的卵蛋。"
+    l "我那之后给了他应有的惩罚，可现在呢？他却一心想踢我的蛋。"
 
 translate schinese_rewrite Event_Party01_7384b8dc:
 
@@ -1751,12 +1751,12 @@ translate schinese_rewrite Event_Party01_01850e49:
 translate schinese_rewrite Event_Party01_e71069e8:
 
     # l "Be careful when you sleep, you'll find the lion staring at you in the middle of the night."
-    l "你睡觉时可得小心，半夜醒来时，说不定会发现那头狮子正盯着你。"
+    l "你睡觉时可得小心，半夜会发现那头狮子正盯着你。"
 
 translate schinese_rewrite Event_Party01_0e04b6c8:
 
     # j "Lot..."
-    j "洛哥……"
+    j "洛特……"
 
 translate schinese_rewrite Event_Party01_dbbefa0e:
 
@@ -1776,7 +1776,7 @@ translate schinese_rewrite Event_Party01_6b342fbf:
 translate schinese_rewrite Event_Party01_11c6bc8b:
 
     # c "Ya wanna keep bumming out my lad at his own party?"
-    c "你们还想在小子的派对上继续败他的兴吗？"
+    c "你们还想在我小子的派对上继续败他的兴吗？"
 
 translate schinese_rewrite Event_Party01_82822a0c:
 
@@ -1881,7 +1881,7 @@ translate schinese_rewrite Event_Party01_755e51eb:
 translate schinese_rewrite Event_Party01_bfe3511b:
 
     # e "To be honest, I'm really grateful for all of you around here. It wasn't always like this in my own tribe."
-    e "在我自己的部落里，情况也并非一直如此。"
+    e "说实话，我真的很感激身边有你们。在我自己的部落里，情况可从来不是这样。"
 
 translate schinese_rewrite Event_Party01_66dadafc:
 
@@ -1936,7 +1936,7 @@ translate schinese_rewrite Event_Party01_5f5eb8e2:
 translate schinese_rewrite Event_Party01_d379a158:
 
     # j "Ah, what if you just fell into a deep slumber for a long time. Like, say a hundred centuries."
-    j "啊，说不定你只是沉睡了很长一段时间。比如说，一百个世纪。"
+    j "啊，说不定你只是陷入了长久的沉睡。比如说，一百个世纪。"
 
 translate schinese_rewrite Event_Party01_175cfdc7:
 
@@ -1946,7 +1946,7 @@ translate schinese_rewrite Event_Party01_175cfdc7:
 translate schinese_rewrite Event_Party01_bc5e97ef:
 
     # c "I suggest ya go check on that monster of yers. We have no idea where yer sleazy ass came from."
-    c "我建议你去查查你说的那个怪物。我们根本不知道你这个邋遢家伙是从哪儿来的。"
+    c "我建议你去看看你说的那头怪物。我们根本不知道你这个不三不四的家伙到底从哪儿冒出来的。"
 
 translate schinese_rewrite Event_Party01_3bcb8f0e:
 
@@ -1956,7 +1956,7 @@ translate schinese_rewrite Event_Party01_3bcb8f0e:
 translate schinese_rewrite Event_Party01_324b8eb3:
 
     # j "The goats and their stolen runes, and the bears... I heard from Amble that they started acting weird around the same time as well."
-    j "山羊和它们被偷走的符文，还有熊……我听安布说，它们好像也是在差不多同一时间开始变得不对劲的。"
+    j "山羊族和他们偷走的符文，还有那些熊……我听安布说，它们差不多也是在同一时间开始变得奇怪的。"
 
 translate schinese_rewrite Event_Party01_4e8a9bd4:
 
@@ -2006,7 +2006,7 @@ translate schinese_rewrite Event_Party01_425e497e:
 translate schinese_rewrite Event_Party01_44217118:
 
     # e "N-no... just don't want to get too drunk."
-    e "没、没什么……只是不想喝得太醉。"
+    e "不、不是……我只是不想醉得太厉害。"
 
 translate schinese_rewrite Event_Party01_7281bbd7:
 
@@ -2016,7 +2016,7 @@ translate schinese_rewrite Event_Party01_7281bbd7:
 translate schinese_rewrite Event_Party01_800cfb98:
 
     # a "Hey...I'm getting tired, mind if I join you three?"
-    a "嘿……我有点累了，不介意我加入你们三个吧？"
+    a "嘿……我有点累了，可以和你们三个一起坐吗？"
 
 translate schinese_rewrite Event_Party01_8aa5e4b9:
 
@@ -2046,7 +2046,7 @@ translate schinese_rewrite Event_Party01_b7b15969:
 translate schinese_rewrite Event_Party01_6093664d:
 
     # e "Thank you for throwing me a party by the way."
-    e "对了，谢谢你们为我办这场派对。"
+    e "对了，谢谢你为我办这场派对。"
 
 translate schinese_rewrite Event_Party01_74e19fe3:
 
@@ -2101,12 +2101,12 @@ translate schinese_rewrite Event_Party01_7c586493:
 translate schinese_rewrite Event_Party01_6a8fe6b7:
 
     # o "Maybe you should join in some time?"
-    o "也许你什么时候也可以加入？"
+    o "也许你哪天也可以来参加？"
 
 translate schinese_rewrite Event_Party01_eb26774b:
 
     # e "What's chess?"
-    e "象棋是什么？"
+    e "国际象棋是什么？"
 
 translate schinese_rewrite Event_Party01_35407981:
 
@@ -2116,7 +2116,7 @@ translate schinese_rewrite Event_Party01_35407981:
 translate schinese_rewrite Event_Party01_f4f0b94a:
 
     # a "A pawn and a king? So that's where the name of your shop came from."
-    a "一个兵和一个国王？原来你们店名就是这么来的。"
+    a "一个兵和一个国王？原来你的店名就是这么来的。"
 
 translate schinese_rewrite Event_Party01_1f2fac05:
 
@@ -2126,12 +2126,12 @@ translate schinese_rewrite Event_Party01_1f2fac05:
 translate schinese_rewrite Event_Party01_bbfec0f6:
 
     # o "And Rahim starts with the queen's pawn."
-    o "而雷希姆用王后的兵开局。"
+    o "而雷希姆从后翼兵开始。"
 
 translate schinese_rewrite Event_Party01_de0be363:
 
     # r "Look, theoretically queen's pawn gets you more advantages as white."
-    r "听我说，理论上，王后兵作为白方能带来更多优势。"
+    r "听着，理论上白方走后翼兵能获得更多优势。"
 
 translate schinese_rewrite Event_Party01_cd574b7c:
 
@@ -2156,7 +2156,7 @@ translate schinese_rewrite Event_Party01_b173f8d5:
 translate schinese_rewrite Event_Party01_3019bbe6:
 
     # s "Buddy, you'll understand when I teach you about the amazing world of chess."
-    s "伙计，等我教你领略象棋的奇妙世界，你就明白了。"
+    s "伙计，等我教你认识国际象棋的奇妙世界，你就明白了。"
 
 translate schinese_rewrite Event_Party01_114f75f9:
 
@@ -2171,12 +2171,12 @@ translate schinese_rewrite Event_Party01_66d43ed5:
 translate schinese_rewrite Event_Party01_03c0ed9f:
 
     # a "They're all talking about their own stuff today. Plus I've never seen chess before."
-    a "今天他们都在聊自己的事。而且我以前从没见过象棋。"
+    a "今天大家都在聊自己的事。而且我以前从没见过国际象棋。"
 
 translate schinese_rewrite Event_Party01_36146446:
 
     # a "Sounds like something straight from the town."
-    a "听起来像是城里才会有的东西。"
+    a "听起来像是从城里直接搬来的东西。"
 
 translate schinese_rewrite Event_Party01_721b7c6f:
 
@@ -2356,7 +2356,7 @@ translate schinese_rewrite Event_Party01_ba8488df:
 translate schinese_rewrite Event_Party01_8054767a:
 
     # e "Haskell, thank you for helping me. Perhaps one day we can go on an adventure together."
-    e "哈斯克尔，谢谢你一直以来对我的帮助。也许有一天，我们可以一起去冒险。"
+    e "哈斯克尔，谢谢你帮助我。也许有一天我们可以一起冒险。"
 
 translate schinese_rewrite Event_Party01_8e3961c0:
 
@@ -2371,12 +2371,12 @@ translate schinese_rewrite Event_Party01_a735fc1d:
 translate schinese_rewrite Event_Party01_f13f8368:
 
     # e "Maybe I'm up for the challenge."
-    e "也许我应付得来这个挑战。"
+    e "也许我愿意接受挑战。"
 
 translate schinese_rewrite Event_Party01_dbb1056c:
 
     # "Haskell raises his brow in surprise and then chuckles with mirth."
-    "哈斯克尔惊讶地扬起眉毛，随后兴致盎然地笑了起来。"
+    "哈斯克尔惊讶地挑了挑眉，随后愉快地笑了起来。"
 
 translate schinese_rewrite Event_Party01_01b24c10:
 
@@ -2546,7 +2546,7 @@ translate schinese_rewrite Event_Party01_Jog_75d5626d:
 translate schinese_rewrite Event_Party01_Jog_545c6166:
 
     # j "Jumping straight to the good stuff, are we?"
-    j "这么快就直奔重点了？"
+    j "你这是要直接跳到精彩部分吗？"
 
 translate schinese_rewrite Event_Party01_Jog_f498aaf4:
 
@@ -2581,7 +2581,7 @@ translate schinese_rewrite Event_Party01_Jog_9e15db04:
 translate schinese_rewrite Event_Party01_Jog_98a34fad:
 
     # j "Got rid of those losers and found better company in Boss and Amble."
-    j "甩掉了那两个废物，还找到了老大和安布这样的好伙伴。"
+    j "摆脱了那些失败者，在老大和安布那里找到了更好的伙伴。"
 
 translate schinese_rewrite Event_Party01_Jog_d69d5688:
 
@@ -2611,12 +2611,12 @@ translate schinese_rewrite Event_Party01_Jog_574e8400:
 translate schinese_rewrite Event_Party01_Jog_ec07962f:
 
     # "You wonder."
-    "你陷入了思索。"
+    "你不禁思索。"
 
 translate schinese_rewrite Event_Party01_Jog_05f3db43:
 
     # e "I don't know what really happened, but do I trust that you wouldn't maliciously harm your friends. I can see that from how you interact with Lothar and Amble."
-    e "我不知道当时到底发生了什么，但我相信你不会恶意伤害自己的朋友。从你和洛萨尔、安布相处的方式就能看出来。"
+    e "我不知道事情究竟是怎么回事，但我相信你不会恶意伤害自己的朋友。从你和洛萨尔、安布相处的方式就能看出来。"
 
 translate schinese_rewrite Event_Party01_Jog_0727dcad:
 
@@ -2646,12 +2646,12 @@ translate schinese_rewrite Event_Party01_Cane_de35eb89:
 translate schinese_rewrite Event_Party01_Cane_7ea37fc3:
 
     # "You step into it to join him."
-    "你走进去，加入了他的行列。"
+    "你走进去，和他一起收拾。"
 
 translate schinese_rewrite Event_Party01_Cane_387c4a39:
 
     # "Cane turns around to accost you."
-    "凯恩转过身来，走到你面前。"
+    "凯恩转过身来，上前拦住你。"
 
 translate schinese_rewrite Event_Party01_Cane_f0f1014d:
 
@@ -2696,12 +2696,12 @@ translate schinese_rewrite Event_Party01_Cane_0376a308:
 translate schinese_rewrite Event_Party01_Cane_ba9e5178:
 
     # "You hear his accent disappear for a second, like it did with Rahim, as he speaks quietly."
-    "你听见他说话时口音消失了片刻，就像他之前和雷希姆说话时那样。"
+    "他压低声音说话时，你听到他的口音像之前和雷希姆说话时那样，短暂地消失了。"
 
 translate schinese_rewrite Event_Party01_Cane_e8f88048:
 
     # c "...But you should pick better people to take after."
-    c "……不过，你该找个更值得模仿的人。"
+    c "……不过，你应该找些更值得效仿的人。"
 
 translate schinese_rewrite Event_Party01_Cane_30ebdbbf:
 
@@ -2736,7 +2736,7 @@ translate schinese_rewrite Event_Party01_Cane_c78a3449:
 translate schinese_rewrite Event_Party01_Cane_9a4b1d85:
 
     # c "Lothar's gang cleaned me out of most of my liquor stock. I've gotta prepare more for tomorrow."
-    c "洛萨尔那帮人把我存的大部分酒都喝光了。我得再准备一些，明天才够用。"
+    c "洛萨尔那帮人把我大部分的酒存货都耗光了。我得再准备一些。"
 
 translate schinese_rewrite Event_Party01_Cane_74964a79:
 
@@ -2756,7 +2756,7 @@ translate schinese_rewrite Event_Party01_Cane_7e4d44f8:
 translate schinese_rewrite Event_Party01_Cane_ccfc5974:
 
     # c "Whatcha up to?"
-    c "你想干什么？"
+    c "你在忙什么？"
 
 translate schinese_rewrite Event_Party01_Cane_8b574544:
 
@@ -2806,7 +2806,7 @@ translate schinese_rewrite Event_Party01_Cane_5802764b:
 translate schinese_rewrite Event_Party01_Cane_ddd4455e:
 
     # c "Rather like ya. But I'd rather he's out there adventuring like ya do. Instead of doin' whatever it is 'e does."
-    c "挺像你的。不过我更希望他能像你一样，在外头冒险闯荡，而不是去做他现在做的那些事。"
+    c "这点倒是挺像你。不过，我宁愿他像你一样在外面冒险，也不想他去做那些……不知所谓的事。"
 
 translate schinese_rewrite Event_Party01_Cane_013c9b84:
 
@@ -2816,7 +2816,7 @@ translate schinese_rewrite Event_Party01_Cane_013c9b84:
 translate schinese_rewrite Event_Party01_Cane_a3653631:
 
     # c "Maybe one day, you'll wake up and see yerself as too big for this small little village too."
-    c "或许有一天，你也会一觉醒来，觉得自己不该困在这个小小的村子里。"
+    c "也许有一天，你也会醒悟，觉得自己不该再待在这个小村子里。"
 
 translate schinese_rewrite Event_Party01_Cane_6a7061e6:
 
@@ -2846,12 +2846,12 @@ translate schinese_rewrite Event_Party01_Cane_2a848081:
 translate schinese_rewrite Event_Party01_Cane_61badab9:
 
     # c "Kid, just remember that we're not here to bog ya down. When ya get overwhelmed out there, remember that ya have friends at Lusterfield."
-    c "小子，记住，我们不是要把你困在这里。等你在外头不堪重负时，记得卢斯特菲尔德还有朋友在等着你。"
+    c "孩子，记住，我们不是来拖你后腿的。当你在外头不堪重负时，记住你在卢斯特菲尔德有朋友。"
 
 translate schinese_rewrite Event_Party01_Cane_967975e5:
 
     # c "Even this old bat is always ready to give ya some physical comfort."
-    c "就连我这只老蝙蝠，也随时愿意给你一些身体上的安慰。"
+    c "就连我这个老家伙，也随时愿意给你一些身体上的安慰。"
 
 translate schinese_rewrite Event_Party01_Cane_28c18cb4:
 
@@ -2906,7 +2906,7 @@ translate schinese_rewrite Event_Party01_Cane_ee2e64b2:
 translate schinese_rewrite Event_Party01_Cane_d749bfac:
 
     # "Cane exhales as he moves another box."
-    "凯恩一边搬起另一个箱子，一边长长地呼出一口气。"
+    "凯恩搬动另一个箱子时呼出一口气。"
 
 translate schinese_rewrite Event_Party01_Cane_fc7e4deb:
 
@@ -2966,7 +2966,7 @@ translate schinese_rewrite Event_Party01_Lothar_4edcddd1:
 translate schinese_rewrite Event_Party01_Lothar_c1521b17:
 
     # "The grass crunches under your feet as you walks towards him."
-    "你朝他走去，脚下的草地发出沙沙声。"
+    "你朝他走去，脚下的草发出嘎吱声。"
 
 translate schinese_rewrite Event_Party01_Lothar_9d3f470f:
 
@@ -3056,7 +3056,7 @@ translate schinese_rewrite Event_Party01_Lothar_6fa10c87:
 translate schinese_rewrite Event_Party01_Lothar_d4e43972:
 
     # l "I sense little patience in others. And the lion is right about one thing."
-    l "我感觉其他人对我没什么耐心。不过，那头狮子有一句话倒是说对了。"
+    l "我能感觉到别人对我没什么耐心。而那头狮子有一点说得对。"
 
 translate schinese_rewrite Event_Party01_Lothar_d686c4b2:
 
@@ -3191,7 +3191,7 @@ translate schinese_rewrite Event_Party01_Lothar_3cb35f33:
 translate schinese_rewrite Event_Party01_Lothar_501f295f:
 
     # l "You won somehow, so a Hero has to honor his words."
-    l "你也算赢了，所以大英雄就得信守承诺。"
+    l "你不知怎么赢了，所以英雄必须信守承诺。"
 
 translate schinese_rewrite Event_Party01_Lothar_1c9a7725:
 
@@ -3231,17 +3231,17 @@ translate schinese_rewrite Event_Party01_Lothar_84d37cf1:
 translate schinese_rewrite Event_Party01_Lothar_9da84c5d:
 
     # "Lothar is expressionless for a long time. Then, he whips his head from left to right."
-    "洛萨尔面无表情地沉默了很久。然后，他猛地把头从左转向右。"
+    "洛萨尔很久没有表情。然后，他猛地把头从左向右转。"
 
 translate schinese_rewrite Event_Party01_Lothar_12bab6f2:
 
     # l "Doesn't make sense to me. What can a Disciple teach the Hero of Lusterfield anyway?"
-    l "我听不懂。区区一个学徒，究竟能教卢斯特菲尔德的大英雄什么？"
+    l "我不明白这有什么意义。弟子还能教卢斯特菲尔德的英雄什么？"
 
 translate schinese_rewrite Event_Party01_Lothar_e09e3958:
 
     # l "I-... I'm going back in to take advantage of the free drinks before the party's over."
-    l "我、我还是趁派对结束前回去享用免费酒水吧。"
+    l "我、我先回去了，趁派对结束前再喝点免费的饮料。"
 
 translate schinese_rewrite Event_Party01_Lothar_211aabf3:
 
@@ -3251,7 +3251,7 @@ translate schinese_rewrite Event_Party01_Lothar_211aabf3:
 translate schinese_rewrite Event_Party01_Sebas_1da6b3b0:
 
     # "You see Seb pacing around the tavern corridor."
-    "你看见塞巴斯在酒馆走廊里来回踱步。"
+    "你看到塞布在酒馆走廊里来回踱步。"
 
 translate schinese_rewrite Event_Party01_Sebas_42dd5a61:
 
@@ -3261,7 +3261,7 @@ translate schinese_rewrite Event_Party01_Sebas_42dd5a61:
 translate schinese_rewrite Event_Party01_Sebas_713403ac:
 
     # e "Seb, what's wrong?"
-    e "塞巴斯，怎么了？"
+    e "塞布，怎么了？"
 
 translate schinese_rewrite Event_Party01_Sebas_92d4b731:
 
@@ -3276,7 +3276,7 @@ translate schinese_rewrite Event_Party01_Sebas_0f829ce4:
 translate schinese_rewrite Event_Party01_Sebas_947b39db:
 
     # s "For ruining your party. This is supposed to be fun but I had to get into an argument with that stupid wolf."
-    s "都怪我毁了你的派对。本来应该开开心心的，可我偏偏和那条蠢狼吵了起来。"
+    s "把你的派对搞砸了。本来应该开心的，可我却和那头蠢狼吵了起来。"
 
 translate schinese_rewrite Event_Party01_Sebas_00faa332:
 
@@ -3286,12 +3286,12 @@ translate schinese_rewrite Event_Party01_Sebas_00faa332:
 translate schinese_rewrite Event_Party01_Sebas_47bc3ed7:
 
     # e "Seb, I don't mind."
-    e "塞巴斯，没关系，我不介意。"
+    e "塞布，我不介意。"
 
 translate schinese_rewrite Event_Party01_Sebas_d6c8068e:
 
     # "Sebas cracks a small smile."
-    "塞巴斯挤出一丝微笑。"
+    "塞巴斯露出一丝浅笑。"
 
 translate schinese_rewrite Event_Party01_Sebas_c58d49dc:
 
@@ -3306,7 +3306,7 @@ translate schinese_rewrite Event_Party01_Sebas_3ba8ec69:
 translate schinese_rewrite Event_Party01_Sebas_7e1752e7:
 
     # "Sebas groans with annoyance."
-    "塞巴斯烦躁地哼了一声。"
+    "塞巴斯烦躁地呻吟了一声。"
 
 translate schinese_rewrite Event_Party01_Sebas_3f9a73a0:
 
@@ -3326,7 +3326,7 @@ translate schinese_rewrite Event_Party01_Sebas_4f62210e:
 translate schinese_rewrite Event_Party01_Sebas_e21023d9:
 
     # s "And... you saw what happened."
-    s "而且……你也看到了后来发生的事。"
+    s "而且……你也看到了发生的事。"
 
 translate schinese_rewrite Event_Party01_Sebas_f810f16b:
 
@@ -3366,7 +3366,7 @@ translate schinese_rewrite Event_Party01_Sebas_bbff52be:
 translate schinese_rewrite Event_Party01_Sebas_8fe21f33:
 
     # "Seb smacks you jokingly."
-    "塞巴斯笑着拍了你一下。"
+    "塞布开玩笑似的拍了你一下。"
 
 translate schinese_rewrite Event_Party01_Sebas_53ad945a:
 
@@ -3386,17 +3386,17 @@ translate schinese_rewrite Event_Party01_Sebas_673763eb:
 translate schinese_rewrite Event_Party01_Sebas_3156e8fe:
 
     # s "The wolf mixes with the wrong kind of crowd."
-    s "那头狼总和不三不四的人混在一起。"
+    s "那头狼混进了不该混的圈子。"
 
 translate schinese_rewrite Event_Party01_Sebas_068e12d6:
 
     # s "Amble is better, but the other..."
-    s "安布还好，但另一个……"
+    s "安布更好，但另一个……"
 
 translate schinese_rewrite Event_Party01_Sebas_bd6f10ab:
 
     # s "His team is nothing more than a ragtag group of gangsters."
-    s "他的队伍不过是一群乌合之众般的帮派分子。"
+    s "他那伙人不过是一群乌合之众的匪徒。"
 
 translate schinese_rewrite Event_Party01_Sebas_44c513b9:
 
@@ -3421,7 +3421,7 @@ translate schinese_rewrite Event_Party01_Sebas_4ed35ac1:
 translate schinese_rewrite Event_Party01_Sebas_04a880fd:
 
     # e "You worry too much, Seb. Nothing like that is happening."
-    e "你太担心了，塞巴斯。那种事根本不会发生。"
+    e "你想太多了，塞布。根本没有那回事。"
 
 translate schinese_rewrite Event_Party01_Sebas_8501b5e1:
 
@@ -3441,7 +3441,7 @@ translate schinese_rewrite Event_Party01_Sebas_0253eeee:
 translate schinese_rewrite Event_Party01_Sebas_7666eac0:
 
     # e "What about them?"
-    e "那又怎样？"
+    e "它们怎么了？"
 
 translate schinese_rewrite Event_Party01_Sebas_5443dac7:
 
@@ -3486,7 +3486,7 @@ translate schinese_rewrite Event_Party01_Sebas_3ec5fc6b:
 translate schinese_rewrite Event_Party01_Sebas_b6df00bf:
 
     # e "Seb, I appreciate the concern. But by your same logic, if they can influence me, I'd be influenced by you and Ole too."
-    e "塞巴，谢谢你的关心。但照你的逻辑，如果他们能影响我，那你和奥利也能影响我。"
+    e "塞布，我很感激你的关心，但按照你的逻辑，如果他们能影响我，我也会受到你和奥利的影响。"
 
 translate schinese_rewrite Event_Party01_Sebas_9b072554:
 
@@ -3511,7 +3511,7 @@ translate schinese_rewrite Event_Party01_Sebas_eaf364db:
 translate schinese_rewrite Event_Party01_Sebas_473ba8a1:
 
     # "Seb rubs his fur against yours. It's very ticklish."
-    "塞巴斯用自己的毛蹭着你的毛。痒得你直发笑。"
+    "塞布用他的毛蹭着你的毛，痒得你直想笑。"
 
 translate schinese_rewrite Event_Party01_Sebas_4a6f890b:
 
@@ -3606,7 +3606,7 @@ translate schinese_rewrite Event_Party01_Ole_cb383071:
 translate schinese_rewrite Event_Party01_Ole_a89b2db3:
 
     # "After you two clean up a table, you grab Ole and stop him."
-    "你们收拾完一张桌子后，便拉住奥利，不让他继续去收拾下一张。"
+    "你们两个收拾桌子之后，抓住奥利阻止他。"
 
 translate schinese_rewrite Event_Party01_Ole_b24a3b5b:
 
@@ -3626,12 +3626,12 @@ translate schinese_rewrite Event_Party01_Ole_11fdc540:
 translate schinese_rewrite Event_Party01_Ole_bcc3f2bc:
 
     # e "This is my party. At least, have fun."
-    e "这是我的派对。至少，今天就好好玩吧。"
+    e "这是我的派对。至少，玩得开心。"
 
 translate schinese_rewrite Event_Party01_Ole_323abb76:
 
     # "You smile at him."
-    "你朝他微微一笑。"
+    "你朝他笑了笑。"
 
 translate schinese_rewrite Event_Party01_Ole_2a882fb6:
 
@@ -3656,7 +3656,7 @@ translate schinese_rewrite Event_Party01_Ole_0af36474:
 translate schinese_rewrite Event_Party01_Ole_4cb915f4:
 
     # o "What for?"
-    o "谢我做什么？"
+    o "谢我什么？"
 
 translate schinese_rewrite Event_Party01_Ole_ddbbff26:
 
@@ -3666,7 +3666,7 @@ translate schinese_rewrite Event_Party01_Ole_ddbbff26:
 translate schinese_rewrite Event_Party01_Ole_6b8bf2f2:
 
     # "You gesture at the party around you."
-    "你朝周围的派对示意。"
+    "你指了指周围的派对。"
 
 translate schinese_rewrite Event_Party01_Ole_d34e2ab4:
 
@@ -3761,7 +3761,7 @@ translate schinese_rewrite Event_Party01_Ole_c312c64c:
 translate schinese_rewrite Event_Party01_Ole_eb36580e:
 
     # e "I wouldn't mind doing more with you."
-    e "我不介意和你再做点别的。"
+    e "我不介意和你再进一步。"
 
 translate schinese_rewrite Event_Party01_Ole_64a1e2b0:
 
@@ -3811,7 +3811,7 @@ translate schinese_rewrite Event_Party01_Ole_a948e38f:
 translate schinese_rewrite Event_Party01_Ole_3178c698:
 
     # o "I don't want folks to see how... not me. I was."
-    o "我不想让大家看到我那副样子……那不是我。我刚才只是……"
+    o "我不想让别人看到我……那副样子。我刚才就是那样。"
 
 translate schinese_rewrite Event_Party01_Ole_de35e021:
 
@@ -3876,12 +3876,12 @@ translate schinese_rewrite Event_Party01_Ole_ea7ac80c:
 translate schinese_rewrite Event_Party01_Ole_b2fd5087:
 
     # o "I feel like you are getting excited for the wrong reason."
-    o "我觉得你激动错了方向。"
+    o "我觉得你兴奋的理由不太对。"
 
 translate schinese_rewrite Event_Party01_Ole_d6888b15:
 
     # o "But... I'll sleep on it."
-    o "不过……我会考虑一下。"
+    o "但是……我会想一晚再决定。"
 
 translate schinese_rewrite Event_Party01_Rahim_ba3b9bf4:
 
@@ -3951,7 +3951,7 @@ translate schinese_rewrite Event_Party01_Rahim_8523b7ed:
 translate schinese_rewrite Event_Party01_Rahim_60fd86c5:
 
     # r "I owe you this much."
-    r "这点事，我还是欠你一个交代。"
+    r "这是我欠你的。"
 
 translate schinese_rewrite Event_Party01_Rahim_04aac496:
 
@@ -3966,7 +3966,7 @@ translate schinese_rewrite Event_Party01_Rahim_612515b4:
 translate schinese_rewrite Event_Party01_Rahim_9b317a7a:
 
     # r "... That's why you are so similar and yet so different from Topu."
-    r "……所以你和托普如此相似，却又截然不同。"
+    r "……所以你才会和托普如此相似，却又截然不同。"
 
 translate schinese_rewrite Event_Party01_Rahim_9e15db04:
 
@@ -3976,7 +3976,7 @@ translate schinese_rewrite Event_Party01_Rahim_9e15db04:
 translate schinese_rewrite Event_Party01_Rahim_6d784a85:
 
     # r "He would have stayed to listen too, but I'm not sure if he would have understood."
-    r "他大概也会留下来听，但我不确定他能不能听懂。"
+    r "他也会留下来听，但我不确定他能不能听懂。"
 
 translate schinese_rewrite Event_Party01_Rahim_508972f3:
 
@@ -3991,7 +3991,7 @@ translate schinese_rewrite Event_Party01_Rahim_4debc7e3:
 translate schinese_rewrite Event_Party01_Rahim_7b18c076:
 
     # "Rahim takes another sip of the beer and a frown appears between his brows."
-    "雷希姆又抿了一口啤酒，眉间浮现出一抹愁色。"
+    "雷希姆又喝了一小口啤酒，眉间浮现出皱眉。"
 
 translate schinese_rewrite Event_Party01_Rahim_2734b04c:
 
@@ -4046,7 +4046,7 @@ translate schinese_rewrite Event_Party01_Rahim_0b0788c8:
 translate schinese_rewrite Event_Party01_Rahim_e6522cfc:
 
     # r "Kid, if there's anything to learn here, it's that you have a wide support system."
-    r "孩子，如果非要从这件事里学到点什么，那就是：你身边有一张广泛的支持网络。"
+    r "孩子，如果这里有什么值得你学的，那就是你拥有一个强大的支持系统。"
 
 translate schinese_rewrite Event_Party01_Rahim_62301e45:
 
@@ -4076,7 +4076,7 @@ translate schinese_rewrite Event_Party01_Amble_63e355db:
 translate schinese_rewrite Event_Party01_Amble_33ea2c13:
 
     # "He appears to be juggling a handful of jugs with his massive arms."
-    "他正用粗壮的双臂抛接着好几个酒壶，看起来像是手忙脚乱。"
+    "他看起来正用粗壮的手臂抛接几只大酒壶。"
 
 translate schinese_rewrite Event_Party01_Amble_c4dc9924:
 
@@ -4086,17 +4086,17 @@ translate schinese_rewrite Event_Party01_Amble_c4dc9924:
 translate schinese_rewrite Event_Party01_Amble_dbeb2d0b:
 
     # e "Amble, what are you doing? And is there anything I can do to help? You look like you have your hands full."
-    e "安布，你在做什么？有什么我能帮忙的吗？你看起来手上可够忙的。"
+    e "安布，你在做什么？有什么我能帮忙的吗？看起来你手头的事可不少。"
 
 translate schinese_rewrite Event_Party01_Amble_b15269a3:
 
     # "Amble peeks over the jugs of beer and breaks into a smile when he sees you."
-    "安布从酒壶堆后探出头，看到你后脸上绽开笑容。"
+    "安布从一堆啤酒壶后探出头，看到你后咧嘴笑了起来。"
 
 translate schinese_rewrite Event_Party01_Amble_7f9dec02:
 
     # a "Puny friend, it's you!"
-    a "小不点朋友，原来是你！"
+    a "小不点朋友，是你！"
 
 translate schinese_rewrite Event_Party01_Amble_df58a5a5:
 
@@ -4106,7 +4106,7 @@ translate schinese_rewrite Event_Party01_Amble_df58a5a5:
 translate schinese_rewrite Event_Party01_Amble_1db1cab0:
 
     # a "I'm trying to juggle as many beer jugs as I can."
-    a "我正努力同时抛接尽可能多的酒壶。"
+    a "我正努力同时抛接尽可能多的啤酒壶。"
 
 translate schinese_rewrite Event_Party01_Amble_18676921:
 
@@ -4186,7 +4186,7 @@ translate schinese_rewrite Event_Party01_Amble_e60fe8a2:
 translate schinese_rewrite Event_Party01_Amble_1bf36fe0:
 
     # "Cane knows that Amble has a stake in winning the bet for both the money and the drinks."
-    "凯恩知道安布既想赢下赌局拿到钱，也想赢得啤酒。"
+    "凯恩知道安布既想赢下赌局拿到钱，也想赢得饮料。"
 
 translate schinese_rewrite Event_Party01_Amble_7e77c37c:
 
@@ -4226,7 +4226,7 @@ translate schinese_rewrite Event_Party01_Amble_d65b1a9c:
 translate schinese_rewrite Event_Party01_Amble_cd57d31e:
 
     # "The jugs of beer are spread on the table."
-    "桌上摆满了一壶壶啤酒。"
+    "啤酒壶摊放在桌上。"
 
 translate schinese_rewrite Event_Party01_Amble_e0e9f18f:
 
@@ -4246,7 +4246,7 @@ translate schinese_rewrite Event_Party01_Amble_64b961af:
 translate schinese_rewrite Event_Party01_Amble_87d19c7c:
 
     # a "And this is for you!"
-    a "这个是给你的！"
+    a "这个也是给你的！"
 
 translate schinese_rewrite Event_Party01_Amble_2f35259e:
 
@@ -4296,7 +4296,7 @@ translate schinese_rewrite Event_Party01_End_3f9dd3fe:
 translate schinese_rewrite Event_Party01_End_b6c8e231:
 
     # "You walks on home with Seb and Ole."
-    "你和塞巴斯、奥利一起走在回家的路上。"
+    "你和塞布、奥利一起走回家。"
 
 translate schinese_rewrite Event_Party01_End_797de81a:
 
@@ -4306,7 +4306,7 @@ translate schinese_rewrite Event_Party01_End_797de81a:
 translate schinese_rewrite Event_Party01_End_0987da05:
 
     # "It is not Puro. And your clanspeople are not here."
-    "这里不是普罗。你的族人也不在这里。"
+    "这里没有普罗。你的族人也不在这里。"
 
 translate schinese_rewrite Event_Party01_End_6ba5fa0a:
 

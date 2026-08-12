@@ -1511,7 +1511,7 @@ translate schinese_rewrite Bear_Guard_Cave_Finish_7c798833:
 translate schinese_rewrite Bear_Guard_Cave_Finish_4e71b04e:
 
     # "Once there is enough daylight and air again, Daggi says little, keeping the wrapped tablet tucked tight under one arm all the way back to Otsovaara."
-    "重新拥有足够的天光与空气后，达吉几乎没再说话，只将包好的石板紧紧夹在一侧臂弯下，一路带回奥措瓦拉。"
+    "重新有了足够的天光和空气后，达吉一路都没怎么说话，只把包好的石板紧紧夹在一侧臂下，带回了奥措瓦拉。"
 
 translate schinese_rewrite Bear_Guard_Cave_Finish_ff6ff665:
 
@@ -1951,7 +1951,7 @@ translate schinese_rewrite Bear_Guard_Crypt_Tablet_Report_64d3e8bb_1:
 translate schinese_rewrite Bear_Guard_Crypt_Tablet_Report_cb7606fe:
 
     # kh "That explains more than I expected."
-    kh "这比我预想的解释得更多。"
+    kh "这解释了许多我没想到的事。"
 
 translate schinese_rewrite Bear_Guard_Crypt_Tablet_Report_44645f01:
 

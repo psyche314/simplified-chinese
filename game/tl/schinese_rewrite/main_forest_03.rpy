@@ -366,12 +366,12 @@ translate schinese_rewrite spearhead_plateau_loop_ce7fce2b:
 translate schinese_rewrite spearhead_plateau_loop_694b134f:
 
     # "It looks to be the same flyer for the travelling carnival, so you quickly put it away."
-    "看起来是同一张旅行嘉年华的传单，于是你赶紧把它收了起来。"
+    "看起来是同一张巡回嘉年华的传单，于是你赶紧把它收了起来。"
 
 translate schinese_rewrite spearhead_plateau_loop_d1949c0b:
 
     # "Picking it up, it looks to be a flyer for a travelling carnival, putting it in the back, perhaps you should check it out sometime..."
-    "你把它捡起来一看，是一张旅行嘉年华的传单；将它收好后，或许你该找时间去看看……"
+    "你把它捡起来一看，是一张巡回嘉年华的传单；将它收好后，或许你该找时间去看看……"
 
 translate schinese_rewrite spearhead_plateau_loop_9d14108b:
 

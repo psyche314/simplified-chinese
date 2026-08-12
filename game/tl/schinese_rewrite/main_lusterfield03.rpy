@@ -86,7 +86,7 @@ translate schinese_rewrite Jog_Lothar_Training_d608835b:
 translate schinese_rewrite Jog_Lothar_Training_314eca71:
 
     # j "Lot told us that you can't even beat the training dummy."
-    j "洛哥说你连训练人偶都打不过。"
+    j "洛萨尔说你连训练人偶都打不过。"
 
 translate schinese_rewrite Jog_Lothar_Training_5ebadbf1:
 
@@ -1056,7 +1056,7 @@ translate schinese_rewrite Jog_Lothar_Training_5c591fd1:
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_0e4c8860:
 
     # e "M-master, I was looking for the plum trees, would you point me where it is?"
-    e "主、主人，我在找李子树……"
+    e "主、主人，我在找李子树，您能告诉我在哪儿吗？"
 
 translate schinese_rewrite Arthur_Bandit_Meet_Quest_6dc0a3cf:
 
@@ -2506,7 +2506,7 @@ translate schinese_rewrite Jog_Wuldon_Quest_18c86859:
 translate schinese_rewrite Jog_Wuldon_Quest_683809ce:
 
     # j "Well, we know you've been over in werewolf territory recently."
-    j "最近我们知道你去过狼人领地。"
+    j "我们知道你最近去过狼人领地。"
 
 translate schinese_rewrite Jog_Wuldon_Quest_caa85629:
 
@@ -4236,7 +4236,7 @@ translate schinese_rewrite Amble_Lothar_Training_08a963e8:
 translate schinese_rewrite Amble_Lothar_Training_dd6e671f:
 
     # a "Puny courier, I'm sure you are all sweaty from the training. We should wash ourselves in this lagoon."
-    a "小不点，我敢肯定你训练后已经浑身是汗了。我们该在这个泻湖里洗洗。"
+    a "小不点，我敢肯定你训练后已经浑身是汗了。我们去这个泻湖里洗洗吧。"
 
 translate schinese_rewrite Amble_Lothar_Training_35fd5a15:
 
@@ -4641,7 +4641,7 @@ translate schinese_rewrite Amble_Ole_Training_Scene_36f80a9b:
 translate schinese_rewrite Amble_Ole_Training_Scene_83b7176c:
 
     # "He waves, greets and nods at everyone along the way. Dwarfed by his size, you follow silently behind Amble."
-    "一路上，他向每个人挥手、问好，还点头致意。相较于他庞大的身躯，你显得格外娇小，只能默默跟在安布身后。"
+    "一路上，他向每个人挥手、问好，还点头致意。相较于他庞大的身躯，你显得格外娇小，默默跟在安布身后。"
 
 translate schinese_rewrite Amble_Ole_Training_Scene_c0861881:
 

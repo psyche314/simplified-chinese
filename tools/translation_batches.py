@@ -642,6 +642,8 @@ def scene_family(record: Record) -> str:
     """Return a stable, compact scene family for batch-level context."""
 
     value = f"{record.file}:{record.id}".lower()
+    if Path(record.file).stem.lower().startswith("book_pages"):
+        return "lore-book"
     if record.kind == "menu":
         return f"menu:{Path(record.file).stem}"
     if "battle" in value or "lose" in value or "win" in value:
@@ -653,6 +655,85 @@ def scene_family(record: Record) -> str:
     if "map" in value or "lusterfield" in value or "forest" in value:
         return "exploration"
     return Path(record.file).stem
+
+
+_BOTANICAL_JOURNAL_IDS = {
+    "book_pages.rpy:strings:14e1be8f39bf",
+    "book_pages.rpy:strings:874d8cecbb31",
+}
+
+
+def translation_context(record: Record) -> tuple[str, str, Optional[str]]:
+    """Describe the local text role, register, and narrowly relevant lore.
+
+    Ren'Py ``strings`` blocks contain both UI labels and long runtime prose, so
+    the structural ``kind`` alone cannot determine how a line should sound.
+    These fields are prompt metadata only; they never become translated text.
+    """
+
+    stem = Path(record.file).stem.lower()
+    value = f"{record.file}:{record.id}".lower()
+
+    if record.id in _BOTANICAL_JOURNAL_IDS:
+        return (
+            "私人药草研究笔记（受损文本）",
+            "采用清楚、略正式但仍带私人笔记口吻的药理记录体；专业内容要准确，文字损坏造成的断裂必须保留，不能猜补成完整事实。",
+            "这是同一本私人植物与药理研究笔记中相邻的两页。Somni-Etern 是幻想蘑菇专名，固定译为“永恒梦魇”。原文中的连字符、破折号和残缺字母表现纸页或文字受损；中文应让读者感到信息缺损，而不是擅自复原作者原句。",
+        )
+
+    if stem.startswith("book_pages"):
+        source_lower = record.source.lower()
+        if "echinacea" in source_lower or "infection" in source_lower and "patient" in source_lower:
+            return (
+                "私人药草研究笔记",
+                "采用清楚、略正式但仍带私人笔记口吻的药理记录体；兼顾专业信息和作者个人经历，不写成 UI 说明或古文。",
+                "这是私人植物与药理研究笔记的一部分，作者既记录药效，也会写入个人判断和经历。",
+            )
+        return (
+            "世界观书籍或编年文本",
+            "采用符合书籍载体的连贯书面叙事；可有历史记录感，但不要机械套用古语、伪古文或现代网络表达。",
+            "这是游戏内供玩家阅读的世界观文本；具体语感由本页主题和上下文决定，而不是由整个西幻世界观一概决定。",
+        )
+
+    if record.kind == "menu":
+        return (
+            "UI、菜单或运行时短文本",
+            "简洁、直接、可扫描；优先表达功能，不扩写成叙事句，也不要为了西幻氛围强行古雅化。",
+            None,
+        )
+
+    if record.speaker:
+        if "battle" in value:
+            return (
+                "战斗中的角色对白",
+                "保持说话者身份、情绪和粗俗程度，采用能自然说出口的中文；战斗紧张感不等于一律短句或一律粗口。",
+                None,
+            )
+        return (
+            "角色对白",
+            "根据说话者身份、关系、教育程度、情绪和前后文决定口语或书面程度；不要统一成现代口语，也不要无依据古雅化。",
+            None,
+        )
+
+    if "battle" in value or "_lose_" in value or "_win_" in value:
+        return (
+            "战斗旁白或战斗反馈",
+            "动作要清楚、紧凑、顺口，保留机制事实但避免机制腔；普通动作优先现代自然叙述，不为增强力度滥用偏书面词。",
+            None,
+        )
+
+    if stem.startswith("main_scene"):
+        return (
+            "成人剧情旁白",
+            "保持原文身体、动作、视角和强度，叙述应连贯自然；不弱化，也不额外情色化或堆砌露骨词。",
+            None,
+        )
+
+    return (
+        "剧情旁白或场景叙述",
+        "采用连贯、沉浸且符合当前场景张力的现代中文叙述；可自然重排，但不要统一成口语、说明书腔或伪古文。",
+        None,
+    )
 
 
 def audit_context(records: list[Record], project_root: Path) -> tuple[list[dict], dict]:
@@ -692,7 +773,10 @@ def audit_context(records: list[Record], project_root: Path) -> tuple[list[dict]
     for record in records:
         words = set(re.findall(r"[a-z]+", record.source.lower()))
         reasons: list[str] = []
-        fields: set[str] = {"translation-policy"}
+        role, register_note, world_context = translation_context(record)
+        fields: set[str] = {"translation-policy", "text-role", "register-note"}
+        if world_context:
+            fields.add("world-context")
 
         if record.source == "":
             reasons.append("empty-source")
@@ -791,6 +875,9 @@ def audit_context(records: list[Record], project_root: Path) -> tuple[list[dict]
                 "term_references": term_references,
                 "same_source_count": duplicate_counts[record.source] if record.source else 0,
                 "has_old_reference": record.old_reference is not None,
+                "text_role": role,
+                "register_note": register_note,
+                "world_context": world_context,
             }
         )
 

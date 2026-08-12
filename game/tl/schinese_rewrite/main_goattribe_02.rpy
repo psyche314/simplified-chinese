@@ -1176,7 +1176,7 @@ translate schinese_rewrite Furkan_Meet_Flower_34bef44c:
 translate schinese_rewrite Furkan_Meet_Flower_b03a33c7:
 
     # "You see a regretful twinge in Furkan's smile."
-    "你从弗坎的笑容中看出一丝悔恨。"
+    "你从弗坎的笑容里看出一丝懊悔。"
 
 translate schinese_rewrite Furkan_Meet_Flower_0383c348:
 
@@ -1926,7 +1926,7 @@ translate schinese_rewrite Keepsake_Furkan_Festival_74842a99:
 translate schinese_rewrite Keepsake_Furkan_Festival_9bb3287b:
 
     # "The young goat patted his back reassuringly, his fingers briefly grazing against the thin material of his cape."
-    "年轻的山羊安慰地拍了拍他的后背，手指短暂地擦过他披风的薄料子。"
+    "年轻的山羊安抚地拍了拍他的后背，手指短暂地擦过他披风的薄布料。"
 
 translate schinese_rewrite Keepsake_Furkan_Festival_2b9f78b0:
 

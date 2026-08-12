@@ -121,7 +121,7 @@ translate schinese_rewrite Ability_Resolution_8f64a376:
 translate schinese_rewrite Ability_Immolation_6adbeaba:
 
     # "You cast your spell on [target.name] and immolate all enemies, dealing [immolation_damage] HP Damage."
-    "你对[target.name]施放法术，将所有敌人焚烧，造成[immolation_damage]点生命值伤害。"
+    "你对[target.name]施放法术，将所有敌人焚烧，造成[immolation_damage]点伤害。"
 
 translate schinese_rewrite Ability_Immolation_d082cdbc:
 
@@ -191,37 +191,37 @@ translate schinese_rewrite Battle_End_Check_319fb841:
 translate schinese_rewrite Battle_End_Check_1679761b:
 
     # "You healed [healamount] from Traquil Mend!"
-    "你通过宁静疗愈恢复了[healamount]点体力！"
+    "你通过宁静疗愈恢复了[healamount]点生命值！"
 
 translate schinese_rewrite Battle_End_Check_6c06d4d5:
 
     # "[ally.name] healed [healamount] from Traquil Mend!"
-    "[ally.name]通过宁静疗愈恢复了[healamount]点体力！"
+    "[ally.name]通过宁静疗愈恢复了[healamount]点生命值！"
 
 translate schinese_rewrite Battle_End_Check_2732cb22:
 
     # "[enemy.name] is still burning, receiving [scorched.effect] HP damage."
-    "[enemy.name]仍在燃烧，受到[scorched.effect]点体力伤害。"
+    "[enemy.name]仍在燃烧，受到[scorched.effect]点伤害。"
 
 translate schinese_rewrite Battle_End_Check_c6a218ef:
 
     # "[enemy.name]'s health decreases by [wounded_damage] from the bleeding."
-    "[enemy.name]因流血失去[wounded_damage]点体力。"
+    "[enemy.name]因流血失去[wounded_damage]点生命值。"
 
 translate schinese_rewrite Battle_End_Check_b20e7375:
 
     # "[enemy2.name] is still burning, receiving [scorched.effect] HP damage."
-    "[enemy2.name]仍在燃烧，受到[scorched.effect]点体力伤害。"
+    "[enemy2.name]仍在燃烧，受到[scorched.effect]点伤害。"
 
 translate schinese_rewrite Battle_End_Check_0575b416:
 
     # "[enemy2.name]'s health decreases by [wounded_damage] from the bleeding."
-    "[enemy2.name]因流血失去[wounded_damage]点体力。"
+    "[enemy2.name]因流血失去[wounded_damage]点生命值。"
 
 translate schinese_rewrite Battle_Kari_a9f4cce1:
 
     # "After your turn, Kari steps forward and strikes the [enemy.name] with his scepter, dealing [kari_damage] to the [enemy.name]."
-    "待你出招后，卡里上前一步，用权杖击打[enemy.name]，令[enemy.name]受到[kari_damage]点体力伤害。"
+    "待你出招后，卡里上前一步，用权杖击打[enemy.name]，令[enemy.name]受到[kari_damage]点伤害。"
 
 translate schinese_rewrite Battle_Kari_a2131bdc:
 
@@ -236,7 +236,7 @@ translate schinese_rewrite Battle_Kari_9f46ba03:
 translate schinese_rewrite Battle_Kari_188e5f4f:
 
     # "After your turn, Kari uses the power of the flowing water to heal your wound, your HP increases by [kari_healing]."
-    "待你出招后，卡里运用流水之力治疗你的伤口，使你的体力增加[kari_healing]点。"
+    "待你出招后，卡里运用流水之力治疗你的伤口，使你的生命值增加[kari_healing]点。"
 
 translate schinese_rewrite Battle_Kari_e16dd3fd:
 
@@ -251,7 +251,7 @@ translate schinese_rewrite Battle_Kari_1aa8b32d:
 translate schinese_rewrite Battle_ASF_43d8069b:
 
     # "You consumed all the spectral orbs around you and healed yourself for [heal_amount] HP."
-    "你吸收了身边所有的幽魂法球，并恢复了[heal_amount]点体力。"
+    "你吸收了身边所有的幽魂法球，并恢复了[heal_amount]点生命值。"
 
 translate schinese_rewrite Battle_ASF_28c0b179:
 
@@ -331,52 +331,52 @@ translate schinese_rewrite goat_guard_battle_loop_8f8a1381:
 translate schinese_rewrite goat_guard_battle_loop_c57f57d0:
 
     # "You slash your [pc.weapon.name!t] at the arm of the goat, your blade grazes through the goat's stomach. Drops of blood drips through his body."
-    "你挥动[pc.weapon.name!t]砍向山羊士兵的手臂，刀刃擦过他的腹部，鲜血一滴滴从他身上淌下。"
+    "你挥动[pc.weapon.name!t]砍向山羊的手臂，刀刃擦过他的腹部，鲜血一滴滴从他身上淌下。"
 
 translate schinese_rewrite goat_guard_battle_loop_3f05fc52:
 
     # "You slash your [pc.weapon.name!t] at the arm of the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-    "你挥动[pc.weapon.name!t]劈向山羊士兵的手臂，将他击倒在地。他蓬头垢面地爬起来，朝你发出低吼。"
+    "你挥动[pc.weapon.name!t]劈向山羊的手臂，将他击倒在地。他蓬头垢面地爬起来，朝你发出低吼。"
 
 translate schinese_rewrite goat_guard_battle_loop_214f9883:
 
     # "You slam your [pc.weapon.name!t] at the goat's abdomen, your blade grazes through his stomach. Drops of blood drips through his body."
-    "你抡起[pc.weapon.name!t]猛击山羊士兵的腹部，刀刃擦过他的胃部，鲜血一滴滴从他身上淌下。"
+    "你抡起[pc.weapon.name!t]猛击山羊的腹部，刀刃擦过他的腹部，鲜血一滴滴从他身上淌下。"
 
 translate schinese_rewrite goat_guard_battle_loop_b0ba93ae:
 
     # "You slam your [pc.weapon.name!t] at the goat's head, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-    "你抡起[pc.weapon.name!t]猛击山羊士兵的头部，将他击倒在地。他蓬头垢面地爬起来，朝你发出低吼。"
+    "你抡起[pc.weapon.name!t]猛击山羊的头部，将他击倒在地。他蓬头垢面地爬起来，朝你发出低吼。"
 
 translate schinese_rewrite goat_guard_battle_loop_4518a86c:
 
     # "You aim and shoot your [pc.weapon.name!t] at the goat, the arrow hit right into his shoulder."
-    "你瞄准山羊士兵射出[pc.weapon.name!t]，箭矢正中他的肩膀。"
+    "你瞄准山羊射出[pc.weapon.name!t]，箭矢正中他的肩膀。"
 
 translate schinese_rewrite goat_guard_battle_loop_94870dd3:
 
     # "You run while shooting your [pc.weapon.name!t] at the goat, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-    "你一边奔跑，一边用[pc.weapon.name!t]射击山羊士兵，将他击倒在地。他蓬头垢面地爬起来，朝你发出低吼。"
+    "你一边奔跑，一边用[pc.weapon.name!t]射击山羊，将他击倒在地。他蓬头垢面地爬起来，朝你发出低吼。"
 
 translate schinese_rewrite goat_guard_battle_loop_edffacb3:
 
     # "You throw your fist at the goat, hitting him right across his face, the sheer impact knocks him on the ground."
-    "你一拳挥向山羊士兵，正中他的脸部。巨大的冲击力将他击倒在地。"
+    "你一拳挥向山羊，正中他的脸部。巨大的冲击力将他击倒在地。"
 
 translate schinese_rewrite goat_guard_battle_loop_e02a18ea:
 
     # "You punch into the goat's stomach, grabbing him and slam him on the ground hard."
-    "你一拳打中山羊士兵的腹部，抓住他后狠狠地摔在地上。"
+    "你一拳打中山羊的腹部，抓住他后狠狠地摔在地上。"
 
 translate schinese_rewrite goat_guard_battle_loop_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
-    "他的体力减少了[oa[4]]点。"
+    "他的生命值减少了[oa[4]]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_18302ba4:
 
     # "It seems you've hit the goat critically, dealing [oa[4]] HP!"
-    "看来你击中了山羊士兵的要害，造成了[oa[4]]点伤害！"
+    "看来你击中了山羊的要害，造成了[oa[4]]点伤害！"
 
 translate schinese_rewrite goat_guard_battle_loop_697ea8f5:
 
@@ -426,12 +426,12 @@ translate schinese_rewrite goat_guard_battle_loop_fdf9de27:
 translate schinese_rewrite goat_guard_battle_loop_fb834191:
 
     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the goat seductively."
-    "你轻轻刮弄自己的阴茎，爪子从大腿内侧一路滑到睾丸后方，再紧紧地将它扯住，同时以诱人的目光盯着山羊士兵。"
+    "你轻轻刮弄自己的阴茎，爪子从大腿内侧一路滑到睾丸后方，再紧紧地将它扯住，同时以诱人的目光盯着山羊。"
 
 translate schinese_rewrite goat_guard_battle_loop_c7da2682:
 
     # "You cup at your fluffy chest, drawing circles around the area of your nipples. You smile at the goat while your chest bounce up and down slightly."
-    "你用双手托住毛茸茸的胸膛，手指在乳头周围画着圆圈。你朝山羊士兵微笑，胸膛微微上下起伏。"
+    "你用双手托住毛茸茸的胸膛，手指在乳头周围画着圆圈。你朝山羊微笑，胸膛微微上下起伏。"
 
 translate schinese_rewrite goat_guard_battle_loop_7229a95f:
 
@@ -661,7 +661,7 @@ translate schinese_rewrite goat_guard_battle_loop_20c592d7:
 translate schinese_rewrite goat_guard_battle_loop_7af3bcae:
 
     # "The goat guard swings his spear towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "山羊士兵朝你挥矛，你来不及躲闪，被这一击刺中。你的生命值减少了[enemy_damage]点。"
+    "山羊卫兵朝你挥矛，你来不及躲闪，被这一击刺中。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_43de825b:
 
@@ -671,7 +671,7 @@ translate schinese_rewrite goat_guard_battle_loop_43de825b:
 translate schinese_rewrite goat_guard_battle_loop_bbad9b53:
 
     # "The goat guard swings his spear towards you, you managed to deflect his spear and dodge the attack."
-    "山羊士兵朝你挥矛，但你成功挡开了他的长矛，躲过了这次攻击。"
+    "山羊卫兵朝你挥矛，但你成功挡开了他的长矛，躲过了这次攻击。"
 
 translate schinese_rewrite goat_guard_battle_loop_38bb1c99:
 
@@ -776,7 +776,7 @@ translate schinese_rewrite goat_guard_battle_loop_9df6c842:
 translate schinese_rewrite goat_guard_battle_loop_96c66f8a:
 
     # "The second goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-    "第二名山羊卫兵冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
+    "第二只山羊冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_ebe6c349:
 
@@ -786,7 +786,7 @@ translate schinese_rewrite goat_guard_battle_loop_ebe6c349:
 translate schinese_rewrite goat_guard_battle_loop_fa424f8a:
 
     # "The second goat charges at you, trying to kick at your chest but you block the blow and push him back."
-    "第二名山羊卫兵冲向你，试图踢你的胸口，但你挡住了这一脚，将他推了回去。"
+    "第二只山羊冲向你，试图踢你的胸口，但你挡住了这一脚，将他推了回去。"
 
 translate schinese_rewrite goat_guard_battle_loop_99a4ba86:
 
@@ -796,7 +796,7 @@ translate schinese_rewrite goat_guard_battle_loop_99a4ba86:
 translate schinese_rewrite goat_guard_battle_loop_adabcc96:
 
     # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-    "第二名山羊卫兵在遮裆布上抓挠，又将两根手指横在胯间，当着你的面描摹着他阳具的轮廓。"
+    "第二只山羊在遮裆布上抓挠，又将两根手指横在胯间，当着你的面描摹着他阳具的轮廓。"
 
 translate schinese_rewrite goat_guard_battle_loop_39060b0b:
 
@@ -836,7 +836,7 @@ translate schinese_rewrite goat_guard_battle_loop_21bad776_1:
 translate schinese_rewrite goat_guard_battle_loop_adabcc96_1:
 
     # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-    "另一个山羊扯了扯遮裆布，将两根手指搭在胯间，当着你的面勾勒出鸡巴的形状。"
+    "第二只山羊扯了扯遮裆布，将两根手指搭在胯间，当着你的面勾勒出他阳具的形状。"
 
 translate schinese_rewrite goat_guard_battle_loop_39060b0b_1:
 
@@ -876,12 +876,12 @@ translate schinese_rewrite goat_guard_battle_loop_969a6d77_1:
 translate schinese_rewrite goat_general_battle_828f5742:
 
     # "You are facing the General of the Goat Tribe, luckily he seems to be weakened without his magic in the scepter. You hold and clench your fist."
-    "你正面对着山羊部落将军，幸好没有权杖中的魔力，他似乎变弱了。你握紧拳头。"
+    "你正面对着山羊部落将军。幸好他失去了权杖中的魔力，似乎已经变弱。你握紧拳头。"
 
 translate schinese_rewrite goat_general_battle_58680fd1:
 
     # "You are facing the General of the Goat Tribe, luckily he seems to be weakened without his magic in the scepter. You hold your [pc.weapon.name!t] in defence."
-    "你正面对着山羊部落将军，幸好没有权杖中的魔力，他似乎变弱了。你握着[pc.weapon.name!t]摆出防御姿态。"
+    "你正面对着山羊部落将军。幸好他失去了权杖中的魔力，似乎已经变弱。你握着[pc.weapon.name!t]进行防御。"
 
 translate schinese_rewrite goat_general_battle_loop_f5212b33:
 
@@ -1081,7 +1081,7 @@ translate schinese_rewrite goat_general_battle_loop_e94645e2:
 translate schinese_rewrite goat_general_battle_loop_bd1c1e3d:
 
     # "The General charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-    "羊族将军冲向你，一脚踢向你的胸口。你的生命值减少[enemy_damage]点。"
+    "羊族将军冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_general_battle_loop_2c9f3312:
 
@@ -1121,7 +1121,7 @@ translate schinese_rewrite goat_general_battle_loop_3418263c:
 translate schinese_rewrite goat_general_battle_loop_fe789702:
 
     # "he is ready to unleash the power any time from now. He now has [spell_orb] spell orbs."
-    "他现在随时都能释放这股力量。他现在有[spell_orb]个咒术丸。"
+    "他随时都能释放这股力量。现在他有[spell_orb]个咒术丸。"
 
 translate schinese_rewrite goat_general_battle_loop_551b79d0:
 
@@ -1311,12 +1311,12 @@ translate schinese_rewrite goat_general_win_f275c86e:
 translate schinese_rewrite goat_general_win_ecb1ed82:
 
     # e "The Moss Golem's hand."
-    e "石魔像的手。"
+    e "苔藓魔像的手。"
 
 translate schinese_rewrite goat_general_win_dc008138:
 
     # k "Golem?"
-    k "石魔像？"
+    k "魔像？"
 
 translate schinese_rewrite goat_general_win_0e358a34:
 
@@ -1341,22 +1341,22 @@ translate schinese_rewrite goat_general_win_0f49cfeb:
 translate schinese_rewrite goat_general_win_7958ba69:
 
     # k "We had two guardians protecting our runes, they went rogue after the rune disappeared."
-    k "我们曾有两个守护者守护符文，符文消失后，它们就失控了。"
+    k "我们曾有两尊符文守护者守护符文；符文消失后，它们就失控了。"
 
 translate schinese_rewrite goat_general_win_5803ab9a:
 
     # k "We know one of them is in the damp cave."
-    k "我们知道其中一个在潮湿洞穴里。"
+    k "我们知道其中一尊在潮湿洞穴里。"
 
 translate schinese_rewrite goat_general_win_047e8c3a:
 
     # e "I met one golem when I was exploring the river down there, but it got hostile and I had to put it down."
-    e "我在下面探索那条河时遇到过一个魔像，但它变得敌对，我只好把它击倒。"
+    e "我在下面探索那条河时遇到过一尊苔藓魔像，但它变得敌对，我只好解决掉它。"
 
 translate schinese_rewrite goat_general_win_2fa8ce7e:
 
     # k "You're lucky it didn't kill you. The guardian is extremely powerful, if not weakened a bit by the disappearance."
-    k "你没被它杀死，算你走运。那个守护者强大得离谱，虽然符文消失已经让它的力量削弱了不少。"
+    k "你没被它杀死，算你走运。那尊符文守护者本来强大得离谱，只是符文消失让它的力量稍稍减弱。"
 
 translate schinese_rewrite goat_general_win_32db850f:
 
@@ -1521,7 +1521,7 @@ translate schinese_rewrite goat_general_lose_81229a0c:
 translate schinese_rewrite goat_general_lose_977e8716:
 
     # e "U-uhh, the golem's hand."
-    e "呃……石魔像的手。"
+    e "呃……魔像的手。"
 
 translate schinese_rewrite goat_general_lose_3fe89f30:
 
@@ -1531,7 +1531,7 @@ translate schinese_rewrite goat_general_lose_3fe89f30:
 translate schinese_rewrite goat_general_lose_7eab1774:
 
     # e "From the river, I killed it."
-    e "在河边，我杀了它。"
+    e "我是在河里把它杀了的。"
 
 translate schinese_rewrite goat_general_lose_206c30d8:
 
@@ -1561,7 +1561,7 @@ translate schinese_rewrite goat_general_lose_9d24105f:
 translate schinese_rewrite goat_general_lose_21bd3f82:
 
     # e "I was in the river some time before, and I saw a golem."
-    e "之前我在河里待过一阵，看到过一尊石魔像。"
+    e "之前我去过那条河，在那里见过一尊魔像。"
 
 translate schinese_rewrite goat_general_lose_a12e3a29:
 
@@ -1606,22 +1606,22 @@ translate schinese_rewrite goat_general_lose_21a76c7c:
 translate schinese_rewrite goat_general_lose_221eecd8:
 
     # gg "The other one. We have two rune guardians."
-    gg "另一尊。我们有两尊符石守卫。"
+    gg "另一尊。我们有两尊符文守护者。"
 
 translate schinese_rewrite goat_general_lose_d819a6db:
 
     # e "W-what happened to them?"
-    e "他、他们怎么了？"
+    e "他、他们……出什么事了？"
 
 translate schinese_rewrite goat_general_lose_df0f12a6:
 
     # gg "Our guardians went rogue after the primordial runes stopped supplying spell energy."
-    gg "原初符文不再提供魔法能量后，我们的守卫就失控了。"
+    gg "原初符文不再提供魔法能量后，我们的符文守护者就失控了。"
 
 translate schinese_rewrite goat_general_lose_1adf0e00:
 
     # gg "And those guardians were supposed to be guarding the runes, right on top of our mountain."
-    gg "而且那些守卫本该守在我们山顶的符石旁，对吧？"
+    gg "那些符文守护者本来就该在我们山顶上守护符文。"
 
 translate schinese_rewrite goat_general_lose_7a2ce101:
 
@@ -1631,7 +1631,7 @@ translate schinese_rewrite goat_general_lose_7a2ce101:
 translate schinese_rewrite goat_general_lose_7875b56c:
 
     # gg "Because Furkan's in the damp cave."
-    gg "因为弗坎在潮湿山洞里。"
+    gg "因为弗坎在潮湿洞穴里。"
 
 translate schinese_rewrite goat_general_lose_d759c583:
 
@@ -1706,7 +1706,7 @@ translate schinese_rewrite lothar_battle_1e517a6d:
 translate schinese_rewrite lothar_battle_a87ae9eb:
 
     # l "Disciple, do not disappoint me this time. I expect some decent combat before you lose."
-    l "徒儿，这回可别让我失望。我期待着一场像样的战斗，然后看着你落败。"
+    l "徒儿，这回可别让我失望。我希望在你落败前，能看到一场像样的战斗。"
 
 translate schinese_rewrite lothar_battle_502a28b1:
 
@@ -1806,7 +1806,7 @@ translate schinese_rewrite lothar_battle_loop_5c706250:
 translate schinese_rewrite lothar_battle_loop_e29bcb4d:
 
     # l "Lucky h-hit. T-that... was nothing... Agh..."
-    l "运、运气好而已。这、这点伤对本大英雄……根本不算什么……啊……"
+    l "运、运气好而已。这、这点对本大英雄……根本不算什么……啊……"
 
 translate schinese_rewrite lothar_battle_loop_9d1a1918:
 
@@ -2096,7 +2096,7 @@ translate schinese_rewrite lothar_battle_lose_b0b37444:
 translate schinese_rewrite lothar_battle_lose_1a8072d4:
 
     # l "Another win right into my pocket! Not surprising, actually."
-    l "又赢了一场，钱轻松进账！其实也没什么好意外的。"
+    l "又一场胜利收入囊中！其实也没什么好意外的。"
 
 translate schinese_rewrite lothar_battle_lose_52119ca1:
 
@@ -2111,7 +2111,7 @@ translate schinese_rewrite lothar_battle_lose_45e586ad:
 translate schinese_rewrite lothar_battle_lose_f581a057:
 
     # l "Some rest, heh well. Easiest 500 Gold I've got."
-    l "休息？呵，好啊。五百金币真是我赚得最轻松的一笔。"
+    l "休息？呵，好啊。500金币真是我赚得最轻松的一笔。"
 
 translate schinese_rewrite lothar_battle_lose_d86d9fac:
 
@@ -2141,7 +2141,7 @@ translate schinese_rewrite lothar_battle_lose_2b7e8369:
 translate schinese_rewrite lothar_battle_lose_1a8072d4_1:
 
     # l "Another win right into my pocket! Not surprising, actually."
-    l "又赢了一场，钱轻松进账！其实也没什么好意外的。"
+    l "又一场胜利收入囊中！其实也没什么好意外的。"
 
 translate schinese_rewrite lothar_battle_lose_2a0420a9:
 
@@ -2156,7 +2156,7 @@ translate schinese_rewrite lothar_battle_lose_a6f697ab:
 translate schinese_rewrite lothar_battle_lose_f581a057_1:
 
     # l "Some rest, heh well. Easiest 500 Gold I've got."
-    l "休息？呵，好啊。五百金币真是我赚得最轻松的一笔。"
+    l "休息？呵，好啊。500金币真是我赚得最轻松的一笔。"
 
 translate schinese_rewrite lothar_battle_lose_d7a43461:
 
@@ -2471,7 +2471,7 @@ translate schinese_rewrite lothar_battle_win_e64fb882:
 translate schinese_rewrite lothar_battle_win_166bcab7:
 
     # e "Lot...?"
-    e "洛萨尔……？"
+    e "洛……？"
 
 translate schinese_rewrite lothar_battle_win_1a1e56a2:
 

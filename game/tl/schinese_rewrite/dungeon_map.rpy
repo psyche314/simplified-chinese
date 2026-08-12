@@ -181,7 +181,7 @@ translate schinese_rewrite Puro_Forest_Loop_baeb6be2:
 translate schinese_rewrite Puro_Forest_Loop_818887b1:
 
     # "Flipping through the pages, it seems to be about something called spritebinder."
-    "翻看这些纸页后，你发现里面似乎记载着一种叫作八臂鬼的东西。"
+    "翻看这些纸页后，你发现里面似乎记载着一种叫作精灵缚者的东西。"
 
 translate schinese_rewrite Puro_Forest_Loop_69a255ab:
 
@@ -281,12 +281,12 @@ translate schinese_rewrite Puro_Forest_Loop_b224f094:
 translate schinese_rewrite Puro_Forest_Spriteling_77faed7b:
 
     # "As you wander through the eerie forest, a soft glow materializes into a Spriteling."
-    "当你在这片诡异的森林中漫步时，一团柔和的光芒凝聚成了一个幽魂。"
+    "当你在这片诡异的森林中漫步时，一团柔和的光芒凝聚成了一个小精灵。"
 
 translate schinese_rewrite Puro_Forest_Spriteling_6957c94d:
 
     # "You can feel the cold air around you, as the Spriteling's presence becomes more apparent."
-    "你感到周围的空气变得冰冷，幽魂的存在也愈发明显。"
+    "你感到周围的空气变得冰冷，小精灵的存在也愈发明显。"
 
 translate schinese_rewrite Puro_Summoning_Spritebinder_2d966d51:
 
@@ -366,7 +366,7 @@ translate schinese_rewrite Puro_Watch_Post_Enter_0f9024f3:
 translate schinese_rewrite Puro_Watch_Post_Enter_6a28971e:
 
     # hz "We've arrived to the post, you should be able to see the tribe on the top there."
-    hz "我们已经到瞭望塔了，你应该能看到塔顶那里的部落。"
+    hz "我们已经到瞭望塔了，你应该能从塔顶看到部落。"
 
 translate schinese_rewrite Puro_Watch_Post_Enter_a1308b46:
 
@@ -381,7 +381,7 @@ translate schinese_rewrite Puro_Watch_Post_Enter_91520260:
 translate schinese_rewrite Puro_Watch_Post_Enter_d0dfb8d5:
 
     # yu "Allfather, I should just go now, I don't want to waste any more time."
-    yu "大长老，我现在就该走了……"
+    yu "长老，我现在就该走了，我不想再浪费时间。"
 
 translate schinese_rewrite Puro_Watch_Post_Enter_2ee7d570:
 
@@ -451,7 +451,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_af04f851:
 translate schinese_rewrite Puro_Watch_Post_Loop_9bdb2eeb:
 
     # hz "Now, try to pick up the turnips over there, and bring them into the crate."
-    hz "现在试着把那边的萝卜捡起来，放进箱子里。"
+    hz "现在试着把那边的芜菁捡起来，放进箱子里。"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_a08eae45:
 
@@ -471,7 +471,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_79852122:
 translate schinese_rewrite Puro_Watch_Post_Loop_fb824d49:
 
     # yu "Allfather, is this training enough?"
-    yu "大长老，这训练够了吗？"
+    yu "长老，这训练够了吗？"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_36c3b4a0:
 
@@ -561,7 +561,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_abe642f5:
 translate schinese_rewrite Puro_Watch_Post_Loop_6ef6aeaa:
 
     # yu "Allfather, it's really tall."
-    yu "大长老，真高啊。"
+    yu "长老，真高啊。"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_c9e56bbb:
 
@@ -576,7 +576,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_5e0f0942:
 translate schinese_rewrite Puro_Watch_Post_Loop_7f2a591e:
 
     # yu "Sorry! Allfather."
-    yu "对不起！大长老。"
+    yu "对不起！长老。"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_861eb58d:
 
@@ -781,12 +781,12 @@ translate schinese_rewrite Damp_Cave_Loop_e9859b0e:
 translate schinese_rewrite Damp_Cave_Loop_24b6d42e:
 
     # k "Kill the Guardian."
-    k "杀死守卫。"
+    k "杀死符文守护者。"
 
 translate schinese_rewrite Damp_Cave_Loop_ceb7bdd4:
 
     # "You look at the Golem, who Kari told you was the rune guardian."
-    "你看着那尊石魔像，卡里告诉过你，它就是符文守卫。"
+    "你看向那尊魔像，卡里告诉过你，它就是符文守护者。"
 
 translate schinese_rewrite Damp_Cave_Loop_e499e5e0:
 
@@ -796,7 +796,7 @@ translate schinese_rewrite Damp_Cave_Loop_e499e5e0:
 translate schinese_rewrite Damp_Cave_Loop_3575c89a:
 
     # "You look at the Guardian, it seems to be standing here..."
-    "你看向守卫，它似乎正站在那里……"
+    "你看向符文守护者，它似乎正站在那里……"
 
 translate schinese_rewrite Damp_Cave_Loop_a0912840:
 
@@ -871,7 +871,7 @@ translate schinese_rewrite Damp_Cave_Loop_f291e002:
 translate schinese_rewrite Damp_Cave_Ward_9de74f29:
 
     # "You approach the stone ward in front of you, he doesn't seem to notice you."
-    "你走近面前的石魔像，他似乎没有注意到你。"
+    "你走近面前的石之结界，它似乎没有注意到你。"
 
 translate schinese_rewrite Damp_Cave_Ward_56c30d3f:
 
@@ -881,7 +881,7 @@ translate schinese_rewrite Damp_Cave_Ward_56c30d3f:
 translate schinese_rewrite Damp_Cave_Ward_f60aa64c:
 
     # "You jump in front of the stone ward, ready to battle with him."
-    "你跳到石魔像面前，准备与他战斗。"
+    "你跳到石之结界面前，准备与它战斗。"
 
 translate schinese_rewrite Damp_Cave_Mimic_d67d40f0:
 
@@ -906,7 +906,7 @@ translate schinese_rewrite Damp_Cave_Mimic_68fd897f:
 translate schinese_rewrite Damp_Cave_Mimic_2327a901:
 
     # k "W-what did you just do?"
-    k "你、你刚才又干了什么？"
+    k "你、你刚才干了什么？"
 
 translate schinese_rewrite Damp_Cave_Mimic_81773d81:
 
@@ -931,7 +931,7 @@ translate schinese_rewrite Damp_Cave_Puddle_e6835a9f:
 translate schinese_rewrite Damp_Cave_Puddle_c56c97f0:
 
     # "You drank the water, it seems to have healed you to full health."
-    "你喝下了水，似乎已经恢复了全部体力。"
+    "你喝下了水，似乎已经恢复了全部生命值。"
 
 translate schinese_rewrite Damp_Cave_Puddle_8bfbef95:
 
@@ -1011,7 +1011,7 @@ translate schinese_rewrite Damp_Cave_Shelf_6442032d:
 translate schinese_rewrite Damp_Cave_Shelf_9594d69a:
 
     # "'The recent explosion near Kechi//ren ({i}Goat Tr/be/{/i}, seems to /e caused by an unkn//n magi/al force.'"
-    "“凯奇奥伦（{i}羊族{/i}）附近最近发生的爆炸，似乎是由一种未知的魔力所致。”"
+    "“凯奇欧伦（{i}山羊部落{/i}）附近最近发生的爆炸，似乎是由一种未知的魔力所致。”"
 
 translate schinese_rewrite Damp_Cave_Shelf_ad6f399b:
 
@@ -1081,7 +1081,7 @@ translate schinese_rewrite Damp_Cave_Shelf_63bd4eda:
 translate schinese_rewrite Damp_Cave_Shelf_e246719a:
 
     # e "A plain bandana uses 2 fabric and 1 strap..."
-    e "制作一条普通头巾需要2份布料和1条带子……"
+    e "制作一条普通头巾需要2份布料和1条皮带……"
 
 translate schinese_rewrite Damp_Cave_Shelf_e254de6d:
 

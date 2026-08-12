@@ -166,7 +166,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_25ea18d3:
 translate schinese_rewrite Trunk_Drunk_Dialogue_47c45f3a:
 
     # "He shows you his empty pockets, his hands shaking as he does so."
-    "他把空空的口袋展示给你，双手也随之颤抖起来。"
+    "他把口袋翻出来给你看，里面空空如也，双手也随之颤抖。"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_43c5223f:
 
@@ -636,7 +636,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_69ed2fb6:
 translate schinese_rewrite Trunk_Drunk_Dialogue_fa83ab8a:
 
     # drunk_patron "{i}Benea- thic... the palace floor, laid unto... hic the bereaved bastard boy!{/i}"
-    drunk_patron "{i}宫殿地板之下……呃……躺着……呃……那个悲恸的私生子！{/i}"
+    drunk_patron "{i}宫殿地板之下……嗝……躺着……嗝……那个失去亲人的私生子！{/i}"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_63253c51:
 
@@ -841,7 +841,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_3a6c8246:
 translate schinese_rewrite Trunk_Drunk_Dialogue_8f3da3c2:
 
     # drunk_patron "Can you give... give me back the amulet? I... I... I need it back to earn more coins!"
-    drunk_patron "能...能把护符还给我吗？我...我...我得拿回它，才能赚更多金币！"
+    drunk_patron "能……能把护符还给我吗？我……我……我得拿回它，才能赚到更多钱！"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_58490ad2:
 
@@ -1526,7 +1526,7 @@ translate schinese_rewrite Trunk_Pair_Dialogue_c23599ae:
 translate schinese_rewrite Trunk_Pair_Dialogue_8dbe92cc:
 
     # pair_patron1 "Last time I was in the forest, I saw the blue man... you know, the one with the glowing blue mask."
-    pair_patron1 "我上次进森林时，看见了那个蓝衣人……就是你知道的，戴着发光蓝色面具的那个。"
+    pair_patron1 "我上次进森林时，看见了那个蓝面人……就是你知道的，戴着发光蓝色面具的那个。"
 
 translate schinese_rewrite Trunk_Pair_Dialogue_ba0350f8:
 

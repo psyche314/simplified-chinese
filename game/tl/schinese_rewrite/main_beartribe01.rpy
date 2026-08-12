@@ -1,7 +1,7 @@
 translate schinese_rewrite Otsovaara_Introduction_73d771c8:
 
     # "The snow-covered taiga stretches out as far as the eye could see, a serene yet harsh wilderness."
-    "白雪覆盖的针叶林一望无际，呈现出一片宁静却严酷的荒野。"
+    "白雪覆盖的泰加林一望无际，呈现出一片宁静却严酷的荒野。"
 
 translate schinese_rewrite Otsovaara_Introduction_1a96097c:
 
@@ -41,7 +41,7 @@ translate schinese_rewrite Otsovaara_Introduction_e42154ba:
 translate schinese_rewrite Otsovaara_Introduction_1ddf8d22:
 
     # "It was an elk, the white fur shawl draped over his shoulders, his arctic blue pupils glisten as your eyes meet."
-    "那是一名麋鹿族人，白色毛皮披肩搭在肩头；与你四目相对时，他北极般湛蓝的瞳孔闪烁着光芒。"
+    "那是一头麋鹿，白色毛皮披肩搭在肩头；与你四目相对时，他北极般湛蓝的瞳孔闪烁着光芒。"
 
 translate schinese_rewrite Otsovaara_Introduction_e4014fa9:
 
@@ -86,7 +86,7 @@ translate schinese_rewrite Otsovaara_Introduction_3849f614:
 translate schinese_rewrite Otsovaara_Introduction_32f5b689:
 
     # bearGuard2 "He can't be far, where did that damn deer go?"
-    bearGuard2 "他不可能跑远，那该死的鹿跑哪儿去了？"
+    bearGuard2 "他不可能跑远，那该死的麋鹿跑哪儿去了？"
 
 translate schinese_rewrite Otsovaara_Introduction_5cb533f4:
 
@@ -151,7 +151,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_89d68c97:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b43d5edd:
 
     # "They head off towards the direction you pointed, their footsteps crunching through the snow as they tread deep into the taiga forest."
-    "他们朝你所指的方向离去，脚步踩在积雪上嘎吱作响，逐渐深入泰加森林。"
+    "他们朝你所指的方向离去，脚步踩在积雪上嘎吱作响，逐渐深入泰加林。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_f76534aa:
 
@@ -266,7 +266,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_86e68085:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_1eb363a3:
 
     # bearGuard2 "Commander, we should capture him. Chief Kaurhu needs to know what happened here."
-    bearGuard2 "指挥官，我们应该把他抓起来。卡乌胡指挥官必须知道这里发生了什么。"
+    bearGuard2 "指挥官，我们应该把他抓起来。卡乌胡酋长必须知道这里发生了什么。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_dfa0ca92:
 
@@ -311,7 +311,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_f53b9604:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d85541b6:
 
     # bearGuard "Commander, don't you think, Chief would like to see this man and make his own judgement?"
-    bearGuard "指挥官，你不觉得指挥官会想见见这个人，亲自作出判断吗？"
+    bearGuard "指挥官，你不觉得酋长会想见见这个人，亲自作出判断吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c8bc3a91:
 
@@ -356,12 +356,12 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_4fbd910c:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_5b479586:
 
     # bearGuard "Commander, we can all tell he's lying, he must be with Herd."
-    bearGuard "指挥官，我们都看得出来他在撒谎，他一定是兽群的人。"
+    bearGuard "指挥官，我们都看得出来他在撒谎，他一定是赫德的人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d66d3371:
 
     # bearCommander "What can Herd offer him, a stranger, that he would risk his life for?"
-    bearCommander "兽群能给这个陌生人什么，值得他拿性命去冒险？"
+    bearCommander "赫德能给这个陌生人什么，值得他拿性命去冒险？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_24950ce1:
 
@@ -376,12 +376,12 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_64005138:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_9c9dfb55:
 
     # bearGuard "Well, commander, don't you think, if we're not sure which is which. Then maybe it's best we let chief decide instead?"
-    bearGuard "不过，指挥官，既然我们无法确定真相，你不觉得还是让指挥官来决定比较好吗？"
+    bearGuard "不过，指挥官，既然我们无法确定真相，你不觉得还是让酋长来决定比较好吗？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c197e3e0:
 
     # bearGuard2 "Chief should be informed about him at least, we should lock him up before Chief gives any judgement."
-    bearGuard2 "至少应该把他的事禀报首领。在首领作出判断前，我们应该先把他关起来。"
+    bearGuard2 "至少应该把他的事禀报酋长。在酋长作出判断前，我们应该先把他关起来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_55f8861f:
 
@@ -461,7 +461,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_c0e98d26:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_138bfcfa:
 
     # d "I don't believe you're involved with Herd personally, therefore, I want you to prepare when you meet our chief, [e]."
-    d "我不认为你和赫德本人有什么牵连，所以我希望你在见到我们的首领时做好准备，[e]。"
+    d "我不认为你和赫德本人有什么牵连，所以我希望你在见到我们的酋长时做好准备，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b5d95df5:
 
@@ -471,7 +471,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_b5d95df5:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_3156cef1:
 
     # "After some time, the thick taiga giving way to a well-trodden path that winds its way down into a snow-filled valley."
-    "过了一段时间，茂密的针叶林渐渐让出一条人迹常走的小路，蜿蜒着向下通入一片积雪覆盖的山谷。"
+    "过了一段时间，茂密的泰加林渐渐让出一条人迹常走的小路，蜿蜒着向下通入一片积雪覆盖的山谷。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_604182cc:
 
@@ -511,7 +511,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_96052180:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_54e5e2f3:
 
     # "The Chief's Hall awaits on the other side of the bridge, a formidable structure just like the others, albeit much more grandiose."
-    "首领大厅就在桥的另一头，那是一座和其他建筑一样坚固的庞然大物，只是气势更为恢宏。"
+    "酋长大厅就在桥的另一头，那是一座和其他建筑一样坚固的庞然大物，只是气势更为恢宏。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_2e70bce7:
 
@@ -531,12 +531,12 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_8b19c9f5:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_233b5d36:
 
     # d "Chief! Are you alright?"
-    d "首领！您没事吧？"
+    d "酋长！您没事吧？"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_c435d1aa:
 
     # "A voice calls for the chief as you see the commander runs up in front of the throne."
-    "一个声音呼唤着指挥官，你看见那名指挥官跑到王座前。"
+    "一个声音呼唤着酋长，你看见那名指挥官跑到王座前。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_d65cc3c3:
 
@@ -566,7 +566,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_35e470cc:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_aee11ff2:
 
     # bearGuard "C-chief Kaurhu, we couldn't catch him yet, but we found one of his accomplices."
-    bearGuard "首、首领卡乌胡，我们还没抓到他，但找到了他的一个同伙。"
+    bearGuard "首、酋长卡乌胡，我们还没抓到他，但找到了他的一个同伙。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_0f137984:
 
@@ -586,7 +586,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_d83fe2e8:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_a081d382:
 
     # "The elders around the chief look at one another, then they scatter and walk away, revealing the old chief slumped against the throne, raising his brows."
-    "首领身旁的长老们互相对望，随后纷纷散开离去，露出那个靠在王座上、扬起眉毛的老首领。"
+    "酋长身旁的长老们互相对望，随后纷纷散开离去，露出那个靠在王座上、扬起眉毛的老酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_aeda43cc:
 
@@ -601,7 +601,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_3b269090:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b5cb78f1:
 
     # "The chief listens intently, his gaze almost unrelenting as he absorbs your words."
-    "首领专注地听着，吸收你的话语时，目光几乎片刻不移。"
+    "酋长专注地听着，吸收你的话语时，目光几乎片刻不移。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_6a2ce497:
 
@@ -761,7 +761,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_ebb3934e:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_68b42240:
 
     # d "Yes, chief."
-    d "是的，首领。"
+    d "是的，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_315eafbb:
 
@@ -1051,7 +1051,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_1e8cb8d5:
 translate schinese_rewrite Otsovaara_Introduction_Chase_3b3988bb:
 
     # bearGuard "Keep calm, we will report to Chief directly."
-    bearGuard "冷静点，我们直接去向首领报告。"
+    bearGuard "冷静点，我们直接去向酋长报告。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_7a4169ab:
 
@@ -1081,7 +1081,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_6a8e21d2:
 translate schinese_rewrite Otsovaara_Introduction_Chase_fbe5eba3:
 
     # bearCommander "I see... Okay. You may need to follow us to see Chief Kaurhu, it will take only a while."
-    bearCommander "我明白了……好吧。你可能得跟我们去见考尔胡首领，不过不会花太久时间。"
+    bearCommander "我明白了……好吧。你可能得跟我们去见考尔胡酋长，不过不会花太久时间。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d0e23e7b:
 
@@ -1091,7 +1091,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_d0e23e7b:
 translate schinese_rewrite Otsovaara_Introduction_Chase_02e8b8fc:
 
     # bearCommander "Our chief would like to know what happened here, please, follow me."
-    bearCommander "我们的首领想知道这里发生了什么。请跟我来。"
+    bearCommander "我们的酋长想知道这里发生了什么。请跟我来。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_4533b03b:
 
@@ -1106,7 +1106,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_779bb16c:
 translate schinese_rewrite Otsovaara_Introduction_Chase_127fae5d:
 
     # bearCommander "You two, stay with Herd until the rest arrive, I will take the stranger to Chief Kaurhu."
-    bearCommander "你们两个留下来陪着赫德，直到其他人赶到。我带这个陌生人去见考尔胡首领。"
+    bearCommander "你们两个留下来陪着赫德，直到其他人赶到。我带这个陌生人去见考尔胡酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_707363e6:
 
@@ -1216,7 +1216,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_96fd9b1b:
 translate schinese_rewrite Otsovaara_Introduction_Chase_3156cef1:
 
     # "After some time, the thick taiga giving way to a well-trodden path that winds its way down into a snow-filled valley."
-    "过了一阵，茂密的针叶林让出一条人迹踩踏的小路，蜿蜒向下通入积雪覆盖的山谷。"
+    "过了一阵，茂密的泰加林让出一条人迹踩踏的小路，蜿蜒向下通入积雪覆盖的山谷。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_604182cc:
 
@@ -1266,7 +1266,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_2e70bce7:
 translate schinese_rewrite Otsovaara_Introduction_Chase_64a4dfcf:
 
     # d "I will explain the situation very briefly to the Chief, you just need to follow my lead, [e]."
-    d "我会把情况非常简短地向首领说明，你只要跟着我的安排就行，[e]。"
+    d "我会把情况非常简短地向酋长说明，你只要跟着我的安排就行，[e]。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_5fb4aa30:
 
@@ -1291,12 +1291,12 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_1977dc4d:
 translate schinese_rewrite Otsovaara_Introduction_Chase_04514cea:
 
     # d "Chief, I'm back."
-    d "首领，我回来了。"
+    d "酋长，我回来了。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c435d1aa:
 
     # "A voice calls for the chief as you see the commander runs up in front of the throne."
-    "你看见指挥官跑到王座前，同时有人出声呼唤指挥官。"
+    "你看见指挥官跑到王座前，同时有人出声呼唤酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_d65cc3c3:
 
@@ -1331,7 +1331,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_ffe00dd0:
 translate schinese_rewrite Otsovaara_Introduction_Chase_4bfa236c:
 
     # d "Chief Kaurhu..."
-    d "卡乌胡首领……"
+    d "卡乌胡酋长……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cd1541ef:
 
@@ -1376,7 +1376,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_539ce24c:
 translate schinese_rewrite Otsovaara_Introduction_Chase_3f3ba6d5:
 
     # d "This stranger was there too, he can attest for my claim, Chief Kaurhu."
-    d "这个陌生人当时也在场，他可以证明我说的是真的，卡乌胡首领。"
+    d "这个陌生人当时也在场，他可以证明我说的是真的，卡乌胡酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_50afd1d4:
 
@@ -1391,7 +1391,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_af96ba3c:
 translate schinese_rewrite Otsovaara_Introduction_Chase_a081d382:
 
     # "The elders around the chief look at one another, then they scatter and walk away, revealing the old chief slumped against the throne, raising his brows."
-    "首领身边的长老们彼此对视，随后四散走开，露出倚在王座旁、抬起眉毛的老首领。"
+    "酋长身边的长老们彼此对视，随后四散走开，露出倚在王座旁、抬起眉毛的老酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_aeda43cc:
 
@@ -1401,12 +1401,12 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_aeda43cc:
 translate schinese_rewrite Otsovaara_Introduction_Chase_a64bfa76:
 
     # "The chief slouches over, his eyes are fixed on you, waiting for your response."
-    "首领懒散地靠着，目光牢牢锁定你，等着你的回答。"
+    "酋长懒散地靠着，目光牢牢锁定你，等着你的回答。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_f97f7c8e:
 
     # e "Yes, the commander is correct, Chief."
-    e "是的，指挥官说得没错，指挥官。"
+    e "是的，指挥官说得没错，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_bea4d7b2:
 
@@ -1416,7 +1416,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_bea4d7b2:
 translate schinese_rewrite Otsovaara_Introduction_Chase_ca5ce0e0:
 
     # e "I'm from Lusterfield, Chief. I was just passing by when I saw the guards chasing after someone."
-    e "我来自卢斯特菲尔德，首领。我只是路过时，看见卫兵正在追赶某个人。"
+    e "我来自卢斯特菲尔德，酋长。我只是路过时，看见卫兵正在追赶某个人。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_2cfc1041:
 
@@ -1441,7 +1441,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_2d231006:
 translate schinese_rewrite Otsovaara_Introduction_Chase_e05ea5b6:
 
     # "The chief sighs as he straightens his body."
-    "首领叹了口气，挺直身子。"
+    "酋长叹了口气，挺直身子。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_855b363e:
 
@@ -1451,7 +1451,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_855b363e:
 translate schinese_rewrite Otsovaara_Introduction_Chase_b2c8b151:
 
     # d "Illoch and the others are bringing him back now. I am sorry, Chief."
-    d "伊洛克和其他人现在正把他带回来。对不起，首领。"
+    d "伊洛克和其他人现在正把他带回来。对不起，酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c954eaa0:
 
@@ -1461,7 +1461,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_c954eaa0:
 translate schinese_rewrite Otsovaara_Introduction_Chase_6cc7afc7:
 
     # d "It was just an accident, Chief. Please, do not blame it on the guards too."
-    d "这只是场意外，首领。请不要也把责任怪到卫兵头上。"
+    d "这只是场意外，酋长。请不要也把责任怪到卫兵头上。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_284cad06:
 
@@ -1476,7 +1476,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_6185c055:
 translate schinese_rewrite Otsovaara_Introduction_Chase_e1ec5dd5:
 
     # "The chief coughs loudly, before turning to you with a rougher voice."
-    "首领重重咳嗽一声，然后转向你，嗓音变得更加粗厉。"
+    "酋长重重咳嗽一声，然后转向你，嗓音变得更加粗厉。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_8a42e3c1:
 
@@ -1486,7 +1486,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_8a42e3c1:
 translate schinese_rewrite Otsovaara_Introduction_Chase_b81630a4:
 
     # e "My name is [e], chief. I'm a courier from Lusterfield."
-    e "我叫[e]，首领。我是来自卢斯特菲尔德的信使。"
+    e "我叫[e]，酋长。我是来自卢斯特菲尔德的信使。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_c7497259:
 
@@ -2056,7 +2056,7 @@ translate schinese_rewrite Kaurhu_Normal_Talk_33c4933a:
 translate schinese_rewrite Kaurhu_Normal_Talk_3619812c:
 
     # e "I heard rumors about your retirement, Chief Kaurhu. Is that true?"
-    e "我听说你要退休的传闻了，考尔胡酋长。是真的吗？"
+    e "我听说了你要退休的传闻，考尔胡酋长。是真的吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_150c36ba:
 
@@ -2386,7 +2386,7 @@ translate schinese_rewrite Kaurhu_Normal_Talk_0858b66a:
 translate schinese_rewrite Kaurhu_Normal_Talk_60c8d94b:
 
     # e "Chief Kaurhu, can you tell me more about Herd?"
-    e "卡乌鲁酋长，你能再告诉我一些关于赫德的事吗？"
+    e "卡乌胡酋长，你能再告诉我一些关于赫德的事吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_05a1c963:
 
@@ -2831,7 +2831,7 @@ translate schinese_rewrite Daggi_Dialogue_ac60fa45:
 translate schinese_rewrite Methis_Introduction_691a76dd:
 
     # "You push open the wooden door, it opens with a small tinkling sound."
-    "你推开木门，门发出一阵轻微的叮铃声。"
+    "你推开木门，门发出一声轻微的叮铃声。"
 
 translate schinese_rewrite Methis_Introduction_5b499fe5:
 

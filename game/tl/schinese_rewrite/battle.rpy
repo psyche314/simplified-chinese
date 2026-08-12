@@ -186,7 +186,7 @@ translate schinese_rewrite goathuntsman_battle_loop_66bf829c_1:
 translate schinese_rewrite goathuntsman_battle_loop_e6c9cadc:
 
     # "You stare at him, giving him weird side eye. You have evaded his attempt at seduction. The goat seems to feel a little dejected."
-    "你盯着他，投去一个古怪的斜眼。你躲过了他的诱惑。山羊似乎有些沮丧。"
+    "你古怪地斜睨着他，躲过了他的诱惑。山羊似乎有些沮丧。"
 
 translate schinese_rewrite goathuntsman_battle_loop_fc6ce626_1:
 
@@ -331,12 +331,12 @@ translate schinese_rewrite buggbear_battle_loop_4716fc18:
 translate schinese_rewrite buggbear_battle_loop_2ba8a64c:
 
     # "The buggbear swings his giant mace towards you. You are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "熊地精挥起巨大的狼牙棒朝你砸来。你来不及躲开这一击，体力减少了[enemy_damage]点。"
+    "熊地精挥起巨大的狼牙棒朝你砸来。你来不及躲开这一击，生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite buggbear_battle_loop_a1c9d058:
 
     # "The buggbear charges at you, knocking away your guard with his off-hand before hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-    "熊地精向你冲来，用另一只手拍开你的防守，随后一脚踢中你的胸口。你的体力减少了[enemy_damage]点。"
+    "熊地精向你冲来，用另一只手拍开你的防守，随后一脚踢中你的胸口。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite buggbear_battle_loop_6c9ae8fe:
 
@@ -361,7 +361,7 @@ translate schinese_rewrite buggbear_sedated_84d8db4c:
 translate schinese_rewrite buggbear_sedated_bcbff226:
 
     # e "Take this!"
-    e "吃我一剂！"
+    e "接招！"
 
 translate schinese_rewrite buggbear_sedated_e3ae465d:
 
@@ -631,7 +631,7 @@ translate schinese_rewrite mossgolem_battle_loop_bc5738de:
 translate schinese_rewrite mossgolem_battle_loop_5d3cbdb2:
 
     # "You slam your [pc.weapon.name!t] at the arm of the moss golem, your blade crashes against the stone with a harsh, grating sound. Chunks of his arm crumble under the force of the blow."
-    "你抡起[pc.weapon.name!t]猛击苔藓石魔像的手臂，刀刃撞上岩石，发出刺耳的摩擦声。手臂的一大块在这股冲击力下崩碎。"
+    "你抡起[pc.weapon.name!t]猛击苔藓石魔像的手臂，刀刃撞上岩石，发出刺耳的摩擦声。手臂在这股冲击力下崩落成一块块碎石。"
 
 translate schinese_rewrite mossgolem_battle_loop_d4dec8d4:
 
@@ -666,7 +666,7 @@ translate schinese_rewrite mossgolem_battle_loop_24bcc736:
 translate schinese_rewrite mossgolem_battle_loop_292fc3a5:
 
     # "It seems you've hit the golem critically, dealing [oa[4]] HP!"
-    "看来你对石魔像造成了暴击，打掉了[oa[4]]点生命值！"
+    "看来你对石魔像造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite mossgolem_battle_loop_7c6f4f33:
 
@@ -721,7 +721,7 @@ translate schinese_rewrite mossgolem_battle_loop_775db50d:
 translate schinese_rewrite mossgolem_battle_loop_3fb2542e:
 
     # "The golem doesn't speak, but he is extremely distracted by your performance. His lust is increased by [player_flirt]."
-    "石魔像不会说话，但你的表演让他极度分心。他的性欲增加了[player_flirt]点。"
+    "石魔像一言不发，却被你的表演弄得极度分心。他的性欲增加了[player_flirt]点。"
 
 translate schinese_rewrite mossgolem_battle_loop_d130a7f8:
 

@@ -36,7 +36,7 @@ translate schinese_rewrite Cane_Dialogue_24681cce:
 translate schinese_rewrite Cane_Dialogue_129df83f:
 
     # e "Hmm... what did you do?"
-    e "嗯……你把他怎么了？"
+    e "嗯……你做了什么？"
 
 translate schinese_rewrite Cane_Dialogue_b7d99f15:
 
@@ -361,7 +361,7 @@ translate schinese_rewrite Cane_Work_7121ebe1:
 translate schinese_rewrite Cane_Work_774f4ade:
 
     # e "It looks pretty interesting, how is the wage here?"
-    e "看起来挺有意思的，这里的工钱怎么算？"
+    e "看起来挺有意思的，这里的工钱怎么样？"
 
 translate schinese_rewrite Cane_Work_a80432ec:
 
@@ -571,7 +571,7 @@ translate schinese_rewrite Cane_First_Time_Upstairs_fde0982a:
 translate schinese_rewrite Cane_First_Time_Upstairs_6db7f304:
 
     # c "...and the finest lad right 'ere. Haha, c'mon then, give ye old bat a hug."
-    c "……还有眼前这位最棒的小子。哈哈，来，让我这老家伙抱抱你。"
+    c "……还有眼前这位最棒的小子。哈哈，来，抱抱我这只老蝙蝠。"
 
 translate schinese_rewrite Cane_First_Time_Upstairs_fa45db30:
 
@@ -706,7 +706,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_34a031fd:
 translate schinese_rewrite Nocturnal_Trunk_Cardy_0c39021e:
 
     # fokk "Well, well well. Look who he is! Our all and mighty server of the tavern."
-    fokk "哟，哟哟。这不是谁来了！我们酒馆无所不能的侍者大人。"
+    fokk "哎呀，哎呀，看看这是谁！我们酒馆无所不能的服务员。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_9b6a07a5:
 
@@ -756,7 +756,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_8e215a7a:
 translate schinese_rewrite Nocturnal_Trunk_Cardy_eff65e66:
 
     # fokk "Well, well, well. Look who it is! Our server here on the table."
-    fokk "哎呀，哎呀，哎呀！瞧瞧这是谁来了！我们的侍者都到桌边来了"
+    fokk "哎呀，哎呀，哎呀！瞧瞧这是谁来了！我们的服务员也到桌边了。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_fdf80f23:
 
@@ -1036,7 +1036,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_32206766:
 translate schinese_rewrite Nocturnal_Trunk_Cardy_110c7ef6:
 
     # gato "Sit yer arse down and play the bloody game, for gods' sakes. We'll teach ye."
-    gato "坐下，用你的屁股玩这该死的游戏，看在诸神的份上。我们会教你。"
+    gato "看在诸神的份上，坐下玩这该死的游戏吧。我们会教你。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_43d1f534:
 
@@ -1501,7 +1501,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_End_ad0fa076:
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_d1af2494:
 
     # "The fox frowns, handing you three a pile of gold."
-    "狐狸皱起眉头，把三堆金币递给你。"
+    "狐狸皱起眉头，把一堆金币递给你们三人。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_a2d03d9c:
 
@@ -1591,7 +1591,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_End_7421ff5d:
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_552bc15d:
 
     # fokk "40 gold per card, ye'v got [cdg_stake] cards left 'ere. That's... [cdg_stake_amount] gold ye owe us."
-    fokk "每张40枚金币，你还剩[cdg_stake]张牌在这儿。也就是说……你欠我们[cdg_stake_amount]枚金币。"
+    fokk "每张牌40枚金币，你还剩[cdg_stake]张牌在这儿。也就是说……你欠我们[cdg_stake_amount]枚金币。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_1409c024:
 
@@ -1966,7 +1966,7 @@ translate schinese_rewrite Nocturnal_Trunk_Cardy_End_20ebf6cd:
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_8578e4d1:
 
     # e "W-well... take the wallet then."
-    e "等、等等……真的？"
+    e "那、那就……拿走钱袋吧。"
 
 translate schinese_rewrite Nocturnal_Trunk_Cardy_End_16b6f87d:
 
@@ -2596,7 +2596,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_0bc8b99e:
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_990d1c0c:
 
     # c "Ah! No worries lad. I already pay ya for yer services, but I'm fine with paying ya more."
-    c "啊！不用担心，小子。我本来就会为你的服务付钱，再多付点也没问题。"
+    c "啊！不用担心，小子。我已经为你的服务付过钱了，再多付点也没问题。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f97078ea:
 
@@ -3846,7 +3846,7 @@ translate schinese_rewrite Cane_Favour_For_Ya_Sex_b211eb9e:
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_2cbe9665:
 
     # "Cane pulls his gaze away from the floor, eyes instead turned to you with a lost look you'd never thought you'd see on his face."
-    "卡里移开了望向地面的视线，转而看着你，脸上露出一种你从未想过会在他脸上看到的茫然神情。"
+    "凯恩移开望向地面的视线，转而看向你，神情茫然——你从未想过会在他脸上看到这样的表情。"
 
 translate schinese_rewrite Cane_Favour_For_Ya_Sex_f83a23ca:
 
@@ -5656,7 +5656,7 @@ translate schinese_rewrite Cane_Ask_Goat_Tribe_c4401ebf:
 translate schinese_rewrite Cane_Ask_Goat_Tribe_b75af782:
 
     # c "The Ram is a good lad... What's his name again? F-far? Fuck? Furk- Furkan."
-    c "那个公羊人是个好小伙……他叫啥来着？法——法克？弗坎——弗坎。"
+    c "那个公羊人是个好小伙……他叫啥来着？法、法尔？弗克？弗尔克——弗坎。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_2bbcf644:
 
@@ -5681,7 +5681,7 @@ translate schinese_rewrite Cane_Ask_Goat_Tribe_5f6e8719:
 translate schinese_rewrite Cane_Ask_Goat_Tribe_1abfdea3:
 
     # c "Look, I still got myself some secret ingredients from them."
-    c "你看，我现在还在从他们那儿弄些秘制配料呢。"
+    c "你看，我手头还留着从他们那儿弄来的秘制配料呢。"
 
 translate schinese_rewrite Cane_Ask_Goat_Tribe_07f23a3c:
 
@@ -9861,7 +9861,7 @@ translate schinese_rewrite Lothar_Aphrodisiac_Adventure_6708aa0c:
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_2a5e508d:
 
     # e "What am I supposed to do, listen to you blindly if you tell me to do anything?"
-    e "难道你让我做什么，我就得盲目听从吗？"
+    e "那我该怎么办？难道你让我做什么，我就得盲目听从吗？"
 
 translate schinese_rewrite Lothar_Aphrodisiac_Adventure_ab39a1e5:
 
@@ -10176,7 +10176,7 @@ translate schinese_rewrite Lothar_Wrong_ad107a04:
 translate schinese_rewrite Lothar_First_End_4c53de91:
 
     # "Lothar now satisfied with your performance, backs off slowly and gives you room to breath properly. He crosses his arms more tightly now, almost squishing his chest further."
-    "洛萨尔这才满意你的表现，慢慢退开，给你留出好好喘气的空间。他把双臂交叉得更紧，胸膛也几乎被挤得更加饱满。"
+    "洛萨尔对你的表现很满意，慢慢退开，给你留出喘息的空间。他把双臂交叉得更紧，胸口也几乎被挤得更紧了。"
 
 translate schinese_rewrite Lothar_First_End_7076335e:
 
@@ -10526,7 +10526,7 @@ translate schinese_rewrite Lothar_Dialogue_e93f1902:
 translate schinese_rewrite Lothar_Dialogue_6862acc4:
 
     # l "Don't talk about what happened with the flower."
-    l "别提那朵花发生的事。"
+    l "别提那朵花的事。"
 
 translate schinese_rewrite Lothar_Dialogue_46a87d94:
 
@@ -13921,7 +13921,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_fcf694db:
 translate schinese_rewrite Lothar_Ask_Invasion_857962f5:
 
     # "But the excitement fades soon when you snap back to reality and see Lothar staring at you..."
-    "但你很快回过神来，兴奋也随之消退，看到洛萨尔正盯着你……"
+    "但当你回过神来，看见洛萨尔正盯着你时，那股兴奋很快便消退了……"
 
 translate schinese_rewrite Lothar_Ask_Invasion_9af00f01:
 
@@ -14346,7 +14346,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_31a8bb4f:
 translate schinese_rewrite Lothar_Invasion_Quest_31157a0e:
 
     # e "But... uhh... the goats already tried to kill me, the huntsmen."
-    e "可是……呃……那些山羊的猎人已经试过要杀我了。"
+    e "可是……呃……那些山羊猎人已经试过要杀我了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_bb7723f2:
 
@@ -16986,7 +16986,7 @@ translate schinese_rewrite Lothar_Postal_Training_eb219ae7:
 translate schinese_rewrite Lothar_Postal_Training_71cab8de:
 
     # e "Yes, I know... hmm... Self Heal and Fortify? Is that it?"
-    e "自愈和设防？就这两个吗？"
+    e "是的，我知道……嗯……“自愈”和“设防”？就这两个吗？"
 
 translate schinese_rewrite Lothar_Postal_Training_aaa3fbac:
 
@@ -17096,7 +17096,7 @@ translate schinese_rewrite Lothar_Postal_Finish_521314e9:
 translate schinese_rewrite Lothar_Postal_Finish_23a6a199:
 
     # l "I would never do it to him."
-    l "我绝不会对它做那种事。"
+    l "我绝不会对他做那种事。"
 
 translate schinese_rewrite Lothar_Postal_Finish_3b659d67:
 
@@ -17251,7 +17251,7 @@ translate schinese_rewrite Lothar_Ask_Lusterfield_00419aaf:
 translate schinese_rewrite Lothar_Ask_Lusterfield_a1102730:
 
     # l "You see the lion? Lion is too full of himself, I will not tolerate him making fun of anything related to me. If he gets himself hurt because of his blabbering mouth, that's on him."
-    l "你见过那头狮子吧？他太自以为是了，我可不能容忍他拿任何和我有关的事开玩笑。要是他因为那张喋喋不休的嘴惹来麻烦，那也是他自找的。"
+    l "你见过那头狮子吧？他太自以为是了，我可不能容忍他拿任何和我有关的事开玩笑。要是他因为那张喋喋不休的嘴受了伤，那也是他自找的。"
 
 translate schinese_rewrite Lothar_Ask_Lusterfield_f1c44980:
 
@@ -17566,12 +17566,12 @@ translate schinese_rewrite Patron1_Dialogue_47b644fa:
 translate schinese_rewrite Patron1_Dialogue_5b94ccd3:
 
     # e "Yeah. Arm wrestling, right? Who's winning here."
-    e "是掰手腕，对吧？现在谁占上风？"
+    e "看到了。掰手腕，对吧？现在谁占上风？"
 
 translate schinese_rewrite Patron1_Dialogue_e4157e46:
 
     # patron "I'd say Vult, the cougar. He has been beating him every time we come here."
-    patron "我觉得是那只山狮沃特。每次俺们来，他都能赢他。"
+    patron "我觉得是山狮沃特。我们每次来，他都能赢下比赛。"
 
 translate schinese_rewrite Patron1_Dialogue_3dbd3037:
 
@@ -17631,7 +17631,7 @@ translate schinese_rewrite Patron3_Dialogue_da1a7a72:
 translate schinese_rewrite Patron3_Dialogue_414b3281:
 
     # patron "...He-... {p} wha-... he...hnnngh... so handsome. {p} au-uuugh... hnnnnngh......."
-    patron "……他……{p}怎……他……嗯嗯……好帅。{p}啊呜……嗯嗯嗯……"
+    patron "……他……{p}什、什么……他……嗯嗯……好帅。{p}啊呜……嗯嗯嗯……"
 
 translate schinese_rewrite Patron3_Dialogue_25c145d8:
 

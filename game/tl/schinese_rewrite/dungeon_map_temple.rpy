@@ -846,7 +846,7 @@ translate schinese_rewrite Temple_of_Tapjoo_Loop_8ebe52c9:
 translate schinese_rewrite Temple_of_Tapjoo_Loop_75713fe2:
 
     # f "Who else can it be? He was the only one capable to build all of this. That mural at the entrance, it did something to me, I have been hearing the bell's chime since then."
-    f "从那以后，我耳边一直回荡着铃声。"
+    f "还能是谁？只有他有能力建造这一切。入口处的那幅壁画对我产生了某种影响，从那以后，我耳边一直回荡着铃声。"
 
 translate schinese_rewrite Temple_of_Tapjoo_Loop_afea7752:
 

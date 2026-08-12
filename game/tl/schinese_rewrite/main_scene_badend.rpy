@@ -166,12 +166,12 @@ translate schinese_rewrite BadEnd_FeralLose_bfeb36ae:
 translate schinese_rewrite BadEnd_FeralLose_32a59a4b:
 
     # "You have already given up responding, perhaps all they can hear are the slapping and plopping noises of the feral's cock in and out of your hole."
-    "你已经放弃了回应，或许他们能听到的只有那野性狼人的肉棒进出你洞穴时拍打、噗嗤作响的声音。"
+    "你已经放弃了回应，或许他们能听到的只有那头狂化狼人的肉棒进出你洞穴时拍打、噗嗤作响的声音。"
 
 translate schinese_rewrite BadEnd_FeralLose_716fadf4:
 
     # "And the sound of feral howling."
-    "以及野性狼人的嚎叫声。"
+    "以及狂化狼人的嚎叫声。"
 
 translate schinese_rewrite BadEnd_FeralLose_e82d3dd1:
 
@@ -181,12 +181,12 @@ translate schinese_rewrite BadEnd_FeralLose_e82d3dd1:
 translate schinese_rewrite BadEnd_FeralLose_77c7a45b:
 
     # "Not long after, another cave-in shuts the cave down completely. Leaving you and the feral werewolf."
-    "没过多久，又一次塌方将洞穴彻底封死，只留下你和那头野性狼人。"
+    "没过多久，又一次塌方将洞穴彻底封死，只留下你和那头狂化狼人。"
 
 translate schinese_rewrite BadEnd_FeralLose_22bef450:
 
     # "There's no going back to the village now, the only thing left in front of you is the feral's cock filling you up."
-    "现在已经回不了村子了，你面前唯一剩下的，只有不断填满你的野性狼人的肉棒。"
+    "现在已经回不了村子了，你面前唯一剩下的，只有不断填满你的狂化狼人的肉棒。"
 
 translate schinese_rewrite BadEnd_FeralLose_4d7fc8f5:
 
@@ -196,12 +196,12 @@ translate schinese_rewrite BadEnd_FeralLose_4d7fc8f5:
 translate schinese_rewrite BadEnd_FeralLose_12c236e2:
 
     # "Sometimes you look at the bone fragments scattered around the ground, the feral in front of you was a merciless monster that slaughtered the werewolves."
-    "有时你会望向散落在地上的骨头碎片，你面前的这个野性狼人曾是个毫不留情、屠杀狼人的怪物。"
+    "有时你会望向散落在地上的骨头碎片，你面前的这个狂化狼人曾是个毫不留情、屠杀狼人的怪物。"
 
 translate schinese_rewrite BadEnd_FeralLose_4df03140:
 
     # "But you shake your head, there's no point speculating, you look at the feral werewolf in the eyes, kissing him in his cheeks."
-    "但你摇了摇头，觉得再怎么猜想也没有意义；你直视着那头野性狼人的双眼，亲吻着他的脸颊。"
+    "但你摇了摇头，觉得再怎么猜想也没有意义；你直视着那头狂化狼人的双眼，亲吻着他的脸颊。"
 
 translate schinese_rewrite BadEnd_FeralLose_4a6aabd6:
 

@@ -196,7 +196,7 @@ translate schinese_rewrite Kari_Ask_Goat_Tribe_ab241627:
 translate schinese_rewrite Kari_Ask_Warrior_Practice_a4091800:
 
     # e "H-hey, general. How's the practices lately."
-    e "嘿，将军，最近训练得怎么样？"
+    e "嘿、嘿，将军，最近训练得怎么样？"
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_ef64eead:
 
@@ -236,7 +236,7 @@ translate schinese_rewrite Kari_Ask_Warrior_Practice_36f6c5a6:
 translate schinese_rewrite Kari_Ask_Warrior_Practice_b9cf077e:
 
     # k "As such, many of our warriors have been recruited to train in non-magical combat."
-    k "因此，我们征召了许多战士，让他们训练非魔法战斗。"
+    k "因此，我们征召了许多战士，让他们训练不使用魔法的战斗。"
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_89ffb216:
 
@@ -306,7 +306,7 @@ translate schinese_rewrite Kari_Ask_Warrior_Practice_c915a93c:
 translate schinese_rewrite Kari_Ask_Warrior_Practice_ff5f744b:
 
     # k "Call me cute one more time, and we'll see how cute you think I am after you have this rod shoved 5 feet up your ass."
-    k "再叫我一次可爱，等这根棍子捅进你屁股五英尺后，我们就知道你还觉得我有多可爱了。"
+    k "再叫我一次可爱，等这根棍子捅进你屁股五英尺深后，我们就知道你还觉得我有多可爱了。"
 
 translate schinese_rewrite Kari_Ask_Warrior_Practice_dea99fd3:
 
@@ -386,7 +386,7 @@ translate schinese_rewrite Kari_Warrior_Practice_Start_82499a1d:
 translate schinese_rewrite Kari_Warrior_Practice_Start_ffa1bcb6:
 
     # "A line of goats gripping spears quickly forms."
-    "很快，一队手握长矛的山羊排成了队。"
+    "很快，一排手握长矛的山羊形成了队列。"
 
 translate schinese_rewrite Kari_Warrior_Practice_Start_68a7ef99:
 
@@ -411,7 +411,7 @@ translate schinese_rewrite Kari_Goat_Practice_Lose_b5ddd391:
 translate schinese_rewrite Kari_Goat_Practice_Lose_72f735b3:
 
     # k "That or you didn't really try."
-    k "要不就是你根本没认真。"
+    k "要不就是你根本没认真战斗。"
 
 translate schinese_rewrite Kari_Goat_Practice_Lose_c99914ed:
 
@@ -486,7 +486,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_74bbc763:
 translate schinese_rewrite Kari_Goat_Practice_Win_9700fae3:
 
     # "He turns his gaze to look at you, and the expression only intensifies."
-    "他转过目光看向你，那表情变得更加严厉。"
+    "他转过目光看向你，那表情变得更加明显。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_4e312f3e:
 
@@ -536,7 +536,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_491572e9:
 translate schinese_rewrite Kari_Goat_Practice_Win_db79181f:
 
     # "Kari walks over and hits the protesting goat over the head with his staff."
-    "卡里走过去，用他的手杖敲了敲那只抗议的山羊的脑袋。"
+    "卡里走过去，用他的手杖击打那只抗议的山羊的头部。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_9863b47d:
 
@@ -701,7 +701,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_0d9c3c74:
 translate schinese_rewrite Kari_Goat_Practice_Win_e54fa625:
 
     # f "Well, you saved me... I can't think of anything else that could make me trust you more."
-    f "嗯，你救过我……我想不出还有什么能让你更信任我了。"
+    f "嗯，你救过我……我想不出还有什么能让我更信任你了。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_3f9edfba:
 
@@ -741,7 +741,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_84f0fb0c:
 translate schinese_rewrite Kari_Goat_Practice_Win_23112146:
 
     # k "As he said, you've heard most of it, but."
-    k "就像他说的，你们已经听过大部分内容了，不过……"
+    k "就像他说的，你已经听过大部分内容了，不过……"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_03b7e878:
 
@@ -756,7 +756,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_acd0992b:
 translate schinese_rewrite Kari_Goat_Practice_Win_c5f6aeb4:
 
     # "Kari emphasizes the end of this statement by tapping his staff against the ground."
-    "卡里用法杖敲了敲地面，以此强调这句话的结尾。"
+    "卡里用手杖敲了敲地面，以此强调这句话的结尾。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_bea49471:
 
@@ -1021,7 +1021,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_ddbb3d0a:
 translate schinese_rewrite Kari_Goat_Practice_Win_304724b9:
 
     # f "I value your opinion as an equal, even if we are not so."
-    f "我重视你作为平等之人的意见，即便我们并非平等。"
+    f "即便我们的身份并不平等，我也重视你以平等身份提出的意见。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_4d75b5b4:
 
@@ -1236,7 +1236,7 @@ translate schinese_rewrite Kari_Goat_Practice_Win_873fae08:
 translate schinese_rewrite Kari_Goat_Practice_Win_7b8f850d:
 
     # e "I would do it anytime, Furk."
-    e "随时都可以，弗坎。"
+    e "我随时都愿意这么做，弗坎。"
 
 translate schinese_rewrite Kari_Goat_Practice_Win_a93d4d94:
 
@@ -2236,7 +2236,7 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_21a76c7c:
 translate schinese_rewrite Kechioeren_Enter_Artifact_221eecd8:
 
     # gg "The other one. We have two rune guardians."
-    gg "是另一尊。我们有两尊符文守卫。"
+    gg "是另一尊。我们有两尊符文守护者。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_d819a6db:
 
@@ -2246,17 +2246,17 @@ translate schinese_rewrite Kechioeren_Enter_Artifact_d819a6db:
 translate schinese_rewrite Kechioeren_Enter_Artifact_df0f12a6:
 
     # gg "Our guardians went rogue after the primordial runes stopped supplying spell energy."
-    gg "原初符文停止提供魔法能量后，我们的守卫就失控了。"
+    gg "原初符文停止提供魔法能量后，我们的符文守护者就失控了。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_5291daa2:
 
     # gg "They were summoned by Furkan's father with the basin, which went missing as well."
-    gg "他们是弗坎的父亲用法盆召唤出来的，而法盆也不见了。"
+    gg "他们是弗坎的父亲用法盅召唤出来的，而法盅也不见了。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_1adf0e00:
 
     # gg "And those guardians were supposed to be guarding the runes, right on top of our mountain."
-    gg "那些守卫本来应该守护符文，就在我们山顶上。"
+    gg "而那些符文守护者本来就该守在我们山顶上，保护符文。"
 
 translate schinese_rewrite Kechioeren_Enter_Artifact_ff505267:
 
@@ -2456,7 +2456,7 @@ translate schinese_rewrite Kari_Trusty_c0bccace:
 translate schinese_rewrite Kari_Trusty_7890432b:
 
     # "The skull-masked goat's eyes looked like they were trying to pick you apart, figure out your origin, beliefs, goals..."
-    "那个戴着骷髅面具的山羊人，双眼仿佛想把你看个透彻，弄清你的来历、信仰、目标……"
+    "那个戴着骷髅面具的山羊，双眼仿佛想把你看个透彻，弄清你的来历、信仰、目标……"
 
 translate schinese_rewrite Kari_Trusty_47d5422b:
 
@@ -2481,7 +2481,7 @@ translate schinese_rewrite Kari_Trusty_c62f3d9a:
 translate schinese_rewrite Kari_Trusty_8f54f203:
 
     # "The goat's eyes somehow find a way to narrow further."
-    "那山羊人的双眼不知怎么的，竟又眯起了几分。"
+    "那只山羊的双眼不知怎么的，竟又眯起了几分。"
 
 translate schinese_rewrite Kari_Trusty_e8a4f1d0:
 
@@ -2506,7 +2506,7 @@ translate schinese_rewrite Kari_Trusty_3388c709:
 translate schinese_rewrite Kari_Trusty_88d210d2:
 
     # k "So it is my responsibility as general of the tribe to monitor you and your actions, even if our chieftain won't."
-    k "所以，监视你和你的一举一动，是我作为部族将军的责任，哪怕我们的酋长不愿这么做。"
+    k "所以，监视你和你的行为，是我作为部族将军的责任，哪怕我们的酋长不会这么做。"
 
 translate schinese_rewrite Kari_Trusty_89c13909:
 
@@ -2591,7 +2591,7 @@ translate schinese_rewrite Kari_Trusty_64dfccf6:
 translate schinese_rewrite Kari_Trusty_bb507fd4:
 
     # "The goat's unhappy muttering helps you know you're onto something."
-    "山羊不满地嘟囔着，这让你知道自己似乎说中了什么。"
+    "山羊不满地嘟囔着，这让你知道自己抓到重点了。"
 
 translate schinese_rewrite Kari_Trusty_08e534c4:
 
@@ -2646,7 +2646,7 @@ translate schinese_rewrite Kari_Trusty_e28a7285:
 translate schinese_rewrite Kari_Trusty_c9e14c83:
 
     # "You fling your arms up in the air in frustration."
-    "你懊恼地把双臂高高甩向空中。"
+    "你懊恼地把双臂甩向空中。"
 
 translate schinese_rewrite Kari_Trusty_911a1d5c:
 
@@ -3131,7 +3131,7 @@ translate schinese_rewrite Kari_Trusty_53976138:
 translate schinese_rewrite Kari_Trusty_9efa8946:
 
     # e "Again, you know that's not what I meant."
-    e "你知道我说的不是这个。"
+    e "我再说一次，你知道我说的不是这个。"
 
 translate schinese_rewrite Kari_Trusty_885ba180:
 
@@ -3191,7 +3191,7 @@ translate schinese_rewrite Kari_Trusty_095d462e:
 translate schinese_rewrite Kari_Trusty_4e7ca633:
 
     # k "I will ask you questions again when next I have some."
-    k "下次我再有问题可问时，会再让你提问。"
+    k "下次我有问题时，会再问你。"
 
 translate schinese_rewrite Kari_Trusty_631166dd:
 
@@ -3246,7 +3246,7 @@ translate schinese_rewrite Kari_Trusty_a970f3cf:
 translate schinese_rewrite Kari_Trusty_4fe7a92b:
 
     # "Kari goes silent, he's looking you in the eye, but it feels like he could look down at his feet in regret at any moment."
-    "卡里沉默下来。他直视着你的眼睛，但感觉他随时都可能懊悔地低头看向自己的双脚。"
+    "卡里沉默下来。他直视着你的眼睛，但你觉得他随时都可能懊悔地低头看自己的双脚。"
 
 translate schinese_rewrite Kari_Trusty_937f332f:
 
@@ -3481,7 +3481,7 @@ translate schinese_rewrite Kari_Adventure_41a56884:
 translate schinese_rewrite Kari_Adventure_ff88d578:
 
     # e "You seemed like a mage, or shaman."
-    e "你看起来像法师，或者祭司。"
+    e "你看起来像法师，或者萨满。"
 
 translate schinese_rewrite Kari_Adventure_0d2fd413:
 
@@ -3711,7 +3711,7 @@ translate schinese_rewrite Kari_Adventure_35675f62:
 translate schinese_rewrite Kari_Adventure_528aca2d:
 
     # k "He is as strong as his father. I trust he'll be safe."
-    k "他和他父亲一样强壮。我相信他会平安无事。"
+    k "他和他父亲一样强。我相信他会平安无事。"
 
 translate schinese_rewrite Kari_Adventure_d3833fa5:
 
@@ -3816,7 +3816,7 @@ translate schinese_rewrite Kari_Adventure_ae3d1075:
 translate schinese_rewrite Kari_Adventure_b7ee8f63:
 
     # k "Fuck you."
-    k "去你的。"
+    k "去你妈的。"
 
 translate schinese_rewrite Kari_Adventure_f838afe9:
 
@@ -4131,17 +4131,17 @@ translate schinese_rewrite Kari_Adventure_405ab4d3:
 translate schinese_rewrite Kari_Adventure_888073a0:
 
     # k "We did. The god of intelligence, Tapjoo. Like any other Tribes."
-    k "我们有。智慧之神闼丕瓯，就和其他部落一样。"
+    k "我们曾经有过。智慧之神塔普乔，就和其他部落一样。"
 
 translate schinese_rewrite Kari_Adventure_aaa657f3:
 
     # k "We didn't have a huge belief and ritual after, Tevfik, Furkan's father is gone."
-    k "自从泰夫菲克，也就是弗坎的父亲，离世后，我们就没有再举行过什么盛大的信仰仪式。"
+    k "自从泰夫菲克，也就是弗坎的父亲离世后，我们就不再有盛大的信仰和仪式。"
 
 translate schinese_rewrite Kari_Adventure_787a7122:
 
     # k "Furkan is handling everything well, even without worshipping our god."
-    k "即使不再信仰我们的神，弗坎也把一切处理得很好。"
+    k "即使不再崇拜我们的神，弗坎也把一切处理得很好。"
 
 translate schinese_rewrite Kari_Adventure_5c4d7933:
 
@@ -4266,7 +4266,7 @@ translate schinese_rewrite Furkan_First_Meet_0cb9d1e7:
 translate schinese_rewrite Furkan_First_Meet_11f9bacb:
 
     # e "I- uhh... I'm [e]."
-    e "我——呃……我叫[e]。"
+    e "我——呃……我是[e]。"
 
 translate schinese_rewrite Furkan_First_Meet_c031e0d4:
 
@@ -4331,7 +4331,7 @@ translate schinese_rewrite Furkan_First_Meet_d0ccc550:
 translate schinese_rewrite Furkan_First_Meet_b39357d8:
 
     # e "Alright... Can you lower your weapon now?"
-    e "好吧……现在可以把武器放下了吗？"
+    e "好吧……现在可以把武器放低了吗？"
 
 translate schinese_rewrite Furkan_First_Meet_59256155:
 
@@ -4361,7 +4361,7 @@ translate schinese_rewrite Furkan_First_Meet_28ad4ae1:
 translate schinese_rewrite Furkan_First_Meet_bfd4a8e8:
 
     # f "Look, I need someone I can trust to deliver an important letter to Rahim. It's about our people, I think it's time for us to break the ice."
-    f "听着，我需要一个值得信任的人把一封重要的信送给雷希姆。信是关于我们两族的，我想，我们也该打破僵局了。"
+    f "听着，我需要一个值得信任的人把一封重要的信送给雷希姆。这事关我们双方，我想，我们也该打破僵局了。"
 
 translate schinese_rewrite Furkan_First_Meet_9e42fff2:
 
@@ -4436,7 +4436,7 @@ translate schinese_rewrite Furkan_First_Meet_4ecda854:
 translate schinese_rewrite Furkan_First_Meet_a1040e32:
 
     # e "Hmm... alright, I guess. I'll take it to Rahim."
-    e "嗯……好吧，算了。我会把它送给雷希姆。"
+    e "嗯……好吧，我想我会把它送给雷希姆。"
 
 translate schinese_rewrite Furkan_First_Meet_43d07cc3:
 
@@ -4461,7 +4461,7 @@ translate schinese_rewrite Furkan_First_Meet_8c3907b5:
 translate schinese_rewrite Furkan_First_Meet_ffe0248d:
 
     # f "Would you become a courier later or would you find someone else?"
-    f "你以后会成为信使，还是会去找别人？"
+    f "你以后会成为信使，还是会找别人来做信使？"
 
 translate schinese_rewrite Furkan_First_Meet_c1276890:
 
@@ -4476,7 +4476,7 @@ translate schinese_rewrite Furkan_First_Meet_038b3ad2:
 translate schinese_rewrite Furkan_Before_Reconciliation_d9093596:
 
     # "You walk into Furkan's hut. The general and the chieftain are discussing as usual."
-    "你走进弗坎的住处。将军和酋长像往常一样正在交谈。"
+    "你走进弗坎的小屋。将军和族长像往常一样正在讨论。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_747a0649:
 
@@ -4586,7 +4586,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_cdbc2098:
 translate schinese_rewrite Furkan_Before_Reconciliation_11c14426:
 
     # f "We should combine our force, lest when the threat finally knocks on our door, we should stand together."
-    f "我们应该 объедин合力量，以免威胁最终找上门时，我们只能各自为战。"
+    f "我们应该合力，以免威胁最终找上门时，我们只能并肩作战。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_147095b6:
 
@@ -4676,12 +4676,12 @@ translate schinese_rewrite Furkan_Before_Reconciliation_103c26bf:
 translate schinese_rewrite Furkan_Before_Reconciliation_935b2fb1:
 
     # k "Did you know how that destroyed him while I was watching there?"
-    k "你知道我眼睁睁看着那件事如何摧毁他的吗？"
+    k "你知道我当时在那里眼睁睁看着那件事摧毁他的吗？"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_4fd65bf8:
 
     # k "Every night, I can swear I hear him cr-"
-    k "每晚我都敢发誓，自己听见他在哭-"
+    k "每晚我都敢发誓，自己听见他在哭——"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_6b9e720a:
 
@@ -4716,7 +4716,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_4a23462f:
 translate schinese_rewrite Furkan_Before_Reconciliation_8bb8627e:
 
     # k "You know I'd never mean it like that-"
-    k "你知道我绝不是那个意思-"
+    k "你知道我绝不是那个意思——"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_0bd46bf2:
 
@@ -4726,7 +4726,7 @@ translate schinese_rewrite Furkan_Before_Reconciliation_0bd46bf2:
 translate schinese_rewrite Furkan_Before_Reconciliation_26879c20:
 
     # "Both of them look away from each other."
-    "两人都别开脸，不再看对方。"
+    "两人都移开了视线。"
 
 translate schinese_rewrite Furkan_Before_Reconciliation_395ccb6b:
 
@@ -5061,7 +5061,7 @@ translate schinese_rewrite Furkan_Second_Meet_2129529e:
 translate schinese_rewrite Furkan_Second_Meet_b839b844:
 
     # f "What did they say?"
-    f "他怎么说？"
+    f "他们怎么说？"
 
 translate schinese_rewrite Furkan_Second_Meet_10cfe59f:
 
@@ -5091,17 +5091,17 @@ translate schinese_rewrite Furkan_Second_Meet_96c0af12:
 translate schinese_rewrite Furkan_Second_Meet_b5d63560:
 
     # f "The battle had been ages, 4 years already, and the old bull still does not think it is enough."
-    f "战争都已经过去很久了，整整四年，这头老牛却还是觉得不够。"
+    f "这场战斗已经过去很久了，整整四年，而那头老公牛仍然觉得这还不够。"
 
 translate schinese_rewrite Furkan_Second_Meet_3830ea84:
 
     # f "It was not just his daughter. Did he not remember my father was lost to the war?"
-    f "又不只是他的女儿。他难道忘了我的父亲也死于战争吗？"
+    f "又不只是他的女儿。他难道忘了我的父亲也被战争夺走了吗？"
 
 translate schinese_rewrite Furkan_Second_Meet_fb23d394:
 
     # "The goat chief walks around aimlessly, continuing to whine under his breath."
-    "羊族族长漫无目的地走来走去，继续低声嘟囔着。"
+    "山羊族族长漫无目的地走来走去，继续低声嘟囔着。"
 
 translate schinese_rewrite Furkan_Second_Meet_6c08076c:
 
@@ -5201,12 +5201,12 @@ translate schinese_rewrite Furkan_Ask_After_Temple_58474f91:
 translate schinese_rewrite Furkan_Ask_After_Temple_bb658d04:
 
     # e "What were those myths about? It's the first time I've heard of them."
-    e "那些传说讲的是什么？这是我第一次听说它们。"
+    e "那些传说讲的是什么？这是我第一次听说他们。"
 
 translate schinese_rewrite Furkan_Ask_After_Temple_a9f15ae9:
 
     # f "They spoke of dark rituals, of sacrifices made to ancient gods, and of power that could bend the mind amongst our people."
-    f "他们讲述黑暗仪式、献祭古神，以及一种能在我们族人之间扭曲心智的力量。"
+    f "他们讲述黑暗仪式、献给古神的祭品，以及一种能在我们族人之间扭曲心智的力量。"
 
 translate schinese_rewrite Furkan_Ask_After_Temple_fe8da3b1:
 
@@ -5351,7 +5351,7 @@ translate schinese_rewrite Furkan_Ask_About_Festival_73300865:
 translate schinese_rewrite Furkan_Ask_About_Festival_e75d8680:
 
     # f "There would be merchants and visitors coming from far and wide, stalls lined around the tribe, and we would have a feast to celebrate the occasion."
-    f "届时，各地都会有商人和游客前来，部落四周摆满摊位，我们还会举办宴席庆祝。"
+    f "届时，会有来自四面八方的商人和游客前来，部落四周摆满摊位，我们还会举办宴席庆祝。"
 
 translate schinese_rewrite Furkan_Ask_About_Festival_0f2c1e4a:
 
@@ -5431,12 +5431,12 @@ translate schinese_rewrite Kari_Ask_About_Festival_6a126bc5:
 translate schinese_rewrite Kari_Ask_About_Festival_faa18131:
 
     # k "Sorry, I didn't mean to snap. The rolls were good."
-    k "抱歉，我不是有意冲你发火的。那些卷菜挺好吃。"
+    k "抱歉，我不是有意冲你发火的。那些卷心菜卷挺好吃。"
 
 translate schinese_rewrite Kari_Ask_About_Festival_bdca137e:
 
     # e "It's okay. I guess at least I learnt something new about you."
-    e "没事。我想，至少我又了解了你一点。"
+    e "没事。我想，至少我又了解了你一件新鲜事。"
 
 translate schinese_rewrite Kari_Ask_About_Festival_c5f6c6f7:
 

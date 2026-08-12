@@ -6176,7 +6176,7 @@ translate schinese_rewrite Mayors_Longhouse_Going_Downstairs_0937e65a:
 translate schinese_rewrite Mayors_Longhouse_Going_Downstairs_fed37b73:
 
     # r "'{i}The dragon is said to awaken when the shepherd's call reaches the depths, heralding a time of upheaval and transformation.{/i}'"
-    r "'{i}据说，当牧羊人的呼唤抵达深处时，巨龙便会苏醒，预示着动荡与蜕变的时代降临。{/i}'"
+    r "'{i}据说，当牧羊人的呼唤传至深渊时，巨龙便会苏醒，预示着动荡与蜕变的时代降临。{/i}'"
 
 translate schinese_rewrite Mayors_Longhouse_Going_Downstairs_952fa300:
 

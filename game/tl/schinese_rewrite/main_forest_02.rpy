@@ -36,7 +36,7 @@ translate schinese_rewrite dark_forest_loop_e91ba75d:
 translate schinese_rewrite dark_forest_loop_04f17568:
 
     # "You walk through the misty dark forest... Suddenly, you hear two distinct howling from afar."
-    "你穿过雾气弥漫的黑暗森林……突然，你听见远处传来两阵清晰的嚎叫。"
+    "你穿过雾气弥漫的黑暗森林……突然，你听见远处传来清晰的两声嚎叫。"
 
 translate schinese_rewrite dark_forest_loop_f0fb3229:
 
@@ -46,7 +46,7 @@ translate schinese_rewrite dark_forest_loop_f0fb3229:
 translate schinese_rewrite dark_forest_loop_f7dd4053_1:
 
     # e "Fuck..."
-    e "该死……"
+    e "操……"
 
 translate schinese_rewrite dark_forest_loop_e91ba75d_1:
 
@@ -96,7 +96,7 @@ translate schinese_rewrite Dark_Forest_Map_761d2b5f:
 translate schinese_rewrite Dark_Forest_Map_5224c0f1:
 
     # "You enter the forest nightwatch..."
-    "你进入了森林哨站……"
+    "你进入了森林夜哨……"
 
 translate schinese_rewrite Dark_Forest_Map_789ba4d7:
 
@@ -191,7 +191,7 @@ translate schinese_rewrite moonlit_wolf_den_enter_2737eaf0:
 translate schinese_rewrite moonlit_wolf_den_enter_124738dd:
 
     # u "What's the meaning of this, trespasser?"
-    u "你这擅闯者，来这里是什么意思？"
+    u "这是什么意思，擅闯者？"
 
 translate schinese_rewrite moonlit_wolf_den_enter_06dc5143:
 
@@ -236,7 +236,7 @@ translate schinese_rewrite moonlit_wolf_den_enter_53ad3c4e:
 translate schinese_rewrite moonlit_wolf_den_enter_aad428a3:
 
     # e "I mean no harm. I'm here to inquire about something."
-    e "我没有恶意。我来这里是想打听一些事情。"
+    e "我没有恶意。我来这里是想打听一件事。"
 
 translate schinese_rewrite moonlit_wolf_den_enter_fdc6ad7b:
 
@@ -351,17 +351,17 @@ translate schinese_rewrite moonlit_wolf_den_enter_10280746:
 translate schinese_rewrite moonlit_wolf_den_enter_1df1a9cb:
 
     # u "You will, trespasser. After all, you know what happens to those who trespasses in my forest."
-    u "你会的，入侵者。毕竟，你知道那些闯入我森林的人会有什么下场。"
+    u "你会的，擅闯者。毕竟，你知道那些闯入我森林的人会有什么下场。"
 
 translate schinese_rewrite moonlit_wolf_den_enter_2aeaff21:
 
     # u "A fate worse than death."
-    u "比死亡更悲惨的命运。"
+    u "比死亡更糟的下场。"
 
 translate schinese_rewrite moonlit_wolf_den_enter_c6147dc5:
 
     # "Uffe raises his paws, and the other werewolves quickly scatter rather quickly."
-    "乌菲抬起双爪，其他狼人迅速四散而逃。"
+    "乌菲抬起双爪，其他狼人迅速散开。"
 
 translate schinese_rewrite main_moonlit_wolf_den_fc60caf0:
 
@@ -381,7 +381,7 @@ translate schinese_rewrite main_moonlit_wolf_den_390dee0d:
 translate schinese_rewrite main_moonlit_wolf_den_a27baced:
 
     # "T-THUNK!"
-    "咚——砰！"
+    "砰！"
 
 translate schinese_rewrite main_moonlit_wolf_den_5c3fa92f:
 
@@ -426,12 +426,12 @@ translate schinese_rewrite Uffe_Territory_Quest_6345f5e8:
 translate schinese_rewrite Uffe_Territory_Quest_7d2dd048:
 
     # "But, you won't be getting out of this alive, if he finds out about the truth of his brother."
-    "但要是他发现你知道他兄弟的真相，你就别想活着离开了。"
+    "但要是他发现了他兄弟的真相，你就别想活着离开了。"
 
 translate schinese_rewrite Uffe_Territory_Quest_ca997112:
 
     # "Vurro is already dead, there's nothing for you to discuss right now."
-    "伏罗已经死了，你现在没什么可跟我谈的。"
+    "伏罗已经死了，你现在没什么可谈的了。"
 
 translate schinese_rewrite Uffe_Territory_Quest_14b648e0:
 
@@ -581,7 +581,7 @@ translate schinese_rewrite Uffe_Territory_Quest_c080f1e8:
 translate schinese_rewrite Uffe_Territory_Quest_4af9ff14:
 
     # e "The last time you promised me something for my work, you lied."
-    e "你上次答应事成后给我报酬时，骗了我。"
+    e "你上次答应为我的工作给我报酬时，骗了我。"
 
 translate schinese_rewrite Uffe_Territory_Quest_4202a77d:
 
@@ -636,7 +636,7 @@ translate schinese_rewrite Uffe_Territory_Quest_e09b30f6:
 translate schinese_rewrite Uffe_Territory_Quest_31536831:
 
     # u "It buries a dark treasure, moonstone amulet. I need you to clear the area, and retrieve what's there for me."
-    u "那里埋着一件黑暗的宝物——月长石护符。我需要你清理那片区域，再把里面的东西取回来交给我。"
+    u "那里埋着一件黑暗的宝物——月光石护符。我需要你清理那片区域，再把里面的东西取回来交给我。"
 
 translate schinese_rewrite Uffe_Territory_Quest_cce39311:
 
@@ -671,7 +671,7 @@ translate schinese_rewrite Uffe_Territory_Quest_a4786d2d:
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_afc0fca9:
 
     # "You notice dozen pairs of eyes hiding in the darkness,. The usual werewolves were staring at you from the corners."
-    "你注意到黑暗中藏着十二双眼睛。那些狼人正从角落里盯着你。"
+    "你注意到黑暗中藏着十二双眼睛。平常那些狼人正从角落里盯着你。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_580e8974:
 
@@ -681,12 +681,12 @@ translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_580e8974:
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_8d4747d6:
 
     # "Something strange is emanating from within the moonstone as you present it in front of Uffe, who takes it eagerly."
-    "你将月长石递到乌菲面前时，其中正散发出某种奇异的气息；他迫不及待地接了过去。"
+    "你将月光石护符递到乌菲面前时，其中正散发出某种奇异的气息；他迫不及待地接了过去。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_f1350236:
 
     # u "Well done yet again, trespasser."
-    u "干得不错，闯入者。"
+    u "又干得不错，闯入者。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_af79e0df:
 
@@ -706,7 +706,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_56609d0f:
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_648976f0:
 
     # u "Stupid? We could have torn you apart right now, including your measly little brain."
-    u "蠢？我们刚才完全可以把你撕碎，连你那点可怜的脑子也不放过。"
+    u "蠢？我们现在完全可以把你撕碎，连你那点可怜的脑子也不放过。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_51b70f01:
 
@@ -756,7 +756,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_41a78b03:
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_f9a01fe1:
 
     # "You remain silent, perhaps he's right. You are just helping someone who doesn't appreciate your worth."
-    "你一言不发，也许他说得没错。你只是在帮助一个根本不看重你价值的人。"
+    "你一言不发，也许他说得没错。你只是在帮助一个不懂得珍惜你价值的人。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Return_After_Amulet_71691b5a:
 
@@ -946,7 +946,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_50e0dcee:
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_64f8988a:
 
     # "The guilt of sending the werewolves to their death sentence are going to kill you alive."
-    "将狼人送上死路的罪恶感会活活折磨死你。"
+    "将狼人送上死刑台的罪恶感会活活折磨死你。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_2e275ff0:
 
@@ -961,7 +961,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_52926d41:
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_0756858e:
 
     # "It's a choice you must make, and it makes you nauseous to be in control of someone else's life directly."
-    "这是你必须作出的选择，而亲自掌控他人的生死让你一阵恶心。"
+    "这是你必须作出的选择，而亲自掌控他人的生命让你一阵恶心。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_a412f9a3:
 
@@ -1016,7 +1016,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_a78c9945:
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_55cced4b:
 
     # e "Neither, but I wish you're not as cruel as you were meant to be."
-    e "两者都不是，但我希望你并非天生就这么残忍。"
+    e "两者都不是，但我希望你并非注定如此残忍。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_e46528de:
 
@@ -1051,7 +1051,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_c806a6ac:
 translate schinese_rewrite Uffe_Territory_Quest_Start_Runaways_5670ee01:
 
     # "Hopefully, that change might come the day Wuldon takes his revenge, and you'll help him with all your heart poured out."
-    "希望那一天会在伍尔顿复仇之时到来，而你也会倾尽全力帮助他。"
+    "希望这种改变会在伍尔顿复仇之时到来，而你也会倾尽全力帮助他。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_798356f8:
 
@@ -1066,12 +1066,12 @@ translate schinese_rewrite Uffe_Territory_Quest_Runaways_b5aeb287:
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_75e83c0f:
 
     # my "Do you have anything that helps my brother?"
-    my "你有什么能帮我哥哥的东西吗？"
+    my "你有什么能帮我兄弟的东西吗？"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_fe387f79:
 
     # "You knock on the unsuspecting wooden plank, turns out, it's a door."
-    "你又敲了敲那块木板，没想到它其实是一扇门。"
+    "你敲了敲那块木板，没想到它其实是一扇门。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_0c7c2fde:
 
@@ -1101,7 +1101,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Runaways_d0140213:
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_09480d25:
 
     # "You don't know who was talking from the other side, or how he can see you through the door."
-    "你不知道另一侧说话的究竟是谁，也不知道他是怎么看见门外的你的。"
+    "你不知道另一侧说话的究竟是谁，也不知道他是怎么透过门看见你的。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_95712d5c:
 
@@ -1126,7 +1126,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Runaways_7116e930:
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_04b3d1c6:
 
     # "The werewolf calls someone far away, you can hear someone coughing before he runs."
-    "狼人朝远处喊了声，你听见有人咳嗽了一声，随后他跑开了。"
+    "狼人朝远处喊了声，你听见有人咳嗽了一声，随后那人跑开了。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_814d22c7:
 
@@ -1171,7 +1171,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Runaways_3e01c4e8:
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_cc3774d7:
 
     # my "But... my brother, he needs something to heal his wound."
-    my "但是……我弟弟需要些能治伤的东西。"
+    my "但是……我兄弟需要些能治伤的东西。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_6baab327:
 
@@ -1316,7 +1316,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Runaways_End_b87788c9:
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_End_9fb556fb:
 
     # u "But consider that you've contributed to the pack. I will forgive you."
-    u "但看在你为狼群出过力的份上，我会原谅你。"
+    u "但看在你为族群出过力的份上，我会原谅你。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Runaways_End_3dd0ceb1:
 
@@ -1386,7 +1386,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_88725662:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a6ca64fd:
 
     # "Clumsily, you throw it over the hole in the door, the concerned wolf catches the canister before it breaks on the floor."
-    "你笨拙地把药膏扔过门上的洞口，忧心忡忡的狼在罐子落地摔碎前接住了它。"
+    "你笨拙地把罐子扔过门上的洞口，忧心忡忡的狼在罐子落地摔碎前接住了它。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_631a6d3a:
 
@@ -1466,12 +1466,12 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_7e0dd842:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_268d878b:
 
     # tt "Somewhere far away from the forest, once my brother can walk again."
-    tt "等我哥哥能重新走路后，我们就会去一个远离森林的地方。"
+    tt "等我兄弟能重新走路后，我们就会去一个远离森林的地方。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_3884e7c2:
 
     # e "I apologise if I stepped out of line, but what happened to your brother?"
-    e "如果我有些越界了，我很抱歉，不过你的哥哥怎么了？"
+    e "如果我有些越界了，我很抱歉，不过你的兄弟怎么了？"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_f6ca09a5:
 
@@ -1511,7 +1511,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_9c690365:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_e053aef6:
 
     # tt "We'll finally leave this place as soon as my brother can finally walk. There were so much stuff we wanted to see."
-    tt "等我哥哥终于能走路了，我们就会离开这里。还有好多东西等着我们去看呢。"
+    tt "等我兄弟终于能走路了，我们就会离开这里。还有好多东西等着我们去看呢。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_446aa2c2:
 
@@ -1526,7 +1526,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_ecdaeb35:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_ed8951c2:
 
     # tt "My brother said the goats looked funny, but I've never seen them ever before."
-    tt "我哥哥说山羊看起来很滑稽，可我以前从没见过山羊。"
+    tt "我兄弟说山羊看起来很滑稽，可我以前从没见过山羊。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_21f01dfd:
 
@@ -1541,7 +1541,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_c6899adb:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_78eb2d4c:
 
     # tt "Well, I wasn't the wisest one in terms of faces and other people."
-    tt "嗯，我在辨认长相和他人方面可不算聪明。"
+    tt "嗯，要说认脸和认人，我可不算最聪明的那个。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_d4c9a9a0:
 
@@ -1551,7 +1551,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_d4c9a9a0:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_4c40cd50:
 
     # tt "Do you like herbs? I've read from the herbalist wolf while he was still around."
-    tt "你喜欢草药吗？那位草药师狼人还在的时候，我曾向他请教过。"
+    tt "你喜欢草药吗？那位草药师狼人还在的时候，我曾读过他写的东西。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_0dddfc54:
 
@@ -1581,7 +1581,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_5be9f915:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_ca600427:
 
     # tt "And my brother, he wasn't the type of werewolf who likes to be told what to do."
-    tt "而且我哥哥不是那种喜欢听别人命令的狼人。"
+    tt "而且我兄弟不是那种喜欢听别人命令的狼人。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_26635a77:
 
@@ -1591,7 +1591,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_26635a77:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_ad8a270d:
 
     # tt "Anyway, thanks for the ointment, I think my brother's going to like you a lot when he wakes up."
-    tt "总之，谢谢你的药膏。我想我哥哥醒来后一定会非常喜欢你。"
+    tt "总之，谢谢你的药膏。我想我兄弟醒来后一定会非常喜欢你。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_4635653e:
 
@@ -1631,7 +1631,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_1f58b189:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_b4497e10:
 
     # tt "It's my brother. I'll check on him for just a few moments."
-    tt "是我哥哥。我去看看他，马上就回来。"
+    tt "是我兄弟。我去看看他，马上就回来。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_b5798c21:
 
@@ -1661,7 +1661,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_6aeeec2d:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_dc7068f1:
 
     # "A loud sound emulating wolf howling can be heard through the whole forest."
-    "一阵模仿狼嚎的巨响响彻整片森林。"
+    "一声模仿狼嚎的巨响响彻整片森林。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_6484a0bd:
 
@@ -1681,7 +1681,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_4ecb9225:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_59bb6834:
 
     # "Soon, a group of werewolves emerges from the corner, running in opposite direction of yours."
-    "一群狼人从拐角出现，朝与你相反的方向跑去。"
+    "很快，一群狼人从拐角出现，朝与你相反的方向跑去。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_af23c6b6:
 
@@ -1731,7 +1731,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_d916959f:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_2e2f23b2:
 
     # "You are not sure what he means, how would Uffe not kill a threat to their own pack."
-    "你不明白他的意思：乌菲怎么可能不杀掉威胁到他们族群的敌人？"
+    "你不明白他的意思：乌菲怎么可能不杀掉威胁到他们族群的东西？"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_af683f97:
 
@@ -1756,7 +1756,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_4580b4a2:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_bea31d56:
 
     # "And you are left standing there, speechless."
-    "只留下你呆站在那里，说不出话来。"
+    "只留下你站在那里，说不出话来。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a9c848fb:
 
@@ -1776,7 +1776,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_f026b0c5:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_3d5270c8:
 
     # e "Carry your brother and leave the forest, the werewolves are chasing after you."
-    e "背上你弟弟离开森林，狼人正追着你们。"
+    e "背上你兄弟离开森林，狼人正追着你们。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_4d211de9:
 
@@ -1876,7 +1876,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_1c5c4593:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_9c2b1e20:
 
     # "When you walk up to the werewolf's side, you realise he's sleeping soundly, being carried by his brother underneath."
-    "走到狼人身旁时，你才发现他睡得正香，原来是被下面的兄弟背着。"
+    "走到狼人身旁时，你才发现他睡得正香，原来是被他的兄弟背着。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_95bea4e4:
 
@@ -1891,12 +1891,12 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_c16e797b:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_037aaa36:
 
     # "Tetto gruntles as his brother almost slips off."
-    "泰托发出一声低哼，他的兄弟差点滑下来。"
+    "泰托发出一声低哼，他的兄弟差点从他背上滑下来。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_86cd8374:
 
     # tt "I figured that sooner or later, they're gonna track down Rumma's blood. Luckily he's left his share of evidence back there."
-    tt "我猜他们迟早会循着鲁玛的血找到他。幸好他在那边留下了不少证据。"
+    tt "我猜他们迟早会循着鲁玛留下的血迹追踪过来。幸好他在那边留下了不少证据。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a4a98ac9:
 
@@ -1961,7 +1961,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_758d7981:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_060b63d4:
 
     # tt "See anything funny?"
-    tt "看到什么好笑的吗？"
+    tt "看到什么奇怪的东西了吗？"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a890c771:
 
@@ -1971,7 +1971,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a890c771:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_290b18bd:
 
     # tt "My brother is heavy, I thought I should let you carry him but then you're just this tweenzy little small dude."
-    tt "我弟弟很重，我本来想让你背他，可你只是个这么瘦小的家伙。"
+    tt "我兄弟很重，我本来想让你背他，可你只是个这么瘦小的家伙。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_4634bf20:
 
@@ -2081,7 +2081,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_ef859802:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a46835c1:
 
     # tt "Ha, well. And you're talking like my brother. He always did all the worrying for me."
-    tt "哈，也是。你说话的样子像我哥哥。他以前总是替我操心。"
+    tt "哈，也是。你说话的样子像我兄弟。他以前总是替我操心。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_0bbc472c:
 
@@ -2181,7 +2181,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_09f6d4e2:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_371deeeb:
 
     # ww "Someone's been here."
-    ww "有人来过。"
+    ww "有人来过这里。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_00771fda:
 
@@ -2231,7 +2231,7 @@ translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_730d00a9:
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_a91fa821:
 
     # ww2 "And his little accomplice."
-    ww2 "还有你这个小跟班。"
+    ww2 "还有他的那个小帮凶。"
 
 translate schinese_rewrite Uffe_Territory_Quest_Find_Cream_5f8bb962:
 
@@ -2291,7 +2291,7 @@ translate schinese_rewrite Uffe_Normal_Talk_6636979e:
 translate schinese_rewrite Uffe_Normal_Talk_c9047f46:
 
     # u "You do me this favor and I'll return one to you."
-    u "你帮我这个忙，我就还你一个。"
+    u "你帮我这个忙，我也会帮你一个忙。"
 
 translate schinese_rewrite Uffe_Normal_Talk_f957d574:
 
@@ -2331,7 +2331,7 @@ translate schinese_rewrite Uffe_Normal_Talk_b1ef553c:
 translate schinese_rewrite Uffe_Normal_Talk_6d7c8e3b:
 
     # e "What is this about a feral werewolf?"
-    e "这发狂的狼人是怎么回事？"
+    e "这狂化狼人是怎么回事？"
 
 translate schinese_rewrite Uffe_Normal_Talk_468a171d:
 
@@ -2361,7 +2361,7 @@ translate schinese_rewrite Uffe_Normal_Talk_af5fe6be:
 translate schinese_rewrite Uffe_Normal_Talk_c58f3d89:
 
     # u "And they're not feeble enough to squeeze through the cave."
-    u "而且它们也没瘦弱到能挤过这条洞穴。"
+    u "而且它们也没瘦弱到能挤过这座洞穴。"
 
 translate schinese_rewrite Uffe_Normal_Talk_c4ada693:
 
@@ -2376,7 +2376,7 @@ translate schinese_rewrite Uffe_Normal_Talk_ead2970e:
 translate schinese_rewrite Uffe_Normal_Talk_4f348d7b:
 
     # e "Fine. Any advice to deal with the feral werewolf?"
-    e "好吧。对付那个发狂的狼人，有什么建议？"
+    e "好吧。对付那个狂化狼人，有什么建议？"
 
 translate schinese_rewrite Uffe_Normal_Talk_ff667d13:
 
@@ -2451,7 +2451,7 @@ translate schinese_rewrite Uffe_Normal_Talk_4ef39dc5:
 translate schinese_rewrite Uffe_Normal_Talk_029e606b:
 
     # u "You have killed the feral then."
-    u "所以，是你杀了那头野兽？"
+    u "所以，你杀了那头狂兽。"
 
 translate schinese_rewrite Uffe_Normal_Talk_90d8f76d:
 
@@ -2481,7 +2481,7 @@ translate schinese_rewrite Uffe_Normal_Talk_0078ef74:
 translate schinese_rewrite Uffe_Normal_Talk_06c176dd:
 
     # "You quickly fumble with your belongings until you pull out the rings."
-    "你连忙在自己的物品中摸索，直到取出那对乳环。"
+    "你连忙在自己的物品中摸索，直到取出那些乳环。"
 
 translate schinese_rewrite Uffe_Normal_Talk_96210030:
 
@@ -2631,7 +2631,7 @@ translate schinese_rewrite Uffe_Normal_Talk_289767b5:
 translate schinese_rewrite Uffe_Normal_Talk_029e606b_1:
 
     # u "You have killed the feral then."
-    u "这么说，你杀了那个野兽。"
+    u "这么说，你杀了那头狂兽。"
 
 translate schinese_rewrite Uffe_Normal_Talk_90d8f76d_1:
 
@@ -2671,7 +2671,7 @@ translate schinese_rewrite Uffe_Normal_Talk_0078ef74_1:
 translate schinese_rewrite Uffe_Normal_Talk_06c176dd_1:
 
     # "You quickly fumble with your belongings until you pull out the rings."
-    "你手忙脚乱地翻找随身物品，很快掏出了那对环。"
+    "你手忙脚乱地翻找随身物品，很快掏出了那些环。"
 
 translate schinese_rewrite Uffe_Normal_Talk_96210030_1:
 

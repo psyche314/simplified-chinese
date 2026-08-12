@@ -221,7 +221,7 @@ translate schinese_rewrite caproot_lose_bde9e7c4:
 translate schinese_rewrite feral_battle_d7e42226:
 
     # "You are facing the feral werewolf, he extends his claws, staring at you with a mix of lust and innate hunger."
-    "你正面对着野性狼人，它伸出利爪，带着欲望与本能的饥饿盯着你。"
+    "你正面对着狂化狼人，他伸出利爪，带着欲望与本能的饥饿盯着你。"
 
 translate schinese_rewrite feral_battle_6fc4a6a5:
 
@@ -231,22 +231,22 @@ translate schinese_rewrite feral_battle_6fc4a6a5:
 translate schinese_rewrite feral_battle_loop_a3273959:
 
     # "You slash your [pc.weapon.name!t] at the arms of the feral werewolf, it slides right off his fluffy arm, while you look back in disbelief."
-    "你挥动[pc.weapon.name!t]砍向野性狼人的手臂，武器从他毛茸茸的手臂上滑开，你难以置信地回头看去。"
+    "你挥动[pc.weapon.name!t]砍向狂化狼人的手臂，武器从他毛茸茸的手臂上滑开，你难以置信地回头看去。"
 
 translate schinese_rewrite feral_battle_loop_8986d773:
 
     # "You slam your [pc.weapon.name!t] at the arms of the feral werewolf, it slides right off his fluffy arm, while you look back in disbelief."
-    "你用[pc.weapon.name!t]猛砸野性狼人的手臂，武器从他毛茸茸的手臂上滑开，你难以置信地回头看去。"
+    "你用[pc.weapon.name!t]猛砸狂化狼人的手臂，武器从他毛茸茸的手臂上滑开，你难以置信地回头看去。"
 
 translate schinese_rewrite feral_battle_loop_06a20ea5:
 
     # "You aim and shoot your [pc.weapon.name!t] at the arms of the feral werewolf, it pierces right through his soft fur without touching his skin, leaving you frozen in disbelief."
-    "你瞄准野性狼人的手臂射出[pc.weapon.name!t]，它径直穿过柔软的毛发，却没有碰到他的皮肤，令你难以置信地僵在原地。"
+    "你瞄准狂化狼人的手臂射出[pc.weapon.name!t]，它径直穿过柔软的毛发，却没有碰到他的皮肤，令你难以置信地僵在原地。"
 
 translate schinese_rewrite feral_battle_loop_b1471927:
 
     # "You hold your fist and throw it at the feral werewolf, but it hits nothing and leaves you standing instead."
-    "你握紧拳头朝野性狼人挥去，却什么也没打中，只能站在原地。"
+    "你握紧拳头朝狂化狼人挥去，却什么也没打中，只能站在原地。"
 
 translate schinese_rewrite feral_battle_loop_c904a7f0:
 
@@ -256,47 +256,47 @@ translate schinese_rewrite feral_battle_loop_c904a7f0:
 translate schinese_rewrite feral_battle_loop_51741249:
 
     # "The feral werewolf growls loudly."
-    "那头野狼人发出响亮的咆哮。"
+    "那头狂化狼人发出响亮的咆哮。"
 
 translate schinese_rewrite feral_battle_loop_d5f94264:
 
     # "You slash your [pc.weapon.name!t] at the feral werewolf, your blade grazes through the feral's stomach. Drops of blood drips through his body."
-    "你挥动[pc.weapon.name!t]砍向那头野狼人，刀刃划过它的腹部，鲜血一滴滴从它身上淌下。"
+    "你挥动[pc.weapon.name!t]砍向那头狂化狼人，刀刃划过他的腹部，鲜血一滴滴从他身上淌下。"
 
 translate schinese_rewrite feral_battle_loop_a8f95d37:
 
     # "You slash your [pc.weapon.name!t] at the feral werewolf, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-    "你挥动[pc.weapon.name!t]砍向那头野狼人，将它砍倒在地。它起身前朝你咆哮，显得狼狈不堪。"
+    "你挥动[pc.weapon.name!t]砍向那头狂化狼人，将他砍倒在地。他起身前朝你咆哮，显得狼狈不堪。"
 
 translate schinese_rewrite feral_battle_loop_2366a428:
 
     # "You slam your [pc.weapon.name!t] at the feral werewolf, your blade grazes through the feral's stomach. Drops of blood drips through his body."
-    "你将[pc.weapon.name!t]猛砸向那头野狼人，刀刃划过它的腹部，鲜血一滴滴从它身上淌下。"
+    "你将[pc.weapon.name!t]猛砸向那头狂化狼人，刀刃划过他的腹部，鲜血一滴滴从他身上淌下。"
 
 translate schinese_rewrite feral_battle_loop_ce2792d0:
 
     # "You slam your [pc.weapon.name!t] at the feral werewolf, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-    "你挥起[pc.weapon.name!t]猛砸向凶暴狼人，将他击倒在地。他站起来前冲你低吼了一声，显得颇为狼狈。"
+    "你挥起[pc.weapon.name!t]猛砸向狂化狼人，将他击倒在地。他站起来前冲你低吼了一声，显得颇为狼狈。"
 
 translate schinese_rewrite feral_battle_loop_e0d878bc:
 
     # "You aim and shoot your [pc.weapon.name!t] at the feral werewolf, the arrow hit right into his shoulder and he screams in agony."
-    "你瞄准凶暴狼人射出[pc.weapon.name!t]，箭矢正中他的肩膀，他痛苦地发出惨叫。"
+    "你瞄准狂化狼人射出[pc.weapon.name!t]，箭矢正中他的肩膀，他痛苦地发出惨叫。"
 
 translate schinese_rewrite feral_battle_loop_945cb1f9:
 
     # "You run while shooting your [pc.weapon.name!t] at the feral werewolf, knocking him on the ground. He growls at you before getting up, albeit disheveled."
-    "你边跑边用[pc.weapon.name!t]射击凶暴狼人，将他击倒在地。他站起来前冲你低吼了一声，显得颇为狼狈。"
+    "你边跑边用[pc.weapon.name!t]射击狂化狼人，将他击倒在地。他站起来前冲你低吼了一声，显得颇为狼狈。"
 
 translate schinese_rewrite feral_battle_loop_edd0c29b:
 
     # "You throw your fist at the feral werewolf, hitting him right across his face, the sheer impact knocks him on the ground."
-    "你挥拳打向凶暴狼人的脸，猛烈的冲击将他击倒在地。"
+    "你挥拳打向狂化狼人的脸，猛烈的冲击将他击倒在地。"
 
 translate schinese_rewrite feral_battle_loop_f39c848d:
 
     # "You punch into the feral werewolf's stomach, grabbing him and slam him on the ground hard."
-    "你一拳打中凶暴狼人的腹部，抓住他后狠狠将他摔在地上。"
+    "你一拳打中狂化狼人的腹部，抓住他后狠狠将他摔在地上。"
 
 translate schinese_rewrite feral_battle_loop_24bcc736:
 
@@ -306,7 +306,7 @@ translate schinese_rewrite feral_battle_loop_24bcc736:
 translate schinese_rewrite feral_battle_loop_a124f1fb:
 
     # "You've critically hit the feral werewolf, dealing [oa[4]] HP!"
-    "你对凶暴狼人造成了暴击，造成[oa[4]]点伤害！"
+    "你对狂化狼人造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite feral_battle_loop_498fc07c:
 
@@ -321,7 +321,7 @@ translate schinese_rewrite feral_battle_loop_971e581f:
 translate schinese_rewrite feral_battle_loop_e37c4e99:
 
     # "The feral werewolf howls, he extends his claws, slashing at anything on sight."
-    "狂暴的狼人嚎叫着，伸出利爪，见什么就砍什么。"
+    "狂化狼人嚎叫着，伸出利爪，见什么就砍什么。"
 
 translate schinese_rewrite feral_battle_loop_4d5170a1:
 
@@ -336,7 +336,7 @@ translate schinese_rewrite feral_battle_loop_ba6ebbc7:
 translate schinese_rewrite feral_battle_loop_f76ac578:
 
     # "You can barely hear barking sound of the feral werewolf, it almost seems he is acting out his feral rage with a glimpse of confusion."
-    "你几乎听不清狂暴狼人的犬吠声，仿佛他正带着些许困惑，发泄着自己的野性狂怒。"
+    "你几乎听不清狂化狼人的犬吠声，仿佛他正带着些许困惑，发泄着自己的野性狂怒。"
 
 translate schinese_rewrite feral_battle_loop_fdf9de27:
 
@@ -346,7 +346,7 @@ translate schinese_rewrite feral_battle_loop_fdf9de27:
 translate schinese_rewrite feral_battle_loop_a6b1013a:
 
     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the feral seductively."
-    "你轻轻刮蹭自己的肉棒，指爪从大腿内侧一路划到睾丸后方；你一边紧盯着那头狂暴的狼人，一边挑逗地用力拉扯着它。"
+    "你轻轻刮蹭自己的肉棒，指爪从大腿内侧一路划到睾丸后方；你一边紧盯着那头狂化狼人，一边挑逗地用力拉扯着它。"
 
 translate schinese_rewrite feral_battle_loop_225bd7f9:
 
@@ -356,22 +356,22 @@ translate schinese_rewrite feral_battle_loop_225bd7f9:
 translate schinese_rewrite feral_battle_loop_92796d1a:
 
     # "You continue your act for about a minute, but the feral just stares at you in confusion."
-    "你继续表演了大约一分钟，但那头野性狼人只是困惑地盯着你。"
+    "你继续表演了大约一分钟，但那头狂化狼人只是困惑地盯着你。"
 
 translate schinese_rewrite feral_battle_loop_a281a081:
 
     # "Within a few seconds you can already see a tingly sight at the feral werewolf."
-    "没过几秒，你就已经能看到那头野性狼人的身体起了反应。"
+    "没过几秒，你就已经能看到那头狂化狼人的身体起了反应。"
 
 translate schinese_rewrite feral_battle_loop_bb33b631:
 
     # "The sturdy beast man licks his lips, grumbling at your beautiful sight. His lust is increased by [player_flirt]."
-    "健壮的兽人舔了舔嘴唇，望着你的美妙身姿低声抱怨。他的性欲因[player_flirt]而增强。"
+    "健壮的狂化狼人舔了舔嘴唇，望着你的美妙身姿低声抱怨。他的性欲因[player_flirt]而增强。"
 
 translate schinese_rewrite feral_battle_loop_fb4c65fb:
 
     # "You notice the feral is staring at your crotch, you slightly wink at him and his rage breaks into slight frustration."
-    "你注意到那头野性狼人正盯着你的胯部，便朝他微微眨了眨眼，他的怒火也转为些许挫败感。"
+    "你注意到那头狂化狼人正盯着你的胯部，便朝他微微眨了眨眼，他的怒火也转为些许挫败感。"
 
 translate schinese_rewrite feral_battle_loop_877a56ed:
 
@@ -391,7 +391,7 @@ translate schinese_rewrite feral_battle_loop_c030f08e:
 translate schinese_rewrite feral_battle_loop_04033311:
 
     # "The feral is squirming in reaction to your advance."
-    "野兽因你的逼近而扭动起来。"
+    "狂化狼人因你的逼近而扭动起来。"
 
 translate schinese_rewrite feral_battle_loop_f1da305a:
 
@@ -401,7 +401,7 @@ translate schinese_rewrite feral_battle_loop_f1da305a:
 translate schinese_rewrite feral_battle_loop_ddcbd0cc:
 
     # "You can tell the feral is already playing with himself when his claws goes under his pants, staring at your ass intently."
-    "你能看出野兽已经在自我抚弄：他的爪子伸进裤子里，目不转睛地盯着你的屁股。"
+    "你能看出狂化狼人已经在自我抚弄：他的爪子伸进裤子里，目不转睛地盯着你的屁股。"
 
 translate schinese_rewrite feral_battle_loop_877a56ed_1:
 
@@ -421,12 +421,12 @@ translate schinese_rewrite feral_battle_loop_13ca3ce4:
 translate schinese_rewrite feral_battle_loop_d3364c97:
 
     # "You slowly back down from the feral's attack, you turn around and run as fast as you can."
-    "你慢慢后退躲避野兽的攻击，转身拼命奔逃。"
+    "你慢慢后退躲避狂化狼人的攻击，转身拼命奔逃。"
 
 translate schinese_rewrite feral_battle_loop_48f2f959:
 
     # "But the beast's claw instantly grips onto your tail and you fall on the ground. You cannot escape from this fight."
-    "但野兽的爪子瞬间抓住你的尾巴，你摔倒在地。你无法逃离这场战斗。"
+    "但狂化狼人的爪子瞬间抓住你的尾巴，你摔倒在地。你无法逃离这场战斗。"
 
 translate schinese_rewrite feral_battle_loop_adade717:
 
@@ -441,12 +441,12 @@ translate schinese_rewrite feral_battle_loop_75066d56:
 translate schinese_rewrite feral_battle_loop_19634717:
 
     # "Maybe surrendering yourself to the feral is the best choice."
-    "也许向野兽投降才是最好的选择。"
+    "也许向狂化狼人投降才是最好的选择。"
 
 translate schinese_rewrite feral_battle_loop_6ef9c502:
 
     # "The beast man jeers at your submission, and he paces around you, poking you to see if you'd still react."
-    "兽人嘲弄着你的屈服，在你周围踱步，还戳着你，看看你是否仍会有所反应。"
+    "狂化狼人嘲弄着你的屈服，在你周围踱步，还戳着你，看看你是否仍会有所反应。"
 
 translate schinese_rewrite feral_battle_loop_b2a8349a:
 
@@ -456,22 +456,22 @@ translate schinese_rewrite feral_battle_loop_b2a8349a:
 translate schinese_rewrite feral_battle_loop_bc667fa3:
 
     # "The feral flaunts his claw towards you. Your health decreases by [enemy_damage] HP."
-    "野兽朝你炫耀般挥了挥爪子。你的生命值减少了[enemy_damage]点。"
+    "狂化狼人朝你炫耀般挥了挥爪子。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite feral_battle_loop_23428d62:
 
     # "The feral charges at you, knocking you on the ground. Your health decreases by [enemy_damage] HP."
-    "野兽朝你冲来，把你撞倒在地。你的生命值减少了[enemy_damage]点。"
+    "狂化狼人朝你冲来，把你撞倒在地。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite feral_battle_loop_eb733a9f:
 
     # "The feral flaunts his claw towards you, you manage to dodge the attack."
-    "野兽朝你炫耀般挥爪子，你设法躲开了攻击。"
+    "狂化狼人朝你炫耀般挥爪子，你设法躲开了攻击。"
 
 translate schinese_rewrite feral_battle_loop_7585ad50:
 
     # "The feral charges at you, trying to kick at your but you leap to your side in time."
-    "野兽朝你冲来，试图踢你，但你及时跃向一旁。"
+    "狂化狼人朝你冲来，试图踢你，但你及时跃向一旁。"
 
 translate schinese_rewrite feral_battle_loop_2001fc5a:
 
@@ -486,7 +486,7 @@ translate schinese_rewrite feral_battle_loop_64aa0177:
 translate schinese_rewrite feral_battle_loop_5505b500:
 
     # "The feral swings his claw at you, scraping against your side. Your health decreases by [enemy_damage] HP."
-    "野兽挥爪抓向你，擦过你的侧身。你的生命值减少了[enemy_damage]点。"
+    "狂化狼人挥爪抓向你，擦过你的侧身。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite feral_battle_loop_14c58611:
 
@@ -501,17 +501,17 @@ translate schinese_rewrite feral_battle_loop_bf3e6125:
 translate schinese_rewrite feral_battle_loop_651ff819:
 
     # "Your bleeding has gotten worse from the feral."
-    "野兽让你的伤口流血得更厉害了。"
+    "狂化狼人让你的伤口流血得更厉害了。"
 
 translate schinese_rewrite feral_battle_loop_302a21a4:
 
     # "The feral scratches your wound deep, your healing is now reduced by [bruised.effect] percent."
-    "那头野性狼人深深抓挠你的伤口，你的恢复效果现在降低了[bruised.effect]个百分点。"
+    "那头狂化狼人深深抓挠你的伤口，你的恢复效果现在降低了[bruised.effect]个百分点。"
 
 translate schinese_rewrite feral_battle_loop_eea69db3:
 
     # "The feral scratches at his pants, he runs two fingers along the shape of his cock in front of you."
-    "那头野性狼人抓了抓自己的裤子，随后当着你的面用两根手指顺着胯下阴茎的轮廓滑过。"
+    "那头狂化狼人抓了抓自己的裤子，随后当着你的面用两根手指顺着胯下阴茎的轮廓滑过。"
 
 translate schinese_rewrite feral_battle_loop_12b9e3ec:
 
@@ -521,7 +521,7 @@ translate schinese_rewrite feral_battle_loop_12b9e3ec:
 translate schinese_rewrite feral_battle_loop_cc090de6:
 
     # "The feral stretches his body, flaunting his muscular physiques, you can tell his soft is almost bulging in front of you."
-    "野性狼人伸展着身体，炫耀着自己健硕的身躯；你看得出来，他的肉棒几乎要在你面前胀起来了。"
+    "狂化狼人伸展着身体，炫耀着自己健硕的身躯；你看得出来，他的肉棒几乎要在你面前胀起来了。"
 
 translate schinese_rewrite feral_battle_loop_ade551c4:
 
@@ -531,7 +531,7 @@ translate schinese_rewrite feral_battle_loop_ade551c4:
 translate schinese_rewrite feral_battle_loop_d7fc3307:
 
     # "You gulp at the feral's attempt at seduction. As much as he is feral... his attempt at seduction has left you salivating..."
-    "你咽了口唾沫，面对野性狼人的诱惑。尽管他野性十足……这番勾引还是让你垂涎欲滴……"
+    "你咽了口唾沫，面对狂化狼人的诱惑。尽管他野性十足……这番勾引还是让你垂涎欲滴……"
 
 translate schinese_rewrite feral_battle_loop_b3cdb1f2:
 
@@ -556,17 +556,17 @@ translate schinese_rewrite feral_battle_loop_45a9fad8_1:
 translate schinese_rewrite feral_win_f2b2628e:
 
     # "The feral werewolf falls, pased out, but still breathing slightly..."
-    "野性狼人倒下，昏了过去，但仍在微弱地呼吸着……"
+    "狂化狼人倒下，昏了过去，但仍在微弱地呼吸着……"
 
 translate schinese_rewrite feral_win_9c3d5482:
 
     # "The feral werewolf falls, pased out, with his cock fully erected..."
-    "野性狼人倒下了，已经昏迷不醒，阴茎却仍然完全勃起……"
+    "狂化狼人倒下了，已经昏迷不醒，阴茎却仍然完全勃起……"
 
 translate schinese_rewrite feral_win_10ced941:
 
     # "You found [found_gold] gold and [exp_drop] experience from the feral. You pick them up swiftly."
-    "你从这头野性狼人身上找到[found_gold]枚金币和[exp_drop]点经验，赶忙将它们捡起。"
+    "你从这头狂化狼人身上找到[found_gold]枚金币和[exp_drop]点经验，赶忙将它们捡起。"
 
 translate schinese_rewrite feral_win_91f1d522:
 
@@ -576,12 +576,12 @@ translate schinese_rewrite feral_win_91f1d522:
 translate schinese_rewrite feral_lose_a41436e7:
 
     # "You struggle against the feral, you have already exhausted all your energy. He pounces on your helpless body like you are a feast to be served."
-    "你与野性狼人苦苦挣扎，却早已耗尽了所有体力。他猛扑到你无力反抗的身体上，仿佛你是一道摆上桌的美餐。"
+    "你与狂化狼人苦苦挣扎，却早已耗尽了所有体力。他猛扑到你无力反抗的身体上，仿佛你是一道摆上桌的美餐。"
 
 translate schinese_rewrite feral_lose_321bc83a:
 
     # "You struggle against the feral, your mind is filled with unquenchable lust over the feral. He pounces on your helpless body like you are a feast to be served."
-    "你与野性狼人苦苦挣扎，脑海中充斥着对他的无尽淫欲。他猛扑到你无力反抗的身体上，仿佛你是一道摆上桌的美餐。"
+    "你与狂化狼人苦苦挣扎，脑海中充斥着对他的无尽淫欲。他猛扑到你无力反抗的身体上，仿佛你是一道摆上桌的美餐。"
 
 translate schinese_rewrite feral_lose_a20cefa7:
 
@@ -591,7 +591,7 @@ translate schinese_rewrite feral_lose_a20cefa7:
 translate schinese_rewrite feral_lose_45482983:
 
     # "After you wake up, you realize the feral is fast asleep."
-    "你醒来后，发现那头野性狼人正沉睡不醒。"
+    "你醒来后，发现那头狂化狼人正沉睡不醒。"
 
 translate schinese_rewrite feral_lose_c20b51cc:
 
@@ -696,12 +696,12 @@ translate schinese_rewrite goatranger_battle_loop_e02a18ea:
 translate schinese_rewrite goatranger_battle_loop_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
-    "他的生命值减少了[oa[4]]点HP。"
+    "他的生命值减少了[oa[4]]点。"
 
 translate schinese_rewrite goatranger_battle_loop_3a298caa:
 
     # "You've critically hit the ranger, dealing [oa[4]] HP!"
-    "你对游侠造成了[oa[4]]点HP的暴击伤害！"
+    "你对游侠造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite goatranger_battle_loop_68b5c068:
 
@@ -861,7 +861,7 @@ translate schinese_rewrite goatranger_battle_loop_4a801cc0:
 translate schinese_rewrite goatranger_battle_loop_5244986f:
 
     # gtr "You thristy? Surrender to me and maybe you'll have the best time of your life."
-    gtr "你口渴吗？向我投降，说不定你会度过一生中最美妙的时光。"
+    gtr "你饥渴了吗？向我投降，说不定你会度过一生中最美妙的时光。"
 
 translate schinese_rewrite goatranger_battle_loop_71755195:
 
@@ -891,7 +891,7 @@ translate schinese_rewrite goatranger_battle_loop_4a801cc0_1:
 translate schinese_rewrite goatranger_battle_loop_5244986f_1:
 
     # gtr "You thristy? Surrender to me and maybe you'll have the best time of your life."
-    gtr "你不渴吗？向我投降吧，说不定你会度过人生中最美妙的时光。"
+    gtr "你不饥渴吗？向我投降吧，说不定你会度过人生中最美妙的时光。"
 
 translate schinese_rewrite goatranger_battle_loop_017c663f:
 
@@ -1041,17 +1041,17 @@ translate schinese_rewrite malignantslime_battle_loop_fa3e35f2:
 translate schinese_rewrite malignantslime_battle_loop_add6ad39:
 
     # "It drains [healing] HP from the hefty slime."
-    "它从厚重史莱姆身上吸取了[healing]点生命值。"
+    "它从巨型史莱姆身上吸取了[healing]点生命值。"
 
 translate schinese_rewrite malignantslime_battle_loop_dde7a710:
 
     # "A part of the malignant slime split apart! It is forming... another slime."
-    "邪恶史莱姆的一部分裂开了！它正在形成……另一只史莱姆。"
+    "恶性史莱姆的一部分裂开了！它正在形成……另一只史莱姆。"
 
 translate schinese_rewrite malignantslime_battle_loop_b56a75e4:
 
     # "You are now also facing Hefty Slime."
-    "你现在还要面对厚重史莱姆。"
+    "你现在还要面对巨型史莱姆。"
 
 translate schinese_rewrite malignantslime_battle_loop_8e8b3794:
 
@@ -1071,7 +1071,7 @@ translate schinese_rewrite malignantslime_battle_loop_f93c263b:
 translate schinese_rewrite malignantslime_battle_loop_f47325dc:
 
     # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
-    "顷刻间，淫靡的场景充斥你的脑海，你无法摆脱那个念头……那个与你所有人赤身裸体的画面。你的欲望增加了[enemy_flirt]点。"
+    "顷刻间，淫靡的场景充斥你的脑海，你无法摆脱那个念头……那个你和所有人赤身裸体的画面。你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite malignantslime_win_c81dbf8a:
 
@@ -1306,7 +1306,7 @@ translate schinese_rewrite nosferat_battle_loop_65fac295:
 translate schinese_rewrite nosferat_battle_loop_b464c861:
 
     # "The nosferat swings his giant dripstone towards you. You barely manage to deflect his heavy mace and dodge the attack."
-    "诺斯费拉图挥动钟乳石朝你砸来，你勉强挡开了他沉重的钉锤，躲过了这一击。"
+    "诺斯费拉图挥动巨大的钟乳石朝你砸来，你勉强挡开了他沉重的钉锤，躲过了这一击。"
 
 translate schinese_rewrite nosferat_battle_loop_c58bcb83:
 
@@ -1526,7 +1526,7 @@ translate schinese_rewrite werewolf_tetto_battle_loop_c9e8bcae:
 translate schinese_rewrite werewolf_tetto_battle_loop_39dfd204:
 
     # "Tetto thrashes his claws at the werewolves, dealing [oa[4]] HP!"
-    "特托挥爪猛攻狼人们，造成[oa[4]]点生命值伤害！"
+    "特托挥爪猛攻狼人们，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_8e14f488:
 
@@ -1621,7 +1621,7 @@ translate schinese_rewrite werewolf_tetto_battle_loop_1876b221:
 translate schinese_rewrite werewolf_tetto_battle_loop_f1da305a:
 
     # "You can already hear his rapid breathing and grunting, grasping at his own claws. His lust is increased by [player_flirt]."
-    "你已经能听见他急促的呼吸和低沉的呻吟，他正抓挠着自己的爪子。他的欲望因[player_flirt]而增强。"
+    "你已经能听见他急促的呼吸和低沉的喘息，他正紧紧抓着自己的爪子。他的欲望因[player_flirt]而增强。"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_739aed5e:
 
@@ -1671,7 +1671,7 @@ translate schinese_rewrite werewolf_tetto_battle_loop_f88cd8cd:
 translate schinese_rewrite werewolf_tetto_battle_loop_6311292d:
 
     # tt "We can still win this... right? [e]?"
-    tt "我们还能赢的……对吧？[e]？"
+    tt "我们还有机会赢……对吧？[e]？"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_e98b05fd:
 
@@ -1681,7 +1681,7 @@ translate schinese_rewrite werewolf_tetto_battle_loop_e98b05fd:
 translate schinese_rewrite werewolf_tetto_battle_loop_7f10568a:
 
     # tt "...I cannot fight them all by myself."
-    tt "……我一个人打不过他们所有人。"
+    tt "……我一个人打不过他们两个。"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_604ef9eb:
 

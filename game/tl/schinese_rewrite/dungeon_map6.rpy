@@ -296,7 +296,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_ffaaf9a0:
 translate schinese_rewrite Whispering_Hollow_Loop_7429056a:
 
     # "He finishes the riddle with a loud sigh."
-    "他用一声响亮的叹息结束了谜语。"
+    "他伴着一声响亮的叹息说完了谜语。"
 
 translate schinese_rewrite Whispering_Hollow_Loop_e9bd0086:
 
@@ -381,7 +381,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_097aaf9d:
 translate schinese_rewrite Whispering_Hollow_Loop_c0eb9969:
 
     # ww "Chime... gentle? That sounds so obvious, it's the fuckin' bear's horn, right?"
-    ww "齐门……温柔？这听起来也太明显了，肯定是那头该死的熊的号角，对吧？"
+    ww "铃声……轻柔？这答案也太明显了，不就是那头该死的熊的号角吗？"
 
 translate schinese_rewrite Whispering_Hollow_Loop_b76295a5:
 
@@ -436,7 +436,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc:
 translate schinese_rewrite Whispering_Hollow_Loop_a5a943bb:
 
     # "{i}Small and dainty, I fit in your hand, my chime is gentle, but can be grand.{w}{p}With a flick of your wrist, I sing a tune, a sound that echoes, morning or noon.{p}{w}What am I?{/i}"
-    "{i}小巧玲珑，能被我握于掌中；我的钟声轻柔，却也可以宏大。{w}{p}只需手腕轻轻一挥，我便唱出旋律，晨昏皆能回荡。{p}{w}我是什么？{/i}"
+    "{i}小巧玲珑，能被我握于掌中；我的铃声轻柔，却也可以宏大。{w}{p}只需手腕轻轻一挥，我便唱出旋律，晨昏皆能回荡。{p}{w}我是什么？{/i}"
 
 translate schinese_rewrite Whispering_Hollow_Loop_73cc25dc_1:
 
@@ -516,7 +516,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_41385b01:
 translate schinese_rewrite Whispering_Hollow_Loop_03a96509:
 
     # "{i}I am a moonstone of werewolf might, a symbol of strength in the fight.{w}{p}But to harness my true power and glory, the price of sacrifice must be your story.{/i}"
-    "{i}我是蕴含狼人之力的月长石，是战斗中力量的象征。{w}{p}但若想驾驭我真正的力量与荣光，就必须以你的故事作为牺牲的代价。{/i}"
+    "{i}我是蕴含狼人之力的月光石，是战斗中力量的象征。{w}{p}但若想驾驭我真正的力量与荣光，就必须以你的故事作为牺牲的代价。{/i}"
 
 translate schinese_rewrite Whispering_Hollow_Loop_6466610a:
 
@@ -531,7 +531,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_c2564626:
 translate schinese_rewrite Whispering_Hollow_Loop_03a96509_1:
 
     # "{i}I am a moonstone of werewolf might, a symbol of strength in the fight.{w}{p}But to harness my true power and glory, the price of sacrifice must be your story.{/i}"
-    "{i}我是蕴含狼人之力的月长石，是战斗中力量的象征。{w}{p}但若想驾驭我真正的力量与荣光，就必须以你的故事作为牺牲的代价。{/i}"
+    "{i}我是蕴含狼人之力的月光石，是战斗中力量的象征。{w}{p}但若想驾驭我真正的力量与荣光，就必须以你的故事作为牺牲的代价。{/i}"
 
 translate schinese_rewrite Whispering_Hollow_Loop_274aba80:
 
@@ -541,7 +541,7 @@ translate schinese_rewrite Whispering_Hollow_Loop_274aba80:
 translate schinese_rewrite Whispering_Hollow_Loop_884f0b56:
 
     # "You snatch the moonstone amulet from its light, and put it in your bag."
-    "你从光芒中一把抓起月长石护符，塞进了包里。"
+    "你从光芒中一把抓起月光石护符，塞进了包里。"
 
 translate schinese_rewrite Whispering_Hollow_Loop_0966c114:
 

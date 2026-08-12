@@ -6,7 +6,7 @@ translate schinese_rewrite Card_Game_Begin_b1c5c160:
 translate schinese_rewrite Card_Game_Begin_86c76b09:
 
     # fokk "Our server 'ere will start the round."
-    fokk "咱们这位庄家会开始这一轮。"
+    fokk "咱们这位服务员来开这一局。"
 
 translate schinese_rewrite Card_Game_Begin_9b7b397f:
 
@@ -521,7 +521,7 @@ translate schinese_rewrite Card_Game_Turn_52f6be7b:
 translate schinese_rewrite Card_Game_Turn_a37f98b2:
 
     # gato "Aint yer a lucky little beginner? I'd have sworn this game's all about luck, no skill involved at all."
-    gato "你这走运的小菜鸟？我还以为这游戏完全靠运气，根本不需要技巧呢。"
+    gato "你这小菜鸟还真走运？我敢发誓，这游戏全靠运气，根本不需要技巧。"
 
 translate schinese_rewrite Card_Game_Turn_7579881d:
 
@@ -586,7 +586,7 @@ translate schinese_rewrite Play_Disk_Game_5a18f1f6:
 translate schinese_rewrite Play_Disk_Game_11b20cac:
 
     # s "HAHah- Is this a demonstration of what not to do? I told you [e] he's really bad at this game."
-    s "哈哈——这是在示范什么不该做吗？我早就告诉过你，[e]他真的很不擅长这个游戏。"
+    s "哈哈——这是在示范反面教材吗？我早就告诉过你了，[e]，他真的很不擅长这个游戏。"
 
 translate schinese_rewrite Play_Disk_Game_d97d3c8f:
 

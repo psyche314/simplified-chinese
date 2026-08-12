@@ -96,7 +96,7 @@ translate schinese_rewrite scene_masturbation_8c6541b9:
 translate schinese_rewrite scene_masturbation_cd07466c:
 
     # "The room has become so hot, and you are sweating profusely."
-    "房间变得燥热难耐，你也大汗淋漓。"
+    "房间变得很热，你也大汗淋漓。"
 
 translate schinese_rewrite scene_masturbation_449a5fd3:
 
@@ -306,7 +306,7 @@ translate schinese_rewrite Scene_Sebas_Under_Counter_24420a3d:
 translate schinese_rewrite Scene_Sebas_Under_Counter_3f1e5336:
 
     # s "Y-yes... I'm fine."
-    s "我、我没事……"
+    s "是、是的……我没事。"
 
 translate schinese_rewrite Scene_Sebas_Under_Counter_2d7be9d0:
 

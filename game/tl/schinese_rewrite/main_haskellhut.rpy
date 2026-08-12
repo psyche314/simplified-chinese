@@ -56,7 +56,7 @@ translate schinese_rewrite Haskell_Ask_Clients_81e15f79:
 translate schinese_rewrite Haskell_Ask_Clients_5234121f:
 
     # h "Who do you want to know, kiddo." nointeract
-    h "你想知道哪个，小家伙。" nointeract
+    h "你想知道谁的事，小家伙？" nointeract
 
 translate schinese_rewrite Haskell_Ask_Gwyddyon_ec80bdf4:
 
@@ -226,7 +226,7 @@ translate schinese_rewrite Haskell_Report_Wuldon_Curse_c1b984df:
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_cccb33b8:
 
     # e "What exactly do you mean by a curse? Does that tell us anything about who could have done this?"
-    e "你说的诅咒究竟是什么意思？这能告诉我们是谁做的吗？"
+    e "你说的诅咒究竟是什么意思？这能告诉我们谁可能做了这件事吗？"
 
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_85c2d03c:
 
@@ -341,7 +341,7 @@ translate schinese_rewrite Haskell_Report_Wuldon_Curse_d6a3d2b5:
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_9cd9c79d:
 
     # e "Just to know, how would a mage, sorcerer, shaman... whatever, cast magic like this?"
-    e "我只是想知道，法师、巫师、萨满……随便什么人，他们究竟要怎么施展这种魔法？"
+    e "我只是想知道，法师、巫师、萨满……不管叫什么，他们究竟要怎么施展这种魔法？"
 
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_e442f45b:
 
@@ -496,7 +496,7 @@ translate schinese_rewrite Haskell_Report_Wuldon_Curse_6fce04e7:
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_cc8c7a88:
 
     # w "If I do such a thing, I fully trust you to kill me where I stand. You have a good track record of killing things you think are monsters."
-    w "如果我真这么做，我完全相信你会当场杀了我。你杀掉那些自认为是怪物的东西，可是颇有一手。"
+    w "如果我真这么做，我完全相信你会当场杀了我。你杀掉那些你认为是怪物的东西，可是颇有一手。"
 
 translate schinese_rewrite Haskell_Report_Wuldon_Curse_e5ef4257:
 
@@ -646,7 +646,7 @@ translate schinese_rewrite Haskell_Buggbear_Wait_3a78ddf8:
 translate schinese_rewrite Haskell_Buggbear_Wait_b99ae8c8:
 
     # h "Well he's not that good at making potions anyways, did you see that clumsy lion try to grind his herbs?"
-    h "不过，他做药水也没那么拿手。你见过那头笨手笨脚的狮子磨药材吗？"
+    h "不过，他做药水也没那么拿手。你见过那头笨手笨脚的狮子试着研磨他的草药吗？"
 
 translate schinese_rewrite Haskell_Buggbear_Wait_82185e7d:
 
@@ -801,7 +801,7 @@ translate schinese_rewrite Haskell_Buggbear_Wait_3f1904b8:
 translate schinese_rewrite Haskell_Buggbear_Wait_d948c694:
 
     # h "A watched pot never boils, your potions will be back in no time."
-    h "你越盯着锅，锅里的东西越不会沸腾；你的药剂很快就好了。"
+    h "你一直盯着锅，它也不会更快沸腾；你的药剂很快就会送回来的。"
 
 translate schinese_rewrite Haskell_Buggbear_Wait_3729b96c:
 
@@ -1026,7 +1026,7 @@ translate schinese_rewrite Haskell_Outfit_03_c614b647:
 translate schinese_rewrite Haskell_Outfit_03_fa58f0be:
 
     # e "Haskell, is it true that you wear nothing under the robe?"
-    e "哈斯克尔，你真的什么都不穿在长袍下面吗？"
+    e "哈斯克尔，你长袍下面真的什么都没穿吗？"
 
 translate schinese_rewrite Haskell_Outfit_03_bca5c9ee:
 
@@ -1081,7 +1081,7 @@ translate schinese_rewrite Haskell_Ask_Lusterfield_e61b03eb:
 translate schinese_rewrite Haskell_Ask_Lusterfield_8fbd58f1:
 
     # h "I only do business with King's Pawn, Seb's little shop."
-    h "我只和君临典当做生意，就是阿塞那家小店。"
+    h "我只和君临典当做生意，就是塞巴斯那家小店。"
 
 translate schinese_rewrite Haskell_Ask_Lusterfield_6e21c086:
 
@@ -1561,7 +1561,7 @@ translate schinese_rewrite Haskell_Ask_Goat_Tribe_38f63c1d:
 translate schinese_rewrite Haskell_Ask_Goat_Tribe_6e73fceb:
 
     # e "Didn't you say they work on the primordial runes? The Spell... energy it gives them?"
-    e "你不是说他们在研究原初符文吗？就是那些符文赋予他们的魔力……？"
+    e "你不是说他们靠原初符文运作吗？就是那些符文赋予他们的法术……能量？"
 
 translate schinese_rewrite Haskell_Ask_Goat_Tribe_508ea55c:
 
@@ -1621,7 +1621,7 @@ translate schinese_rewrite Haskell_Ask_Goat_Tribe_d533d724:
 translate schinese_rewrite Haskell_Ask_Other_Business_8b15fd23:
 
     # e "Haskell, do you have any other business?"
-    e "哈斯克尔，你还有其他生意要谈吗？"
+    e "哈斯克尔，你还有别的生意吗？"
 
 translate schinese_rewrite Haskell_Ask_Other_Business_c23e0151:
 
@@ -1706,7 +1706,7 @@ translate schinese_rewrite Haskell_Ask_Apothecary_12be9f2c:
 translate schinese_rewrite Haskell_Ask_Apothecary_65ed151f:
 
     # h "After the process of oxidation, the leaves would twist and curl. One has to pay utmost attention to its timing and temperature."
-    h "经过氧化后，叶子会变得卷曲。时间和温度都必须格外仔细地掌控。"
+    h "经过氧化后，叶片会扭曲、卷曲。必须格外注意时间和温度。"
 
 translate schinese_rewrite Haskell_Ask_Apothecary_a738f513:
 
@@ -2106,7 +2106,7 @@ translate schinese_rewrite Haskell_Meet_Hut_d811d4a8:
 translate schinese_rewrite Haskell_Meet_Hut_f3d382fd:
 
     # e "30..."
-    e "30瓶……"
+    e "30……"
 
 translate schinese_rewrite Haskell_Meet_Hut_a3d8434a:
 
@@ -2756,7 +2756,7 @@ translate schinese_rewrite Haskell_First_Meet_4dd1e307:
 translate schinese_rewrite Haskell_First_Meet_f002e5c2:
 
     # "Haskell continues sipping his tea, looking around the forest as it is his piece of work."
-    "哈斯克尔继续啜饮着茶，环顾四周的森林，仿佛整片森林都是他的杰作。"
+    "哈斯克尔继续啜饮着茶，环顾四周的森林，仿佛整片森林都是他的作品。"
 
 translate schinese_rewrite Haskell_First_Meet_3934b3e4:
 
@@ -2846,7 +2846,7 @@ translate schinese_rewrite Haskell_First_Meet_4dd1e307_1:
 translate schinese_rewrite Haskell_First_Meet_f002e5c2_1:
 
     # "Haskell continues sipping his tea, looking around the forest as it is his piece of work."
-    "哈斯克尔继续啜饮着茶，环顾四周的森林，仿佛整片森林都是他的杰作。"
+    "哈斯克尔继续啜饮着茶，环顾四周的森林，仿佛整片森林都是他的作品。"
 
 translate schinese_rewrite Haskell_First_Meet_3934b3e4_1:
 
@@ -3271,7 +3271,7 @@ translate schinese_rewrite Haskell_Report_Minotaur_Dungeon_b73b6cb7:
 translate schinese_rewrite Haskell_Report_Minotaur_Dungeon_c47c9319:
 
     # msg "You received 3 Strength Potions, 3 Green Ointments, and 400 gold."
-    msg "你获得了3瓶力量药水、3块绿色药膏和400枚金币。"
+    msg "你获得了3瓶力量药水、3份绿色药膏和400枚金币。"
 
 translate schinese_rewrite Haskell_After_Sick_Quest_1ddad8d8:
 
@@ -3346,7 +3346,7 @@ translate schinese_rewrite Haskell_Trinket_Quest_3bfe9e11:
 translate schinese_rewrite Haskell_Trinket_Quest_5b5c4d36:
 
     # "Haskell takes a long draught of tea."
-    "哈斯克尔喝了一大口茶。"
+    "哈斯克尔长长地啜饮了一口茶。"
 
 translate schinese_rewrite Haskell_Trinket_Quest_93c83689:
 
@@ -3466,7 +3466,7 @@ translate schinese_rewrite Haskell_Trinket_Quest_800155c2:
 translate schinese_rewrite Haskell_Trinket_Quest_06bae697:
 
     # h "What do you mean you don't know."
-    h "你说你不知道是什么意思。"
+    h "你说你不知道是什么意思？"
 
 translate schinese_rewrite Haskell_Trinket_Quest_036a1827:
 
@@ -3876,7 +3876,7 @@ translate schinese_rewrite Haskell_Herb_Fetch_Task_f36ab79c:
 translate schinese_rewrite Haskell_Herb_Fetch_Task_c4f8c602:
 
     # h "And before you ask, yes. Hawthorn is one of my favorites, it has this pleasantly tangy flavor which is a lot more pronounced when you cook it just right."
-    h "在你问之前，先说好了：没错。山楂是我最喜欢的东西之一，酸甜可口，而且只要烹调得当，那股酸味会更加浓郁。"
+    h "在你问之前，先说好了：没错。山楂是我最喜欢的东西之一，带着令人愉悦的酸味，而且只要烹调得当，那股酸味会更加浓郁。"
 
 translate schinese_rewrite Haskell_Herb_Fetch_Task_94ec0c30:
 
@@ -4716,7 +4716,7 @@ translate schinese_rewrite Haskell_Report_Trinket_Quest_b30deb9b:
 translate schinese_rewrite Haskell_Report_Trinket_Quest_76e3e7c2:
 
     # h "I may have given you too powerful a dose."
-    h "我可能给你的剂量太大了。"
+    h "我给你的那一剂药效可能太强了。"
 
 translate schinese_rewrite Haskell_Report_Trinket_Quest_b7fffed5:
 
@@ -4911,7 +4911,7 @@ translate schinese_rewrite Haskell_Report_Trinket_Quest_57d9e346:
 translate schinese_rewrite Haskell_Report_Trinket_Quest_f0331295:
 
     # h "Given proper resources and knowledge, people like you can significantly alter their bodies at will, augmenting the inherent effects of magical items to passively cast magic on themselves and a small area around them."
-    h "在拥有适当资源和知识的情况下，像你这样的人可以随意大幅改变自己的身体，增强魔法物品固有的效应，使其能够被动地对自身及周围一小片区域施放魔法。"
+    h "在拥有适当资源和知识的情况下，像你这样的人可以随意大幅改变自己的身体，增强魔法物品固有的效应，从而让自己能够被动地对自身及周围一小片区域施放魔法。"
 
 translate schinese_rewrite Haskell_Report_Trinket_Quest_31f2693c:
 
@@ -5781,7 +5781,7 @@ translate schinese_rewrite Haskell_Oolong_Quest_Begin_Menu_938a0e71:
 translate schinese_rewrite Haskell_Oolong_Quest_Begin_Menu_9cc66fa4:
 
     # h "One thing... don't try to sniff it, it's been a while since I've last washed this thing, don't want you to get sick on the way."
-    h "有件事……别想着拿它闻，这东西我已经有段时间没洗了，可不想让你在路上生病。"
+    h "有件事……别试着闻它，这东西我已经有段时间没洗了，可不想让你在路上生病。"
 
 translate schinese_rewrite Haskell_Oolong_Quest_Begin_Menu_580c4a6a:
 
@@ -5831,7 +5831,7 @@ translate schinese_rewrite Haskell_Oolong_Quest_Summit_38e6ce43:
 translate schinese_rewrite Haskell_Oolong_Quest_Summit_716fdf96:
 
     # h "And, to get the leaves, you need to trek up to the snowy mountain called Snowbound Summit."
-    h "还有，要拿到那些叶子，你得跋涉前往一座名为雪封山的雪山。"
+    h "还有，要弄到这些叶子，你得跋涉前往一座名为雪封之巅的雪山。"
 
 translate schinese_rewrite Haskell_Oolong_Quest_Summit_3da5715f:
 
@@ -5986,12 +5986,12 @@ translate schinese_rewrite Haskell_Oolong_Quest_Back_cb452059:
 translate schinese_rewrite Haskell_Oolong_Quest_Back_b883a332:
 
     # h "Yeah, any time now... {size=10}when you leave.{/size}"
-    h "是啊，快点吧……{size=10}等你离开。{/size}"
+    h "是啊，随时都可以…… {size=10}等你离开。{/size}"
 
 translate schinese_rewrite Haskell_Oolong_Quest_Back_92555db8:
 
     # e "Okay, okay. I get it. I'll leave you to your tea."
-    e "好好好，我明白了。我把你留给你的茶吧。"
+    e "好好好，我明白了。我就不打扰你喝茶了。"
 
 translate schinese_rewrite Haskell_Oolong_Quest_Back_59d4ddd1:
 
@@ -6051,7 +6051,7 @@ translate schinese_rewrite Haskell_Oolong_Quest_Tea_Tasting_b1b8d5c6:
 translate schinese_rewrite Haskell_Oolong_Quest_Tea_Tasting_182fa5d9:
 
     # h "Just a bit more than forever judging by your giddy face."
-    h "看你那兴奋得意的表情，看来也就比永远少一点。"
+    h "看你这副兴奋的样子，我猜你还得花上比“永远”更久的时间。"
 
 translate schinese_rewrite Haskell_Oolong_Quest_Tea_Tasting_5b93c217:
 
@@ -6166,7 +6166,7 @@ translate schinese_rewrite Haskell_Oolong_Quest_Tea_Tasting_54d257f9:
 translate schinese_rewrite Haskell_Oolong_Quest_Tea_Tasting_9ae1c27b:
 
     # "You ask, curiously observing how the water turns orange, and aromas begin wafting around the hut."
-    "你一边好奇地观察着水如何变成橙色，问道。香气也开始在小屋里飘散开来。"
+    "你一边好奇地观察着茶水逐渐变成橙色，一边问道；小屋里也开始飘散出阵阵香气。"
 
 translate schinese_rewrite Haskell_Oolong_Quest_Tea_Tasting_72eb7eff:
 
@@ -6991,7 +6991,7 @@ translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_839d02fa:
 translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_62e700fb:
 
     # "His other hand reaches out to tuck a loose strand of your fur behind your perked ear. The scent of sandalwood and dried oolong fills the hush between you."
-    "他伸出另一只手，将你耳朵后面散落的一缕毛发拢好。檀香与干乌龙茶的气息，弥漫在你们之间的寂静中。"
+    "他的另一只手伸过来，把你的一缕散毛掖到竖起的耳朵后面。檀香与干乌龙茶的气息，弥漫在你们之间的寂静中。"
 
 translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_5ddf475c:
 
@@ -7006,7 +7006,7 @@ translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_58ad8a08:
 translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_56301786:
 
     # "His lips press against yours, soft yet firm. He tastes like Oolong tea and fresh herbs and dragon scales and... everything else in this hut."
-    "他的嘴唇贴上你的唇，柔软却坚定。他身上带着乌龙茶、鲜草药、龙鳞，还有……这间小屋里的一切气息。"
+    "他的嘴唇贴上你的唇，柔软却坚定。他尝起来像乌龙茶、鲜草药、龙鳞，还有……这间小屋里的一切。"
 
 translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_58c79f32:
 
@@ -7046,7 +7046,7 @@ translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_7630828a:
 translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_a6b4a9e3:
 
     # h "I think you might just be my favorite drinking partner yet."
-    h "我想，你大概已经是我最喜欢的酒友了。"
+    h "我想，你大概是我至今最喜欢的品茶搭档了。"
 
 translate schinese_rewrite Haskell_Oolong_Tasting_Kiss_877bcd37:
 

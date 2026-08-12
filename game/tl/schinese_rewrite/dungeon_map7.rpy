@@ -1,7 +1,7 @@
 translate schinese_rewrite Bandits_Hideout_Loop_b283d17d:
 
     # "You step on the wire right on the floor, making a loud chime sound from the device."
-    "装置顿时发出响亮的钟声。"
+    "你踩到了地板上的绊线，装置顿时发出响亮的钟声。"
 
 translate schinese_rewrite Bandits_Hideout_Loop_c1c10e9b:
 

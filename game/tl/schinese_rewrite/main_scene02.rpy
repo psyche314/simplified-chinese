@@ -156,7 +156,7 @@ translate schinese_rewrite scene_lothargrope_679343ab:
 translate schinese_rewrite scene_lothargrope_baef52ef:
 
     # e "Oh I don't know...your bulge says otherwise~"
-    e "哦，我可不知道……你胯下那一大坨可不是这么说的~"
+    e "哦，我可不知道……你胯下的隆起可不是这么说的~"
 
 translate schinese_rewrite scene_lothargrope_89f66356:
 
@@ -476,7 +476,7 @@ translate schinese_rewrite scene_mimiclose_c01728b5:
 translate schinese_rewrite scene_mimiclose_85d5dec7:
 
     # "SPPPPPPPLASSHHHH"
-    "噗——哗啦——"
+    "哗啦——"
 
 translate schinese_rewrite scene_mimiclose_424ecaca:
 
@@ -731,7 +731,7 @@ translate schinese_rewrite scene_minowin_b0cf1eba:
 translate schinese_rewrite scene_minowin_5752d91f:
 
     # "The Minotaur's sensitivity surprises you. You place both of your paws around the rod to get a sense of its size."
-    "弥诺陶洛斯的敏感程度令你吃惊。你用两只手环住那根肉棒，想感受一下它的尺寸。"
+    "弥诺陶洛斯的敏感程度令你吃惊。你用两只爪子环住那根肉棒，想感受一下它的尺寸。"
 
 translate schinese_rewrite scene_minowin_f6a10da0:
 
@@ -1291,7 +1291,7 @@ translate schinese_rewrite scene_minolose_b5f4b153:
 translate schinese_rewrite scene_minolose_9b15e7fd:
 
     # "The Minotaur doesn't care about your discomfort. It is only merely using you as a tool to release its tension."
-    "弥诺陶洛斯根本不在乎你的不适，它只是把你当作释放欲望的工具。"
+    "弥诺陶洛斯根本不在乎你的不适，它只是把你当作释放压力的工具。"
 
 translate schinese_rewrite scene_minolose_9e1d6e79:
 
@@ -1391,7 +1391,7 @@ translate schinese_rewrite scene_minolose_f3afa3c9:
 translate schinese_rewrite scene_minolose_0c228c8d:
 
     # "The wall of your hole is stretched so much by the Minotaur's cock that it feels like your hole's shape has changed to fit the beast's rod."
-    "弥诺陶洛斯的肉棒把你的后穴撑得如此彻底，仿佛穴口的形状都已经改变，只为契合这头野兽的巨物。"
+    "弥诺陶洛斯的肉棒把你的后穴撑得如此彻底，仿佛后穴的形状都已经改变，只为契合它的肉棒。"
 
 translate schinese_rewrite scene_minolose_0706290c:
 
@@ -2031,7 +2031,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_491d1266:
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_d16d9384:
 
     # "As Cane's liquid continues to drip out of Seb's vulnerable hole, Cane hugs Seb close."
-    "凯恩的液体仍在从塞巴斯脆弱的穴里滴出，而凯恩则将他紧紧搂住。"
+    "凯恩的液体仍在从塞布脆弱的穴里滴出，而凯恩则将他紧紧搂住。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_bb147946:
 

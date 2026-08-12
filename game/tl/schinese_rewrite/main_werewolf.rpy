@@ -206,7 +206,7 @@ translate schinese_rewrite Wuldon_First_Meet_8ff9ff85:
 translate schinese_rewrite Wuldon_First_Meet_7abe6eb2:
 
     # e "And he told me to go kill this feral werewolf for him if I wanted to get any information."
-    e "他说，如果我想得到任何情报，就得替他去杀掉那只野蛮的狼人。"
+    e "他说，如果我想得到任何情报，就得替他去杀掉那只狂化狼人。"
 
 translate schinese_rewrite Wuldon_First_Meet_50c5ed63:
 
@@ -226,7 +226,7 @@ translate schinese_rewrite Wuldon_First_Meet_d56a71f7:
 translate schinese_rewrite Wuldon_First_Meet_a3aef918:
 
     # w "Well, I suppose I should tell you the story of the feral werewolf and its curse before you get there."
-    w "嗯，在你抵达那里之前，我想我应该先告诉你那只野蛮狼人与它所受诅咒的故事。"
+    w "嗯，在你抵达那里之前，我想我应该先告诉你那头狂化狼人和它所受诅咒的故事。"
 
 translate schinese_rewrite Wuldon_First_Meet_77465b36:
 
@@ -556,7 +556,7 @@ translate schinese_rewrite Wuldon_First_Meet_cca2e7e3:
 translate schinese_rewrite Wuldon_First_Meet_1757695f:
 
     # w "Invariably, they were pulled back in by the feral werewolf."
-    w "可他们无一例外都被那头野化的狼人拖了回去。"
+    w "可他们无一例外都被那头狂化狼人拖了回去。"
 
 translate schinese_rewrite Wuldon_First_Meet_a20cefa7:
 
@@ -636,7 +636,7 @@ translate schinese_rewrite Wuldon_First_Meet_b8d96285:
 translate schinese_rewrite Wuldon_First_Meet_1ee7559d:
 
     # w "Well, I suppose the best way to explain is to tell you the story of the feral werewolf and his curse."
-    w "嗯，我想，最好的解释方式，就是告诉你那头野化狼人与他的诅咒的故事。"
+    w "嗯，我想，最好的解释方式，就是告诉你那头狂化狼人和他的诅咒的故事。"
 
 translate schinese_rewrite Wuldon_First_Meet_1c09bd1d:
 
@@ -946,7 +946,7 @@ translate schinese_rewrite Wuldon_First_Meet_e085a7cb_1:
 translate schinese_rewrite Wuldon_First_Meet_921f1ebe:
 
     # e "Having fought him, I can't imagine the feral werewolf could kill that many of you."
-    e "和他交手过之后，我无法想象那头野蛮的狼人竟能杀掉你们那么多人。"
+    e "和他交手过之后，我无法想象那头狂化狼人竟能杀掉你们那么多人。"
 
 translate schinese_rewrite Wuldon_First_Meet_b618a9a2:
 
@@ -976,7 +976,7 @@ translate schinese_rewrite Wuldon_First_Meet_cca2e7e3_1:
 translate schinese_rewrite Wuldon_First_Meet_1757695f_1:
 
     # w "Invariably, they were pulled back in by the feral werewolf."
-    w "他们无一例外都被那头野蛮的狼人拖了回去。"
+    w "他们无一例外都被那头狂化狼人拖了回去。"
 
 translate schinese_rewrite Wuldon_First_Meet_a20cefa7_1:
 
@@ -1416,7 +1416,7 @@ translate schinese_rewrite Wuldon_First_Meet_e085a7cb_2:
 translate schinese_rewrite Wuldon_First_Meet_921f1ebe_1:
 
     # e "Having fought him, I can't imagine the feral werewolf could kill that many of you."
-    e "和他交过手后，我无法想象那头野性大发的狼人能杀掉你们那么多人。"
+    e "和他交过手后，我无法想象那头狂化狼人能杀掉你们那么多人。"
 
 translate schinese_rewrite Wuldon_First_Meet_b618a9a2_1:
 
@@ -1446,7 +1446,7 @@ translate schinese_rewrite Wuldon_First_Meet_cca2e7e3_2:
 translate schinese_rewrite Wuldon_First_Meet_1757695f_2:
 
     # w "Invariably, they were pulled back in by the feral werewolf."
-    w "他们无一例外都被那头野性大发的狼人拖了回去。"
+    w "他们无一例外都被那头狂化狼人拖了回去。"
 
 translate schinese_rewrite Wuldon_First_Meet_a20cefa7_2:
 
@@ -1496,7 +1496,7 @@ translate schinese_rewrite Wuldon_First_Meet_4b5f10bc:
 translate schinese_rewrite Wuldon_First_Meet_7aa4d5dc:
 
     # w "Yes. He is the feral werewolf you have been sent to kill."
-    w "没错。他就是你奉命来杀的那头野性狼人。"
+    w "没错。他就是你奉命来杀的那头狂化狼人。"
 
 translate schinese_rewrite Wuldon_First_Meet_c749a4c3:
 
@@ -1636,7 +1636,7 @@ translate schinese_rewrite Wuldon_First_Meet_4b5f10bc_1:
 translate schinese_rewrite Wuldon_First_Meet_35540968:
 
     # w "Yes. He is the feral werewolf you were sent to kill."
-    w "是的。他就是你被派去杀死的那头狂暴狼人。"
+    w "是的。他就是你被派去杀死的那头狂化狼人。"
 
 translate schinese_rewrite Wuldon_First_Meet_c749a4c3_1:
 
@@ -1816,7 +1816,7 @@ translate schinese_rewrite Wuldon_First_Meet_4b5f10bc_2:
 translate schinese_rewrite Wuldon_First_Meet_35540968_1:
 
     # w "Yes. He is the feral werewolf you were sent to kill."
-    w "没错。他就是派你去杀的那个凶暴狼人。"
+    w "没错。他就是派你去杀的那个狂化狼人。"
 
 translate schinese_rewrite Wuldon_First_Meet_c749a4c3_2:
 
@@ -10401,7 +10401,7 @@ translate schinese_rewrite Wuldon_After_Cavern_Talk_ef6edd12:
 translate schinese_rewrite Wuldon_After_Cavern_Talk_57d4d5e1:
 
     # "Looking in, you see the slumbering form of the feral werewolf."
-    "往里一看，你看到了那头野性狼人的沉睡身影。"
+    "往里一看，你看到了那头狂化狼人的沉睡身影。"
 
 translate schinese_rewrite Wuldon_After_Cavern_Talk_a20cefa7:
 
@@ -10531,7 +10531,7 @@ translate schinese_rewrite Wuldon_Cavern_Return_Early_2548f85a:
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_dfbf44ac:
 
     # "The Feral Werewolf finally falls unconscious."
-    "野性狼人终于昏迷过去。"
+    "狂化狼人终于昏迷过去。"
 
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_3d352c7c:
 
@@ -10676,7 +10676,7 @@ translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_c3451227:
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_6a0b8b90:
 
     # "You widen the cave this way until it looks big enough to fit the feral werewolf's frame, before grabbing his arms and dragging him through the hole arms-first."
-    "你这样把洞口拓宽，直到看起来足够容纳那头狂野狼人的身躯，然后抓住他的双臂，将他双臂朝前拖过洞口。"
+    "你这样把洞口拓宽，直到看起来足够容纳那头狂化狼人的身躯，然后抓住他的双臂，将他双臂朝前拖过洞口。"
 
 translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_369a357b:
 
@@ -11336,7 +11336,7 @@ translate schinese_rewrite Vurro_Battle_Win_With_Wuldon_310a8d0e:
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_dfbf44ac:
 
     # "The Feral Werewolf finally falls unconscious."
-    "那头狂野的狼人终于昏了过去。"
+    "那头狂化狼人终于昏了过去。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_3d352c7c:
 
@@ -11436,7 +11436,7 @@ translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_b2398cd9:
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_6002ebf3:
 
     # "Horrified, you drop the feral werewolf, and look for something, anything to save you."
-    "你惊恐地把这头野性狼人丢下，四处寻找任何能救你一命的东西。"
+    "你惊恐地把这头狂化狼人丢下，四处寻找任何能救你一命的东西。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_51d60894:
 
@@ -11476,7 +11476,7 @@ translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_c3451227:
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_6a0b8b90:
 
     # "You widen the cave this way until it looks big enough to fit the feral werewolf's frame, before grabbing his arms and dragging him through the hole arms-first."
-    "你就这样不断拓宽洞口，直到它看起来足够容下这头野性狼人的身躯，然后抓住他的双臂，先拽着手臂将他拖过洞口。"
+    "你就这样不断拓宽洞口，直到它看起来足够容下这头狂化狼人的身躯，然后抓住他的双臂，先拽着手臂将他拖过洞口。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_369a357b:
 
@@ -11511,7 +11511,7 @@ translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_4bb7b986:
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_c90a205b:
 
     # "The already brown feral werewolf at your side is now several shades lighter, and firmly unconscious."
-    "你身旁原本就呈棕色的野性狼人，如今颜色浅了好几个色阶，并且彻底失去了意识。"
+    "你身旁原本就呈棕色的狂化狼人，如今颜色浅了好几个色阶，并且彻底失去了意识。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_ed9371b8:
 
@@ -11556,7 +11556,7 @@ translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_e54ec8a2:
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_f5b99eed:
 
     # "Looking to your side, you see the still unconscious form of the feral werewolf."
-    "你看向身旁，只见那头野性十足的狼人仍未苏醒。"
+    "你看向身旁，只见那头狂化狼人仍未苏醒。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_aadcc1d6:
 
@@ -11756,7 +11756,7 @@ translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_ae5412ad:
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_26ca375e:
 
     # "The feral werewolf's death was what you were asked for, and... however unintentionally, it's what you brought about."
-    "那头野性狼人的死亡正是别人要求你做到的，而……无论多么无心，这确实是你造成的。"
+    "那头狂化狼人的死亡正是别人要求你做到的，而……无论多么无心，这确实是你造成的。"
 
 translate schinese_rewrite Vurro_Battle_Win_Without_Wuldon_d03109e2:
 

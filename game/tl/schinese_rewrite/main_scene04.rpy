@@ -5111,7 +5111,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_c4c490eb:
 translate schinese_rewrite Scene_Spritebinder_Lose_c33c6d45:
 
     # "You are cornered by the spritebinder, your back scrapes against the tree."
-    "你被八臂鬼逼到树边，后背擦过树干。"
+    "你被精灵缚者逼到树边，后背擦过树干。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_1a7080ab:
 
@@ -5181,7 +5181,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_f89f02ee:
 translate schinese_rewrite Scene_Spritebinder_Lose_381f04db:
 
     # "The spritebinder's eyes widen curiously, running his fingers down your thighs and around to your ass, feeling your rear with its firm, warm grip."
-    "八臂鬼饶有兴致地睁大眼睛，手指顺着你的大腿滑向屁股，绕到后面，用温暖而有力的手掌牢牢握住你的臀部。"
+    "精灵缚者饶有兴致地睁大眼睛，手指顺着你的大腿滑向屁股，绕到后面，用温暖而有力的手掌牢牢握住你的臀部。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_b9b9a17c:
 
@@ -5206,7 +5206,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_97809891:
 translate schinese_rewrite Scene_Spritebinder_Lose_81178e7c:
 
     # e "I... I should've listened to allfather..."
-    e "唉……早知道就该听大长老的话……"
+    e "唉……早知道就该听天父的话……"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_8b96f285:
 
@@ -5236,7 +5236,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_ada0923b:
 translate schinese_rewrite Scene_Spritebinder_Lose_2955d5b0:
 
     # "The Spritebinder blinks, pulling aside the fabric of your loincloth, your erection springing free, throbbing with desire and oozing precum."
-    "八臂鬼眨了眨眼，扯开你兜裆布的布料；你的勃起猛地弹了出来，在欲望中颤动着，渗出前液。"
+    "精灵缚者眨了眨眼，扯开你兜裆布的布料；你的勃起猛地弹了出来，在欲望中颤动着，渗出前液。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_95eb9e59:
 
@@ -5311,7 +5311,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_e05e4fc1:
 translate schinese_rewrite Scene_Spritebinder_Lose_4ebf1f5d:
 
     # "You groan as the spritebinder pushes his thumb inside of you, the digit penetrating you with ease."
-    "你呻吟起来，八臂鬼将拇指推入你的体内，那根手指毫不费力地贯穿了你。"
+    "你呻吟起来，精灵缚者将拇指推入你的体内，那根手指毫不费力地贯穿了你。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7011e0c4:
 
@@ -5326,12 +5326,12 @@ translate schinese_rewrite Scene_Spritebinder_Lose_71bb1b1c:
 translate schinese_rewrite Scene_Spritebinder_Lose_858eb427:
 
     # "The warmth and the firmness of the spirit's fingers, the way they move and the way they tease you, it's nothing you've felt before."
-    "精灵束缚者手指的温度与力度、它们移动和挑逗你的方式，都是你从未体验过的感觉。"
+    "精灵缚者手指的温度与力度、它们移动和挑逗你的方式，都是你从未体验过的感觉。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_e43f253b:
 
     # "You groan as the spritebinder works his fingers inside of you, pushing deeper and deeper into your ass, until he reaches the prostate, the gland sending a surge of pleasure through your body."
-    "你呻吟着，精灵束缚者的手指在你体内动作，越插越深，直到触及前列腺；那腺体顿时将一阵快感传遍你的身体。"
+    "你呻吟着，精灵缚者的手指在你体内动作，越插越深，直到触及前列腺；那腺体顿时将一阵快感传遍你的身体。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_d3b007ae:
 
@@ -5351,7 +5351,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_b4c2beec:
 translate schinese_rewrite Scene_Spritebinder_Lose_edbf717b:
 
     # "Your whole body is trembling, and you know the spritebinder has you right where he wants you."
-    "你浑身上下都在颤抖，也明白精灵束缚者已经把你掌控在了手心。"
+    "你浑身上下都在颤抖，也明白精灵缚者已经把你掌控在了手心。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_c982de41:
 
@@ -5386,7 +5386,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_5ee3cd84:
 translate schinese_rewrite Scene_Spritebinder_Lose_450ae3dd:
 
     # "At some point, your eyes roll up in pleasure, and your hips jerk and twitch as your cock erupts in the spritebinder's hands."
-    "不知过了多久，你因快感而翻起双眼，胯部猛地抽动、颤抖起来，肉棒在精灵束缚者的双手中喷发。"
+    "不知过了多久，你因快感而翻起双眼，胯部猛地抽动、颤抖起来，肉棒在精灵缚者的双手中喷发。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7fb55784:
 
@@ -5396,12 +5396,12 @@ translate schinese_rewrite Scene_Spritebinder_Lose_7fb55784:
 translate schinese_rewrite Scene_Spritebinder_Lose_9f166aa5:
 
     # "The pleasure is intense, and your legs give out beneath you, the only thing holding you up is the spritebinder's ghostly hands."
-    "快感强烈得让你的双腿失去力气，若不是精灵束缚者的幽灵手掌撑住你，你早已瘫倒在地。"
+    "快感强烈得让你的双腿失去力气，若不是精灵缚者的幽灵手掌撑住你，你早已瘫倒在地。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_62f5a2e5:
 
     # "The spritebinder milks every last drop of cum from your cock, stroking and pumping you until you are spent, he stares at the fluid curiously."
-    "精灵束缚者继续抚弄抽动你的肉棒，榨出最后一滴精液，直到你彻底虚脱；它好奇地盯着那些液体。"
+    "精灵缚者继续抚弄抽动你的肉棒，榨出最后一滴精液，直到你彻底虚脱；它好奇地盯着那些液体。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_1e48edf4:
 
@@ -5416,7 +5416,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_8e6ebbdd:
 translate schinese_rewrite Scene_Spritebinder_Lose_feaf660d:
 
     # "You can't speak, can't even look at the spritebinder, and you are left panting on the ground."
-    "你说不出话，甚至不敢看精灵束缚者，只能留在地上大口喘息。"
+    "你说不出话，甚至不敢看精灵缚者，只能留在地上大口喘息。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_f4aa00c5:
 

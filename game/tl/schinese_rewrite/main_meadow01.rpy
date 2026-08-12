@@ -1816,7 +1816,7 @@ translate schinese_rewrite Pirkka_Show_541a7266:
 translate schinese_rewrite Pirkka_Show_57929ecc:
 
     # "In an instant, you reach out to kiss Pirkka, it almost feel like an instinct, your lips just attracted to each other like magnets."
-    "刹那间，你伸手吻向皮尔卡，几乎像是出于本能；你们的嘴唇如磁石般彼此吸引。"
+    "刹那间，你几乎出于本能地凑上前去吻皮尔卡；你们的嘴唇仿佛磁石般彼此吸引。"
 
 translate schinese_rewrite Pirkka_Show_41f7c6b1:
 
@@ -2061,7 +2061,7 @@ translate schinese_rewrite Pirkka_Show_724c8899:
 translate schinese_rewrite Pirkka_Show_60b03c03:
 
     # p "{i}A weird stone, nonetheless. {p}He traces to the chief of buck a stream across.{/i}"
-    p "{i}尽管那是一块古怪的石头。{p}他循迹追向雄鹿首领，横跨过一条溪流。{/i}"
+    p "{i}不过，那是一块古怪的石头。{p}他循着踪迹，跨过溪流追向雄鹿首领。{/i}"
 
 translate schinese_rewrite Pirkka_Show_b751642d:
 
@@ -5921,7 +5921,7 @@ translate schinese_rewrite Ribba_Prop_Quest_Choosing_Devices_20b37710:
 translate schinese_rewrite Ribba_Prop_Quest_Choosing_Devices_6ee32f27:
 
     # rb "Well, not any part, I can't teleport your insides out. No, ha-... just kidding."
-    rb "呃，也不是任何部位，我可没法把你的内脏传送出来。不，哈——……开玩笑的。"
+    rb "呃，也不是任何部位，我可没法把你的内脏传送出来。哈……开玩笑的。"
 
 translate schinese_rewrite Ribba_Prop_Quest_Choosing_Devices_31343dc2:
 

@@ -456,7 +456,7 @@ translate schinese_rewrite Moonlit_Wolf_Den_Loop_40037e54:
 translate schinese_rewrite Moonlit_Wolf_Den_Loop_34fc010b:
 
     # e "Can you let me know what's the use of that moonstone amulet?"
-    e "你能告诉我那个月石护符有什么用吗？"
+    e "你能告诉我那个月光石护符有什么用吗？"
 
 translate schinese_rewrite Moonlit_Wolf_Den_Loop_b0b5ce3c:
 

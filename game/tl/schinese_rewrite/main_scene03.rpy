@@ -121,7 +121,7 @@ translate schinese_rewrite scene_feral_lose_f24cefe4:
 translate schinese_rewrite scene_feral_lose_84fd6437:
 
     # "In response, the feral's grasp on your legs tighten."
-    "作为回应，狂野狼人的手臂将你的双腿抓得更紧。"
+    "作为回应，狂化狼人的手臂将你的双腿抓得更紧。"
 
 translate schinese_rewrite scene_feral_lose_9738874e:
 
@@ -131,7 +131,7 @@ translate schinese_rewrite scene_feral_lose_9738874e:
 translate schinese_rewrite scene_feral_lose_1d8bdbd1:
 
     # "The feral makes sure not to crush your windpipe but apply enough pressure to make you understand that your discomfort does not feature in this matter."
-    "狂野狼人小心不捏碎你的气管，却施加了足够的压力，让你明白自己的不适根本不在他的考虑之内。"
+    "狂化狼人小心不捏碎你的气管，却施加了足够的压力，让你明白自己的不适根本不在他的考虑之内。"
 
 translate schinese_rewrite scene_feral_lose_101b4a4e:
 
@@ -141,12 +141,12 @@ translate schinese_rewrite scene_feral_lose_101b4a4e:
 translate schinese_rewrite scene_feral_lose_6584fd14:
 
     # "You are powerless as the feral assaults you with his penis."
-    "你无力反抗，只能任由狂野狼人用阴茎侵犯你。"
+    "你无力反抗，只能任由狂化狼人用阴茎侵犯你。"
 
 translate schinese_rewrite scene_feral_lose_1ba7aecd:
 
     # "The feral manages to get the crown of his dick into your hole but that is where his advance stops."
-    "狂野狼人设法将他的龟头挤进你的后穴，但他的推进也就到此为止。"
+    "狂化狼人设法将他的龟头挤进你的后穴，但他的推进也就到此为止。"
 
 translate schinese_rewrite scene_feral_lose_ea4e8779:
 
@@ -166,7 +166,7 @@ translate schinese_rewrite scene_feral_lose_a27fe584:
 translate schinese_rewrite scene_feral_lose_4610794b:
 
     # "Clearly the feral is not yet satisfied."
-    "显然，狂野狼人还没有满足。"
+    "显然，狂化狼人还没有满足。"
 
 translate schinese_rewrite scene_feral_lose_237ceab0:
 
@@ -176,7 +176,7 @@ translate schinese_rewrite scene_feral_lose_237ceab0:
 translate schinese_rewrite scene_feral_lose_9c8915dd:
 
     # "The feral's hold squeezes harder."
-    "狂野狼人的钳制收得更紧了。"
+    "狂化狼人的钳制收得更紧了。"
 
 translate schinese_rewrite scene_feral_lose_d90f8412:
 
@@ -196,7 +196,7 @@ translate schinese_rewrite scene_feral_lose_09970532:
 translate schinese_rewrite scene_feral_lose_f46576e9:
 
     # "Just as you think the feral is going to strange you to death, the hold on your throat opens."
-    "就在你以为狂野狼人要把你掐死时，他松开了掐住你喉咙的手。"
+    "就在你以为狂化狼人要把你掐死时，他松开了掐住你喉咙的手。"
 
 translate schinese_rewrite scene_feral_lose_d8815a92:
 
@@ -221,12 +221,12 @@ translate schinese_rewrite scene_feral_lose_a8d2cfd0:
 translate schinese_rewrite scene_feral_lose_590c6fcb:
 
     # "Utilizing your moment of release, the feral pumps his cock deep into your hole."
-    "趁你获得片刻解脱，狂野狼人将肉棒狠狠顶入你的后穴深处。"
+    "趁你获得片刻解脱，狂化狼人将肉棒狠狠顶入你的后穴深处。"
 
 translate schinese_rewrite scene_feral_lose_64071045:
 
     # "Your hole opens up to welcome the feral's shaft. Your buzzing brain can barely process so many stimuli at the same time."
-    "你的后穴张开，迎接狂野狼人的肉棒。嗡嗡作响的脑袋几乎无法同时处理如此多的刺激。"
+    "你的后穴张开，迎接狂化狼人的肉棒。嗡嗡作响的脑袋几乎无法同时处理如此多的刺激。"
 
 translate schinese_rewrite scene_feral_lose_4f2be524:
 
@@ -356,7 +356,7 @@ translate schinese_rewrite scene_feral_lose_64669057:
 translate schinese_rewrite scene_feral_lose_4aef292c:
 
     # "The feral picks up his pace."
-    "狂野狼人加快了速度。"
+    "狂化狼人加快了速度。"
 
 translate schinese_rewrite scene_feral_lose_1e475ac9:
 
@@ -381,7 +381,7 @@ translate schinese_rewrite scene_feral_lose_ac18bb19:
 translate schinese_rewrite scene_feral_lose_c2e488b7:
 
     # "In a moment of clarity, you feel the feral's boner throbbing inside your hole."
-    "清醒片刻间，你感到狂野狼人的肉棒在你的后穴中搏动。"
+    "清醒片刻间，你感到狂化狼人的肉棒在你的后穴中搏动。"
 
 translate schinese_rewrite scene_feral_lose_16e6ce2a:
 
@@ -401,7 +401,7 @@ translate schinese_rewrite scene_feral_lose_024aeb02:
 translate schinese_rewrite scene_feral_lose_c6bd0665:
 
     # "The feral's hold on your throat tightens as he approaches climax."
-    "狂野狼人接近高潮时，掐住你喉咙的手越收越紧。"
+    "狂化狼人接近高潮时，掐住你喉咙的手越收越紧。"
 
 translate schinese_rewrite scene_feral_lose_537bdcc2:
 
@@ -431,7 +431,7 @@ translate schinese_rewrite scene_feral_lose_19f7de2b:
 translate schinese_rewrite scene_feral_lose_9837f4ad:
 
     # "You feel the feral's penis growing big inside your hole as it prepares for ejaculation."
-    "你感到狂野狼人的肉棒在你的后穴里不断胀大，准备射精。"
+    "你感到狂化狼人的肉棒在你的后穴里不断胀大，准备射精。"
 
 translate schinese_rewrite scene_feral_lose_d394e204:
 
@@ -451,17 +451,17 @@ translate schinese_rewrite scene_feral_lose_d096f3f5:
 translate schinese_rewrite scene_feral_lose_8a3ab3fa:
 
     # "The feral clutches at your legs, his legs quakes in ecstasy."
-    "狂野狼人紧紧抓住你的双腿，他的双腿因狂喜而颤抖。"
+    "狂化狼人紧紧抓住你的双腿，他的双腿因狂喜而颤抖。"
 
 translate schinese_rewrite scene_feral_lose_873a5460:
 
     # "There's nothing more in your brain now, other than knowing the feral's cock has ejaculated inside of you."
-    "此刻你的脑海中一片空白，只知道狂野狼人的肉棒已经在你体内射精。"
+    "此刻你的脑海中一片空白，只知道狂化狼人的肉棒已经在你体内射精。"
 
 translate schinese_rewrite scene_feral_lose_d694f148:
 
     # "Your womb is almost fully filled with the feral's seeds."
-    "你的子宫几乎被狂野狼人的精液填满。"
+    "你的子宫几乎被狂化狼人的精液填满。"
 
 translate schinese_rewrite scene_feral_lose_322bc5e8:
 

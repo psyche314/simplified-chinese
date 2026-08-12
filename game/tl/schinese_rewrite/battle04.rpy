@@ -146,7 +146,7 @@ translate schinese_rewrite werewolf_win_0c7e0760:
 translate schinese_rewrite werewolf_win_d13a5aec:
 
     # "You also found a pair of trousers... from a Hunter."
-    "你还找到了一条……猎人的裤子。"
+    "你还找到了一条猎人长裤……"
 
 translate schinese_rewrite werewolf_win_d31bae78:
 
@@ -266,12 +266,12 @@ translate schinese_rewrite scarecrow_battle_loop_92fd1b69:
 translate schinese_rewrite scarecrow_battle_loop_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
-    "它的生命值减少了[oa[4]]点HP。"
+    "它的生命值减少了[oa[4]]点。"
 
 translate schinese_rewrite scarecrow_battle_loop_8a05b807:
 
     # "You've critically hit the scarecrow, dealing [oa[4]] HP!"
-    "你对稻草人造成了暴击，造成[oa[4]]点HP伤害！"
+    "你对稻草人造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite scarecrow_battle_loop_cbfee0de:
 
@@ -481,12 +481,12 @@ translate schinese_rewrite landshark_battle_loop_23f52874:
 translate schinese_rewrite landshark_battle_loop_24bcc736:
 
     # "His health decreases by [oa[4]] HP."
-    "它的生命值减少了[oa[4]]点HP。"
+    "它的生命值减少了[oa[4]]点。"
 
 translate schinese_rewrite landshark_battle_loop_5cb0b35b:
 
     # "You've critically hit the landshark, dealing [oa[4]] HP!"
-    "你对陆鲨造成了暴击，打掉了[oa[4]]点HP！"
+    "你对陆鲨造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite landshark_battle_loop_d0d78559:
 
@@ -526,17 +526,17 @@ translate schinese_rewrite landshark_battle_loop_d2b8f301:
 translate schinese_rewrite landshark_battle_loop_d5598c9f:
 
     # "The landshark jumps up from below and strikes on your body, he draining [enemy_damage] HP from you."
-    "陆鲨从下方跃出，撞击你的身体，从你身上吸走了[enemy_damage]点HP。"
+    "陆鲨从下方跃出，撞击你的身体，从你身上吸取了[enemy_damage]点生命值。"
 
 translate schinese_rewrite landshark_battle_loop_71f9875c:
 
     # "The landshark swings his left fin towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "陆鲨挥动左鳍朝你打来，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点HP。"
+    "陆鲨挥动左鳍朝你打来，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite landshark_battle_loop_7e90b3f2:
 
     # "The landshark dives at you, hitting you with a strong bite. Your health decreases by [enemy_damage] HP."
-    "陆鲨俯冲向你，狠狠咬了一口。你的生命值减少了[enemy_damage]点HP。"
+    "陆鲨俯冲向你，狠狠咬了一口。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite landshark_battle_loop_d0e806bc:
 
@@ -576,7 +576,7 @@ translate schinese_rewrite landshark_win_b34e8987:
 translate schinese_rewrite landshark_win_de023e00:
 
     # "You pick up a longsword from the where the landshark lands, it seems almost brand new."
-    "你从陆鲨落下的地方捡起一把长剑，看起来几乎是全新的。"
+    "你从陆鲨落下的地方捡起一把骑士长剑，看起来几乎是全新的。"
 
 translate schinese_rewrite landshark_win_025b0b55:
 
@@ -681,7 +681,7 @@ translate schinese_rewrite ratbandit_battle_loop_04ec1408:
 translate schinese_rewrite ratbandit_battle_loop_5fc11c2d:
 
     # "You punch into the rat's stomach, grabbing him and slam him on the ground hard."
-    "你一拳打进鼠人的肚子，抓住他，狠狠将他砸在地上。"
+    "你一拳打进鼠盗匪的肚子，抓住他，狠狠将他砸在地上。"
 
 translate schinese_rewrite ratbandit_battle_loop_24bcc736:
 
@@ -691,7 +691,7 @@ translate schinese_rewrite ratbandit_battle_loop_24bcc736:
 translate schinese_rewrite ratbandit_battle_loop_17a649f0:
 
     # "You've critically hit the bandit, dealing [oa[4]] HP!"
-    "你对鼠人造成了暴击，造成[oa[4]]点伤害！"
+    "你对鼠盗匪造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite ratbandit_battle_loop_f58127ce:
 
@@ -741,17 +741,17 @@ translate schinese_rewrite ratbandit_battle_loop_26bf6beb:
 translate schinese_rewrite ratbandit_battle_loop_418a221b:
 
     # "Within a few seconds you can already see some movements under the rat's loincloth. He doesn't say anything, except for licking his lips. His lust is increased by [player_flirt]."
-    "几秒钟内，你就能看到鼠人兜裆布下有东西在动。他什么也没说，只是舔了舔嘴唇。他的性欲增加了[player_flirt]点。"
+    "几秒钟内，你就能看到鼠盗匪兜裆布下有东西在动。他什么也没说，只是舔了舔嘴唇。他的性欲增加了[player_flirt]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_a8f3880c:
 
     # rbd "...I-if you do this one more time I'm going to grab that huge ass and never let you go..."
-    rbd "……要是你再来一次，我就要抓住你那硕大的屁股，再也不放手了……"
+    rbd "……要、要是你再来一次，我就要抓住你那硕大的屁股，再也不放手了……"
 
 translate schinese_rewrite ratbandit_battle_loop_ae30f3f4:
 
     # "You notice the rat is floundering, trying his best not to get aroused by your seduction, but it is evident that his flushed face tells it all. His lust is increased by [player_flirt]."
-    "你注意到鼠人在你的诱惑下手足无措，拼命克制着自己不被挑起欲望，但他涨红的脸已经说明了一切。他的性欲增加了[player_flirt]点。"
+    "你注意到鼠盗匪在你的诱惑下手足无措，拼命克制着自己不被挑起欲望，但他涨红的脸已经说明了一切。他的性欲增加了[player_flirt]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_af62cd2a:
 
@@ -761,7 +761,7 @@ translate schinese_rewrite ratbandit_battle_loop_af62cd2a:
 translate schinese_rewrite ratbandit_battle_loop_34befdba:
 
     # "The rat bandit is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his bow tightly. His lust is increased by [player_flirt]."
-    "鼠人盗匪因你的挑逗而扭动起来。你已经能听到他急促的呼吸和喘哼声，而他则紧紧握着弓。他的性欲增加了[player_flirt]点。"
+    "鼠盗匪因你的挑逗而扭动起来。你已经能听到他急促的呼吸和喘哼声，而他则紧紧握着弓。他的性欲增加了[player_flirt]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_fe4a1e82:
 
@@ -826,12 +826,12 @@ translate schinese_rewrite ratbandit_battle_loop_3b0e3008:
 translate schinese_rewrite ratbandit_battle_loop_2aa9eee7:
 
     # "The rat bandit strikes his dagger towards you, it was a critical blow! Your health decreases by [enemy_damage] HP."
-    "鼠人盗贼朝你挥出匕首，这一击正中要害！你的生命值减少了[enemy_damage]点。"
+    "鼠盗匪朝你挥出匕首，这一击正中要害！你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_e7c9ed5c:
 
     # "The rat bounces around and hit you with a fistful of force, it was a critical blow! Your health decreases by [enemy_damage] HP."
-    "那只老鼠蹦来跳去，猛地挥出一记重拳，这一击正中要害！你的生命值减少了[enemy_damage]点。"
+    "鼠盗匪蹦来跳去，猛地挥出一记重拳，这一击正中要害！你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_d32212bc:
 
@@ -841,12 +841,12 @@ translate schinese_rewrite ratbandit_battle_loop_d32212bc:
 translate schinese_rewrite ratbandit_battle_loop_365ff672:
 
     # "The rat bandit strikes his dagger towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "鼠人盗贼朝你挥出匕首，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
+    "鼠盗匪朝你挥出匕首，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_add87ea4:
 
     # "The rat bounces around and hit you with a fistful of force. Your health decreases by [enemy_damage] HP."
-    "那只老鼠蹦来跳去，挥出一记重拳。你的生命值减少了[enemy_damage]点。"
+    "鼠盗匪蹦来跳去，挥出一记重拳。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_1d69ddb4:
 
@@ -856,12 +856,12 @@ translate schinese_rewrite ratbandit_battle_loop_1d69ddb4:
 translate schinese_rewrite ratbandit_battle_loop_af823fd8:
 
     # "The rat bandit strikes his dagger towards you, you managed to deflect his bow and dodge the attack."
-    "鼠人盗贼朝你挥出匕首，你成功挡开他的攻击并躲过了这一招。"
+    "鼠盗匪朝你挥出匕首，你成功挡开他的匕首并躲过了这一招。"
 
 translate schinese_rewrite ratbandit_battle_loop_dc566f85:
 
     # "The rat bounces around and try to hit you with a fistful of force, but you block the blow and push him back."
-    "那只老鼠蹦来跳去，试图挥拳击中你，但你挡住了这一击，还把他推了回去。"
+    "鼠盗匪蹦来跳去，试图挥拳击中你，但你挡住了这一击，还把他推了回去。"
 
 translate schinese_rewrite ratbandit_battle_loop_0e37054b:
 
@@ -881,7 +881,7 @@ translate schinese_rewrite ratbandit_battle_loop_7edc3a21:
 translate schinese_rewrite ratbandit_battle_loop_5d8bd20f:
 
     # "The rat scratches at his pants, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-    "那只老鼠隔着裤子抓了抓，伸出两根手指在胯间比划着，在你面前描摹自己阴茎的形状。"
+    "鼠盗匪隔着裤子抓了抓，伸出两根手指在胯间比划着，在你面前描摹自己肉棒的形状。"
 
 translate schinese_rewrite ratbandit_battle_loop_7dd9bae7:
 
@@ -891,7 +891,7 @@ translate schinese_rewrite ratbandit_battle_loop_7dd9bae7:
 translate schinese_rewrite ratbandit_battle_loop_71755195:
 
     # "You gulp at his attempt at seduction. Admittedly you are extremely aroused, thinking about how his cock would taste like. Your lust increased by [enemy_flirt]."
-    "你咽了口唾沫，应对他的诱惑。不得不承认，你异常兴奋，脑中想着他的阴茎尝起来会是什么滋味。你的欲望增加了[enemy_flirt]点。"
+    "你因他的诱惑而咽了口唾沫。不得不承认，你异常兴奋，脑中想着他的阴茎尝起来会是什么滋味。你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite ratbandit_battle_loop_0b1f2116:
 
@@ -1116,7 +1116,7 @@ translate schinese_rewrite ratbandit_battle_win_5f94acdb:
 translate schinese_rewrite ratbandit_battle_win_c1f9eff3:
 
     # rbd "O-ok. You're bad at scaring me but I'll do whatever you want."
-    rbd "好、好吧。你吓人可不怎么样，但你要我做什么我都会做。"
+    rbd "好、好吧。你吓不到我，但你要我做什么我都会做。"
 
 translate schinese_rewrite ratbandit_battle_win_d1bc523f:
 
@@ -1146,7 +1146,7 @@ translate schinese_rewrite ratbandit_battle_win_f068141e:
 translate schinese_rewrite ratbandit_battle_win_8104b88f:
 
     # "You dig the fruits up with your hand and soon return to the garden."
-    "你用手把水果挖出来，很快回到了菜园。"
+    "你用手把李子挖出来，很快回到了菜园。"
 
 translate schinese_rewrite ratbandit_battle_win_09bd14fa:
 
@@ -1161,7 +1161,7 @@ translate schinese_rewrite ratbandit_battle_win_44186519:
 translate schinese_rewrite ratbandit_battle_win_578a88cb:
 
     # "The rat scrambles to run a few steps towards a lump in the ground. He begins digging down with his hands."
-    "那只老鼠慌忙跑向几步外的土堆，开始用手往下挖。"
+    "鼠盗匪慌忙跑向几步外的土堆，开始用手往下挖。"
 
 translate schinese_rewrite ratbandit_battle_win_d872786e:
 
@@ -1201,7 +1201,7 @@ translate schinese_rewrite ratbandit_battle_win_ee9950ed:
 translate schinese_rewrite ratbandit_battle_lose_a1e6bd2e:
 
     # "You are too exhausted to fight back against the rat."
-    "你已经精疲力竭，根本无力反击那只老鼠。"
+    "你已经精疲力竭，根本无力反击鼠盗匪。"
 
 translate schinese_rewrite ratbandit_battle_lose_878da57e:
 
@@ -1216,7 +1216,7 @@ translate schinese_rewrite ratbandit_battle_lose_b1e6bda8:
 translate schinese_rewrite ratbandit_battle_lose_5179b8df:
 
     # "He swindles [lost_gold] out of your pocket."
-    "他从你的口袋里骗走了[lost_gold]。"
+    "他从你的口袋里骗走了[lost_gold]枚金币。"
 
 translate schinese_rewrite ratbandit_battle_lose_0586692a:
 
@@ -1316,12 +1316,12 @@ translate schinese_rewrite ratbandit_battle_lose_2f960729:
 translate schinese_rewrite sharkbandit_battle_b8a5c4a9:
 
     # "You are facing a shark bandit against the wall. You hold and clench your fist."
-    "你正面对着被逼到墙边的鲨鱼劫匪，握紧拳头。"
+    "你正面对着被逼到墙边的鲨鱼盗匪，握紧拳头。"
 
 translate schinese_rewrite sharkbandit_battle_8d772c8b:
 
     # "You are facing a shark bandit in the field, it's hard to catch him in the middle of the tall grasses. You hold your [pc.weapon.name!t] in defence."
-    "你在田野中面对着鲨鱼劫匪，高高的草丛间很难抓住他。你握着[pc.weapon.name!t]进行防御。"
+    "你在田野中面对着鲨鱼盗匪，高高的草丛间很难抓住他。你握着[pc.weapon.name!t]进行防御。"
 
 translate schinese_rewrite sharkbandit_battle_loop_132b45ce:
 
@@ -1401,7 +1401,7 @@ translate schinese_rewrite sharkbandit_battle_loop_24bcc736:
 translate schinese_rewrite sharkbandit_battle_loop_17a649f0:
 
     # "You've critically hit the bandit, dealing [oa[4]] HP!"
-    "你对劫匪造成了暴击，打掉[oa[4]]点生命值！"
+    "你对劫匪造成了暴击，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite sharkbandit_battle_loop_a3975f77:
 
@@ -1471,7 +1471,7 @@ translate schinese_rewrite sharkbandit_battle_loop_b6528234:
 translate schinese_rewrite sharkbandit_battle_loop_4896910c:
 
     # "The shark bandit is squirming in reaction to your advance. You can already hear his rapid breathing and grunting, holding his bow tightly. His lust is increased by [player_flirt]."
-    "鲨鱼强盗因你的主动而扭动起来。你已经能听到他急促的呼吸和呻吟，而他正紧紧握着弓。他的欲望因[player_flirt]而增强。"
+    "鲨鱼盗匪因你的主动而扭动起来。你已经能听到他急促的呼吸和呻吟，而他正紧紧握着弓。他的欲望因[player_flirt]而增强。"
 
 translate schinese_rewrite sharkbandit_battle_loop_9659ff35:
 
@@ -1511,7 +1511,7 @@ translate schinese_rewrite sharkbandit_battle_loop_f8a2d2ed:
 translate schinese_rewrite sharkbandit_battle_loop_4b5a513f:
 
     # "The shark bandit swings his axe towards you, you are not quick enough to dodge his blow. Your health decreases by [enemy_damage] HP."
-    "鲨鱼强盗朝你挥斧砍来，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
+    "鲨鱼盗匪朝你挥斧砍来，你没能及时躲开这一击。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite sharkbandit_battle_loop_97c0625a:
 
@@ -1521,7 +1521,7 @@ translate schinese_rewrite sharkbandit_battle_loop_97c0625a:
 translate schinese_rewrite sharkbandit_battle_loop_90f6895e:
 
     # "The shark bandit swings his axe towards you, you managed to deflect his bow and dodge the attack."
-    "鲨鱼强盗挥斧砍来，你成功挡开了他的弓，躲过了这次攻击。"
+    "鲨鱼盗匪挥斧砍来，你成功挡开了他的斧头，躲过了这次攻击。"
 
 translate schinese_rewrite sharkbandit_battle_loop_5baea727:
 
@@ -1621,7 +1621,7 @@ translate schinese_rewrite sharkbandit_battle_lose_eb34bd6c:
 translate schinese_rewrite sharkbandit_battle_lose_a4cc2f6c:
 
     # "The bandit kneels, holding the edge of his axe over your neck."
-    "土匪头目跪了下来，将斧刃横在你的脖子上。"
+    "强盗头目跪了下来，将斧刃横在你的脖子上。"
 
 translate schinese_rewrite sharkbandit_battle_lose_9303bf6e:
 
@@ -1636,7 +1636,7 @@ translate schinese_rewrite sharkbandit_battle_lose_fa9da81c:
 translate schinese_rewrite sharkbandit_battle_lose_d3e2cbe3:
 
     # "You nod. The bandit boss seems rather perplexed, but he just continues with his questioning."
-    "你点了点头。土匪头目似乎相当困惑，但只是继续盘问你。"
+    "你点了点头。强盗头目似乎相当困惑，但只是继续盘问你。"
 
 translate schinese_rewrite sharkbandit_battle_lose_34b4e2f0:
 
@@ -1716,7 +1716,7 @@ translate schinese_rewrite sharkbandit_battle_lose_57530350:
 translate schinese_rewrite sharkbandit_battle_lose_f9b9aa16:
 
     # "You lie on the ground, mixture of sweat and cum dribbling all over your body, as the bandit boss stands above you."
-    "你躺在地上，汗水和精液混合着流遍全身，那个强盗头目则站在你上方。"
+    "你躺在地上，汗水和精液混合着流遍全身，强盗头目则站在你上方。"
 
 translate schinese_rewrite sharkbandit_battle_lose_1d7c81c7:
 
@@ -1786,7 +1786,7 @@ translate schinese_rewrite sharkbandit_battle_lose_0cc06f31:
 translate schinese_rewrite sharkbandit_battle_lose_8489be74:
 
     # "But, it was so good... feeling his cocks inside of you, being violently thrusted and-"
-    "可那感觉真好……感受着他的肉棒在你体内，被狠狠地抽插，还有——"
+    "可那感觉真好……感受着他的几根肉棒在你体内，被狠狠地抽插，还有——"
 
 translate schinese_rewrite sharkbandit_battle_lose_b0653e75:
 
@@ -1806,7 +1806,7 @@ translate schinese_rewrite sharkbandit_battle_win_b6efe7ca:
 translate schinese_rewrite sharkbandit_battle_win_9a5935ee:
 
     # msg "Bandit Boss Winning Scene WIP!"
-    msg "强盗首领胜利场景制作中！"
+    msg "强盗头目胜利场景制作中！"
 
 translate schinese_rewrite sharkbandit_battle_win_bc46e54b:
 
@@ -1896,7 +1896,7 @@ translate schinese_rewrite sharkbandit_battle_win_9438339a:
 translate schinese_rewrite sharkbandit_battle_win_d5298768:
 
     # "You leave the bandit boss behind and take the plum inside the hideout before you pick up your stuff, and move on."
-    "你把强盗首领留在那里，带着李子进了藏身处，然后拿上自己的东西继续上路。"
+    "你把强盗首领留在身后，先拿走藏身处里的李子，再拾起自己的东西继续前进。"
 
 translate schinese_rewrite sharkbandit_battle_win_01346965:
 

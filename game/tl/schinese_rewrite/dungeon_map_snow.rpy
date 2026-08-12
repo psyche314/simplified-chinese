@@ -66,7 +66,7 @@ translate schinese_rewrite Snowbound_Summit_Loop_62163286:
 translate schinese_rewrite Snowbound_Summit_Loop_28224bf8:
 
     # e "That must be the Oolong Haskell was talking about, I should dig out the plant and leave."
-    e "这一定就是哈斯克尔说的乌龙茶，我得把它挖出来，然后离开。"
+    e "这一定就是哈斯克尔说的乌龙植株，我得把它挖出来，然后离开。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_b9a92c9e:
 
@@ -421,7 +421,7 @@ translate schinese_rewrite Snowbound_Summit_Loop_f36efbc6:
 translate schinese_rewrite Snowbound_Summit_Loop_f35aeb93:
 
     # snow_caretaker "Ookko is the primordial who watches over the snowland. His essence was the one that brought the Oolong to life, and with it, my purpose."
-    snow_caretaker "奥科是守望雪境的原初神。"
+    snow_caretaker "奥科是守望雪境的原初神。他的精华赋予了乌龙生命，也赋予了我存在的意义。"
 
 translate schinese_rewrite Snowbound_Summit_Loop_3b215cb1:
 
@@ -571,12 +571,12 @@ translate schinese_rewrite Scene_Caretaker_Tending_Menu_c7b6f524:
 translate schinese_rewrite Snowbound_Summit_Tablet_I_7b85b728:
 
     # "In the midst of the snow and ice, you find a strange stone tablet."
-    "在冰雪之中，你发现了一块奇怪的石碑。"
+    "在冰雪之中，你发现了一块奇怪的石板。"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_f02975c5:
 
     # "It is covered in strange markings, a mixture of ancient runes and letters you can barely make out."
-    "石碑上布满了奇异的刻痕，既有古老的符文，也有你几乎无法辨认的文字。"
+    "石板上布满了奇异的刻痕，混杂着古老的符文和你几乎无法辨认的字母。"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_525884f3:
 
@@ -586,7 +586,7 @@ translate schinese_rewrite Snowbound_Summit_Tablet_I_525884f3:
 translate schinese_rewrite Snowbound_Summit_Tablet_I_e7920d9b:
 
     # "Tablet I - The Warrior's Respite"
-    "石碑一——战士的安歇"
+    "石板一——战士的安歇"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_I_ae188b89:
 
@@ -611,7 +611,7 @@ translate schinese_rewrite Snowbound_Summit_Tablet_I_9fd0b691:
 translate schinese_rewrite Snowbound_Summit_Tablet_II_42c9eb48:
 
     # "Tablet II - The Barren Crest"
-    "石碑二——荒芜之巅"
+    "石板二——荒芜之巅"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_II_355208fa:
 
@@ -631,7 +631,7 @@ translate schinese_rewrite Snowbound_Summit_Tablet_II_3bfb80fe:
 translate schinese_rewrite Snowbound_Summit_Tablet_III_5db9d66a:
 
     # "Tablet III - The First Sprout"
-    "石碑三——第一株新芽"
+    "石板三——第一株新芽"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_III_9804b182:
 
@@ -651,7 +651,7 @@ translate schinese_rewrite Snowbound_Summit_Tablet_III_800d1765:
 translate schinese_rewrite Snowbound_Summit_Tablet_IV_8df122a7:
 
     # "Tablet IV - The Leaf of Oolong"
-    "石碑第四节——乌龙之叶"
+    "石板四——乌龙之叶"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_IV_157df80c:
 
@@ -671,7 +671,7 @@ translate schinese_rewrite Snowbound_Summit_Tablet_IV_72088d2c:
 translate schinese_rewrite Snowbound_Summit_Tablet_V_c32b3eb8:
 
     # "Tablet V - The Last March"
-    "第五碑——最后的行军"
+    "石板五——最后的行军"
 
 translate schinese_rewrite Snowbound_Summit_Tablet_V_218b7a83:
 
@@ -1241,7 +1241,7 @@ translate schinese_rewrite Chilly_Ice_Cave_Loop_940fcd84:
 translate schinese_rewrite Chilly_Ice_Cave_Loop_416401d5:
 
     # d "No. Old burial stairs, if the stories are true. The tribe sealed the lower crypt and stopped coming here long before I was born."
-    d "不，如果传说是真的，那是古老的葬墓阶梯。早在我出生以前，部落就封闭了下层墓室，也不再来这里。"
+    d "不，如果传说是真的，那是古老的墓葬阶梯。早在我出生以前，部落就封闭了下层墓室，也不再来这里。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Loop_a76abcca:
 
@@ -1366,7 +1366,7 @@ translate schinese_rewrite Chilly_Ice_Cave_Slushy_9feb9928:
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_21607c03:
 
     # d "Contact! Keep your footing, [e]!"
-    d "撞上了！站稳， [e]！"
+    d "撞上了！站稳脚跟，[e]！"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_4ee0e47d:
 
@@ -1386,7 +1386,7 @@ translate schinese_rewrite Chilly_Ice_Cave_Slushy_b89b5ef6:
 translate schinese_rewrite Chilly_Ice_Cave_Walk_Down_e50af07e:
 
     # "You follow the stairs down until the passage opens into a round chamber half-choked with debris from the collapse."
-    "你沿着石阶一路向下，直到通道豁然开朗，通向一间圆形房间；坍塌造成的碎石将房间堵去了一半。"
+    "你沿着石阶一路向下，直到通道豁然开朗，通向一间圆形石室；坍塌造成的碎石将石室堵去了一半。"
 
 translate schinese_rewrite Chilly_Ice_Cave_Walk_Down_0144bcee:
 
@@ -1411,7 +1411,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_3955bff8:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_c03ee328:
 
     # "It doesn't take long for you to see more of it, the brown arms wrapping around his legs, and the dark snout holding his breath, it's Herd."
-    "你很快便看清了更多：棕色的双臂紧紧环住双腿，深色的口鼻屏住呼吸——是赫德。"
+    "你很快便看清了更多：棕色的双臂紧紧环住他的双腿，深色的口鼻屏住呼吸——是赫德。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_257b6522:
 
@@ -1496,7 +1496,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_8e0d7ddf:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_10630c5f:
 
     # "He watches your hands, your shoulders, the set of your body, the way your breath catches."
-    "他观察着你的双手、肩膀、身体的姿态，还有你屏住呼吸的样子。"
+    "他观察着你的双手、肩膀、身体的姿态，还有你呼吸骤然一滞的样子。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_a6bdfc4a:
 
@@ -1596,7 +1596,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_c0e24597:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_9ad3ca60:
 
     # "This, more than anything, makes the man in front of you look like Herd the builder people kept talking about. Even cornered and half-starved with fear, his mind goes straight to structure."
-    "即使被逼入绝境、因恐惧而几近饿坏……"
+    "这一点最让你觉得眼前这个男人就是人们一直谈论的建筑师赫德。即使被逼入绝境、因恐惧而几近饿坏，他的思绪仍会直接转向结构。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_3d80ad43:
 
@@ -1621,7 +1621,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_e582ffad:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_5f98dfdc:
 
     # "First the cave mouth collapsing. Then a small antler-work astrolabe tumbling into a crack below."
-    "先是洞口坍塌。然后是一具小小的鹿角制星盘滚进下方的一道裂缝。"
+    "先是洞口坍塌。然后是一枚小小的鹿角制星盘滚进下方的一道裂缝。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_15722366:
 
@@ -1706,17 +1706,17 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_f5159b4c:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_e753537d:
 
     # "Next he points to his broken ear, bares his teeth in frustration, and shakes his head. Deaf. Or near enough that the chime means little to him."
-    "钟声对他而言几乎没有意义。"
+    "接着，他指向自己受损的耳朵，沮丧地龇牙并摇了摇头。他聋了，或者至少听力差到钟声对他而言几乎没有意义。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_86f44e29:
 
     # "He taps the bell again, points deeper into the crypt, then drags one finger in a slow line through the dust until it stops over a crack in the drawn floorplan."
-    "他再次敲了敲铃铛。"
+    "他再次敲了敲铃铛，指向墓室深处，随后用一根手指在尘土中缓慢划线，直到停在所画平面图的一道裂缝上。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_144da017:
 
     # "The message is clumsy but clear enough: the bell helps track the astrolabe, but only if someone can judge the sound better than he can."
-    "铃铛能帮忙追踪星盘。"
+    "这个讯息虽然笨拙，却足够清楚：铃铛能帮忙追踪星盘，但前提是有人能比他更准确地判断声音。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_e58c7e7f:
 
@@ -1726,7 +1726,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_e58c7e7f:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b8bfa69f:
 
     # "Herd nods once, sharp and immediate. He sets the detector where you can reach it easily, then retreats back toward the wall to watch."
-    "赫德干脆利落地点了一下头。他把探测器放到你伸手就能拿到的地方，随后退回墙边，静静看着。"
+    "赫德干脆利落地点了一下头。他把勘测铃放到你伸手就能拿到的地方，随后退回墙边，静静看着。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1b06b5c4:
 
@@ -1771,7 +1771,7 @@ translate schinese_rewrite Crypt_Herd_Return_Keepsake_3d003712:
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_4bf8fbb3:
 
     # "Herd jerks around and points toward the front of the chamber, eyes wide."
-    "赫德猛地转身，瞪大双眼指向房间前方。"
+    "赫德猛地转身，瞪大双眼指向石室前方。"
 
 translate schinese_rewrite Crypt_Herd_Return_Keepsake_db9c559c:
 
@@ -1791,7 +1791,7 @@ translate schinese_rewrite Conquerors_Crypt_f0f6a18b:
 translate schinese_rewrite Conquerors_Crypt_f655694d:
 
     # "You both turn at once. Frost sifts from one sealed lid, then the chamber stills again. Four side tombs sit in the cold, all closed."
-    "你们同时转身。霜屑从一具封闭的棺盖上簌簌落下，接着墓室又恢复了寂静。四座侧墓坐落在寒意中，全都紧闭着。"
+    "你们同时转身。霜屑从一座侧墓的封闭棺盖上簌簌落下，接着墓室又恢复了寂静。四座侧墓坐落在寒意中，全都紧闭着。"
 
 translate schinese_rewrite Conquerors_Crypt_09bddd8b:
 
@@ -1961,7 +1961,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_8cd3709d:
 translate schinese_rewrite Conquerors_Crypt_Loop_a59d9256:
 
     # "The chime carries more clearly here. The bell's vibration settles into your fingers with enough force that you know you are closing in."
-    "这里的钟声传得更清晰了。"
+    "这里的钟声传得更清晰了。钟的振动传入你的手指，力量之强让你知道自己正在接近目标。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_effd3498:
 
@@ -2086,12 +2086,12 @@ translate schinese_rewrite Conquerors_Crypt_Loop_c5e1a959:
 translate schinese_rewrite Conquerors_Crypt_Loop_a0eb5df9:
 
     # "After that he pauses and scans the crypt with you, eyes moving from the table to the rubble to the sealed tombs before he mimes a thin wedge prying upward."
-    "之后，他停下来和你一起环视墓穴，目光从桌子移到碎石，再移向封闭的墓室，最后比划出一根细楔子向上撬动的动作。"
+    "之后，他停下来和你一起环视墓穴，目光从桌子移到碎石，再移向封闭的墓穴，最后比划出一根细楔子向上撬动的动作。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_04919a82:
 
     # "When you follow his gaze around the chamber, he gives a small nod. Somewhere in here, there has to be a tool narrow enough to free it."
-    "你顺着他的目光环视房间，他轻轻点了点头。这里面肯定有一件足够窄的工具，能把它弄出来。"
+    "你顺着他的目光环视石室，他轻轻点了点头。这里面肯定有一件足够窄的工具，能把它弄出来。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a22ac2dc:
 
@@ -2191,7 +2191,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_63838ba3:
 translate schinese_rewrite Conquerors_Crypt_Loop_cb7433bc:
 
     # "Daggi studies the lodged astrolabe for a moment, then lets his eyes travel over the sealed tombs and the dust-choked edges of the chamber."
-    "达吉端详了卡住的星盘片刻，随后让目光扫过封闭的墓穴和房间里尘土堆积的边缘。"
+    "达吉端详了卡住的星盘片刻，随后让目光扫过封闭的墓穴和石室中尘土堆积的边缘。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_cc9564d0:
 
@@ -2201,7 +2201,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_cc9564d0:
 translate schinese_rewrite Conquerors_Crypt_Loop_4bc77ec6:
 
     # d "If this crypt kept burial tools anywhere, that is where I'd start."
-    d "如果这座墓穴里有地方存放陪葬工具，我会先从那里找。"
+    d "如果这座墓穴里存放过葬仪工具，我会先从那里找。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_a49c03c8:
 
@@ -2236,7 +2236,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_a11f9204:
 translate schinese_rewrite Conquerors_Crypt_Loop_d2e473a8:
 
     # "Reading the etched text on the front of the tomb, it says: '{i}The Hand of the Conqueror{/i}'"
-    "读着墓穴正面的蚀刻文字，上面写着：'{i}征服者之手{/i}'"
+    "你读着墓碑正面刻下的文字，上面写着：'{i}征服者之手{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_b44e7af9:
 
@@ -2266,7 +2266,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_d12ed5c5:
 translate schinese_rewrite Conquerors_Crypt_Loop_3d3cef58:
 
     # "Reading the etched text on the front of the tomb, it says: '{i}The Eye of the Conqueror{/i}'"
-    "读着墓穴正面的蚀刻文字，上面写着：'{i}征服者之眼{/i}'"
+    "你读着墓碑正面刻下的文字，上面写着：'{i}征服者之眼{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_82ee81d5:
 
@@ -2301,7 +2301,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_1f34892c:
 translate schinese_rewrite Conquerors_Crypt_Loop_90d3d2c7:
 
     # "Reading the etched text on the front of the tomb, it says: '{i}The Voice of the Conqueror{/i}'"
-    "你读着墓前刻下的文字，上面写着：{i}征服者之声{/i}"
+    "你读着墓碑正面刻下的文字，上面写着：'{i}征服者之声{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_38184085:
 
@@ -2311,7 +2311,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_38184085:
 translate schinese_rewrite Conquerors_Crypt_Loop_1a92a692:
 
     # "Reading the etched text on the front of the tomb, it says: '{i}The Shield of the Conqueror{/i}'"
-    "你读着墓前刻下的文字，上面写着：{i}征服者之盾{/i}"
+    "你读着墓碑正面刻下的文字，上面写着：'{i}征服者之盾{/i}'"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_40459000:
 
@@ -2321,7 +2321,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_40459000:
 translate schinese_rewrite Conquerors_Crypt_Loop_a85b8a1b:
 
     # "Working your fingers through a split seam in the shattered guardian, you pull free a pouch wedged inside the bronze shell. It holds 3 pieces of copper and 1 Small HP Potion that somehow survived the years."
-    "里面有3块铜……"
+    "你把手指伸进破碎守卫的裂缝，从青铜外壳中抽出一个卡住的袋子。里面有3块铜和1瓶不知怎么熬过岁月的小型生命药水。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_1dceeb01:
 
@@ -2356,7 +2356,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_d1ea91b5:
 translate schinese_rewrite Conquerors_Crypt_Loop_8826c9f6:
 
     # "Resting on the table is a little surveying bell, neatly wired and weighted. Daggi picks it up, turns it once in his palm, then passes it to you."
-    "达吉拿起它……"
+    "桌上放着一只小小的勘测铃，金属丝整齐缠绕其上，并配有配重。达吉拿起它，在掌中转了一圈，然后递给你。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_73531665:
 
@@ -2471,7 +2471,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_f78f0f78:
 translate schinese_rewrite Conquerors_Crypt_Loop_287304a5:
 
     # "You sort through the rubble, but it is only broken stone, frozen dust, and old scraps dragged down by the collapse."
-    "你翻找着瓦砾，但里面只有碎石、冻土和被坍塌带下来的旧碎片。"
+    "你翻找着瓦砾，但里面只有碎石、冰冻的尘土和被坍塌带下来的旧碎片。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_46da3bcf:
 
@@ -2526,7 +2526,7 @@ translate schinese_rewrite Crypt_Statues_Awaken_043a8273:
 translate schinese_rewrite Crypt_Statues_Awaken_d7eab190:
 
     # d "That astrolabe woke them."
-    d "那座星盘把它们唤醒了。"
+    d "那枚星盘把它们唤醒了。"
 
 translate schinese_rewrite Crypt_Statues_Awaken_44f6d883:
 

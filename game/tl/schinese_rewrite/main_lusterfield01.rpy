@@ -41,7 +41,7 @@ translate schinese_rewrite main_bedroom_9fca8cb1:
 translate schinese_rewrite main_bedroom_b888a9f9:
 
     # msg "If you hold a Moonstone Amulet. Proceeding while the quest is active will refresh your quest status, allowing you to complete the quest again." nointeract
-    msg "如果你持有月长石护符，那么在任务进行期间继续前进会刷新任务状态，让你得以再次完成任务。" nointeract
+    msg "如果你持有月光石护符，那么在任务进行期间继续前进会刷新任务状态，让你得以再次完成任务。" nointeract
 
 translate schinese_rewrite main_bedroom_0fe4e953:
 
@@ -271,7 +271,7 @@ translate schinese_rewrite main_lusterfield02_1db6d93e:
 translate schinese_rewrite main_rahimshop_9ba1f33d:
 
     # "A series of drawings scatters around the house, but you notice two distinctively different style in them, one looks like innocent doodles, while the others are almost exclusively detailed drawing of a young Rahim."
-    "屋里散落着一系列画作，但你注意到其中有两种截然不同的画风：一类看起来是天真的涂鸦，另一类几乎全都是对年幼雷希姆的细致描绘。"
+    "房屋周围散落着一系列画作，但你注意到其中有两种截然不同的画风：一类看起来是天真的涂鸦，另一类几乎全都是对年幼雷希姆的细致描绘。"
 
 translate schinese_rewrite main_rahimshop_56d3db03:
 
@@ -591,7 +591,7 @@ translate schinese_rewrite Sebas_dialogue_7115ea73_1:
 translate schinese_rewrite Sebas_dialogue_53242b88:
 
     # s "...b-butt... hmmph..."
-    s "……可、可恶……嗯哼……"
+    s "……屁、屁股……嗯哼……"
 
 translate schinese_rewrite Sebas_dialogue_ed5ceb54:
 
@@ -946,7 +946,7 @@ translate schinese_rewrite Sebas_Drunk_How_Doing_555fc0d4:
 translate schinese_rewrite Sebas_Drunk_How_Doing_68466dec:
 
     # s "S-server... you look like... a d-dragon. Like [e]."
-    s "服、服务员……你看起来像……一、一道龙。像[e]。"
+    s "服、服务员……你看起来像……一、一条龙。就像[e]一样。"
 
 translate schinese_rewrite Sebas_Drunk_How_Doing_875cdd45:
 
@@ -1571,7 +1571,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_4e00d00e:
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_5cfad1f0:
 
     # o "I suppose that bat friend of yours can get you a bag of coins if you ever need one."
-    o "我想，你那位蝙蝠朋友要是你需要，应该能给你弄来一袋金币。"
+    o "我想，要是你什么时候需要一袋金币，你那位蝙蝠朋友应该能给你弄来。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_c736099d:
 
@@ -1586,7 +1586,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_b656cdae:
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_430e4bc0:
 
     # "You haven't ever seen Ole look this... this relaxed. He's always seemed so cautious, so attentive."
-    "我从没见过奥利这么……这么放松。他平时总是显得格外谨慎，时刻留意着周遭。"
+    "你从没见过奥利这么……这么放松。他平时总是显得格外谨慎，时刻留意着周遭。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_7bd8df44:
 
@@ -1686,7 +1686,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_94cdc7f3:
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_27e73340:
 
     # s "I- uhm... yes. Well, sorry if I acted strange."
-    s "我、呃……是的。那个，刚才表现得有些奇怪，抱歉。"
+    s "我、呃……是的。刚才我表现得有点奇怪，抱歉。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_568de443:
 
@@ -1711,7 +1711,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_6cf859cd:
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_3e7345d4:
 
     # s "Ha, he can't even beat a drunk lion in that disk game."
-    s "哈，他连喝醉的狮子都赢不了那种掷盘游戏。"
+    s "哈，在那种掷盘游戏里，他连喝醉的狮子都赢不了。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_840e3118:
 
@@ -1811,7 +1811,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_709f2726:
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_82c985ec:
 
     # s "Really? Don't get fooled by this guy's appearance, he's a master of sucking at tavern games I tell you buddy."
-    s "真的吗？可别被这家伙的外表骗了，他可是酒馆游戏里的菜鸟主人，我跟你说，伙计。"
+    s "真的吗？可别被这家伙的外表骗了，他酒馆游戏玩得菜得很，我跟你说，伙计。"
 
 translate schinese_rewrite Sebas_Night_Out_Quest_Begin_4190e869_1:
 
@@ -1881,7 +1881,7 @@ translate schinese_rewrite Sebas_Night_Out_Quest_Begin_747ca868:
 translate schinese_rewrite Sebas_Night_Out_Before_Tavern_e5c53a7f:
 
     # s "Gooooo-d Fu-"
-    s "好朋——"
+    s "好——好他妈——"
 
 translate schinese_rewrite Sebas_Night_Out_Before_Tavern_81988f9c:
 
@@ -1951,7 +1951,7 @@ translate schinese_rewrite Sebas_Night_Out_Before_Tavern_b457f085:
 translate schinese_rewrite Sebas_Night_Out_In_Tavern_59eb1747:
 
     # s "H-hey! Goooooo-d Fuckin- Morning- [e]-."
-    s "嘿——嘿！早——早他妈的上——上午好，[e]——"
+    s "嘿——嘿！早——早他妈——早上好，[e]——"
 
 translate schinese_rewrite Sebas_Night_Out_In_Tavern_a44e2294:
 
@@ -2306,7 +2306,7 @@ translate schinese_rewrite Sebas_Night_Out_0c0b5748:
 translate schinese_rewrite Sebas_Night_Out_bdfd99e4:
 
     # "Cane chuckles, he gives the lion a pat on the shoulder, before leaving to serve another table."
-    "凯恩轻笑一声，拍了拍狮人的肩膀，随后离开去招待另一桌客人。"
+    "凯恩轻笑一声，拍了拍狮子的肩膀，随后离开去招待另一桌客人。"
 
 translate schinese_rewrite Sebas_Night_Out_8ac20559:
 
@@ -2401,7 +2401,7 @@ translate schinese_rewrite Sebas_Night_Out_f5177e50:
 translate schinese_rewrite Sebas_Night_Out_7618b353:
 
     # "He wipes away the mess with his palm, the lion notices you staring at him and grins foolishly at you."
-    "他用手掌擦去嘴边的狼藉，狮人注意到你正盯着他，便傻乎乎地朝你咧嘴一笑。"
+    "他用手掌擦去嘴边的狼藉，狮子注意到你正盯着他，便傻乎乎地朝你咧嘴一笑。"
 
 translate schinese_rewrite Sebas_Night_Out_ca17821d:
 
@@ -2596,7 +2596,7 @@ translate schinese_rewrite Sebas_Night_Out_32f524c2:
 translate schinese_rewrite Sebas_Night_Out_69a115fa:
 
     # o "Well, I'm sure [e] is going to be a little more careful with his cup than you do with half a dozen cups of beer here."
-    o "我敢肯定，[e]拿杯子的方式会比你一次喝下六杯啤酒时小心得多。"
+    o "我敢肯定，[e]拿着他的杯子时，会比你在这里连喝六杯啤酒时小心得多。"
 
 translate schinese_rewrite Sebas_Night_Out_5de6c720:
 
@@ -2626,7 +2626,7 @@ translate schinese_rewrite Sebas_Night_Out_3a8b54b5:
 translate schinese_rewrite Sebas_Night_Out_6a42fddc:
 
     # s "Take it slowly [e]. Cane adds so much sourdough from this bread you might as well get drunk from it."
-    s "慢点喝，[e]。凯恩在这面包里加了太多酸面团，吃多了你简直会醉。"
+    s "慢点吃，[e]。凯恩在这面包里加了太多酸面团，吃多了你简直会醉。"
 
 translate schinese_rewrite Sebas_Night_Out_d5ffda26:
 
@@ -2691,7 +2691,7 @@ translate schinese_rewrite Sebas_Night_Out_91ec9748:
 translate schinese_rewrite Sebas_Night_Out_7235e8d8:
 
     # o "And neither do you too."
-    o "我也不喜欢你讲啊。"
+    o "你也不喜欢啊。"
 
 translate schinese_rewrite Sebas_Night_Out_e9bf51d8:
 
@@ -2756,7 +2756,7 @@ translate schinese_rewrite Sebas_Night_Out_2c6fe809:
 translate schinese_rewrite Sebas_Night_Out_7868f6ee:
 
     # "You follow the two towards a long lane in between tables of talking patrons, the floor seems to be varnished with shiny wax."
-    "你跟着两人走向桌桌相连的食客长廊，地板似乎打过一层闪亮的蜡。"
+    "你跟着两人穿过一条长长的通道，两旁的食客正围桌闲聊，地板似乎打过一层闪亮的蜡。"
 
 translate schinese_rewrite Sebas_Night_Out_a719eab1:
 
@@ -2831,7 +2831,7 @@ translate schinese_rewrite Sebas_Night_Out_f55f4763:
 translate schinese_rewrite Sebas_Night_Out_cf610db7:
 
     # l "Well, I'll have to say, apart from being the hero of Lusterfield. I am also a master of tavern games."
-    l "我得说，除了是卢斯特菲尔德的英雄之外，我还是酒馆游戏的主人。"
+    l "我得说，除了是卢斯特菲尔德的英雄之外，我还是酒馆游戏的大师。"
 
 translate schinese_rewrite Sebas_Night_Out_3a54cc08:
 
@@ -3811,7 +3811,7 @@ translate schinese_rewrite Sebas_Night_Out_a231d08a:
 translate schinese_rewrite Sebas_Night_Out_facb0650:
 
     # "You head slowly leans into Ole's, as you soon drift into slumber."
-    "你的脑袋慢慢靠向奥利的，没多久便沉沉睡去。"
+    "你的脑袋慢慢靠向奥利，不久便沉沉睡去。"
 
 translate schinese_rewrite Sebas_Night_Out_a20cefa7:
 
@@ -4321,7 +4321,7 @@ translate schinese_rewrite Ole_Night_Out_Chat_72425165:
 translate schinese_rewrite Ole_Night_Out_Chat_54a2445f:
 
     # e "I just got there myself. They keep asking me about their leader, and Kari kind of threatened to hold me down..."
-    e "我也是刚到那里。他们一直问我他们的首领在哪儿，卡里还差点威胁着要把我按住……"
+    e "我也是刚到那里。他们一直问我他们的首领在哪儿，卡里还像是威胁要把我按住……"
 
 translate schinese_rewrite Ole_Night_Out_Chat_e7b9a3df:
 
@@ -4741,7 +4741,7 @@ translate schinese_rewrite Sebas_Under_Counter_edc572a7:
 translate schinese_rewrite Sebas_Under_Counter_f43cc1cc:
 
     # s "Yeah, I know what you are thinking, this fluffy lion is so fucking handsome, aren't I?"
-    s "对，我知道你在想什么——这头毛茸茸的狮子帅得他妈的，对吧？"
+    s "对，我知道你在想什么——这头毛茸茸的狮子他妈的帅，对吧？"
 
 translate schinese_rewrite Sebas_Under_Counter_d6fcdd3f:
 
@@ -6201,7 +6201,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_58e8097e:
 translate schinese_rewrite Sebas_Lothar_Adventure_End_d7ad2fbf:
 
     # l "So, lion. We're done here?"
-    l "所以，黄毛。我们没事了吧？"
+    l "那么，狮子，咱们完事了？"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_a5beefa5:
 
@@ -6251,7 +6251,7 @@ translate schinese_rewrite Sebas_Lothar_Adventure_End_b3b9c0e8:
 translate schinese_rewrite Sebas_Lothar_Adventure_End_03bdd77b:
 
     # s "Maybe if you found another interesting place to go."
-    s "除非你能找到另一个有趣的去处。"
+    s "也许吧，前提是你能找到另一个有趣的去处。"
 
 translate schinese_rewrite Sebas_Lothar_Adventure_End_96e6bfdd:
 
@@ -6531,7 +6531,7 @@ translate schinese_rewrite Sebas_Ask_Transport_Task_d2c9a774:
 translate schinese_rewrite Sebas_Ask_Transport_Task_6c3f32a2:
 
     # e "Uhmm... How can I help again...?"
-    e "呃……我再帮什么来着……？"
+    e "呃……我又能帮什么忙来着……？"
 
 translate schinese_rewrite Sebas_Ask_Transport_Task_c1f48888:
 
@@ -7426,7 +7426,7 @@ translate schinese_rewrite Ole_Potion_Task_Finish_46e690fb:
 translate schinese_rewrite Ole_Potion_Task_Finish_60dc75ad:
 
     # e "You got it!"
-    e "你明白了！"
+    e "交给我吧！"
 
 translate schinese_rewrite Ole_Potion_Task_Finish_fbe10e35:
 
@@ -8316,7 +8316,7 @@ translate schinese_rewrite Ole_Ask_Cleaning_4b6b1c5c:
 translate schinese_rewrite Ole_Ask_Cleaning_87117a86:
 
     # o "Haskell is already a master when I studied under him."
-    o "我拜哈斯克尔为师时，他就已经是一位主人了。"
+    o "我拜哈斯克尔为师时，他就已经是一位大师了。"
 
 translate schinese_rewrite Ole_Ask_Cleaning_296f2cbf:
 
@@ -8351,7 +8351,7 @@ translate schinese_rewrite Ole_Ask_Cleaning_9a1a8521:
 translate schinese_rewrite Ole_Ask_Cleaning_79d62148:
 
     # o "Plus, I like to clean. A clean mind is a healthy mind."
-    o "而且我本来就喜欢打扫。心灵洁净，身体才会健康。"
+    o "而且我本来就喜欢打扫。心灵洁净，心智才会健康。"
 
 translate schinese_rewrite Ole_Ask_Cleaning_10d94b0f:
 
@@ -10321,7 +10321,7 @@ translate schinese_rewrite Ole_Postal_Finish_e2808404:
 translate schinese_rewrite Ole_Ask_Kingspawn_0cb532a7:
 
     # e "Hey, Ole. How did you and Sebas built this shop?"
-    e "嘿，奥利。你和塞巴斯是怎么开起这家店的？"
+    e "嘿，奥利。你和塞巴斯是怎么建起这家店的？"
 
 translate schinese_rewrite Ole_Ask_Kingspawn_cd8d8401:
 
@@ -11621,7 +11621,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_2917b322:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_67e55ea8:
 
     # r "I haven't had anybody offer something like that in..."
-    r "已经有……"
+    r "我已经很多年没有……"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_dafcc160:
 
@@ -11631,7 +11631,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_dafcc160:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_463899b6:
 
     # r "...years."
-    r "……已经很多年了。"
+    r "……听到有人提出这样的请求了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_32a3caae:
 
@@ -12096,7 +12096,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a64eaa3b:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_b60ddc27:
 
     # "The two of you are briefly quiet as you process what he said, and he reaches for a new color to sew with."
-    "你们两人一时无言，消化着他的话；他伸手拿起一种新的颜色来缝制。"
+    "你们两人一时无言，消化着他的话；他伸手拿起另一种颜色的线，继续缝制。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_e5639544:
 
@@ -12131,7 +12131,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_7917a9c5:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_adbc66a7:
 
     # r "As much as a master can be a mentor to an experienced tailor. I haven't met a better tailor to this day, and I don't think I ever will."
-    r "她算是吧——对一个经验丰富的裁缝而言，主人也只能做到这个程度的指导。我至今没遇到过比她更好的裁缝，我想以后也不会有了。"
+    r "她算是吧——再有经验的裁缝，也能从大师那里得到指点。我至今没遇到过比她更好的裁缝，我想以后也不会有了。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_cc90bc41:
 
@@ -12566,7 +12566,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_03_33b8b339:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_c5b73aae:
 
     # "The bull flinches, accidentally piercing himself with the needle. The cut is small enough not to need medical attention, but you can tell it hurts."
-    "那头公牛一个哆嗦，不小心被针刺中了自己。伤口很小，不需要治疗，但你看得出来那一定很疼。"
+    "那头公牛一个哆嗦，不小心用针刺伤了自己。伤口很小，不需要治疗，但你看得出来那一定很疼。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_03_a090ec2c:
 
@@ -13991,7 +13991,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_bec3b4af:
 translate schinese_rewrite Rahim_Yarn_Quest_01_f250ba86:
 
     # r "Trust may not be as critical as back when I was out adventuring, where trusting the wrong person could end with you bleeding out in the middle of the woods with no coin purse..."
-    r "这当然比不上我四处冒险时那么要紧；那时候信错了人，可能就会倒在林子中央，身上没有钱袋……"
+    r "这当然比不上我四处冒险时那么要紧；那时候信错了人，可能就会倒在树林中央，失血而死，身上还没有钱袋……"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_e6d654b3:
 
@@ -14386,7 +14386,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_ae3e3dbb:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_6a6863a3:
 
     # r "Oh. Yes. We had not agreed on that. I had just assumed, apologies..."
-    r "哦。对，我们还没约定这个。我只是自作主张地这么以为了，抱歉……"
+    r "哦。对，我们还没约定这个。我只是自作主张地这么想了，抱歉……"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_63c1fa00:
 
@@ -14406,7 +14406,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_0617e560:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_d6dcd309:
 
     # r "Point is, I will be offering more tasks like this in the future if you are willing to take them."
-    r "重点是，如果你愿意接下来的话，以后我还会给你安排更多这样的活。"
+    r "重点是，如果你愿意接下这些任务，以后我还会给你安排更多这样的活。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_cb13d719:
 
@@ -14511,7 +14511,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_2ad3ac28:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_0b514790:
 
     # "But you leave that one to yourself."
-    "不过山羊就免了。"
+    "不过，这个想法你没有说出口。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_a43dcee9:
 
@@ -14781,7 +14781,7 @@ translate schinese_rewrite Rahim_Report_Yarn_Quest_01_8badcd86:
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_4915c6ed:
 
     # r "Well, off with you then. If you are busy, you should get to that."
-    r "那你就走吧。既然你很忙，就该去忙你的了。"
+    r "那你就走吧。如果你很忙，就先去忙吧。"
 
 translate schinese_rewrite Rahim_Report_Yarn_Quest_01_2f925843:
 
@@ -14836,7 +14836,7 @@ translate schinese_rewrite Rahim_Letter_Furkan_0b6964bf:
 translate schinese_rewrite Rahim_Letter_Furkan_dfe07764:
 
     # r "'...A sign of peace, let us negotiate in person, we will negotiate in the old place where my father...'"
-    r "“……这是和平的信号，让我们当面谈判吧。我们将在我父亲……”"
+    r "“……这是和平的信号，让我们当面谈判吧。我们将在我父亲……的那个老地方……”"
 
 translate schinese_rewrite Rahim_Letter_Furkan_b618baf3:
 
@@ -15056,7 +15056,7 @@ translate schinese_rewrite Rahim_Postal_Finish_530f3065:
 translate schinese_rewrite Rahim_Postal_Finish_715dd096_1:
 
     # r "You... don't have the tunic."
-    r "你……没带那件长袍。"
+    r "你……根本没有那件长袍。"
 
 translate schinese_rewrite Rahim_Postal_Finish_d7da90a8_1:
 
@@ -15186,7 +15186,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_e178d861:
 translate schinese_rewrite Rahim_Ask_GoatTribe_b924522b:
 
     # r "They had a wagon full of wares and people, gone. In the middle of the forest."
-    r "他们一辆载满货物和人的马车失踪了，就在森林中央。"
+    r "他们那辆装满货物和人的马车不见了……就在森林中央。"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_a09009d5:
 
@@ -15216,7 +15216,7 @@ translate schinese_rewrite Rahim_Ask_GoatTribe_ba2e1954:
 translate schinese_rewrite Rahim_Ask_GoatTribe_b7c5de00:
 
     # r "No... We didn't."
-    r "不知道……我们也不知道。"
+    r "不……不是我们干的。"
 
 translate schinese_rewrite Rahim_Ask_GoatTribe_2d5b9008:
 
@@ -15426,7 +15426,7 @@ translate schinese_rewrite Rahim_Apron_Quest_a0e55179:
 translate schinese_rewrite Rahim_Apron_Quest_c69cb282:
 
     # e "No, I asked him to take the apron to you... He ripped a hole in there accidentally."
-    e "不，我是让他把围裙拿给你的……他不小心在上面戳了个洞。"
+    e "不，我是让他把围裙拿给你的……他不小心把围裙撕破了，弄出了个洞。"
 
 translate schinese_rewrite Rahim_Apron_Quest_6504d9b5:
 
@@ -15756,7 +15756,7 @@ translate schinese_rewrite Rahim_Outfit_Quest_b772bf60:
 translate schinese_rewrite Rahim_Outfit_02_c20ab467:
 
     # e "Rahim. I got the feedback you need. Lothar, Jog and Amble like it. Lothar even wants one for himself."
-    e "雷希姆，我已经拿到你想要的反馈了。洛萨尔、乔格和安布都很喜欢。洛萨尔甚至想给自己也来一套。"
+    e "雷希姆，我已经拿到你需要的反馈了。洛萨尔、乔格和安布都很喜欢。洛萨尔甚至想给自己也来一套。"
 
 translate schinese_rewrite Rahim_Outfit_02_c8bb9898:
 
@@ -16026,7 +16026,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_de3d5d0f:
 translate schinese_rewrite Rahim_Reconciliation_Begin_a885819a:
 
     # r "If you want to go and get kil-"
-    r "如果你想去杀—"
+    r "如果你想去杀——"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_e722cccd:
 
@@ -16236,7 +16236,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_b0d87eca:
 translate schinese_rewrite Rahim_Reconciliation_Begin_37ca7bc1:
 
     # s "See, I don't even fucking kno-"
-    s "看吧，我他妈连——"
+    s "看吧，我他妈根本不知——"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_9272e4f9:
 
@@ -16306,7 +16306,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_c5e035c0:
 translate schinese_rewrite Rahim_Reconciliation_Begin_86de5497:
 
     # "Your hand slips, making a loud thumping sound right on the wall, you can feel they pause just to your voice."
-    "你的手一滑，重重撞在墙上发出巨响，你感觉他们停了下来，只听着你的动静。"
+    "你的手一滑，重重撞在墙上，发出一声巨响；你能感觉到他们停了下来，只听着你这边的动静。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_1059247f:
 
@@ -16401,7 +16401,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_de831280:
 translate schinese_rewrite Rahim_Reconciliation_Begin_1c936252:
 
     # r "Kid, you're giving me a headache, as if two aren't already enough."
-    r "小子，你让我头疼，仿佛我头疼两次还不够似的。"
+    r "小子，你让我头疼，仿佛两个麻烦还不够似的。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_b6a95233:
 
@@ -16421,7 +16421,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_7fc2f5b4:
 translate schinese_rewrite Rahim_Reconciliation_Begin_c6a62f64:
 
     # r "Everything would've been fine if you young people do your job, live for the day, and learn to listen for once."
-    r "你们年轻人要是做好自己的事、活在当下，并且学会听一次人话，一切本来都会好好的。"
+    r "你们年轻人要是做好自己的事、活在当下，也肯听人劝一次，一切本来都会好好的。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_ad0ce4b8:
 
@@ -16926,7 +16926,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_74713bc0:
 translate schinese_rewrite Rahim_Reconciliation_Begin_546fb7b4:
 
     # f "But-... the problem is, our general can feel its power being somewhere very near. We are afraid if they were the same personels who had stolen our basin."
-    f "可是……问题在于，我们的将军能感觉到那股力量就在附近。我们担心，他们就是偷走我们盆地的那群人。"
+    f "可是……问题在于，我们的将军能感觉到那股力量就在附近。我们担心，他们就是偷走我们水盆的那群人。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_e567fbef:
 
@@ -16941,7 +16941,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_84877592:
 translate schinese_rewrite Rahim_Reconciliation_Begin_9d50aa59:
 
     # f "We should join our forces, our people, and your people. To prepare for the looming threat."
-    f "我们应该 объедин合双方的力量，让我们的人和你们的人联合起来，为迫在眉睫的威胁做好准备。"
+    f "我们应该集结双方的人手，共同为迫在眉睫的威胁做好准备。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_b29baad6:
 
@@ -16986,7 +16986,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_6417f006:
 translate schinese_rewrite Rahim_Reconciliation_Begin_0d899c36:
 
     # r "It was your people's doing. Your father and his reckless soldiers' spell crumpled our houses like they were his playthings, must be accidents that people happen to be inside."
-    r "这一切都是你们的人干的。你父亲和那些鲁莽士兵施放的法术，把我们的房子揉皱得像玩具一样，难道只是因为碰巧有人在里面才造成的意外？"
+    r "这一切都是你们的人干的。你父亲和那些鲁莽士兵施放的法术，把我们的房子像玩具一样压垮了；难道只是因为里面碰巧有人才算是意外吗？"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_e51d452c:
 
@@ -17151,7 +17151,7 @@ translate schinese_rewrite Rahim_Reconciliation_Begin_0f29cad7:
 translate schinese_rewrite Rahim_Reconciliation_Begin_882cff6f:
 
     # "He whispers, trying to keep it low as you both can still feel the anger of Rahim looming by."
-    "他压低声音耳语着，毕竟你们仍能感受到雷希姆的怒意在一旁徘徊。"
+    "他压低声音说道；你们仍能感受到雷希姆的怒意就在附近。"
 
 translate schinese_rewrite Rahim_Reconciliation_Begin_8795d133:
 
@@ -17476,7 +17476,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_3d32195c:
 translate schinese_rewrite Rahim_Voting_Quest_Begin_05eb3a09:
 
     # "He smiles at you, it's just so rare to see him finally be happy, even if it's just a glimpse."
-    "他朝你笑了笑。哪怕只是一瞬间，也很少见他终于露出幸福的样子。"
+    "他朝你笑了笑。哪怕只是一瞬间，也难得见他终于开心起来。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_c77151f7:
 
@@ -17491,7 +17491,7 @@ translate schinese_rewrite Rahim_Voting_Quest_Begin_33741c33:
 translate schinese_rewrite Rahim_Voting_Quest_Begin_0489cc22:
 
     # r "I will announce that a voting day is to come soon. It will decide whether we will form an alliance with the goats once more."
-    r "我会宣布，很快就要举行投票日了。这将决定我们是否再次与山羊族结盟。"
+    r "我会宣布，投票日很快就要到了。这将决定我们是否再次与山羊族结盟。"
 
 translate schinese_rewrite Rahim_Voting_Quest_Begin_c610d578:
 
@@ -17581,7 +17581,7 @@ translate schinese_rewrite Rahim_Voting_Announcement_837d63f1:
 translate schinese_rewrite Rahim_Voting_Announcement_19e0fc30:
 
     # r "I have not been standing here for, well. Since the last mayor passed away long ago."
-    r "我已经很久没有站在这里了……嗯，上一次还是在上一任镇长很久以前去世之后。"
+    r "我已经很久没站在这里了……上一次还是在上一任镇长去世后，那已经是很久以前的事了。"
 
 translate schinese_rewrite Rahim_Voting_Announcement_c0cd01fc:
 
@@ -17761,7 +17761,7 @@ translate schinese_rewrite Rahim_Voting_Opinion_4a2cc905:
 translate schinese_rewrite Sebas_Voting_Opinion_c55795b4:
 
     # e "Hey, Seb, how do you think about the vote?"
-    e "嘿，塞巴斯，你觉得这次投票怎么样？"
+    e "嘿，塞巴，你对这次投票怎么看？"
 
 translate schinese_rewrite Sebas_Voting_Opinion_ef4ee862:
 
@@ -17801,7 +17801,7 @@ translate schinese_rewrite Sebas_Voting_Opinion_c14757a8:
 translate schinese_rewrite Sebas_Voting_Opinion_681446b3:
 
     # s "And he's letting me organise everything, like a stamp with this lion face here."
-    s "他还让我负责安排一切，比如这个印着狮子脸的印章。"
+    s "他还让我负责安排一切，比如制作这个印着狮子脸的印章。"
 
 translate schinese_rewrite Sebas_Voting_Opinion_60060c8e:
 
@@ -17811,7 +17811,7 @@ translate schinese_rewrite Sebas_Voting_Opinion_60060c8e:
 translate schinese_rewrite Sebas_Voting_Opinion_ea51ae1a:
 
     # s "These precious little chops are from some pledges I got earlier, just repurposed it and added my own pattern."
-    s "这些珍贵的小印章是我之前从一些请愿书上弄来的，我把它们重新利用了一下，还加上了自己的图案。"
+    s "这些珍贵的小印章是我之前从一些抵押物上弄来的，我把它们重新利用了一下，还加上了自己的图案。"
 
 translate schinese_rewrite Sebas_Voting_Opinion_63b5b01d:
 
@@ -17941,7 +17941,7 @@ translate schinese_rewrite Lothar_Voting_Opinion_209707be:
 translate schinese_rewrite Lothar_Voting_Opinion_ed9922da:
 
     # l "There's no way I tell you, [e]. And don't let me see you vote otherwise."
-    l "我没法告诉你，[e]。别让我看到你投出不同的票。"
+    l "我才不会告诉你，[e]。别让我看到你投不同的票。"
 
 translate schinese_rewrite Amble_Voting_Ask_Cement_50d15ed8:
 
@@ -18196,7 +18196,7 @@ translate schinese_rewrite Amble_Voting_Opinion_f61830b2:
 translate schinese_rewrite Amble_Voting_Opinion_59e2b738:
 
     # a "Hah, well. I don't doubt that! But the large rocks I need is probably bigger than you do, so it's safer for me to carry."
-    a "哈，好吧。我不怀疑这一点！不过，我需要的大石头可能比你还大，所以还是由我来搬更安全。"
+    a "哈，好吧。我不怀疑这一点！不过，我需要的大石头可能比你要搬的那些大得多，所以还是由我来搬更安全。"
 
 translate schinese_rewrite Amble_Voting_Opinion_7fc77197:
 
@@ -18631,7 +18631,7 @@ translate schinese_rewrite Amble_Voting_Clearing_Work_Back_52da51dc:
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_41bcc92c:
 
     # "Amble scratches the back of his head squirmishly, his cheeks perks up, revealing a wide grin."
-    "安布局促不安地挠着后脑勺，脸颊扬起，露出灿烂的笑容。"
+    "安布不安地挠着后脑勺，脸颊扬起，露出灿烂的笑容。"
 
 translate schinese_rewrite Amble_Voting_Clearing_Work_Back_6a098f7f:
 
@@ -19576,7 +19576,7 @@ translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_1c00a361:
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_73701db5:
 
     # e "Ah, did you decide what you're gonna vote?"
-    e "啊，你决定好要投谁了吗？"
+    e "啊，你决定好要投什么了吗？"
 
 translate schinese_rewrite Amble_Voting_Continue_Last_Stretch_Start_194b3b5e:
 
@@ -20276,7 +20276,7 @@ translate schinese_rewrite Ole_Voting_Doing_Ourselves_b0985e66:
 translate schinese_rewrite Ole_Voting_Doing_Ourselves_4df4d62a:
 
     # e "Damn, Ole. You sure did a lot of research on that supplier you don't even know."
-    e "见鬼，奥利。你居然对那个连自己都不认识的供应商做了这么多调查。"
+    e "见鬼，奥利。你居然对那个你甚至都不认识的供应商做了这么多调查。"
 
 translate schinese_rewrite Ole_Voting_Doing_Ourselves_50e44e90:
 
@@ -21116,7 +21116,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_caff3fa5:
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_083e86a8:
 
     # p "Though, everyone's been talking about the alliance accord, so I might as well, strum {i}a chord{/i} on my lute."
-    p "不过，大家都在谈联盟协定，那我不妨在鲁特琴上弹{i}一曲{/i}。"
+    p "不过，大家都在谈联盟协定，那我不妨在鲁特琴上拨个{i}和弦{/i}。"
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_43180432:
 
@@ -21151,7 +21151,7 @@ translate schinese_rewrite Ole_Voting_Asking_Pirkka_71c9509b:
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_395d28dc:
 
     # p "Well, I {i}harp-pen{/i} to know some gists of making these fine instruments, but {i}string{/i} me along, what will be the story of this harp." nointeract
-    p "嗯，我{i}恰好{/i}懂得一些制作这类精美乐器的要领，不过先{i}拨弦{/i}问问我吧，这把竖琴究竟是怎么回事。" nointeract
+    p "嗯，我{i}恰好{/i}懂得一些制作这类精美乐器的要领，不过先别{i}吊{/i}我胃口，讲讲这把竖琴的来历吧。" nointeract
 
 translate schinese_rewrite Ole_Voting_Asking_Pirkka_a1364fe4:
 
@@ -22866,7 +22866,7 @@ translate schinese_rewrite Rahim_Vote_Day_6409e6aa:
 translate schinese_rewrite Rahim_Vote_Day_2d239ab4:
 
     # r "What I vote myself, is my own business. It's not your place to judge, Lothar."
-    r "我投什么票是我自己的事。雷希姆，你没资格评判我。"
+    r "我投什么票是我自己的事。你没资格评判我，洛萨尔。"
 
 translate schinese_rewrite Rahim_Vote_Day_75e9a106:
 
@@ -23376,7 +23376,7 @@ translate schinese_rewrite Jog_Voting_Opinion_58556e53:
 translate schinese_rewrite Jog_Voting_Opinion_e6c08990:
 
     # j "So, what I want from you is just simple, follow Seb to where the hell they are, and snoop, listen in, eavesdrop, just find out what he's doing."
-    j "所以，我要你做的很简单：跟着塞巴斯去看看他们他妈到底在哪里，偷偷观察、听听动静、窃听一下，总之查清楚他在做什么。"
+    j "所以，我要你做的很简单：跟着塞巴斯，找出他们他妈到底在哪儿，暗中观察、偷听，查清楚他在做什么。"
 
 translate schinese_rewrite Jog_Voting_Opinion_7ee05380:
 
@@ -23591,12 +23591,12 @@ translate schinese_rewrite Jog_Vote_Countdown_Success_e0783c3f:
 translate schinese_rewrite Jog_Vote_Countdown_Success_1bfe2d4d:
 
     # e "I'd rather trust him first hand."
-    e "我还是更愿意亲自向他确认。"
+    e "我还是更愿意亲自跟他打交道，凭自己的判断去信任他。"
 
 translate schinese_rewrite Jog_Vote_Countdown_Success_2090fb55:
 
     # j "You can ask him, if you're not afraid of getting your ass blasted by that jackass, I had taken that first hand when I still lived there."
-    j "你可以问他，前提是你不怕被那个混蛋把屁股捅烂。我还住在那儿的时候，可是亲身领教过。"
+    j "你可以问他，前提是你不怕被那个混蛋把屁股狠狠捅烂；我还住在那儿时就亲自领教过。"
 
 translate schinese_rewrite Jog_Vote_Countdown_Success_979ac5cc:
 
@@ -23716,7 +23716,7 @@ translate schinese_rewrite Jog_Vote_Follow_Sebas_f37bb17a:
 translate schinese_rewrite Jog_Vote_Follow_Sebas_d9e582b7:
 
     # s "I'M NEVER GONNA TALK TO YOU AGAIN. NO MORE, FUCK YOU."
-    s "我再也不会跟你说话了。没了，去你妈的。"
+    s "我再也不会跟你说话了。再也不会了，去你妈的。"
 
 translate schinese_rewrite Jog_Vote_Follow_Sebas_28e48662:
 

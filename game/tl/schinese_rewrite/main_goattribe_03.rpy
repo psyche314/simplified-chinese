@@ -381,7 +381,7 @@ translate schinese_rewrite Gwyddyon_First_Meet_a5e03c15:
 translate schinese_rewrite Gwyddyon_First_Meet_a3894f8c:
 
     # "You decide to probe Gwyddyon again."
-    "你决定再次向格威迪恩打听。"
+    "你决定再次试探格威迪恩。"
 
 translate schinese_rewrite Gwyddyon_First_Meet_8eaef675:
 
@@ -1076,7 +1076,7 @@ translate schinese_rewrite Gwyddyon_Mining_Task_2d1b86a7:
 translate schinese_rewrite Gwyddyon_Mining_Task_a113fe33:
 
     # e "A-ah... alright. Seb would happily take it home and frame this thing along with the other rocks."
-    e "啊……好吧。塞巴斯肯定会很乐意把它带回家，和其他石头一起装框。"
+    e "啊、啊……好吧。塞巴斯肯定会乐意把这东西带回家，和其他石头一起装框。"
 
 translate schinese_rewrite Gwyddyon_Mining_Task_92aae5ef:
 

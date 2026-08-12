@@ -201,7 +201,7 @@ translate schinese_rewrite Gwyddyon_Shopping_Loop_8fc4508f:
 translate schinese_rewrite Gwyddyon_Shopping_Loop_5e675378:
 
     # g "Oh, moonstone. These are quite the rare rocks. You'd think they would have gone depleted by now but some people keep discovering more moonstone veins around, just get some one [mmm] gold."
-    g "哦，月长石。这些可是相当稀有的石头。你本以为它们早就该被挖光了，可总有人不断发现新的月长石矿脉。随便弄些来，只要[mmm]枚金币。"
+    g "哦，月光石。这些可是相当稀有的石头。你本以为它们早就该被挖光了，可总有人不断发现新的月光石矿脉。随便弄些来，只要[mmm]枚金币。"
 
 translate schinese_rewrite Gwyddyon_Shopping_Loop_0cb66860:
 

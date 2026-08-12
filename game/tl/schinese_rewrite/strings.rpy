@@ -415,7 +415,7 @@ translate schinese_rewrite strings:
     new "熊族指挥官"
 
     old "Bear Fur"
-    new "熊皮"
+    new "熊毛皮"
 
     old "Bear Tribe Harpoon"
     new "熊族鱼叉"
@@ -427,19 +427,19 @@ translate schinese_rewrite strings:
     new "暴食者"
 
     old "Book of Fiery Charge"
-    new "烈焰冲锋之书"
+    new "爆炎冲锋之书"
 
     old "Book of Immolation"
     new "焚身之书"
 
     old "Book of Spectral Orb"
-    new "幽灵法球之书"
+    new "幽魂法球之书"
 
     old "Book of Sundering Surge"
     new "裂解冲击之书"
 
     old "Book of Tranquil Mend"
-    new "宁静治愈之书"
+    new "宁静疗愈之书"
 
     old "Bound"
     new "束缚"
@@ -637,7 +637,7 @@ translate schinese_rewrite strings:
     new "可收集的材料："
 
     old "Come back tomorrow!\n- Postmaster"
-    new "明天再来！\n- 邮差"
+    new "明天再来！\n- 邮务长"
 
     old "Come one, come all!\n See the amazing feats of magic\n performed by the great Ribba!\n\n Shows every Weekday night\n at the Travelling Carousal!\n See you on the great plains!"
     new "诸位，快来看看！\n见识伟大的里巴施展\n令人惊叹的魔法！\n\n每个工作日夜晚\n在巡回嘉年华上演出！\n大平原上不见不散！"
@@ -754,7 +754,7 @@ translate schinese_rewrite strings:
     new "水晶弦"
 
     old "Ctrl"
-    new "控制"
+    new "Ctrl"
 
     old "Cult Acolyte"
     new "邪教侍从"
@@ -835,7 +835,7 @@ translate schinese_rewrite strings:
     new "要闻伍尔顿的缠腰布吗？"
 
     old "Do you want to fight the stone ward?"
-    new "要与石灵战斗吗？"
+    new "要与石之结界战斗吗？"
 
     old "Do you want to fight with the minotaur?"
     new "要与弥诺陶洛斯一起战斗吗？"
@@ -925,19 +925,19 @@ translate schinese_rewrite strings:
     new "你感到全身平静，坚韧性得到增强。"
 
     old "Feral"
-    new "野性"
+    new "狂化狼人"
 
     old "Feral Werewolf"
-    new "狂野狼人"
+    new "狂化狼人"
 
     old "Fetch some herbs for Haskell"
     new "为哈斯克尔采些草药"
 
     old "Fiery Charge"
-    new "烈焰冲锋"
+    new "爆炎冲锋"
 
     old "Fiery Charge: {p} Deal damage and burn all enemies for 3 rounds based on your INT."
-    new "烈焰冲锋：{p} 根据你的智力对所有敌人造成伤害，并使其燃烧3回合。"
+    new "爆炎冲锋：{p} 根据你的智力对所有敌人造成伤害，并使其燃烧3回合。"
 
     old "Finish with his Strength Potion Request"
     new "完成他的力量药水请求"
@@ -1186,7 +1186,7 @@ translate schinese_rewrite strings:
     new "山楂"
 
     old "Hefty Slime"
-    new "大块头史莱姆"
+    new "巨型史莱姆"
 
     old "Help Lothar"
     new "帮助洛萨尔"
@@ -1198,7 +1198,7 @@ translate schinese_rewrite strings:
     new "大麻"
 
     old "Herd"
-    new "兽群"
+    new "赫德"
 
     old "Hexroot"
     new "咒根"
@@ -1264,7 +1264,7 @@ translate schinese_rewrite strings:
     new "我是来找凯恩的"
 
     old "INT: [pc.itg]"
-    new "INT：[pc.itg]"
+    new "智力：[pc.itg]"
 
     old "Immolation"
     new "焚烧"
@@ -1486,7 +1486,7 @@ translate schinese_rewrite strings:
     new "弥诺陶洛斯精华"
 
     old "Moine"
-    new "修道士"
+    new "莫因"
 
     old "Mon"
     new "蒙"
@@ -1501,7 +1501,7 @@ translate schinese_rewrite strings:
     new "飞蛾人"
 
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "鼠标滚轮向上\n点击回滚侧边"
+    new "鼠标滚轮向上\n点击侧边回滚"
 
     old "Mugwort"
     new "艾草"
@@ -1690,7 +1690,7 @@ translate schinese_rewrite strings:
     new "拒绝伏罗"
 
     old "Remind me, the spritebinder, or refer it as the collective consciousness of eight spectral entities. These individuals, a rather inquisitive bunch, seemed to be quite the genius scholars, or whatever such pursuits are called on the other side, who somehow brought themselves to this land.\n\nThe incident is unlikely to repeat itself. As far as the land is concerned, no one aside from Chime has laid eyes on them. I suspect he followed me into the heart of the forest, where I first encountered these peculiar intruders. However, the actual event transpired within the crypt, and I made sure that no one could access there."
-    new "记住，精灵缚师——或者说，由八个幽灵实体组成的集体意识。这些家伙颇为好奇，似乎都是天才学者，或者说是在另一边从事类似研究的人，不知怎的来到了这片土地。\n\n这起事件不太可能重演。就这片土地而言，除了齐门，没有人见过它们。我怀疑他跟着我进入了森林深处，我就是在那里第一次遇到这些古怪的闯入者。不过，真正的事件发生在墓穴中，而且我确保没人能进入那里。"
+    new "记住，精灵缚者——或者说，由八个幽灵实体组成的集体意识。这些家伙颇为好奇，似乎都是天才学者，或者说是在另一边从事类似研究的人，不知怎的来到了这片土地。\n\n这起事件不太可能重演。就这片土地而言，除了齐门，没有人见过它们。我怀疑他跟着我进入了森林深处，我就是在那里第一次遇到这些古怪的闯入者。不过，真正的事件发生在墓穴中，而且我确保没人能进入那里。"
 
     old "Remove some rocks with Amble"
     new "和安布一起清理一些岩石"
@@ -1732,13 +1732,13 @@ translate schinese_rewrite strings:
     new "向伍尔顿报告并治愈伏罗"
 
     old "Resolution"
-    new "解决方案"
+    new "净心"
 
     old "Resolution: {p} Reduce your Lust based on your INT."
-    new "决心：{p} 根据你的智力降低欲望值。"
+    new "净心：{p} 根据你的智力降低欲望值。"
 
     old "Resolution: {p} Reduce your Lust based on your INT. Costs 25 MP."
-    new "决意：{p} 根据你的智力降低欲望值。消耗25点魔力。"
+    new "净心：{p} 根据你的智力降低欲望值。消耗25点魔力。"
 
     old "Resonator Gem"
     new "共鸣宝石"
@@ -1756,7 +1756,7 @@ translate schinese_rewrite strings:
     new "粗俗长笛"
 
     old "STR: [pc.stg]"
-    new "STR：[pc.stg]"
+    new "力量：[pc.stg]"
 
     old "Sage"
     new "鼠尾草"
@@ -1810,7 +1810,7 @@ translate schinese_rewrite strings:
     new "卢斯特菲尔德应该与山羊部落结盟吗？"
 
     old "Should you attack the Stone Ward?"
-    new "你应该攻击石之守卫吗？"
+    new "你应该攻击石之结界吗？"
 
     old "Should you go in, or continue to eavasdrop from outside?"
     new "你应该进去，还是继续在外面偷听？"
@@ -1888,13 +1888,13 @@ translate schinese_rewrite strings:
     new "留兰香"
 
     old "Spectral Orb"
-    new "幽灵法球"
+    new "幽魂法球"
 
     old "Spectral Orb: {p} Each cast increases the power of the orb by 5, then deals damage to all enemies. The next attack consumes all charges to heal you based on your INT."
-    new "幽灵法球：{p}每次施放都会使法球威力提高5点，然后对所有敌人造成伤害。下一次攻击会消耗所有层数，并根据你的INT为你恢复生命值。"
+    new "幽魂法球：{p}每次施放都会使法球威力提高5点，然后对所有敌人造成伤害。下一次攻击会消耗所有层数，并根据你的智力为你恢复生命值。"
 
     old "Spectral Orbs: {p} Target's next attack will heal based on the number of orbs."
-    new "幽灵法球：{p}目标的下一次攻击将根据法球数量恢复生命值。"
+    new "幽魂法球：{p}目标的下一次攻击将根据法球数量恢复生命值。"
 
     old "Spirespike"
     new "尖塔刺"
@@ -1978,7 +1978,7 @@ translate schinese_rewrite strings:
     new "毛衣"
 
     old "TEN: [pc.ten]"
-    new "十： [pc.ten]"
+    new "坚韧：[pc.ten]"
 
     old "Take Rahim's Commission"
     new "接取雷希姆的委托"
@@ -2044,7 +2044,7 @@ translate schinese_rewrite strings:
     new "告诉雷希姆你已准备好投票"
 
     old "Tell everything you know"
-    new "告诉他你知道的一切"
+    new "说出你知道的一切"
 
     old "Tell him to go to Rahim's House"
     new "告诉他去雷希姆家"
@@ -2107,7 +2107,7 @@ translate schinese_rewrite strings:
     new "莫肯最大的部落坐落于凯西山脉，当地居民称其为凯奇欧伦。{p}这个部落以对法术的痴迷，以及山顶上的魔力储备而闻名。"
 
     old "The new addition of beer in Nocturnal Trunk, it recoveres 40 HP and 40 MP, but increases Lust by 20 as well."
-    new "夜行酒馆新添的啤酒，可恢复40点生命值和40点魔力值，但也会使欲望增加20点。"
+    new "夜夜椿酒馆新添的啤酒，可恢复40点生命值和40点魔力值，但也会使欲望增加20点。"
 
     old "The oldest surviving tree in Mokken. {p} The mysterious secret trapped within the tree is a part of the goat tribe mythology, where most of their festivals take place."
     new "莫肯现存最古老的树。{p}树中封存的神秘秘密，是山羊部落神话的一部分，他们的大多数节庆都在那里举行。"
@@ -2338,7 +2338,7 @@ translate schinese_rewrite strings:
     new "{color=#000}洛萨尔遭豺狼人伏击{/color}"
 
     old "{color=#000} Meeting of Furkan and Kari{/color}"
-    new "{color=#000}与弗坎相遇{/color}"
+    new "{color=#000}弗坎与卡里相遇{/color}"
 
     old "{color=#000} Winning and Topping the Gnoll{/color}"
     new "{color=#000}战胜并压制豺狼人{/color}"
@@ -2374,7 +2374,7 @@ translate schinese_rewrite strings:
     new "{color=#000}输给强盗首领{/color}"
 
     old "{color=#000}Losing to Hefty/Malignant Slime{/color}"
-    new "{color=#000}输给魁梧/邪恶史莱姆{/color}"
+    new "{color=#000}输给巨型/恶性史莱姆{/color}"
 
     old "{color=#000}Losing to a Lustful Jotunn with 65 Purity{/color}"
     new "{color=#000}以65点纯洁度输给好色的约顿{/color}"
@@ -2446,7 +2446,7 @@ translate schinese_rewrite strings:
     new "{s}向他展示魔像之手{/s}"
 
     old "Moonstone Amulet"
-    new "月长石护符"
+    new "月光石护符"
 
     old "Mossy Freshwater"
     new "长满苔藓的淡水"
@@ -2974,7 +2974,7 @@ translate schinese_rewrite strings:
     new "汇报逃跑的狼人"
 
     old "Report about the feral werewolf"
-    new "汇报野生狼人"
+    new "汇报狂化狼人"
 
     old "Report about the material for the bridge"
     new "汇报桥梁材料"
@@ -3307,7 +3307,7 @@ translate schinese_rewrite strings:
     new "歌织者斗篷"
 
     old "Songweaver Hat"
-    new "毒舌"
+    new "歌织者帽"
 
     old "Soremouthed"
     new "口无遮拦"
@@ -3550,16 +3550,16 @@ translate schinese_rewrite strings:
     new "黑暗森林中，道路被猎杀中的狼人放置的木桶挡住，分岔成不同路线的区域 {p} 如果不熟悉方向，访客很容易迷路。"
 
     old "The Book grants you a spell that attacks enemy with wounded and bruised effect."
-    new "书中记载了一个能使敌人陷入受伤和淤青状态的法术。"
+    new "这本书赋予你一个能攻击敌人并施加受伤和淤伤效果的法术。"
 
     old "The Book grants you a spell that burns all enemies."
-    new "书中记载了一个能灼烧所有敌人的法术。"
+    new "这本书赋予你一个能灼烧所有敌人的法术。"
 
     old "The Book grants you a spell that deals increased damage each time you cast it, and explodes into a healing aura the next time you attack."
     new "书中记载了一个每次施放都会提高伤害，并在你下次攻击时爆发出治疗光环的法术。"
 
     old "The Book grants you a spell that heals you and your ally over time."
-    new "书中记载了一个能随时间治愈你和盟友的法术。"
+    new "书中记载了一个能持续治疗你和盟友的法术。"
 
     old "The Botanical Journal is covered with slime, accompanied by a few loose pages, it describes details of different plants species around the dark forest."
     new "这本植物学日志沾满了黏液，旁边散落着几页纸张，记载了黑暗森林周围不同植物种类的详细信息。"
@@ -3595,7 +3595,7 @@ translate schinese_rewrite strings:
     new "森林中央的古井，据说有人住在这口古井附近。"
 
     old "The Scroll grants you ability to discover a trinket that applies wounds to your spells."
-    new "卷轴让你能够发现一种饰品，使你的法术造成创伤。"
+    new "卷轴让你能够发现一种能为法术附加受伤效果的饰品。"
 
     old "The Scroll grants you ability to discover a trinket that enhances your critical damage"
     new "卷轴让你能够发现一种提升暴击伤害的饰品。"
@@ -3775,7 +3775,7 @@ translate schinese_rewrite strings:
     new "交易流动的水"
 
     old "Trapped: {p} Target's dodge and lust immunity are reduced by 50%."
-    new "陷阱：{p}目标的闪避和欲望免疫降低50%。"
+    new "受困：{p}目标的闪避和欲望免疫降低50%。"
 
     old "Truce"
     new "休战"
@@ -3808,10 +3808,10 @@ translate schinese_rewrite strings:
     new "乌菲"
 
     old "Uffe asks me to get into the hiding place of a pair of werewolves who planned to escape the forest. I need to make a choice."
-    new "乌菲要我潜入一对计划逃离森林的狼人的藏身处。我需要做出选择。"
+    new "乌菲要我进入一对计划逃离森林的狼人的藏身处。我需要做出选择。"
 
     old "Uffe wants me to... kill a feral werewolf from the cave and take his rings. I should explore around the dark forest to find the cave."
-    new "乌菲想让我……杀掉洞穴里的一只野性狼人，并拿走他的戒指。我得在黑暗森林附近探索，找到那个洞穴。"
+    new "乌菲想让我……杀掉洞穴里的一只狂化狼人，并拿走他的戒指。我得在黑暗森林附近探索，找到那个洞穴。"
 
     old "Uh..."
     new "呃……"
@@ -3904,7 +3904,7 @@ translate schinese_rewrite strings:
     new "狼人"
 
     old "Werewolf Whistle"
-    new "狼人哨"
+    new "狼人哨子"
 
     old "What are the rocks on the counter?"
     new "柜台上的石头是什么？"
@@ -3976,7 +3976,7 @@ translate schinese_rewrite strings:
     new "当店主之前，你过着怎样的生活"
 
     old "What were you really up to?"
-    new "你以前到底是做什么的？"
+    new "你到底在做什么？"
 
     old "What's going on?"
     new "怎么回事？"
@@ -4393,7 +4393,7 @@ translate schinese_rewrite strings:
     new "{#file_time}%Y年%B%d日 %A %H:%M"
 
     old "{#quick_page}Q"
-    new "{#quick_page}快"
+    new "{#quick_page}Q"
 
     old "{color=#000} Drinking from Haskell in tea session{/color}"
     new "{color=#000}茶会中从哈斯克尔那里饮用{/color}"
@@ -4414,7 +4414,7 @@ translate schinese_rewrite strings:
     new "{color=#000} 在熊卫战斗中落败{/color}"
 
     old "{color=#000} Losing to a spritebinder before the elk arrives{/color}"
-    new "{color=#000}在麋鹿赶来前输给精灵缚师{/color}"
+    new "{color=#000}在麋鹿赶来前输给精灵缚者{/color}"
 
     old "{color=#000} Losing to the cult acolyte{/color}"
     new "{color=#000} 输给邪教侍僧{/color}"
@@ -4462,7 +4462,7 @@ translate schinese_rewrite strings:
     new "{color=#000}向乔格学习技能{/color}"
 
     old "{color=#000}Losing in Feral Battle{/color}"
-    new "{color=#000}在野兽战中落败{/color}"
+    new "{color=#000}在狂化狼人战斗中落败{/color}"
 
     old "{color=#000}Losing in Goat Battle{/color}"
     new "{color=#000}在山羊战中落败{/color}"
@@ -4483,10 +4483,10 @@ translate schinese_rewrite strings:
     new "{color=#000}在狼人战中落败{/color}"
 
     old "{color=#000}Losing to Feral Werewolf with 80 Purity{/color}"
-    new "{color=#000}输给纯洁度为80的野性狼人{/color}"
+    new "{color=#000}输给纯洁度为80的狂化狼人{/color}"
 
     old "{color=#000}Losing to Malignant/Hefty Slime with 70 Purity{/color}"
-    new "{color=#000}输给纯洁度为70的恶性/强壮史莱姆{/color}"
+    new "{color=#000}输给纯洁度为70的恶性/巨型史莱姆{/color}"
 
     old "{color=#000}Masturbating at Day Time{/color}"
     new "{color=#000}白天自慰{/color}"
@@ -4729,7 +4729,7 @@ translate schinese_rewrite strings:
     new "一只巨大的爪子猛地朝你的手腕抓来。"
 
     old "A moonstone-threaded chaperon with a long draping liripipe and a softly glowing clasp. Its woven magic steadies the mind and shields the wearer with a faint ward."
-    new "一顶用月长石丝线织成的帽兜，带有长长垂下的帽尾和柔光闪烁的扣饰。其编织魔力能稳定心神，并以微弱的护盾保护佩戴者。"
+    new "一顶用月光石丝线织成的帽兜，带有长长垂下的帽尾和柔光闪烁的扣饰。其编织魔力能稳定心神，并以微弱的结界保护佩戴者。"
 
     old "A mysterious potion recipe that would temporarily increase the size and strength of the drinker."
     new "一份神秘的药剂配方，能暂时提升饮用者的体型与力量。"
@@ -4846,7 +4846,7 @@ translate schinese_rewrite strings:
     new "一种时髦的头饰，由首都的学者们推广开来。"
 
     old "A stylistic green hat of a renowned bard, decorated with two feathers from a legendary creature roaming on the plains."
-    new "一顶著名吟游诗人的别致绿帽，上面装饰着两根来自平原上游荡的传奇生物的羽毛。"
+    new "一顶著名吟游诗人的别致绿色帽子，上面装饰着两根来自平原上游荡的传奇生物的羽毛。"
 
     old "A sudden gust of wind rattles your head..."
     new "一阵突如其来的狂风吹得你的脑袋一阵晃动……"
@@ -5185,16 +5185,16 @@ translate schinese_rewrite strings:
     new "询问他对投票的看法"
 
     old "Ask about his plan after killing the feral werewolf"
-    new "询问杀死野生狼人后的计划"
+    new "询问杀死狂化狼人后的计划"
 
     old "Ask about his postmaster job"
-    new "询问他的邮差工作"
+    new "询问他的邮务长工作"
 
     old "Ask about his rocks"
     new "询问他的石头"
 
     old "Ask about his role as a wandering Bard"
-    new "询问他作为流浪吟游诗人的经历"
+    new "询问他作为流浪吟游诗人的身份"
 
     old "Ask about his role as the commander"
     new "询问他作为指挥官的职责"
@@ -5257,7 +5257,7 @@ translate schinese_rewrite strings:
     new "花[gwydd_gold]枚金币询问商店的历史"
 
     old "Ask about the Postmaster"
-    new "询问邮差"
+    new "询问邮务长"
 
     old "Ask about the Quest as his assistant"
     new "询问作为他助手的任务"
@@ -5347,7 +5347,7 @@ translate schinese_rewrite strings:
     new "询问桥梁所需的材料"
 
     old "Ask about the research on buggbears"
-    new "询问熊地精的研究"
+    new "询问有关熊地精的研究"
 
     old "Ask about the rumors of his retirement"
     new "询问他退休的传闻"
@@ -5443,7 +5443,7 @@ translate schinese_rewrite strings:
     new "询问药水是否准备好了"
 
     old "Ask more about Herd and the avalanche"
-    new "进一步询问有关兽群和雪崩的事"
+    new "进一步询问有关赫德和雪崩的事"
 
     old "Ask the rat patron for information about the rumoured ghost"
     new "向老鼠客人打听传闻中的幽灵"
@@ -6142,7 +6142,7 @@ translate schinese_rewrite strings:
     new "草药与收获"
 
     old "Herd stares at you."
-    new "兽群盯着你。"
+    new "赫德盯着你。"
 
     old "Hide"
     new "隐藏"

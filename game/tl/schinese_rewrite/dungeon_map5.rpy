@@ -56,7 +56,7 @@ translate schinese_rewrite Viscid_Stream_Loop_23cfcc65:
 translate schinese_rewrite Viscid_Stream_Loop_34be031e:
 
     # "You follow the dirt path in the Viscid Stream."
-    "你沿着黏液溪流中的土路前进。"
+    "你沿着黏稠溪流中的土路前进。"
 
 translate schinese_rewrite Viscid_Stream_Loop_bc68dbe3:
 
@@ -86,7 +86,7 @@ translate schinese_rewrite Viscid_Stream_Loop_f4239549:
 translate schinese_rewrite Viscid_Stream_Loop_34be031e_1:
 
     # "You follow the dirt path in the Viscid Stream."
-    "你沿着黏液溪流中的土路前进。"
+    "你沿着黏稠溪流中的土路前进。"
 
 translate schinese_rewrite Viscid_Stream_Loop_bc68dbe3_1:
 
@@ -106,7 +106,7 @@ translate schinese_rewrite Viscid_Stream_Loop_bf28d22e:
 translate schinese_rewrite Viscid_Stream_Loop_f6de1db2:
 
     # "You enter the viscid stream."
-    "你进入了黏液溪流。"
+    "你进入了黏稠溪流。"
 
 translate schinese_rewrite Viscid_Stream_Hefty_1cbe2585:
 
