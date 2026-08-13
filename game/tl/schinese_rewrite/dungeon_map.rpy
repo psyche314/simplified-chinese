@@ -181,7 +181,7 @@ translate schinese_rewrite Puro_Forest_Loop_baeb6be2:
 translate schinese_rewrite Puro_Forest_Loop_818887b1:
 
     # "Flipping through the pages, it seems to be about something called spritebinder."
-    "翻看这些纸页后，你发现里面似乎记载着一种叫作精灵缚者的东西。"
+    "翻看这些纸页后，你发现里面似乎记载着一种叫作缚灵者的东西。"
 
 translate schinese_rewrite Puro_Forest_Loop_69a255ab:
 

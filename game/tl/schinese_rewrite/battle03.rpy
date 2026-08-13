@@ -1206,7 +1206,7 @@ translate schinese_rewrite battle_escape_surrender_script_449a6dcd:
 translate schinese_rewrite battle_escape_surrender_script_f321de17:
 
     # "You try to escape, but the spritebinder's arm yanks you straight back into the fight."
-    "你试图逃跑，但精灵缚者的手臂猛地将你拽回战斗中。"
+    "你试图逃跑，但缚灵者的手臂猛地将你拽回战斗中。"
 
 translate schinese_rewrite battle_escape_surrender_script_89f13d8f:
 

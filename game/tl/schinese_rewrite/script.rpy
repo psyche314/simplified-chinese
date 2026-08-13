@@ -456,7 +456,7 @@ translate schinese_rewrite name_done_05a89661:
 translate schinese_rewrite name_done_77fe0a1e:
 
     # e "I was fighting the spritebinder, and I wasn't faring well."
-    e "我当时正和八臂鬼战斗，可完全招架不住。"
+    e "我当时正和缚灵者战斗，可完全招架不住。"
 
 translate schinese_rewrite name_done_7de67df1:
 
@@ -466,7 +466,7 @@ translate schinese_rewrite name_done_7de67df1:
 translate schinese_rewrite name_done_77fe0a1e_1:
 
     # e "I was fighting the spritebinder, and I wasn't faring well."
-    e "我当时正和八臂鬼战斗，可完全招架不住。"
+    e "我当时正和缚灵者战斗，可完全招架不住。"
 
 translate schinese_rewrite name_done_d6dff26e:
 

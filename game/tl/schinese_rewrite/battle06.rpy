@@ -971,37 +971,37 @@ translate schinese_rewrite spriteling_lose_a20cefa7:
 translate schinese_rewrite spritebinder_battle_33682342:
 
     # "The hooded sprite flaunts its arms, seemingly preparing to cast a spell."
-    "戴兜帽的精灵缚者挥动着手臂，似乎正准备施放咒术。"
+    "戴兜帽的缚灵者挥动着手臂，似乎正准备施放咒术。"
 
 translate schinese_rewrite spritebinder_battle_loop_3d10e393:
 
     # "The spritebinder strikes you with multiple arms, your health decreases by [enemy_damage] HP."
-    "精灵缚者用多条手臂击中你，你的生命值减少[enemy_damage]点。"
+    "缚灵者用多条手臂击中你，你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite spritebinder_battle_loop_65119793:
 
     # "The spritebinder tries to strike you, but miraculously, you manage to dodge all of his arms."
-    "精灵缚者试图击中你，但你奇迹般地躲过了它的所有手臂。"
+    "缚灵者试图击中你，但你奇迹般地躲过了它的所有手臂。"
 
 translate schinese_rewrite spritebinder_battle_loop_7d4bd58a:
 
     # "The spritebinder flings his arms to hold you in place. You try to struggle free, but it doesn't work."
-    "精灵缚者甩动手臂将你牢牢按住。你奋力挣扎着想要脱身，却无济于事。"
+    "缚灵者甩动手臂将你牢牢按住。你奋力挣扎着想要脱身，却无济于事。"
 
 translate schinese_rewrite spritebinder_battle_loop_37c5b80b:
 
     # "The spritebinder forms a fist stance, and punches you with each of his arms, your health decreases by [total_damage] HP."
-    "精灵缚者摆出拳势，挥动所有手臂向你出拳，你的生命值减少[total_damage]点。"
+    "缚灵者摆出拳势，挥动所有手臂向你出拳，你的生命值减少[total_damage]点。"
 
 translate schinese_rewrite spritebinder_battle_loop_65119793_1:
 
     # "The spritebinder tries to strike you, but miraculously, you manage to dodge all of his arms."
-    "精灵缚者试图击中你，但你奇迹般地躲过了它的所有手臂。"
+    "缚灵者试图击中你，但你奇迹般地躲过了它的所有手臂。"
 
 translate schinese_rewrite spritebinder_win_8dff8a65:
 
     # "Soon, the spritebinder falls to the ground, and the forest is quiet once again."
-    "很快，精灵缚者倒在地上，森林再次恢复了寂静。"
+    "很快，缚灵者倒在地上，森林再次恢复了寂静。"
 
 translate schinese_rewrite spritebinder_win_0ee36ad5:
 
@@ -1011,7 +1011,7 @@ translate schinese_rewrite spritebinder_win_0ee36ad5:
 translate schinese_rewrite spritebinder_win_c939b95d:
 
     # "The arms of the spritebinder slowly fades into the air..."
-    "精灵缚者的手臂缓缓消散在空气中……"
+    "缚灵者的手臂缓缓消散在空气中……"
 
 translate schinese_rewrite spritebinder_lose_3706482d:
 

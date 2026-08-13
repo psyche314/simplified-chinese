@@ -1903,7 +1903,7 @@ translate schinese_rewrite strings:
     new "分裂轨迹"
 
     old "Spritebinder"
-    new "精灵缚者"
+    new "缚灵者"
 
     old "Spriteling"
     new "小精灵"
@@ -4414,7 +4414,7 @@ translate schinese_rewrite strings:
     new "{color=#000} 在熊卫战斗中落败{/color}"
 
     old "{color=#000} Losing to a spritebinder before the elk arrives{/color}"
-    new "{color=#000}在麋鹿赶来前输给精灵缚者{/color}"
+    new "{color=#000}在麋鹿赶来前输给缚灵者{/color}"
 
     old "{color=#000} Losing to the cult acolyte{/color}"
     new "{color=#000} 输给邪教侍僧{/color}"
