@@ -146,7 +146,7 @@ translate schinese_rewrite werewolf_win_0c7e0760:
 translate schinese_rewrite werewolf_win_d13a5aec:
 
     # "You also found a pair of trousers... from a Hunter."
-    "你还找到了一条猎人长裤……"
+    "你还找到了一条裤子……来自一名猎人。"
 
 translate schinese_rewrite werewolf_win_d31bae78:
 
@@ -576,7 +576,7 @@ translate schinese_rewrite landshark_win_b34e8987:
 translate schinese_rewrite landshark_win_de023e00:
 
     # "You pick up a longsword from the where the landshark lands, it seems almost brand new."
-    "你从陆鲨落下的地方捡起一把骑士长剑，看起来几乎是全新的。"
+    "你从陆鲨落下的地方捡起一把长剑，看起来几乎是全新的。"
 
 translate schinese_rewrite landshark_win_025b0b55:
 
@@ -856,7 +856,7 @@ translate schinese_rewrite ratbandit_battle_loop_1d69ddb4:
 translate schinese_rewrite ratbandit_battle_loop_af823fd8:
 
     # "The rat bandit strikes his dagger towards you, you managed to deflect his bow and dodge the attack."
-    "鼠盗匪朝你挥出匕首，你成功挡开他的匕首并躲过了这一招。"
+    "鼠盗匪朝你挥出匕首，你成功挡开他的弓，并躲过了这一击。"
 
 translate schinese_rewrite ratbandit_battle_loop_dc566f85:
 
@@ -1521,7 +1521,7 @@ translate schinese_rewrite sharkbandit_battle_loop_97c0625a:
 translate schinese_rewrite sharkbandit_battle_loop_90f6895e:
 
     # "The shark bandit swings his axe towards you, you managed to deflect his bow and dodge the attack."
-    "鲨鱼盗匪挥斧砍来，你成功挡开了他的斧头，躲过了这次攻击。"
+    "鲨鱼强盗挥斧砍来，你成功挡开了他的弓，躲过了这次攻击。"
 
 translate schinese_rewrite sharkbandit_battle_loop_5baea727:
 

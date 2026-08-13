@@ -5206,7 +5206,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_97809891:
 translate schinese_rewrite Scene_Spritebinder_Lose_81178e7c:
 
     # e "I... I should've listened to allfather..."
-    e "唉……早知道就该听天父的话……"
+    e "唉……早知道就该听大长老的话……"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_8b96f285:
 
@@ -5311,7 +5311,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_e05e4fc1:
 translate schinese_rewrite Scene_Spritebinder_Lose_4ebf1f5d:
 
     # "You groan as the spritebinder pushes his thumb inside of you, the digit penetrating you with ease."
-    "你呻吟起来，精灵缚者将拇指推入你的体内，那根手指毫不费力地贯穿了你。"
+    "你呻吟起来，精灵缚者将拇指推入你的体内，那根手指毫不费力地插了进去。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_7011e0c4:
 
@@ -5331,7 +5331,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_858eb427:
 translate schinese_rewrite Scene_Spritebinder_Lose_e43f253b:
 
     # "You groan as the spritebinder works his fingers inside of you, pushing deeper and deeper into your ass, until he reaches the prostate, the gland sending a surge of pleasure through your body."
-    "你呻吟着，精灵缚者的手指在你体内动作，越插越深，直到触及前列腺；那腺体顿时将一阵快感传遍你的身体。"
+    "你呻吟着，精灵缚者的手指在你肛门内不断探弄，越插越深，直到触及前列腺；那腺体将一阵快感传遍你的身体。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_d3b007ae:
 
@@ -5401,7 +5401,7 @@ translate schinese_rewrite Scene_Spritebinder_Lose_9f166aa5:
 translate schinese_rewrite Scene_Spritebinder_Lose_62f5a2e5:
 
     # "The spritebinder milks every last drop of cum from your cock, stroking and pumping you until you are spent, he stares at the fluid curiously."
-    "精灵缚者继续抚弄抽动你的肉棒，榨出最后一滴精液，直到你彻底虚脱；它好奇地盯着那些液体。"
+    "精灵缚者抚弄、抽动你的肉棒，将最后一滴精液都榨了出来，直到你彻底虚脱；他好奇地盯着那些液体。"
 
 translate schinese_rewrite Scene_Spritebinder_Lose_1e48edf4:
 

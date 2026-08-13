@@ -51,7 +51,7 @@ translate schinese_rewrite main_alchemists_cabin_345648fb:
 translate schinese_rewrite main_alchemists_cabin_7f25484a:
 
     # "Haskell looks at the direction of your hand, a squirming sprout still bouncing around your palm."
-    "哈斯克尔望向你手的方向，你掌心里的芽苗还在扭动着蹦来蹦去。"
+    "哈斯克尔望向你手指的方向，你掌心里的芽苗还在扭动着蹦来蹦去。"
 
 translate schinese_rewrite main_alchemists_cabin_c9ee51ff:
 
@@ -201,7 +201,7 @@ translate schinese_rewrite main_woodland_outpost_21d7e940:
 translate schinese_rewrite main_woodland_outpost_4a5579c6:
 
     # "One of them immediately rushes inside, and a moment later, the general walks out towards you, still exhausted."
-    "其中一个立刻冲了进去，片刻后，将军走出来，朝你走来，依旧疲惫不堪。"
+    "其中一个立刻冲了进去。片刻后，将军依旧疲惫不堪地走出来，朝你走来。"
 
 translate schinese_rewrite main_woodland_outpost_78c284fa:
 
@@ -366,7 +366,7 @@ translate schinese_rewrite sparkling_lagoon_drink_7eacecbf:
 translate schinese_rewrite sparkling_lagoon_drink_868d48c6:
 
     # "When you look closely, you realise it was just a herb of grace..."
-    "你仔细一看，才发现那只是一株恩典草……"
+    "你仔细一看，才发现那只是一株芸香……"
 
 translate schinese_rewrite sparkling_lagoon_drink_b0710454:
 
@@ -376,7 +376,7 @@ translate schinese_rewrite sparkling_lagoon_drink_b0710454:
 translate schinese_rewrite sparkling_lagoon_drink_484eb984:
 
     # "You drink from the lagoon with your bucket, the refreshing power of the water recovered a portion of your HP and MP."
-    "你用水桶从泻湖中舀水喝下，清新的水之力让你恢复了部分生命值和魔力。"
+    "你用小木桶舀起湖水喝下，沁人心脾的湖水让你恢复了部分HP和MP。"
 
 translate schinese_rewrite sparkling_lagoon_drink_1778dec4:
 
@@ -521,7 +521,7 @@ translate schinese_rewrite summery_farmland_loop_e91ba75d_1:
 translate schinese_rewrite ancient_tree_loop_5ec750a1:
 
     # "As you are searching through the area, you hear a weak bell ringing from behind the trees behind you. You turn back and look around, but there's no one."
-    "你搜寻这片区域时，听到身后树木后传来微弱的铃声。你转身四下张望，却没有看到任何人。"
+    "你搜寻这片区域时，听到身后树木后方传来微弱的铃声。你转身四下张望，却没有看到任何人。"
 
 translate schinese_rewrite ancient_tree_loop_15e9f5b1:
 
@@ -621,7 +621,7 @@ translate schinese_rewrite sparkling_lagoon_loop_c2ae7326:
 translate schinese_rewrite sparkling_lagoon_loop_0c517644:
 
     # "You look around the sparkling lagoon, under the bright sun you see something tinted red in the bush, you went and pick it up. It was a red berry."
-    "你环顾苍耀泻湖，在灿烂的阳光下看到灌木丛中有一抹红色，便走过去将它捡起。那是一颗红莓。"
+    "你环顾苍耀湖，在灿烂的阳光下看到灌木丛中有一抹红色，便走过去将它捡起。那是一颗红莓。"
 
 translate schinese_rewrite sparkling_lagoon_loop_3a490989:
 
@@ -876,7 +876,7 @@ translate schinese_rewrite mossy_freshwater_loop_e91ba75d_1:
 translate schinese_rewrite woodland_outpost_loop_b9952a9e:
 
     # "While you are exploring the outpost, a shade of a giant brown creature lunges itself towards your side. You instantly get pushed on the ground."
-    "当你探索哨站时，一个巨大的棕色身影朝你这边扑来。你立刻被推倒在地。"
+    "当你探索哨站时，一个巨大的棕色身影朝你扑来。你立刻被扑倒在地。"
 
 translate schinese_rewrite woodland_outpost_loop_e4ba1378:
 
@@ -956,7 +956,7 @@ translate schinese_rewrite woodland_outpost_loop_54935489:
 translate schinese_rewrite woodland_outpost_loop_317229cd:
 
     # my "Where are you from... and.. why are you here... at the middle of the night..."
-    my "你是哪里人……还有……你为什么在半夜……待在这里？"
+    my "你是哪里人……还有……你为什么半夜还在这里？"
 
 translate schinese_rewrite woodland_outpost_loop_9119c4e7:
 
@@ -991,12 +991,12 @@ translate schinese_rewrite woodland_outpost_loop_d7bf05f9:
 translate schinese_rewrite woodland_outpost_loop_a4000d3b:
 
     # my "The courier from Lusterfield, Chief told me about you."
-    my "你就是卢斯特菲尔德来的信使，首领跟我提过你。"
+    my "卢斯特菲尔德来的信使，族长跟我提过你。"
 
 translate schinese_rewrite woodland_outpost_loop_2dd895ab:
 
     # my "I reckon you asked about some buddy of yours, Chime."
-    my "我猜你是来打听你的某个朋友，伙计。"
+    my "我猜你是来打听你的某个朋友——齐门的。"
 
 translate schinese_rewrite woodland_outpost_loop_d38f2198:
 
@@ -1146,7 +1146,7 @@ translate schinese_rewrite woodland_outpost_loop_e91ba75d_3:
 translate schinese_rewrite woodland_outpost_loop_0b22f34c:
 
     # "Around the outpost, you remember the specific bush from Furkan and pick up a certain plant, it was a Chrysanthemum."
-    "你想起弗坎提过的那片灌木，便捡起一株植物，原来是菊花。"
+    "你在哨站周围转了一圈，想起弗坎提过的那片灌木，便摘下一株植物，原来是菊花。"
 
 translate schinese_rewrite woodland_outpost_loop_95390042:
 
@@ -1206,17 +1206,17 @@ translate schinese_rewrite alchemists_cabin_loop_51ad78bd:
 translate schinese_rewrite alchemists_cabin_loop_13893b58:
 
     # "Around the cabin, you wander and pick up a certain plant from the garden, it was a Herb of Grace."
-    "你在小屋周围闲逛，从花园里拔起一株植物，原来是恩典草。"
+    "你在小屋周围闲逛，从花园里拔起一株植物，原来是芸香。"
 
 translate schinese_rewrite alchemists_cabin_loop_06c240e9:
 
     # "You put the herb of grace in your bag, you now have [item_number] herb of grace."
-    "你把恩典草放进背包，现在有[item_number]株恩典草。"
+    "你把芸香放进背包，现在有[item_number]株芸香。"
 
 translate schinese_rewrite alchemists_cabin_loop_06c240e9_1:
 
     # "You put the herb of grace in your bag, you now have [item_number] herb of grace."
-    "你把恩典草放进背包，现在有[item_number]株恩典草。"
+    "你把芸香放进背包，现在有[item_number]株芸香。"
 
 translate schinese_rewrite alchemists_cabin_loop_e91ba75d:
 
@@ -1306,7 +1306,7 @@ translate schinese_rewrite scene_slime_sex_f791e414:
 translate schinese_rewrite scene_slime_sex_f6a57a38:
 
     # "[e] feel increasingly sensitive as your private part is assaulted by the mere slime. You thrash your arm in hope of fighting against it, but they had already been held in place tightly."
-    "区区一只史莱姆侵犯着你的私处，让[e]越来越敏感。你挥动手臂，试图与它抗争，可双臂早已被紧紧固定住。"
+    "[e]的私处在这坨史莱姆的侵犯下变得越来越敏感。你疯狂挥动手臂，试图与它抗争，可双臂早已被紧紧固定住。"
 
 translate schinese_rewrite scene_slime_sex_1d6f585d:
 
@@ -1326,7 +1326,7 @@ translate schinese_rewrite scene_slime_sex_3bdca4bc:
 translate schinese_rewrite scene_slime_sex_2165b1c9:
 
     # "You had never thought about what it is like, to have someone, or something directly touch your genitals like that, the slime is clearly alive, you can feel it pulses on your cock, ready for the next attack."
-    "你从未想过，让某人或某种东西这样直接触碰自己的生殖器会是什么感觉。史莱姆显然是活的，你能感觉到它在你的肉棒上搏动，正为下一次袭击做好准备。"
+    "你从未想过，让某人或某种东西这样直接触碰自己的生殖器会是什么感觉。史莱姆显然是活的，你能感觉到它在你的肉棒上搏动，仿佛正为下一次袭击蓄势待发。"
 
 translate schinese_rewrite scene_slime_sex_17e24080:
 
@@ -1416,7 +1416,7 @@ translate schinese_rewrite scene_slime_sex_15896e16:
 translate schinese_rewrite scene_slime_sex_c6734a03:
 
     # "You can feel your own cum flowing everwhere, load after load of pent up lust released all at once, you can even feel some landed on your tongue, your brain can no longer function normally."
-    "你能感觉到自己的精液流得到处都是，积压已久的欲望一口气全部释放出来，甚至还有一些落到了舌头上。你的大脑已经无法正常运转。"
+    "你能感觉到自己的精液流得到处都是，积压已久的欲望随着一发又一发的射精在顷刻间释放，甚至还有一些落到了舌头上。你的大脑已经无法正常运转。"
 
 translate schinese_rewrite scene_slime_sex_b768f5e4:
 

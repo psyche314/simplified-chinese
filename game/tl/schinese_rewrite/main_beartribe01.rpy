@@ -266,7 +266,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_86e68085:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_1eb363a3:
 
     # bearGuard2 "Commander, we should capture him. Chief Kaurhu needs to know what happened here."
-    bearGuard2 "指挥官，我们应该把他抓起来。卡乌胡酋长必须知道这里发生了什么。"
+    bearGuard2 "指挥官，我们应该把他抓起来。考尔胡酋长必须知道这里发生了什么。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_dfa0ca92:
 
@@ -566,7 +566,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_35e470cc:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_aee11ff2:
 
     # bearGuard "C-chief Kaurhu, we couldn't catch him yet, but we found one of his accomplices."
-    bearGuard "首、酋长卡乌胡，我们还没抓到他，但找到了他的一个同伙。"
+    bearGuard "酋、酋长考尔胡，我们还没抓到他，但找到了他的一个同伙。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_0f137984:
 
@@ -601,7 +601,7 @@ translate schinese_rewrite Otsovaara_Introduction_Mislead_3b269090:
 translate schinese_rewrite Otsovaara_Introduction_Mislead_b5cb78f1:
 
     # "The chief listens intently, his gaze almost unrelenting as he absorbs your words."
-    "酋长专注地听着，吸收你的话语时，目光几乎片刻不移。"
+    "酋长专注地听你说着，目光几乎一刻也未曾移开。"
 
 translate schinese_rewrite Otsovaara_Introduction_Mislead_6a2ce497:
 
@@ -1331,7 +1331,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_ffe00dd0:
 translate schinese_rewrite Otsovaara_Introduction_Chase_4bfa236c:
 
     # d "Chief Kaurhu..."
-    d "卡乌胡酋长……"
+    d "考尔胡酋长……"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_cd1541ef:
 
@@ -1376,7 +1376,7 @@ translate schinese_rewrite Otsovaara_Introduction_Chase_539ce24c:
 translate schinese_rewrite Otsovaara_Introduction_Chase_3f3ba6d5:
 
     # d "This stranger was there too, he can attest for my claim, Chief Kaurhu."
-    d "这个陌生人当时也在场，他可以证明我说的是真的，卡乌胡酋长。"
+    d "这个陌生人当时也在场，他可以证明我说的是真的，考尔胡酋长。"
 
 translate schinese_rewrite Otsovaara_Introduction_Chase_50afd1d4:
 
@@ -2386,7 +2386,7 @@ translate schinese_rewrite Kaurhu_Normal_Talk_0858b66a:
 translate schinese_rewrite Kaurhu_Normal_Talk_60c8d94b:
 
     # e "Chief Kaurhu, can you tell me more about Herd?"
-    e "卡乌胡酋长，你能再告诉我一些关于赫德的事吗？"
+    e "考尔胡酋长，你能再告诉我一些关于赫德的事吗？"
 
 translate schinese_rewrite Kaurhu_Normal_Talk_05a1c963:
 
@@ -2831,7 +2831,7 @@ translate schinese_rewrite Daggi_Dialogue_ac60fa45:
 translate schinese_rewrite Methis_Introduction_691a76dd:
 
     # "You push open the wooden door, it opens with a small tinkling sound."
-    "你推开木门，门发出一声轻微的叮铃声。"
+    "你推开木门，门发出一阵轻微的叮铃声。"
 
 translate schinese_rewrite Methis_Introduction_5b499fe5:
 

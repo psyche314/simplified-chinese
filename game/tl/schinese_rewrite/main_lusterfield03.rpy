@@ -86,7 +86,7 @@ translate schinese_rewrite Jog_Lothar_Training_d608835b:
 translate schinese_rewrite Jog_Lothar_Training_314eca71:
 
     # j "Lot told us that you can't even beat the training dummy."
-    j "洛萨尔说你连训练人偶都打不过。"
+    j "洛哥说你连训练人偶都打不过。"
 
 translate schinese_rewrite Jog_Lothar_Training_5ebadbf1:
 

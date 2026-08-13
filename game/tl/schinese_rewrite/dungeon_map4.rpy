@@ -1556,7 +1556,7 @@ translate schinese_rewrite Chelforte_Discovery_0991b613:
 translate schinese_rewrite Chelforte_Discovery_80c6eacb:
 
     # "Vurro looks for a bit longer, until he gives up and accepts it for what it is."
-    "伏罗又看了他一会儿，直到放弃，接受了伍尔顿不会保证这一点。"
+    "伏罗又看了伍尔顿一会儿，最终放弃，接受了这一点。"
 
 translate schinese_rewrite Chelforte_Discovery_583cd602:
 
@@ -1651,7 +1651,7 @@ translate schinese_rewrite Chelforte_Discovery_14afba7d:
 translate schinese_rewrite Chelforte_Discovery_04137203:
 
     # "Conversation is sparse on your journey home, thoughts occupied by the events of last night, or plans to take down Uffe."
-    "回家的路上，你们交谈寥寥，心思都被昨夜发生的事，或是对付乌菲的计划占据。"
+    "回家的路上，你们交谈寥寥，心思都被昨夜发生的事，或是击垮乌菲的计划占据。"
 
 translate schinese_rewrite Chelforte_Discovery_1d31e0ee:
 
@@ -2231,7 +2231,7 @@ translate schinese_rewrite Chelforte_Vurro_698f37ff:
 translate schinese_rewrite Chelforte_Vurro_480bdadd:
 
     # "Vurro feels slightly... off."
-    "伏罗看起来有点……不对劲。"
+    "伏罗感觉有点……不对劲。"
 
 translate schinese_rewrite Chelforte_Vurro_82634624:
 
@@ -2606,7 +2606,7 @@ translate schinese_rewrite Chelforte_Cavern_Ore2_d9888168:
 translate schinese_rewrite Chelforte_Cavern_Ore2_57401d29:
 
     # "After a few long and grueling moments, you finally obtain a lodestone ore."
-    "经过一阵漫长而艰苦的努力，你终于获得了一块磁石。"
+    "经过一阵漫长而艰苦的努力，你终于获得了一块磁石矿。"
 
 translate schinese_rewrite Chelforte_Cavern_Ore2_8d7da241:
 
@@ -2856,7 +2856,7 @@ translate schinese_rewrite Cavern_Entrance_Loop_a20cefa7_7:
 translate schinese_rewrite Cavern_Entrance_Loop_983d4d28:
 
     # "You lost a piece of Herb of Grace, and the creature is still inside."
-    "你失去了一株圣恩草，那只生物还在里面。"
+    "你失去了一株芸香，那个生物还在里面。"
 
 translate schinese_rewrite Cavern_Entrance_Loop_2dd49d8c:
 

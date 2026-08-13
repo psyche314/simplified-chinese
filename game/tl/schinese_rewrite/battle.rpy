@@ -666,7 +666,7 @@ translate schinese_rewrite mossgolem_battle_loop_24bcc736:
 translate schinese_rewrite mossgolem_battle_loop_292fc3a5:
 
     # "It seems you've hit the golem critically, dealing [oa[4]] HP!"
-    "看来你对石魔像造成了暴击，造成[oa[4]]点伤害！"
+    "看来你对石魔像造成了暴击，打掉了[oa[4]]点生命值！"
 
 translate schinese_rewrite mossgolem_battle_loop_7c6f4f33:
 

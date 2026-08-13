@@ -166,7 +166,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_842cc3c7:
 translate schinese_rewrite Courier_Pickup_Dialogues_3768a982:
 
     # e "Oh? And the gold too?"
-    e "哦？还有金币？"
+    e "哦？还有金子？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_ae20fa71:
 
@@ -236,7 +236,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_8025984c:
 translate schinese_rewrite Courier_Pickup_Dialogues_8ca3a5d9:
 
     # r "Yes, I need you to take the order to the Lusterfolk. It's right over there."
-    r "有，我需要你把这份订单送到露斯特族人那里。就在那边。"
+    r "有，我需要你把这份订单送到卢斯特菲尔德人那里。就在那边。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_79bc9ac6:
 
@@ -316,12 +316,12 @@ translate schinese_rewrite Courier_Pickup_Dialogues_42c37222:
 translate schinese_rewrite Courier_Pickup_Dialogues_b15fbc6f:
 
     # e "Why not just make him the Mayor, then?"
-    e "那为什么不干脆让他当市长呢？"
+    e "那为什么不干脆让他当镇长呢？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_2f25c9c2:
 
     # hm "I don't know, I've heard stories from the elders that we don't talk about the last mayor anymore, they said after he died, all the candidates just... mysteriously died, in different ways."
-    hm "我也不知道。我听长老们讲过一些故事，他们说，我们已经不再提起上一任市长了。据说他死后，所有候选人都……以各种不同的方式神秘地死去了。"
+    hm "我也不知道。我听长老们讲过一些故事，他们说，我们已经不再提起上一任镇长了。他死后，所有候选人都……以各种方式神秘地死去了。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_b480cadc:
 
@@ -426,12 +426,12 @@ translate schinese_rewrite Courier_Pickup_Dialogues_9391e0e8:
 translate schinese_rewrite Courier_Pickup_Dialogues_828e2b70:
 
     # hm "Be careful and try not to prick your innards on the way there."
-    hm "小心点，路上可别让它扎进你的内脏。"
+    hm "小心点，路上可别让它刺穿你的内脏。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_5c50c14c:
 
     # "Haimo chuckles to himself as he hands you the weapon."
-    "海莫把武器递给你时，忍不住自顾自地笑了起来。"
+    "海莫把武器递给你，独自轻笑起来。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_013c543a:
 
@@ -476,7 +476,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_0e2d1843:
 translate schinese_rewrite Courier_Pickup_Dialogues_4fd39292:
 
     # hm "A mask, a staff, some antlers, with a hint of artistic liberty of course, that was how it all started."
-    hm "一副面具、一根手杖、几支鹿角，当然还带着一点艺术加工——一切就是这样开始的。"
+    hm "一副面具、一根法杖、几只鹿角，当然还带着一点艺术加工——一切就是这样开始的。"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_9ab91369:
 
@@ -596,7 +596,7 @@ translate schinese_rewrite Courier_Pickup_Dialogues_22a393b0:
 translate schinese_rewrite Courier_Pickup_Dialogues_002c93dd:
 
     # e "Officer, is there anything you need to send over the river?"
-    e "警官，你有什么东西要送到河对岸吗？"
+    e "长官，你有没有什么东西要送到河对岸？"
 
 translate schinese_rewrite Courier_Pickup_Dialogues_70a834b4:
 
@@ -631,7 +631,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_44b5802c:
 translate schinese_rewrite Courier_Delivery_Dialogues_a6ad8026:
 
     # e "Uhm, do you even read them?"
-    e "呃，你真的会看它们吗？"
+    e "呃，你真的会看这些信吗？"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_0cca2cbe:
 
@@ -931,7 +931,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_9de170f8:
 translate schinese_rewrite Courier_Delivery_Dialogues_297a7a05:
 
     # l "What the f- Ugh-"
-    l "搞什么——呃——"
+    l "搞什么鬼——呕——"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_b7609ca5:
 
@@ -951,7 +951,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_3f31ad72:
 translate schinese_rewrite Courier_Delivery_Dialogues_3ad8ae3e:
 
     # l "You better not be lying to me, I can smell your lies, [e]."
-    l "你最好别对我撒谎，我闻得出你的谎话，[e]。"
+    l "你最好没骗我，我闻得出你的谎言，[e]。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_d1b1e314:
 
@@ -1021,7 +1021,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_40de8b71:
 translate schinese_rewrite Courier_Delivery_Dialogues_cc8ac909:
 
     # k "Uh huh, it's... adequate. For what it's worth, my men will like the quality quite a bit."
-    k "嗯，是……还算合格。就这点来说，我的手下应该会很喜欢它的质量。"
+    k "嗯……还算过得去。话虽如此，我的手下会相当喜欢它的品质。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_6edacfd5:
 
@@ -1091,7 +1091,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_1c31b7cd:
 translate schinese_rewrite Courier_Delivery_Dialogues_09f78223:
 
     # g "Yes, my appraisal is... no don't let him know. I'll keep the stones safe. Just tell him to bring different rocks next time."
-    g "鉴定结果是……不，别让他知道。我会把这些石头保管好。就告诉他下次带些不同的石头来。"
+    g "嗯，我鉴定的结果是……不，别让他知道。我会把这些石头保管好。只要告诉他下次带些不同的石头来。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_e7d7c4b0:
 
@@ -1126,7 +1126,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_98b195bc:
 translate schinese_rewrite Courier_Delivery_Dialogues_985d288d:
 
     # hm "You mean, for the Lusterfolk, huh? Right, I'll make sure it gets to them. Thanks."
-    hm "你的意思是给露斯特族人的，对吧？好，我会确保它送到他们手里。谢谢。"
+    hm "你的意思是，给卢斯特菲尔德人的，对吧？行，我会确保它送到他们手里。谢谢。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_26b79c47:
 
@@ -1141,7 +1141,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_ee6061eb:
 translate schinese_rewrite Courier_Delivery_Dialogues_7aaeb5e4:
 
     # "You wait as the officer squints, leaning forward more and more."
-    "你等着警官眯起眼睛，不断向前探身。"
+    "你等着，只见那名长官眯起眼睛，身体越来越向前倾。"
 
 translate schinese_rewrite Courier_Delivery_Dialogues_fecea9b9:
 
@@ -1151,7 +1151,7 @@ translate schinese_rewrite Courier_Delivery_Dialogues_fecea9b9:
 translate schinese_rewrite Courier_Delivery_Dialogues_60022afb:
 
     # gof "Well, thanks, boy. I'll take it from here."
-    gof "好吧，谢谢你，小伙子。接下来交给我吧。"
+    gof "好吧，谢谢你，小子。接下来交给我吧。"
 
 translate schinese_rewrite Haimo_Dialogue_fe9738ee:
 
@@ -1216,7 +1216,7 @@ translate schinese_rewrite Haimo_Dialogue_025a6ea7:
 translate schinese_rewrite Haimo_Dialogue_928a8803:
 
     # hm "Good. Here's a few things you need to know before I let you go on your first delivery."
-    hm "很好。在让你去送第一件快递之前，有几件事你得知道。"
+    hm "很好。在我让你去送第一趟货之前，有几件事你得知道。"
 
 translate schinese_rewrite Haimo_Dialogue_84aa1175:
 
@@ -1266,7 +1266,7 @@ translate schinese_rewrite Haimo_Dialogue_5a42a644:
 translate schinese_rewrite Haimo_Dialogue_0e6929a3:
 
     # e "What if I need help with a delivery?"
-    e "如果我需要送货方面的帮助呢？"
+    e "如果我需要有人帮忙送货呢？"
 
 translate schinese_rewrite Haimo_Dialogue_9c980b78:
 
@@ -1381,7 +1381,7 @@ translate schinese_rewrite Haimo_Normal_Talk_1d15593d:
 translate schinese_rewrite Haimo_Normal_Talk_735d6610:
 
     # e "What's the deal with couriers?"
-    e "快递员是怎么回事？"
+    e "邮差到底是做什么的？"
 
 translate schinese_rewrite Haimo_Normal_Talk_59a4a582:
 
@@ -1416,7 +1416,7 @@ translate schinese_rewrite Haimo_Normal_Talk_a7564361:
 translate schinese_rewrite Haimo_Normal_Talk_5adea4fc:
 
     # hm "For this side of the mountains, we used to mainly run between the village and the goat tribe across the river. They had their own wagons for transport, but we were way faster for urgent deliveries."
-    hm "在山脉这一侧，我们过去主要往返于村庄和河对岸的山羊部落之间。他们有自己的运输车，但要送紧急快递，我们可比车快多了。"
+    hm "在山脉这一侧，我们过去主要往返于村子和河对岸的山羊部落之间。他们有自己的运输马车，但遇到紧急投递时，我们可比马车快多了。"
 
 translate schinese_rewrite Haimo_Normal_Talk_19fae5c5_1:
 
@@ -1476,7 +1476,7 @@ translate schinese_rewrite Haimo_Normal_Talk_f031fb1d:
 translate schinese_rewrite Haimo_Normal_Talk_0f4ea3ea:
 
     # hm "But the others, they can be quite challenging, we used to have our fair share of disagreements and compete for deliveries to earn our keep."
-    hm "不过其他快递员可不太好应付。我们过去经常意见不合，还会争抢快递来维持生计。"
+    hm "不过，其他快递员可不好对付。我们以前没少闹矛盾，还会为了争抢投递任务、养活自己而竞争。"
 
 translate schinese_rewrite Haimo_Normal_Talk_36c5a7ac:
 
@@ -1591,7 +1591,7 @@ translate schinese_rewrite Kechioeren_Courier_Office_ed32a1be:
 translate schinese_rewrite Kechioeren_Courier_Office_34499fff:
 
     # e "O-okay, officer."
-    e "好、好的，警官。"
+    e "好、好的，长官。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_253116b1:
 
@@ -1616,7 +1616,7 @@ translate schinese_rewrite Kechioeren_Courier_Office_5bece3c5:
 translate schinese_rewrite Kechioeren_Courier_Office_2633c40a:
 
     # "You enter the courier office again, the officer lies back on his wooden chair, reading something that looks like a letter with squinted eyes."
-    "你再次走进快递办公室，警官靠在木椅上，眯着眼睛读着一封看起来像是信的东西。"
+    "你再次走进信使办公室，只见那位长官靠坐在木椅上，眯着眼睛阅读一封看起来像是信的东西。"
 
 translate schinese_rewrite Kechioeren_Courier_Office_5e4f5c51:
 
@@ -1631,4 +1631,4 @@ translate schinese_rewrite Kechioeren_Officer_Dialogue_76913d00:
 translate schinese_rewrite Kechioeren_Officer_Dialogue_9d690da1:
 
     # gof "Alright, then."
-    gof "好吧。"
+    gof "好吧，那就这样。"

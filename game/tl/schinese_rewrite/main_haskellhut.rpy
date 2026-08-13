@@ -2106,7 +2106,7 @@ translate schinese_rewrite Haskell_Meet_Hut_d811d4a8:
 translate schinese_rewrite Haskell_Meet_Hut_f3d382fd:
 
     # e "30..."
-    e "30……"
+    e "30瓶……"
 
 translate schinese_rewrite Haskell_Meet_Hut_a3d8434a:
 
@@ -3346,7 +3346,7 @@ translate schinese_rewrite Haskell_Trinket_Quest_3bfe9e11:
 translate schinese_rewrite Haskell_Trinket_Quest_5b5c4d36:
 
     # "Haskell takes a long draught of tea."
-    "哈斯克尔长长地啜饮了一口茶。"
+    "哈斯克尔喝了一大口茶。"
 
 translate schinese_rewrite Haskell_Trinket_Quest_93c83689:
 

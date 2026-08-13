@@ -36,7 +36,7 @@ translate schinese_rewrite Cane_Dialogue_24681cce:
 translate schinese_rewrite Cane_Dialogue_129df83f:
 
     # e "Hmm... what did you do?"
-    e "嗯……你做了什么？"
+    e "嗯……你把他怎么了？"
 
 translate schinese_rewrite Cane_Dialogue_b7d99f15:
 
@@ -361,7 +361,7 @@ translate schinese_rewrite Cane_Work_7121ebe1:
 translate schinese_rewrite Cane_Work_774f4ade:
 
     # e "It looks pretty interesting, how is the wage here?"
-    e "看起来挺有意思的，这里的工钱怎么样？"
+    e "看起来挺有意思的，这里的工钱怎么算？"
 
 translate schinese_rewrite Cane_Work_a80432ec:
 
@@ -14346,7 +14346,7 @@ translate schinese_rewrite Lothar_Invasion_Quest_31a8bb4f:
 translate schinese_rewrite Lothar_Invasion_Quest_31157a0e:
 
     # e "But... uhh... the goats already tried to kill me, the huntsmen."
-    e "可是……呃……那些山羊猎人已经试过要杀我了。"
+    e "可是……呃……那些山羊的猎人已经试过要杀我了。"
 
 translate schinese_rewrite Lothar_Invasion_Quest_bb7723f2:
 
@@ -17566,7 +17566,7 @@ translate schinese_rewrite Patron1_Dialogue_47b644fa:
 translate schinese_rewrite Patron1_Dialogue_5b94ccd3:
 
     # e "Yeah. Arm wrestling, right? Who's winning here."
-    e "看到了。掰手腕，对吧？现在谁占上风？"
+    e "是掰手腕，对吧？现在谁占上风？"
 
 translate schinese_rewrite Patron1_Dialogue_e4157e46:
 

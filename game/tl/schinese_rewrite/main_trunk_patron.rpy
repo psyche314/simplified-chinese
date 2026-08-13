@@ -841,7 +841,7 @@ translate schinese_rewrite Trunk_Drunk_Dialogue_3a6c8246:
 translate schinese_rewrite Trunk_Drunk_Dialogue_8f3da3c2:
 
     # drunk_patron "Can you give... give me back the amulet? I... I... I need it back to earn more coins!"
-    drunk_patron "能……能把护符还给我吗？我……我……我得拿回它，才能赚到更多钱！"
+    drunk_patron "能...能把护符还给我吗？我...我...我得拿回它，才能赚更多金币！"
 
 translate schinese_rewrite Trunk_Drunk_Dialogue_58490ad2:
 

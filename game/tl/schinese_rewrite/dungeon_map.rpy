@@ -381,7 +381,7 @@ translate schinese_rewrite Puro_Watch_Post_Enter_91520260:
 translate schinese_rewrite Puro_Watch_Post_Enter_d0dfb8d5:
 
     # yu "Allfather, I should just go now, I don't want to waste any more time."
-    yu "长老，我现在就该走了，我不想再浪费时间。"
+    yu "大长老，我现在就该走了……"
 
 translate schinese_rewrite Puro_Watch_Post_Enter_2ee7d570:
 
@@ -471,7 +471,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_79852122:
 translate schinese_rewrite Puro_Watch_Post_Loop_fb824d49:
 
     # yu "Allfather, is this training enough?"
-    yu "长老，这训练够了吗？"
+    yu "大长老，这训练够了吗？"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_36c3b4a0:
 
@@ -561,7 +561,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_abe642f5:
 translate schinese_rewrite Puro_Watch_Post_Loop_6ef6aeaa:
 
     # yu "Allfather, it's really tall."
-    yu "长老，真高啊。"
+    yu "大长老，真高啊。"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_c9e56bbb:
 
@@ -576,7 +576,7 @@ translate schinese_rewrite Puro_Watch_Post_Loop_5e0f0942:
 translate schinese_rewrite Puro_Watch_Post_Loop_7f2a591e:
 
     # yu "Sorry! Allfather."
-    yu "对不起！长老。"
+    yu "对不起！大长老。"
 
 translate schinese_rewrite Puro_Watch_Post_Loop_861eb58d:
 
@@ -1081,7 +1081,7 @@ translate schinese_rewrite Damp_Cave_Shelf_63bd4eda:
 translate schinese_rewrite Damp_Cave_Shelf_e246719a:
 
     # e "A plain bandana uses 2 fabric and 1 strap..."
-    e "制作一条普通头巾需要2份布料和1条皮带……"
+    e "制作一条普通头巾需要2份布料和1条带子……"
 
 translate schinese_rewrite Damp_Cave_Shelf_e254de6d:
 

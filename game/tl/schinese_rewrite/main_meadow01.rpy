@@ -5921,7 +5921,7 @@ translate schinese_rewrite Ribba_Prop_Quest_Choosing_Devices_20b37710:
 translate schinese_rewrite Ribba_Prop_Quest_Choosing_Devices_6ee32f27:
 
     # rb "Well, not any part, I can't teleport your insides out. No, ha-... just kidding."
-    rb "呃，也不是任何部位，我可没法把你的内脏传送出来。哈……开玩笑的。"
+    rb "呃，也不是任何部位，我可没法把你的内脏传送出来。不，哈——……开玩笑的。"
 
 translate schinese_rewrite Ribba_Prop_Quest_Choosing_Devices_31343dc2:
 

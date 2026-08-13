@@ -426,7 +426,7 @@ translate schinese_rewrite goat_guard_battle_loop_fdf9de27:
 translate schinese_rewrite goat_guard_battle_loop_fb834191:
 
     # "You scrape your member lightly, running your claw from your inner thigh to the back of your balls, you tug at it tightly while staring at the goat seductively."
-    "你轻轻刮弄自己的阴茎，爪子从大腿内侧一路滑到睾丸后方，再紧紧地将它扯住，同时以诱人的目光盯着山羊。"
+    "你轻轻刮弄自己的阴茎，爪子从大腿内侧一路滑到睾丸后方，再紧紧地将它扯住，同时以诱人的目光盯着山羊士兵。"
 
 translate schinese_rewrite goat_guard_battle_loop_c7da2682:
 
@@ -776,7 +776,7 @@ translate schinese_rewrite goat_guard_battle_loop_9df6c842:
 translate schinese_rewrite goat_guard_battle_loop_96c66f8a:
 
     # "The second goat charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-    "第二只山羊冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
+    "第二名山羊卫兵冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_guard_battle_loop_ebe6c349:
 
@@ -796,7 +796,7 @@ translate schinese_rewrite goat_guard_battle_loop_99a4ba86:
 translate schinese_rewrite goat_guard_battle_loop_adabcc96:
 
     # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-    "第二只山羊在遮裆布上抓挠，又将两根手指横在胯间，当着你的面描摹着他阳具的轮廓。"
+    "第二名山羊卫兵在遮裆布上抓挠，又将两根手指横在胯间，当着你的面描摹着他阳具的轮廓。"
 
 translate schinese_rewrite goat_guard_battle_loop_39060b0b:
 
@@ -836,7 +836,7 @@ translate schinese_rewrite goat_guard_battle_loop_21bad776_1:
 translate schinese_rewrite goat_guard_battle_loop_adabcc96_1:
 
     # "The second goat scratches at his loincloth, he put two of his fingers across his crotch, tracing the shape of his cock in front of you."
-    "第二只山羊扯了扯遮裆布，将两根手指搭在胯间，当着你的面勾勒出他阳具的形状。"
+    "另一名山羊在遮裆布上抓挠，又将两根手指横在胯间，当着你的面描摹着他鸡巴的形状。"
 
 translate schinese_rewrite goat_guard_battle_loop_39060b0b_1:
 
@@ -1081,7 +1081,7 @@ translate schinese_rewrite goat_general_battle_loop_e94645e2:
 translate schinese_rewrite goat_general_battle_loop_bd1c1e3d:
 
     # "The General charges at you, hitting you with a kick to the chest. Your health decreases by [enemy_damage] HP."
-    "羊族将军冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
+    "山羊部落将军冲向你，一脚踢中你的胸口。你的生命值减少[enemy_damage]点。"
 
 translate schinese_rewrite goat_general_battle_loop_2c9f3312:
 
@@ -1351,7 +1351,7 @@ translate schinese_rewrite goat_general_win_5803ab9a:
 translate schinese_rewrite goat_general_win_047e8c3a:
 
     # e "I met one golem when I was exploring the river down there, but it got hostile and I had to put it down."
-    e "我在下面探索那条河时遇到过一尊苔藓魔像，但它变得敌对，我只好解决掉它。"
+    e "我在下面探索那条河时遇到过一尊魔像，但它变得敌对，我只好把它解决掉。"
 
 translate schinese_rewrite goat_general_win_2fa8ce7e:
 
@@ -1531,7 +1531,7 @@ translate schinese_rewrite goat_general_lose_3fe89f30:
 translate schinese_rewrite goat_general_lose_7eab1774:
 
     # e "From the river, I killed it."
-    e "我是在河里把它杀了的。"
+    e "在河边，我杀了它。"
 
 translate schinese_rewrite goat_general_lose_206c30d8:
 
@@ -1806,7 +1806,7 @@ translate schinese_rewrite lothar_battle_loop_5c706250:
 translate schinese_rewrite lothar_battle_loop_e29bcb4d:
 
     # l "Lucky h-hit. T-that... was nothing... Agh..."
-    l "运、运气好而已。这、这点对本大英雄……根本不算什么……啊……"
+    l "运、运气好而已。这、这根本不算什么……啊……"
 
 translate schinese_rewrite lothar_battle_loop_9d1a1918:
 
@@ -2111,7 +2111,7 @@ translate schinese_rewrite lothar_battle_lose_45e586ad:
 translate schinese_rewrite lothar_battle_lose_f581a057:
 
     # l "Some rest, heh well. Easiest 500 Gold I've got."
-    l "休息？呵，好啊。500金币真是我赚得最轻松的一笔。"
+    l "休息？呵，好啊。五百金币真是我赚得最轻松的一笔。"
 
 translate schinese_rewrite lothar_battle_lose_d86d9fac:
 
@@ -2156,7 +2156,7 @@ translate schinese_rewrite lothar_battle_lose_a6f697ab:
 translate schinese_rewrite lothar_battle_lose_f581a057_1:
 
     # l "Some rest, heh well. Easiest 500 Gold I've got."
-    l "休息？呵，好啊。500金币真是我赚得最轻松的一笔。"
+    l "休息？呵，好啊。五百金币真是我赚得最轻松的一笔。"
 
 translate schinese_rewrite lothar_battle_lose_d7a43461:
 

@@ -891,7 +891,7 @@ translate schinese_rewrite goatranger_battle_loop_4a801cc0_1:
 translate schinese_rewrite goatranger_battle_loop_5244986f_1:
 
     # gtr "You thristy? Surrender to me and maybe you'll have the best time of your life."
-    gtr "你不饥渴吗？向我投降吧，说不定你会度过人生中最美妙的时光。"
+    gtr "你饥渴了吗？向我投降吧，说不定你会度过人生中最美妙的时光。"
 
 translate schinese_rewrite goatranger_battle_loop_017c663f:
 
@@ -1071,7 +1071,7 @@ translate schinese_rewrite malignantslime_battle_loop_f93c263b:
 translate schinese_rewrite malignantslime_battle_loop_f47325dc:
 
     # "Instantly your mind is filled with sexual scenes, you can't shake that thought... that image of you being naked with everyone else. Your lust increased by [enemy_flirt]."
-    "顷刻间，淫靡的场景充斥你的脑海，你无法摆脱那个念头……那个你和所有人赤身裸体的画面。你的欲望增加了[enemy_flirt]点。"
+    "顷刻间，淫靡的场景充斥你的脑海，你无法摆脱那个念头……那个你和其他人一起赤身裸体的画面。你的欲望增加了[enemy_flirt]点。"
 
 translate schinese_rewrite malignantslime_win_c81dbf8a:
 
@@ -1526,7 +1526,7 @@ translate schinese_rewrite werewolf_tetto_battle_loop_c9e8bcae:
 translate schinese_rewrite werewolf_tetto_battle_loop_39dfd204:
 
     # "Tetto thrashes his claws at the werewolves, dealing [oa[4]] HP!"
-    "特托挥爪猛攻狼人们，造成[oa[4]]点伤害！"
+    "泰托挥爪猛攻狼人们，造成[oa[4]]点伤害！"
 
 translate schinese_rewrite werewolf_tetto_battle_loop_8e14f488:
 

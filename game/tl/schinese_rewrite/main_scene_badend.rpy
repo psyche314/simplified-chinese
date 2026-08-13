@@ -166,7 +166,7 @@ translate schinese_rewrite BadEnd_FeralLose_bfeb36ae:
 translate schinese_rewrite BadEnd_FeralLose_32a59a4b:
 
     # "You have already given up responding, perhaps all they can hear are the slapping and plopping noises of the feral's cock in and out of your hole."
-    "你已经放弃了回应，或许他们能听到的只有那头狂化狼人的肉棒进出你洞穴时拍打、噗嗤作响的声音。"
+    "你已经放弃了回应，或许他们能听到的只有那头狂化狼人的肉棒进出你后穴时拍打、噗嗤作响的声音。"
 
 translate schinese_rewrite BadEnd_FeralLose_716fadf4:
 

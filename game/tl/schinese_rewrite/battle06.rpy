@@ -991,7 +991,7 @@ translate schinese_rewrite spritebinder_battle_loop_7d4bd58a:
 translate schinese_rewrite spritebinder_battle_loop_37c5b80b:
 
     # "The spritebinder forms a fist stance, and punches you with each of his arms, your health decreases by [total_damage] HP."
-    "精灵缚者摆出拳势，八只手臂齐齐朝你挥拳，你的生命值减少[total_damage]点。"
+    "精灵缚者摆出拳势，挥动所有手臂向你出拳，你的生命值减少[total_damage]点。"
 
 translate schinese_rewrite spritebinder_battle_loop_65119793_1:
 
@@ -2581,7 +2581,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_4a6e8fe4:
 translate schinese_rewrite crypt_bearstatue_battle_loop_3d3e529d:
 
     # "Herd slips around the shield rim and cracks the Bulwark across an exposed joint, dealing [ally_damage] HP."
-    "赫德绕过盾牌边缘，猛击壁垒雕像暴露的关节，造成[ally_damage]点伤害。"
+    "赫德绕过盾牌边缘，猛击堡垒雕像暴露的关节，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_9006a6b9:
 
@@ -2631,7 +2631,7 @@ translate schinese_rewrite crypt_bearstatue_battle_loop_30679fb3:
 translate schinese_rewrite crypt_bearstatue_battle_loop_4c09024d:
 
     # "Herd batters the Bulwark's shield arm in a flurry of brutal strikes, dealing [ally_damage] HP."
-    "赫德一阵狂暴猛击，狠狠砸向壁垒雕像持盾的手臂，造成[ally_damage]点伤害。"
+    "赫德一阵猛击，狠狠砸向堡垒雕像持盾的手臂，造成[ally_damage]点伤害。"
 
 translate schinese_rewrite crypt_bearstatue_battle_loop_35cc4538:
 

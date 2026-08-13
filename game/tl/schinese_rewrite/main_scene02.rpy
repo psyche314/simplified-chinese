@@ -476,7 +476,7 @@ translate schinese_rewrite scene_mimiclose_c01728b5:
 translate schinese_rewrite scene_mimiclose_85d5dec7:
 
     # "SPPPPPPPLASSHHHH"
-    "哗啦——"
+    "噗——哗啦——"
 
 translate schinese_rewrite scene_mimiclose_424ecaca:
 
@@ -1291,7 +1291,7 @@ translate schinese_rewrite scene_minolose_b5f4b153:
 translate schinese_rewrite scene_minolose_9b15e7fd:
 
     # "The Minotaur doesn't care about your discomfort. It is only merely using you as a tool to release its tension."
-    "弥诺陶洛斯根本不在乎你的不适，它只是把你当作释放压力的工具。"
+    "弥诺陶洛斯根本不在乎你的不适，它只是把你当作释放欲望的工具。"
 
 translate schinese_rewrite scene_minolose_9e1d6e79:
 
@@ -2031,7 +2031,7 @@ translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_491d1266:
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_d16d9384:
 
     # "As Cane's liquid continues to drip out of Seb's vulnerable hole, Cane hugs Seb close."
-    "凯恩的液体仍在从塞布脆弱的穴里滴出，而凯恩则将他紧紧搂住。"
+    "凯恩的液体仍在从塞巴斯脆弱的穴里滴出，而凯恩则将他紧紧搂住。"
 
 translate schinese_rewrite Scene_Cane_Sebas_Tavern_Night_bb147946:
 

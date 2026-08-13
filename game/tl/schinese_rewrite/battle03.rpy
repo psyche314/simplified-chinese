@@ -286,7 +286,7 @@ translate schinese_rewrite battle_attack_script_dca0d60e:
 translate schinese_rewrite battle_attack_script_911caff7:
 
     # gnl "You swing, I dance!"
-    gnl "你挥动，我起舞！"
+    gnl "你出招，我起舞！"
 
 translate schinese_rewrite battle_attack_script_619312a4:
 
@@ -556,7 +556,7 @@ translate schinese_rewrite battle_attack_script_d1981cb3:
 translate schinese_rewrite battle_attack_script_c64232dd:
 
     # "You hold your fist, with all your might you throw a punch at the [target.name!t], as your blade grazes through the leaves and vines on [target.name!t], and a chunk of leaves falls off of him, casually."
-    "你握紧拳头，使尽全力朝[target.name!t]挥出一拳；你的拳头擦过[target.name!t]身上的枝叶和藤蔓，随意地削落一大块叶片。"
+    "你握紧拳头，使尽全力朝[target.name!t]挥出一拳；你的刀刃擦过[target.name!t]身上的枝叶和藤蔓，随意地削落一大块叶片。"
 
 translate schinese_rewrite battle_attack_script_3bb039f4:
 
@@ -726,7 +726,7 @@ translate schinese_rewrite battle_attack_script_d3d10638:
 translate schinese_rewrite battle_attack_script_ec2ed84a:
 
     # bearGuard "Arrgh! By Ookko's bless, I- I won't let you g-get away with this."
-    bearGuard "啊！奥科保佑，我、我不会让你就这么逃掉的。"
+    bearGuard "啊！奥科保佑，我、我不会让你就这么算了的。"
 
 translate schinese_rewrite battle_attack_script_c5074ad8:
 
@@ -926,7 +926,7 @@ translate schinese_rewrite battle_flirt_script_25da557a:
 translate schinese_rewrite battle_flirt_script_e8fc8231:
 
     # "You continue your act for about a minute, but the Rune Guardian doesn't even flinch."
-    "你继续自导自演了大约一分钟，但守护者连眼都没眨一下。"
+    "你继续表演了大约一分钟，但符文守护者连动都没动。"
 
 translate schinese_rewrite battle_flirt_script_4c1908a3:
 
@@ -1171,7 +1171,7 @@ translate schinese_rewrite battle_flirt_script_ec94cb21:
 translate schinese_rewrite battle_flirt_script_a3289262:
 
     # gnl "Mmmmmph... I sense a wild growth. Can't hold-"
-    gnl "呜呜……我感觉到一股野性的生长。快忍不住了——"
+    gnl "呜呜……我感觉到一股狂野的生长气息。快忍不住了——"
 
 translate schinese_rewrite battle_flirt_script_f7049853:
 
@@ -1236,7 +1236,7 @@ translate schinese_rewrite battle_escape_surrender_script_94977c72:
 translate schinese_rewrite battle_escape_surrender_script_c0ea3135:
 
     # "You slowly back down from the goat's attack, turn around, and run as fast as you can. Suddenly, you slip and fall on the trap he set up ealier. Your escape seems to have failed!"
-    "你慢慢退出山羊猎人的攻击范围，转身以最快速度逃跑。突然，你在他之前设下的陷阱上滑倒了。看来你逃跑失败了！"
+    "你慢慢退出山羊的攻击范围，转身以最快速度逃跑。突然，你在他之前设下的陷阱上滑倒了。看来你逃跑失败了！"
 
 translate schinese_rewrite battle_escape_surrender_script_4cd25dd1:
 
@@ -3251,7 +3251,7 @@ translate schinese_rewrite mino_battle_loop_6c4c87d5_1:
 translate schinese_rewrite mino_battle_loop_057bbe22:
 
     # "You throw your fist at the arm of the minotaur, your blade scraps against his fur."
-    "你朝弥诺陶洛斯的手臂挥出拳头，拳头擦过他的皮毛。"
+    "你朝弥诺陶洛斯的手臂挥出拳头，刀刃擦过他的皮毛。"
 
 translate schinese_rewrite mino_battle_loop_a03754cb_2:
 

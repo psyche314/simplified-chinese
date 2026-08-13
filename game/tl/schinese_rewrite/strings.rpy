@@ -439,7 +439,7 @@ translate schinese_rewrite strings:
     new "裂解冲击之书"
 
     old "Book of Tranquil Mend"
-    new "宁静疗愈之书"
+    new "宁静治愈之书"
 
     old "Bound"
     new "束缚"
@@ -925,7 +925,7 @@ translate schinese_rewrite strings:
     new "你感到全身平静，坚韧性得到增强。"
 
     old "Feral"
-    new "狂化狼人"
+    new "野性"
 
     old "Feral Werewolf"
     new "狂化狼人"
@@ -1690,7 +1690,7 @@ translate schinese_rewrite strings:
     new "拒绝伏罗"
 
     old "Remind me, the spritebinder, or refer it as the collective consciousness of eight spectral entities. These individuals, a rather inquisitive bunch, seemed to be quite the genius scholars, or whatever such pursuits are called on the other side, who somehow brought themselves to this land.\n\nThe incident is unlikely to repeat itself. As far as the land is concerned, no one aside from Chime has laid eyes on them. I suspect he followed me into the heart of the forest, where I first encountered these peculiar intruders. However, the actual event transpired within the crypt, and I made sure that no one could access there."
-    new "记住，精灵缚者——或者说，由八个幽灵实体组成的集体意识。这些家伙颇为好奇，似乎都是天才学者，或者说是在另一边从事类似研究的人，不知怎的来到了这片土地。\n\n这起事件不太可能重演。就这片土地而言，除了齐门，没有人见过它们。我怀疑他跟着我进入了森林深处，我就是在那里第一次遇到这些古怪的闯入者。不过，真正的事件发生在墓穴中，而且我确保没人能进入那里。"
+    new "记住，精灵缚师——或者说，由八个幽灵实体组成的集体意识。这些家伙颇为好奇，似乎都是天才学者，或者说是在另一边从事类似研究的人，不知怎的来到了这片土地。\n\n这起事件不太可能重演。就这片土地而言，除了齐门，没有人见过它们。我怀疑他跟着我进入了森林深处，我就是在那里第一次遇到这些古怪的闯入者。不过，真正的事件发生在墓穴中，而且我确保没人能进入那里。"
 
     old "Remove some rocks with Amble"
     new "和安布一起清理一些岩石"
@@ -3808,7 +3808,7 @@ translate schinese_rewrite strings:
     new "乌菲"
 
     old "Uffe asks me to get into the hiding place of a pair of werewolves who planned to escape the forest. I need to make a choice."
-    new "乌菲要我进入一对计划逃离森林的狼人的藏身处。我需要做出选择。"
+    new "乌菲要我潜入一对计划逃离森林的狼人的藏身处。我需要做出选择。"
 
     old "Uffe wants me to... kill a feral werewolf from the cave and take his rings. I should explore around the dark forest to find the cave."
     new "乌菲想让我……杀掉洞穴里的一只狂化狼人，并拿走他的戒指。我得在黑暗森林附近探索，找到那个洞穴。"
@@ -3976,7 +3976,7 @@ translate schinese_rewrite strings:
     new "当店主之前，你过着怎样的生活"
 
     old "What were you really up to?"
-    new "你到底在做什么？"
+    new "你以前到底是做什么的？"
 
     old "What's going on?"
     new "怎么回事？"
@@ -4462,7 +4462,7 @@ translate schinese_rewrite strings:
     new "{color=#000}向乔格学习技能{/color}"
 
     old "{color=#000}Losing in Feral Battle{/color}"
-    new "{color=#000}在狂化狼人战斗中落败{/color}"
+    new "{color=#000}在狂化战中落败{/color}"
 
     old "{color=#000}Losing in Goat Battle{/color}"
     new "{color=#000}在山羊战中落败{/color}"

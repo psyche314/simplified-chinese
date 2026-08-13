@@ -241,7 +241,7 @@ translate schinese_rewrite Puro_Beginning_Talk_3abd377e:
 translate schinese_rewrite Puro_Beginning_Talk_a0843e3c:
 
     # yu "Okay, allfather."
-    yu "好的，长老。"
+    yu "好的，大长老。"
 
 translate schinese_rewrite Puro_Beginning_Talk_df857b04:
 

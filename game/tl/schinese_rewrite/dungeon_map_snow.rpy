@@ -1366,7 +1366,7 @@ translate schinese_rewrite Chilly_Ice_Cave_Slushy_9feb9928:
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_21607c03:
 
     # d "Contact! Keep your footing, [e]!"
-    d "撞上了！站稳脚跟，[e]！"
+    d "接敌！站稳脚跟，[e]！"
 
 translate schinese_rewrite Chilly_Ice_Cave_Slushy_4ee0e47d:
 
@@ -1726,7 +1726,7 @@ translate schinese_rewrite Crypt_Herd_Meet_Alone_e58c7e7f:
 translate schinese_rewrite Crypt_Herd_Meet_Alone_b8bfa69f:
 
     # "Herd nods once, sharp and immediate. He sets the detector where you can reach it easily, then retreats back toward the wall to watch."
-    "赫德干脆利落地点了一下头。他把勘测铃放到你伸手就能拿到的地方，随后退回墙边，静静看着。"
+    "赫德干脆利落地点了一下头。他把测绘铃放到你伸手就能拿到的地方，随后退回墙边，静静看着。"
 
 translate schinese_rewrite Crypt_Herd_Meet_Alone_1b06b5c4:
 
@@ -2356,7 +2356,7 @@ translate schinese_rewrite Conquerors_Crypt_Loop_d1ea91b5:
 translate schinese_rewrite Conquerors_Crypt_Loop_8826c9f6:
 
     # "Resting on the table is a little surveying bell, neatly wired and weighted. Daggi picks it up, turns it once in his palm, then passes it to you."
-    "桌上放着一只小小的勘测铃，金属丝整齐缠绕其上，并配有配重。达吉拿起它，在掌中转了一圈，然后递给你。"
+    "桌上放着一只小小的测绘铃，铃身缠着整齐的金属丝，并配有配重。达吉拿起它，在掌中转了一圈，然后递给你。"
 
 translate schinese_rewrite Conquerors_Crypt_Loop_73531665:
 

@@ -271,7 +271,7 @@ translate schinese_rewrite main_lusterfield02_1db6d93e:
 translate schinese_rewrite main_rahimshop_9ba1f33d:
 
     # "A series of drawings scatters around the house, but you notice two distinctively different style in them, one looks like innocent doodles, while the others are almost exclusively detailed drawing of a young Rahim."
-    "房屋周围散落着一系列画作，但你注意到其中有两种截然不同的画风：一类看起来是天真的涂鸦，另一类几乎全都是对年幼雷希姆的细致描绘。"
+    "屋里散落着一系列画作，但你注意到其中有两种截然不同的画风：一类看起来是天真的涂鸦，另一类几乎全都是对年幼雷希姆的细致描绘。"
 
 translate schinese_rewrite main_rahimshop_56d3db03:
 
