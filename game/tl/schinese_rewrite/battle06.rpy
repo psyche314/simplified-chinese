@@ -871,22 +871,22 @@ translate schinese_rewrite vurro_spar_lose_4abadad3:
 translate schinese_rewrite spriteling_battle_7a79ee62:
 
     # "The small spriteling thrashes its ephereal claws about, but you doubt it deals any damage."
-    "小精灵挥舞着虚幻的爪子，但你觉得它应该造成不了什么伤害。"
+    "小幽魂挥舞着虚幻的爪子，但你觉得它应该造成不了什么伤害。"
 
 translate schinese_rewrite spriteling_battle_loop_634cb2bf:
 
     # "The spriteling wraps his spectral form around you, trying to bind you. Your health decreases by [enemy_damage] HP."
-    "小精灵用幽灵般的身躯缠住你，试图将你束缚。你的生命值减少了[enemy_damage]点。"
+    "小幽魂用幽灵般的身躯缠住你，试图将你束缚。你的生命值减少了[enemy_damage]点。"
 
 translate schinese_rewrite spriteling_battle_loop_fc52b4aa:
 
     # "The spriteling swings his spectral form around you, but you manage to dodge the attack."
-    "小精灵挥动着幽灵般的身躯朝你袭来，但你设法躲过了攻击。"
+    "小幽魂挥动着幽灵般的身躯朝你袭来，但你设法躲过了攻击。"
 
 translate schinese_rewrite spriteling_battle_loop_2e05915c:
 
     # "The ghostly creature raises its arm, and a gust of wind blows towards you."
-    "小精灵抬起手臂，一阵风朝你吹来。"
+    "小幽魂抬起手臂，一阵风朝你吹来。"
 
 translate schinese_rewrite spriteling_battle_loop_2b40a022:
 
@@ -901,32 +901,32 @@ translate schinese_rewrite spriteling_battle_loop_de0d3f8f:
 translate schinese_rewrite spriteling_win_fe785269:
 
     # "The whispy spriteling disperses into the air, leaving nothing but a faint scent of grass around."
-    "朦胧的小精灵消散在空气中，周围只留下一丝淡淡的青草气息。"
+    "朦胧的小幽魂消散在空气中，周围只留下一丝淡淡的青草气息。"
 
 translate schinese_rewrite spriteling_win_701c1fba:
 
     # "You feel a little bit of energy returning to you, as if the spriteling itself has given you a little bit of its own energy."
-    "你感觉有一丝能量回到了体内，仿佛小精灵本身将少许自身能量给了你。"
+    "你感觉有一丝能量回到了体内，仿佛小幽魂本身将少许自身能量给了你。"
 
 translate schinese_rewrite spriteling_win_712959e4:
 
     # "The whispy spriteling disperses into the air, leaving nothing but a faint scent of moss around."
-    "朦胧的小精灵消散在空气中，周围只留下一丝淡淡的苔藓气息。"
+    "朦胧的小幽魂消散在空气中，周围只留下一丝淡淡的苔藓气息。"
 
 translate schinese_rewrite spriteling_win_a92bd5c1:
 
     # "You feel a little bit of energy returning to you, as the speckles of the spriteling begin drifting around you."
-    "你感觉有些能量正在回归，小精灵的点点微光开始在你周围飘荡。"
+    "你感觉有些能量正在回归，小幽魂的点点微光开始在你周围飘荡。"
 
 translate schinese_rewrite spriteling_lose_891befeb:
 
     # "Unable to continue, you faint on the ground, and the spriteling disappears into the air."
-    "你再也支撑不住，昏倒在地，小精灵也消散在空气中。"
+    "你再也支撑不住，昏倒在地，小幽魂也消散在空气中。"
 
 translate schinese_rewrite spriteling_lose_891befeb_1:
 
     # "Unable to continue, you faint on the ground, and the spriteling disappears into the air."
-    "你再也支撑不住，昏倒在地，小精灵也消散在空气中。"
+    "你再也支撑不住，昏倒在地，小幽魂也消散在空气中。"
 
 translate schinese_rewrite spriteling_lose_de006fce:
 

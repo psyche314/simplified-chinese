@@ -366,8 +366,8 @@ PROJECT_GLOSSARY = (
     ),
     (
         "Spriteling",
-        "小精灵",
-        "与 Spritebinder 相关的小型光谱敌方实体名称；不要译成泛称“幽魂”。",
+        "小幽魂",
+        "与 Spritebinder 相关的小型光谱敌方实体名称；保持其幽灵般、飘浮并会消散的设定，不要译成“精灵”或泛称“幽魂”。",
     ),
     (
         "Methis",

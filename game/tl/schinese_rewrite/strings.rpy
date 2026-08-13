@@ -1906,7 +1906,7 @@ translate schinese_rewrite strings:
     new "缚灵者"
 
     old "Spriteling"
-    new "小精灵"
+    new "小幽魂"
 
     old "Stained Scroll"
     new "染污卷轴"

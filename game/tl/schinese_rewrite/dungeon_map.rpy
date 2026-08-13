@@ -281,12 +281,12 @@ translate schinese_rewrite Puro_Forest_Loop_b224f094:
 translate schinese_rewrite Puro_Forest_Spriteling_77faed7b:
 
     # "As you wander through the eerie forest, a soft glow materializes into a Spriteling."
-    "当你在这片诡异的森林中漫步时，一团柔和的光芒凝聚成了一个小精灵。"
+    "当你在这片诡异的森林中漫步时，一团柔和的光芒凝聚成了一个小幽魂。"
 
 translate schinese_rewrite Puro_Forest_Spriteling_6957c94d:
 
     # "You can feel the cold air around you, as the Spriteling's presence becomes more apparent."
-    "你感到周围的空气变得冰冷，小精灵的存在也愈发明显。"
+    "你感到周围的空气变得冰冷，小幽魂的存在也愈发明显。"
 
 translate schinese_rewrite Puro_Summoning_Spritebinder_2d966d51:
 
