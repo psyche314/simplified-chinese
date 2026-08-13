@@ -781,7 +781,7 @@ translate schinese_rewrite vurro_spar_win_3d1a590c:
 translate schinese_rewrite vurro_spar_win_0948ecbb:
 
     # "A few seconds have passed as you sit alongside Vurro, accompanied by a series of gasps and abrupt breathing."
-    "几秒过去了，你坐在伏罗身旁，陪着他的阵阵喘息和急促呼吸。"
+    "几秒钟过去了，你坐在伏罗身旁，耳边传来他阵阵的喘息与急促的呼吸声。"
 
 translate schinese_rewrite vurro_spar_win_0cf1201e:
 

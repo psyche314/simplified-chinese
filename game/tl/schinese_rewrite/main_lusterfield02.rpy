@@ -13906,7 +13906,7 @@ translate schinese_rewrite Lothar_Ask_Invasion_ed28b4e7:
 translate schinese_rewrite Lothar_Ask_Invasion_a986cb02:
 
     # e "And don't you blame me for having an intact, functional brain that can think for itself!"
-    e "别因为我有一颗完好、能独立思考的脑子，就把责任推给我！"
+    e "也别怪我长了个完好、能独立思考的脑子！"
 
 translate schinese_rewrite Lothar_Ask_Invasion_73f0fb90:
 

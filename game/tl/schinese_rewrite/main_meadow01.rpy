@@ -391,7 +391,7 @@ translate schinese_rewrite Pirkka_Ask_As_Bard_69ec3579:
 translate schinese_rewrite Pirkka_Ask_As_Bard_3a33211a:
 
     # p "And so, me friend, that's how this wanderin' soul found his place as a bard, a teller of tales and a weaver of dreams."
-    p "所以啊，我的朋友，这就是我这个漂泊的灵魂如何找到自己的归宿，成为一名讲述故事、编织梦想的吟游诗人。"
+    p "所以啊，我的朋友，我这个漂泊的灵魂就是这样找到了自己的归宿，成了一名讲故事、织梦的吟游诗人。"
 
 translate schinese_rewrite Pirkka_Ask_As_Bard_6230fad1:
 
@@ -1046,7 +1046,7 @@ translate schinese_rewrite Pirkka_Bandit_Quest_Report_2e48468d:
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_665702c0:
 
     # p "And I should find the prose with you, my friend."
-    p "而且，我也该和你一起找到那篇文章，我的朋友。"
+    p "而且，我也该和你一起找回那份文稿，我的朋友。"
 
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_9d337e58:
 
@@ -1096,7 +1096,7 @@ translate schinese_rewrite Pirkka_Bandit_Quest_Report_4f9a94fa:
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_fde23d67:
 
     # e "Was he the poet who wrote the prose we're looking for?"
-    e "他就是写下我们要找的那篇文章的诗人吗？"
+    e "他就是写下我们要找的那份文稿的诗人吗？"
 
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_68f0566b:
 
@@ -1211,12 +1211,12 @@ translate schinese_rewrite Pirkka_Bandit_Quest_Report_bd7a9095:
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_daa6c323:
 
     # p "Ha. I'm also looking for a lost prose, good sir. It was sold by a bandit, somewhere near, I reckon."
-    p "哈。我也在找一篇遗失的诗文，阁下。听说是被某个强盗在附近什么地方卖掉了。"
+    p "哈。我也在找一份遗失的文稿，阁下。听说是被某个强盗在附近什么地方卖掉了。"
 
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_29d04336:
 
     # c "Prose? I'm afraid I don't know anything about songs and such, ye shall go ask that cheeky little lion, over at King's Pawn, maybe he'll meet more buyers."
-    c "诗文？恕我不懂歌曲之类的东西。你去问问国王之兵那边那头调皮的小狮子吧，说不定他能遇到更多买家。"
+    c "文稿？恕我不懂歌曲之类的东西。你去问问国王之兵那边那头调皮的小狮子吧，说不定他能遇到更多买家。"
 
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_09bb513e:
 
@@ -1286,7 +1286,7 @@ translate schinese_rewrite Pirkka_Bandit_Quest_Report_23a9f7fa:
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_7ac8cbd4:
 
     # p "Please, if you can. Ask around the village to see where my prose ends up."
-    p "拜托了，如果你能帮忙的话，去村里打听一下，看看我的诗文最后落到了哪里。"
+    p "拜托了，如果你能帮忙的话，去村里打听一下，看看我的文稿最后落到了哪里。"
 
 translate schinese_rewrite Pirkka_Bandit_Quest_Report_a586c9e6:
 
@@ -1311,7 +1311,7 @@ translate schinese_rewrite Pirkka_Show_4e1d0976:
 translate schinese_rewrite Pirkka_Show_0f91ffa7:
 
     # p "Yes, yes. I did recall promising a certain red dragon fellow with a personal performance of the ancient prose."
-    p "对，对。我想起来了，我曾答应过某位红龙先生，为他单独表演那篇古老的诗文。"
+    p "对，对。我想起来了，我曾答应过某位红龙先生，为他单独表演那篇古老的文稿。"
 
 translate schinese_rewrite Pirkka_Show_262c194b:
 
@@ -1326,7 +1326,7 @@ translate schinese_rewrite Pirkka_Show_05db5760:
 translate schinese_rewrite Pirkka_Show_612c8c11:
 
     # p "Call it, an invitation to a magical journey. And my gratitude for your perseverence to locate this precious prose." nointeract
-    p "就把它称作一场魔幻旅程的邀请吧，也聊表我对你费心找回这篇珍贵诗文的感激。"
+    p "就把它称作一场魔幻旅程的邀请吧，也聊表我对你费心找回这份珍贵文稿的感激。"
 
 translate schinese_rewrite Pirkka_Show_d6367fff:
 
@@ -1351,7 +1351,7 @@ translate schinese_rewrite Pirkka_Show_98a98f69:
 translate schinese_rewrite Pirkka_Show_0ebba9bc:
 
     # "In the room, it was filled with papers and books, some notes left on the table as you noticed the returned prose still presented on top of the pile of books."
-    "房间里堆满了纸张和书籍，桌上还留着几张便笺；你注意到，那篇归还的诗文仍然放在书堆最上方。"
+    "房间里堆满了纸张和书籍，桌上还留着几张便笺；你注意到，那份归还的文稿仍然放在书堆最上方。"
 
 translate schinese_rewrite Pirkka_Show_a90ee7b5:
 
@@ -1376,7 +1376,7 @@ translate schinese_rewrite Pirkka_Show_b37d208e:
 translate schinese_rewrite Pirkka_Show_96146291:
 
     # p "You offered me a second chance at my prose, and in return..."
-    p "你让我有机会重新面对自己的诗文，而作为回报……"
+    p "你让我有机会重新拿回自己的文稿，而作为回报……"
 
 translate schinese_rewrite Pirkka_Show_4b5fb646:
 
@@ -1396,7 +1396,7 @@ translate schinese_rewrite Pirkka_Show_4421b254:
 translate schinese_rewrite Pirkka_Show_50778846:
 
     # p "I shall sing you the prose you've recovered for me."
-    p "我要把你替我找回的诗文唱给你听。"
+    p "我要把你替我找回的诗篇唱给你听。"
 
 translate schinese_rewrite Pirkka_Show_f399288c:
 
@@ -2461,12 +2461,12 @@ translate schinese_rewrite Rahim_Prose_Ask_c34f50c3:
 translate schinese_rewrite Rahim_Prose_Ask_df3dc88c:
 
     # r "I don't have the prose."
-    r "我没有那份散文稿。"
+    r "我没有那份文稿。"
 
 translate schinese_rewrite Rahim_Prose_Ask_808e2878:
 
     # e "Uhm... do you know about any other people with a prose?"
-    e "呃……你还知道有谁手里有散文稿吗？"
+    e "呃……你还知道有谁手里有文稿吗？"
 
 translate schinese_rewrite Rahim_Prose_Ask_812afdf7:
 
@@ -2491,7 +2491,7 @@ translate schinese_rewrite Rahim_Prose_Ask_23f57c1f:
 translate schinese_rewrite Amble_Prose_Ask_50030f6e:
 
     # e "Hey, Amble, have you seen a prose? Or anyone that's interested in poems and ballads?"
-    e "嘿，安布，你见过散文稿吗？或者认识对诗歌和民谣感兴趣的人吗？"
+    e "嘿，安布，你见过文稿吗？或者认识对诗歌和民谣感兴趣的人吗？"
 
 translate schinese_rewrite Amble_Prose_Ask_d1dfa7a3:
 
@@ -2566,12 +2566,12 @@ translate schinese_rewrite Amble_Prose_Ask_2d2e7bc5:
 translate schinese_rewrite Ole_Prose_Ask_bf210b69:
 
     # e "Ole, have you seen a prose?"
-    e "奥利，你见过散文稿吗？"
+    e "奥利，你见过文稿吗？"
 
 translate schinese_rewrite Ole_Prose_Ask_8a2080e6:
 
     # o "Uhm... prose?"
-    o "呃……散文？"
+    o "呃……文稿？"
 
 translate schinese_rewrite Ole_Prose_Ask_4c8cad40:
 
@@ -2716,7 +2716,7 @@ translate schinese_rewrite Ole_Prose_Ask_9d2f2d12:
 translate schinese_rewrite Ole_Prose_Ask_0995d6b5:
 
     # o "The prose should go back to its owner."
-    o "这篇文章该物归原主了。"
+    o "这份文稿该物归原主了。"
 
 translate schinese_rewrite Ole_Prose_Ask_b052b2b3:
 
@@ -3906,7 +3906,7 @@ translate schinese_rewrite Bandit_Recruit_Shark_050072d0:
 translate schinese_rewrite Bandit_Recruit_Shark_8e1f59ef:
 
     # sbd "But they do scare off a few of those pesky local heroes trying to prove their worth."
-    sbd "不过，它们确实能吓跑几个那些烦人的、想证明自己本事的本地英雄。"
+    sbd "不过，它们确实能吓跑几个烦人的本地英雄——那些人总想证明自己的本事。"
 
 translate schinese_rewrite Bandit_Recruit_Shark_45c3dd6f:
 

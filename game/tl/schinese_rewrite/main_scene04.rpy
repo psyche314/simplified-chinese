@@ -4271,7 +4271,7 @@ translate schinese_rewrite scene_gnoll_win_top_62b4b036:
 translate schinese_rewrite scene_gnoll_win_top_68f55a0f:
 
     # "You chuckle loudly just as his face returned to the previous state as his eyes roll backwards, totally forgetting whatever you were talking about."
-    "你大声轻笑起来，而他的表情也恢复了之前的模样，双眼向后翻去，彻底忘了你们刚才在说什么。"
+    "你笑出声来时，他的表情也恢复了之前的模样，双眼翻白，彻底忘了你们刚才在说什么。"
 
 translate schinese_rewrite scene_gnoll_win_top_bd17dc53:
 
@@ -12031,7 +12031,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_e0adff5d:
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_22d483c1:
 
     # "You gasp between moans, tears streaming down your face."
-    "你在呻吟声间喘息，泪水顺着脸颊不断淌下。"
+    "你在呻吟中喘息，泪水顺着脸颊不断淌下。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_6944aac2:
 
@@ -12086,7 +12086,7 @@ translate schinese_rewrite Scene_Magic_Show_Growth_Potion_321297bb:
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_ab91eeb0:
 
     # "He bellows, slamming into you one final time. His hot seed erupts from the tip of his cock, shooting deep into your guts with powerful spurts."
-    "他咆哮着最后一次撞入你体内。灼热的精液从他的龟头喷涌而出，强劲地一股股射进你的肠腹深处。"
+    "他咆哮着最后一次撞入你体内。灼热的精液从他的龟头喷涌而出，一股接一股地射入你体内深处。"
 
 translate schinese_rewrite Scene_Magic_Show_Growth_Potion_0c30c6a5:
 
@@ -14421,7 +14421,7 @@ translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_02_ac2cc45f:
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_02_2dc58e02:
 
     # "His voice breaks into loud, desperate cries and whimpers."
-    "他的声音破碎成响亮而绝望的哭喊与呜咽。"
+    "他发出响亮而绝望的哭喊与呜咽。"
 
 translate schinese_rewrite Scene_Ribba_Present_Dildo_Fast_02_794e4023:
 
@@ -15246,7 +15246,7 @@ translate schinese_rewrite Scene_Ribba_Masturbate_03_25626a54:
 translate schinese_rewrite Scene_Ribba_Masturbate_03_331bfda8:
 
     # "Soft, needy sounds spill from his lips with every pass."
-    "每次抚弄间，柔软而渴求的声音都从他唇间溢出。"
+    "每次抚弄，他唇间都会溢出轻柔而充满渴求的声音。"
 
 translate schinese_rewrite Scene_Ribba_Masturbate_03_06c3f544:
 

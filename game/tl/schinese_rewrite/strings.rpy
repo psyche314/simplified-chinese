@@ -331,7 +331,7 @@ translate schinese_rewrite strings:
     new "询问奥科"
 
     old "Ask about Pirkka's Prose"
-    new "询问皮尔卡的散文"
+    new "询问皮尔卡的文稿"
 
     old "Ask about Rahim's Request"
     new "询问雷希姆的请求"
@@ -373,7 +373,7 @@ translate schinese_rewrite strings:
     new "询问卢斯特菲尔德的人们"
 
     old "Ask around Lusterfield to find the prose' buyer."
-    new "在卢斯特菲尔德打听散文买家。"
+    new "在卢斯特菲尔德打听那份文稿的买家。"
 
     old "Ask for a small Talk with Lothar"
     new "请求和洛萨尔聊几句"
@@ -901,7 +901,7 @@ translate schinese_rewrite strings:
     new "输入密码："
 
     old "Enter the bandit's hideout and sneak pass the bandits to find clues about Pirkka's prose."
-    new "进入盗贼藏身处，偷偷绕过盗贼，寻找有关皮尔卡文章的线索。"
+    new "进入盗贼藏身处，偷偷绕过盗贼，寻找有关皮尔卡文稿的线索。"
 
     old "Enter the door"
     new "进入那扇门"
@@ -4840,7 +4840,7 @@ translate schinese_rewrite strings:
     new "猎人亲手雕制的特制弓，最适合快速移动和瞄准。"
 
     old "A stranger in the plains lost his Lute to a group of bandits, Pirkka asks me to retrieve his favourite prose for him."
-    new "平原上的一名陌生人被一伙强盗夺走了他的鲁特琴，皮尔卡让我替他取回最喜欢的散文。"
+    new "平原上的一名陌生人被一伙强盗夺走了他的鲁特琴，皮尔卡让我替他取回最喜欢的文稿。"
 
     old "A stylish headwear, popularised by the academics of the capital."
     new "一种时髦的头饰，由首都的学者们推广开来。"
@@ -5152,7 +5152,7 @@ translate schinese_rewrite strings:
     new "询问下一次品尝会"
 
     old "Ask about him as a goat"
-    new "询问他作为山羊的事情"
+    new "询问他的山羊身份"
 
     old "Ask about him being a hero"
     new "询问他成为英雄的事情"

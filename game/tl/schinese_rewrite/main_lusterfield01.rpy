@@ -13961,7 +13961,7 @@ translate schinese_rewrite Rahim_Yarn_Quest_01_04669fb6:
 translate schinese_rewrite Rahim_Yarn_Quest_01_4da23814:
 
     # e "Hehe, well... I want to think you can trust me not to betray you like that."
-    e "我希望你能相信我不会那样背叛你。"
+    e "呵呵，好吧……我想，你可以相信我不会那样背叛你。"
 
 translate schinese_rewrite Rahim_Yarn_Quest_01_8e02631b:
 
@@ -19876,7 +19876,7 @@ translate schinese_rewrite Ole_Voting_Opinion_0c65b962:
 translate schinese_rewrite Ole_Voting_Opinion_8b8ac6f4:
 
     # o "That's not true, even if we're counting Pirkka's prose."
-    o "那不对，就算把皮尔卡的文章也算进去。"
+    o "那不对，就算把皮尔卡的文稿也算进去。"
 
 translate schinese_rewrite Ole_Voting_Opinion_7bdf329b:
 
@@ -20236,7 +20236,7 @@ translate schinese_rewrite Ole_Voting_Got_Gwyd_Answer_cdc41e09:
 translate schinese_rewrite Ole_Voting_Got_Gwyd_Answer_4f4a37ab:
 
     # o "Ah! You're right, [e]. Well, after what happened with his prose, I hadn't even given him a proper apology."
-    o "啊！你说得对，[e]。说起来，之前他的散文出了那档子事，我甚至还没好好向他道歉。"
+    o "啊！你说得对，[e]。说起来，之前他的文稿出了那档子事，我甚至还没好好向他道歉。"
 
 translate schinese_rewrite Ole_Voting_Got_Gwyd_Answer_f6ace32b:
 
